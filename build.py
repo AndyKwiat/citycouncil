@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """Render raw/<date>/ into the static site under site/."""
 import collections, datetime as dt, html, itertools, json, math, pathlib, re, shutil
+import analysis
 import pipeline as p
 
 e = html.escape
 BASE = p.BASE
 
 CSS = """
-:root{color-scheme:light dark;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
+:root{color-scheme:light dark;--g0:#2a78d6;--g1:#eb6834;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
 --accent:#1f5f4a;--accent-soft:#e3eee8;--warn:#8a4b12;--warn-soft:#f6ead9;--mark:#fdf3c9;
 --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
 --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-@media (prefers-color-scheme:dark){:root{--bg:#141815;--panel:#1b201c;--ink:#e7e9e3;--muted:#99a398;--line:#303730;
+@media (prefers-color-scheme:dark){:root{--g0:#3987e5;--g1:#d95926;--bg:#141815;--panel:#1b201c;--ink:#e7e9e3;--muted:#99a398;--line:#303730;
 --accent:#7cc7a8;--accent-soft:#1f3029;--warn:#e0a868;--warn-soft:#33281b;--mark:#3a3518}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
@@ -79,16 +80,15 @@ footer{margin-top:30px;color:var(--muted);font-size:13.5px}
 .cn-chart.sel .e{opacity:.04!important}.cn-chart.sel .e.on{opacity:.85!important}
 .cn-chart.sel .hit{pointer-events:none}.cn-chart.sel .hit.on{pointer-events:stroke}
 .cn-node{cursor:pointer;outline:none}.cn-node .pad{fill:transparent}
-.cn-node .dot{fill:var(--ink);stroke:var(--bg);stroke-width:3}
-.cn-node text{fill:var(--ink);font:600 18px var(--sans)}
+.cn-node .dot{fill:var(--panel);stroke:var(--line);stroke-width:3}
+.cn-node text{fill:var(--ink);font:600 17px var(--sans)}
 .cn-chart.sel .cn-node:not(.on):not(.near) text{fill:var(--muted);font-weight:400}
-.cn-node.on .dot{fill:var(--accent)}
-.cn-node:focus-visible .dot{stroke:var(--accent);stroke-width:4}
+.cn-node.on .dot,.cn-node.near .dot,.cn-node:focus-visible .dot{stroke:var(--accent);stroke-width:5}
 .cn-legend{display:flex;flex-wrap:wrap;gap:6px 20px;align-items:center;justify-content:center;color:var(--muted);font-size:13.5px;margin:4px 0 20px}
 .cn-legend span{display:inline-flex;align-items:center;gap:7px;font-variant-numeric:tabular-nums}
 .cn-legend i{display:inline-block;width:34px;background:var(--accent);border-radius:9px}
 .cn-panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px 18px;min-height:200px}
-.cn-panel[hidden]{display:none}.cn-panel h2{font:600 20px/1.3 var(--serif);margin:0 0 2px}
+.cn-panel[hidden]{display:none}.cn-panel h2{font:600 20px/1.3 var(--serif);margin:0 0 2px}.cn-who{display:flex;gap:12px;align-items:center;margin-bottom:12px}.cn-who img{width:48px;height:48px;border-radius:50%;flex:none}.cn-who .hint{margin:0}
 .cn-panel h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 8px;font-weight:600}
 .cn-panel .hint{color:var(--muted);font-size:14px;margin:0 0 12px}
 .cn-cols{display:grid;grid-template-columns:1fr 1fr;gap:18px 28px}
@@ -97,7 +97,19 @@ footer{margin-top:30px;color:var(--muted);font-size:13.5px}
 .cn-row .num{color:var(--muted);text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;font-size:13.5px}
 .cn-bar{height:6px;background:var(--line);border-radius:4px;overflow:hidden}.cn-bar b{display:block;height:100%;background:var(--accent);border-radius:4px}
 #cntip{position:fixed;z-index:10;pointer-events:none;max-width:280px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 28px rgba(0,0,0,.2);padding:7px 11px;font-size:14px;line-height:1.4}
-#cntip[hidden]{display:none}#cntip span{color:var(--muted);display:block;font-size:13px}
+#cntip[hidden]{display:none}#cntip span{color:var(--muted);display:block;font-size:13px}#cntip.face{display:grid;grid-template-columns:40px 1fr;gap:0 10px;align-items:center}#cntip img{width:40px;height:40px;border-radius:50%;grid-row:span 2}
+h2.sec{font:600 28px/1.2 var(--serif);margin:44px 0 8px}
+.cn-map{display:block;width:100%;height:auto;background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-top:16px}
+.cn-map .pt{cursor:pointer;outline:none}.cn-map .ring{fill:var(--panel);stroke-width:4}.cn-map .g0 .ring{stroke:var(--g0)}.cn-map .g1 .ring{stroke:var(--g1)}.cn-map .gx .ring{stroke:var(--muted)}
+.cn-map .pt.on .ring,.cn-map .pt:focus-visible .ring{stroke-width:7}
+.cn-map .sur{fill:var(--muted);font:400 12px var(--sans)}.cn-map .pt.on .sur{fill:var(--ink)}
+.cn-map text{fill:var(--ink);font:600 19px var(--sans)}.cn-map .scale text{fill:var(--muted);font-weight:400;font-size:15px}.cn-map .scale line{stroke:var(--muted);stroke-width:2}
+.cn-groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:12px}
+.cn-group{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.cn-group h3{display:flex;align-items:center;gap:8px;font-size:15px;margin:0 0 2px;font-weight:600}
+.cn-group h3 i{width:13px;height:13px;border-radius:50%;flex:none}.cn-group h3 i.g0{background:var(--g0)}.cn-group h3 i.g1{background:var(--g1)}.cn-group h3 i.gx{border:3px solid var(--muted)}
+.cn-group p{color:var(--muted);font-size:13.5px;line-height:1.45;margin:0 0 8px}
+.cn-chip{display:flex;align-items:center;gap:8px;font-size:14.5px;padding:3px 4px;border-radius:6px}.cn-chip:hover{background:var(--accent-soft)}.cn-chip img{width:26px;height:26px;border-radius:50%;flex:none}
 details.more{margin-top:14px;background:var(--panel);border:1px solid var(--line);border-radius:10px}
 details.more>summary{display:block;font-weight:600;padding:12px 18px}
 details.more>summary:hover{color:var(--accent)}.more .in{padding:0 18px 16px}
@@ -109,7 +121,7 @@ table.cn td{width:30px;min-width:30px;height:28px;text-align:center;border:2px s
 table.cn td.self{background:var(--line)}
 .cn-vote{display:grid;grid-template-columns:96px minmax(0,1fr) auto;gap:10px;padding:7px 0;border-top:1px solid var(--line);font-size:14.5px;align-items:baseline}
 .cn-vote:first-child{border-top:0}.cn-vote .when{color:var(--muted);font-size:13.5px}
-@media (max-width:560px){.cn-cols{grid-template-columns:1fr}.cn-node text{font-size:30px}.cn-node .pre{display:none}
+@media (max-width:560px){.cn-cols{grid-template-columns:1fr}.cn-node text{font-size:27px}.cn-map text{font-size:30px}.cn-map .scale text{font-size:24px}.cn-map .sur{font-size:19px}h2.sec{font-size:24px}
 .cn-vote{grid-template-columns:minmax(0,1fr) auto}.cn-vote .when{grid-column:1/3}
 summary{grid-template-columns:1fr 18px;gap:6px 10px;padding:16px}
 .date{grid-column:1/2}.date .d,.date .y,.date .t{display:inline;font-size:14px;font-family:var(--sans);font-weight:500;color:var(--muted);margin-right:4px}
@@ -168,7 +180,7 @@ function single(hit){
 }
 function clearNear(){nodes.forEach(function(n){n.classList.remove('near')})}
 function showTip(hit,ev){
- tip.textContent='';var b=document.createElement('b');b.textContent=hit.dataset.a+' & '+hit.dataset.b;
+ tip.textContent='';tip.className='';var b=document.createElement('b');b.textContent=hit.dataset.label;
  var sp=document.createElement('span');sp.textContent=hit.dataset.text;tip.appendChild(b);tip.appendChild(sp);tip.hidden=false;
  var x=Math.max(8,Math.min(ev.clientX+14,innerWidth-tip.offsetWidth-8)),y=ev.clientY-tip.offsetHeight-12;if(y<8)y=ev.clientY+16;
  tip.style.left=x+'px';tip.style.top=y+'px';}
@@ -189,6 +201,28 @@ hits.forEach(function(h){
 });
 document.addEventListener('click',function(ev){if(ev.target.closest&&ev.target.closest('.cn-chart')&&ev.target!==svg)return;tip.hidden=true;if(pinned){pinned=null;pick(null)}else rest()});
 document.addEventListener('keydown',function(ev){if(ev.key==='Escape'){pinned=null;rest()}});
+})();
+(function(){
+var map=document.querySelector('.cn-map');if(!map)return;
+var pts=[].slice.call(map.querySelectorAll('.pt')),tip=document.getElementById('cntip'),current=null;
+function show(pt){
+ if(current&&current!==pt)current.classList.remove('on');current=pt;pt.classList.add('on');
+ tip.textContent='';tip.className='face';var d=pt.dataset;
+ if(d.img){var i=document.createElement('img');i.src=d.img;i.alt='';tip.appendChild(i)}
+ var b=document.createElement('b');b.textContent=d.full;var s=document.createElement('span');s.textContent=d.text;tip.appendChild(b);tip.appendChild(s);tip.hidden=false;
+ var r=pt.querySelector('.ring').getBoundingClientRect(),x=Math.max(8,Math.min(r.right+10,innerWidth-tip.offsetWidth-8)),y=r.top-tip.offsetHeight-8;if(y<8)y=r.bottom+8;
+ tip.style.left=x+'px';tip.style.top=y+'px';}
+function hide(){if(current)current.classList.remove('on');current=null;tip.hidden=true}
+function nearest(ev){var m=map.getScreenCTM().inverse(),x=ev.clientX*m.a+m.e,y=ev.clientY*m.d+m.f,best=null,bd=48*48;
+ pts.forEach(function(p){var dx=+p.dataset.x-x,dy=+p.dataset.y-y,d=dx*dx+dy*dy;if(d<bd){bd=d;best=p}});return best}
+map.addEventListener('mousemove',function(ev){var p=nearest(ev);if(p)show(p);else hide()});
+map.addEventListener('mouseleave',hide);
+map.addEventListener('click',function(ev){var p=nearest(ev);ev.stopPropagation();if(p)show(p);else hide()});
+pts.forEach(function(p){p.addEventListener('focus',function(){show(p)});p.addEventListener('blur',hide)});
+[].forEach.call(document.querySelectorAll('.cn-chip'),function(c){var p=map.querySelector('.pt[data-name="'+c.dataset.name+'"]');
+ c.addEventListener('mouseenter',function(){show(p)});c.addEventListener('mouseleave',hide)});
+document.addEventListener('click',function(ev){if(!(ev.target.closest&&ev.target.closest('.cn-map')))hide()});
+document.addEventListener('keydown',function(ev){if(ev.key==='Escape')hide()});
 })();
 """
 
@@ -364,16 +398,117 @@ def circle_order(names, agreed):
     return order[top:] + order[:top]
 
 
+def build_map(votes, full, photo, ward):
+    """The 2D map of voting groups, with its legend cards and method note."""
+    if len({n for v in votes for n in v["for"] + v["against"]}) < 5:
+        return ""
+    c = analysis.clusters(votes)
+    p.write_json(p.ROOT / "votes" / "clusters.json", c)
+    W, pad = 900, 84
+    xs, ys = [m["x"] for m in c["members"].values()], [m["y"] for m in c["members"].values()]
+    scale = (W - 2 * pad) / (max(xs) - min(xs))
+    H = round((max(ys) - min(ys)) * scale + 2 * pad + 50)
+    at = {n: [pad + (m["x"] - min(xs)) * scale, pad + 20 + (m["y"] - min(ys)) * scale] for n, m in c["members"].items()}
+    # Display only: people with identical records would hide each other, so ease them apart.
+    face = 24
+    gap = 2 * face + 6
+    for _ in range(200):
+        for a, b in itertools.combinations(sorted(at), 2):
+            dx, dy = at[b][0] - at[a][0], at[b][1] - at[a][1]
+            d = math.hypot(dx, dy)
+            if d < gap:
+                ux, uy = (dx / d, dy / d) if d else (0.0, 1.0)
+                push = (gap - d) / 2
+                at[a][0] -= ux * push; at[a][1] -= uy * push
+                at[b][0] += ux * push; at[b][1] += uy * push
+    colour = {g: f"g{i}" if i < 2 else "gx" for i, g in enumerate(c["groups"])}
+    points, labels, taken = "", "", []
+    for n, m in c["members"].items():
+        g = m["group"]
+        place_text = f"Group {g}" if g else "Between the groups"
+        text = f"{ward(n)}. {place_text}".lstrip(". ")
+        img = f' data-img="{e(photo(n), quote=True)}"' if photo(n) else ""
+        x, y = at[n]
+        image = f'<image href="{e(photo(n), quote=True)}" x="{x - face:.1f}" y="{y - face:.1f}" width="{2 * face}" height="{2 * face}" clip-path="url(#cn-face)"/>' if photo(n) else ""
+        surname = full(n).rsplit(" ", 1)[-1]
+        width = len(surname) * 11  # sized for the larger text used on phones
+        # Try each side of the portrait and take the first that clears everyone else.
+        for lx, ly, anchor in ((x + face + 6, y + 4, "start"), (x - face - 6, y + 4, "end"), (x, y + face + 15, "middle"), (x, y - face - 7, "middle")):
+            left = lx if anchor == "start" else lx - width if anchor == "end" else lx - width / 2
+            box = (left, ly - 16, left + width, ly + 5)
+            faces_clear = all(box[2] < at[o][0] - face or box[0] > at[o][0] + face or box[3] < at[o][1] - face or box[1] > at[o][1] + face for o in at if o != n)
+            labels_clear = all(box[2] < t[0] or box[0] > t[2] or box[3] < t[1] or box[1] > t[3] for t in taken)
+            if faces_clear and labels_clear and box[0] > 4 and box[2] < W - 4:
+                break
+        taken.append(box)
+        points += (f'<g class="pt {colour[g] if g else "gx"}" tabindex="0" role="img" data-x="{x:.1f}" data-y="{y:.1f}" data-name="{e(n, quote=True)}" '
+                   f'data-full="{e(full(n), quote=True)}" data-text="{e(text, quote=True)}"{img} aria-label="{e(full(n) + ". " + place_text, quote=True)}">'
+                   f'<circle class="ring" cx="{x:.1f}" cy="{y:.1f}" r="{face + 1}"/>{image}'
+                   f'<text class="sur" x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}">{e(surname)}</text></g>')
+    for g, info in c["groups"].items():
+        if info["members"]:
+            top = min(at[n][1] for n in info["members"])
+            mid = sum(at[n][0] for n in info["members"]) / len(info["members"])
+            labels += f'<text x="{mid:.1f}" y="{top - face - 26:.1f}" text-anchor="middle">Group {g}</text>'
+    bar = .25 * scale
+    scale_bar = (f'<g class="scale"><line x1="{pad}" x2="{pad + bar:.1f}" y1="{H - 24}" y2="{H - 24}"/>'
+                 f'<text x="{pad + bar + 12:.1f}" y="{H - 19}">about 1 in 4 votes disagreed</text></g>')
+    chips = lambda members: "".join(
+        f'<div class="cn-chip" data-name="{e(n, quote=True)}">' + (f'<img src="{e(photo(n), quote=True)}" alt="" loading="lazy">' if photo(n) else "") + f"{e(full(n))}</div>" for n in members)
+    cards = ""
+    grouped = [n for n, m in c["members"].items() if m["group"]]
+    loosest = min(grouped, key=lambda n: c["members"][n]["silhouette"]) if grouped else None
+    for g, info in c["groups"].items():
+        if info["members"]:
+            detail = f'Agree with each other on {info["agreement_within"]:.0%} of these votes.' if info["agreement_within"] is not None else ""
+            if loosest in info["members"]:
+                detail += f" {full(loosest)} fits this group least firmly."
+            cards += f'<div class="cn-group"><h3><i class="{colour[g]}"></i>Group {g}</h3><p>{detail}</p>{chips(info["members"])}</div>'
+    if c["unclear"]:
+        cards += f'<div class="cn-group"><h3><i class="gx"></i>Between the groups</h3><p>About as close to one group as the other.</p>{chips(c["unclear"])}</div>'
+    between = next(iter(c["agreement_between"].values()), None)
+    kept = [i["stays_together"] for i in c["groups"].values() if i["stays_together"] is not None]
+    held = c["resamples_choosing"].get(str(c["groups_chosen"]), 0) / c["resamples"]
+    unclear_note = "".join(
+        f' {e(full(n))} is shown between them because their silhouette score is {c["members"][n]["silhouette"]:.2f}, below our {c["unclear_below"]} cutoff; in the resamples they land with Group '
+        + " and ".join(f'{g} {v:.0%} of the time' for g, v in c["members"][n]["with_group"].items()) + "." for n in c["unclear"])
+    loose_note = ""
+    if loosest:
+        m = c["members"][loosest]
+        others = sorted(x["silhouette"] for n, x in c["members"].items() if n != loosest)
+        loose_note = (f' {e(full(loosest))} is the loosest fit, with a silhouette of {m["silhouette"]:.2f} (everyone else is {others[0]:.2f} or higher), and lands with Group {m["group"]} in {m["with_group"][m["group"]]:.0%} of resamples.')
+    scores = ", ".join(f"{k} groups {v:.2f}" for k, v in c["silhouette_by_k"].items())
+    return f"""
+<h2 class="sec">Voting groups</h2>
+<p class="lede">Each portrait is a council member. The closer two portraits are, the more often those two voted the same way. Hover over or select one for details.
+{f'The groups agree with each other on only {between:.0%} of these votes.' if between is not None else ''}</p>
+<svg class="cn-map" viewBox="0 0 {W} {H}" role="group" aria-label="Map of council members placed by how similarly they vote. The group lists below name everyone.">{labels}{points}{scale_bar}</svg>
+<div class="cn-groups">{cards}</div>
+<details class="more"><summary>How the groups were found</summary><div class="in">
+<p>Starting from how often each pair disagreed, multidimensional scaling placed everyone on this plane; two dimensions hold about {c['variance_in_2d']:.0%} of the differences, so distances are close but not exact. Hierarchical clustering (average linkage) then formed the groups, and the silhouette score chose how many: {scores}, where higher means better separated. Clustering used the full data, not the 2D positions.</p>
+<p>To test this, we re-ran it on {c['resamples']:,} random resamples of the {c['votes']} votes. {c['groups_chosen']} groups came out best in {held:.0%} of them, and members of a group stayed together {min(kept):.0%} to {max(kept):.0%} of the time.{unclear_note}{loose_note}</p>
+<p>With only {c['votes']} votes these are working patterns, not fixed blocs. Left and right on the map come from the maths and don't mean political left and right. Portraits with near-identical records are eased apart so each can be seen, so very small gaps mean nothing. Group names are arbitrary.</p>
+</div></details>"""
+
+
 def build_councillors(out, all_minutes):
     votes, names, agreed, shared = agreement(all_minutes)
     if len(names) < 2:
         return False
+    roster = p.read_json(p.ROOT / "councillors.json") or {}
+    full = lambda n: roster.get(n, {}).get("name", n)
+    ward = lambda n: roster.get(n, {}).get("ward", "")
+    photo = lambda n: f"portraits/{roster[n]['portrait']}" if n in roster and (p.ROOT / "portraits" / roster[n]["portrait"]).exists() else ""
+    for n in names:
+        if photo(n):
+            (out / "portraits").mkdir(exist_ok=True)
+            shutil.copy(p.ROOT / "portraits" / roster[n]["portrait"], out / photo(n))
     order = circle_order(names, agreed)
     most = max(agreed.values())
     pair = lambda a, b: (min(a, b), max(a, b))
     # Squaring the count makes the differences readable; the legend shows real examples.
     width = lambda n: max(0.8, 15 * (n / most) ** 2)
-    W, H, cx, cy, R = 900, 680, 450, 340, 280
+    W, H, cx, cy, R, r = 900, 730, 450, 365, 265, 34
     pos = {n: (cx + R * math.sin(2 * math.pi * i / len(order)), cy - R * math.cos(2 * math.pi * i / len(order))) for i, n in enumerate(order)}
 
     def curve(a, b):
@@ -384,7 +519,7 @@ def build_councillors(out, all_minutes):
     links = sorted(((agreed[k], k) for k in shared), key=lambda t: (t[0], t[1]))
     lines, hits = "", ""
     for i, (n, (a, b)) in enumerate(links):
-        attrs = f'data-i="{i}" data-a="{e(a, quote=True)}" data-b="{e(b, quote=True)}"'
+        attrs = f'data-i="{i}" data-a="{e(a, quote=True)}" data-b="{e(b, quote=True)}" data-label="{e(full(a) + " & " + full(b), quote=True)}"'
         lines += f'<path class="e" {attrs} d="{curve(a, b)}" stroke-width="{width(n):.1f}" opacity="{.22 + .5 * (n / most) ** 2:.2f}"/>'
         text = f"Voted the same way on {n} of the {shared[a, b]} contested votes they both attended"
         # Thin lines sit on top so they stay reachable; a small target stops them stealing hover from thick ones.
@@ -393,14 +528,17 @@ def build_councillors(out, all_minutes):
     for n in order:
         x, y = pos[n]
         dx, dy = (x - cx) / R, (y - cy) / R
-        anchor = "middle" if abs(dx) < .2 else ("start" if dx > 0 else "end")
-        tx, ty = x + dx * 20, y + dy * 20 + 6 + (-8 if dy < -.9 else 8 if dy > .9 else 0)
-        pre, last = n.rsplit(" ", 1) if " " in n else ("", n)
-        label = (f'<tspan class="pre">{e(pre)} </tspan>' if pre else "") + e(last)
+        anchor = "middle" if abs(dy) > .9 else ("start" if dx > 0 else "end")
+        tx, ty = (x, y + dy * (r + 12)) if abs(dy) > .9 else (x + math.copysign(r + 10, dx), y + dy * r * .5)
+        first = "-1.25em" if dy < -.9 else ".85em" if dy > .9 else "-.2em"
+        given, last = full(n).rsplit(" ", 1) if " " in full(n) else ("", full(n))
+        label = (f'<tspan x="{tx:.1f}" dy="{first}">{e(given)}</tspan><tspan x="{tx:.1f}" dy="1.15em">{e(last)}</tspan>' if given
+                 else f'<tspan x="{tx:.1f}" dy=".35em">{e(last)}</tspan>')
+        face = (f'<image href="{e(photo(n), quote=True)}" x="{x - r:.1f}" y="{y - r:.1f}" width="{2 * r}" height="{2 * r}" clip-path="url(#cn-face)"/>' if photo(n) else "")
         ranked = sorted(((agreed[pair(n, o)], o) for o in names if o != n and pair(n, o) in shared), key=lambda t: (-t[0], t[1]))
-        desc = f"{n}. Agreed most with {ranked[0][1]}, on {ranked[0][0]} votes, and least with {ranked[-1][1]}, on {ranked[-1][0]}."
+        desc = f"{full(n)}. Agreed most with {full(ranked[0][1])}, on {ranked[0][0]} votes, and least with {full(ranked[-1][1])}, on {ranked[-1][0]}."
         nodes += (f'<g class="cn-node" role="button" tabindex="0" aria-pressed="false" data-name="{e(n, quote=True)}" aria-label="{e(desc, quote=True)}">'
-                  f'<circle class="pad" cx="{x:.1f}" cy="{y:.1f}" r="22"/><circle class="dot" cx="{x:.1f}" cy="{y:.1f}" r="9"/>'
+                  f'<circle class="dot" cx="{x:.1f}" cy="{y:.1f}" r="{r + 1}"/>{face}'
                   f'<text x="{tx:.1f}" y="{ty:.1f}" text-anchor="{anchor}">{label}</text></g>')
     legend = "".join(f'<span><i style="height:{width(n):.1f}px"></i>{n} votes</span>' for n in sorted({round(most * .35), round(most * .65), most}))
 
@@ -412,26 +550,26 @@ def build_councillors(out, all_minutes):
         return [t for t in ranked if (t[0] >= ranked[count - 1][0] if ranked[0][0] >= ranked[-1][0] else t[0] <= ranked[count - 1][0])]
 
     by_pair = sorted(((agreed[k], k) for k in shared), key=lambda t: (-t[0], t[1]))
-    pair_rows = lambda items: "".join(row(f"{a} & {b}", n, shared[a, b], bar=False) for n, (a, b) in items)
+    pair_rows = lambda items: "".join(row(f"{full(a)} & {full(b)}", n, shared[a, b], bar=False) for n, (a, b) in items)
     panels = (f'<div class="cn-panel" data-for=""><p class="hint">Select a name to see only their lines, or select a line for its count.</p>'
               f'<div class="cn-cols"><div><h3>Agreed most</h3>{pair_rows(ties(by_pair))}</div>'
               f'<div><h3>Agreed least</h3>{pair_rows(ties(by_pair[::-1]))}</div></div></div>')
     for n in order:
         ranked = sorted(((agreed[pair(n, o)], o) for o in names if o != n and pair(n, o) in shared), key=lambda t: (-t[0], t[1]))
-        panels += (f'<div class="cn-panel" data-for="{e(n, quote=True)}" hidden><h2>{e(n)}</h2><p class="hint">How often they voted the same way as each colleague.</p>'
-                   + "".join(row(o, c, shared[pair(n, o)]) for c, o in ranked) + "</div>")
+        panels += (f'<div class="cn-panel" data-for="{e(n, quote=True)}" hidden><div class="cn-who">{f'<img src="{e(photo(n), quote=True)}" alt="">' if photo(n) else ""}<div><h2>{e(full(n))}</h2><p class="hint">{e(ward(n))}{" · " if ward(n) else ""}how often they voted the same way as each colleague</p></div></div>'
+                   + "".join(row(full(o), c, shared[pair(n, o)]) for c, o in ranked) + "</div>")
 
     def shade(c):
         return f"background:color-mix(in srgb,var(--accent) {45 * (c / most) ** 2:.0f}%,transparent)"
-    head = "".join(f"<th scope=\"col\">{e(n)}</th>" for n in order)
+    head = "".join(f"<th scope=\"col\">{e(full(n))}</th>" for n in order)
     body = ""
     for a in order:
         cells = ""
         for b in order:
             cells += ('<td class="self"></td>' if a == b else
-                      f'<td style="{shade(agreed[pair(a, b)])}" title="{e(a, quote=True)} and {e(b, quote=True)}: {agreed[pair(a, b)]} of {shared[pair(a, b)]}">{agreed[pair(a, b)]}</td>'
+                      f'<td style="{shade(agreed[pair(a, b)])}" title="{e(full(a), quote=True)} and {e(full(b), quote=True)}: {agreed[pair(a, b)]} of {shared[pair(a, b)]}">{agreed[pair(a, b)]}</td>'
                       if pair(a, b) in shared else "<td></td>")
-        body += f'<tr><th scope="row">{e(a)}</th>{cells}</tr>'
+        body += f'<tr><th scope="row">{e(full(a))}</th>{cells}</tr>'
     vote_rows = ""
     for r in votes:
         minutes = all_minutes[r["meeting_date"]]
@@ -449,9 +587,12 @@ def build_councillors(out, all_minutes):
 {len(votes)} recorded votes that were not unanimous, from {len(all_minutes)} meetings.</p></header>
 <svg class="cn-chart" viewBox="0 0 {W} {H}" role="img" aria-labelledby="cn-title">
 <title id="cn-title">Circle of {len(order)} council members joined by curved lines. Line thickness shows how many contested votes each pair agreed on. The table below has every number.</title>
+<defs><clipPath id="cn-face" clipPathUnits="objectBoundingBox"><circle cx=".5" cy=".5" r=".5"/></clipPath></defs>
 <g>{lines}</g><g>{hits}</g><g>{nodes}</g></svg>
 <div class="cn-legend">{legend}<span>in agreement</span></div>
 {panels}
+{build_map(votes, full, photo, ward)}
+<h2 class="sec">The numbers</h2>
 <details class="more"><summary>Every pair, as a table</summary><div class="in"><div class="scroll"><table class="cn">
 <thead><tr><td></td>{head}</tr></thead><tbody>{body}</tbody></table></div></div></details>
 <details class="more"><summary>The {len(votes)} votes counted</summary><div class="in">{vote_rows}</div></details>
@@ -459,7 +600,7 @@ def build_councillors(out, all_minutes):
 of it, so pairs shared between {min(shared.values())} and {max(shared.values())} of these votes. People who often agree are placed
 next to each other around the circle; the placement has no other meaning. Amendments and separate clauses each count as a vote,
 so one issue can weigh heavily: {largest} of the {len(votes)} votes come from {busy:%B} {busy.day}, {busy.year}. Line thickness grows faster than the count, to make
-differences easier to see. Votes come from the city's minutes.</footer>""", extra_js=CHART_JS))
+differences easier to see. Votes come from the city's minutes. Names and photos are from the <a href="https://guelph.ca/city-government/mayor-and-council/city-council/">City of Guelph</a>.</footer>""", extra_js=CHART_JS))
     return True
 
 

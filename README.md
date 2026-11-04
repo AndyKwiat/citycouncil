@@ -25,3 +25,7 @@ updating the website, and deploying it to citycouncil.akwiat.com (private to you
 
 Each meeting's parse also checks its votes against the raw minutes (counts, names, anything written outside
 a motion block). Problems show in red in the panel's Votes column and in the job log.
+
+## Who votes with whom
+
+`site/councillors.html` is rebuilt with every website update, from the non-unanimous votes in `votes/votes.json`. `analysis.py` finds the voting groups and writes `votes/clusters.json`. Names, wards and photos live in `councillors.json` and `portraits/`; after an election, add new members there or they appear with only the name from the minutes and no photo.
