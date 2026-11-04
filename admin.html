@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Council Admin</title>
+<style>
+:root{color-scheme:light dark;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;--accent:#1f5f4a;--accent-soft:#e3eee8;
+--warn:#8a4b12;--warn-soft:#f6ead9;--bad:#a02f2f;--bad-soft:#f8e4e1;--idle:#ece9df;--run:#1f4f8a;--run-soft:#e0eaf6;
+--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;--serif:"Iowan Old Style",Palatino,Georgia,serif;--mono:ui-monospace,SFMono-Regular,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root{--bg:#141815;--panel:#1b201c;--ink:#e7e9e3;--muted:#99a398;--line:#303730;--accent:#7cc7a8;--accent-soft:#1f3029;
+--warn:#e0a868;--warn-soft:#33281b;--bad:#ec8f85;--bad-soft:#3a2120;--idle:#262b27;--run:#8db9ee;--run-soft:#1c2a3b}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14.5px/1.45 var(--sans)}
+a{color:var(--accent)}
+.page{max-width:1500px;margin:0 auto;padding:24px 16px 48px}
+h1{font:600 28px/1.2 var(--serif);margin:0}.sub{color:var(--muted);margin:2px 0 18px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px;margin-bottom:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.card h2{font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 10px;font-weight:600}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:8px}.row:last-child{margin-bottom:0}
+button{font:inherit;font-weight:600;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:6px 12px;border-radius:7px;cursor:pointer}
+button:hover{border-color:var(--accent)}button.primary{background:var(--accent);border-color:var(--accent);color:var(--panel)}
+button:disabled{opacity:.5;cursor:default}button:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+button.small{padding:3px 9px;font-size:13px}
+input{font:inherit;padding:5px 8px;border:1px solid var(--line);border-radius:7px;background:var(--bg);color:var(--ink)}
+input[type=number]{width:62px}
+.hint{color:var(--muted);font-size:13px}.err{color:var(--bad);font-size:13.5px;margin:0 0 10px}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 420px;gap:12px;align-items:start}
+@media (max-width:1440px){.layout{grid-template-columns:minmax(0,1fr)}.side{position:static}}
+.tablewrap{overflow-x:auto;padding:0}
+table{border-collapse:collapse;width:100%;min-width:800px}
+th{font-size:12px;text-align:left;color:var(--muted);font-weight:600;padding:10px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}tr:last-child td{border-bottom:0}
+.when b{display:block;font-weight:600;white-space:nowrap}.when span{color:var(--muted);font-size:12.5px}
+.title{max-width:260px;font-size:13px;color:var(--muted);margin-top:1px}
+.chip{display:inline-block;padding:1px 8px;border-radius:99px;font-size:12.5px;font-weight:500;white-space:nowrap}
+.ok{background:var(--accent-soft);color:var(--accent)}.warn{background:var(--warn-soft);color:var(--warn)}.bad{background:var(--bad-soft);color:var(--bad)}
+.idle{background:var(--idle);color:var(--muted)}.run{background:var(--run-soft);color:var(--run)}
+.detail{display:block;color:var(--muted);font-size:12px;margin-top:2px;white-space:nowrap}
+.acts{display:flex;gap:6px;align-items:flex-start;white-space:nowrap}
+details.menu{position:relative}details.menu summary{list-style:none;cursor:pointer;border:1px solid var(--line);border-radius:7px;padding:3px 9px;font-size:13px;font-weight:600}
+details.menu summary::-webkit-details-marker{display:none}
+.menu .items{position:absolute;right:0;top:calc(100% + 4px);z-index:5;background:var(--panel);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 22px rgba(0,0,0,.18);padding:4px;min-width:215px}
+.menu .items button{display:block;width:100%;text-align:left;border:0;background:none;font-weight:500;padding:6px 9px;border-radius:5px}.menu .items button:hover{background:var(--accent-soft)}
+.filter{display:flex;gap:10px;justify-content:space-between;align-items:center;padding:10px 12px;border-bottom:1px solid var(--line)}
+.filter h2{margin:0}
+.job{padding:8px 0;border-bottom:1px solid var(--line);cursor:pointer}.job:last-child{border-bottom:0}.job.sel b{color:var(--accent)}
+.job .top{display:flex;justify-content:space-between;gap:8px;align-items:baseline}.job b{font-weight:600}
+.joblist{max-height:250px;overflow:auto;margin-bottom:10px}
+pre{margin:0;background:var(--bg);border:1px solid var(--line);border-radius:7px;padding:10px;font:12px/1.5 var(--mono);height:360px;overflow:auto;white-space:pre-wrap;word-break:break-word}
+.side{position:sticky;top:12px}
+</style></head>
+<body><div class="page">
+<h1>Council Admin</h1><p class="sub">Guelph City Council meetings on your laptop. Videos stay on the city's site; only their audio is pulled, temporarily, if Whisper is needed.</p>
+<p class="err" id="err" hidden></p>
+<div class="cards">
+ <div class="card"><h2>Get meetings</h2>
+  <div class="row"><button data-act="check">Check for new meetings</button><button class="primary" data-act="new">Download + process new</button></div>
+  <div class="row"><label for="count">Latest</label><input id="count" type="number" min="1" max="50" value="5"><span>missing meetings</span><button id="latest">Go</button></div>
+  <div class="row"><label for="from">From</label><input id="from" type="date"><label for="to">to</label><input id="to" type="date"><button id="range">Go</button></div>
+  <div class="hint" id="checked"></div>
+ </div>
+ <div class="card"><h2>Website</h2>
+  <div class="row"><button class="primary" data-act="build">Update website</button><a href="/site/" target="_blank" rel="noopener">Preview</a></div>
+  <div class="hint" id="buildinfo"></div>
+  <div class="row" style="margin-top:10px"><button data-act="deploy" id="deploy">Deploy to citycouncil.akwiat.com</button><a href="https://citycouncil.akwiat.com" target="_blank" rel="noopener">Open live site</a></div>
+  <div class="hint" id="deployinfo"></div>
+ </div>
+</div>
+<div class="layout">
+ <div class="card tablewrap">
+  <div class="filter"><h2 class="card-h" style="font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600" id="counts">Meetings</h2>
+   <label class="hint"><input type="checkbox" id="showall"> Show older meetings we haven't downloaded</label></div>
+  <table><thead><tr><th>Meeting</th><th>Documents</th><th>Transcript</th><th>Votes</th><th>Summary</th><th>Website</th><th></th></tr></thead><tbody id="rows"></tbody></table>
+ </div>
+ <div class="card side"><h2>Jobs</h2><div class="joblist" id="jobs"></div><pre id="log">Pick a job to see its log.</pre></div>
+</div>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+let selected=null,follow=true,lastRows='',lastJobs='',lastLog='',lastState=null;
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const chip=(cls,t,d)=>`<span class="chip ${cls}">${esc(t)}</span>${d?`<span class="detail">${esc(d)}</span>`:''}`;
+const ago=t=>{if(!t)return'never';const s=(Date.now()-new Date(t))/1000;if(s<90)return'just now';if(s<5400)return Math.round(s/60)+' min ago';if(s<129600)return Math.round(s/3600)+' h ago';return Math.round(s/86400)+' days ago'};
+async function post(url,body){const r=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body||{})});const d=await r.json();
+ if(!r.ok){$('err').textContent=d.error||'That didn\'t work';$('err').hidden=false;throw d}$('err').hidden=true;return d}
+async function run(body){const j=await post('/api/jobs',body);selected=j.id;follow=true;refresh()}
+function docs(m){if(!m.past)return chip('idle','Upcoming');if(!m.downloaded)return m.minutes_posted?chip('idle','Not downloaded'):chip('warn','Waiting for minutes','city hasn\'t posted them');
+ if(!m.has_minutes)return chip('warn','Waiting for minutes','agenda only so far');return chip('ok','Downloaded',m.has_captions?'minutes, agenda, captions':'minutes, agenda; no captions')}
+function transcript(m){const t=m.transcript;if(!t)return !m.downloaded?'':!m.video_listed?chip('idle','No video'):chip('idle','Not transcribed');
+ const n=t.words.toLocaleString()+' words';
+ if(t.method==='captions')return chip('ok','Closed captions',n+(t.gaps?`, ${t.gaps} gap${t.gaps>1?'s':''} checked`:''));
+ if(t.method==='captions+whisper')return chip('warn','Captions + Whisper',`${n}, ${t.gaps_filled} of ${t.gaps} gaps filled`);
+ return chip('warn','Whisper',`${n}; captions ${t.wpm} wpm`)}
+const votes=m=>!m.parsed?'':m.vote_problems.length?`<span title="${esc(m.vote_problems.join('\n'))}">${chip('bad',`${m.vote_problems.length} vote problem${m.vote_problems.length>1?'s':''}`,`${m.votes} recorded; see log`)}</span>`:chip('ok',`${m.votes} recorded`,`of ${m.motions} motions, checked`);
+const summary=m=>m.summary?chip('ok','Done',m.summary.title):(m.parsed?chip('idle','Not summarized'):'');
+const website=m=>m.on_site?(m.stale?chip('warn','Needs update'):chip('ok','On site')):(m.summary?chip('warn','Needs update'):'');
+function actions(m){if(m.job)return chip('run',m.job==='running'?'Running':'Queued');if(!m.past)return'';
+ const primary=!m.complete&&m.minutes_posted?`<button class="small primary" data-key="${m.key}" data-mode="all">Process</button>`:'';
+ const more=m.downloaded?`<details class="menu" data-menu="${m.key}"><summary aria-label="More actions for ${m.key}">Redo</summary><div class="items">
+  <button data-key="${m.key}" data-mode="docs">Re-download documents</button>
+  <button data-key="${m.key}" data-mode="captions">Redo transcript (captions first)</button>
+  <button data-key="${m.key}" data-mode="whisper">Transcribe all with Whisper</button>
+  <button data-key="${m.key}" data-mode="summarize">Redo summary</button></div></details>`:'';
+ return `<div class="acts">${primary}${more}</div>`}
+function renderRows(s){const all=$('showall').checked;const shown=s.meetings.filter(m=>all||m.downloaded||!m.past||!m.complete&&isNew(m,s));
+ const html=shown.map(m=>{const[date,time]=m.when.split(' @ ');return `<tr><td class="when"><b>${esc(date.replace(/^\w+, /,''))}</b><span>${esc(date.split(',')[0])}, ${esc(time||'')}</span></td><td>${docs(m)}</td><td>${transcript(m)}</td><td>${votes(m)}</td><td class="title">${summary(m)}</td><td>${website(m)}</td><td>${actions(m)}</td></tr>`}).join('')||'<tr><td colspan="7" class="hint">No meetings yet. Select Check for new meetings.</td></tr>';
+ if(html!==lastRows){const open=[...document.querySelectorAll('details.menu[open]')].map(d=>d.dataset.menu);$('rows').innerHTML=html;lastRows=html;open.forEach(k=>{const d=document.querySelector(`details.menu[data-menu="${k}"]`);if(d)d.open=true})}
+ const done=s.meetings.filter(m=>m.complete).length;const waiting=s.meetings.filter(m=>m.past&&!m.downloaded).length;$('counts').textContent=`Meetings: ${done} complete, ${waiting} past not downloaded`}
+function isNew(m,s){const newest=s.meetings.filter(x=>x.complete).map(x=>x.key).sort().pop()||'';return m.key>newest}
+function jobChip(j){const c={done:'ok',failed:'bad',running:'run',queued:'idle',cancelled:'idle',cancelling:'run',interrupted:'warn'}[j.status];return chip(c,j.status)}
+function renderJobs(s){const html=s.jobs.map(j=>`<div class="job ${j.id===selected?'sel':''}" data-job="${j.id}" tabindex="0"><div class="top"><b>${esc(j.title)}</b>${jobChip(j)}</div><span class="hint">${ago(j.started||j.created)}${['queued','running'].includes(j.status)?` · <a href="#" data-cancel="${j.id}">Cancel</a>`:''}</span></div>`).join('')||'<span class="hint">Nothing has run yet.</span>';
+ if(html!==lastJobs){$('jobs').innerHTML=html;lastJobs=html}}
+async function renderLog(s){const id=selected??s.jobs[0]?.id;if(!id)return;const r=await fetch(`/api/jobs/${id}/log`);const t=await r.text();if(t!==lastLog){const el=$('log');const atEnd=el.scrollTop+el.clientHeight>=el.scrollHeight-30;el.textContent=t||'(no output yet)';lastLog=t;if(atEnd||follow){el.scrollTop=el.scrollHeight;follow=false}}}
+function renderInfo(s){$('checked').textContent=`Last checked the city's calendar ${ago(s.checked_at)}.`;
+ const b=s.build;const stale=b.stale.length;$('buildinfo').textContent=b.at?`Built ${ago(b.at)} with ${b.count} meetings.`+(stale?` ${stale} meeting${stale>1?'s':''} changed since then.`:' Up to date.'):'Not built yet.';
+ const d=s.deploy;$('deployinfo').textContent=d.at?(d.current?`Live version matches this build (deployed ${ago(d.at)}).`:`Deployed ${ago(d.at)}. This build isn't live yet.`):'Not deployed yet. It will be private to you@example.com.';$('deploy').disabled=!b.at}
+async function refresh(){try{const s=await(await fetch('/api/state')).json();lastState=s;renderRows(s);renderJobs(s);renderInfo(s);await renderLog(s)}catch(e){$('err').textContent='The admin server isn\'t responding.';$('err').hidden=false}}
+document.addEventListener('click',e=>{const t=e.target;
+ if(t.dataset.act)run({action:t.dataset.act});
+ if(t.dataset.key){t.closest('details')?.removeAttribute('open');run({action:'meeting',key:t.dataset.key,mode:t.dataset.mode})}
+ if(t.dataset.cancel){e.preventDefault();post(`/api/jobs/${t.dataset.cancel}/cancel`).then(refresh);return}
+ const job=t.closest('[data-job]');if(job){selected=+job.dataset.job;follow=true;lastLog='';lastJobs='';refresh()}
+ document.querySelectorAll('details.menu[open]').forEach(d=>{if(!d.contains(t))d.open=false})});
+$('latest').onclick=()=>run({action:'latest',count:+$('count').value});
+$('range').onclick=()=>run({action:'range',from:$('from').value,to:$('to').value});
+$('showall').onchange=()=>{lastRows='';lastState&&renderRows(lastState)};
+refresh();setInterval(refresh,2000);
+</script></body></html>
