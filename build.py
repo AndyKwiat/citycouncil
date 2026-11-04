@@ -546,7 +546,7 @@ def build_councillors(out, all_minutes):
     power = lambda v: (v / most) ** 3
     width = lambda v: max(0.8, 15 * power(v))
     count = lambda k: f"{percent(rate[k])} ({agreed[k]} of {shared[k]})"
-    W, H, cx, cy, R, r = 900, 750, 450, 365, 265, 34
+    W, H, cx, cy, R, r = 900, 760, 450, 375, 265, 34
     pos = {n: (cx + R * math.sin(2 * math.pi * i / len(order)), cy - R * math.cos(2 * math.pi * i / len(order))) for i, n in enumerate(order)}
 
     def curve(a, b):
