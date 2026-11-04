@@ -28,4 +28,18 @@ a motion block). Problems show in red in the panel's Votes column and in the job
 
 ## Who votes with whom
 
-`site/councillors.html` is rebuilt with every website update, from the non-unanimous votes in `votes/votes.json`. `analysis.py` finds the voting groups and writes `votes/clusters.json`. Names, wards and photos live in `councillors.json` and `portraits/`; after an election, add new members there or they appear with only the name from the minutes and no photo.
+`site/councillors.html` is rebuilt with every website update, from the non-unanimous votes in `votes/votes.json`.
+
+- Line thickness and the hover percentages use the share of votes both people attended, not a raw count, because some members served only part of the term.
+- `analysis.py` finds the voting groups and writes `votes/clusters.json`. The number of groups comes from the data (silhouette score), and anyone scoring under 0.1 is shown between groups. People who never voted together get an estimated distance instead of being treated as opposites.
+- Names, wards and photos live in `councillors.json` and `portraits/`. After an election, add new members there or they appear with only the name from the minutes and no photo. The page also mixes every council in `raw/`, so a new term will need a filter by term.
+
+## Coverage
+
+Only meetings the city labels "City Council" are processed, from December 6, 2022. Inaugural, special, budget and Council Planning meetings aren't, so their votes aren't counted.
+
+## Tests
+
+    .venv/bin/python -m unittest discover tests
+
+These cover parsing, the vote audit, transcripts, summary checks and clustering, and check the downloaded data stays consistent.

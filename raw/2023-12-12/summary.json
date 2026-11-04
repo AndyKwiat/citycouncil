@@ -1,0 +1,30 @@
+{
+ "title": "Customer service strategy update and CAO evaluation",
+ "subtitle": "Property tax portal, central contact centre, delayed CRM, Clair Maltby direction, and recognitions for a local honouree and robotics team.",
+ "overview": [
+  "Council received a staff update on Service Simplified, Guelph's customer service strategy {{vote:m4}}. Staff are moving city services into a central customer contact centre one department at a time. Property tax and parking have been done so far. A new online property tax portal is expected in mid-January, and a customer relationship management (CRM) system has been deferred from 2024 to 2025. Staff said the CRM would only work well once the underlying processes are mapped and standardized.",
+  "After a closed session, Council approved the 2023 Chief Administrative Officer performance evaluation {{vote:m2}}. The Mayor also reported that Council gave staff direction on the Clair Maltby Secondary Plan, and received Procedure By-law training with no direction given. The minutes give no further detail on that direction.",
+  "For residents, the changes aim to give one phone number, one email and more online options for city services. Staff expect call and email volumes to rise at first as people learn the new portal. Council also recognized a Guelph recipient of the Order of Ontario and the 2023 FIRST Robotics World Championship team."
+ ],
+ "decisions": [
+  {
+   "motion": "m4",
+   "item": "Customer service strategy update",
+   "detail": "Council received the report on implementing Service Simplified, Guelph's customer service strategy, with no further direction attached."
+  },
+  {
+   "motion": "m2",
+   "item": "CAO performance evaluation",
+   "detail": "Council approved the 2023 Chief Administrative Officer performance evaluation, as described in the closed Council report."
+  }
+ ],
+ "debate": [
+  "One councillor asked whether residents could get property tax statements going back ten years, which currently involves a fee. Staff said the new portal allows printing of statements, but they would check how far back records go.",
+  "A councillor raised the burden of having many separate logins for city services and asked about a single sign-on. Staff said a future CRM could allow one login across multiple services and promised to follow up.",
+  "A councillor asked about low satisfaction with the city's report-a-problem map. Staff said it may be a process issue rather than a technical one, said residents can call Service Guelph for help, and promised more analysis in June.",
+  "Councillors asked how departments are prioritized for the contact centre. Staff said criteria are still being developed. Departments with documented processes and data are easier to start with, and timing around busy seasons such as parks in spring also matters.",
+  "Councillors pressed on when residents will be able to track a request from receipt to resolution. Staff said a corporate dashboard would come after CRM implementation, with purchase in 2025 and implementation expected by about 2027. Staff argued that building the CRM on unmapped back-end systems would leave problems in place."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-04T17:23:35"
+}

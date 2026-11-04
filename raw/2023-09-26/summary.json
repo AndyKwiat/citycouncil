@@ -1,0 +1,60 @@
+{
+ "title": "Downtown parking master plan approved",
+ "subtitle": "Also: stone wall repair request, refreshed territorial acknowledgement, strong mayor powers updates, and non-union pay range.",
+ "overview": [
+  "Council approved the Downtown Parking Master Plan {{vote:m11}}. It lowers the residential parking requirement downtown from one space per unit to the 0.85 rate staff recommended, and it creates a payment-in-lieu of parking program. Council rejected an amendment to remove residential minimums entirely {{vote:m10}}. It then directed staff to evaluate zero minimums, with community engagement, for the next review in 2028 or sooner {{vote:m12}}. It also asked staff to review exempting affordable housing as part of the payment-in-lieu policy due in early 2024 {{vote:m13}}.",
+  "Council also approved a refreshed Territorial Acknowledgement and asked Infrastructure Ontario to repair the damaged stone wall at the Ontario Reformatory {{vote:m8}}. Through the consent report, it approved updated governance documents following the extension of strong mayor powers, and a 2024 to 2027 meeting schedule.",
+  "After a closed session, Council set the annual non-union pay adjustment within a range for the multi-year budget {{vote:m2}}. The acting chair reminded residents to wear orange on September 30 for the National Day for Truth and Reconciliation."
+ ],
+ "decisions": [
+  {
+   "motion": "m11",
+   "item": "Downtown Parking Master Plan",
+   "detail": "Council approved the plan with the tax-supported financial model, a payment-in-lieu of parking policy and reserve fund, a 2028 review of paid on-street parking, and reduced residential parking minimums in both downtown zoning by-laws {{vote:m11}}."
+  },
+  {
+   "motion": "m10",
+   "item": "Zero residential parking minimums amendment",
+   "detail": "An amendment to remove the one-space-per-unit residential requirement in the downtown zoning by-laws was defeated {{vote:m10}}."
+  },
+  {
+   "motion": "m12",
+   "item": "Study of zero parking minimums",
+   "detail": "Staff will evaluate zero residential parking minimums in downtown zones, including community engagement, and report back in 2028 or sooner {{vote:m12}}."
+  },
+  {
+   "motion": "m13",
+   "item": "Affordable housing and parking",
+   "detail": "Staff will review exempting affordable housing from minimum parking requirements as part of the payment-in-lieu policy returning in Q1 2024 {{vote:m13}}."
+  },
+  {
+   "motion": "m8",
+   "item": "Ontario Reformatory stone wall",
+   "detail": "Council requested that Infrastructure Ontario repair the damaged stone wall at the Ontario Reformatory {{vote:m8}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Strong mayor powers updates",
+   "detail": "Council approved an amended Procedure By-law, Code of Conduct and CAO and officer recruitment documents, new budget meeting dates, and a report on a lobbyist registry in Q1 2024."
+  },
+  {
+   "motion": "m2",
+   "item": "Non-union compensation range",
+   "detail": "Following closed session, Council set the annual non-union compensation adjustment between 2.0 and 3.0 per cent for 2024 and each year after in the 2024 to 2027 budget {{vote:m2}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Refreshed Territorial Acknowledgement",
+   "detail": "Council approved the refreshed Territorial Acknowledgement for the City of Guelph {{vote:m3}}."
+  }
+ ],
+ "debate": [
+  "Staff recommended the 0.85 rate and warned that going lower raises risks: more demand for public parking, spillover onto nearby streets, and less payment-in-lieu revenue. They said any rate below 0.85 would need another public meeting, since only 0.85 had been consulted on.",
+  "Developer delegates and active transportation advocates urged lower or no minimums. They argued that parking is costly, that developers carry the market risk, and that it limits housing supply and affordability. A delegate cited a utilization study and questioned whether its sample was representative. Staff replied that it covered 13 residential buildings with parking.",
+  "Councillors who opposed zero minimums said transit is not yet ready, with Conestoga College and all-day GO service still to come. They also cited the downtown business association's concern about visitor parking, the lost payment-in-lieu money, and the expanded downtown boundary reaching residential neighbourhoods.",
+  "One councillor raised accessibility, noting that cycling and transit do not work for many people with disabilities. Others said the savings from lower minimums may not be passed on to buyers or renters.",
+  "On the stone wall, delegates said the cause of the damage is not established. They supported asking Infrastructure Ontario for repairs and suggested a dry-stone festival to draw tourism."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-04T17:27:23"
+}

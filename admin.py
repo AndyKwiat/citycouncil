@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Local admin panel: shows the state of every meeting and runs pipeline.py jobs one at a time."""
-import argparse, datetime as dt, json, os, pathlib, posixpath, re, signal, subprocess, sys, threading, urllib.parse, webbrowser
+import mimetypes, argparse, datetime as dt, json, os, pathlib, posixpath, re, signal, subprocess, sys, threading, urllib.parse, webbrowser
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import pipeline as p
 
@@ -168,7 +168,7 @@ class Handler(BaseHTTPRequestHandler):
             if target.is_dir():
                 target = target / "index.html"
             if p.SITE.resolve() in target.parents and target.is_file():
-                return self.send(200, target.read_bytes(), "text/html; charset=utf-8")
+                return self.send(200, target.read_bytes(), mimetypes.guess_type(target.name)[0] or "application/octet-stream")
         self.send(404, {"error": "not found"})
 
     def do_POST(self):

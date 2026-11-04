@@ -180,10 +180,14 @@ class Clusters(unittest.TestCase):
         self.assertEqual(groups, {frozenset(["A1", "A2", "A3", "A4"]), frozenset(["B1", "B2", "B3", "B4"])})
         self.assertEqual(c["agreement_between"]["A-B"], 0)
 
-    def test_people_who_never_met_are_far_apart(self):
-        votes = self.votes() + [{"for": ["Old", "A1"], "against": ["B1"]}]
-        c = analysis.clusters(votes)
-        self.assertIn("Old", c["members"])
+    def test_people_who_never_voted_together_are_not_assumed_opposed(self):
+        # "Old" served first and "New" replaced them; both always side with group A.
+        a, b = ["A1", "A2", "A3"], ["B1", "B2", "B3"]
+        early = [{"for": a + ["Old"], "against": b} for _ in range(5)] + [{"for": b, "against": a + ["Old"]} for _ in range(5)]
+        late = [{"for": a + ["New"], "against": b} for _ in range(5)] + [{"for": b, "against": a + ["New"]} for _ in range(5)]
+        c = analysis.clusters(early + late)
+        self.assertEqual(c["members"]["Old"]["group"], c["members"]["New"]["group"])
+        self.assertEqual(c["members"]["Old"]["group"], c["members"]["A1"]["group"])
 
     def test_stable_between_runs(self):
         self.assertEqual(analysis.clusters(self.votes()), analysis.clusters(self.votes()))

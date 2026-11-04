@@ -333,7 +333,7 @@ def step_parse(m, force=False):
             source = own_item[0] if own_item else decided[0] if len(decided) == 1 else None
             if source:
                 x["result"], x["votes"], x["inherited"] = source["result"], source["votes"], True
-                source["inherited"] = True
+                source["inherited"] = source["consent_source"] = True
     # Motions that never reached a vote say why in the text after them.
     for x in motions:
         if not x["result"]["outcome"]:
@@ -639,7 +639,7 @@ def meeting_status(m, built=None):
         "has_minutes": has_minutes, "has_captions": (d / "captions.vtt").exists(),
         "parsed": bool(minutes),
         "motions": len(minutes["motions"]) if minutes else 0,
-        "votes": sum(1 for x in minutes["motions"] if x["result"]["for"] is not None and not x["inherited"]) if minutes else 0,
+        "votes": sum(1 for x in minutes["motions"] if x["result"]["for"] is not None and (not x["inherited"] or x.get("consent_source"))) if minutes else 0,
         "vote_problems": minutes.get("vote_problems", []) if minutes else [],
         "transcript": {"method": meta["method"], "words": meta["words"], "wpm": meta["caption_wpm"],
                        "gaps": len(meta["gaps"]), "gaps_filled": sum(1 for g in meta["gaps"] if g["filled"])} if meta else None,

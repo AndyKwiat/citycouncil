@@ -8,11 +8,11 @@ e = html.escape
 BASE = p.BASE
 
 CSS = """
-:root{color-scheme:light dark;--g0:#2a78d6;--g1:#eb6834;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
+:root{color-scheme:light dark;--g0:#2a78d6;--g1:#eb6834;--g2:#1baf7a;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
 --accent:#1f5f4a;--accent-soft:#e3eee8;--warn:#8a4b12;--warn-soft:#f6ead9;--mark:#fdf3c9;
 --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
 --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-@media (prefers-color-scheme:dark){:root{--g0:#3987e5;--g1:#d95926;--bg:#141815;--panel:#1b201c;--ink:#e7e9e3;--muted:#99a398;--line:#303730;
+@media (prefers-color-scheme:dark){:root{--g0:#3987e5;--g1:#d95926;--g2:#199e70;--bg:#141815;--panel:#1b201c;--ink:#e7e9e3;--muted:#99a398;--line:#303730;
 --accent:#7cc7a8;--accent-soft:#1f3029;--warn:#e0a868;--warn-soft:#33281b;--mark:#3a3518}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
@@ -93,15 +93,15 @@ footer{margin-top:30px;color:var(--muted);font-size:13.5px}
 .cn-panel h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 8px;font-weight:600}
 .cn-panel .hint{color:var(--muted);font-size:14px;margin:0 0 12px}
 .cn-cols{display:grid;grid-template-columns:1fr 1fr;gap:18px 28px}
-.cn-row{display:grid;grid-template-columns:minmax(0,1fr) 72px 64px;gap:10px;align-items:center;font-size:14.5px;padding:2px 0}
-.cn-row.pair{grid-template-columns:minmax(0,1fr) 64px}
+.cn-row{display:grid;grid-template-columns:minmax(0,1fr) 72px 118px;gap:10px;align-items:center;font-size:14.5px;padding:2px 0}
+.cn-row.pair{grid-template-columns:minmax(0,1fr) 118px}
 .cn-row .num{color:var(--muted);text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;font-size:13.5px}
 .cn-bar{height:6px;background:var(--line);border-radius:4px;overflow:hidden}.cn-bar b{display:block;height:100%;background:var(--accent);border-radius:4px}
 #cntip{position:fixed;z-index:10;pointer-events:none;max-width:280px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 28px rgba(0,0,0,.2);padding:7px 11px;font-size:14px;line-height:1.4}
 #cntip[hidden]{display:none}#cntip span{color:var(--muted);display:block;font-size:13px}#cntip.face{display:grid;grid-template-columns:40px 1fr;gap:0 10px;align-items:center}#cntip img{width:40px;height:40px;border-radius:50%;grid-row:span 2}
-h2.sec{font:600 28px/1.2 var(--serif);margin:44px 0 8px}
+h2.sec{font:600 28px/1.2 var(--serif);margin:44px 0 8px}h2.year{margin:32px 0 12px;font-size:22px}
 .cn-map{display:block;width:100%;height:auto;background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-top:16px}
-.cn-map .pt{cursor:pointer;outline:none}.cn-map .ring{fill:var(--panel);stroke-width:4}.cn-map .g0 .ring{stroke:var(--g0)}.cn-map .g1 .ring{stroke:var(--g1)}.cn-map .gx .ring{stroke:var(--muted)}
+.cn-map .pt{cursor:pointer;outline:none}.cn-map .ring{fill:var(--panel);stroke-width:4}.cn-map .g0 .ring{stroke:var(--g0)}.cn-map .g1 .ring{stroke:var(--g1)}.cn-map .g2 .ring{stroke:var(--g2)}.cn-map .gx .ring{stroke:var(--muted)}
 .cn-map .pt.on .ring,.cn-map .pt:focus-visible .ring{stroke-width:7}
 .cn-map .sur{fill:var(--muted);font:400 12px var(--sans)}.cn-map .pt.on .sur{fill:var(--ink)}
 .cn-map text{fill:var(--ink);font:600 19px var(--sans)}.cn-map .links line{stroke:var(--muted);stroke-width:1.5;opacity:.45}
@@ -109,7 +109,7 @@ h2.sec{font:600 28px/1.2 var(--serif);margin:44px 0 8px}
 .cn-groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:12px}
 .cn-group{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
 .cn-group h3{display:flex;align-items:center;gap:8px;font-size:15px;margin:0 0 2px;font-weight:600}
-.cn-group h3 i{width:13px;height:13px;border-radius:50%;flex:none}.cn-group h3 i.g0{background:var(--g0)}.cn-group h3 i.g1{background:var(--g1)}.cn-group h3 i.gx{border:3px solid var(--muted)}
+.cn-group h3 i{width:13px;height:13px;border-radius:50%;flex:none}.cn-group h3 i.g0{background:var(--g0)}.cn-group h3 i.g1{background:var(--g1)}.cn-group h3 i.g2{background:var(--g2)}.cn-group h3 i.gx{border:3px solid var(--muted)}
 .cn-group p{color:var(--muted);font-size:13.5px;line-height:1.45;margin:0 0 8px}
 .cn-chip{display:flex;align-items:center;gap:8px;font-size:14.5px;padding:3px 4px;border-radius:6px}.cn-chip:hover{background:var(--accent-soft)}.cn-chip img{width:26px;height:26px;border-radius:50%;flex:none}
 details.more{margin-top:14px;background:var(--panel);border:1px solid var(--line);border-radius:10px}
@@ -416,9 +416,9 @@ def agreement(built):
     return votes, names, agreed, shared
 
 
-def circle_order(names, agreed):
+def circle_order(names, rate):
     """Seat people who agree most next to each other, so the thick lines stay readable."""
-    w = lambda a, b: agreed.get((min(a, b), max(a, b)), 0)
+    w = lambda a, b: rate.get((min(a, b), max(a, b)), 0)
     total = lambda o: sum(w(o[i], o[(i + 1) % len(o)]) for i in range(len(o)))
     order, improved = list(names), True
     while improved:
@@ -455,7 +455,7 @@ def build_map(votes, full, photo, ward, agreed, shared):
                 push = (gap - d) / 2
                 at[a][0] -= ux * push; at[a][1] -= uy * push
                 at[b][0] += ux * push; at[b][1] += uy * push
-    colour = {g: f"g{i}" if i < 2 else "gx" for i, g in enumerate(c["groups"])}
+    colour = {g: f"g{i}" if i < 3 else "gx" for i, g in enumerate(c["groups"])}  # three hues stay distinct for colour-blind readers; beyond that, labels carry it
     points, labels, taken = "", "", []
     for n, m in c["members"].items():
         g = m["group"]
@@ -507,8 +507,9 @@ def build_map(votes, full, photo, ward, agreed, shared):
     loose_note = ""
     if loosest:
         m = c["members"][loosest]
-        others = sorted(x["silhouette"] for n, x in c["members"].items() if n != loosest)
-        loose_note = (f' {e(full(loosest))} is the loosest fit, with a silhouette of {m["silhouette"]:.2f} (everyone else is {others[0]:.2f} or higher), and lands with Group {m["group"]} in {m["with_group"][m["group"]]:.0%} of resamples.')
+        others = sorted(c["members"][n]["silhouette"] for n in grouped if n != loosest)
+        loose_note = (f' {e(full(loosest))} is the loosest fit, with a silhouette of {m["silhouette"]:.2f} (everyone else in a group is {others[0]:.2f} or higher), and lands with Group {m["group"]} in {m["with_group"][m["group"]]:.0%} of resamples.')
+    never_met = any((a, b) not in shared for a, b in itertools.combinations(sorted(c["members"]), 2))
     scores = ", ".join(f"{k} groups {v:.2f}" for k, v in c["silhouette_by_k"].items())
     return f"""
 <h2 class="sec">Voting groups</h2>
@@ -519,7 +520,7 @@ def build_map(votes, full, photo, ward, agreed, shared):
 <details class="more"><summary>How the groups were found</summary><div class="in">
 <p>Starting from how often each pair disagreed, multidimensional scaling placed everyone on this plane; two dimensions hold about {c['variance_in_2d']:.0%} of the differences, so distances are close but not exact. Hierarchical clustering (average linkage) then formed the groups, and the silhouette score chose how many: {scores}, where higher means better separated. Clustering used the full data, not the 2D positions.</p>
 <p>To test this, we re-ran it on {c['resamples']:,} random resamples of the {c['votes']} votes. {c['groups_chosen']} groups came out best in {held:.0%} of them, and members of a group stayed together {min(kept):.0%} to {max(kept):.0%} of the time.{unclear_note}{loose_note}</p>
-<p>With only {c['votes']} votes these are working patterns, not fixed blocs. Left and right on the map come from the maths and don't mean political left and right. Portraits with near-identical records are eased apart so each can be seen, so very small gaps mean nothing. Group names are arbitrary.</p>
+<p>{f"People who never voted together have no real distance, so theirs is estimated from how alike they are with everyone else. " if never_met else ""}With {c['votes']} votes these are working patterns, not fixed blocs. Left and right on the map come from the maths and don't mean political left and right. Portraits with near-identical records are eased apart so each can be seen, so very small gaps mean nothing. Group names are arbitrary.</p>
 </div></details>"""
 
 
@@ -535,12 +536,17 @@ def build_councillors(out, all_minutes):
         if photo(n):
             (out / "portraits").mkdir(exist_ok=True)
             shutil.copy(p.ROOT / "portraits" / roster[n]["portrait"], out / photo(n))
-    order = circle_order(names, agreed)
-    most = max(agreed.values())
+    # A share, not a raw count: someone who served part of the term has fewer chances to agree with anybody.
+    rate = {k: agreed[k] / shared[k] for k in shared}
+    order = circle_order(names, rate)
+    most = max(rate.values())
     pair = lambda a, b: (min(a, b), max(a, b))
-    # Squaring the count makes the differences readable; the legend shows real examples.
-    width = lambda n: max(0.8, 15 * (n / most) ** 2)
-    W, H, cx, cy, R, r = 900, 730, 450, 365, 265, 34
+    percent = lambda v: f"{100 * v:.0f}%"
+    # Thickness grows faster than the share so differences are readable; the legend shows real examples.
+    power = lambda v: (v / most) ** 3
+    width = lambda v: max(0.8, 15 * power(v))
+    count = lambda k: f"{percent(rate[k])} ({agreed[k]} of {shared[k]})"
+    W, H, cx, cy, R, r = 900, 750, 450, 365, 265, 34
     pos = {n: (cx + R * math.sin(2 * math.pi * i / len(order)), cy - R * math.cos(2 * math.pi * i / len(order))) for i, n in enumerate(order)}
 
     def curve(a, b):
@@ -548,13 +554,13 @@ def build_councillors(out, all_minutes):
         qx, qy = cx + ((x1 + x2) / 2 - cx) * .45, cy + ((y1 + y2) / 2 - cy) * .45
         return f"M{x1:.1f} {y1:.1f}Q{qx:.1f} {qy:.1f} {x2:.1f} {y2:.1f}"
 
-    links = sorted(((agreed[k], k) for k in shared), key=lambda t: (t[0], t[1]))
+    links = sorted(((rate[k], k) for k in shared), key=lambda t: (t[0], t[1]))
     lines, hits = "", ""
     for i, (n, (a, b)) in enumerate(links):
         attrs = f'data-i="{i}" data-a="{e(a, quote=True)}" data-b="{e(b, quote=True)}"'
-        lines += f'<path class="e" {attrs} d="{curve(a, b)}" stroke-width="{width(n):.1f}" opacity="{.22 + .5 * (n / most) ** 2:.2f}"/>'
+        lines += f'<path class="e" {attrs} d="{curve(a, b)}" stroke-width="{width(n):.1f}" opacity="{.22 + .5 * power(n):.2f}"/>'
         # Thin lines sit on top so they stay reachable; a small target stops them stealing hover from thick ones.
-        hits = f'<path class="hit" {attrs} data-count="{n} of {shared[a, b]}" d="{curve(a, b)}" stroke-width="{max(8, width(n) + 2):.1f}"/>' + hits
+        hits = f'<path class="hit" {attrs} data-count="{e(count((a, b)), quote=True)}" d="{curve(a, b)}" stroke-width="{max(8, width(n) + 2):.1f}"/>' + hits
     nodes = ""
     for n in order:
         x, y = pos[n]
@@ -566,39 +572,40 @@ def build_councillors(out, all_minutes):
         label = (f'<tspan x="{tx:.1f}" dy="{first}">{e(given)}</tspan><tspan x="{tx:.1f}" dy="1.15em">{e(last)}</tspan>' if given
                  else f'<tspan x="{tx:.1f}" dy=".35em">{e(last)}</tspan>')
         face = (f'<image href="{e(photo(n), quote=True)}" x="{x - r:.1f}" y="{y - r:.1f}" width="{2 * r}" height="{2 * r}" clip-path="url(#cn-face)"/>' if photo(n) else "")
-        ranked = sorted(((agreed[pair(n, o)], o) for o in names if o != n and pair(n, o) in shared), key=lambda t: (-t[0], t[1]))
-        desc = f"{full(n)}. Agreed most with {full(ranked[0][1])}, on {ranked[0][0]} votes, and least with {full(ranked[-1][1])}, on {ranked[-1][0]}."
+        ranked = sorted(((rate[pair(n, o)], o) for o in names if o != n and pair(n, o) in shared), key=lambda t: (-t[0], t[1]))
+        desc = f"{full(n)}. Agreed most with {full(ranked[0][1])}, {percent(ranked[0][0])} of the time, and least with {full(ranked[-1][1])}, {percent(ranked[-1][0])}."
         nodes += (f'<g class="cn-node" role="button" tabindex="0" aria-pressed="false" data-name="{e(n, quote=True)}" aria-label="{e(desc, quote=True)}">'
                   f'<circle class="dot" cx="{x:.1f}" cy="{y:.1f}" r="{r + 1}"/>{face}'
                   f'<text x="{tx:.1f}" y="{ty:.1f}" text-anchor="{anchor}">{label}</text></g>')
-    legend = "".join(f'<span><i style="height:{width(n):.1f}px"></i>{n} votes</span>' for n in sorted({round(most * .35), round(most * .65), most}))
+    low, high = min(rate.values()), most
+    legend = "".join(f'<span><i style="height:{width(v):.1f}px"></i>{percent(v)}</span>' for v in (low, (low + high) / 2, high))
 
-    def row(label, n, of, bar=True):
-        fill = f'<div class="cn-bar"><b style="width:{100 * n / most:.0f}%"></b></div>' if bar else ""
-        return f'<div class="cn-row{"" if bar else " pair"}"><span>{e(label)}</span>{fill}<span class="num">{n} of {of}</span></div>'
+    def row(label, k, bar=True):
+        fill = f'<div class="cn-bar"><b style="width:{100 * rate[k]:.0f}%"></b></div>' if bar else ""
+        return f'<div class="cn-row{"" if bar else " pair"}"><span>{e(label)}</span>{fill}<span class="num">{count(k)}</span></div>'
 
     def ties(ranked, count=5):
         return [t for t in ranked if (t[0] >= ranked[count - 1][0] if ranked[0][0] >= ranked[-1][0] else t[0] <= ranked[count - 1][0])]
 
-    by_pair = sorted(((agreed[k], k) for k in shared), key=lambda t: (-t[0], t[1]))
-    pair_rows = lambda items: "".join(row(f"{full(a)} & {full(b)}", n, shared[a, b], bar=False) for n, (a, b) in items)
+    by_pair = sorted(((rate[k], k) for k in shared), key=lambda t: (-t[0], t[1]))
+    pair_rows = lambda items: "".join(row(f"{full(a)} & {full(b)}", (a, b), bar=False) for _, (a, b) in items)
     panels = (f'<div class="cn-panel" data-for=""><p class="hint">Select a name to see only their lines, or select a line for its count.</p>'
               f'<div class="cn-cols"><div><h3>Agreed most</h3>{pair_rows(ties(by_pair))}</div>'
               f'<div><h3>Agreed least</h3>{pair_rows(ties(by_pair[::-1]))}</div></div></div>')
     for n in order:
-        ranked = sorted(((agreed[pair(n, o)], o) for o in names if o != n and pair(n, o) in shared), key=lambda t: (-t[0], t[1]))
+        ranked = sorted(((rate[pair(n, o)], o) for o in names if o != n and pair(n, o) in shared), key=lambda t: (-t[0], t[1]))
         panels += (f'<div class="cn-panel" data-for="{e(n, quote=True)}" hidden><div class="cn-who">{f'<img src="{e(photo(n), quote=True)}" alt="">' if photo(n) else ""}<div><h2>{e(full(n))}</h2><p class="hint">{e(ward(n))}{" · " if ward(n) else ""}how often they voted the same way as each colleague</p></div></div>'
-                   + "".join(row(full(o), c, shared[pair(n, o)]) for c, o in ranked) + "</div>")
+                   + "".join(row(full(o), pair(n, o)) for _, o in ranked) + "</div>")
 
     def shade(c):
-        return f"background:color-mix(in srgb,var(--accent) {45 * (c / most) ** 2:.0f}%,transparent)"
+        return f"background:color-mix(in srgb,var(--accent) {45 * power(c):.0f}%,transparent)"
     head = "".join(f"<th scope=\"col\">{e(full(n))}</th>" for n in order)
     body = ""
     for a in order:
         cells = ""
         for b in order:
             cells += ('<td class="self"></td>' if a == b else
-                      f'<td style="{shade(agreed[pair(a, b)])}" title="{e(full(a), quote=True)} and {e(full(b), quote=True)}: {agreed[pair(a, b)]} of {shared[pair(a, b)]}">{agreed[pair(a, b)]}</td>'
+                      f'<td style="{shade(rate[pair(a, b)])}" title="{e(full(a), quote=True)} and {e(full(b), quote=True)}: {agreed[pair(a, b)]} of {shared[pair(a, b)]}">{100 * rate[pair(a, b)]:.0f}</td>'
                       if pair(a, b) in shared else "<td></td>")
         body += f'<tr><th scope="row">{e(full(a))}</th>{cells}</tr>'
     vote_rows = ""
@@ -611,26 +618,31 @@ def build_councillors(out, all_minutes):
                       f'<a href="minutes/{r["meeting_date"]}.html#{r["motion_id"]}">{e(title)}</a>{vote_badge(x, minutes, r["meeting_date"])}</div>')
     largest_day, largest = collections.Counter(r["meeting_date"] for r in votes).most_common(1)[0]
     busy = dt.date.fromisoformat(largest_day)
+    heavy = (f" For example, {largest} of the {len(votes)} votes come from {busy:%B} {busy.day}, {busy.year}." if largest / len(votes) >= .1 else "")
+    took_part = collections.Counter(n for r in votes for n in r["for"] + r["against"])
+    part_term = [f"{full(n)} took part in {c} of them" for n, c in took_part.most_common() if c < .8 * len(votes)]
+    never = [f"{full(a)} and {full(b)}" for a, b in itertools.combinations(sorted(names), 2) if (a, b) not in shared]
+    credits = " ".join(sorted({x["credit"] for x in roster.values() if isinstance(x, dict) and x.get("credit")}))
     (out / "councillors.html").write_text(page("Who votes with whom", f"""
 <header class="top"><div class="eyebrow"><a href="index.html">&larr; All meetings</a></div>
 <h1>Who votes with whom</h1>
-<p class="lede">The thicker the line, the more often two council members voted the same way. This counts only the
+<p class="lede">The thicker the line, the larger the share of votes on which two council members voted the same way. This counts only the
 {len(votes)} recorded votes that were not unanimous, from {len(all_minutes)} meetings.</p></header>
-<svg class="cn-chart" viewBox="0 0 {W} {H}" role="group" aria-label="Circle of {len(order)} council members joined by curved lines. Line thickness shows how many contested votes each pair agreed on. The table below has every number.">
+<svg class="cn-chart" viewBox="0 0 {W} {H}" role="group" aria-label="Circle of {len(order)} council members joined by curved lines. Line thickness shows the share of contested votes each pair agreed on. The table below has every number.">
 <defs><clipPath id="cn-face" clipPathUnits="objectBoundingBox"><circle cx=".5" cy=".5" r=".5"/></clipPath></defs>
 <g>{lines}</g><g>{hits}</g><g>{nodes}</g><g class="cn-count"></g></svg>
-<div class="cn-legend">{legend}<span>in agreement</span></div>
+<div class="cn-legend">{legend}<span>of votes in agreement</span></div>
 {panels}
 {build_map(votes, full, photo, ward, agreed, shared)}
 <h2 class="sec">The numbers</h2>
-<details class="more"><summary>Every pair, as a table</summary><div class="in"><div class="scroll"><table class="cn">
+<details class="more"><summary>Every pair, as a table</summary><div class="in"><p class="hint">Percent of the votes both attended on which they agreed.</p><div class="scroll"><table class="cn">
 <thead><tr><td></td>{head}</tr></thead><tbody>{body}</tbody></table></div></div></details>
 <details class="more"><summary>The {len(votes)} votes counted</summary><div class="in">{vote_rows}</div></details>
 <footer>Two people agree when both vote for or both vote against, whichever side wins. A member who missed a vote is left out
-of it, so pairs shared between {min(shared.values())} and {max(shared.values())} of these votes. People who often agree are placed
+of it, so pairs shared between {min(shared.values())} and {max(shared.values())} of these votes.{" Not everyone served the whole time: " + "; ".join(part_term) + "." if part_term else ""}{" " + "; ".join(never) + " never voted together, so there is no line between them." if never else ""} People who often agree are placed
 next to each other around the circle; the placement has no other meaning. Amendments and separate clauses each count as a vote,
-so one issue can weigh heavily: {largest} of the {len(votes)} votes come from {busy:%B} {busy.day}, {busy.year}. Line thickness grows faster than the count, to make
-differences easier to see. Votes come from the city's minutes. Names and photos are from the <a href="https://guelph.ca/city-government/mayor-and-council/city-council/">City of Guelph</a>.</footer>""", extra_js=CHART_JS))
+so one issue can weigh heavily.{heavy} Line thickness grows faster than the percentage, to make
+differences easier to see. Votes come from the city's minutes. Names and photos are from the <a href="https://guelph.ca/city-government/mayor-and-council/city-council/">City of Guelph</a>. {e(credits)}</footer>""", extra_js=CHART_JS))
     return True
 
 
@@ -676,7 +688,7 @@ def main():
         transcript_link = f'<a class="btn" href="transcripts/{key}.html">Read full transcript</a>' if starts else ""
         video_link = f'<a href="{video}">Video</a>' if m.get("HasVideo") else ""
         agenda_link = f'<a href="{BASE}{agenda["Url"]}">Agenda</a>' if agenda else ""
-        cards.append(f"""
+        cards.append((start, f"""
 <details class="meeting" id="m-{key}">
 <summary>
 <div class="date"><span class="d">{start:%b} {start.day}</span><span class="y">{start.year}</span><span class="t">{clock}</span></div>
@@ -691,16 +703,21 @@ def main():
 <a href="minutes/{key}.html">Minutes</a>
 <a href="{official}">Official minutes</a>{agenda_link}</div>
 </div>
-</details>""")
+</details>"""))
         stamps[key] = p.content_stamp(d)
         all_minutes[key] = minutes
 
     has_chart = build_councillors(out, all_minutes)
+    dates = [when for when, _ in cards]
+    span = (f"{len(cards)} City Council meeting{'s' if len(cards) != 1 else ''}, {min(dates):%B %Y} to {max(dates):%B %Y}" if dates else "No meetings yet")
+    listing = ""
+    for year, group in itertools.groupby(cards, key=lambda c: c[0].year):
+        listing += f'<h2 class="sec year">{year}</h2>' + "".join(body for _, body in group)
     (out / "index.html").write_text(page("Guelph City Council", f"""
 <header class="top"><div class="eyebrow">Guelph, Ontario</div><h1>City Council, in brief</h1>
-<p class="lede">{len(cards)} recent City Council meetings. Select one for a summary, decisions and the full transcript. Select a vote to see who voted which way.</p>
+<p class="lede">{span}. Select one for a summary, decisions and the full transcript. Select a vote to see who voted which way.</p>
 {'<a class="cn-nav" href="councillors.html">See who votes with whom &rarr;</a>' if has_chart else ''}</header>
-{''.join(cards)}
+{listing}
 <footer>Source: <a href="{BASE}">City of Guelph eSCRIBE</a>. Summaries are AI-generated from the official minutes and
 transcripts of the recordings, so check the minutes before relying on them. Vote counts come directly from the minutes.</footer>"""))
     shutil.rmtree(p.SITE, ignore_errors=True)

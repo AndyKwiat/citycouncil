@@ -12,7 +12,12 @@ def distances(M):
     D = np.zeros((len(M), len(M)))
     for i, j in itertools.combinations(range(len(M)), 2):
         both = (M[i] != 0) & (M[j] != 0)
-        D[i, j] = D[j, i] = np.mean(M[i][both] != M[j][both]) if both.any() else 1.0
+        D[i, j] = D[j, i] = np.mean(M[i][both] != M[j][both]) if both.any() else np.nan
+    # People who never voted together (one replaced the other, say) have no real distance. Treating that as total
+    # disagreement would push them apart for no reason, so estimate it from how alike they are with everyone else.
+    for i, j in zip(*np.where(np.isnan(D))):
+        known = ~np.isnan(D[i]) & ~np.isnan(D[j])
+        D[i, j] = np.abs(D[i][known] - D[j][known]).mean() if known.any() else .5
     return D
 
 

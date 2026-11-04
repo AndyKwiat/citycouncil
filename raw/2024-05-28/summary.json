@@ -1,0 +1,60 @@
+{
+ "title": "Internet voting approved for 2026 municipal election",
+ "subtitle": "Also: vote by mail, free transit on election day, back-office centralization, encampment report, court services and 2023 surplus.",
+ "overview": [
+  "Council directed the City Clerk's Office to offer internet voting as an alternative method in the 2026 municipal and school board election, but only if security requirements and testing meet the clerk's satisfaction {{vote:m17}}. Council also kept vote by mail and vote from home {{vote:m18}}, approved vote tabulators {{vote:m16}}, and approved free Guelph Transit and free parking at Market Parkade on election day {{vote:m15}}. Dozens of delegates spoke, most on internet voting. Staff said that if the market cannot meet the requirements, they would bring forward a by-law to repeal the internet voting decision.",
+  "Council approved up to $150,000 from the Tax Rate Contingency Reserve to centralize back-office support functions, with savings repaying the reserve first {{vote:m4}}. The consent report moved the transfer of certain provincial offences prosecutions to the City, started an administrative penalty system for parking, allocated the 2023 operating surplus to reserves, and set next steps on a temporary structured encampment {{vote:m12}}.",
+  "Council also appointed Councillor Klassen to the Downtown Guelph Business Association board {{vote:m13}}."
+ ],
+ "decisions": [
+  {
+   "motion": "m17",
+   "item": "Internet voting",
+   "detail": "Council directed the City Clerk's Office to offer internet voting as an alternative method in 2026, subject to security requirements and testing meeting the clerk's satisfaction {{vote:m17}}."
+  },
+  {
+   "motion": "m18",
+   "item": "Vote by mail and vote from home",
+   "detail": "Council approved vote by mail and vote from home as alternative voting methods for the 2026 municipal and school board elections {{vote:m18}}."
+  },
+  {
+   "motion": "m15",
+   "item": "Free transit and parking on election day",
+   "detail": "Council approved free Guelph Transit service and free parking at Market Parkade on election day in 2026 to reduce barriers to voting {{vote:m15}}."
+  },
+  {
+   "motion": "m16",
+   "item": "Vote tabulators",
+   "detail": "Council approved using vote tabulators in the 2026 municipal and school board election {{vote:m16}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Back-office centralization",
+   "detail": "Council allocated up to $150,000 from the Tax Rate Contingency Reserve for centralizing back-office support functions, with savings first repaying the reserve and then going to the operating budget {{vote:m4}}."
+  },
+  {
+   "motion": "m12",
+   "item": "Temporary structured encampment",
+   "detail": "Staff were directed to identify suitable City-owned sites and costs, and to work with County housing staff on a tiny homes proposal, reporting back by July 2024 {{vote:m12}}."
+  },
+  {
+   "motion": "m8",
+   "item": "Court services and parking penalties",
+   "detail": "Council authorized agreements to take over certain Provincial Offences Act prosecutions and directed staff to implement an Administrative Penalty System for parking infractions {{vote:m8}}."
+  },
+  {
+   "motion": "m11",
+   "item": "2023 surplus allocation",
+   "detail": "Council allocated the $3,863,029 tax-supported surplus and the non-tax-supported surplus and deficits among City reserves {{vote:m11}}."
+  }
+ ],
+ "debate": [
+  "Delegates opposed to internet voting said Ontario has no provincial standards or certification body for it. They said results cannot be independently verified or recounted the way paper ballots can, and they raised phishing, outages and reliance on vendors. Several urged waiting for provincial standards.",
+  "Accessibility advocates and other delegates said online voting may be the only way some people can vote privately and independently. They described barriers with in-person voting, including inaccessible routes, long waits and inconsistent help, and problems with mail-in kits such as latex in the envelopes. They argued the clerk-satisfaction clause is a safeguard.",
+  "Delegates disagreed about the evidence. One delegate cited past hacking and tampering cases. Another said several of those were penetration tests or technical errors rather than hacked municipal elections. A delegate also said Toronto and Quebec had not found secure options.",
+  "Staff said their risks centred on verifiability, reliability and dependence on outside vendors. They noted that only two vendors meet the base requirements and that live platforms are hard to test continuously. They said the clerk would test the market and could return with a repeal by-law if requirements are not met.",
+  "Some councillors opposed internet voting because standards and certification are missing. Others supported it on the condition that the clerk is satisfied, and said no voting method is risk-free. Councillors kept vote by mail because some people trust it more than an online option, and it also serves as a fallback."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-04T17:13:19"
+}

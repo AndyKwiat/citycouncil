@@ -1,0 +1,15 @@
+{
+ "recording_seconds": 3781,
+ "caption_words": 1358,
+ "caption_wpm": 21.5,
+ "gaps": [
+  {
+   "start": 636,
+   "end": 3091,
+   "whisper_words": 4,
+   "filled": false
+  }
+ ],
+ "method": "captions",
+ "words": 1358
+}

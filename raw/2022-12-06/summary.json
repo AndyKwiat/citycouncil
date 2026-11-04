@@ -1,26 +1,26 @@
 {
- "title": "Council appointments to committees and boards",
- "subtitle": "Committee chairs, a larger library board, a council seat on Heritage Guelph, and The Elliott's management committee.",
+ "title": "Council and committee appointments for the 2022–2026 term",
+ "subtitle": "Public advisory appointments, larger library board, Heritage Guelph councillor seat, and Elliott management committee changes.",
  "overview": [
-  "Council met on December 6, 2022, and spent most of the evening on appointments for the 2022-2026 term. After a closed session on public appointments, Council approved in open session the residents named to advisory committees, local boards and commissions {{vote:m2}}. Staff were also directed to keep recruiting for remaining vacancies, and the Guelph Sports Hall of Fame Board of Directors was dissolved at its own request.",
-  "Council filled the chair and vice-chair roles for its Committee of the Whole bodies, for example Councillor Downer as Public Services chair {{vote:m9}}. It also named councillors to outside boards, including the Grand River Conservation Authority {{vote:m16}}, the Police Services Board {{vote:m17}} and the public health board {{vote:m21}}.",
-  "Two structural changes affect how Council connects with local bodies. The library board will have 3 council members and 10 public members {{vote:m18}}. Council also set aside rules to add a non-voting councillor to Heritage Guelph {{vote:m23}}. The Committee of Management for The Elliott was reshaped {{vote:m14}}. These changes give Council more direct involvement in these bodies."
+  "Council made its public appointments to advisory committees, local boards and commissions for the new term, following a closed session on the candidates. Council also asked staff to keep recruiting for remaining vacancies and dissolved the Guelph Sports Hall of Fame Board of Directors at the board's own request {{vote:m2}}.",
+  "Councillors then chose chairs and vice-chairs for the Committee of the Whole service areas and named council members to outside boards, including the Grand River Conservation Authority, the Police Services Board, the Public Health board and the Downtown Guelph Business Association.",
+  "Council also changed some structures. The Guelph Public Library Board will now include three council members and 10 public members {{vote:m18}}. A councillor will sit on Heritage Guelph as a non-voting member {{vote:m24}}. The Committee of Management for The Elliott was expanded to include the service area vice-chairs and others {{vote:m14}}. These changes affect how council and its boards communicate on budgets and local decisions."
  ],
  "decisions": [
   {
    "motion": "m2",
    "item": "Public appointments to advisory bodies",
-   "detail": "Council appointed and reappointed residents to advisory committees, local boards and commissions, directed further recruitment for vacancies, and dissolved the Guelph Sports Hall of Fame Board of Directors at its request."
+   "detail": "Council appointed and reappointed residents to advisory committees, boards and commissions, directed further recruitment for vacancies, and dissolved the Guelph Sports Hall of Fame Board at its request."
   },
   {
    "motion": "m3",
-   "item": "Heritage Guelph members",
+   "item": "Heritage Guelph public members",
    "detail": "Council reappointed four members and appointed five new members to Heritage Guelph."
   },
   {
    "motion": "m18",
    "item": "Library board composition",
-   "detail": "The Guelph Public Library Board of Directors will now have 10 public members and 3 City Council members."
+   "detail": "The Guelph Public Library Board was changed to 10 public members and 3 council members."
   },
   {
    "motion": "m24",
@@ -30,17 +30,17 @@
   {
    "motion": "m23",
    "item": "Heritage Guelph policy waiver",
-   "detail": "Council waived the appointment policy and Heritage Guelph terms of reference provisions so a non-voting councillor could be appointed."
+   "detail": "Council waived the appointment policy and Heritage Guelph terms of reference so a non-voting councillor could be appointed."
   },
   {
    "motion": "m14",
-   "item": "The Elliott Committee of Management",
-   "detail": "The committee's composition was amended to include the service area vice-chairs, the Public Services chair and Council's appointee to The Elliott board."
+   "item": "Committee of Management for The Elliott",
+   "detail": "The committee's composition was amended to include the service area vice-chairs, the Public Services chair and the council appointee to The Elliott's board."
   },
   {
-   "motion": "m9",
-   "item": "Public Services chair",
-   "detail": "Councillor Downer was appointed chair of the Committee of the Whole Public Services for a term ending November 15, 2024."
+   "motion": "m5",
+   "item": "Committee of the Whole chairs",
+   "detail": "Councillor Caron was named chair of Corporate Services, with other service area chairs and vice-chairs appointed in separate motions."
   },
   {
    "motion": "m17",
@@ -49,12 +49,12 @@
   }
  ],
  "debate": [
-  "Before the closed session, a councillor declared a conflict of interest because a family member had applied. The Mayor said that councillor would not take part in the related discussion.",
-  "Two councillors seeking the Corporate Services vice-chair role each described their background. One pointed to project management and technology experience. The other pointed to public-sector education, human resources, and audit and budget experience.",
-  "A councillor asked what happens if one person is vice-chair of two committees, since vice-chairs sit on The Elliott's Committee of Management. Staff said Council could amend the motion to appoint another councillor if needed.",
-  "The mover of the library board change said more councillors would improve communication between the board and Council. They also said a larger new main branch under the Baker Street redevelopment would raise the operating budget, and that councillors on the board could influence the budget earlier. The mover said they had consulted the library's executive director and board chair.",
-  "Supporting a councillor seat on Heritage Guelph, a councillor cited a past facilitation report that recommended it, and peer cities with one or two councillors on their heritage committees. They also said provincial changes under Bill 23 made a link to Council timely."
+  "Before the closed session, one councillor declared a conflict of interest because a family member had applied, and was kept out of that discussion and the related votes.",
+  "For the Corporate Services vice-chair, two councillors made short pitches. One cited project management and technology experience and interest in the city's website redesign. The other cited public-sector, human resources, audit and budget experience.",
+  "A councillor asked whether a person serving as vice-chair of two committees would leave the Committee of Management for The Elliott short a member. Staff said council could amend that motion to add another member if needed.",
+  "The mover of the library board change said more council members would improve communication with council and give council more input into the budget, especially as the new main library branch is built. The Police Services Board and Public Health already have more than one council member.",
+  "On Heritage Guelph, a councillor said a past facilitation report recommended a council member sit on the committee to improve collaboration. The councillor said changes expected from provincial Bill 23 made this a good time."
  ],
  "model": "claude-sonnet-5-5",
- "generated_at": "2026-11-04T16:34:38"
+ "generated_at": "2026-11-04T16:36:17"
 }

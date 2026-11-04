@@ -1,0 +1,51 @@
+{
+ "title": "Governance review and strong mayor powers",
+ "subtitle": "Planning delegation times, reading motions aloud, contract term limits, and a Bill C-22 update",
+ "overview": [
+  "Council approved the 2023 Governance Review, including an amended Procedure By-law, an amended Closed Meeting Protocol and changes to the Delegation of Authority By-law {{vote:m8}}. Seventeen delegates spoke. Most asked council to reaffirm its opposition to the province's strong mayor powers, to write the mayor's delegations into the by-law, and to require notice and reporting when the powers are used.",
+  "Council deferred four of the committee's recommendations so the City Clerk and other staff can report back. Staff said updates tied to the strong mayor legislation will come to the September governance committee. The City Clerk and Mayor were also directed to review the governance framework for the Strategic Advisory Group on Downtown Guelph.",
+  "Three amendments changed the package. Delegations at public planning meetings keep their ten-minute limit {{vote:m4}}. Motions not in the agenda package must be read aloud {{vote:m6}}. The longest contract term staff can sign without council approval returns to five years {{vote:m7}}. Council also agreed to add O Canada, silent reflection and a First Nations acknowledgement to all meeting types {{vote:m5}}.",
+  "After the closed session, the mayor noted that Bill C-22 has passed. This was an announcement, not a council decision."
+ ],
+ "decisions": [
+  {
+   "motion": "m8",
+   "item": "2023 Governance Review",
+   "detail": "Council approved the amended Procedure By-law, Closed Meeting Protocol and Delegation of Authority By-law changes, and deferred four recommendations for a staff report back."
+  },
+  {
+   "motion": "m4",
+   "item": "Planning delegation time",
+   "detail": "Delegations at public meetings under the Planning Act keep a ten-minute limit instead of the proposed five, and council may extend it by majority vote without debate."
+  },
+  {
+   "motion": "m5",
+   "item": "Opening ceremonies",
+   "detail": "The Procedure By-law will add the singing of O Canada, silent reflection and a First Nations acknowledgement to all meeting types."
+  },
+  {
+   "motion": "m6",
+   "item": "Reading motions aloud",
+   "detail": "A motion or amendment not in the agenda package must be given to the chair and read aloud before the vote."
+  },
+  {
+   "motion": "m7",
+   "item": "Contract term limit",
+   "detail": "The Delegation of Authority By-law limit on staff-signed contract terms returns to five years rather than ten."
+  },
+  {
+   "motion": "m3",
+   "item": "Downtown advisory group review",
+   "detail": "The City Clerk and Mayor will review the governance framework for the Strategic Advisory Group on Downtown Guelph for legal compliance and report back as required."
+  }
+ ],
+ "debate": [
+  "The mayor told delegates that comments had to relate to the Procedure By-law, not general opposition to the provincial legislation. Several speakers were reminded to stay on topic.",
+  "Delegates asked council to reaffirm its earlier opposition to strong mayor powers, write the mayor's delegations into the by-law, require notice and reporting when the powers are used, and refer the review back to staff. Some also asked council to rescind the housing pledge.",
+  "Staff said the by-law cannot override provincial law, and the provincial law prevails where they conflict. Staff said mayoral decisions will be in writing and posted on a public web page from July 1. Staff also said the delegations would be posted as mayoral directions rather than written into the Procedure By-law, and that more changes will come in September once the regulations are seen.",
+  "On planning delegations, supporters said planning issues are technical and costly to appeal, and ten minutes helps residents without lawyers. The mayor and other opponents said five minutes supports efficient meetings, since neighbourhood meetings, emails and questions from councillors already give people other ways to be heard.",
+  "On the contract-term amendment, staff said the ten-year term was meant for a small number of long-term culture and recreation leases. Longer renewals would now come to council, perhaps once or twice a year."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-04T17:28:10"
+}
