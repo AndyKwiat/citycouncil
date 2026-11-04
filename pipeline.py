@@ -212,8 +212,9 @@ def audit_votes(raw, soup, motions, roster):
         if both:
             problems.append(f"{x['id']}: listed on both sides: {', '.join(both)}")
     for x in motions:
-        if x["result"]["for"] is not None and not (x["votes"]["for"] or x["votes"]["against"]):
-            problems.append(f"{x['id']}: has a count but no names")
+        # The city often gives a bare "12 to 0" on adjournments, which loses nothing. A split with no names does.
+        if x["result"]["against"] and not (x["votes"]["for"] or x["votes"]["against"]):
+            problems.append(f"{x['id']}: split vote {x['result']['for']}-{x['result']['against']} but no names")
     return problems
 
 
@@ -322,9 +323,17 @@ def step_parse(m, force=False):
         if "consent" not in parent["title"].lower():
             continue
         group = [x for x in motions if x["item_number"] == parent["number"] or x["item_number"].startswith(parent["number"] + ".")]
-        source = next((x for x in group if x["result"]["outcome"]), None)
-        for x in group if source else []:
-            x["result"], x["votes"], x["inherited"] = source["result"], source["votes"], True
+        decided = [x for x in group if x["result"]["outcome"]]
+        # Sometimes each item gets its own recorded vote; those must keep it. Fill in only motions the city left blank,
+        # and only when one vote can be the one that covered them.
+        for x in group:
+            if x["result"]["outcome"] or re.search(r"withdrawn|out of order|referred", x["post_html"], re.I):
+                continue
+            own_item = [y for y in decided if y["item_number"] == x["item_number"]]
+            source = own_item[0] if own_item else decided[0] if len(decided) == 1 else None
+            if source:
+                x["result"], x["votes"], x["inherited"] = source["result"], source["votes"], True
+                source["inherited"] = True
     # Motions that never reached a vote say why in the text after them.
     for x in motions:
         if not x["result"]["outcome"]:
