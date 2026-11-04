@@ -79,6 +79,7 @@ footer{margin-top:30px;color:var(--muted);font-size:13.5px}
 .cn-chart .hit{fill:none;stroke:transparent;pointer-events:stroke;cursor:pointer}
 .cn-chart.sel .e{opacity:.04!important}.cn-chart.sel .e.on{opacity:.85!important}
 .cn-chart.sel .hit{pointer-events:none}.cn-chart.sel .hit.on{pointer-events:stroke}
+.cn-count{pointer-events:none}.cn-count rect{fill:var(--panel);stroke:var(--line)}.cn-count text{fill:var(--ink);font:600 15px var(--sans);font-variant-numeric:tabular-nums}
 .cn-node{cursor:pointer;outline:none}.cn-node .pad{fill:transparent}
 .cn-node .dot{fill:var(--panel);stroke:var(--line);stroke-width:3}
 .cn-node text{fill:var(--ink);font:600 17px var(--sans)}
@@ -122,7 +123,7 @@ table.cn td{width:30px;min-width:30px;height:28px;text-align:center;border:2px s
 table.cn td.self{background:var(--line)}
 .cn-vote{display:grid;grid-template-columns:96px minmax(0,1fr) auto;gap:10px;padding:7px 0;border-top:1px solid var(--line);font-size:14.5px;align-items:baseline}
 .cn-vote:first-child{border-top:0}.cn-vote .when{color:var(--muted);font-size:13.5px}
-@media (max-width:560px){.cn-cols{grid-template-columns:1fr}.cn-node text{font-size:27px}.cn-map text{font-size:30px}.cn-map .link-labels text{font-size:19px}.cn-map .sur{font-size:19px}h2.sec{font-size:24px}
+@media (max-width:560px){.cn-cols{grid-template-columns:1fr}.cn-node text{font-size:27px}.cn-count text{font-size:26px}.cn-map text{font-size:30px}.cn-map .link-labels text{font-size:19px}.cn-map .sur{font-size:19px}h2.sec{font-size:24px}
 .cn-vote{grid-template-columns:minmax(0,1fr) auto}.cn-vote .when{grid-column:1/3}
 summary{grid-template-columns:1fr 18px;gap:6px 10px;padding:16px}
 .date{grid-column:1/2}.date .d,.date .y,.date .t{display:inline;font-size:14px;font-family:var(--sans);font-weight:500;color:var(--muted);margin-right:4px}
@@ -180,12 +181,17 @@ function single(hit){
  nodes.forEach(function(n){var m=n.dataset.name===hit.dataset.a||n.dataset.name===hit.dataset.b;n.classList.toggle('near',m)});
 }
 function clearNear(){nodes.forEach(function(n){n.classList.remove('near')})}
-function showTip(hit,ev){
- tip.textContent='';tip.className='';var b=document.createElement('b');b.textContent=hit.dataset.label;
- var sp=document.createElement('span');sp.textContent=hit.dataset.text;tip.appendChild(b);tip.appendChild(sp);tip.hidden=false;
- var x=Math.max(8,Math.min(ev.clientX+14,innerWidth-tip.offsetWidth-8)),y=ev.clientY-tip.offsetHeight-12;if(y<8)y=ev.clientY+16;
- tip.style.left=x+'px';tip.style.top=y+'px';}
-function rest(){tip.hidden=true;clearNear();pick(pinned)}
+// The count sits on the line itself, so it never covers a portrait.
+var NS='http://www.w3.org/2000/svg',countLayer=svg.querySelector('.cn-count');
+function clearCount(){countLayer.textContent=''}
+function showCount(hit){
+ clearCount();var mid=hit.getPointAtLength(hit.getTotalLength()/2);
+ var rect=document.createElementNS(NS,'rect'),text=document.createElementNS(NS,'text');
+ rect.setAttribute('rx',5);countLayer.appendChild(rect);countLayer.appendChild(text);
+ text.setAttribute('text-anchor','middle');text.setAttribute('x',mid.x);text.setAttribute('y',mid.y);text.setAttribute('dy','.35em');text.textContent=hit.dataset.count;
+ var b=text.getBBox();rect.setAttribute('x',b.x-6);rect.setAttribute('y',b.y-2);rect.setAttribute('width',b.width+12);rect.setAttribute('height',b.height+4);
+}
+function rest(){clearCount();clearNear();pick(pinned)}
 nodes.forEach(function(n){var name=n.dataset.name;
  n.addEventListener('mouseenter',function(){if(!pinned)pick(name)});
  n.addEventListener('mouseleave',function(){if(!pinned)pick(null)});
@@ -195,12 +201,11 @@ nodes.forEach(function(n){var name=n.dataset.name;
  n.addEventListener('keydown',function(ev){if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();pinned=pinned===name?null:name;pick(pinned||name)}});
 });
 hits.forEach(function(h){
- h.addEventListener('mouseenter',function(ev){if(!pinned)single(h);showTip(h,ev)});
- h.addEventListener('mousemove',function(ev){showTip(h,ev)});
+ h.addEventListener('mouseenter',function(){if(!pinned)single(h);showCount(h)});
  h.addEventListener('mouseleave',rest);
- h.addEventListener('click',function(ev){ev.stopPropagation();showTip(h,ev)});
+ h.addEventListener('click',function(ev){ev.stopPropagation();if(!pinned)single(h);showCount(h)});
 });
-document.addEventListener('click',function(ev){if(ev.target.closest&&ev.target.closest('.cn-chart')&&ev.target!==svg)return;tip.hidden=true;if(pinned){pinned=null;pick(null)}else rest()});
+document.addEventListener('click',function(ev){if(ev.target.closest&&ev.target.closest('.cn-chart')&&ev.target!==svg)return;if(pinned){pinned=null;pick(null)}else rest()});
 document.addEventListener('keydown',function(ev){if(ev.key==='Escape'){pinned=null;rest()}});
 })();
 (function(){
@@ -546,11 +551,10 @@ def build_councillors(out, all_minutes):
     links = sorted(((agreed[k], k) for k in shared), key=lambda t: (t[0], t[1]))
     lines, hits = "", ""
     for i, (n, (a, b)) in enumerate(links):
-        attrs = f'data-i="{i}" data-a="{e(a, quote=True)}" data-b="{e(b, quote=True)}" data-label="{e(full(a) + " & " + full(b), quote=True)}"'
+        attrs = f'data-i="{i}" data-a="{e(a, quote=True)}" data-b="{e(b, quote=True)}"'
         lines += f'<path class="e" {attrs} d="{curve(a, b)}" stroke-width="{width(n):.1f}" opacity="{.22 + .5 * (n / most) ** 2:.2f}"/>'
-        text = f"Voted the same way on {n} of the {shared[a, b]} contested votes they both attended"
         # Thin lines sit on top so they stay reachable; a small target stops them stealing hover from thick ones.
-        hits = f'<path class="hit" {attrs} data-text="{e(text, quote=True)}" d="{curve(a, b)}" stroke-width="{max(8, width(n) + 2):.1f}"/>' + hits
+        hits = f'<path class="hit" {attrs} data-count="{n} of {shared[a, b]}" d="{curve(a, b)}" stroke-width="{max(8, width(n) + 2):.1f}"/>' + hits
     nodes = ""
     for n in order:
         x, y = pos[n]
@@ -612,10 +616,9 @@ def build_councillors(out, all_minutes):
 <h1>Who votes with whom</h1>
 <p class="lede">The thicker the line, the more often two council members voted the same way. This counts only the
 {len(votes)} recorded votes that were not unanimous, from {len(all_minutes)} meetings.</p></header>
-<svg class="cn-chart" viewBox="0 0 {W} {H}" role="img" aria-labelledby="cn-title">
-<title id="cn-title">Circle of {len(order)} council members joined by curved lines. Line thickness shows how many contested votes each pair agreed on. The table below has every number.</title>
+<svg class="cn-chart" viewBox="0 0 {W} {H}" role="group" aria-label="Circle of {len(order)} council members joined by curved lines. Line thickness shows how many contested votes each pair agreed on. The table below has every number.">
 <defs><clipPath id="cn-face" clipPathUnits="objectBoundingBox"><circle cx=".5" cy=".5" r=".5"/></clipPath></defs>
-<g>{lines}</g><g>{hits}</g><g>{nodes}</g></svg>
+<g>{lines}</g><g>{hits}</g><g>{nodes}</g><g class="cn-count"></g></svg>
 <div class="cn-legend">{legend}<span>in agreement</span></div>
 {panels}
 {build_map(votes, full, photo, ward, agreed, shared)}
