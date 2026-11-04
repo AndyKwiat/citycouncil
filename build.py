@@ -103,7 +103,8 @@ h2.sec{font:600 28px/1.2 var(--serif);margin:44px 0 8px}
 .cn-map .pt{cursor:pointer;outline:none}.cn-map .ring{fill:var(--panel);stroke-width:4}.cn-map .g0 .ring{stroke:var(--g0)}.cn-map .g1 .ring{stroke:var(--g1)}.cn-map .gx .ring{stroke:var(--muted)}
 .cn-map .pt.on .ring,.cn-map .pt:focus-visible .ring{stroke-width:7}
 .cn-map .sur{fill:var(--muted);font:400 12px var(--sans)}.cn-map .pt.on .sur{fill:var(--ink)}
-.cn-map text{fill:var(--ink);font:600 19px var(--sans)}.cn-map .scale text{fill:var(--muted);font-weight:400;font-size:15px}.cn-map .scale line{stroke:var(--muted);stroke-width:2}
+.cn-map text{fill:var(--ink);font:600 19px var(--sans)}.cn-map .links line{stroke:var(--muted);stroke-width:1.5;opacity:.45}
+.cn-map .link-labels{pointer-events:none}.cn-map .link-labels rect{fill:var(--panel);opacity:.9}.cn-map .link-labels text{fill:var(--ink);font:500 12px var(--sans);font-variant-numeric:tabular-nums}
 .cn-groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:12px}
 .cn-group{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
 .cn-group h3{display:flex;align-items:center;gap:8px;font-size:15px;margin:0 0 2px;font-weight:600}
@@ -121,7 +122,7 @@ table.cn td{width:30px;min-width:30px;height:28px;text-align:center;border:2px s
 table.cn td.self{background:var(--line)}
 .cn-vote{display:grid;grid-template-columns:96px minmax(0,1fr) auto;gap:10px;padding:7px 0;border-top:1px solid var(--line);font-size:14.5px;align-items:baseline}
 .cn-vote:first-child{border-top:0}.cn-vote .when{color:var(--muted);font-size:13.5px}
-@media (max-width:560px){.cn-cols{grid-template-columns:1fr}.cn-node text{font-size:27px}.cn-map text{font-size:30px}.cn-map .scale text{font-size:24px}.cn-map .sur{font-size:19px}h2.sec{font-size:24px}
+@media (max-width:560px){.cn-cols{grid-template-columns:1fr}.cn-node text{font-size:27px}.cn-map text{font-size:30px}.cn-map .link-labels text{font-size:19px}.cn-map .sur{font-size:19px}h2.sec{font-size:24px}
 .cn-vote{grid-template-columns:minmax(0,1fr) auto}.cn-vote .when{grid-column:1/3}
 summary{grid-template-columns:1fr 18px;gap:6px 10px;padding:16px}
 .date{grid-column:1/2}.date .d,.date .y,.date .t{display:inline;font-size:14px;font-family:var(--sans);font-weight:500;color:var(--muted);margin-right:4px}
@@ -205,14 +206,42 @@ document.addEventListener('keydown',function(ev){if(ev.key==='Escape'){pinned=nu
 (function(){
 var map=document.querySelector('.cn-map');if(!map)return;
 var pts=[].slice.call(map.querySelectorAll('.pt')),tip=document.getElementById('cntip'),current=null;
+var NS='http://www.w3.org/2000/svg',links=map.querySelector('.links'),linkLabels=map.querySelector('.link-labels');
+function el(tag,attrs,parent){var n=document.createElementNS(NS,tag);for(var k in attrs)n.setAttribute(k,attrs[k]);parent.appendChild(n);return n}
+function clearLinks(){links.textContent='';linkLabels.textContent=''}
+function drawLinks(pt){
+ clearLinks();var x1=+pt.dataset.x,y1=+pt.dataset.y,counts=JSON.parse(pt.dataset.agree),placed=[],FACE=25,vb=map.viewBox.baseVal;
+ var faces=pts.map(function(p){var x=+p.dataset.x,y=+p.dataset.y;return [x-FACE,y-FACE,x+FACE,y+FACE]});
+ var names=[].map.call(map.querySelectorAll('.sur'),function(n){var b=n.getBBox();return [b.x,b.y,b.x+b.width,b.y+b.height]});
+ var targets=pts.filter(function(o){return counts[o.dataset.name]}).map(function(o){var dx=+o.dataset.x-x1,dy=+o.dataset.y-y1;return {o:o,x:+o.dataset.x,y:+o.dataset.y,len:dx*dx+dy*dy}});
+ targets.sort(function(a,b){return a.len-b.len});
+ targets.forEach(function(t){el('line',{x1:x1,y1:y1,x2:t.x,y2:t.y},links)});
+ targets.forEach(function(t){
+  var c=counts[t.o.dataset.name],g=el('g',{},linkLabels),rect=el('rect',{rx:4},g),text=el('text',{'text-anchor':'middle'},g);text.textContent=Math.round(100*c[0]/c[1])+'%';
+  var b=text.getBBox(),w=b.width+8,h=b.height+2,best=null,bestScore=1e9;
+  function overlaps(x,y){var box=[x-w/2,y-h/2,x+w/2,y+h/2],score=0;
+   function hit(p){return box[0]<p[2]&&box[2]>p[0]&&box[1]<p[3]&&box[3]>p[1]}
+   faces.forEach(function(p){if(hit(p))score+=10});placed.forEach(function(p){if(hit(p))score+=10});names.forEach(function(p){if(hit(p))score+=3});return score}
+  function consider(x,y,cost){if(x-w/2<2||x+w/2>vb.width-2||y-h/2<2||y+h/2>vb.height-2)return;var score=overlaps(x,y)+cost;if(score<bestScore){bestScore=score;best=[x,y]}}
+  // Best is the middle of the line, then further along it. If portraits leave no room, sit beside the other person's portrait.
+  [.5,.55,.45,.6,.4,.65,.35,.7,.3,.75].forEach(function(s,i){consider(x1+(t.x-x1)*s,y1+(t.y-y1)*s,i*.01)});
+  var dx=t.x-x1,dy=t.y-y1,base=Math.atan2(dy,dx);
+  [0,.8,-.8,1.6,-1.6,2.4,-2.4,3.14].forEach(function(turn,i){var ang=base+turn,dist=FACE+6+Math.abs(Math.cos(ang))*w/2+Math.abs(Math.sin(ang))*h/2;consider(t.x+Math.cos(ang)*dist,t.y+Math.sin(ang)*dist,1+i*.01)});
+  var lx=best[0],ly=best[1],box=[lx-w/2,ly-h/2,lx+w/2,ly+h/2];
+  placed.push(box);text.setAttribute('x',lx);text.setAttribute('y',ly+b.height*.32);
+  rect.setAttribute('x',box[0]);rect.setAttribute('y',box[1]);rect.setAttribute('width',w);rect.setAttribute('height',h);
+ });
+}
 function show(pt){
- if(current&&current!==pt)current.classList.remove('on');current=pt;pt.classList.add('on');
+ if(current===pt&&!tip.hidden)return;
+ if(current&&current!==pt)current.classList.remove('on');current=pt;pt.classList.add('on');drawLinks(pt);
  tip.textContent='';tip.className='face';var d=pt.dataset;
  if(d.img){var i=document.createElement('img');i.src=d.img;i.alt='';tip.appendChild(i)}
  var b=document.createElement('b');b.textContent=d.full;var s=document.createElement('span');s.textContent=d.text;tip.appendChild(b);tip.appendChild(s);tip.hidden=false;
- var r=pt.querySelector('.ring').getBoundingClientRect(),x=Math.max(8,Math.min(r.right+10,innerWidth-tip.offsetWidth-8)),y=r.top-tip.offsetHeight-8;if(y<8)y=r.bottom+8;
- tip.style.left=x+'px';tip.style.top=y+'px';}
-function hide(){if(current)current.classList.remove('on');current=null;tip.hidden=true}
+ // A fixed spot on the map's empty corner (below it on phones), so the name never covers the numbers.
+ var r=map.getBoundingClientRect(),h=tip.offsetHeight,y=innerWidth<560?r.bottom+6:r.bottom-h-12;
+ tip.style.left=(r.left+12)+'px';tip.style.top=Math.max(8,Math.min(y,innerHeight-h-8))+'px';}
+function hide(){if(current)current.classList.remove('on');current=null;tip.hidden=true;clearLinks()}
 function nearest(ev){var m=map.getScreenCTM().inverse(),x=ev.clientX*m.a+m.e,y=ev.clientY*m.d+m.f,best=null,bd=48*48;
  pts.forEach(function(p){var dx=+p.dataset.x-x,dy=+p.dataset.y-y,d=dx*dx+dy*dy;if(d<bd){bd=d;best=p}});return best}
 map.addEventListener('mousemove',function(ev){var p=nearest(ev);if(p)show(p);else hide()});
@@ -398,7 +427,7 @@ def circle_order(names, agreed):
     return order[top:] + order[:top]
 
 
-def build_map(votes, full, photo, ward):
+def build_map(votes, full, photo, ward, agreed, shared):
     """The 2D map of voting groups, with its legend cards and method note."""
     if len({n for v in votes for n in v["for"] + v["against"]}) < 5:
         return ""
@@ -407,7 +436,7 @@ def build_map(votes, full, photo, ward):
     W, pad = 900, 84
     xs, ys = [m["x"] for m in c["members"].values()], [m["y"] for m in c["members"].values()]
     scale = (W - 2 * pad) / (max(xs) - min(xs))
-    H = round((max(ys) - min(ys)) * scale + 2 * pad + 50)
+    H = round((max(ys) - min(ys)) * scale + 2 * pad + 40)
     at = {n: [pad + (m["x"] - min(xs)) * scale, pad + 20 + (m["y"] - min(ys)) * scale] for n, m in c["members"].items()}
     # Display only: people with identical records would hide each other, so ease them apart.
     face = 24
@@ -441,7 +470,8 @@ def build_map(votes, full, photo, ward):
             if faces_clear and labels_clear and box[0] > 4 and box[2] < W - 4:
                 break
         taken.append(box)
-        points += (f'<g class="pt {colour[g] if g else "gx"}" tabindex="0" role="img" data-x="{x:.1f}" data-y="{y:.1f}" data-name="{e(n, quote=True)}" '
+        counts = {o: [agreed[min(n, o), max(n, o)], shared[min(n, o), max(n, o)]] for o in at if o != n and (min(n, o), max(n, o)) in shared}
+        points += (f'<g class="pt {colour[g] if g else "gx"}" tabindex="0" role="img" data-x="{x:.1f}" data-y="{y:.1f}" data-name="{e(n, quote=True)}" data-agree="{e(json.dumps(counts), quote=True)}" '
                    f'data-full="{e(full(n), quote=True)}" data-text="{e(text, quote=True)}"{img} aria-label="{e(full(n) + ". " + place_text, quote=True)}">'
                    f'<circle class="ring" cx="{x:.1f}" cy="{y:.1f}" r="{face + 1}"/>{image}'
                    f'<text class="sur" x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}">{e(surname)}</text></g>')
@@ -450,9 +480,6 @@ def build_map(votes, full, photo, ward):
             top = min(at[n][1] for n in info["members"])
             mid = sum(at[n][0] for n in info["members"]) / len(info["members"])
             labels += f'<text x="{mid:.1f}" y="{top - face - 26:.1f}" text-anchor="middle">Group {g}</text>'
-    bar = .25 * scale
-    scale_bar = (f'<g class="scale"><line x1="{pad}" x2="{pad + bar:.1f}" y1="{H - 24}" y2="{H - 24}"/>'
-                 f'<text x="{pad + bar + 12:.1f}" y="{H - 19}">about 1 in 4 votes disagreed</text></g>')
     chips = lambda members: "".join(
         f'<div class="cn-chip" data-name="{e(n, quote=True)}">' + (f'<img src="{e(photo(n), quote=True)}" alt="" loading="lazy">' if photo(n) else "") + f"{e(full(n))}</div>" for n in members)
     cards = ""
@@ -480,9 +507,9 @@ def build_map(votes, full, photo, ward):
     scores = ", ".join(f"{k} groups {v:.2f}" for k, v in c["silhouette_by_k"].items())
     return f"""
 <h2 class="sec">Voting groups</h2>
-<p class="lede">Each portrait is a council member. The closer two portraits are, the more often those two voted the same way. Hover over or select one for details.
+<p class="lede">Each portrait is a council member. The closer two portraits are, the more often those two voted the same way. Hover over or select someone to see how often they agreed with each colleague, as a percentage of these votes that both attended.
 {f'The groups agree with each other on only {between:.0%} of these votes.' if between is not None else ''}</p>
-<svg class="cn-map" viewBox="0 0 {W} {H}" role="group" aria-label="Map of council members placed by how similarly they vote. The group lists below name everyone.">{labels}{points}{scale_bar}</svg>
+<svg class="cn-map" viewBox="0 0 {W} {H}" role="group" aria-label="Map of council members placed by how similarly they vote. The group lists below name everyone."><g class="links"></g>{labels}{points}<g class="link-labels"></g></svg>
 <div class="cn-groups">{cards}</div>
 <details class="more"><summary>How the groups were found</summary><div class="in">
 <p>Starting from how often each pair disagreed, multidimensional scaling placed everyone on this plane; two dimensions hold about {c['variance_in_2d']:.0%} of the differences, so distances are close but not exact. Hierarchical clustering (average linkage) then formed the groups, and the silhouette score chose how many: {scores}, where higher means better separated. Clustering used the full data, not the 2D positions.</p>
@@ -591,7 +618,7 @@ def build_councillors(out, all_minutes):
 <g>{lines}</g><g>{hits}</g><g>{nodes}</g></svg>
 <div class="cn-legend">{legend}<span>in agreement</span></div>
 {panels}
-{build_map(votes, full, photo, ward)}
+{build_map(votes, full, photo, ward, agreed, shared)}
 <h2 class="sec">The numbers</h2>
 <details class="more"><summary>Every pair, as a table</summary><div class="in"><div class="scroll"><table class="cn">
 <thead><tr><td></td>{head}</tr></thead><tbody>{body}</tbody></table></div></div></details>
