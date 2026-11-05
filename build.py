@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Render raw/<date>/ into the static site under site/."""
 import collections, datetime as dt, html, itertools, json, math, pathlib, re, shutil
+import alliance_network
 import analysis
 import pipeline as p
 
@@ -8,11 +9,11 @@ e = html.escape
 BASE = p.BASE
 
 CSS = """
-:root{color-scheme:light dark;--g0:#2a78d6;--g1:#eb6834;--g2:#1baf7a;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
+:root{color-scheme:light dark;--g0:#2a78d6;--g1:#eb6834;--g2:#1baf7a;--g2-ink:#0b0b0b;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
 --accent:#1f5f4a;--accent-soft:#e3eee8;--warn:#8a4b12;--warn-soft:#f6ead9;--mark:#fdf3c9;
 --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
 --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-@media (prefers-color-scheme:dark){:root{--g0:#3987e5;--g1:#d95926;--g2:#199e70;--bg:#141815;--panel:#1b201c;--ink:#e7e9e3;--muted:#99a398;--line:#303730;
+@media (prefers-color-scheme:dark){:root{--g0:#3987e5;--g1:#d95926;--g2:#199e70;--g2-ink:#ffffff;--bg:#141815;--panel:#1b201c;--ink:#e7e9e3;--muted:#99a398;--line:#303730;
 --accent:#7cc7a8;--accent-soft:#1f3029;--warn:#e0a868;--warn-soft:#33281b;--mark:#3a3518}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
@@ -432,11 +433,10 @@ def circle_order(names, rate):
     return order[top:] + order[:top]
 
 
-def build_map(votes, full, photo, ward, agreed, shared):
+def build_map(c, full, photo, ward, agreed, shared):
     """The 2D map of voting groups, with its legend cards and method note."""
-    if len({n for v in votes for n in v["for"] + v["against"]}) < 5:
+    if len(c["members"]) < 5:
         return ""
-    c = analysis.clusters(votes)
     p.write_json(p.ROOT / "votes" / "clusters.json", c)
     W, pad = 900, 84
     xs, ys = [m["x"] for m in c["members"].values()], [m["y"] for m in c["members"].values()]
@@ -580,6 +580,9 @@ def build_councillors(out, all_minutes):
     low, high = min(rate.values()), most
     legend = "".join(f'<span><i style="height:{width(v):.1f}px"></i>{percent(v)}</span>' for v in (low, (low + high) / 2, high))
 
+    groups = analysis.clusters(votes)
+    network, _ = alliance_network.section(votes, names, agreed, shared, full, photo, ward, {n: (m["x"], m["y"]) for n, m in groups["members"].items()})
+
     def row(label, k, bar=True):
         fill = f'<div class="cn-bar"><b style="width:{100 * rate[k]:.0f}%"></b></div>' if bar else ""
         return f'<div class="cn-row{"" if bar else " pair"}"><span>{e(label)}</span>{fill}<span class="num">{count(k)}</span></div>'
@@ -626,14 +629,17 @@ def build_councillors(out, all_minutes):
     (out / "councillors.html").write_text(page("Who votes with whom", f"""
 <header class="top"><div class="eyebrow"><a href="index.html">&larr; All meetings</a></div>
 <h1>Who votes with whom</h1>
-<p class="lede">The thicker the line, the larger the share of votes on which two council members voted the same way. This counts only the
+<p class="lede">Three ways to explore how council members vote together. All of them count only the
 {len(votes)} recorded votes that were not unanimous, from {len(all_minutes)} meetings.</p></header>
+{network}
+<h2 class="sec">Agreement circle</h2>
+<p class="lede">The thicker the line, the larger the share of votes on which two council members voted the same way.</p>
 <svg class="cn-chart" viewBox="0 0 {W} {H}" role="group" aria-label="Circle of {len(order)} council members joined by curved lines. Line thickness shows the share of contested votes each pair agreed on. The table below has every number.">
 <defs><clipPath id="cn-face" clipPathUnits="objectBoundingBox"><circle cx=".5" cy=".5" r=".5"/></clipPath></defs>
 <g>{lines}</g><g>{hits}</g><g>{nodes}</g><g class="cn-count"></g></svg>
 <div class="cn-legend">{legend}<span>of votes in agreement</span></div>
 {panels}
-{build_map(votes, full, photo, ward, agreed, shared)}
+{build_map(groups, full, photo, ward, agreed, shared)}
 <h2 class="sec">The numbers</h2>
 <details class="more"><summary>Every pair, as a table</summary><div class="in"><p class="hint">Percent of the votes both attended on which they agreed.</p><div class="scroll"><table class="cn">
 <thead><tr><td></td>{head}</tr></thead><tbody>{body}</tbody></table></div></div></details>
@@ -642,7 +648,7 @@ def build_councillors(out, all_minutes):
 of it, so pairs shared between {min(shared.values())} and {max(shared.values())} of these votes.{" Not everyone served the whole time: " + "; ".join(part_term) + "." if part_term else ""}{" " + "; ".join(never) + " never voted together, so there is no line between them." if never else ""} People who often agree are placed
 next to each other around the circle; the placement has no other meaning. Amendments and separate clauses each count as a vote,
 so one issue can weigh heavily.{heavy} Line thickness grows faster than the percentage, to make
-differences easier to see. Votes come from the city's minutes. Names and photos are from the <a href="https://guelph.ca/city-government/mayor-and-council/city-council/">City of Guelph</a>. {e(credits)}</footer>""", extra_js=CHART_JS))
+differences easier to see. Votes come from the city's minutes. Names and photos are from the <a href="https://guelph.ca/city-government/mayor-and-council/city-council/">City of Guelph</a>. {e(credits)}</footer>""", extra_js=CHART_JS + alliance_network.SCRIPT))
     return True
 
 

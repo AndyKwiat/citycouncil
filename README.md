@@ -34,6 +34,14 @@ a motion block). Problems show in red in the panel's Votes column and in the job
 - `analysis.py` finds the voting groups and writes `votes/clusters.json`. The number of groups comes from the data (silhouette score), and anyone scoring under 0.1 is shown between groups. People who never voted together get an estimated distance instead of being treated as opposites.
 - Names, wards and photos live in `councillors.json` and `portraits/`. After an election, add new members there or they appear with only the name from the minutes and no photo. The page also mixes every council in `raw/`, so a new term will need a filter by term.
 
+## Voting Alliance Network
+
+The top of the councillors page. `alliance_network.py` prepares the data and markup, and `alliance_network.js` runs the graph with no external libraries. Add further visualizations the same way, as a `section()` plus a script passed to `build.page()`.
+
+- Percentages come straight from the votes both people attended. A pair who never voted together has no line and shows as unknown, never 0%.
+- Positions use every known pair, so the slider never moves anyone. Layout starts from fixed positions, so it is the same on every visit.
+- Communities come from Louvain (`analysis.communities`) on agreement above the council's average, on the full network regardless of the slider. They can differ from the voting groups on the map, which use hierarchical clustering.
+
 ## Coverage
 
 Only meetings the city labels "City Council" are processed, from December 6, 2022. Inaugural, special, budget and Council Planning meetings aren't, so their votes aren't counted.

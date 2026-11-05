@@ -1,9 +1,10 @@
 """Run with: .venv/bin/python -m unittest discover tests"""
-import json, pathlib, sys, tempfile, unittest
+import itertools, json, pathlib, sys, tempfile, unittest
 from unittest import mock
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
+import alliance_network
 import analysis
 import pipeline as p
 from bs4 import BeautifulSoup
@@ -191,6 +192,50 @@ class Clusters(unittest.TestCase):
 
     def test_stable_between_runs(self):
         self.assertEqual(analysis.clusters(self.votes()), analysis.clusters(self.votes()))
+
+
+class Communities(unittest.TestCase):
+    def pairs(self, groups, inside=18, across=6, total=20):
+        names = sorted(n for g in groups for n in g)
+        agreed, shared = {}, {}
+        for a, b in itertools.combinations(names, 2):
+            same = any(a in g and b in g for g in groups)
+            agreed[a, b], shared[a, b] = (inside if same else across), total
+        return names, agreed, shared
+
+    def test_finds_blocs(self):
+        names, agreed, shared = self.pairs([["A", "B", "C", "D"], ["E", "F", "G", "H"], ["I", "J", "K"]])
+        c = analysis.communities(names, agreed, shared)
+        self.assertEqual(c["count"], 3)
+        self.assertEqual(c["members"]["A"], c["members"]["D"])
+        self.assertNotEqual(c["members"]["A"], c["members"]["E"])
+
+    def test_uniform_agreement_forms_no_blocs(self):
+        names, agreed, shared = self.pairs([["A", "B", "C", "D", "E", "F"]], inside=12)
+        self.assertEqual(analysis.communities(names, agreed, shared)["count"], 6)
+
+    def test_is_repeatable(self):
+        names, agreed, shared = self.pairs([["A", "B", "C"], ["D", "E", "F"]])
+        self.assertEqual(analysis.communities(names, agreed, shared), analysis.communities(names, agreed, shared))
+
+    def test_network_keeps_one_edge_per_pair_and_unknowns_unknown(self):
+        names, agreed, shared = self.pairs([["A", "B", "C"], ["D", "E", "F"]])
+        del agreed["A", "D"], shared["A", "D"]
+        c = analysis.communities(names, agreed, shared)
+        data = alliance_network.network_data(names, agreed, shared, str, lambda n: "", lambda n: "", c, {})
+        self.assertEqual(len(data["edges"]), 14)
+        self.assertEqual(data["unknown"], [["A", "D"]])
+        self.assertEqual({tuple(sorted((x["a"], x["b"]))) for x in data["edges"]}.__len__(), 14)
+        self.assertFalse([x for x in data["edges"] if x["a"] == x["b"]])
+        self.assertEqual(data["edges"][0]["pct"], 90)
+        node = next(n for n in data["nodes"] if n["id"] == "A")
+        self.assertEqual(node["comparisons"], 4)
+        self.assertEqual(node["average"], (90 + 90 + 30 + 30) / 4)
+
+    def test_initials(self):
+        self.assertEqual(alliance_network.initials("Mayor Cam Guthrie"), "CG")
+        self.assertEqual(alliance_network.initials("Ken Yee Chew"), "KYC")
+        self.assertEqual(alliance_network.initials("Dominique O'Rourke"), "DO")
 
 
 class RealData(unittest.TestCase):

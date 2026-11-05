@@ -106,3 +106,129 @@ def clusters(votes):
                                "with_group": {g: round(float(np.mean([together[i, j] for j in m if j != i])), 3) for g, m in groups.items() if [j for j in m if j != i]}}
                     for i in range(len(names))},
     }
+
+
+# ---------------------------------------------------------------- communities (voting alliance network)
+
+def modularity(W, labels):
+    """Newman modularity of a weighted network."""
+    total = W.sum()
+    if total <= 0:
+        return 0.0
+    strength = W.sum(1)
+    same = labels[:, None] == labels[None, :]
+    return float(((W - np.outer(strength, strength) / total) * same).sum() / total)
+
+
+def _local_moves(W, order):
+    """One Louvain level: move each node to whichever neighbouring community raises modularity most."""
+    n, total, strength = len(W), W.sum(), W.sum(1)
+    labels = np.arange(n)
+    moved = True
+    while moved:
+        moved = False
+        for i in order:
+            current = labels[i]
+            sums = {}
+            for j in range(n):
+                if j != i and W[i, j] > 0:
+                    sums[labels[j]] = sums.get(labels[j], 0.0) + W[i, j]
+            def gain(c):
+                others = strength[labels == c].sum() - (strength[i] if c == current else 0)
+                return sums.get(c, 0.0) - strength[i] * others / total
+            best, best_gain = current, gain(current)
+            for c in sorted(sums):
+                g = gain(c)
+                if g > best_gain + 1e-12:
+                    best, best_gain = c, g
+            if best != current:
+                labels[i] = best
+                moved = True
+    return labels
+
+
+def louvain(W, rng):
+    """Louvain community detection on a symmetric weight matrix. Returns a community number per node."""
+    W = np.array(W, float)
+    np.fill_diagonal(W, 0)
+    if W.sum() <= 0:
+        return np.arange(len(W))
+    members = [[i] for i in range(len(W))]
+    current = W
+    while True:
+        labels = _local_moves(current, rng.permutation(len(current)))
+        unique = sorted(set(labels.tolist()))
+        if len(unique) == len(current):
+            break
+        index = {c: k for k, c in enumerate(unique)}
+        merged = np.zeros((len(unique), len(unique)))
+        grouped = [[] for _ in unique]
+        for a, c in enumerate(labels):
+            grouped[index[c]] += members[a]
+            for b, d in enumerate(labels):
+                merged[index[c], index[d]] += current[a, b]
+        members, current = grouped, merged
+    out = np.zeros(len(W), int)
+    for c, group in enumerate(members):
+        out[group] = c
+    return out
+
+
+def best_communities(W, restarts=50, seed=0):
+    """Louvain's result depends on visiting order, so keep the best of several seeded runs."""
+    rng = np.random.default_rng(seed)
+    runs = [louvain(W, rng) for _ in range(restarts)]
+    runs = sorted(runs, key=lambda r: tuple(r.tolist()))
+    return max(runs, key=lambda r: round(modularity(np.array(W, float), r), 10))
+
+
+def agreement_weights(R):
+    """Weights for community detection: only agreement above the council's own average counts.
+
+    Nearly everyone agrees on most contested votes, so raw percentages make one big blob. Keeping just the excess over
+    the average leaves the pairs who agree more than is typical. Unknown pairs (NaN) stay at zero, which means no
+    evidence rather than disagreement."""
+    known = R[np.triu_indices(len(R), 1)]
+    mean = np.nanmean(known)
+    W = np.nan_to_num(R - mean, nan=0.0)
+    W[W < 0] = 0
+    np.fill_diagonal(W, 0)
+    return W, float(mean)
+
+
+def communities(names, agreed, shared, votes=None, resamples=300):
+    """Detect voting communities from pairwise agreement; with `votes`, also test them by resampling."""
+    n = len(names)
+    R = np.full((n, n), np.nan)
+    for i, j in itertools.combinations(range(n), 2):
+        key = (names[i], names[j])
+        if shared.get(key):
+            R[i, j] = R[j, i] = agreed[key] / shared[key]
+    W, mean = agreement_weights(R)
+    labels = best_communities(W)
+    # Number communities largest first, so colours stay stable between builds.
+    sizes = sorted(set(labels.tolist()), key=lambda c: (-int((labels == c).sum()), int(np.where(labels == c)[0][0])))
+    rank = {c: k for k, c in enumerate(sizes)}
+    assigned = {names[i]: rank[int(labels[i])] for i in range(n)}
+    result = {"method": "Louvain on agreement above the council average", "average_agreement": round(mean, 4),
+              "modularity": round(modularity(W, labels), 3), "count": len(sizes), "members": assigned}
+    if votes:
+        M = np.array([[1 if x in v["for"] else -1 if x in v["against"] else 0 for v in votes] for x in names], float)
+        rng = np.random.default_rng(1)
+        together = np.zeros((n, n))
+        counts = {}
+        for _ in range(resamples):
+            pick = M[:, rng.integers(0, len(votes), len(votes))]
+            Rb = np.full((n, n), np.nan)
+            for i, j in itertools.combinations(range(n), 2):
+                both = (pick[i] != 0) & (pick[j] != 0)
+                if both.any():
+                    Rb[i, j] = Rb[j, i] = np.mean(pick[i][both] == pick[j][both])
+            found = louvain(agreement_weights(Rb)[0], rng)
+            counts[len(set(found.tolist()))] = counts.get(len(set(found.tolist())), 0) + 1
+            together += found[:, None] == found[None, :]
+        together /= resamples
+        result["resamples"] = resamples
+        result["resamples_count"] = {str(k): v for k, v in sorted(counts.items())}
+        result["stays_with_community"] = {names[i]: round(float(np.mean([together[i, j] for j in range(n) if j != i and labels[j] == labels[i]] or [1.0])), 3) for i in range(n)}
+    return result
