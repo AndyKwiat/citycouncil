@@ -9,12 +9,10 @@ e = html.escape
 BASE = p.BASE
 
 CSS = """
-:root{color-scheme:light dark;--g0:#2a78d6;--g1:#eb6834;--g2:#1baf7a;--g2-ink:#0b0b0b;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
+:root{color-scheme:light;--g0:#2a78d6;--g1:#eb6834;--g2:#1baf7a;--g2-ink:#0b0b0b;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
 --accent:#1f5f4a;--accent-soft:#e3eee8;--warn:#8a4b12;--warn-soft:#f6ead9;--mark:#fdf3c9;
 --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
 --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-@media (prefers-color-scheme:dark){:root{--g0:#3987e5;--g1:#d95926;--g2:#199e70;--g2-ink:#ffffff;--bg:#141815;--panel:#1b201c;--ink:#e7e9e3;--muted:#99a398;--line:#303730;
---accent:#7cc7a8;--accent-soft:#1f3029;--warn:#e0a868;--warn-soft:#33281b;--mark:#3a3518}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
 .wrap{max-width:780px;margin:0 auto;padding:48px 16px 72px}
