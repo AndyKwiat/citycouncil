@@ -14,6 +14,8 @@ const RRF_K: f32 = 60.0;
 /// Meaning matters more than exact words here, so vector ranks count for more.
 const VECTOR_WEIGHT: f32 = 1.0;
 const KEYWORD_WEIGHT: f32 = 0.6;
+/// Without a cap, one long debate fills the page with near-identical passages from a single meeting.
+const PER_MEETING_KIND: usize = 2;
 
 pub struct Row {
     pub kind: String,
@@ -132,9 +134,8 @@ impl Store {
         }
         let mut order: Vec<(usize, f32)> = fused.into_iter().collect();
         order.sort_by(|a, b| b.1.total_cmp(&a.1).then(a.0.cmp(&b.0)));
-        let results = order
+        let results = diversify(&order, |i| (self.rows[i].meeting.as_str(), self.rows[i].kind.as_str()), p.limit)
             .into_iter()
-            .take(p.limit)
             .map(|(i, score)| {
                 let r = &self.rows[i];
                 Hit { kind: r.kind.clone(), meeting: r.meeting.clone(), title: r.title.clone(), snippet: snippet(&r.text, &p.q),
@@ -143,6 +144,27 @@ impl Store {
             .collect();
         Ok(Found { results, searched })
     }
+}
+
+/// Best first, but at most PER_MEETING_KIND results per meeting and kind until the list would run short;
+/// then the held-back ones fill the remaining places in their original order.
+pub fn diversify<'a, F: Fn(usize) -> (&'a str, &'a str)>(order: &[(usize, f32)], group: F, limit: usize) -> Vec<(usize, f32)> {
+    let mut seen: HashMap<(&str, &str), usize> = HashMap::new();
+    let (mut picked, mut held) = (vec![], vec![]);
+    for &(i, s) in order {
+        let n = seen.entry(group(i)).or_default();
+        if *n < PER_MEETING_KIND {
+            *n += 1;
+            picked.push((i, s));
+        } else {
+            held.push((i, s));
+        }
+        if picked.len() == limit {
+            break;
+        }
+    }
+    picked.extend(held.into_iter().take(limit.saturating_sub(picked.len())));
+    picked
 }
 
 /// About 300 characters around the first query word that appears, or the start of the text.
@@ -244,6 +266,16 @@ mod tests {
         for text in ["\"", "AND OR NOT", "a*b:c^", "", "'; DROP TABLE chunks; --", "üñíçødé"] {
             assert!(s.search(&Params::new(text), &q).is_ok(), "{text}");
         }
+    }
+
+    #[test]
+    fn diversify_caps_each_meeting_then_backfills() {
+        let groups = ["a", "a", "a", "b", "a", "c"];
+        let order: Vec<(usize, f32)> = (0..6).map(|i| (i, 1.0 - i as f32 / 10.0)).collect();
+        let picked: Vec<usize> = diversify(&order, |i| (groups[i], "vote"), 4).into_iter().map(|x| x.0).collect();
+        assert_eq!(picked, vec![0, 1, 3, 5]);
+        let all: Vec<usize> = diversify(&order, |i| (groups[i], "vote"), 6).into_iter().map(|x| x.0).collect();
+        assert_eq!(all, vec![0, 1, 3, 5, 2, 4]);
     }
 
     #[test]

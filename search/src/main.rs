@@ -36,7 +36,11 @@ fn main() -> Result<()> {
             let q = args[3..].join(" ");
             let t = std::time::Instant::now();
             let v = model.embed_query(&q)?;
-            let found = store.search(&search::Params::new(&q), &v)?;
+            let mut p = search::Params::new(&q);
+            if let Ok(k) = std::env::var("KINDS") {
+                p.kinds = k.split(',').map(String::from).collect();
+            }
+            let found = store.search(&p, &v)?;
             for r in &found.results {
                 println!("{:.4} {:.3} {:10} {} {} | {}", r.score, r.similarity, r.kind, r.meeting, r.title, r.url);
             }

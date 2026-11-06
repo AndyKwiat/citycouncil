@@ -42,6 +42,28 @@ The top of the councillors page. `alliance_network.py` prepares the data and mar
 - Positions use every known pair, so the slider never moves anyone. Layout starts from fixed positions, so it is the same on every visit.
 - Communities come from Louvain (`analysis.communities`) on agreement above the council's average, on the full network regardless of the slider. They can differ from the voting groups on the map, which use hierarchical clustering.
 
+## Search
+
+`site/search.html` (and the box on the home page) searches summaries, votes, minutes and transcripts by meaning.
+It calls a separate API at https://api-citycouncil.akwiat.com, so the static site could move elsewhere.
+
+- **Model:** Snowflake's `snowflake-arctic-embed-m-v1.5` (Apache-2.0), one of the strongest free retrieval models
+  of its size. The `search/` Rust crate runs it with candle, so the laptop (documents) and server (queries) use
+  identical code. It is pinned to one revision and checked by hash.
+- **Index:** `search_index.py` cuts meetings into passages (`state/search/chunks.jsonl`), and the Rust indexer embeds
+  them into SQLite (`state/search/search.sqlite`): vectors plus an FTS5 keyword index. Unchanged passages keep their
+  vectors, so re-indexing after a new meeting takes seconds. The first full run takes 10 to 20 minutes.
+- **Ranking:** cosine similarity over every passage, merged with keyword (BM25) matches by reciprocal rank fusion,
+  so related meaning and exact names both count.
+- **Access:** the API is a radify app with the `allowlist` policy, so it needs the same Google sign-in as the site,
+  and it also refuses any request whose `Origin` isn't the site. If the site moves off `akwiat.com`, the sign-in
+  cookie won't reach the API; that move needs a different scheme, such as a signed token.
+- **Memory:** the model needs about 450 MB, so the app has a systemd override raising its limit to 900 MB
+  (`/etc/systemd/system/app@api-citycouncil.service.d/override.conf` on step1, kept by radify's backups).
+- **Running it:** in the panel, *Update search index*, then *Deploy search API*. Or `pipeline.py search-index` and
+  `pipeline.py search-deploy`. The server downloads the model into its data directory on first start.
+- **Tests:** `cargo test --release` in `search/`, plus the Python tests.
+
 ## Coverage
 
 Only meetings the city labels "City Council" are processed, from December 6, 2022. Inaugural, special, budget and Council Planning meetings aren't, so their votes aren't counted.

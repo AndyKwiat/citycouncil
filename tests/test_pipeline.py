@@ -5,6 +5,7 @@ from unittest import mock
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 import alliance_network
+import search_index
 import analysis
 import pipeline as p
 from bs4 import BeautifulSoup
@@ -236,6 +237,55 @@ class Communities(unittest.TestCase):
         self.assertEqual(alliance_network.initials("Mayor Cam Guthrie"), "CG")
         self.assertEqual(alliance_network.initials("Ken Yee Chew"), "KYC")
         self.assertEqual(alliance_network.initials("Dominique O'Rourke"), "DO")
+
+
+class SearchChunks(unittest.TestCase):
+    def setUp(self):
+        self.minutes = {"motions": [
+            {"id": "m1", "item": "5", "item_number": "5", "item_title": "Encampment Response", "name": "", "moved_by": "Caron",
+             "seconded_by": "Allt", "text": "That the encampment pilot be approved. " + "word " * 600,
+             "result": p.parse_result("Carried (8 to 5)"), "votes": {"for": ["Caron"], "against": ["Gibson"], "other": []}},
+            {"id": "m2", "item": "6", "item_number": "6", "item_title": "Header", "name": "", "moved_by": "", "seconded_by": "",
+             "text": "", "result": p.parse_result(""), "votes": {"for": [], "against": [], "other": []}}],
+            "items": [{"id": "5", "number": "5", "title": "Encampment Response", "video_start": 100.0, "video_end": 900.0,
+                       "notes": ["<p>Staff presented the encampment response plan to council and answered several detailed questions from members about costs.</p>"]},
+                      {"id": "1", "number": "1", "title": "Call to Order", "video_start": 0.0, "video_end": 1.0,
+                       "notes": ["<p>Called to order.</p>"]}]}
+        self.summary = {"title": "Encampments", "subtitle": "Also parking.", "overview": ["Council approved a pilot {{vote:m1}}."],
+                        "decisions": [{"motion": "m1", "item": "Encampment pilot", "detail": "Approved {{vote:m1}}."}],
+                        "debate": ["Delegates spoke."]}
+        self.transcript = [{"start": 120.0 + 10 * i, "end": 125.0 + 10 * i, "text": "we discuss the shelter plan now", "source": "captions"}
+                           for i in range(80)]
+        self.rows = search_index.meeting_chunks("2026-07-21", self.summary, self.minutes, self.transcript)
+
+    def kinds(self, kind):
+        return [r for r in self.rows if r["kind"] == kind]
+
+    def test_every_kind_links_to_the_site(self):
+        self.assertEqual({r["kind"] for r in self.rows}, {"summary", "vote", "minutes", "transcript"})
+        self.assertTrue(all(r["url"].startswith(("index.html#m-", "minutes/", "transcripts/")) for r in self.rows))
+        self.assertEqual(self.kinds("vote")[0]["url"], "minutes/2026-07-21.html#m1")
+        self.assertTrue(self.kinds("transcript")[0]["url"].startswith("transcripts/2026-07-21.html#t-"))
+
+    def test_vote_tokens_become_counts(self):
+        text = " ".join(r["text"] for r in self.kinds("summary"))
+        self.assertIn("(8-5)", text)
+        self.assertNotIn("{{vote", text)
+
+    def test_long_motions_split_and_names_kept_out_of_embedding(self):
+        votes = self.kinds("vote")
+        self.assertEqual(len(votes), 3)  # 600 words in pieces of 280; the empty header motion is skipped
+        self.assertIn("For: Caron", votes[0]["text"])
+        self.assertNotIn("Caron", votes[0]["embed"])
+        self.assertTrue(all(r["label"] == "8-5" for r in votes))
+
+    def test_trivial_minutes_skipped_and_transcripts_titled_by_topic(self):
+        self.assertEqual([r["title"] for r in self.kinds("minutes")], ["5 Encampment Response"])
+        self.assertTrue(all(r["title"].startswith("Encampment Response") for r in self.kinds("transcript")))
+        self.assertTrue(all(len(r["text"].split()) < 260 for r in self.kinds("transcript")))
+
+    def test_embedded_text_carries_context(self):
+        self.assertTrue(self.kinds("vote")[0]["embed"].startswith("Council vote, Guelph City Council, July 21, 2026."))
 
 
 class RealData(unittest.TestCase):
