@@ -43,6 +43,10 @@ def describe(body):
         return "Update website", ["build"], []
     if action == "deploy":
         return "Deploy to citycouncil.akwiat.com", ["deploy"], []
+    if action == "search_index":
+        return "Update search index", ["search-index"], []
+    if action == "search_deploy":
+        return f"Deploy search to {p.SEARCH_APP}.akwiat.com", ["search-deploy"], []
     if action == "meeting":
         key, mode = body.get("key", ""), body.get("mode")
         if not DATE.fullmatch(key):
@@ -124,7 +128,8 @@ def state():
             "build": {"at": built.get("built_at"), "count": len(built_keys),
                       "stale": sorted((ready - built_keys) | {m["key"] for m in meetings if m["stale"]}),
                       "removed": sorted(built_keys - ready)},
-            "deploy": {"at": deployed.get("deployed_at"), "current": bool(fingerprint and deployed.get("fingerprint") == fingerprint)}}
+            "deploy": {"at": deployed.get("deployed_at"), "current": bool(fingerprint and deployed.get("fingerprint") == fingerprint)},
+            "search": p.search_status()}
 
 
 class Handler(BaseHTTPRequestHandler):

@@ -2,6 +2,7 @@
 """Render raw/<date>/ into the static site under site/."""
 import collections, datetime as dt, html, itertools, json, math, pathlib, re, shutil
 import alliance_network
+import search_page
 import analysis
 import pipeline as p
 
@@ -263,7 +264,7 @@ document.addEventListener('keydown',function(ev){if(ev.key==='Escape')hide()});
 def page(title, body, script=True, extra_js=""):
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
             f'<meta name="viewport" content="width=device-width,initial-scale=1"><title>{e(title)}</title>'
-            f'<style>{CSS}</style></head><body><div class="wrap">{body}</div>'
+            f'<style>{CSS}{search_page.CSS}</style></head><body><div class="wrap">{body}</div>'
             + (f"<script>{JS}</script>" if script else "") + (f"<script>{extra_js}</script>" if extra_js else "") + "</body></html>")
 
 
@@ -712,6 +713,8 @@ def main():
         all_minutes[key] = minutes
 
     has_chart = build_councillors(out, all_minutes)
+    years = sorted({k[:4] for k in all_minutes})
+    (out / "search.html").write_text(page("Search council records", search_page.page_body(years), extra_js=search_page.script()))
     dates = [when for when, _ in cards]
     span = (f"{len(cards)} City Council meeting{'s' if len(cards) != 1 else ''}, {min(dates):%B %Y} to {max(dates):%B %Y}" if dates else "No meetings yet")
     listing = ""
@@ -720,7 +723,8 @@ def main():
     (out / "index.html").write_text(page("Guelph City Council", f"""
 <header class="top"><div class="eyebrow">Guelph, Ontario</div><h1>City Council, in brief</h1>
 <p class="lede">{span}. Select one for a summary, decisions and the full transcript. Select a vote to see who voted which way.</p>
-{'<a class="cn-nav" href="councillors.html">See who votes with whom &rarr;</a>' if has_chart else ''}</header>
+{'<a class="cn-nav" href="councillors.html">See who votes with whom &rarr;</a>' if has_chart else ''}
+{search_page.mini_form()}</header>
 {listing}
 <footer>Source: <a href="{BASE}">City of Guelph eSCRIBE</a>. Summaries are AI-generated from the official minutes and
 transcripts of the recordings, so check the minutes before relying on them. Vote counts come directly from the minutes.</footer>"""))

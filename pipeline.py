@@ -707,6 +707,55 @@ def deploy():
     log(f"Deployed: https://{APP}.akwiat.com (private to {OWNER})")
 
 
+SEARCH_APP = "api-citycouncil"
+SITE_ORIGIN = f"https://{APP}.akwiat.com"
+SEARCH_MEMORY = "900M"  # the embedding model alone needs about 450 MB, over radify's 512 MB default
+
+
+def file_hash(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for block in iter(lambda: f.read(1 << 20), b""):
+            h.update(block)
+    return h.hexdigest()
+
+
+def deploy_search():
+    """Build the Linux search server and ship it, with the current index, to api-citycouncil.akwiat.com."""
+    import search_index
+    if not search_index.DB.exists():
+        raise SystemExit("No search index yet: update the search index first.")
+    log("Building the search server for Linux...")
+    subprocess.run(["cargo", "build", "--release", "--target", "x86_64-unknown-linux-musl"], cwd=search_index.SEARCH, check=True)
+    dist = search_index.OUT / "dist"
+    shutil.rmtree(dist, ignore_errors=True)
+    (dist / "bin").mkdir(parents=True)
+    (dist / "static").mkdir()
+    shutil.copy(search_index.SEARCH / "target/x86_64-unknown-linux-musl/release/app", dist / "bin/app")
+    shutil.copy(search_index.DB, dist / "static/search.sqlite")
+    apps = subprocess.run([str(RADIFY), "apps"], capture_output=True, text=True, check=True).stdout
+    if not re.search(rf"^{SEARCH_APP}\s", apps, re.M):
+        log(f"Creating private app {SEARCH_APP} for {OWNER}")
+        subprocess.run([str(RADIFY), "create", SEARCH_APP, "--policy", "allowlist", "--emails", OWNER], check=True)
+    subprocess.run([str(RADIFY), "env-set", SEARCH_APP, f"ALLOWED_ORIGINS={SITE_ORIGIN}"], check=True, capture_output=True)
+    limit = subprocess.run(["ssh", "step1-deploy", f"systemctl show app@{SEARCH_APP} -p MemoryMax --value"], capture_output=True, text=True).stdout.strip()
+    if limit.isdigit() and int(limit) < 800 * 2 ** 20:
+        log(f"WARNING: app@{SEARCH_APP} may run out of memory (limit {int(limit) // 2 ** 20} MB). See README: Search.")
+    log(f"Deploying to {SEARCH_APP}.akwiat.com")
+    subprocess.run([str(RADIFY), "deploy", SEARCH_APP, str(dist)], check=True)
+    write_json(STATE / "search_deploy.json", {"deployed_at": dt.datetime.now().isoformat(timespec="seconds"), "db": file_hash(search_index.DB)})
+    log(f"Search API live at https://{SEARCH_APP}.akwiat.com (private to {OWNER}; answers only {SITE_ORIGIN})")
+
+
+def search_status():
+    import search_index
+    info, live = read_json(STATE / "search.json") or {}, read_json(STATE / "search_deploy.json") or {}
+    newest = max((content_stamp(d) for d in RAW.iterdir() if d.is_dir() and (d / "summary.json").exists()), default=0)
+    built = search_index.DB.stat().st_mtime if search_index.DB.exists() else 0
+    return {"indexed_at": info.get("indexed_at"), "chunks": info.get("chunks"), "stale": bool(built and newest > built),
+            "deployed_at": live.get("deployed_at"), "current": bool(built and live.get("db") == file_hash(search_index.DB))}
+
+
 def main():
     signal.signal(signal.SIGTERM, lambda *_: sys.exit(143))  # so a cancelled job still removes its temp audio
     p = argparse.ArgumentParser(description=__doc__)
@@ -725,6 +774,8 @@ def main():
     w.add_argument("--whisper", action="store_true")
     sub.add_parser("build")
     sub.add_parser("deploy")
+    sub.add_parser("search-index")
+    sub.add_parser("search-deploy")
     a = p.parse_args()
     if a.cmd == "calendar":
         refresh_calendar(a.from_, a.to)
@@ -741,6 +792,11 @@ def main():
         build.main()
     elif a.cmd == "deploy":
         deploy()
+    elif a.cmd == "search-index":
+        import search_index
+        search_index.index()
+    elif a.cmd == "search-deploy":
+        deploy_search()
 
 
 if __name__ == "__main__":
