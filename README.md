@@ -7,9 +7,14 @@ Static site of council meeting summaries, driven from a local admin panel.
 Opens http://127.0.0.1:8750/. Everything runs from there: checking for meetings, processing them,
 updating the website, and publishing it to https://cityhallvotes.ca/guelph/ (public, hosted on Cloudflare).
 
+Working on the code, or an agent picking this up? Start with `AGENTS.md`: layout, setup, both deploys and gotchas.
+To set up Python: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
+
 - `pipeline.py` does the work: calendar, documents, minutes parsing, transcripts, summaries, deploy.
 - `build.py` renders `raw/<date>/` into `site/`.
 - `admin.py` and `admin.html` are the panel and its one-at-a-time job runner.
+- Two deploys: the website goes to Cloudflare (`pipeline.py deploy`), and the search API to radify
+  (`pipeline.py search-deploy`). See *Hosting on Cloudflare* and *Search* below.
 - Transcripts use the city's closed captions. Whisper runs only on gaps of 5+ minutes, or on the whole
   recording if the captions are under 10 words per minute.
 - Summaries call the `claude` CLI with your existing login, so no API key is needed.
@@ -92,4 +97,5 @@ Only meetings the city labels "City Council" are processed, from December 6, 202
 
     .venv/bin/python -m unittest discover tests
 
-These cover parsing, the vote audit, transcripts, summary checks and clustering, and check the downloaded data stays consistent.
+These cover parsing, the vote audit, transcripts, summary checks, clustering, communities and search chunking, and check
+the downloaded data stays consistent. The search crate has its own: `cd search && cargo test --release`.
