@@ -43,7 +43,7 @@ function councils(){
   return SLUGS.filter(function(c){ var b = document.getElementById('sr-c-' + c); return !b || b.checked; });
 }
 // Results link to pages relative to the council's folder; this page may be in it, beside it, or above it.
-function link(h){ var c = h.city || HERE; if (!c) return h.url; return (HERE ? (c === HERE ? '' : '../' + c + '/') : c + '/') + h.url; }
+function link(h){ var c = h.city || HERE || (SLUGS.length === 1 ? SLUGS[0] : null); if (!c) return h.url; return (HERE ? (c === HERE ? '' : '../' + c + '/') : c + '/') + h.url; }
 function when(d){ var t = new Date(d + 'T12:00:00'); return t.toLocaleDateString('en-CA', {year:'numeric', month:'short', day:'numeric'}); }
 // Highlight query words in plain text without ever inserting HTML from the result.
 function highlight(parent, text, q){
