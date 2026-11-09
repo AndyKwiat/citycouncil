@@ -5,13 +5,14 @@ Static site of council meeting summaries, driven from a local admin panel.
     ./admin
 
 Opens http://127.0.0.1:8750/. Everything runs from there: checking for meetings, processing them,
-updating the website, and publishing it to https://cityhallvotes.ca/guelph/ (public, hosted on Cloudflare).
+updating the website, and publishing it to https://cityhallvotes.ca/ (public, hosted on Cloudflare).
 
 Working on the code, or an agent picking this up? Start with `AGENTS.md`: layout, setup, both deploys and gotchas.
 To set up Python: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
 
 - `pipeline.py` does the work: calendar, documents, minutes parsing, transcripts, summaries, deploy.
-- `build.py` renders `raw/<date>/` into `site/`.
+- `build.py` renders `data/<slug>/raw/<key>/` into `site/<slug>/`; `build_root.py` writes the landing page at `/`.
+- Each council is set up in `cities/<slug>/city.json`. `pipeline.py` takes `--city <slug>` (default `guelph`).
 - `admin.py` and `admin.html` are the panel and its one-at-a-time job runner.
 - Two deploys: the website goes to Cloudflare (`pipeline.py deploy`), and the search API to radify
   (`pipeline.py search-deploy`). See *Hosting on Cloudflare* and *Search* below.
@@ -22,7 +23,7 @@ To set up Python: `python3 -m venv .venv && .venv/bin/pip install -r requirement
 
 ## Votes
 
-`votes/` is rewritten whenever minutes are parsed:
+`data/<slug>/votes/` is rewritten whenever minutes are parsed:
 
 - `votes.json`: every motion with who voted which way.
 - `motions.csv`: the same, one row per motion.
@@ -33,11 +34,11 @@ a motion block). Problems show in red in the panel's Votes column and in the job
 
 ## Who votes with whom
 
-`site/councillors.html` is rebuilt with every website update, from the non-unanimous votes in `votes/votes.json`.
+`site/<slug>/councillors.html` is rebuilt with every website update, from the non-unanimous votes in `data/<slug>/votes/votes.json`. It covers one council term; other terms, and council-only or committee-only views, get their own pages linked from it.
 
 - Line thickness and the hover percentages use the share of votes both people attended, not a raw count, because some members served only part of the term.
-- `analysis.py` finds the voting groups and writes `votes/clusters.json`. The number of groups comes from the data (silhouette score), and anyone scoring under 0.1 is shown between groups. People who never voted together get an estimated distance instead of being treated as opposites.
-- Names, wards and photos live in `councillors.json` and `portraits/`. After an election, add new members there or they appear with only the name from the minutes and no photo. The page also mixes every council in `raw/`, so a new term will need a filter by term.
+- `analysis.py` finds the voting groups and writes `data/<slug>/votes/clusters.json`. The number of groups comes from the data (silhouette score), and anyone scoring under 0.1 is shown between groups. People who never voted together get an estimated distance instead of being treated as opposites.
+- Names, wards and photos live in `cities/<slug>/councillors.json` (per term) and `cities/<slug>/portraits/`. After an election, add the new term's members there or they appear with only the name from the minutes and no photo.
 
 ## Voting Alliance Network
 
@@ -49,11 +50,11 @@ The top of the councillors page. `alliance_network.py` prepares the data and mar
 
 ## Hosting on Cloudflare
 
-The site is public at https://cityhallvotes.ca/guelph/; `/` redirects there. `pipeline.py deploy` (the panel's
-Deploy button) copies `site/` to `state/cf/dist/guelph/` and runs `wrangler deploy` with `cf/wrangler.jsonc`.
+The site is public at https://cityhallvotes.ca/; each council is at `/<slug>/` and `/` is the landing page. `pipeline.py deploy`
+(the panel's Deploy button) copies `site/` to `state/cf/dist/` and runs `wrangler deploy` with `cf/wrangler.jsonc`.
 
 - **Static:** every page, image and stylesheet is a Cloudflare static asset, served free with no code running.
-  The `/` redirect is a static `_redirects` file.
+  Redirects (for example `/fergus` to `/centre-wellington/`) are a static `_redirects` file built from `redirect_from` in `city.json`.
 - **Worker** (`cf/src/worker.js`): runs only for `www.` and `/api/search`. It caches identical searches for an hour,
   limits each visitor to about 15 new searches a minute, and forwards the rest to the search API with a secret key.
 - **Token:** deploys use `CLOUDFLARE_WORKERS_TOKEN` in `~/.config/akwiat/secrets.env`, made from Cloudflare's
@@ -91,7 +92,7 @@ calls `/api/search` on its own domain; the Worker passes that to https://api-cit
 
 ## Coverage
 
-Only meetings the city labels "City Council" are processed, from December 6, 2022. Inaugural, special, budget and Council Planning meetings aren't, so their votes aren't counted.
+Each council's `city.json` lists the meeting types in scope: council meetings plus standing committees (for Guelph: City Council, Special Council, Budget, Council Planning and Committee of the Whole), from 2022-11-15. A meeting appears on the site once it has a summary; special meetings that only went into closed session are skipped. Every page carries a footer saying the site is produced automatically.
 
 ## Tests
 

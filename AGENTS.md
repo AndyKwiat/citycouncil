@@ -6,7 +6,7 @@ ship things, and what can go wrong.
 ## What this is
 
 A public site of Guelph City Council meeting summaries, votes and transcripts, with semantic search:
-https://cityhallvotes.ca/guelph/. Everything is built on the owner's Mac and driven from a local admin panel
+https://cityhallvotes.ca/ (Guelph at /guelph/; more councils planned in docs/multicity/). Everything is built on the owner's Mac and driven from a local admin panel
 (`./admin`, http://127.0.0.1:8750/). Repo: github.com/AndyKwiat/citycouncil (private).
 
 ## Layout
@@ -14,16 +14,18 @@ https://cityhallvotes.ca/guelph/. Everything is built on the owner's Mac and dri
 | Path | What |
 |---|---|
 | `pipeline.py` | Every data step (calendar, documents, minutes parsing and vote audit, transcripts, summaries), plus both deploys. CLI: `calendar`, `process`, `build`, `deploy`, `search-index`, `search-deploy`. |
-| `build.py` | Renders `raw/` into the static site in `site/`. |
+| `build.py`, `build_root.py` | Render each council's data into `site/<slug>/`, plus the landing page, all-councils search and `_redirects` at `site/`. |
 | `analysis.py` | Voting groups (MDS plus hierarchical clustering) and communities (Louvain). |
 | `alliance_network.py/.js`, `search_page.py` | Page sections with their own data, markup and script. New visualizations follow this shape. |
 | `search_index.py` | Cuts meetings into search passages for the Rust indexer. |
 | `search/` | Rust crate: embedding (candle), indexer, and the search API server. |
 | `cf/` | Cloudflare Worker config and code for the public site. |
 | `admin.py`, `admin.html`, `./admin` | The local panel and its one-at-a-time job queue. |
-| `raw/<date>/` | Downloaded and generated data per meeting (committed). |
-| `votes/` | Every vote as JSON and CSV, plus `clusters.json` (committed). |
-| `councillors.json`, `portraits/` | Full names, wards and photos, keyed by the surname used in the minutes. |
+| `cities/<slug>/` | Each council's settings (`city.json`: adapter, meeting types in scope, terms, vote labels, theme), `councillors.json` per term, `portraits/`, `theme/` photo. |
+| `data/<slug>/raw/<key>/` | Downloaded and generated data per meeting (committed). Key is `YYYY-MM-DD` for main council meetings, `YYYY-MM-DD-<type>` for committees and special meetings. `meeting.json` is the normalized v2 record; the council's own is in `source/`. |
+| `data/<slug>/votes/` | Every vote as JSON and CSV, plus `clusters.json` (committed). |
+| `core/`, `sources/`, `video/` | Shared steps (transcripts, summaries, votes, theme), source adapters (`escribe.py`), video providers (`isilive.py`). |
+| `docs/multicity/` | The multi-council plan, tracker and source research. `tools/` holds one-off migrations and the golden-site diff. |
 | `site/`, `state/` | Generated: the built site, job logs, deploy stamps, search index, Cloudflare dist. Not committed. |
 | `search/model/` | The embedding model on the laptop (downloaded on first index). Not committed. |
 
@@ -74,9 +76,9 @@ After processing new meetings, do both. A page or Worker change needs only the f
 - The search server needs about 450 MB, so `app@api-citycouncil` has a systemd override raising `MemoryMax` to 900 MB
   (`/etc/systemd/system/app@api-citycouncil.service.d/override.conf` on step1). radify's default is 512 MB.
 - Cloudflare redirects `page.html` to `page`, and the Worker runs only for `www.` and `/api/search`. Pages must keep
-  using relative links, because the site lives under `/guelph/`.
-- Only meetings the city labels "City Council" are processed. A new council term begins after each election (next
-  in late 2026), and its members need entries in `councillors.json` and `portraits/`. The voting pages currently
-  mix every term in `raw/`, so a filter by term will be needed.
+  using relative links, because each council lives under `/<slug>/`.
+- Only the meeting types listed in each `city.json` are processed (council plus standing committees). A new term
+  (2026–2030 from 2026-11-15) needs its members under `terms` in `cities/<slug>/councillors.json`, plus portraits.
+  The councillors page is built per term and, where a term has both, per body (council or committees).
 - Transcripts and minutes copies include residents' and delegates' names, and the site is public; summaries are
   told not to name private individuals.

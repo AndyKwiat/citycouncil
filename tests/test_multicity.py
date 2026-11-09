@@ -130,7 +130,7 @@ class SiteText(unittest.TestCase):
     def test_disclaimer(self):
         footer = build.disclaimer(GUELPH)
         self.assertIn("produced automatically", footer)
-        self.assertIn("not affiliated with City of Guelph", footer)
+        self.assertIn("not affiliated with the City of Guelph", footer)
         self.assertIn("Maksim Sokolov", footer)
         self.assertNotRegex(build.disclaimer(None), r"\bAI\b")
 
