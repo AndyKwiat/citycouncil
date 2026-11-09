@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "970e03f1-71fb-48fd-8a24-12b2670a7530",
+ "city": "kitchener",
+ "key": "2024-08-26",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2024-08-26T19:00:00",
+ "end": "2024-08-26T22:00:00",
+ "location": "Electronic Meeting",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=970e03f1-71fb-48fd-8a24-12b2670a7530&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=22384",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=970e03f1-71fb-48fd-8a24-12b2670a7530&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=970e03f1-71fb-48fd-8a24-12b2670a7530&Agenda=PostMinutes&lang=English",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "b3b0939911d52ceeea179bea26fc1dcbc8dada02c3c0cd112d839927ebe80f4c"
+ }
+}

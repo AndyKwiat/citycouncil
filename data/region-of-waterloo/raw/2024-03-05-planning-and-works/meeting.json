@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "3b18ff1d-9599-440e-8f4f-3ccb99dd9cd7",
+ "city": "region-of-waterloo",
+ "key": "2024-03-05-planning-and-works",
+ "type": "Planning and Works",
+ "body": "committee",
+ "body_name": "Planning and Works",
+ "title": "Planning and Works",
+ "start": "2024-03-05T09:00:00",
+ "end": "2024-03-05T10:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=3b18ff1d-9599-440e-8f4f-3ccb99dd9cd7&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=7217",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=3b18ff1d-9599-440e-8f4f-3ccb99dd9cd7&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=3b18ff1d-9599-440e-8f4f-3ccb99dd9cd7&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=3b18ff1d-9599-440e-8f4f-3ccb99dd9cd7"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=3b18ff1d-9599-440e-8f4f-3ccb99dd9cd7",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "2b4f3104447bc4780d8c59e0194063b9edb40fa0f1bfcdf62d955b1ee6a93243"
+ }
+}

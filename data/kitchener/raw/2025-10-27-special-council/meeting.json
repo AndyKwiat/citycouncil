@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "531e62cf-6e2a-4d3e-91f7-0641946cf576",
+ "city": "kitchener",
+ "key": "2025-10-27-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2025-10-27T16:30:00",
+ "end": "2025-10-27T17:30:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=531e62cf-6e2a-4d3e-91f7-0641946cf576&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=30598",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=531e62cf-6e2a-4d3e-91f7-0641946cf576&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=531e62cf-6e2a-4d3e-91f7-0641946cf576&Agenda=PostMinutes&lang=English",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "98c1ea2cd0baa61e5875bdd9a269963e20da08a9399c9fc0d4eb50887cd5854f"
+ }
+}

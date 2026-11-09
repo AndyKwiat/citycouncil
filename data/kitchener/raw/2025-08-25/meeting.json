@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "9fe4fbe7-7e08-49ad-bbf7-8cfe36e8c9c9",
+ "city": "kitchener",
+ "key": "2025-08-25",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2025-08-25T19:00:00",
+ "end": "2025-08-25T22:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=9fe4fbe7-7e08-49ad-bbf7-8cfe36e8c9c9&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=29613",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=9fe4fbe7-7e08-49ad-bbf7-8cfe36e8c9c9&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=9fe4fbe7-7e08-49ad-bbf7-8cfe36e8c9c9&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=9fe4fbe7-7e08-49ad-bbf7-8cfe36e8c9c9"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=9fe4fbe7-7e08-49ad-bbf7-8cfe36e8c9c9",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "811c350a53843a08c0582248463f2537f6be226bf98eb518d981cd2c940ab804"
+ }
+}

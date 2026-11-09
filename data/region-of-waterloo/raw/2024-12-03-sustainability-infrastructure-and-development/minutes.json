@@ -1,0 +1,857 @@
+{
+ "title": "Sustainability, Infrastructure, and Development - December 03, 2024",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Deutschmann",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Shantz",
+  "Williams",
+  "Wolf",
+  "Salonen",
+  "Vrbanovic"
+ ],
+ "absent": [
+  "Salonen",
+  "Vrbanovic"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 23.109,
+   "video_end": 89.563,
+   "notes": [
+    "<p>Chair C. James called the meeting to order at 2:39 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 89.563,
+   "video_end": 158.579,
+   "notes": [
+    "<p>Chair C. James provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 158.579,
+   "video_end": 167.579,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 167.579,
+   "video_end": 349.549,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "22",
+   "number": "4.1",
+   "title": "Waterloo Regional Police Service (WRPS) Team Policing Award Presentation for the design, construction, and implementation of the New Central Division, Kitchener",
+   "closed": false,
+   "video_start": 169.266,
+   "video_end": 353.627,
+   "notes": [
+    "<p>Regional staff were presented with an award from the Waterloo Regional Police Service for the design, construction and implementation of the Central Division building in Kitchener.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 348.033,
+   "video_end": 349.033,
+   "notes": [
+    "<p>There were no delegations.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Consent Agenda",
+   "closed": false,
+   "video_start": 353.627,
+   "video_end": 433.659,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "7",
+   "number": "6.1",
+   "title": "Strategic Priority - Homes for All",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "23",
+   "number": "6.1.1",
+   "title": "PDL-GDS-24-021, Brownfield Financial Incentive Program - Assignment of Tax Increment Grant - 49 Queen St E, Cambridge",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "PDL-GDS-24-021, Brownfield Financial Incentive Program - Assignment of Tax Increment Grant - 49 Queen St E, Cambridge.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10833"
+    },
+    {
+     "name": "Appendix A - Location Map - 49 Queen St E.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10834"
+    },
+    {
+     "name": "Appendix B - Site Plan - 49 Queen St E.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10835"
+    }
+   ],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "8",
+   "number": "6.2",
+   "title": "Strategic Priority - Climate Aligned Growth",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "6.3",
+   "title": "Strategic Priority - Equitable Services and Opportunities",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "28",
+   "number": "6.3.1",
+   "title": "TSD-TRP-24-017, Proposed Loading Zones on Weber Street and Duke Street, in the City of Kitchener",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "TSD-TRP-24-017, Proposed Loading Zones on Weber Street and Duke Street, in the City of Kitchener.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10819"
+    },
+    {
+     "name": "Appendix A - Loading Zones on Weber Street East and Duke Street West.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10820"
+    }
+   ],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": null,
+   "number": "6.2",
+   "title": "Strategic Priority - Climate Aligned Growth",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "32",
+   "number": "6.2.1",
+   "title": "TSD-TRS-24-012, Q3 Ridership Update",
+   "closed": false,
+   "video_start": 433.659,
+   "video_end": 724.895,
+   "notes": [
+    "<p>In reply to a question from the Committee, Doug Spooner, Acting Commissioner, Transportation Services, answered that the undelivered rate for some transit requests is improving and that the online booking system does not have full accuracy due to the way multiple trips are booked.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-TRS-24-012, 2024 Q3 Ridership Update.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10817"
+    },
+    {
+     "name": "2024 Q3 ridership dashboard.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10818"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "7",
+   "title": "Regular Agenda",
+   "closed": false,
+   "video_start": 724.895,
+   "video_end": 725.707,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "7.1",
+   "title": "Strategic Priority - Climate Aligned Growth",
+   "closed": false,
+   "video_start": 725.707,
+   "video_end": 726.754,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "36",
+   "number": "7.1.1",
+   "title": "Staff Presentation - Kitchener Transit Central Hub Update",
+   "closed": false,
+   "video_start": 726.754,
+   "video_end": 2144.232,
+   "notes": [
+    "<p>Jennifer Rose, Commissioner Engineering &amp; Environmental Services introduced the Kitchener Central Transit Hub Update as it relates to collaboration with Grand River Transit and other partners. D. Spooner provided a presentation which spoke to various reports that describe the various needed updates for the Kitchener Central Hub project. He recognized the significant work to be done for this project in connecting the community and provided an overview of the timeline and associated funding.</p>\n<p>In reply to a question from the Committee, D. Spooner indicated there would be an added pick-up and drop-off area to the site, as well as that staff will be working with Metrolinx to ensure sufficient parking.</p>\n<p>Responding to a question from the Committee, D. Spooner clarified that Kitchener Central will have various services including GO rail and bus, ION, GRT bus, and active transportation facilities. D. Spooner further spoke to timelines for the Breslau station, with discussions ongoing for funding tools.</p>\n<p>In response to a question from the Committee, D. Spooner answered there are currently some lanes that provide transit priority, but that the proposed routes will be first fully priority ones, though the project is still somewhat constrained.</p>\n<p>Replying to a question from the Committee, J. Rose indicated it would not be feasible to keep the surplus lands as proposed in the corresponding report.</p>\n<p>In reply to a question from the Committee, D. Spooner answered that for the Cambridge Transit hub, the project is in planning stages for Pinebush station, with initial business cases for Cambridge to Guelph.</p>\n<p>Responding to a question from the Committee, D. Spooner clarified that staff are meeting with Metrolinx frequently, as well as in constant communication with the City of Kitchener and other partners as needed.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Kitchener Central Transit Hub Presentation to SID Committee December 3, 2024.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10842"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "26",
+   "number": "7.1.2",
+   "title": "EES-SAM-24-002, Kitchener Central Update",
+   "closed": false,
+   "video_start": 2144.232,
+   "video_end": 2192.842,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-SAM-24-002, Kitchener Central Update .pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10829"
+    },
+    {
+     "name": "Appendix A, EES-SAM-24-002, Rendering of Kitchener Central.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10830"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "30",
+   "number": "7.1.3",
+   "title": "PDL-LEG-24-031, Kitchener Central Transit Hub - Surplus Declaration of Lands and Agreement of Purchase and Sale with Metrolinx",
+   "closed": false,
+   "video_start": 2150.482,
+   "video_end": 2189.248,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "PDL-LEG-24-031, KCTH - Surplus Declaration of Lands and Agreement of Purchase and Sale with Metrolinx.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10836"
+    },
+    {
+     "name": "155060victoriast.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10837"
+    }
+   ],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "27",
+   "number": "7.1.4",
+   "title": "TSD-TRP-24-019, Victoria Street North Modifications - Weber Street West to King Street West - Preferred Alternative",
+   "closed": false,
+   "video_start": 2192.842,
+   "video_end": 2303.233,
+   "notes": [
+    "<p>In reply to a question from the Committee, D. Spooner answered that the money received from the sale of surplus lands goes into general funds.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-TRP-24-019, Victoria St N Modifications - Weber St W to King St W - Preferred Alternative.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10838"
+    },
+    {
+     "name": "Appendix A – Preferred Preliminary Design Plan and Cross-section Renderings.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10839"
+    },
+    {
+     "name": "Appendix B – Summary of Public Engagement.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10840"
+    },
+    {
+     "name": "Appendix C - SID Committee Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10841"
+    }
+   ],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "33",
+   "number": "7.1.5",
+   "title": "TSD-TRP-24-018, Regional Road Assumption - Duke Street between Victoria Street and Breithupt",
+   "closed": false,
+   "video_start": 2303.233,
+   "video_end": 2348.124,
+   "notes": [
+    "<p>J. Rose indicated that the next update for this project can be expected in Q2 of 2025.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-TRP-24-018, Regional Road Assumption - Duke Street between Victoria Street and Breithupt.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10821"
+    },
+    {
+     "name": "Appendix A- Location map of Duke Street btw CN Railway tracks and Breithaupt St.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10822"
+    },
+    {
+     "name": "Appendix B- Regional report from the City of Kitchener- transfer of Duke St from Victoria St to CN Rail tracks.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10823"
+    },
+    {
+     "name": "Appendix C - City of Kitchener Council Resolution supporting the transfer of Duke St from Victoria St to CN Rail tracks.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10824"
+    }
+   ],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "31",
+   "number": "7.1.6",
+   "title": "EES-WAS-24-010, Petersburg Communal System Assumption Charges By-Law",
+   "closed": false,
+   "video_start": 2348.124,
+   "video_end": 2555.579,
+   "notes": [
+    "<p>J. Rose introduced the report and spoke to the relationship with the Township of Wilmot for the assumption of the water supply system, in response to an order from the Ministry of Environment for upgrades to the water supply system. </p>\n<p>Replying to a question from the Committee, J. Rose answered that it would be quite expensive to build a communal system from scratch as significant work would need to be done. J. Rose said she would circulate further information about costs.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WAS-24-010, Petersburg Communal System Assumption Charges By-Law.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10831"
+    },
+    {
+     "name": "Appendix A, EES-WAS-24-010, Petersburg Communal System Assumption Charges By-Law .pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10832"
+    }
+   ],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "14",
+   "number": "7.2",
+   "title": "Strategic Priority - Equitable Services and Opportunities",
+   "closed": false,
+   "video_start": 2555.579,
+   "video_end": 2556.735,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "7.2.1",
+   "title": "TSD-TRP-24-020, Traffic and Parking By-Law Changes in Support of Municipal Speed Cameras",
+   "closed": false,
+   "video_start": 2556.735,
+   "video_end": 3224.848,
+   "notes": [
+    "<p>D. Spooner introduced the report, which outlined additions to the proposed list of new school zones, as well as the addition of speed limit reductions, and adding to proposed list of community safety zones.</p>\n<p>In reply to a question from the Committee, D. Spooner answered that best practices suggest a transition area for roads, and that awareness going forward is critical to prevent frustration.</p>\n<p>Responding to a question from the Committee, D. Spooner clarified that the proposed roads are a combination of Regional and area municipal roads. He explained that the working group who provided the recommendations is made up of staff from all municipalities and broad agreement is sought for determining the options.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-TRP-24-020, Traffic and Parking By-Law Changes in Support of Municipal Speed Cameras.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10825"
+    },
+    {
+     "name": "Appendix A - Full Set of Proposed Amendments to Traffic and Parking By-Law 16-023.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10826"
+    },
+    {
+     "name": "Appendix B - Proposed Speed Limit Strategies at King Alfred Academy and Balsam Grove Parochial School.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10827"
+    }
+   ],
+   "motions": [
+    "m8"
+   ]
+  },
+  {
+   "id": "16",
+   "number": "8",
+   "title": "Information/Correspondence",
+   "closed": false,
+   "video_start": 3224.848,
+   "video_end": 3225.317,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "8.1",
+   "title": "Council/Committee Tracking List",
+   "closed": false,
+   "video_start": 3225.317,
+   "video_end": 3229.645,
+   "notes": [
+    "<p>The Council/Committee Tracking List was received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Council-Committee Tracking List (Dec 2024).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10828"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "9",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 3229.645,
+   "video_end": 3235.473,
+   "notes": [
+    "<p>No other business was discussed.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "10",
+   "title": "Next Meeting - January 14, 2025",
+   "closed": false,
+   "video_start": 3235.473,
+   "video_end": 3236.755,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "11",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 3236.755,
+   "video_end": 3288.271,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "6",
+   "item_number": "6",
+   "item_title": "Consent Agenda",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Shantz",
+   "text": "That the Consent Agenda items be received for information and approved.",
+   "text_html": "<p>That the Consent Agenda items be received for information and approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "23",
+   "item_number": "6.1.1",
+   "item_title": "PDL-GDS-24-021, Brownfield Financial Incentive Program - Assignment of Tax Increment Grant - 49 Queen St E, Cambridge",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Shantz",
+   "text": "That the Regional Municipality of Waterloo approve the following actions regarding the Tax Increment Grant for the property municipally known as 49 Queen Street East, Cambridge, as described in Report PDL-GDS-24-021, dated December 3, 2024: Assign the Brownfield Parcel B (Apartment) Tax Increment Grant and Redevelopment Agreement dated February 5, 2018 between D.D. 49 Queen Street Ltd., The Corporation the City of Cambridge and The Regional Municipality of Waterloo to Skyline Real Estate Holdings Inc., the new owners of the subject lands; Authorize the Region’s Commissioner, Planning, Development and Legislative Services and Chief Financial Officer to execute an Assignment Agreement with The Corporation of the City of Cambridge, D.D. 49 Queen Street Ltd. (as assignor), and Skyline Real Estate Holdings Inc. (as assignee) for 49 Queen Street East (Parcel B TIG Agreement), with such agreement to be satisfactory to the Regional Solicitor; and Authorize the Region’s Commissioner, Planning, Development and Legislative Services and Chief Financial Officer to execute any future Assignment Agreement for the Parcel B TIG Agreement to any subsequent new owner of 49 Queen Street East, Cambridge.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve the following actions regarding the Tax Increment Grant for the property municipally known as 49 Queen Street East, Cambridge, as described in Report PDL-GDS-24-021, dated December 3, 2024:</p>\n<ol><li>Assign the Brownfield Parcel B (Apartment) Tax Increment Grant and Redevelopment Agreement dated February 5, 2018 between D.D. 49 Queen Street Ltd., The Corporation the City of Cambridge and The Regional Municipality of Waterloo to Skyline Real Estate Holdings Inc., the new owners of the subject lands;</li><li>Authorize the Region’s Commissioner, Planning, Development and Legislative Services and Chief Financial Officer to execute an Assignment Agreement with The Corporation of the City of Cambridge, D.D. 49 Queen Street Ltd. (as assignor), and Skyline Real Estate Holdings Inc. (as assignee) for 49 Queen Street East (Parcel B TIG Agreement), with such agreement to be satisfactory to the Regional Solicitor; and<p></p>\n</li><li>Authorize the Region’s Commissioner, Planning, Development and Legislative Services and Chief Financial Officer to execute any future Assignment Agreement for the Parcel B TIG Agreement to any subsequent new owner of 49 Queen Street East, Cambridge.</li></ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m3",
+   "item": "28",
+   "item_number": "6.3.1",
+   "item_title": "TSD-TRP-24-017, Proposed Loading Zones on Weber Street and Duke Street, in the City of Kitchener",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Shantz",
+   "text": "That the Regional Municipality of Waterloo amend Traffic and Parking By-law 16-023, as amended to: Remove from Schedule 2, Limited Parking, on Duke Street (Regional Road 63) from 18 m South of Water Street to 38 m North of College Street, West Side, 6:00 a.m. to 12:00 midnight; Add to Schedule 2, Limited Parking, on Duke Street (Regional Road 63) from 18 m South of Water Street to 44 m South of Water Street, West Side, 6:00 a.m. to 12:00 midnight; Add to Schedule 2, Limited Parking, on Duke Street (Regional Road 63) from 56 m South of Water Street to 38 m North of College Street, West Side, 6:00 a.m. to 12:00 midnight; Add to Schedule 5, Loading Zones, on Duke Street (Regional Road 63) from 44 m south of Water Street to 56 m south of Water Street, West Side; Remove from Schedule 20, School Bus Loading Zones, on Weber Street East (Regional Road 8) from 65 m south of Jackson Avenue to 115 m south of Jackson Avenue, East Side; and Add to Schedule 20, School Bus Loading Zones, on Weber Street East (Regional Road 8) from 65 m south of Jackson Avenue to 140 m south of Jackson Avenue, East Side as outlined in report TSD-TRP-24-017, dated December 3, 2024.",
+   "text_html": "<p>That the Regional Municipality of Waterloo amend Traffic and Parking By-law 16-023, as amended to:</p>\n<ol><li>Remove from Schedule 2, Limited Parking, on Duke Street (Regional Road 63) from 18 m South of Water Street to 38 m North of College Street, West Side, 6:00 a.m. to 12:00 midnight;</li><li>Add to Schedule 2, Limited Parking, on Duke Street (Regional Road 63) from 18 m South of Water Street to 44 m South of Water Street, West Side, 6:00 a.m. to 12:00 midnight;</li><li>Add to Schedule 2, Limited Parking, on Duke Street (Regional Road 63) from 56 m South of Water Street to 38 m North of College Street, West Side, 6:00 a.m. to 12:00 midnight;</li><li>Add to Schedule 5, Loading Zones, on Duke Street (Regional Road 63) from 44 m south of Water Street to 56 m south of Water Street, West Side;</li><li>Remove from Schedule 20, School Bus Loading Zones, on Weber Street East (Regional Road 8) from 65 m south of Jackson Avenue to 115 m south of Jackson Avenue, East Side; and</li><li>Add to Schedule 20, School Bus Loading Zones, on Weber Street East (Regional Road 8) from 65 m south of Jackson Avenue to 140 m south of Jackson Avenue, East Side</li></ol><p>as outlined in report TSD-TRP-24-017, dated December 3, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m4",
+   "item": "30",
+   "item_number": "7.1.3",
+   "item_title": "PDL-LEG-24-031, Kitchener Central Transit Hub - Surplus Declaration of Lands and Agreement of Purchase and Sale with Metrolinx",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "McCabe",
+   "text": "That the Regional Municipality of Waterloo undertakes the following: Declare the Lands (as hereinafter defined) surplus to the needs of the Region, as detailed in Report No. PDL-LEG-24-031, dated December 3, 2024; That the Regional Solicitor be authorized and directed to execute an Agreement of Purchase and Sale on behalf of the Region to sell the Lands to Metrolinx for the sum of $1,434,000.00, with all terms and conditions subject to the satisfaction of the Commissioner of Engineering and Environmental Services and the Regional Solicitor, in accordance with the Region’s Disposal of Land By-Law (No. 20-042); and Authorize and direct the Regional Solicitor to execute such other documents, to the satisfaction of the Commissioner of Engineering and Environmental Services and the Regional Solicitor, and to carry out the Agreement of Purchase and Sale; with respect to the following Region-owned lands (collectively, the “Lands”): Part of the lands municipally known as 16 Victoria Street North, Kitchener and legally described as Part of Lot 35, Streets and Lanes (Closed by By-law 2239, Instrument No. 67072), designated as Part 1 on 58R-22177, Kitchener, being part of PIN 22318-0366 (LT); Part of the lands municipally known as Waterloo Street, Kitchener and legally described as Waterloo Street, Registered Plan 374, designated as Part 2 on 58R-22177, Kitchener, being part of PIN 22319-0002 (LT); Part of the lands municipally known as 50 Victoria Street North, Kitchener and legally described as Part of Lot 153, Streets and Lanes (Closed by By-law 2787, Instrument No. A-80702), designated as Part 3 on 58R-22177, Kitchener, being part of PIN 22319-0396 (LT); and Part of the lands municipally known as 60 Victoria Street North, Kitchener and legally described as Part of Lot Lane, Registered Plan 374 (Closed by By-law 88-203, Instrument No. 971978), designated as Parts 4 and 5 on 58R-22177, Kitchener, being part of PIN 22319-0399 (LT).",
+   "text_html": "<p>That the Regional Municipality of Waterloo undertakes the following:</p>\n<ol>\n<li>Declare the Lands (as hereinafter defined) surplus to the needs of the Region, as detailed in Report No. PDL-LEG-24-031, dated December 3, 2024;</li>\n<li>That the Regional Solicitor be authorized and directed to execute an Agreement of Purchase and Sale on behalf of the Region to sell the Lands to Metrolinx for the sum of $1,434,000.00, with all terms and conditions subject to the satisfaction of the Commissioner of Engineering and Environmental Services and the Regional Solicitor, in accordance with the Region’s Disposal of Land By-Law (No. 20-042); and</li>\n<li>Authorize and direct the Regional Solicitor to execute such other documents, to the satisfaction of the Commissioner of Engineering and Environmental Services and the Regional Solicitor, and to carry out the Agreement of Purchase and Sale;</li>\n</ol>\n<p>with respect to the following Region-owned lands (collectively, the “Lands”):</p>\n<ol>\n<li>Part of the lands municipally known as 16 Victoria Street North, Kitchener and legally described as Part of Lot 35, Streets and Lanes (Closed by By-law 2239, Instrument No. 67072), designated as Part 1 on 58R-22177, Kitchener, being part of PIN 22318-0366 (LT);</li>\n<li>Part of the lands municipally known as Waterloo Street, Kitchener and legally described as Waterloo Street, Registered Plan 374, designated as Part 2 on 58R-22177, Kitchener, being part of PIN 22319-0002 (LT);</li>\n<li>Part of the lands municipally known as 50 Victoria Street North, Kitchener and legally described as Part of Lot 153, Streets and Lanes (Closed by By-law 2787, Instrument No. A-80702), designated as Part 3 on 58R-22177, Kitchener, being part of PIN 22319-0396 (LT); and</li>\n<li>Part of the lands municipally known as 60 Victoria Street North, Kitchener and legally described as Part of Lot Lane, Registered Plan 374 (Closed by By-law 88-203, Instrument No. 971978), designated as Parts 4 and 5 on 58R-22177, Kitchener, being part of PIN 22319-0399 (LT).</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "27",
+   "item_number": "7.1.4",
+   "item_title": "TSD-TRP-24-019, Victoria Street North Modifications - Weber Street West to King Street West - Preferred Alternative",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Redman",
+   "text": "That the Regional Municipality of Waterloo (the Region): Approve the preferred preliminary design for Victoria Street North between Weber Street West to King Street West in the City of Kitchener, as described in Report TSD-TRP-24-019, dated December 3, 2024. Direct staff to file the Notice of Completion for this Class Environmental Assessment Study and to place the Environmental Study Report on the public record for a period of 30 days.",
+   "text_html": "<p>That the Regional Municipality of Waterloo (the Region):</p>\n<ol><li>Approve the preferred preliminary design for Victoria Street North between Weber Street West to King Street West in the City of Kitchener, as described in Report TSD-TRP-24-019, dated December 3, 2024.</li><li>Direct staff to file the Notice of Completion for this Class Environmental Assessment Study and to place the Environmental Study Report on the public record for a period of 30 days.</li></ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m6",
+   "item": "33",
+   "item_number": "7.1.5",
+   "item_title": "TSD-TRP-24-018, Regional Road Assumption - Duke Street between Victoria Street and Breithupt",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Huinink",
+   "text": "That the Regional Municipality of Waterloo approve the commencement of the process to transfer Duke Street West, between CN Railway tracks and Breithaupt Street, from the City of Kitchener to the Regional Municipality of Waterloo as described in Report TSD-TRP-24-018. Provide notice to the public of the proposed transfer of this section of Duke Street West from the City of Kitchener in accordance with the Region’s Notice Policy; Commence the process to amend the Road Consolidation By-Law 01-059 (Regional Road System) to assume this section of Duke Street West from the City of Kitchener, effective upon passing of the by-law; Commence the process to amend Traffic and Parking By-law 16-023 to reflect the addition of existing traffic regulations on this section of Duke Street West to be assumed by the Region of Waterloo; and Report back to Regional Council at such time as it is necessary to legally and physically close Duke Street West from Victoria Street North to Breithaupt Street.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve the commencement of the process to transfer Duke Street West, between CN Railway tracks and Breithaupt Street, from the City of Kitchener to the Regional Municipality of Waterloo as described in Report TSD-TRP-24-018.</p>\n<ol><li>Provide notice to the public of the proposed transfer of this section of Duke Street West from the City of Kitchener in accordance with the Region’s Notice Policy; </li><li>Commence the process to amend the Road Consolidation By-Law 01-059 (Regional Road System) to assume this section of Duke Street West from the City of Kitchener, effective upon passing of the by-law; <ol><li>Commence the process to amend Traffic and Parking By-law 16-023 to reflect the addition of existing traffic regulations on this section of Duke Street West to be assumed by the Region of Waterloo; and</li><li>Report back to Regional Council at such time as it is necessary to legally and physically close Duke Street West from Victoria Street North to Breithaupt Street.</li></ol></li></ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m7",
+   "item": "31",
+   "item_number": "7.1.6",
+   "item_title": "EES-WAS-24-010, Petersburg Communal System Assumption Charges By-Law",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Foxton",
+   "text": "T hat The Regional Municipality of Waterloo enact a By-law to Impose a Charge Upon Owners of Land Who Derive or Will or May Derive a Benefit from the Water System Located in the Community of Petersburg in the Township of Wilmot , attached as Appendix A, pursuant to Report EE S-WAS- 24- 010 , dated December 3 , 2024.",
+   "text_html": "<p>That The Regional Municipality of Waterloo enact a By-law to Impose a Charge Upon Owners of Land Who Derive or Will or May Derive a Benefit from the Water System Located in the Community of Petersburg in the Township of Wilmot, attached as Appendix A, pursuant to Report EES-WAS-24-010, dated December 3, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "34",
+   "item_number": "7.2.1",
+   "item_title": "TSD-TRP-24-020, Traffic and Parking By-Law Changes in Support of Municipal Speed Cameras",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "McCabe",
+   "text": "That the Regional Municipality of Waterloo amend Traffic and Parking By-law 16-023, effective January 1, 2025, in support of the Region’s Municipal Speed Camera Program as outlined in Appendix A in Report TSD-TRP-24-020 dated December 3, 2024.",
+   "text_html": "<p>That the Regional Municipality of Waterloo amend Traffic and Parking By-law 16-023, effective January 1, 2025, in support of the Region’s Municipal Speed Camera Program as outlined in Appendix A in Report TSD-TRP-24-020 dated December 3, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 2)",
+    "label": "11-2",
+    "for": 11,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "James",
+     "Deutschmann",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [
+     "Shantz",
+     "Wolf"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "20",
+   "item_number": "11",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Huinink",
+   "text": "That the meeting adjourn at 3:33 p.m.",
+   "text_html": "<p>That the meeting adjourn at 3:33 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

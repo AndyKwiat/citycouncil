@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "1605a8cb-4050-46e2-ad06-792cc4315dc1",
+ "city": "region-of-waterloo",
+ "key": "2024-05-07-community-and-health-services",
+ "type": "Community and Health Services",
+ "body": "committee",
+ "body_name": "Community and Health Services",
+ "title": "Community and Health Services",
+ "start": "2024-05-07T14:30:00",
+ "end": "2024-05-07T15:30:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=1605a8cb-4050-46e2-ad06-792cc4315dc1&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=8071",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=1605a8cb-4050-46e2-ad06-792cc4315dc1&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=1605a8cb-4050-46e2-ad06-792cc4315dc1&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=1605a8cb-4050-46e2-ad06-792cc4315dc1"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=1605a8cb-4050-46e2-ad06-792cc4315dc1",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "a39a158585c9872b5442f446fb8bdebd99409531ee89f1b7cf7e94bea1e885ad"
+ }
+}

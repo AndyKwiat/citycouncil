@@ -1,0 +1,211 @@
+{
+ "title": "Special Council - November 15, 2022",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Huinink",
+  "James",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Williams",
+  "Wolf",
+  "Deutschmann",
+  "Harris",
+  "Liggett"
+ ],
+ "absent": [
+  "Deutschmann",
+  "Harris",
+  "Liggett"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 262.0,
+   "video_end": 272.844,
+   "notes": [
+    "<p>Chair K. Redman called the meeting to order at 8:07 a.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 272.844,
+   "video_end": 298.187,
+   "notes": [
+    "<p>Chair Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 298.187,
+   "video_end": 315.202,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "4",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 315.202,
+   "video_end": 478.2,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1",
+    "m2",
+    "m3"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "5",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 500.992,
+   "video_end": 589.645,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Erb",
+   "text": "That a closed meeting of Council be held on Tuesday, November 15, 2022 immediately following open session, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Education related to Staff-Council Relations",
+   "text_html": "<p>That a closed meeting of Council be held on Tuesday, November 15, 2022 immediately following open session, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Education related to Staff-Council Relations</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "3",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Salonen",
+   "text": "That a closed meeting of Council be held on Thursday, November 17, 2022 at 8:30 a.m., in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Education related to Strategic Planning and Municipal Budgeting Education related to Legal Responsibilities of Municipal Councillors Personal matters about identifiable individuals",
+   "text_html": "<p>That a closed meeting of Council be held on Thursday, November 17, 2022 at 8:30 a.m., in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Education related to Strategic Planning and Municipal Budgeting</li>\n<li>Education related to Legal Responsibilities of Municipal Councillors</li>\n<li>Personal matters about identifiable individuals</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m3",
+   "item": "3",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "James",
+   "text": "That a closed meeting of Council be held on Thursday, December 1, 2022 at 6:00 p.m., in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Education related to challenges and leadership post pandemic",
+   "text_html": "<p>That a closed meeting of Council be held on Thursday, December 1, 2022 at 6:00 p.m., in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Education related to challenges and leadership post pandemic</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m4",
+   "item": "12",
+   "item_number": "5",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Wolf",
+   "text": "That Special Council adjourn at 8:10 a.m.",
+   "text_html": "<p>That Special Council adjourn at 8:10 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

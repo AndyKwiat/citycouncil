@@ -1,0 +1,196 @@
+{
+ "title": "Special Council - March 10, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf",
+  "Craig",
+  "Liggett",
+  "Salonen"
+ ],
+ "absent": [
+  "Craig",
+  "Liggett",
+  "Salonen"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 215.457,
+   "video_end": 219.816,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 9:02 a.m. She stated the purpose of this meeting is to consider a by-law to appoint the Chief Administrative Officer for the Region of Waterloo.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 219.816,
+   "video_end": 332.05,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 332.05,
+   "video_end": 341.988,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "4",
+   "title": "Enactment Of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 341.988,
+   "video_end": 348.769,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "4.1",
+   "title": "By-law 26-011",
+   "closed": false,
+   "video_start": 348.769,
+   "video_end": 447.173,
+   "notes": [
+    "<p>Darshpreet Bhatti, Chief Administrative Officer, introduced himself.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "5",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 447.173,
+   "video_end": 515.733,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "11",
+   "item_number": "4.1",
+   "item_title": "By-law 26-011",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "James",
+   "text": "That a By-law to Provide for the Appointment of a Chief Administrative Officer and repeal By-laws 20-027, 22-023, and 25-019 and be read a first, second and third time, finally passed and numbered 26-011, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Provide for the Appointment of a Chief Administrative Officer and repeal By-laws 20-027, 22-023, and 25-019 and be read a first, second and third time, finally passed and numbered 26-011, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "12",
+   "item_number": "5",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "Vrbanovic",
+   "text": "That the meeting adjourn at 9:07 a.m.",
+   "text_html": "<p>That the meeting adjourn at 9:07 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

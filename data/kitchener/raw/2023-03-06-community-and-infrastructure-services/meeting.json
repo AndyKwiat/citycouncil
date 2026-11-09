@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "c59ddc02-1c8d-4d47-9cf8-108fa0239b9d",
+ "city": "kitchener",
+ "key": "2023-03-06-community-and-infrastructure-services",
+ "type": "Community and Infrastructure Services Committee",
+ "body": "committee",
+ "body_name": "Community and Infrastructure Services",
+ "title": "Community and Infrastructure Services Committee",
+ "start": "2023-03-06T14:00:00",
+ "end": "2023-03-06T16:30:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=c59ddc02-1c8d-4d47-9cf8-108fa0239b9d&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=9054",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=c59ddc02-1c8d-4d47-9cf8-108fa0239b9d&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=c59ddc02-1c8d-4d47-9cf8-108fa0239b9d&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=c59ddc02-1c8d-4d47-9cf8-108fa0239b9d"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=c59ddc02-1c8d-4d47-9cf8-108fa0239b9d",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "ceff7f657fd8ad66c2e28655f36d0cdfd91a4338e737679e4ddc4b9ef59a970f"
+ }
+}

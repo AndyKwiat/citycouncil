@@ -1,0 +1,792 @@
+{
+ "title": "Special Council - April 08, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Chair Redman called the meeting to order at 9:00 a.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 272.328,
+   "video_end": 337.109,
+   "notes": [
+    "<p>Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 337.109,
+   "video_end": 378.594,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "4",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 383.641,
+   "video_end": 387.859,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "5",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 378.594,
+   "video_end": 436.203,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "5.1",
+   "title": "Tom Knezevich, Chair, Nith Valley EcoBoosters",
+   "closed": false,
+   "video_start": 436.203,
+   "video_end": 1057.892,
+   "notes": [
+    "<p>Tom Knezevich delegated in regards to the 1980 Wilmot Water Agreement and provided a presentation. A copy of the presentation is attached to the agenda.</p>\n<p>In response to questions from Council, the delegate did express belief that the shingletown wetlands have been impacted by excessive water pumping activity in the area.  </p>"
+   ],
+   "attachments": [
+    {
+     "name": "Nith Valley EcoBoosters Delegation March 25, 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17286"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "5.2",
+   "title": "Lavern Forwell, Citizens for Safe Ground Water",
+   "closed": false,
+   "video_start": 1057.892,
+   "video_end": 1687.34,
+   "notes": [
+    "<p>Lavern Forwell delegated in support of maintaining the 1980 Wilmot Water Agreement and his personal experiences with ponds on his property.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Lavern Forwell Photos for Delegation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17287"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "5.3",
+   "title": "Greg Kaster, Wilmot",
+   "closed": false,
+   "video_start": 1687.34,
+   "video_end": 2135.488,
+   "notes": [
+    "<p>Greg Kaster delegated on the Wilmot Water Agreement and shared personal experiences and historical context with well shortages in the area.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "21",
+   "number": "5.4",
+   "title": "Samantha Lernout, President, Citizens for Safe Ground Water",
+   "closed": false,
+   "video_start": 2135.488,
+   "video_end": 2166.472,
+   "notes": [
+    "<p>This delegate withdrew their request to speak.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "5.4 Samantha Lernout.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17301"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "22",
+   "number": "5.5",
+   "title": "Ernie Dreher, Wilmot",
+   "closed": false,
+   "video_start": 2166.472,
+   "video_end": 2284.29,
+   "notes": [
+    "<p>Ernie Dreher delegated to his personal experiences with water shortage issues in the area.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "23",
+   "number": "5.6",
+   "title": "Michael Frind, Associate Hydrogeologist and Groundwater Modeller. Frind Consulting Associates",
+   "closed": false,
+   "video_start": 2284.29,
+   "video_end": 3452.189,
+   "notes": [
+    "<p>Michael Frind delegated to the water pumping study and the Wilmot Water Agreement.</p>\n<p>In response to questions from Council, the delegate shared concerns with the Region's modelling within the study and believes that additional field study is needed to provide more accurate modelling and data. The delegate also cautioned that the wells in the Wilmot area may be more connected than the study suggests. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "24",
+   "number": "5.7",
+   "title": "Larry Masseo, Policy Advisor, Waterloo Region Home Builders' Association (WRHBA)",
+   "closed": false,
+   "video_start": 3452.189,
+   "video_end": 3813.253,
+   "notes": [
+    "<p>Larry Masseo delegated in support in rescinding the Wilmot Water Agreement. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "25",
+   "number": "5.8",
+   "title": "David Eenkooren, Wilmot",
+   "closed": false,
+   "video_start": 3813.253,
+   "video_end": 4104.062,
+   "notes": [
+    "<p>David Eenkooren delegated on the historical context on water pumping on his property and in Wilmot generally. The delegate is looking for water flow to return back to his pond and to see the Wilmot Centre Monitoring Program Public Liaison Committee be reconvened.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "5.8 David Eenkooren, Wilmot.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17303"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "26",
+   "number": "5.9",
+   "title": "Dietlinde Laepple, Wilmot",
+   "closed": false,
+   "video_start": 4297.595,
+   "video_end": 4304.548,
+   "notes": [
+    "<p>Dietlinde Laepple delegated on the history of the Wilmot Centre Wellfield and in support of maintaining the Wilmot Water Agreement and provided a presentation. A copy is attached to the minutes. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "5.9 Dietlinde Laepple, Wilmot.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17302"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "27",
+   "number": "5.10",
+   "title": "Meaghan McDermid, Lawyer, Davies Howe LLP, speaking on behalf of Kitchener Trussler Holdings Inc.",
+   "closed": false,
+   "video_start": 4656.365,
+   "video_end": 5366.684,
+   "notes": [
+    "<p>Meaghan McDermid delegated on behalf of Kitchener Trussler Holdings in support of rescinding the Wilmot Water Agreement as well for advocating for her client's project to be allowed to proceed. </p>\n<p>In response to questions from Council, the delegate confirmed that her client is in support of the Region's current risk management framework. The delegate also confirmed that her client is committed to working with both the Region and City of Kitchener.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "28",
+   "number": "5.11",
+   "title": "Ryan Mounsey, CEO, Urban Insights Inc.",
+   "closed": false,
+   "video_start": 5366.684,
+   "video_end": 5811.494,
+   "notes": [
+    "<p>Ryan Mounsey delegated on the importance of ensuring that current development applications are able to proceed during the water capacity constraint, the delegate shared examples of projects that he is involved in that are not able to proceed.</p>\n<p>In response to questions from Council, the delegate stated some of his client's would be willing to be willing to accept risk in regards to water constraints, others would not accept risk.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Ryan Mounsey, CEO, Urban Insights Inc.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17300"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "5.12",
+   "title": "Allan Drost, Wilmot",
+   "closed": false,
+   "video_start": 5811.494,
+   "video_end": 5844.384,
+   "notes": [
+    "<p>This delegate withdrew their request to speak.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "30",
+   "number": "5.13",
+   "title": "David Eugene Prong, Wilmot",
+   "closed": false,
+   "video_start": 5844.384,
+   "video_end": 6081.921,
+   "notes": [
+    "<p>David Prong delegated on the importance of protecting the Shingletown Wetland. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "5.13 David Eugene Prong, Wilmot.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17304"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "31",
+   "number": "5.14",
+   "title": "Martha Bricker, Wilmot",
+   "closed": false,
+   "video_start": 6029.703,
+   "video_end": 6281.528,
+   "notes": [
+    "<p>Martha Bricker delegated on personal well issues and in support of maintaining the Wilmot Water Agreement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "32",
+   "number": "5.15",
+   "title": "Linda Kress, Wilmot",
+   "closed": false,
+   "video_start": 6281.528,
+   "video_end": 6973.235,
+   "notes": [
+    "<p>Linda Kress delegated on the history of Wilmot Centre water flow issues and appeared in support of maintaining the Wilmot Water Agreement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "33",
+   "number": "5.16",
+   "title": "Mo Elash, Wilmot",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>This delegate withdrew their request to speak.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "6",
+   "title": "Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "6.1",
+   "title": "EES-WIM-26-006, Mannheim Service Area Water Capacity Constraint Update on Work Underway",
+   "closed": false,
+   "video_start": 7293.438,
+   "video_end": 8673.904,
+   "notes": [
+    "<p>Interim Commissioner, Water and Wastewater, Kenneth Brothers, provided an introduction to the report and provided a presentation. A copy of the presentation is attached to the agenda. K. Brothers provided Council with updates on the current state of the water capacity constraint issue and what staff have been able to achieve since last month. Commissioner, Human Resources, Kate Konopka, provided an update on the current push to hire additional staff to help address the water capacity issue, interviews and recruitment continue to be underway. Commissioner, Planning, Development &amp; Legislative Services, Rod Regier, provided an update on how the Region is assessing what development can proceed. Commissioner, Resident Experience, Strategy and Communications, Connie MacDonald, provided an update on the Regional working groups and how frequently they have been able to meet. K. Brothers also provided an updated forecast on what reports will return to Council in May.</p>\n<p>In response to questions from Council, C. MacDonald confirmed that the working groups do not currently have roles reserved specifically for residents. The working groups are made up of technical experts, some of which happen to be residents.</p>\n<p>In response to further questions, K. Brothers confirmed that staff are not able to further accelerate the risk management framework project. Staff have already accelerated the project as much as possible and cannot guarantee returning to Council with the project until June. Council expressed interest in current water capacity being captured in further data sets so that a more complete picture can be provided through the data.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WIM-26-006, Mannheim Service Area Water Capacity Constraint Update on Work Underway.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17297"
+    },
+    {
+     "name": "EES-WIM-26-006, Appendix A - Presentation – April 2026 MSA Work Underway.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17298"
+    },
+    {
+     "name": "EES-WIM-26-006, Appendix B - Updated Summary of 2025 Planning Application data within the Mannheim Service Area.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17299"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "6.2",
+   "title": "EES-WIM-26-007, Wilmot Centre Aquifer Assessment",
+   "closed": false,
+   "video_start": 8673.904,
+   "video_end": 13909.242,
+   "notes": [
+    "<p>K. Brothers and Director, Water and Wastewater Operations, Amy Shaw, provided an introduction to the report. Manager, Hydrogeology &amp; Water Programs, Geoff Moroz, provided a presentation. A copy of the presentation is attached to the agenda.</p>\n<p>G. Moroz provided a history of water pumping within the Wilmot Centre Aquifer. Staff confirmed that there are no alternative solutions to provide an additional 30 L/s to the affected service area, staff also confirmed that this reallocation will not negatively impact Wilmot's ability to handle growth. G. Moroz provided a history of water taking regulations in the Province of Ontario and also shared that the Region has not exceeded the total allowable flows that can be taken from Wilmot under the current 1980 agreement. Short term operational testing was undertaken in 2018 and it was confirmed by this testing that sustainable water taking was possible up to 158 L/s and that no well interference was reported. Long term data sets have confirmed that pumping within the Wilmot Centre Well Field has had no impact on the Shingletown wetlands. G. Moroz also provided an overview of the many potential reasons for private wells to be experiencing issues.</p>\n<p>G. Moroz shared a 50 year data set on water levels near production wells along with the average annual pumping rates in Wilmot Centre and explained the the trends over time, staff believe that Wilmot Centre has shown excellent resiliency. To conclude, G. Moroz stated that the 1980 policy will need to be rescinded to allow the Region to help remove strain on the Mannheim service area.</p>\n<p>In response to questions from Council, G. Moroz elaborated on the most common reasons for failure of private wells. Staff also explained that the 1980 policy was created at a time where environmental water taking was less protected, since the creation of the policy the Province of Ontario has created stronger legislation that better protects wetlands and the water supply.</p>\n<p>Council inquired into the possibility of creating a new policy or agreement instead of fully rescinding the 1980 policy. Staff explained that operating without an agreement would allow staff to better operate the system holistically and would allow for capacity to be moved around. Council continued to express concerns over the drying out of private wells.</p>\n<p>Staff also explained that permanent rescindment concretely guarantees that 30 L/s can be used to cut into the current Mannheim deficit, without the policy being rescinded staff cannot guarantee that capacity will always be able to be moved towards the Mannheim service area. SLR Consulting was able to expand on the history of the Wilmot Centre Aquifer and the extensive history of study and long data sets that have been collected by the Region.</p>\n<p>In response to further questions from Council, staff explained that the Mannheim side stream solution was a way to make an already planned permanent upgrade to the system come online faster. Staff are concerned with a temporary rescindment as it leaves open a question of how long the additional capacity can be assigned for. </p>\n<p>Council inquired into if the well interference policy has been updated recently, staff confirmed that they are frequently reviewing how well interference may fit into the larger picture within service areas and continue to update mapping.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WIM-26-007, Wilmot Centre Aquifer Assessment.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17290"
+    },
+    {
+     "name": "EES-WIM-26-007, Appendix A - Sustainable Use of Water Resources for Municipal Supply (1980 Policy - Wilmot) (EES-WIM-26-003).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17291"
+    },
+    {
+     "name": "EES-WIM-26-007, Appendix B - Drawdown in Prod Aquifer AFB2 (Stantec, 2020) Baden-New Hamburg WWMP Update (E-11-056).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17292"
+    },
+    {
+     "name": "EES-WIM-26-007, Appendix C - State of the Region’s Water Supply Update (TES-WAS-21-22).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17293"
+    },
+    {
+     "name": "EES-WIM-26-007, Appendix D - Growing with Care – Water Supply (EES-WAS-24-008).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17294"
+    },
+    {
+     "name": "EES-WIM-26-007, Appendix E - Wilmot Centre Well Field Pumping and Water Level Assessment (SLR, 2026).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17295"
+    },
+    {
+     "name": "EES-WIM-26-007, Appendix F - Wilmot Centre Aquifer Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17296"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "6.3",
+   "title": "Deferred Motion - 1980 Policy on Water Taking - Wilmot Township",
+   "closed": false,
+   "video_start": 6973.235,
+   "video_end": 15926.671,
+   "notes": [
+    "<p>An amendment was introduced to the original motion. Council deliberated on both the proposed amendment and the original staff recommendation to rescind the 1980 policy. Council further deliberated on the merits of maintaining a policy from before the introduction of more robust provincial legislation; as well as the potential need for the policy to protect the water supply from the Wilmot Centre Aquifer.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1",
+    "m2",
+    "m3"
+   ]
+  },
+  {
+   "id": "8",
+   "number": "7",
+   "title": "Correspondence",
+   "closed": false,
+   "video_start": 15933.749,
+   "video_end": 15936.171,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "7.1",
+   "title": "Correspondence - Lori Elash",
+   "closed": false,
+   "video_start": 15936.171,
+   "video_end": 15937.952,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Correspondence - Lori Elash.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17289"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "7.2",
+   "title": "Correspondence - Samantha Lernout, President, Citizens for Safe Ground Water",
+   "closed": false,
+   "video_start": 15937.952,
+   "video_end": 15939.405,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Written Correspondence - Samantha Lernout, Citzens for Safe Ground Water.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=17288"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "8",
+   "title": "Enactment Of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 15926.671,
+   "video_end": 15993.842,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "11",
+   "number": "8.1",
+   "title": "By-law 26-015",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "4",
+   "number": "9",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>The motion to go into closed was not considered due to timing constraints.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "10",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 15993.842,
+   "video_end": 16027.404,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "13",
+   "item_number": "6.3",
+   "item_title": "Deferred Motion - 1980 Policy on Water Taking - Wilmot Township",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Gowing",
+   "text": "That Council temporarily suspend the 1980 Council Wilmot Water Take Policy, rather than revoke it, until the Region’s new Water Supply Strategy is completed and presented to Council in 2027; That Council formally review the status of the 1980 policy upon receipt of the Water Supply Strategy in 2027, prior to making any permanent determination respecting revocation; That upon initiation of any increased draw from Wilmot wells, staff provide regular public reporting to Regional Council and the public, at a minimum quarterly, including but not limited to: total volume of water being taken; peak flow data; well performance indicators; aquifer health and drawdown monitoring data; commentary on whether continued suspension remains appropriate based on observed conditions; That staff establish and implement a monitoring framework to collect and publicly report data regarding: neighbouring private wells; surface water systems; agricultural water supply conditions; and any observed correlations associated with increased regional draw; That staff provide Council and the public with a clear definition of “surplus water” as used in Regional staff's SID Feb. 10 report on the 1980 water take policy, including: the modelling methodology applied; growth and demand assumptions used; safety factors and contingency thresholds; and alignment with Provincial permitting requirements; That staff provide clarification regarding the basis of the current statement that Wilmot’s growth to 2051 will not be impacted, including: the population and employment forecasts being used; the land use assumptions underlying those forecasts; the infrastructure modelling methodology applied; and the treatment of post-2051 growth within long-term supply planning; That the forthcoming Water Supply Strategy clearly distinguish between water allocation assumptions for Wilmot’s planned residential and employment growth and any projected demand associated with the Region’s designated Mega Site, including: the range of potential end-user water demand scenarios being modelled for the mega site; the planning assumptions being used in the absence of a confirmed end user; and the implications of those assumptions for long-term regional water allocation and that the mega site water use is independent of the guaranteed allocations for Wilmot's planned growth as per their 2026 Official Plan And that prior to implementation, Council be provided written confirmation that all applicable provincial permits and regulatory approvals required to support the increased water taking have been obtained",
+   "text_html": "<ol>\n<li><strong>That Council temporarily suspend</strong> the 1980 Council Wilmot Water Take Policy, rather than revoke it, until the Region’s new Water Supply Strategy is completed and presented to Council in 2027;</li>\n<li><strong>That Council formally review the status of the 1980 policy upon receipt of the Water Supply Strategy</strong> in 2027, prior to making any permanent determination respecting revocation;</li>\n<li><strong>That upon initiation of any increased draw from Wilmot wells,</strong> staff provide regular public reporting to Regional Council and the public, at a minimum quarterly, including but not limited to:\n<ul>\n<li>total volume of water being taken;</li>\n<li>peak flow data;</li>\n<li>well performance indicators;</li>\n<li>aquifer health and drawdown monitoring data;</li>\n<li>commentary on whether continued suspension remains appropriate based on observed conditions;</li>\n</ul>\n</li>\n<li><strong>That staff establish and implement a monitoring framework</strong> to collect and publicly report data regarding:\n<ul>\n<li>neighbouring private wells;</li>\n<li>surface water systems;</li>\n<li>agricultural water supply conditions;</li>\n<li>and any observed correlations associated with increased regional draw;</li>\n</ul>\n</li>\n<li><strong>That staff provide Council and the public with a clear definition of “surplus water” </strong>as used in Regional staff's SID Feb. 10 report on the 1980 water take policy, including:\n<ul>\n<li>the modelling methodology applied;</li>\n<li>growth and demand assumptions used;</li>\n<li>safety factors and contingency thresholds;</li>\n<li>and alignment with Provincial permitting requirements;</li>\n</ul>\n</li>\n<li><strong>That staff provide clarification regarding the basis of the current statement that Wilmot’s growth to 2051 will not be impacted,</strong> including:\n<ul>\n<li>the population and employment forecasts being used;</li>\n<li>the land use assumptions underlying those forecasts;</li>\n<li>the infrastructure modelling methodology applied;</li>\n<li>and the treatment of post-2051 growth within long-term supply planning;</li>\n</ul>\n</li>\n<li><strong>That the forthcoming Water Supply Strategy clearly distinguish between water allocation assumptions for Wilmot’s planned residential and employment growth and any projected demand associated with the Region’s designated Mega Site,</strong> including:\n<ul>\n<li>the range of potential end-user water demand scenarios being modelled for the mega site;</li>\n<li>the planning assumptions being used in the absence of a confirmed end user;</li>\n<li>and the implications of those assumptions for long-term regional water allocation and that the mega site water use is independent of the guaranteed allocations for Wilmot's planned growth as per their 2026 Official Plan</li>\n</ul>\n</li>\n<li><strong>And that prior to implementation, Council be provided written confirmation that all applicable provincial permits and regulatory approvals required to support the increased water taking have been obtained</strong></li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (4 to 9)",
+    "label": "Defeated 4-9",
+    "for": 4,
+    "against": 9,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Foxton",
+     "Craig",
+     "Salonen",
+     "Gowing"
+    ],
+    "against": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Huinink"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "13",
+   "item_number": "6.3",
+   "item_title": "Deferred Motion - 1980 Policy on Water Taking - Wilmot Township",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Gowing",
+   "text": "Amendment:",
+   "text_html": "<strong>Amendment:</strong>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (5 to 8)",
+    "label": "Defeated 5-8",
+    "for": 5,
+    "against": 8,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Foxton",
+     "Craig",
+     "Salonen",
+     "Huinink",
+     "Gowing"
+    ],
+    "against": [
+     "McCabe",
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Wolf",
+     "James"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "13",
+   "item_number": "6.3",
+   "item_title": "Deferred Motion - 1980 Policy on Water Taking - Wilmot Township",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "Erb",
+   "text": "That the Regional Municipality of Waterloo rescind the 1980 Policy on Water Taking-Wilmot Township (commonly referred to as the 1980 Policy) to allow the transfer of surplus water to the Mannheim Service Area, while continuing to protect long-term water supply for growth in Wilmot Township, as outlined in report EES-WIM-26-003, dated February 10, 2026.",
+   "text_html": "<p>That the Regional Municipality of Waterloo rescind the 1980 Policy on Water Taking-Wilmot Township (commonly referred to as the 1980 Policy) to allow the transfer of surplus water to the Mannheim Service Area, while continuing to protect long-term water supply for growth in Wilmot Township, as outlined in report EES-WIM-26-003, dated February 10, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (8 to 5)",
+    "label": "8-5",
+    "for": 8,
+    "against": 5,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "McCabe",
+     "Wolf",
+     "James"
+    ],
+    "against": [
+     "Foxton",
+     "Craig",
+     "Salonen",
+     "Huinink",
+     "Gowing"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "10",
+   "item_number": "8",
+   "item_title": "Enactment Of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Nowak",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (10 to 1)",
+    "label": "10-1",
+    "for": 10,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink"
+    ],
+    "against": [
+     "Gowing"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "11",
+   "item_number": "8.1",
+   "item_title": "By-law 26-015",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Nowak",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on April 8, 2026 be read a first, second and third time, finally passed and numbered 26-015, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on April 8, 2026 be read a first, second and third time, finally passed and numbered 26-015, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m6",
+   "item": "4",
+   "item_number": "9",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That a closed meeting of Council be held on April 8, 2026 at approximately 10:30 a.m. in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Receiving advice subject to solicitor client-privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint.",
+   "text_html": "<p>That a closed meeting of Council be held on April 8, 2026 at approximately 10:30 a.m. in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li> Receiving advice subject to solicitor client-privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m7",
+   "item": "12",
+   "item_number": "10",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Nowak",
+   "text": "That the meeting adjourn at 1:23 p.m.",
+   "text_html": "<p>That the meeting adjourn at 1:23 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "4b7bb024-a2bc-481b-bf19-6f5bbf253f72",
+ "city": "kitchener",
+ "key": "2023-10-16",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2023-10-16T19:00:00",
+ "end": "2023-10-16T22:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=4b7bb024-a2bc-481b-bf19-6f5bbf253f72&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=13885",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=4b7bb024-a2bc-481b-bf19-6f5bbf253f72&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=4b7bb024-a2bc-481b-bf19-6f5bbf253f72&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=4b7bb024-a2bc-481b-bf19-6f5bbf253f72"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=4b7bb024-a2bc-481b-bf19-6f5bbf253f72",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "838ec2ebd9e67cf8fdf2ae74725443ee73939bb4180d22a06164645aa311f566"
+ }
+}

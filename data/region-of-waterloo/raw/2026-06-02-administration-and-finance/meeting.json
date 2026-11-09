@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "eba45c4e-323b-4db9-b733-a21a0b7d08be",
+ "city": "region-of-waterloo",
+ "key": "2026-06-02-administration-and-finance",
+ "type": "Administration and Finance",
+ "body": "committee",
+ "body_name": "Administration and Finance",
+ "title": "Administration and Finance",
+ "start": "2026-06-02T10:00:00",
+ "end": "2026-06-02T12:30:00",
+ "location": "Council Chambers/Electronic",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=eba45c4e-323b-4db9-b733-a21a0b7d08be&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=18014",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=eba45c4e-323b-4db9-b733-a21a0b7d08be&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=eba45c4e-323b-4db9-b733-a21a0b7d08be&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=eba45c4e-323b-4db9-b733-a21a0b7d08be"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=eba45c4e-323b-4db9-b733-a21a0b7d08be",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "1984c30d58529aea5ddbb09be9686f4164b1a708174f2082939df8f04200da42"
+ }
+}

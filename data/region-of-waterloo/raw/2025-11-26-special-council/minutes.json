@@ -1,0 +1,196 @@
+{
+ "title": "Special Council - November 26, 2025",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 64.567,
+   "video_end": 78.083,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 4:27 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 78.083,
+   "video_end": 93.395,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 131.473,
+   "video_end": 150.644,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "4",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 150.644,
+   "video_end": 152.551,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "5",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 152.551,
+   "video_end": 227.034,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "13",
+   "number": "6",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 227.034,
+   "video_end": 257.596,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "5",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Nowak",
+   "text": "That a closed meeting of the Council be held on November 26, 2025, at approximately 4:30 p.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Receiving information related to identifiable individuals regarding staffing. Advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to ongoing litigation regarding the 100 Victoria Street encampment.",
+   "text_html": "<p>That a closed meeting of the Council be held on November 26, 2025, at approximately 4:30 p.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Receiving information related to identifiable individuals regarding staffing.</li>\n<li>Advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to ongoing litigation regarding the 100 Victoria Street encampment.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "13",
+   "item_number": "6",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Gowing",
+   "text": "That the meeting adjourn at 4:29 p.m.",
+   "text_html": "<p>That the meeting adjourn at 4:29 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

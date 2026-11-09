@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "92193395-cae5-4d98-95fd-224ca50a731c",
+ "city": "kitchener",
+ "key": "2026-02-06-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2026-02-06T14:00:00",
+ "end": "2026-02-06T15:00:00",
+ "location": "Electronic Meeting",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=92193395-cae5-4d98-95fd-224ca50a731c&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=33039",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=92193395-cae5-4d98-95fd-224ca50a731c&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=92193395-cae5-4d98-95fd-224ca50a731c&Agenda=PostMinutes&lang=English",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "43a6c6e43fee5a0e222dc8353cff418e6088ef4e5ed0650e10f12346ec94c1cc"
+ }
+}

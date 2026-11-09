@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "d2d5d17e-cefd-4174-af8e-4f36748ed8cf",
+ "city": "kitchener",
+ "key": "2025-04-07",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2025-04-07T19:00:00",
+ "end": "2025-04-07T22:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=d2d5d17e-cefd-4174-af8e-4f36748ed8cf&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=26215",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=d2d5d17e-cefd-4174-af8e-4f36748ed8cf&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=d2d5d17e-cefd-4174-af8e-4f36748ed8cf&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=d2d5d17e-cefd-4174-af8e-4f36748ed8cf"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=d2d5d17e-cefd-4174-af8e-4f36748ed8cf",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "3b3d01312cd0478d14041ca004ffa1e6d489140174c5be6a8fd085e80ed17f78"
+ }
+}

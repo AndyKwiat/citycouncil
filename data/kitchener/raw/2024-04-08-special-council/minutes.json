@@ -1,0 +1,127 @@
+{
+ "title": "Special Council Meeting - April 08, 2024",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Schnider",
+  "Deneault",
+  "Michaud",
+  "Owodunni",
+  "Singh",
+  "Ioannidis",
+  "Johnston",
+  "Chapman",
+  "Stretch",
+  "Davey"
+ ],
+ "absent": [
+  "Davey"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 2356.116,
+   "video_end": 2407.616,
+   "notes": [
+    "<p>A meeting of City Council was held at 6:23 p.m. this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 2407.616,
+   "video_end": 2444.96,
+   "notes": [
+    "<p>Councillor B. Ioannidis declared a conflict with regards to 5.1 Affordable Housing Opportunity (Land Disposition - Section 239 (2) (c)) on the in-camera agenda this date, due to his employment, and did not participate in any voting or discussion on the matter.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "3",
+   "title": "Mayoral Business and Updates - Mayor B. Vrbanovic",
+   "closed": false,
+   "video_start": 1267.847,
+   "video_end": 2448.725,
+   "notes": [
+    "<p>None</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "4",
+   "title": "In-camera Meeting Authorization",
+   "closed": false,
+   "video_start": 1245.332,
+   "video_end": 2458.366,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "10",
+   "number": "5",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 2458.366,
+   "video_end": 2480.085,
+   "notes": [
+    "<p>On motion the meeting adjourned at 6:25 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "4",
+   "item_title": "In-camera Meeting Authorization",
+   "name": "",
+   "moved_by": "Owodunni",
+   "seconded_by": "Michaud",
+   "text": "\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider a land disposition matter, a land acquisition and solicitor client privilege matter and a person matter about an identifiable individual as authorized by Sections 239 (2) (b) (c) and (f) of the Municipal Act, 2001, respectively.\"",
+   "text_html": "<p>\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider a land disposition matter, a land acquisition and solicitor client privilege matter and a person matter about an identifiable individual as authorized by Sections 239 (2) (b) (c) and (f) of the Municipal Act, 2001, respectively.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Ioannidis",
+   "item_number": null,
+   "text": "Councillor B. Ioannidis declared a conflict with regards to 5.1 Affordable Housing Opportunity (Land Disposition - Section 239 (2) (c)) on the in-camera agenda this date, due to his employment, and did not participate in any voting or discussion on the matter."
+  }
+ ],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

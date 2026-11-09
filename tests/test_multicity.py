@@ -175,6 +175,20 @@ class ProseVotes(unittest.TestCase):
         one_side = escribe.prose_votes("The motion was Carried, on a recorded vote, with Mayor B. Vrbanovic and Councillors S. Davey voting in favour.")[0]
         self.assertEqual((one_side["for"], one_side["against"]), (["Mayor Vrbanovic", "Davey"], []))
 
+    def test_minutes_typos_and_missing_words(self):
+        # The minutes drop the second "voting in opposition", and the next clause must not be swallowed.
+        text = ("Clause 1 was then voted on and was LOST on a recorded vote, with Councillors D. Chapman and A. Owodunni voting in "
+                "favour; and, Mayor B. Vrbanovic and Councillors S. Davey, J Deneault, D. Schnider. Clause 2 was then voted on "
+                "and was LOST on a recorded vote, with Councillor D. Chapman voting in favour; and, Mayor B. Vrbanovic voting in opposition.")
+        a, b = escribe.prose_votes(text)
+        self.assertEqual((a["for"], a["against"]), (["Chapman", "Owodunni"], ["Mayor Vrbanovic", "Davey", "Deneault", "Schnider"]))
+        self.assertEqual((b["for"], b["against"]), (["Chapman"], ["Mayor Vrbanovic"]))
+        declined = escribe.prose_votes("They were Carried on a recorded vote, with Mayor B. Vrbanovic and Councillors S. Davey voting in favour; "
+                                       "and, Councillor D. Chapman declined to vote and the refusal is recorded as a vote in opposition.")[0]
+        self.assertEqual(declined["against"], ["Chapman"])
+        typo = escribe.prose_votes("It was Carried, on a recorded vote , with Councillors S. Davey, D. Schnider. J. Deneault voting in favour.")[0]
+        self.assertEqual(typo["for"], ["Davey", "Schnider", "Deneault"])
+
     def test_results(self):
         r = escribe.parse_result("Carried, as amended, on a recorded vote (7 to 4)")
         self.assertEqual((r["outcome"], r["label"], r["for"]), ("Carried", "7-4", 7))

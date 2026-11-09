@@ -1,0 +1,163 @@
+{
+ "title": "Special Council Meeting - October 16, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Davey",
+  "Schnider",
+  "Deneault",
+  "Michaud",
+  "Owodunni",
+  "Singh",
+  "Ioannidis",
+  "Chapman",
+  "Clancy",
+  "Johnston"
+ ],
+ "absent": [
+  "Johnston"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 28.594,
+   "video_end": 85.984,
+   "notes": [
+    "<p>A meeting of City Council was held at 5:00 p.m. this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>Councillor A. Clancy entered the meeting at this time.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 85.984,
+   "video_end": 100.891,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "3",
+   "title": "Mayoral Business and Updates - Mayor B. Vrbanovic",
+   "closed": false,
+   "video_start": 100.891,
+   "video_end": 101.109,
+   "notes": [
+    "<p>There was no Mayoral business this date.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "4",
+   "title": "Waive Notice - Urgent Agenda Matter",
+   "closed": false,
+   "video_start": 101.109,
+   "video_end": 131.453,
+   "notes": [
+    "<p>It was requested to waive notice to add an additional urgent matter related to By-law Violations on City Land - (Security of Property - Section 239 (2) (a)) as authorized of the Municipal Act, 2001, to the in-camera meeting later this date.</p>\n<p>To approve the additional urgent matter on the agenda, 2/3 of members present is required.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "7",
+   "number": "5",
+   "title": "In-camera Meeting Authorization",
+   "closed": false,
+   "video_start": 131.453,
+   "video_end": 141.828,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "10",
+   "number": "6",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 141.828,
+   "video_end": 157.937,
+   "notes": [
+    "<p>On motion the meeting adjourned at 5:02 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "15",
+   "item_number": "4",
+   "item_title": "Waive Notice - Urgent Agenda Matter",
+   "name": "",
+   "moved_by": "Deneault",
+   "seconded_by": "Owodunni",
+   "text": "\"That pursuant to Section 25.4.4 (f) of Chapter 25 (Council Procedure) of the Municipal Code requirement for Notice of Motion be waived to add an additional item to the in-camera meeting this date related to security of property as authorized by Section 239 (2) (a) of the Municipal Act, 2001.\"",
+   "text_html": "<p>\"That pursuant to Section 25.4.4 (f) of Chapter 25 (Council Procedure) of the Municipal Code requirement for Notice of Motion be waived to add an additional item to the in-camera meeting this date related to security of property as authorized by Section 239 (2) (a) of the Municipal Act, 2001.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "7",
+   "item_number": "5",
+   "item_title": "In-camera Meeting Authorization",
+   "name": "",
+   "moved_by": "Clancy",
+   "seconded_by": "Davey",
+   "text": "\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider two land acquistion or disposition matters as well as the additional urgent security of property matter, which was added to the agenda this date, as authorized by Sections 239 (2) (a) and (c) of the Municipal Act, 2001, respectively.\"",
+   "text_html": "<p>\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider two land acquistion or disposition matters as well as the additional urgent security of property matter, which was added to the agenda this date, as authorized by Sections 239 (2) (a) and (c) of the Municipal Act, 2001, respectively.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

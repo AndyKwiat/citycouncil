@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "393274fc-8be8-49f4-811b-7e2da89f3a52",
+ "city": "kitchener",
+ "key": "2023-06-19-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2023-06-19T12:00:00",
+ "end": "2023-06-19T15:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=393274fc-8be8-49f4-811b-7e2da89f3a52&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=11687",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=393274fc-8be8-49f4-811b-7e2da89f3a52&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=393274fc-8be8-49f4-811b-7e2da89f3a52&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=393274fc-8be8-49f4-811b-7e2da89f3a52"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=393274fc-8be8-49f4-811b-7e2da89f3a52",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "52928b2792ed5b3160dbf30e4879ea007f050c6e84638aea5f7773f72a3840fc"
+ }
+}

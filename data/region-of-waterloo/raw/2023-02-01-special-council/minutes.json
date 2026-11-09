@@ -1,0 +1,151 @@
+{
+ "title": "Special Council - February 01, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Deutschmann",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Williams",
+  "Wolf"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 240.877,
+   "video_end": 242.236,
+   "notes": [
+    "<p>Chair K. Redman called the meeting to order at 5:05 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 242.236,
+   "video_end": 269.923,
+   "notes": [
+    "<p>Chair K. Redman provided the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 269.923,
+   "video_end": 275.001,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "4",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 275.001,
+   "video_end": 326.344,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "5",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 326.344,
+   "video_end": 334.36,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Salonen",
+   "text": "That a closed meeting of Council be held on Wednesday, February 1, 2023 immediately following adjournment of the open session in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Receiving advice that is subject to solicitor-client privilege related to litigation.",
+   "text_html": "<p>That a closed meeting of Council be held on Wednesday, February 1, 2023 immediately following adjournment of the open session in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Receiving advice that is subject to solicitor-client privilege related to litigation.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "12",
+   "item_number": "5",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Williams",
+   "seconded_by": "Huinink",
+   "text": "That the meeting adjourn at 5:08 p.m.",
+   "text_html": "<p>That the meeting adjourn at 5:08 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

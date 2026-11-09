@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "22d85dee-86c1-434b-987e-b5066ab7e8e3",
+ "city": "region-of-waterloo",
+ "key": "2026-01-28",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "Regional Council",
+ "title": "Council Meeting",
+ "start": "2026-01-28T19:00:00",
+ "end": "2026-01-28T20:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=22d85dee-86c1-434b-987e-b5066ab7e8e3&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=16859",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=22d85dee-86c1-434b-987e-b5066ab7e8e3&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=22d85dee-86c1-434b-987e-b5066ab7e8e3&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=22d85dee-86c1-434b-987e-b5066ab7e8e3"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=22d85dee-86c1-434b-987e-b5066ab7e8e3",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "fb31a07c69cbeb16efec699dc4d267ccbba4bc5f9f63244f31bb90285c92a264"
+ }
+}

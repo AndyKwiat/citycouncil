@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "0e4506a5-dc15-4bc4-8a9d-7184b17534b2",
+ "city": "kitchener",
+ "key": "2026-05-25-planning-and-strategic-initiatives",
+ "type": "Planning and Strategic Initiatives Committee",
+ "body": "committee",
+ "body_name": "Planning and Strategic Initiatives",
+ "title": "Planning and Strategic Initiatives Committee",
+ "start": "2026-05-25T19:00:00",
+ "end": "2026-05-25T21:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=0e4506a5-dc15-4bc4-8a9d-7184b17534b2&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=36239",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=0e4506a5-dc15-4bc4-8a9d-7184b17534b2&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=0e4506a5-dc15-4bc4-8a9d-7184b17534b2&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=0e4506a5-dc15-4bc4-8a9d-7184b17534b2"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=0e4506a5-dc15-4bc4-8a9d-7184b17534b2",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "bf9cbc5af20cc7f5de3eca866e95f65a0e417323adfbe652f4bea895f7beb811"
+ }
+}

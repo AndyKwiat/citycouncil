@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "937fd4ef-9628-4b65-9274-8ff25b34f903",
+ "city": "region-of-waterloo",
+ "key": "2023-11-08-special-council",
+ "type": "Special Council",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council",
+ "start": "2023-11-08T11:00:00",
+ "end": "2023-11-08T12:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=937fd4ef-9628-4b65-9274-8ff25b34f903&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=6100",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=937fd4ef-9628-4b65-9274-8ff25b34f903&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=937fd4ef-9628-4b65-9274-8ff25b34f903&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=937fd4ef-9628-4b65-9274-8ff25b34f903"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=937fd4ef-9628-4b65-9274-8ff25b34f903",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "a798733bd4a82295d18b3743e5b5ca46df51882a8a814fb46988989b5b3670e5"
+ }
+}

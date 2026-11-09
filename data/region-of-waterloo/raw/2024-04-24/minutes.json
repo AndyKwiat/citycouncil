@@ -1,0 +1,1658 @@
+{
+ "title": "Council Meeting - April 24, 2024",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Deutschmann",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Williams",
+  "Wolf"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 5574.769,
+   "video_end": 5575.847,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 7:10 p.m. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 5575.847,
+   "video_end": 5585.019,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "3",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": 5585.019,
+   "video_end": 5656.316,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "5",
+   "number": "4",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 5656.316,
+   "video_end": 5657.707,
+   "notes": [
+    "<p>None declared. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "5",
+   "title": "Petitions",
+   "closed": false,
+   "video_start": 5657.707,
+   "video_end": 5658.223,
+   "notes": [
+    "<p>There were no petitions. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 5658.223,
+   "video_end": 5659.285,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "41",
+   "number": "6.1",
+   "title": "Michelle Angkasa, Waterloo",
+   "closed": false,
+   "video_start": 5659.285,
+   "video_end": 5730.848,
+   "notes": [
+    "<p>M. Angkasa appeared before Council as the co lead of the climate justice ecosystem at the University of Waterloo. She expressed her support for, and noted that 1200 signatures have been obtained in support of, reinstating the night bus. She stressed that people’s lives do not end at midnight, and the fall term will see an increase in users that will benefit from this service.  </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "51",
+   "number": "6.2",
+   "title": "Damian Mikhail, Waterloo",
+   "closed": false,
+   "video_start": 5895.506,
+   "video_end": 6074.304,
+   "notes": [
+    "<p>D. Mikhail highlighted the benefits of reliable transit and shared his experiences of missing the last bus after studying late. He shared an open letter, that is attached to the minutes, in support of reinstating the night bus.  </p>"
+   ],
+   "attachments": [
+    {
+     "name": "Open Letter Night Transit.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8583"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "52",
+   "number": "6.3",
+   "title": "Rose Silivestru, Waterloo",
+   "closed": false,
+   "video_start": 6074.304,
+   "video_end": 6269.18,
+   "notes": [
+    "<p>R. Silivestru appeared in support of night transit and stressed that it is necessary for her to get home at night safely. She noted that she has been priced out of living in a neighbourhood close to school and work, and having night transit makes it easier for students and night shift workers to get home. She encouraged Council to support the motion. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "57",
+   "number": "6.4",
+   "title": "David Kuhn and Catherine Dong, Waterloo Undergraduate Student Association (WUSA)",
+   "closed": false,
+   "video_start": 6269.18,
+   "video_end": 6457.431,
+   "notes": [
+    "<p>D. Kuhn and C. Dong appeared on behalf of the WUSA in support of reinstating night transit. C. Dong highlighted the importance of transit to undergraduate students but noted that their lives do not stop outside transit hours. She stressed that it poses a safety and affordability issue for people to be walking late at night or being forced to pay for a taxi. They encouraged Council to support the motion on the agenda future initiatives for high quality transit. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "58",
+   "number": "6.5",
+   "title": "Derek Song, Waterloo",
+   "closed": false,
+   "video_start": 6457.431,
+   "video_end": 6707.948,
+   "notes": [
+    "<p>D. Song encouraged Council to support C. James’ motion noting that it will make transit accessible to students, safer for individuals, increase ridership, and will allow the Region to reach low carbon goals. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "59",
+   "number": "6.6",
+   "title": "Azaan Sayani, Waterloo",
+   "closed": false,
+   "video_start": 6707.948,
+   "video_end": 6903.793,
+   "notes": [
+    "<p>A. Sayani shared his personal experience where he would have benefited from the late night bus service provided by route 91. He also stressed the importance of reducing greenhouse gas emissions, noting that half of all greenhouse gas emissions come from transportation, and that providing reliable transit is an effective way to reduce community emissions.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "60",
+   "number": "6.7",
+   "title": "Vincent Yu, Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>V. Yu withdrew his delegation. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "61",
+   "number": "6.8",
+   "title": "Joshua Beech Flashaw, Kitchener",
+   "closed": false,
+   "video_start": 6903.793,
+   "video_end": 7216.483,
+   "notes": [
+    "<p>J. Beech Falshaw appeared in support of reliable night transit stressing the value that it provides to not only students, but shift workers, overnight workers, artisans, and individuals that need transit for unplanned reasons. He encouraged Council to support the motion and to look at wider implementation of night transit services throughout the Region.</p>\n<p>In response to a question from Council, J. Beech Flashaw stated that reinstating route 91 and 92 in the short term would be a very good start rather than waiting for something perfect that would serve the entire Region. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "62",
+   "number": "6.9",
+   "title": "Craig Sloss, Waterloo",
+   "closed": false,
+   "video_start": 7216.483,
+   "video_end": 7523.501,
+   "notes": [
+    "<p>C. Sloss provided a presentation in support of reinstating night transit. A copy of the presentation is appended to the original minutes. He noted that the old night loop reflects where the greatest concentration of transit users exists and recommended extending late night transit to the Beechwood area. He expressed support for the part of the motion directing staff to look at further expansion in the 2025 budget. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "63",
+   "number": "6.10",
+   "title": "Qingchen Zhang, Waterloo",
+   "closed": false,
+   "video_start": 7523.501,
+   "video_end": 7845.988,
+   "notes": [
+    "<p>Q. Zhang appeared in support of the motion for night transit. Q. Zhang noted that because international students pay higher tuition and need to rely on public transportation it is very important to bring it back for students who are using transit every day.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "65",
+   "number": "6.11",
+   "title": "David Teresi, Waterloo",
+   "closed": false,
+   "video_start": 7845.988,
+   "video_end": 8261.334,
+   "notes": [
+    "<p>D. Teresi showed a picture taken on the last bus that leaves the University of Waterloo, noting that it is often busy. He shared that without the bus a 10 minute ride would otherwise be at least a 30 minute walk. He highlighted the importance of night transit as an important linkage to GO Transit, and encouraged the Region to support this expansion.</p>\n<p>In response to a question from Council, D. Teresi noted that there are 4 GO buses that arrive in the Region after midnight. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "David Teresi.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8584"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "68",
+   "number": "6.12",
+   "title": "Remington Zhi, Waterloo",
+   "closed": false,
+   "video_start": 8261.334,
+   "video_end": 8452.553,
+   "notes": [
+    "<p>R. Zhi noted that friends of hers that live in other parts of the Region need to leave gatherings early which results in them feeling isolated. She stressed that with the increased cost of housing near the University of Waterloo campus students need to move further away and night transit will allow them greater participation in the community. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "66",
+   "number": "6.13",
+   "title": "Allen Lu, Waterloo",
+   "closed": false,
+   "video_start": 8452.553,
+   "video_end": 8692.444,
+   "notes": [
+    "<p>A. Lu noted that while Waterloo Region is an example of excellent public transit, the lack of late night transit is a problem. He noted that people are often faced with choosing between walking late at night or paying a private company for a ride. He encouraged Council to reinstate the service.  </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "67",
+   "number": "6.14",
+   "title": "Ashwin Annamalai, Waterloo",
+   "closed": false,
+   "video_start": 8692.444,
+   "video_end": 8967.275,
+   "notes": [
+    "<p>A. Annamalai appeared in support of reinstating the night bus. He encouraged the Region to provide night bus services throughout the Region but stressed that it makes most sense to begin with these dense routes. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "69",
+   "number": "6.15",
+   "title": "Michael Druker, Tri-Cities Transport Action Group",
+   "closed": false,
+   "video_start": 8967.275,
+   "video_end": 9276.137,
+   "notes": [
+    "<p>M. Druker appeared on behalf of TriTag in support of the motion noting that having reliable late evening service encourages people to take transit throughout the day. He stressed that when people can rely on transit throughout the day it makes it a more viable option and the utility of transit depends on how long people need to wait.</p>\n<p>In response to a question from Council, M. Druker stated that routes 91 and 92 are restoring service that was lost due to the pandemic but were clearly viable. There are other areas that need night service but work is needed to determine which ones are viable. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "70",
+   "number": "6.16",
+   "title": "Rodney Chan, Waterloo",
+   "closed": false,
+   "video_start": 9276.137,
+   "video_end": 9500.545,
+   "notes": [
+    "<p>R. Chan appeared before Council in support of restoring the night transit routes now and expanding night service as a part of GRT planning. He stated that if there are budgetary concerns, Council could look at beginning with night service on Thursday-Saturday. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "71",
+   "number": "6.17",
+   "title": "Natalie Van Halteren, Waterloo",
+   "closed": false,
+   "video_start": 9500.545,
+   "video_end": 10531.739,
+   "notes": [
+    "<p>N. Van Halteren noted that while there are GO bus connections to the Region late at night, there is no transit to finish the journey on this end. N. Van Halteren stressed that individuals that do not own a car are punished by not being able to travel at night, and encouraged Council to approve the motion as a first step.</p>\n<p>Council agreed with a request to allow Adam Van Bergeijk and Arjo Van Bergeijk to delegate on the Wilmot Land Assemby. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "73",
+   "number": "6.18",
+   "title": "Adam Van Bergeijk and Arjo Van Bergeijk, Wilmot",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Adam Van Bergeijk shared his family’s story and their concerns with the land assembly. Arjo Van Bergeijk expressed his concerns with how they have been treated by Canacre, noting that the offer they received was $29,000 per acre and were told that if they didn’t sell it would be expropriated. He further noted the have felt left in the dark and are disappointed with the lack of transparency from the Region on this issue. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "7",
+   "title": "Minutes of Previous Meetings",
+   "closed": false,
+   "video_start": 10531.739,
+   "video_end": 10591.286,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "11",
+   "number": "7.1",
+   "title": "Closed Council - March 20, 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "7.2",
+   "title": "Council - March 20, 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "7.3",
+   "title": "Community and Health Services Committee - April 9, 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "7.4",
+   "title": "Closed Committee - April 9, 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "7.5",
+   "title": "Planning and Works Committee - April 9, 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "8",
+   "title": "Communications",
+   "closed": false,
+   "video_start": 10591.286,
+   "video_end": 10593.567,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "8.1",
+   "title": "Council Information Package - April 17, 2024 (Distributed to Councillors Electronically)",
+   "closed": false,
+   "video_start": 10593.567,
+   "video_end": 10606.021,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "55",
+   "number": "8.2",
+   "title": "Lorna Aberdein, Re: Preserving Countryside Line",
+   "closed": false,
+   "video_start": 10606.021,
+   "video_end": 10629.443,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Preserve our countryside line_Redacted.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8585"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "9",
+   "title": "Motion to Go Into Committee of the Whole to Consider Reports",
+   "closed": false,
+   "video_start": 10629.443,
+   "video_end": 10676.537,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "21",
+   "number": "10",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 10676.537,
+   "video_end": 10677.662,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "22",
+   "number": "10.1",
+   "title": "Finance Reports",
+   "closed": false,
+   "video_start": 10677.662,
+   "video_end": 10679.224,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "53",
+   "number": "10.1.1",
+   "title": "COR-TRY-24-012, T2024-109 Regional Road No.56 (Bleams Road) Improvements Fischer-Hallman Road to Trussler Road Kitchener, Ontario",
+   "closed": false,
+   "video_start": 10679.224,
+   "video_end": 10723.881,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "T2024-109 Regional Rd No.56 (Bleams Rd) Improvements Fischer-Hallman Rd to Trussler Rd - COR-TRY-24-012.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8582"
+    }
+   ],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "23",
+   "number": "10.2",
+   "title": "Committee Reports",
+   "closed": false,
+   "video_start": 10723.881,
+   "video_end": 10727.647,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "24",
+   "number": "10.2.1",
+   "title": "Community and Health Services Summary - April 9, 2024",
+   "closed": false,
+   "video_start": 10727.647,
+   "video_end": 11216.681,
+   "notes": [
+    "<p>Peter Sweeney, Commissioner, Community Services noted that a recent federal announce about funding aligns with the plan to end chronic homelessness and will be a part of the advocacy going forward.</p>\n<p>N. Salonen requested that item 1 on the summary be taken separately. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "CHS Summary - April 9, 2024.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8581"
+    }
+   ],
+   "motions": [
+    "m5",
+    "m6"
+   ]
+  },
+  {
+   "id": "43",
+   "number": "10.2.2",
+   "title": "Planning and Works Summary - April 9, 2024",
+   "closed": false,
+   "video_start": 11216.681,
+   "video_end": 11276.572,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Planning and Works Summary - April 9, 2024.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8580"
+    }
+   ],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "44",
+   "number": "10.2.3",
+   "title": "Planning and Works Summary - April 24, 2024",
+   "closed": false,
+   "video_start": 11276.572,
+   "video_end": 11420.198,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ]
+  },
+  {
+   "id": "45",
+   "number": "10.2.4",
+   "title": "Administration and Finance Summary - April 24, 2024",
+   "closed": false,
+   "video_start": 11420.198,
+   "video_end": 11492.839,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ]
+  },
+  {
+   "id": "38",
+   "number": "10.3",
+   "title": "Board of Health",
+   "closed": false,
+   "video_start": 11492.839,
+   "video_end": 11494.073,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "39",
+   "number": "10.3.1",
+   "title": "Board of Health Update",
+   "closed": false,
+   "video_start": 11494.073,
+   "video_end": 11679.091,
+   "notes": [
+    "<p>Dr. Hsiu-Li Wang, Commissioner, Public Health &amp; Paramedic Services/Medical Officer of Health, informed Council that a global resurgence of measles is ongoing and Public Health continues to await confirmation of a local case. She provided an overview of the ongoing work regarding the enforcement of the Immunization of School Pupils Act for secondary school students, noting that May 1, 2024 will be the suspension day for anyone with outstanding records. Dr. H. Wang shared information on how parents and students can book a vaccination or report vaccinations. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "28",
+   "number": "11",
+   "title": "Other Matters Under Committee Of The Whole",
+   "closed": false,
+   "video_start": 11679.091,
+   "video_end": 11681.778,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "12",
+   "title": "Motion for Committee of the Whole to Rise and Council Resume",
+   "closed": false,
+   "video_start": 11681.778,
+   "video_end": 11759.247,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ]
+  },
+  {
+   "id": "30",
+   "number": "13",
+   "title": "Motion To Adopt Proceedings of Committee of the Whole",
+   "closed": false,
+   "video_start": 11759.247,
+   "video_end": 11802.919,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ]
+  },
+  {
+   "id": "31",
+   "number": "14",
+   "title": "Motions",
+   "closed": false,
+   "video_start": 11802.919,
+   "video_end": 11803.388,
+   "notes": [
+    "<p>None. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "32",
+   "number": "15",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": 11803.388,
+   "video_end": 11805.263,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "40",
+   "number": "15.1",
+   "title": "Councillor C. James Notice of Motion",
+   "closed": false,
+   "video_start": 11805.263,
+   "video_end": 13579.103,
+   "notes": [
+    "<p>Responding to questions, Doug Spooner, Acting Commissioner, Transportation Services, stated that it would cost approximately $61,000 on an annual basis to operate the former route 91 from 12:30 a.m. to 2:00 a.m. Thursday to Saturday. He highlighted that night transit is in consideration as a part of the Grand River Transit business plan, along with expansion of the network and expansion of some busy routes, but that moving to a full 24-hour service would represent a significant change to operations.  D. Spooner further noted that an expansion of Mobility Plus will be considered as a part of the Grand River Transit business plan.</p>\n<p>In response to a question from Council, Craig Dyer, Commissioner, Corporate Services/Chief Financial Officer, stated that the motion has not been costed but if it passes staff will look at a funding source for 2024 and going forward.  </p>\n<p>Council accepted a revised motion from C. James to temporarily reinstate the route 91 Late Night Loop on Thursday-Saturday and direct staff to look at further expansions as a part of the 2025 budget process. </p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12",
+    "m13",
+    "m14",
+    "m15"
+   ]
+  },
+  {
+   "id": "33",
+   "number": "16",
+   "title": "Unfinished Business",
+   "closed": false,
+   "video_start": 13579.103,
+   "video_end": 13579.634,
+   "notes": [
+    "<p>There was no unfinished business.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "17",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 13579.634,
+   "video_end": 13580.244,
+   "notes": [
+    "<p>There was no other business.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "35",
+   "number": "18",
+   "title": "Questions",
+   "closed": false,
+   "video_start": 13580.244,
+   "video_end": 13589.384,
+   "notes": [
+    "<p>There were no questions.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "36",
+   "number": "19",
+   "title": "Enactment of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 13589.384,
+   "video_end": 13686.807,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ]
+  },
+  {
+   "id": "46",
+   "number": "19.1",
+   "title": "By-law 24-010",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m17"
+   ]
+  },
+  {
+   "id": "54",
+   "number": "19.2",
+   "title": "By-law 24-011",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m18"
+   ]
+  },
+  {
+   "id": "47",
+   "number": "19.3",
+   "title": "By-law 24-012",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ]
+  },
+  {
+   "id": "48",
+   "number": "19.4",
+   "title": "By-law 24-013",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m20"
+   ]
+  },
+  {
+   "id": "72",
+   "number": "20",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": 13686.807,
+   "video_end": 13753.557,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m21"
+   ]
+  },
+  {
+   "id": "37",
+   "number": "21",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 13753.557,
+   "video_end": 13833.401,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m22"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4",
+   "item_number": "3",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Erb",
+   "text": "That Council reconvene into Open Session.",
+   "text_html": "<p>That Council reconvene into Open Session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "10",
+   "item_number": "7",
+   "item_title": "Minutes of Previous Meetings",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Salonen",
+   "text": "That the following minutes be approved.",
+   "text_html": "<p>That the following minutes be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "20",
+   "item_number": "9",
+   "item_title": "Motion to Go Into Committee of the Whole to Consider Reports",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Williams",
+   "text": "That Council go into Committee of the Whole to consider reports.",
+   "text_html": "<p>That Council go into Committee of the Whole to consider reports.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "53",
+   "item_number": "10.1.1",
+   "item_title": "COR-TRY-24-012, T2024-109 Regional Road No.56 (Bleams Road) Improvements Fischer-Hallman Road to Trussler Road Kitchener, Ontario",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "James",
+   "text": "That the Regional Municipality of Waterloo take the following actions with respect to T2024-109 Regional Road No.56 (Bleams Road) Improvements Fischer-Hallman Road to Trussler Road Kitchener, Ontario as set out in report COR-TRY-24-012 dated April 24, 2024. Accept the Tender of 2545224 Ontario Ltd. O/A T. Musselman Excavating Limited for the Project T2024-109 Regional Road No.56 (Bleams Road) Improvements Fischer-Hallman Road to Trussler Road Kitchener, Ontario in the amount of $20,071,877.00 plus all applicable taxes; and Approve an increase in project costs of $1,822,400 gross and $0 net to facilitate work undertaken on behalf of the City of Kitchener.",
+   "text_html": "<p>That the Regional Municipality of Waterloo take the following actions with respect to T2024-109 Regional Road No.56 (Bleams Road) Improvements Fischer-Hallman Road to Trussler Road Kitchener, Ontario as set out in report COR-TRY-24-012 dated April 24, 2024.</p>\n\n<ol>\n<li>Accept the Tender of 2545224 Ontario Ltd. O/A T. Musselman Excavating Limited for the Project T2024-109 Regional Road No.56 (Bleams Road) Improvements Fischer-Hallman Road to Trussler Road Kitchener, Ontario in the amount of $20,071,877.00 plus all applicable taxes; and</li>\n<li>Approve an increase in project costs of $1,822,400 gross and $0 net to facilitate work undertaken on behalf of the City of Kitchener.\n<p> </p>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "24",
+   "item_number": "10.2.1",
+   "item_title": "Community and Health Services Summary - April 9, 2024",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Wolf",
+   "text": "That the following recommendations from the Community and Health Services Committee be approved: That the Regional Municipality of Waterloo accept in principle the Plan to End Chronic Homelessness Final Report as the official plan to prevent, address, and end homelessness in Waterloo Region as outlined in report CSD-HOU-24-006 dated April 9, 2024. And that the Regional Municipality of Waterloo staff be directed to add area municipalities to the co-creators group to develop a detailed plan of recommendations including comprehensive funding and advocacy actions based on the Plan to End Chronic Homelessness Actions outlined in report CSD-HOU-24-006 and deliver it to Council as part of the 2025 Regional Budget process.",
+   "text_html": "<p>That the following recommendations from the Community and Health Services Committee be approved:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo accept in principle the Plan to End Chronic Homelessness Final Report as the official plan to prevent, address, and end homelessness in Waterloo Region as outlined in report CSD-HOU-24-006 dated April 9, 2024.<br/><br/>And that the Regional Municipality of Waterloo staff be directed to add area municipalities to the co-creators group to develop a detailed plan of recommendations including comprehensive funding and advocacy actions based on the Plan to End Chronic Homelessness Actions outlined in report CSD-HOU-24-006 and deliver it to Council as part of the 2025 Regional Budget process.<br/><br/></li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 1)",
+    "label": "14-1",
+    "for": 14,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [
+     "Salonen"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m6",
+   "item": "24",
+   "item_number": "10.2.1",
+   "item_title": "Community and Health Services Summary - April 9, 2024",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That the following recommendations from the Community and Health Services Committee be approved: That the Regional Municipality of Waterloo direct staff to explore opportunities and identify non-profit organizations to lease 30 Christopher Drive, Cambridge and 104 Stirling Avenue South, Kitchener to create culturally responsive childcare for Indigenous children and families and other families that face systemic barriers, as set out in report CSD-CHS-24-002 dated April 9, 2024.",
+   "text_html": "<p>That the following recommendations from the Community and Health Services Committee be approved:</p>\n<p>That the Regional Municipality of Waterloo direct staff to explore opportunities and identify non-profit organizations to lease 30 Christopher Drive, Cambridge and 104 Stirling Avenue South, Kitchener to create culturally responsive childcare for Indigenous children and families and other families that face systemic barriers, as set out in report CSD-CHS-24-002 dated April 9, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m7",
+   "item": "43",
+   "item_number": "10.2.2",
+   "item_title": "Planning and Works Summary - April 9, 2024",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Nowak",
+   "text": "That the following recommendations from the Planning and Works Committee be approved: 1. That the Regional Municipality of Waterloo take the following actions regarding the Tax Increment Grant for the properties municipally known as 99, 103, and 107 Roger St in the City of Waterloo, that was previously approved in Report PDL-CPL-19-43/COR-TRY-19-124 dated November 5, 2019, and as described in Report PDL-CPL-24-003 dated April 9, 2024: a. Approve phasing payments of the previously approved joint Tax Increment Grant (TIG) of a maximum of $4,285,430, net of future brownfield assistance, (or $2,278,913 after Brownfield RDC deduction) subject to reasonable conditions; and b. Authorize the Region’s Commissioner of Planning, Development and Legislative Services and Commissioner, Corporate Services / Chief Financial Officer to execute any associated agreements with the developer of 99, 103, and 107 Roger Street and City of Waterloo, with the form and content of such agreement(s) to be satisfactory to both the Regional and City of Waterloo Solicitors. 2. That the Regional Municipality of Waterloo direct and authorize the Regional Solicitor to take the following actions with respect to the expropriation of lands for improvements at the intersection of Roseville Road (Regional Road 46) and Edworthy Side Road (Regional Road 71), in the Township of North Dumfries, in the Regional Municipality of Waterloo, as detailed in report PDL-LEG-24-009, dated April 9, 2024. Complete application(s) to the Council of The Regional Municipality of Waterloo, as may be required from time to time, for approval to expropriate land, which is required for improvements at the intersection of Roseville Road (Regional Road 46) and Edworthy Side Road (Regional Road 71), and described as follows: Fee Simple Partial Taking: Part of Lot 19, Concession 11, being Part 6 on 58R-21981, (Part of PIN 03849-0049), Township of North Dumfries, (1636 Edworthy Side Road, Township of North Dumfries) Part of Lot 18, Concession 11, being Part 8 on 58R-21981, (Part of PIN 03797-0225), Township of North Dumfries, (1435 Roseville Road, Township of North Dumfries) Temporary Easement – Grading: The right and easement, being a temporary easement in gross, for the free and unobstructed, right, interest and easement terminating, for the subject property set out below, on the 31st day of December, 2025, for itself, its successors and assigns, and anyone authorized by it, on, over, under and through the following property for the purposes of excavation, construction, installation, replacement, alteration, grading, and landscaping as required in connection with the improvements at the intersection of Roseville Road and Edworthy Side Road, and all related improvements, and works ancillary thereto and for such purposes, the free, unimpeded and unobstructed access to the lands at all times by employees, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement: Part of Lot 23, Concession 12, being Part 1 on 58R-21981, (Part of PIN 03849-0036), Township of North Dumfries, (1556 Roseville Road North, Township of North Dumfries) Part of Lot 23, Concession 12, being Part 2 on 58R-21981, (Part of PIN 03849-0194), Township of North Dumfries, (1540 Roseville Road North, Township of North Dumfries) Part of Lot 23, Concession 12, being Part 3 on 58R-21981, (Part of PIN 03849-0038), Township of North Dumfries, (1536 Roseville Road North, Township of North Dumfries) Part of Lot 22, Concession 12, being Part 4 on 58R-21981, (Part of PIN 03849-0038), Township of North Dumfries, (1536 Roseville Road North, Township of North Dumfries) Part of Lot 22, Concession 12, being Part 5 on 58R-21981, (Part of PIN 03849-0039), Township of North Dumfries, (1534 Roseville Road North, Township of North Dumfries) Part of Lot 19, Concession 11, being Part 7 on 58R-21981, (Part of PIN 03849-0049), Township of North Dumfries, (1636 Edworthy Side Road, Township of North Dumfries) 2.Serve notices of the above applications(s) required by the Expropriations Act (the “Act”); 3.Forward to the Chief Inquiry Officer any requests for a hearing that may be received within the time prescribed by the Act; 4.Attend, with appropriate Regional staff, at any hearing that may be scheduled; 5.Discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete a transaction whereby the required interests in the lands are conveyed or if otherwise deemed appropriate in the opinion of the Commissioner of Engineering and Environmental Services and the Regional Solicitor; and 6.Do all things necessary and proper to be done and report thereon to Regional Council in due course. 3. That the Regional Municipality of Waterloo extend the 50km/h posted speed limit on Swan Street (Regional Road 58) from its current terminus at 500 metres north of Brant-Waterloo Road to Brant-Waterloo Road in the Township of North Dumfries by amending the Traffic and Parking Bylaw 16023 as follows: a. Remove from Schedule 17 (Rates of Speed), Maximum Speed of 80 km/h on Regional Road 58 (Swan Street) from 500 metres north of Brant-Waterloo Road to Brant-Waterloo Road. as outlined in Report TSD-TRP-24-002, dated April 9, 2024. 4. That the Regional Municipality of Waterloo adopt the revised and updated Regional Storm Sewer Cost Sharing Policy dated; February 29 th , 2024, as outlined in report TSD-TRP-24-003, dated April 9, 2024.",
+   "text_html": "<p>That the following recommendations from the Planning and Works Committee be approved:</p>\n<p> </p>\n<p>1. That the Regional Municipality of Waterloo take the following actions regarding the Tax Increment Grant for the properties municipally known as 99, 103, and 107 Roger St in the City of Waterloo, that was previously approved in Report PDL-CPL-19-43/COR-TRY-19-124 dated November 5, 2019, and as described in Report PDL-CPL-24-003 dated April 9, 2024:</p>\n<p>a. Approve phasing payments of the previously approved joint Tax Increment Grant (TIG) of a maximum of $4,285,430, net of future brownfield assistance, (or $2,278,913 after Brownfield RDC deduction) subject to reasonable conditions; and</p>\n<p>b. Authorize the Region’s Commissioner of Planning, Development and Legislative Services and Commissioner, Corporate Services / Chief Financial Officer to execute any associated agreements with the developer of 99, 103, and 107 Roger Street and City of Waterloo, with the form and content of such agreement(s) to be satisfactory to both the Regional and City of Waterloo Solicitors.</p>\n<p> </p>\n<p>2. That the Regional Municipality of Waterloo direct and authorize the Regional Solicitor to take the following actions with respect to the expropriation of lands for improvements at the intersection of Roseville Road (Regional Road 46) and Edworthy Side Road (Regional Road 71), in the Township of North Dumfries, in the Regional Municipality of Waterloo, as detailed in report PDL-LEG-24-009, dated April 9, 2024.</p>\n<ol>\n<li>Complete application(s) to the Council of The Regional Municipality of Waterloo, as may be required from time to time, for approval to expropriate land, which is required for improvements at the intersection of Roseville Road (Regional Road 46) and Edworthy Side Road (Regional Road 71), and described as follows:</li>\n</ol>\n<p>Fee Simple Partial Taking:</p>\n<ol>\n<li> Part of Lot 19, Concession 11, being Part 6 on 58R-21981, (Part of PIN 03849-0049), Township of North Dumfries, (1636 Edworthy Side Road, Township of North Dumfries)</li>\n<li> Part of Lot 18, Concession 11, being Part 8 on 58R-21981, (Part of PIN 03797-0225), Township of North Dumfries, (1435 Roseville Road, Township of North Dumfries)</li>\n</ol>\n<p>Temporary Easement – Grading:</p>\n<p>The right and easement, being a temporary easement in gross, for the free and unobstructed, right, interest and easement terminating, for the subject property set out below, on the 31st day of December, 2025, for itself, its successors and assigns, and anyone authorized by it, on, over, under and through the following property for the purposes of excavation, construction, installation, replacement, alteration, grading, and landscaping as required in connection with the improvements at the intersection of Roseville Road and Edworthy Side Road, and all related improvements, and works ancillary thereto and for such purposes, the free, unimpeded and unobstructed access to the lands at all times by employees, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement:</p>\n<ol>\n<li> Part of Lot 23, Concession 12, being Part 1 on 58R-21981, (Part of PIN 03849-0036), Township of North Dumfries, (1556 Roseville Road North, Township of North Dumfries)</li>\n<li> Part of Lot 23, Concession 12, being Part 2 on 58R-21981, (Part of PIN 03849-0194), Township of North Dumfries, (1540 Roseville Road North, Township of North Dumfries)</li>\n<li>Part of Lot 23, Concession 12, being Part 3 on 58R-21981, (Part of PIN 03849-0038), Township of North Dumfries, (1536 Roseville Road North, Township of North Dumfries)</li>\n<li> Part of Lot 22, Concession 12, being Part 4 on 58R-21981, (Part of PIN 03849-0038), Township of North Dumfries, (1536 Roseville Road North, Township of North Dumfries)</li>\n<li> Part of Lot 22, Concession 12, being Part 5 on 58R-21981, (Part of PIN 03849-0039), Township of North Dumfries, (1534 Roseville Road North, Township of North Dumfries)</li>\n<li> Part of Lot 19, Concession 11, being Part 7 on 58R-21981, (Part of PIN 03849-0049), Township of North Dumfries, (1636 Edworthy Side Road, Township of North Dumfries)</li>\n</ol>\n<p>2.Serve notices of the above applications(s) required by the Expropriations Act (the “Act”);</p>\n<p>3.Forward to the Chief Inquiry Officer any requests for a hearing that may be received within the time prescribed by the Act;</p>\n<p>4.Attend, with appropriate Regional staff, at any hearing that may be scheduled;</p>\n<p>5.Discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete a transaction whereby the required interests in the lands are conveyed or if otherwise deemed appropriate in the opinion of the Commissioner of Engineering and Environmental Services and the Regional Solicitor; and</p>\n<p>6.Do all things necessary and proper to be done and report thereon to Regional Council in due course.</p>\n<p> </p>\n<p>3. That the Regional Municipality of Waterloo extend the 50km/h posted speed limit on Swan Street (Regional Road 58) from its current terminus at 500 metres north of Brant-Waterloo Road to Brant-Waterloo Road in the Township of North Dumfries by amending the Traffic and Parking Bylaw 16023 as follows:</p>\n<p>a. Remove from Schedule 17 (Rates of Speed), Maximum Speed of 80 km/h on Regional Road 58 (Swan Street) from 500 metres north of Brant-Waterloo Road to Brant-Waterloo Road. </p>\n<p>as outlined in Report TSD-TRP-24-002, dated April 9, 2024.</p>\n<p>4. That the Regional Municipality of Waterloo adopt the revised and updated Regional Storm Sewer Cost Sharing Policy dated; February 29th, 2024, as outlined in report TSD-TRP-24-003, dated April 9, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "44",
+   "item_number": "10.2.3",
+   "item_title": "Planning and Works Summary - April 24, 2024",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Shantz",
+   "text": "The Planning and Works Committee recommends as follows: 1. That the Regional Municipality of Waterloo assigns a new Project Manager to accelerate updates to MobilityPLUS scheduling software as outlined in report TSD-TRS-24-006, dated April 9, 2024. 2. WHEREAS the township of North Dumfries has passed a resolution requesting that the Region of Waterloo designate Northumberland St. (from Cedar Creek to Stanley st.) a no truck route at their October 23, 2023 council meeting as Northumberland St. is a Regional road; and WHEREAS there have been numerous safety issues, disruptions to businesses, disruption to residents, physical damages to township infrastructure (monument, roads, sidewalks, and utility poles), as well as damage to the trucks that work in the area and that drive these routes; and WHEREAS the Region of Waterloo wants to ensure the safety its residents, as well as supporting critical industries and the employees of these businesses (truck operators that drive these large vehicles); and WHEREAS there is limited space for large vehicles of varying types to navigate the intersection outlined above in downtown Ayr, as well as limited areas to stop and park as it can block the intersection, overhang the sidewalks causing damage, and impede pedestrians (especially if they have mobility limitations or an assistive device) when trucks park on the sidewalks. THEREFORE BE IT RESOLVED THAT the Region of Waterloo conduct a study to determine the best resolution of these issues including, but not limited to, a truck ban in the downtown core with consultation of the local businesses and citizens; and THEREFORE BE IT FURTHER RESOLVED THAT the Region of Waterloo staff be directed to explore interim measures such as posting signage warning oversized vehicles of the limitations of the downtown route using Swan St., Stanley St. and Northumberland, speed reductions in high traffic pedestrian areas, and working with local industry to ensure communication to provide critical information to truck drivers of the limitations of the area.",
+   "text_html": "<p>The Planning and Works Committee recommends as follows:</p>\n<p>1.    That the Regional Municipality of Waterloo assigns a new Project Manager to accelerate updates to MobilityPLUS scheduling software as outlined in report TSD-TRS-24-006, dated April 9, 2024.</p>\n<p>2.    WHEREAS the township of North Dumfries has passed a resolution requesting that the Region of Waterloo designate Northumberland St. (from Cedar Creek to Stanley st.) a no truck route at their October 23, 2023 council meeting as Northumberland St. is a Regional road; and<br/>WHEREAS there have been numerous safety issues, disruptions to businesses, disruption to residents, physical damages to township infrastructure (monument, roads, sidewalks, and utility poles), as well as damage to the trucks that work in the area and that drive these routes; and<br/>WHEREAS the Region of Waterloo wants to ensure the safety its residents, as well as supporting critical industries and the employees of these businesses (truck operators that drive these large vehicles); and<br/>WHEREAS there is limited space for large vehicles of varying types to navigate the intersection outlined above in downtown Ayr, as well as limited areas to stop and park as it can block the intersection, overhang the sidewalks causing damage, and impede pedestrians (especially if they have mobility limitations or an assistive device) when trucks park on the sidewalks.<br/>THEREFORE BE IT RESOLVED THAT the Region of Waterloo conduct a study to determine the best resolution of these issues including, but not limited to, a truck ban in the downtown core with consultation of the local businesses and citizens; and<br/>THEREFORE BE IT FURTHER RESOLVED THAT the Region of Waterloo staff be directed to explore interim measures such as posting signage warning oversized vehicles of the limitations of the downtown route using Swan St., Stanley St. and Northumberland, speed reductions in high traffic pedestrian areas, and working with local industry to ensure communication to provide critical information to truck drivers of the limitations of the area.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "45",
+   "item_number": "10.2.4",
+   "item_title": "Administration and Finance Summary - April 24, 2024",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Vrbanovic",
+   "text": "The Administration and Finance Committee recommends as follows: 1. That the Regional Municipality of Waterloo take the following action with respect to 2024 property tax policies and rates as set out in Report COR-CFN-24-007 dated April 9, 2024: a) Establish the following property class tax ratios for the 2024 property tax year: Residential and New Multi-residential 1.0000 Multi-residential, Commercial and Industrial 1.9500 Landfill 1.5400 Pipeline 1.1613 Farmland and Managed Forest 0.2500 b) Direct staff to prepare the necessary by-laws to establish the 2024 property class tax ratios and the resulting 2024 Regional property tax rates for Regional Council’s consideration on April 24, 2024; and c) Notify the Area Municipalities within Waterloo Region accordingly. 2. That the Regional Municipality of Waterloo take the following action with respect to the 2023 Plan Update and Year End Financial Results as set out in report COR-CFN-24-006 dated April 9, 2024: a) Receive the 2023 Plan Update that shows implementation and progress toward achieving the vision set out by Council in the Growing with Care Strategic Plan 2023-2027; 3. That the Regional Municipality of Waterloo approve the 2025 Plan and Budget review timetable as set out in Appendix A of report COR-CFN-24-005 dated April 9, 2024, as amended; And that the Budget review timetable be amended to have all Strategic Plan and Budget Committee meetings begin at 9:00 a.m.",
+   "text_html": "<p>The Administration and Finance Committee recommends as follows:</p>\n<p><br/>1. That the Regional Municipality of Waterloo take the following action with respect to 2024 property tax policies and rates as set out in Report COR-CFN-24-007 dated April 9, 2024:<br/>a) Establish the following property class tax ratios for the 2024 property tax year:<br/> Residential and New Multi-residential 1.0000<br/> Multi-residential, Commercial and Industrial 1.9500<br/> Landfill 1.5400<br/> Pipeline 1.1613<br/> Farmland and Managed Forest 0.2500</p>\n<p>b) Direct staff to prepare the necessary by-laws to establish the 2024 property class tax ratios and the resulting 2024 Regional property tax rates for Regional Council’s consideration on April 24, 2024; and<br/>c) Notify the Area Municipalities within Waterloo Region accordingly.</p>\n<p>2. That the Regional Municipality of Waterloo take the following action with respect to the 2023 Plan Update and Year End Financial Results as set out in report COR-CFN-24-006 dated April 9, 2024:<br/>a) Receive the 2023 Plan Update that shows implementation and progress toward achieving the vision set out by Council in the Growing with Care Strategic Plan 2023-2027;</p>\n<p>3. That the Regional Municipality of Waterloo approve the 2025 Plan and Budget review timetable as set out in Appendix A of report COR-CFN-24-005 dated April 9, 2024, as amended;<br/>And that the Budget review timetable be amended to have all Strategic Plan and Budget Committee meetings begin at 9:00 a.m.</p>\n<p> </p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m10",
+   "item": "29",
+   "item_number": "12",
+   "item_title": "Motion for Committee of the Whole to Rise and Council Resume",
+   "name": "",
+   "moved_by": "Shantz",
+   "seconded_by": "Williams",
+   "text": "That Committee of the Whole rise and Council resume.",
+   "text_html": "<p>That Committee of the Whole rise and Council resume.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m11",
+   "item": "30",
+   "item_number": "13",
+   "item_title": "Motion To Adopt Proceedings of Committee of the Whole",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That Council adopt the proceedings of Committee of the Whole.",
+   "text_html": "<p>That Council adopt the proceedings of Committee of the Whole.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m12",
+   "item": "40",
+   "item_number": "15.1",
+   "item_title": "Councillor C. James Notice of Motion",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Salonen",
+   "text": "WHEREAS the GRT ridership numbers are above pre pandemic levels, reported numbers are Ridership is up 48.3 per cent over 2022, and 20.1 per cent over 2019; WHEREAS GRT is the main source of transportation for post secondary students in the region, and students make up a significant source of our ridership; WHEREAS GRT is taking steps to plan for the future by undertaking a five-year business plan for future service improvements, expansions, and investments; WHEREAS GRT continues to closely monitor customer counts to see how we can best manage the transit experience for our customers; WHEREAS an Uber from Waterloo Public Square to University of Waterloo Campus Housing on Friday at 02:30 a.m. costs $37.20 and a bus ticket costs, at most, $3.75; WHEREAS incidents of impaired driving increase when alternative transportation costs increase, and public safety increases when additional safe transit options are made available at night; WHEREAS night shift workers do not have reliable public transit options to and from work; WHEREAS businesses serve more customers when customers have a reliable transit connection home; WHEREAS pre-pandemic, the GRT ran route 91 and route 92 to serve night transit needs; THEREFORE be it resolved that GRT temporarily reinstate the route 91 Late Night Loop on Thursday-Saturday before the date of September 2nd, 2024 THEREFORE be it further resolved that GRT incorporate the loops 91 and 92 as written above or equivalent night transit operations into the 2025 business plan and service improvement. THEREFORE be it further resolved that extensions to public night transit options be included as budget items in the 2025 budget session.",
+   "text_html": "<p>WHEREAS the GRT ridership numbers are above pre pandemic levels, reported numbers are Ridership is up 48.3 per cent over 2022, and 20.1 per cent over 2019;<br/>WHEREAS GRT is the main source of transportation for post secondary students in the region, and students make up a significant source of our ridership;<br/>WHEREAS GRT is taking steps to plan for the future by undertaking a five-year business plan for future service improvements, expansions, and investments;<br/>WHEREAS GRT continues to closely monitor customer counts to see how we can best manage the transit experience for our customers;<br/>WHEREAS an Uber from Waterloo Public Square to University of Waterloo Campus Housing on Friday at 02:30 a.m. costs $37.20 and a bus ticket costs, at most, $3.75;<br/>WHEREAS incidents of impaired driving increase when alternative transportation costs increase, and public safety increases when additional safe transit options are made available at night;<br/>WHEREAS night shift workers do not have reliable public transit options to and from work;<br/>WHEREAS businesses serve more customers when customers have a reliable transit connection home;<br/>WHEREAS pre-pandemic, the GRT ran route 91 and route 92 to serve night transit needs;<br/>THEREFORE be it resolved that GRT temporarily reinstate the route 91 Late Night Loop on Thursday-Saturday before the date of September 2nd, 2024<br/>THEREFORE be it further resolved that GRT incorporate the loops 91 and 92 as written above or equivalent night transit operations into the 2025 business plan and service improvement.<br/>THEREFORE be it further resolved that extensions to public night transit options be included as budget items in the 2025 budget session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m13",
+   "item": "40",
+   "item_number": "15.1",
+   "item_title": "Councillor C. James Notice of Motion",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That the Regional Municipality of Waterloo defer the motion discussed under item 15.1 to May 22, 2024.",
+   "text_html": "<p>That the Regional Municipality of Waterloo defer the motion discussed under item 15.1 to May 22, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m14",
+   "item": "40",
+   "item_number": "15.1",
+   "item_title": "Councillor C. James Notice of Motion",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That the Regional Municipality of Waterloo refer the report back to staff for more information under 15.1, Councillor C. James notice of motion to Regional Council on May 22, 2024.",
+   "text_html": "<p>That the Regional Municipality of Waterloo refer the report back to staff for more information under 15.1, Councillor C. James notice of motion to Regional Council on May 22, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m15",
+   "item": "40",
+   "item_number": "15.1",
+   "item_title": "Councillor C. James Notice of Motion",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "THEREFORE be it resolved that GRT temporarily reinstate the route 91 Late Night Loop on Thursday-Saturday before the date of September 2nd, 2024 THEREFORE be it further resolved that GRT incorporate the loops 91 and 92 as written above or equivalent night transit operations into the 2025 business plan and service improvement. THEREFORE be it further resolved that extensions to public night transit options be included as budget items in the 2025 budget session.",
+   "text_html": "<p>THEREFORE be it resolved that GRT temporarily reinstate the route 91 Late Night Loop on Thursday-Saturday before the date of September 2nd, 2024<br/><br/>THEREFORE be it further resolved that GRT incorporate the loops 91 and 92 as written above or equivalent night transit operations into the 2025 business plan and service improvement.<br/>THEREFORE be it further resolved that extensions to public night transit options be included as budget items in the 2025 budget session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m16",
+   "item": "36",
+   "item_number": "19",
+   "item_title": "Enactment of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Erb",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m17",
+   "item": "46",
+   "item_number": "19.1",
+   "item_title": "By-law 24-010",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Erb",
+   "text": "That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Rates of Speed, Regional Road 58 (Swan Street), City of Kitchener), be read a first, second and third time, finally passed and numbered 24-010, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Rates of Speed, Regional Road 58 (Swan Street), City of Kitchener), be read a first, second and third time, finally passed and numbered 24-010, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m18",
+   "item": "54",
+   "item_number": "19.2",
+   "item_title": "By-law 24-011",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Erb",
+   "text": "That a By-law to Establish Tax Ratios for Regional Purposes and Area Municipal Purposes for the Year 2024, be read a first, second and third time, finally passed and numbered 24-011, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Establish Tax Ratios for Regional Purposes and Area Municipal Purposes for the Year 2024, be read a first, second and third time, finally passed and numbered 24-011, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m19",
+   "item": "47",
+   "item_number": "19.3",
+   "item_title": "By-law 24-012",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Erb",
+   "text": "That a By-law to Establish and Levy Rates of Taxation for Regional Purposes for the Year 2024, be read a first, second and third time, finally passed and numbered 24-012, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Establish and Levy Rates of Taxation for Regional Purposes for the Year 2024, be read a first, second and third time, finally passed and numbered 24-012, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m20",
+   "item": "48",
+   "item_number": "19.4",
+   "item_title": "By-law 24-013",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Erb",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on April 24, 2024 be read a first, second and third time, finally passed and numbered 24-013, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on April 24, 2024 be read a first, second and third time, finally passed and numbered 24-013, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m21",
+   "item": "72",
+   "item_number": "20",
+   "item_title": "Closed Session",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Salonen",
+   "text": "That a closed meeting of the Council be held on April 24, 2024 at 9:26 p.m. electronically, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Receiving advice that is subject to solicitor-client privilege related to a proposed acquisition of lands. A proposed acquisition of lands A proposed acquisition of lands",
+   "text_html": "<p>That a closed meeting of the Council be held on April 24, 2024 at 9:26  p.m. electronically, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Receiving advice that is subject to solicitor-client privilege related to a proposed acquisition of lands.</li>\n<li>A proposed acquisition of lands</li>\n<li>A proposed acquisition of lands</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m22",
+   "item": "37",
+   "item_number": "21",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Liggett",
+   "text": "That the meeting adjourn at 9:26 p.m.",
+   "text_html": "<p>That the meeting adjourn at 9:26 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

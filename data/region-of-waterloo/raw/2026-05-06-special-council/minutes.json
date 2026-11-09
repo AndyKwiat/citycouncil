@@ -1,0 +1,604 @@
+{
+ "title": "Special Council - May 06, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "James",
+  "Liggett",
+  "Nowak",
+  "Rodrigues",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf",
+  "Huinink",
+  "McCabe"
+ ],
+ "absent": [
+  "Huinink",
+  "McCabe"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 432.37,
+   "video_end": 433.948,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 9:00 a.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 433.948,
+   "video_end": 490.964,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Declarations of Conflict of Interest",
+   "closed": false,
+   "video_start": 490.964,
+   "video_end": 496.073,
+   "notes": [
+    "<p>None declared. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 496.073,
+   "video_end": 5587.09,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": 5612.027,
+   "video_end": 5912.154,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "7",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 5912.154,
+   "video_end": 5952.06,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "6.1",
+   "title": "Joseph Puopolo, Co-CEO, Urban Initiatives",
+   "closed": false,
+   "video_start": 5952.06,
+   "video_end": 6837.472,
+   "notes": [
+    "<p>Joseph Puopolo, Co-CEO of Urban Initiatives, spoke to Council regarding Report PDL-GDS-26-012 in support of an allocation plan and requested a deferral of this policy at this time until more details can be provided.</p>\n<p>Puopolo shared a need for developers to have access to critical data, a coordinated framework with municipalities, and a defined allocation and timeline.</p>\n<p>Responding to a question from Council, Puopolo stated the most useful data would be a model that shows how much water is coming in and out of the system at any given time.</p>\n<p>At the request of Council, Puopolo expanded on coordination gaps across municipalities and other levels of government, stating there is no current by-law to guide this process.</p>\n<p>Puopolo further expanded on the importance of access to data and emphasized how this impacts planning.</p>\n<p>Responding to a question from Council, Tim Brubacher, Regional Clerk, explained that in the case of a lame duck, restrictions will apply to Council decisions on staffing changes and spending of over $50,000, if not included in the budget. T. Brubacher further explained that spending authority would be delegated to the CAO if a lame duck occurs.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Joseph Puopolo, Co-CEO, Urban Initiatives.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18377"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "6.2",
+   "title": "Ryan Mounsey, CEO, Urban Insights Inc.",
+   "closed": false,
+   "video_start": 6837.472,
+   "video_end": 7578.727,
+   "notes": [
+    "<p>Ryan Mounsey, CEO of Urban Insights Inc., spoke about the proposed Water Allocation Policy and asked Council to provide allocation numbers before June 3rd so that developers can meet development deadlines.</p>\n<p>R. Mounsey explained that there is a functional freeze on development due to the absence of available servicing capacity, with no defined timelines, and unresolved capacity confirmation. R. Mounsey emphasized that no net new developments have progressed in 2026.</p>\n<p>R. Mounsey also asked Council to exempt fire flow capacity requirements from the water capacity analysis.</p>\n<p>In response to Council, R. Mounsey explained that applications can be penalized for having private hydrants on their property, despite this water being rarely used.</p>\n<p>R. Mounsey explained how developers may be able to secure funding from financial institutions based on a standard for finishing the project, which can be complicated when projects are delayed or uncertain.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Ryan Mounsey.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18376"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "6.3",
+   "title": "Larry Kotseff, Vice-President Real Estate Development, Solowave Investments Limited",
+   "closed": false,
+   "video_start": 7578.727,
+   "video_end": 8110.81,
+   "notes": [
+    "<p>Larry Kotselff, Vice President of Solowave Investments Limited spoke to Council regarding the old Kraus factory, which was demolished for the purpose of building new housing.</p>\n<p>L. Kotseff explained the new housing project is not likely to result in a net increase of water consumption and will not need water until occupancy, which is to occur in phases through 2029-2033.</p>\n<p>L. Kotseff asked Council to direct staff to provide clarity on projects that will not impact water supply and to process their pending service application.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "21",
+   "number": "6.4",
+   "title": "Larry Masseo, WRHBA",
+   "closed": false,
+   "video_start": 7846.668,
+   "video_end": 8223.702,
+   "notes": [
+    "<p>Larry Masseo, of the Waterloo Home Builders Association, spoke to Council regarding PDL-GDS-26-012 and asked for water allocation policies to be time-constrained with a clear end point, have consistent implementation across area municipalities, and a justifiable and evidence-based methodology for developing a framework in consultation with the industry.</p>\n<p>Responding to Council, L. Masseo explained that appropriate discussion could occur rapidly, and consultation is necessary to establish a policy and understand how water will be distributed across the region.</p>\n<p>In response to a question from Council, L. Masseo stated the WHBA have retained water experts, and with access to complete date, they could come up with additional ideas to improve capacity. L. Masseo confirmed he would be willing to have Chris Gerritts, a groundwater expert, present to Council at the expense of WRHBA.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "7",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 8932.987,
+   "video_end": 8934.253,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "7.1",
+   "title": "EES-WIM-26-008, Mannheim Service Area Water Capacity Constraint - Update on Work Underway - May 2026",
+   "closed": false,
+   "video_start": 8934.253,
+   "video_end": 13396.703,
+   "notes": [
+    "<p>Ken Brothers, Commissioner of Water and Wastewater, introduced the report. A copy of the presentation is attached to the agenda.</p>\n<p>K. Brothers provided an update on current infrastructure operations. K. Brothers stated that optimization and repairs on existing wells are underway, an environment asset at the Maple Grove Water System is underway, a new facility plan is in progress at the Greenbrook Water Treatment Plant, and the Mannheim Side Stream Pilot is progressing with a containerized report.</p>\n<p>Ayman Khedr, Engineer (Water Services), provided an overview of the Manheim Water System, an update on the current pilot, and a schedule of activities to date. A. Khedr explained that targeted completion date was originally in 2033, but it was expedited to 2030 due to water capacity concerns.</p>\n<p>A. Khedr explained the interim approach for the Manheim Process, which will pull a portion of water through the side stream ultrafiltration to increase water capacity in the short term while maintaining commitment to public health.</p>\n<p>A. Khedr stated the pilot program is tentatively scheduled to begin in Q3 of 2026, with optimal water capacity being reach in Q2 of 2027.</p>\n<p>A. Khedr stated that the pace in which the project is progressing can be sustained.</p>\n<p>Responding to a question from Council, A. Khedr confirmed that the staff parking lot is not a viable location for this project.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WIM-26-008, Mannheim Service Area Water Capacity Constraint - Update on Work Underway - May 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18373"
+    },
+    {
+     "name": "EES-WIM-26-008, Appendix A - Water Update - May 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18374"
+    },
+    {
+     "name": "EES-WIM-26-008, Appendix B - By-law 07-069, Respecting the Conservation of Water.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18375"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "7.2",
+   "title": "EES-WIM-26-009, Mannheim Service Area - Approach to Development",
+   "closed": false,
+   "video_start": 10161.73,
+   "video_end": 13412.704,
+   "notes": [
+    "<p>K. Brothers provided an introduction on the approach to water conservation in the Mannheim Service Area. A copy of the presentation is attached to the agenda.</p>\n<p>R. Regier provided on update on the planning data and allocation policy.</p>\n<p>K. Brothers stated that development that meets all the requirements could be approved to proceed at the discretion of the Area Municipality if it adds no increased demand on the system, and no increase in the existing water service connection size.</p>\n<p>Connie MacDonald, Commissioner of Resident Experience, Strategy, and Communications, provided an update on communications, including a Progress Update planned to go out for May 7, 2026. Ongoing communications is ongoing, with updates being shared with the community and area municipalities.</p>\n<p>K. Brothers explained next steps, which include continued work on existing infrastructure, moving forward with the hiring process, meeting with working groups, an Interim Risk Management Framework Study, and a water conservation communications and education campaign commencing ahead of the May 31st start date of the outdoor water restriction bylaw.</p>\n<p>Responding to Council, Amy Shaw, Director of Water and Wastewater Operations, stated a fulsome scan from across area municipalities and stakeholders are included in the conservation scope.</p>\n<p>Responding to a question from Council, A. Shaw confirmed that work with area municipalities has been done to respond to water conservation efforts in the community, such as with splash pads and home improvements and that industrial incentives to conserve water are being investigated.</p>\n<p>In response to a question from Council, K. Brothers responded that water leakage initiatives are separate from conservation, and that meetings to discuss a water loss strategy are scheduled. K. Brothers explained best practice is to weigh the cost of repairing leaks against the cost of water loss.</p>\n<p>Responding to Council, R. Regier responded to concerns that working group meetings are not giving the public enough time to provide input. R. Reiger stated that within the first few meetings of the working group, time was not allowing enough discussion, and that this was revised to allow double the time for conversation and workshops to ensure everyone has the opportunity to provide input.</p>\n<p>Council voiced concerns over the public's perspective that inadequate consultation has taken place.</p>\n<p>R. Regier stated the invitation to working and planning groups are open to area municipalities.</p>\n<p>Responding to a question from Council, Tim Brubacher, Regional Clerk, clarified that the Procedural Bylaw allows for presentations from outside the organization to be invited at the discretion of Council, and that parameters for questions would have to be decided by Council.</p>\n<p>Council discussed the option to bring in an additional speaker to provide an educational presentation on matters related to water capacity.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WIM-26-009, Mannheim Service Area- Approach to Development.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18372"
+    }
+   ],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "16",
+   "number": "7.3",
+   "title": "PDL-GDS-26-012, Water Supply Capacity Allocation Policy for the Mannheim Service Area",
+   "closed": false,
+   "video_start": 12762.762,
+   "video_end": 14285.85,
+   "notes": [
+    "<p>R. Regier introduced the report and provided a summary of the Water Supply Capacity Allocation Policy. A copy of the presentation is attached to the agenda.</p>\n<p>Alysa Bridge, Acting Director of Development Services, explained that a transparent water allocation policy is needed to guide the allocation of water to development. A. Bridge explained that the proposed 3-step process involves an Interim Risk Management Framework to identify available water capacity, the Region allocating a percentage of water to Area Municipalities, and the Area Municipalities allocating water to site specific projects. </p>\n<p>A. Bridge clarified the allocation policy is specific to the Mannheim Service area, and is streamlined, transparent and quick. A. Bridge explained that water will be allocated to the Area Municipalities proportionally based on forecasted population and employment growth.</p>\n<p>A. Bridge explained that water will initially be allocated quarterly, and become less frequent as supply capacity is added to the Mannheim Service Area.</p>\n<p>A. Bridge explained that the Region will be responsible for the regular review of the policy, as well as reporting and coordinating data. Area Municipalities will be responsible for developing a policy, ensure allocated capacity is not exceed, and ongoing data sharing</p>\n<p>R. Pogrzeba provided an example of an allocation scenario using information available today related to the anticipated growth of each municipality. R. Pogrzeba emphasized the water allocation amounts are for illustrative purposes only and are not representative of the final amount of water to be distributed.</p>\n<p>R. Pogrzeba emphasized that only areas that are serviced within the Mannheim Service Area are included in this model, noting that there are areas in Cambridge and Wilmot that are serviced by a separate water service area.</p>\n<p>A. Bridge explained next steps, including reporting supplemental documents, continued work with area municipalities and broad public and industry consultation.</p>\n<p>A. Bridge acknowledged that there is currently an immediate need to add capacity to the Mannheim Service Area, and discussion to expand this policy to other water service areas could occur in the future.</p>\n<p>A. Bridge confirmed that the policy was created in consultation with the directors of planning for each Area Municipality, who have all received an advance copy of the Allocation Policy.</p>\n<p>A. Bridge summarized next steps, which include supplemental supportive documents, implementation of the Interim Risk Based Framework following Council consideration, continued work with the Area Municipalities, and broad public communication.</p>\n<p>Council provided unanimous consent to add \"In Conjunction with Area Municipalities\" into the report.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-GDS-26-012, Water Supply Capacity Allocation Policy for the Mannheim Service Area.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18369"
+    },
+    {
+     "name": "Appendix A - Water Supply Capacity Allocation Policy Mannheim Service Area.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18370"
+    },
+    {
+     "name": "Appendix B - Water Supply Capacity Allocation Policy Presentation - May 6.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18371"
+    }
+   ],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Correspondence",
+   "closed": false,
+   "video_start": 14285.85,
+   "video_end": 14295.366,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "8.1",
+   "title": "Geoff Pasher, The PashNetwork",
+   "closed": false,
+   "video_start": 14295.366,
+   "video_end": 14295.772,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Council Correspondence - Geoff Pasher(1).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18368"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "22",
+   "number": "8.2",
+   "title": "Meaghan McDermid, Davies Howe LLP",
+   "closed": false,
+   "video_start": 14295.772,
+   "video_end": 14297.319,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "KTHI Ltr to Regional Council Re Mannheim Water Capacity and Allocation Policy (May 5, 2026) (02671580xCDE1C).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18378"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "9",
+   "title": "Enactment Of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 14297.319,
+   "video_end": 14326.835,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "11",
+   "number": "9.1",
+   "title": "By-law 26-023",
+   "closed": false,
+   "video_start": 14326.835,
+   "video_end": 14328.475,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "10",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 14328.475,
+   "video_end": 14340.944,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Erb",
+   "text": "That a closed meeting of Council be held on May 6, 2026 at 9:05 a.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Receiving advice subject to solicitor client-privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint; and Receiving advice subject to solicitor client-privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint.",
+   "text_html": "<p>That a closed meeting of Council be held on May 6, 2026 at 9:05 a.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Receiving advice subject to solicitor client-privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint; and</li>\n<li>Receiving advice subject to solicitor client-privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (9 to 0)",
+    "label": "9-0",
+    "for": 9,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Shantz",
+     "Foxton",
+     "Wolf",
+     "Rodrigues",
+     "Redman",
+     "Nowak",
+     "Erb",
+     "Craig",
+     "James"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "5",
+   "item_number": "5",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Shantz",
+   "seconded_by": "Craig",
+   "text": "That Council reconvene into Open Session.",
+   "text_html": "<p>That Council reconvene into Open Session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Shantz",
+     "Foxton",
+     "Wolf",
+     "Salonen",
+     "Rodrigues",
+     "Harris",
+     "Redman",
+     "Nowak",
+     "Liggett",
+     "Gowing",
+     "Erb",
+     "Craig",
+     "James",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "13",
+   "item_number": "7.2",
+   "item_title": "EES-WIM-26-009, Mannheim Service Area - Approach to Development",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Gowing",
+   "text": "That the Regional Municipality of Waterloo direct staff to invite Chris Gerrits to present for 20 minutes to an upcoming Council meeting on either May 20 or May 28, 2026.",
+   "text_html": "<p>That the Regional Municipality of Waterloo direct staff to invite Chris Gerrits to present for 20 minutes to an upcoming Council meeting on either May 20 or May 28, 2026. </p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (9 to 2)",
+    "label": "9-2",
+    "for": 9,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Shantz",
+     "Foxton",
+     "Rodrigues",
+     "Redman",
+     "Liggett",
+     "Gowing",
+     "Craig",
+     "James",
+     "Vrbanovic"
+    ],
+    "against": [
+     "Wolf",
+     "Erb"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "16",
+   "item_number": "7.3",
+   "item_title": "PDL-GDS-26-012, Water Supply Capacity Allocation Policy for the Mannheim Service Area",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Foxton",
+   "text": "That the Regional Municipality of Waterloo adopt a Water Supply Capacity Allocation Policy for the Mannheim Service Area (“Allocation Policy”) as outlined in report PDL-GDS-26-012 dated May 6, 2026; and That Regional Council direct staff to implement the provisions of the Allocation Policy.",
+   "text_html": "<p>That the Regional Municipality of Waterloo adopt a Water Supply Capacity Allocation Policy for the Mannheim Service Area (“Allocation Policy”) as outlined in report PDL-GDS-26-012 dated May 6, 2026; and</p>\n<p>That Regional Council direct staff to implement the provisions of the Allocation Policy.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (10 to 1)",
+    "label": "10-1",
+    "for": 10,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Foxton",
+     "Wolf",
+     "Rodrigues",
+     "Redman",
+     "Liggett",
+     "Gowing",
+     "Erb",
+     "Craig",
+     "James",
+     "Vrbanovic"
+    ],
+    "against": [
+     "Shantz"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "10",
+   "item_number": "9",
+   "item_title": "Enactment Of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Rodrigues",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Shantz",
+     "Foxton",
+     "Wolf",
+     "Rodrigues",
+     "Redman",
+     "Liggett",
+     "Gowing",
+     "Erb",
+     "Craig",
+     "James",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m6",
+   "item": "11",
+   "item_number": "9.1",
+   "item_title": "By-law 26-023",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Rodrigues",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on May 6, 2026 be read a first, second and third time, finally passed and numbered 26-023, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on May 6, 2026 be read a first, second and third time, finally passed and numbered 26-023, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m7",
+   "item": "12",
+   "item_number": "10",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Liggett",
+   "seconded_by": "Vrbanovic",
+   "text": "That the meeting adjourn at xx:xx p.m.",
+   "text_html": "<p>That the meeting adjourn at xx:xx p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Shantz",
+     "Foxton",
+     "Wolf",
+     "Rodrigues",
+     "Redman",
+     "Liggett",
+     "Gowing",
+     "Erb",
+     "Craig",
+     "James",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

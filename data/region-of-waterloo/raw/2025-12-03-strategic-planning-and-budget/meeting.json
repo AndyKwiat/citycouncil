@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "e9b89809-62d7-452e-85a7-7b8913f53901",
+ "city": "region-of-waterloo",
+ "key": "2025-12-03-strategic-planning-and-budget",
+ "type": "Strategic Planning and Budget Committee",
+ "body": "committee",
+ "body_name": "Strategic Planning and Budget",
+ "title": "Strategic Planning and Budget Committee",
+ "start": "2025-12-03T09:00:00",
+ "end": "2025-12-03T17:00:00",
+ "location": "Council Chambers/Electronic",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=e9b89809-62d7-452e-85a7-7b8913f53901&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=15739",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=e9b89809-62d7-452e-85a7-7b8913f53901&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=e9b89809-62d7-452e-85a7-7b8913f53901&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=e9b89809-62d7-452e-85a7-7b8913f53901"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=e9b89809-62d7-452e-85a7-7b8913f53901",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "2357395e6f3ffc0a1f0b39194db357a1fc16a614c63d822b36e350a1fb8aef5d"
+ }
+}

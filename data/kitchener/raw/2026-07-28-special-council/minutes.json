@@ -1,0 +1,194 @@
+{
+ "title": "Special Council Meeting - July 28, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Davey",
+  "Schnider",
+  "Deneault",
+  "Michaud",
+  "Owodunni",
+  "Singh",
+  "Ioannidis",
+  "Johnston",
+  "Chapman",
+  "Stretch"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 499.5,
+   "video_end": 541.813,
+   "notes": [
+    "<p>A meeting of City Council was held at 4:00 p.m. this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>\n<p> </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 541.813,
+   "video_end": 546.578,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "3",
+   "title": "Mayoral Business and Updates - Mayor B. Vrbanovic",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "4",
+   "title": "In-camera Meeting Authorization",
+   "closed": false,
+   "video_start": 550.578,
+   "video_end": 568.813,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "13",
+   "number": "4.1",
+   "title": "City Facility - Potential Litigation (Potential Litigation - Section 239 (2) (e)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "5",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "5.1",
+   "title": "Three Readings",
+   "closed": false,
+   "video_start": 568.813,
+   "video_end": 578.313,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "5.1.a",
+   "title": "To confirm all actions and proceedings of the Council for July 28, 2026.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(By-law 2026-093)</p>\n<p><strong>Carried</strong></p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "6",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 578.313,
+   "video_end": 592.781,
+   "notes": [
+    "<p>On motion the meeting adjourned at 4:09 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "4",
+   "item_title": "In-camera Meeting Authorization",
+   "name": "",
+   "moved_by": "Michaud",
+   "seconded_by": "Stretch",
+   "text": "\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider a potential litigation matter as authorized by Section 239 (2) (e) of the Municipal Act, 2001, respectively.\"",
+   "text_html": "<p>\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider a potential litigation matter as authorized by Section 239 (2) (e) of the Municipal Act, 2001, respectively.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "9",
+   "item_number": "5.1",
+   "item_title": "Three Readings",
+   "name": "",
+   "moved_by": "Schnider",
+   "seconded_by": "Davey",
+   "text": "\"That the by-laws be given third reading, namely:",
+   "text_html": "<p>\"That the by-laws be given third reading, namely:</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,210 @@
+{
+ "title": "Special Council - April 28, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Deutschmann",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Williams",
+  "Erb",
+  "Foxton",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf"
+ ],
+ "absent": [
+  "Erb",
+  "Foxton",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 1:00 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>\n<p>Bruce Lauckner, Chief Administrative Officer, provided an introduction to the strategic planning process and the current context in Waterloo Region.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Strategic Planning Workshop",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Connie MacDonald introduced Heather Russek, Creative Futures, and Jessica Thornton, Creative Futures, to lead Council through a conversation on key issues for priority setting for the Region. </p>\n<p>Council discussed and deliberated strategic priorities for the 2023-2027 strategic plan, noting strategic foresight and short and long term priorities as important focus areas.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "7",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "3",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "James",
+   "text": "That a closed meeting of Council be held on Friday, April 28, 2023 at 1:05 p.m. in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Education on Leadership",
+   "text_html": "<p>That a closed meeting of Council be held on Friday, April 28, 2023 at 1:05 p.m. in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ul>\n<li>Education on Leadership </li>\n</ul>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "4",
+   "item_number": "4",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "McCabe",
+   "text": "That Council reconvene into Open Session.",
+   "text_html": "<p>That Council reconvene into Open Session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m3",
+   "item": "12",
+   "item_number": "7",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Liggett",
+   "seconded_by": "Salonen",
+   "text": "That the meeting adjourn at 3:43 p.m.",
+   "text_html": "<p>That the meeting adjourn at 3:43 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

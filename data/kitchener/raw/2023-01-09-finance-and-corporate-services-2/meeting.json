@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "d71266de-b7f5-4695-b31f-fc7fb9164043",
+ "city": "kitchener",
+ "key": "2023-01-09-finance-and-corporate-services-2",
+ "type": "Finance and Corporate Services Committee",
+ "body": "committee",
+ "body_name": "Finance and Corporate Services",
+ "title": "Finance and Corporate Services Committee",
+ "start": "2023-01-09T19:00:00",
+ "end": "2023-01-09T21:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=d71266de-b7f5-4695-b31f-fc7fb9164043&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=8298",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=d71266de-b7f5-4695-b31f-fc7fb9164043&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=d71266de-b7f5-4695-b31f-fc7fb9164043&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=d71266de-b7f5-4695-b31f-fc7fb9164043"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=d71266de-b7f5-4695-b31f-fc7fb9164043",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "82188f7b71d82fa7424d1489b10d4ca12e70a9400e7ed2c993aa77dd9ac90801"
+ }
+}

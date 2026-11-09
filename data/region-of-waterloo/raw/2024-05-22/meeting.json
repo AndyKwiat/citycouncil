@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "efd9be52-a88d-4ece-8135-8c95b056509d",
+ "city": "region-of-waterloo",
+ "key": "2024-05-22",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "Regional Council",
+ "title": "Council Meeting",
+ "start": "2024-05-22T17:00:00",
+ "end": "2024-05-22T21:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=efd9be52-a88d-4ece-8135-8c95b056509d&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=8520",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=efd9be52-a88d-4ece-8135-8c95b056509d&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=efd9be52-a88d-4ece-8135-8c95b056509d&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=efd9be52-a88d-4ece-8135-8c95b056509d"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=efd9be52-a88d-4ece-8135-8c95b056509d",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "6bd6760f5d750a5f649f0b33a89d28571f0421f4ca0b6c58d3b1158faf8b151d"
+ }
+}

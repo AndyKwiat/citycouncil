@@ -1,0 +1,183 @@
+{
+ "title": "Special Council - November 08, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Shantz",
+  "Williams",
+  "Wolf",
+  "Deutschmann",
+  "Liggett",
+  "Vrbanovic"
+ ],
+ "absent": [
+  "Deutschmann",
+  "Liggett",
+  "Vrbanovic"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 74.905,
+   "video_end": 76.78,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 11:00 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 76.78,
+   "video_end": 108.858,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement and noted that November 8th is Indigenous Veterans Day </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 108.858,
+   "video_end": 109.874,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "4",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 118.67,
+   "video_end": 184.687,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "5",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 184.687,
+   "video_end": 232.484,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Wolf",
+   "text": "That a closed meeting of Council be held on November 8, 2023 at 11:00 a.m. in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Receiving advice that is subject to solicitor-client privilege related to a proposed acquisition of lands",
+   "text_html": "<p>That a closed meeting of Council be held on November 8, 2023 at 11:00 a.m. in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Receiving advice that is subject to solicitor-client privilege related to a proposed acquisition of lands</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "12",
+   "item_number": "5",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Shantz",
+   "seconded_by": "McCabe",
+   "text": "That the meeting adjourn at 11:04 a.m.",
+   "text_html": "<p>That the meeting adjourn at 11:04 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

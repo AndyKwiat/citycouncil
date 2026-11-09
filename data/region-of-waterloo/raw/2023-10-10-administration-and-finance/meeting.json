@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "c9b62077-4a40-49f4-b247-063ef4f31c15",
+ "city": "region-of-waterloo",
+ "key": "2023-10-10-administration-and-finance",
+ "type": "Administration and Finance",
+ "body": "committee",
+ "body_name": "Administration and Finance",
+ "title": "Administration and Finance",
+ "start": "2023-10-10T12:40:00",
+ "end": "2023-10-10T16:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=c9b62077-4a40-49f4-b247-063ef4f31c15&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=5654",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=c9b62077-4a40-49f4-b247-063ef4f31c15&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=c9b62077-4a40-49f4-b247-063ef4f31c15&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=c9b62077-4a40-49f4-b247-063ef4f31c15"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=c9b62077-4a40-49f4-b247-063ef4f31c15",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "1cca573e0381099ef4aba76ce6fb30712e9666606094cd15bbccd6f29df40684"
+ }
+}

@@ -1,0 +1,916 @@
+{
+ "title": "Sustainability, Infrastructure, and Development - March 10, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf",
+  "Salonen"
+ ],
+ "absent": [
+  "Salonen"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 170.28,
+   "video_end": 172.202,
+   "notes": [
+    "<p>Chair James called the meeting to order at 1:49 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 172.202,
+   "video_end": 190.358,
+   "notes": [
+    "<p>Chair James provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "38",
+   "number": "3",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": 190.358,
+   "video_end": 222.201,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "3",
+   "number": "4",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 251.248,
+   "video_end": 283.826,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "5",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 283.826,
+   "video_end": 285.247,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 285.247,
+   "video_end": 297.966,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "23",
+   "number": "6.1",
+   "title": "Matthew Day, Executive Director, WR Community Energy",
+   "closed": false,
+   "video_start": 297.966,
+   "video_end": 691.54,
+   "notes": [
+    "<p>Matthew Day of WR Community Energy presented on the importance of investing in infrastructure and becoming more self-reliant with energy. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "2026-03 WRCE Council Updates.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18507"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "35",
+   "number": "6.2",
+   "title": "Isaac Ransom, Head of Corporate Affairs, Neuron Mobility Canada",
+   "closed": false,
+   "video_start": 691.54,
+   "video_end": 1019.306,
+   "notes": [
+    "<p>Neuron Mobility delegated to the report on the 2025 riding season and presented further details on use of Neuron Mobility in the region.</p>\n<p> </p>"
+   ],
+   "attachments": [
+    {
+     "name": "Region of Waterloo March 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18511"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "48",
+   "number": "6.3",
+   "title": "Sharon Livingstone, Rick Chambers and David Dirks, Waterloo Region Age Friendly Network",
+   "closed": false,
+   "video_start": 1019.306,
+   "video_end": 1486.368,
+   "notes": [
+    "<p>Waterloo Region Age Friendly Network delegated on the importance on accessible public transit for seniors. The group emphasized the need for options other than digital when registering for programs.</p>\n<p>In response to questions from Committee, the delegate shared the challenges of older adults when trying to meet proof of age requirements for GRT programs.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "49",
+   "number": "6.4",
+   "title": "Arnold Radford, Waterloo",
+   "closed": false,
+   "video_start": 1486.368,
+   "video_end": 1861.661,
+   "notes": [
+    "<p>Arnold Radford delegated on the importance of pedestrian safety at roundabouts and concerns over e-scooters on sidewalks. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "50",
+   "number": "6.5",
+   "title": "Bangishimo Johnston, Co-Director, Willow River Centre",
+   "closed": false,
+   "video_start": 1861.661,
+   "video_end": 2063.019,
+   "notes": [
+    "<p>Bangishimo Johnston delegated on behalf of the Willow River Centre on the potential re-development of the Charles Street Terminal and its potential transformation into a service centre run by non-profit organizations.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "7",
+   "title": "Consent Agenda",
+   "closed": false,
+   "video_start": 2063.019,
+   "video_end": 2093.425,
+   "notes": [
+    "<p>There were no requests to remove items from the Consent Agenda.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "7",
+   "number": "7.1",
+   "title": "Strategic Priority - Homes for All",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "45",
+   "number": "7.1.1",
+   "title": "PDL-GDS-26-007, Tax Increment Grant – 161 Ottawa Street South",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "PDL-GDS-26-007, Tax Increment Grant - 161 Ottawa Street South, Kitchener.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18500"
+    },
+    {
+     "name": "Attachment A – Location map.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18501"
+    },
+    {
+     "name": "Attachment B – Development photos.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18502"
+    }
+   ],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "37",
+   "number": "7.2",
+   "title": "Strategic Priority - Equitable Services and Opportunities",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "41",
+   "number": "7.2.1",
+   "title": "TSD-TRS-26-002, Update on Shared Micromobility Program 2025 Riding Season",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Update on Shared Micromobility Program 2025 Seasons and Plans for Re-Launch - TSD-TRS-26-002.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18484"
+    },
+    {
+     "name": "Appendix A - Letter from Neuron confirming interest in returning to Waterloo Region in 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18485"
+    },
+    {
+     "name": "Appendix B - Progress on Shared Micromobility Goals.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18486"
+    },
+    {
+     "name": "Appendix C - Map of Service Area.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18487"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "7.3",
+   "title": "Strategic Priority - Resilient and Future Ready Organization",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "44",
+   "number": "7.3.1",
+   "title": "TSD-TRP-26-003, Regional Road Assumption Criteria - Policy Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "TSD-TRP-26-003, Regional Road Assumption Criteria Policy Update.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18497"
+    },
+    {
+     "name": "Appendix A - TSD-TRP-26-003 - Regional Road Assumption Criteria Policy.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18498"
+    }
+   ],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "11",
+   "number": "8",
+   "title": "Regular Agenda",
+   "closed": false,
+   "video_start": 2136.035,
+   "video_end": 2136.613,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "8.1",
+   "title": "Strategic Priority - Homes for All",
+   "closed": false,
+   "video_start": 2136.613,
+   "video_end": 2137.566,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "8.1.1",
+   "title": "PDL-BWR-26-001, Charles Street Terminal Update",
+   "closed": false,
+   "video_start": 2137.566,
+   "video_end": 3732.452,
+   "notes": [
+    "<p>Rod Regier, Commissioner of Planning, Development, and Legislative Services, provided an introduction to the report.</p>\n<p>Matthew Chandy, Director of Build Waterloo Region, provided a presentation that outlined the history of the subject site and what Regional staff have done so far which includes beginning an environmental assessment and public engagement strategy. Staff are seeking direction to proceed with the re-development in a phased manner in order to better respond to market conditions.</p>\n<p>In response to questions from Committee M. Chandy confirmed the next steps in the project pipeline and when procurement would begin.</p>\n<p>Staff confirmed that the next step would be to incorporate the priorities of both Council and the public and move forward with those priorities as the guiding principles. </p>\n<p>In response to concerns from Committee, R. Regier explained that staff can report back on the potential impacts of different ownership models for this site.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-BWR-26-001, Charles Street Terminal Update .pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18508"
+    },
+    {
+     "name": "CST Council Pres Jan 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18509"
+    }
+   ],
+   "motions": [
+    "m5",
+    "m6"
+   ]
+  },
+  {
+   "id": "13",
+   "number": "8.2",
+   "title": "Strategic Priority - Climate Aligned Growth",
+   "closed": false,
+   "video_start": 3732.452,
+   "video_end": 3733.827,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "31",
+   "number": "8.2.1",
+   "title": "PDL-GDS-26-004, Update on the Implementation of the Corporate Climate Action Plan",
+   "closed": false,
+   "video_start": 3733.827,
+   "video_end": 5209.406,
+   "notes": [
+    "<p>R. Regier provided an introduction to the report.</p>\n<p>Meaghan Eastwood, Manager, Climate and Sustainability and Max Chute, Corporate Energy Analyst, provided a presentation on the corporate climate action plan as well as recommended construction standards to meet LEED certification. </p>\n<p>In response to questions from Committee, staff elaborated on the various strategies that staff are looking at to both reduce corporate emissions as well as emissions from the public.</p>\n<p>Staff also confirmed that the largest source of corporate transmissions is from GRT although GRT transmissions reduce community emissions making it an overall net benefit, regional buildings are the next largest source of corporate emissions.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-GDS-26-004, Update on Implementation of the Corporate Climate Action Plan.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18503"
+    },
+    {
+     "name": "Appendix A - Summary of Corporate GHG Inventory Changes.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18504"
+    },
+    {
+     "name": "Attachment B - Updated Inventory - 2010 to 2022.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18505"
+    },
+    {
+     "name": "March 10 2026 - Climate Aligned Growth Updates.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18506"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "27",
+   "number": "8.2.2",
+   "title": "EES-FFM-26-001, Minimum Sustainable Construction Standard for Regional Facilities",
+   "closed": false,
+   "video_start": 5209.406,
+   "video_end": 5244.734,
+   "notes": [
+    "<p>In response to questions from the committee M. Chute elaborated on the difference between LEED Silver and Platinum.</p>\n<p>M. Chute also confirmed that if this policy is approved staff will look to include projects that have begun construction already in these standards.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-FFM-26-001, Minimum Sustainable Construction Standard for Regional Facilities.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18488"
+    },
+    {
+     "name": "EES-FFM-26-001, Appendix A CaGBC Zero Carbon Building-Design Standard v4.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18489"
+    },
+    {
+     "name": "EES-FFM-26-001, Appendix B Differences between the CaGBC Zero Carbon Building – Design Standard and LEED™ Silver Standard.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18490"
+    },
+    {
+     "name": "EES-FFM-26-001, Appendix C High Performance Building Costing Studies Briefing Note.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18491"
+    }
+   ],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "29",
+   "number": "8.2.3",
+   "title": "PDL-GDS-26-006, Regional Forest Management Program Update",
+   "closed": false,
+   "video_start": 5244.734,
+   "video_end": 6294.131,
+   "notes": [
+    "<p>R. Regier provided an introduction to the report.</p>\n<p>Andrew Puchalski, Regional Forester, provided a presentation on highlights from 2025, what work has been done so far for 2026, and upcoming projects and priorities with regional forests. </p>\n<p>In response to questions from Committee, A. Puchalski confirmed that the regional forest network is currently open to the public, staff have worked to substantially update its web pages for pubic information.</p>\n<p>Staff also confirmed that while they do have good relationships with area municipalities they primarily work on regional forest management.</p>\n<p>Staff also confirmed that if Council expressed interest in it, staff would be supportive of expanding the regional forest network.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-GDS-26-006, Regional Forest Management Program Update.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18495"
+    },
+    {
+     "name": "Regional Forest Management Presentation V2 2026 March.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18496"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "8.3",
+   "title": "Strategic Priority - Equitable Services and Opportunities",
+   "closed": false,
+   "video_start": 6294.131,
+   "video_end": 6294.693,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "42",
+   "number": "8.3.1",
+   "title": "TSD-TRS-26-004, 2-Ride Fare Card Program Pilot",
+   "closed": false,
+   "video_start": 6294.693,
+   "video_end": 6834.784,
+   "notes": [
+    "<p>Doug Spooner, Director of Transit Services, provided an introduction to the report and provided further details on the pilot program and the plan for implementation.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-TRS-26-004, 2-Ride Fare Card Program Pilot.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18492"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "43",
+   "number": "8.3.2",
+   "title": "TSD-TRS-26-003, Older Adults Free Day Pass Program Overview",
+   "closed": false,
+   "video_start": 6834.784,
+   "video_end": 7288.197,
+   "notes": [
+    "<p>D. Spooner provided an introduction to the report.</p>\n<p>Manager of Transit Development, Kevan Marshall, provided a presentation that provided an overview of the program. </p>\n<p>In response to questions from Committee, D. Spooner and K. Marshall confirmed that currently those who are not able to use the app will not be able to participate in the pilot, staff confirmed that there will be a way to include those individuals in the future with additional investment.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-TRS-26-003, Older Adults Free Ride Day Program Overview.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18493"
+    },
+    {
+     "name": "Older Adults Free Day Pass Program Overview Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18494"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "9",
+   "title": "Information/Correspondence",
+   "closed": false,
+   "video_start": 8179.695,
+   "video_end": 8184.117,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "9.1",
+   "title": "Council/Committee Tracking List",
+   "closed": false,
+   "video_start": 8184.117,
+   "video_end": 8210.539,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "SID - Tracking List - March 10, 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18483"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "39",
+   "number": "9.2",
+   "title": "Nith Valley EcoBoosters",
+   "closed": false,
+   "video_start": 8210.539,
+   "video_end": 8211.523,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Correspondence - Nith Valley EcoBoosters (March 10 SID).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18499"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "46",
+   "number": "9.3",
+   "title": "Aditya Mishra",
+   "closed": false,
+   "video_start": 8211.523,
+   "video_end": 8211.898,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Recycling bins.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18510"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "47",
+   "number": "9.4",
+   "title": "Faith and Life Discussion Group, Zion United Church",
+   "closed": false,
+   "video_start": 8211.898,
+   "video_end": 8212.648,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Correspondence - Zion United Church.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18512"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "10",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 8212.648,
+   "video_end": 8493.331,
+   "notes": [
+    "<p>Councillor Huinink raised other business regarding Mobility Plus and the challenges two users in wheelchairs recently faced. D. Spooner responded and staff will take this away to resolve.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "11",
+   "title": "Next Meeting - April 7, 2026",
+   "closed": false,
+   "video_start": 8493.331,
+   "video_end": 8504.175,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "12",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 8504.175,
+   "video_end": 8550.112,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "38",
+   "item_number": "3",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Liggett",
+   "text": "That the Sustainability, Infrastructure, and Development Committee reconvene into open session.",
+   "text_html": "<p>That the Sustainability, Infrastructure, and Development Committee reconvene into open session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (10 to 0)",
+    "label": "10-0",
+    "for": 10,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "6",
+   "item_number": "7",
+   "item_title": "Consent Agenda",
+   "name": "",
+   "moved_by": "Liggett",
+   "seconded_by": "Gowing",
+   "text": "That the Consent Agenda items be received for information and approved.",
+   "text_html": "<p>That the Consent Agenda items be received for information and approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "45",
+   "item_number": "7.1.1",
+   "item_title": "PDL-GDS-26-007, Tax Increment Grant – 161 Ottawa Street South",
+   "name": "",
+   "moved_by": "Liggett",
+   "seconded_by": "Gowing",
+   "text": "That the Regional Municipality of Waterloo take the following actions regarding the property municipally known as 161 Ottawa Street South in the City of Kitchener, as described in Report PDL-GDS-26-007, dated March 10, 2026: Approve a joint Tax Increment Grant with the Regional amount not to exceed $114,580, to be financed from the incremental tax revenue for the property following remediation, redevelopment and reassessment; and Authorize the Region’s Commissioner of Planning, Development and Legislative Services and Commissioner, Corporate Services / Chief Financial Officer to execute any associated agreements, assignments, amendments or other related documents with the registered owner of 161 Ottawa Street South in the City of Kitchener, with the form and content of such Tax Increment Grant agreement(s), any subsequent assignments of the agreement, or other related documents to be satisfactory to the Regional Solicitor.",
+   "text_html": "<p>That the Regional Municipality of Waterloo take the following actions regarding the property municipally known as 161 Ottawa Street South in the City of Kitchener, as described in Report PDL-GDS-26-007, dated March 10, 2026:</p>\n<ol><li>Approve a joint Tax Increment Grant with the Regional amount not to exceed $114,580, to be financed from the incremental tax revenue for the property following remediation, redevelopment and reassessment; and</li><li>Authorize the Region’s Commissioner of Planning, Development and Legislative Services and Commissioner, Corporate Services / Chief Financial Officer to execute any associated agreements, assignments, amendments or other related documents with the registered owner of 161 Ottawa Street South in the City of Kitchener, with the form and content of such Tax Increment Grant agreement(s), any subsequent assignments of the agreement, or other related documents to be satisfactory to the Regional Solicitor.</li></ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m4",
+   "item": "44",
+   "item_number": "7.3.1",
+   "item_title": "TSD-TRP-26-003, Regional Road Assumption Criteria - Policy Update",
+   "name": "",
+   "moved_by": "Liggett",
+   "seconded_by": "Gowing",
+   "text": "That the Regional Municipality of Waterloo adopt the revised and updated Regional Road Assumption Criteria Policy as outlined in report TSD-TRP-26-003 dated March 10, 2026.",
+   "text_html": "<p>That the Regional Municipality of Waterloo adopt the revised and updated Regional Road Assumption Criteria Policy as outlined in report TSD-TRP-26-003 dated March 10, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m5",
+   "item": "34",
+   "item_number": "8.1.1",
+   "item_title": "PDL-BWR-26-001, Charles Street Terminal Update",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Gowing",
+   "text": "That the Regional Municipality of Waterloo proceed with the multi-phased plan for developing Charles Street Terminal, as outlined in report PDL-BWR-26-001 dated March 10, 2026. And that Regional staff report to the Sustainability, Infrastructure, and Development Committee as part of a subsequent Report regarding the Charles Street Terminal procurement framework on: Options to retain public land ownership of all or portions of the site, and; A specific affordable and/or non-market housing framework for re-development across the site, consistent with Building Better Futures.",
+   "text_html": "<p>That the Regional Municipality of Waterloo proceed with the multi-phased plan for developing Charles Street Terminal, as outlined in report PDL-BWR-26-001 dated March 10, 2026.</p>\n<p>And that Regional staff report to the Sustainability, Infrastructure, and Development Committee as part of a subsequent Report regarding the Charles Street Terminal procurement framework on:</p>\n<ul>\n<li>Options to retain public land ownership of all or portions of the site, and;</li>\n<li>A specific affordable and/or non-market housing framework for re-development across the site, consistent with Building Better Futures.</li>\n</ul>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m6",
+   "item": "34",
+   "item_number": "8.1.1",
+   "item_title": "PDL-BWR-26-001, Charles Street Terminal Update",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Huinink",
+   "text": "Amendment:",
+   "text_html": "<strong>Amendment:</strong>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m7",
+   "item": "27",
+   "item_number": "8.2.2",
+   "item_title": "EES-FFM-26-001, Minimum Sustainable Construction Standard for Regional Facilities",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Foxton",
+   "text": "That the Regional Municipality of Waterloo approves targeting the Canada Green Building Council’s Zero Carbon Building – Design (ZCB-Design) standard for new Regional facilities, replacing the existing LEED™ Silver standard, subject to project-specific feasibility and approved capital budgets as set out in report dated March 10, 2026.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approves targeting the Canada Green Building Council’s Zero Carbon Building – Design (ZCB-Design) standard for new Regional facilities, replacing the existing LEED™ Silver standard, subject to project-specific feasibility and approved capital budgets as set out in report  dated March 10, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 1)",
+    "label": "14-1",
+    "for": 14,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [
+     "Harris"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "20",
+   "item_number": "12",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Vrbanovic",
+   "text": "That the meeting adjourn at 4:09 p.m.",
+   "text_html": "<p>That the meeting adjourn at 4:09 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

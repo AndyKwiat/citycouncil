@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "1b234cf9-5173-48e2-ac07-dcea3bc189b7",
+ "city": "kitchener",
+ "key": "2023-06-26-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2023-06-26T09:00:00",
+ "end": "2023-06-26T15:30:00",
+ "location": "Kitchener Operations Facility (KOF)",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=1b234cf9-5173-48e2-ac07-dcea3bc189b7&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=11694",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=1b234cf9-5173-48e2-ac07-dcea3bc189b7&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=1b234cf9-5173-48e2-ac07-dcea3bc189b7&Agenda=PostMinutes&lang=English",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "26831f9c57ea4d9331bb74835a3291ffaa84a640f495642bf591b61c413e3121"
+ }
+}

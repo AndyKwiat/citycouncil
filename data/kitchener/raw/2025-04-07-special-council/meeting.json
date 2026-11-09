@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "318d9339-ab78-4e23-b78a-3d553093a4a3",
+ "city": "kitchener",
+ "key": "2025-04-07-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2025-04-07T16:30:00",
+ "end": "2025-04-07T17:30:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=318d9339-ab78-4e23-b78a-3d553093a4a3&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=26441",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=318d9339-ab78-4e23-b78a-3d553093a4a3&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=318d9339-ab78-4e23-b78a-3d553093a4a3&Agenda=PostMinutes&lang=English",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "8a95c87d00fd70451ae080f16f4f720bde9dfdd03ba14e378627a171ba8580b8"
+ }
+}

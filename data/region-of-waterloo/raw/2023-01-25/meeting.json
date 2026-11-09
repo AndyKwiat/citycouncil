@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "e20503ab-9b30-4638-b188-e6ef7274c2d2",
+ "city": "region-of-waterloo",
+ "key": "2023-01-25",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "Regional Council",
+ "title": "Council Meeting",
+ "start": "2023-01-25T18:00:00",
+ "end": "2023-01-25T19:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=e20503ab-9b30-4638-b188-e6ef7274c2d2&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=2669",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=e20503ab-9b30-4638-b188-e6ef7274c2d2&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=e20503ab-9b30-4638-b188-e6ef7274c2d2&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=e20503ab-9b30-4638-b188-e6ef7274c2d2"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=e20503ab-9b30-4638-b188-e6ef7274c2d2",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "79b22eb1debfd5318f73e74d80c5319cf5285d55281afce3b46ec70c0d732fc9"
+ }
+}

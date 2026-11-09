@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "8147466b-21d9-430f-847d-252c085da013",
+ "city": "region-of-waterloo",
+ "key": "2023-06-06-planning-and-works",
+ "type": "Planning and Works",
+ "body": "committee",
+ "body_name": "Planning and Works",
+ "title": "Planning and Works",
+ "start": "2023-06-06T09:00:00",
+ "end": "2023-06-06T10:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=8147466b-21d9-430f-847d-252c085da013&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=4369",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=8147466b-21d9-430f-847d-252c085da013&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=8147466b-21d9-430f-847d-252c085da013&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=8147466b-21d9-430f-847d-252c085da013"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=8147466b-21d9-430f-847d-252c085da013",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "371a9315a8cd5a4a256bc4a4cee0c96cb2e81df51b357d024d31539a876a5e11"
+ }
+}

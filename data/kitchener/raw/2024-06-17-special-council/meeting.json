@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "ef2368a3-7c97-45f9-9116-32db2b5b0065",
+ "city": "kitchener",
+ "key": "2024-06-17-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2024-06-17T17:00:00",
+ "end": "2024-06-17T18:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=ef2368a3-7c97-45f9-9116-32db2b5b0065&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=18785",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=ef2368a3-7c97-45f9-9116-32db2b5b0065&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=ef2368a3-7c97-45f9-9116-32db2b5b0065&Agenda=PostMinutes&lang=English",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "927b8465de12d59cd9dc4429df62447f88117687f98e303d631acf06a22a4b1d"
+ }
+}

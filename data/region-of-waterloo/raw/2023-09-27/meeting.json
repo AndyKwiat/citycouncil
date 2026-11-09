@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "135b3de3-5ea6-4b55-a650-349670b0bb87",
+ "city": "region-of-waterloo",
+ "key": "2023-09-27",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "Regional Council",
+ "title": "Council Meeting",
+ "start": "2023-09-27T18:00:00",
+ "end": "2023-09-27T19:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=135b3de3-5ea6-4b55-a650-349670b0bb87&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=5625",
+  "agenda": null,
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=135b3de3-5ea6-4b55-a650-349670b0bb87&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=135b3de3-5ea6-4b55-a650-349670b0bb87"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=135b3de3-5ea6-4b55-a650-349670b0bb87",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "13266204aefe0e9976cfc9b762783cb4d8f1a1e97730bcd42b3466332ca051c7"
+ }
+}

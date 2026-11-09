@@ -1,0 +1,1976 @@
+{
+ "title": "Council Meeting - January 28, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 11076.869,
+   "video_end": 11079.651,
+   "notes": [
+    "<p>Chair K. Redman called the meeting to order at 7:28 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 11079.651,
+   "video_end": 11114.276,
+   "notes": [
+    "<p>Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "3",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": 11207.51,
+   "video_end": 11251.641,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "5",
+   "number": "4",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 11251.641,
+   "video_end": 11253.156,
+   "notes": [
+    "<p>There were none.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "5",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 11253.156,
+   "video_end": 11253.5,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "61",
+   "number": "5.1",
+   "title": "Verbal Update, J. Mascarin",
+   "closed": false,
+   "video_start": 11253.5,
+   "video_end": 12000.552,
+   "notes": [
+    "<p>John Mascarin, Partner, Aird &amp; Berlis LLP, provided information with regard to the Waterloo Regional Police Services Board budget approval vote that occurred on December 16, 2026. He provided a legal opinion on the validity of the vote and the passing of the confirmatory by-law. J. Mascarin elaborated on the background of the circumstances, as well as the Region's procedural practice and that incorrect procedure was followed.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Opinion re Procedural Validity of the Waterloo Region Police Budget Vote.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16847"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "6",
+   "title": "Petitions",
+   "closed": false,
+   "video_start": 12000.552,
+   "video_end": 12001.302,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "7",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 12001.302,
+   "video_end": 12002.099,
+   "notes": [
+    "<p>Chair K. Redman spoke to the water supply capacity and work being done by the Region to address the issues.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "48",
+   "number": "7.1",
+   "title": "Kevin Thomason, Grand River Environmental Network",
+   "closed": false,
+   "video_start": 12002.099,
+   "video_end": 13032.305,
+   "notes": [
+    "<p>The delegation spoke on behalf of his organization about the issue of groundwater extraction and efficiency. He advocates for greenbelt protection, and spoke to Regional planning and concerns with lack of regulation that may impact water. He spoke to work being done by his organization to protect groundwater, and expressed concerns related to major projects at the Region which may further exacerbate the water capacity issue. The delegation encouraged the adoption of a 'bluebelt' to protect water.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Wilmot Mega Site Selection Final Document - Jan 23 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16845"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "63",
+   "number": "7.2",
+   "title": "John Jordan, Wilmot",
+   "closed": false,
+   "video_start": 13032.305,
+   "video_end": 13389.564,
+   "notes": [
+    "<p>The delegation spoke to concerns with the Wilmot Land Assembly due to ongoing issues with water capacity. The delegation pointed to the Region's pause in developments due to water limitation as reasoning to not proceed with the industrial site with Wilmot. He indicated that Wilmot residents should not be at risk for industry where water capacity issues persist. The delegation stressed that further water issues are risky, and that Council should not risk the water supply. He indicated that the Region understands that water uncertainty justifies restraint, and asked that Council cancel the Wilmot land assembly project.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "64",
+   "number": "7.3",
+   "title": "Gary Eagleson, Parkhill",
+   "closed": false,
+   "video_start": 13389.564,
+   "video_end": 13734.024,
+   "notes": [
+    "<p>The delegation spoke to concerns with class 1, 2 and 3 cropland being lost. The delegation spoke to increases in population and the potential for disappearance of cropland.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Class 1,2 and 3 Land Loss in S. Ontario.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16844"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "65",
+   "number": "7.4",
+   "title": "Andrew Wilson, Wilmot",
+   "closed": false,
+   "video_start": 13734.024,
+   "video_end": 14050.784,
+   "notes": [
+    "<p>The delegation spoke to the potential implications of the land assembly in Wilmot. The delegation stressed the likelihood of the mega-site to utilize water, and expressed concern with the solutions presented in relation to the water capacity issue. He elaborated on further questions associated with the project that could raise more issues, citing significant uncertainty in global and domestic markets.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "67",
+   "number": "7.5",
+   "title": "Victoria Baby, CEO, Humane Society of Kitchener Waterloo & Stratford Perth",
+   "closed": false,
+   "video_start": 14050.784,
+   "video_end": 14645.437,
+   "notes": [
+    "<p>The delegation spoke to her organization's new community outreach center and the impact of the water capacity issue on the development, which, it has been indicated, has been paused. She explained the negative impacts of the pause on development as it relates to staffing, storage, and the effectiveness of her organization to perform community outreach.</p>\n<p>In reply to a question from the Committee, the delegation indicated her organization is in contact with the City of Kitchener's engineering department, who cited the water issue as a reason for the pause in development.</p>\n<p>Staff were asked to liaise with the Humane Society to provide more clarity on this issue. Rod Regier, Commissioner, Planning, Development, and Legislative Services, indicated staff are in contact with the City of Kitchener regarding this issue.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Council Presentation- Better Together.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16852"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "72",
+   "number": "7.6",
+   "title": "Joseph Puopolo, Co-CEO, Polocorp Inc.",
+   "closed": false,
+   "video_start": 14645.437,
+   "video_end": 15421.744,
+   "notes": [
+    "<p>The delegation spoke to the water capacity issue, highlighting progress that has been made. The delegation spoke to next steps that should be followed. Based on staff reports, he indicated that additional capacity is expected in a timely fashion, and thus development ought to be continued where possible. The delegation stressed that the risk to capital budgets will dwarf the water capacity issue if development is halted, indicating it is not a water capacity issue but a risk management issue.</p>\n<p>Responding to a question from Council, the delegation indicated the resolving of the issue is an 'all-hands-on-deck' approach. He indicated water conservation will play a role in addressing the water capacity issue, however, capital forecasts are based on continued growth, and if there is a development pause, there is a risk to lower-tier municipalities and the Region. The delegation spoke to the impact on those associated with a project due to this issue.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "73",
+   "number": "7.7",
+   "title": "Melissa Durrell, Executive Officer, Build Urban",
+   "closed": false,
+   "video_start": 15421.744,
+   "video_end": 16831.223,
+   "notes": [
+    "<p>The delegation spoke to development in terms of economic growth and sustainability in the Region. She elaborated on some data as it relates to water capacity. The delegation spoke to operational capacity risks, arguing suggesting that current information suggests there is sufficient capacity. She indicated the other risk, of not proceeding with development, is billions of dollars.</p>\n<p>Responding to questions, the delegation expanded on her organization's perspective as it relates to growth, advocating for growth to be permitted to continue. She clarified the individuals and organizations involved with putting the information together that was provided to Council.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "74",
+   "number": "7.8",
+   "title": "Larry Masseo, Policy Advisor, Waterloo Region Home Builders' Association",
+   "closed": false,
+   "video_start": 16831.223,
+   "video_end": 17489.212,
+   "notes": [
+    "<p>The delegation spoke to developments in the Region and their economic impact. The delegation expressed concerns with the proposed staff solutions related to the water system capacity issues. He spoke to impacts of a development pause and stressed the importance of allowing housing projects to continue. The delegation provided recommendations for actions to be taken to address the water capacity issues.</p>\n<p>In reply to questions, the delegation spoke to the brief interaction with regional staff, and indicated that he hopes his organization will participate in conversations going forward.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "75",
+   "number": "7.9",
+   "title": "Jabran Butt, Kitchener",
+   "closed": false,
+   "video_start": 17489.212,
+   "video_end": 17772.921,
+   "notes": [
+    "<p>The delegation spoke to the water capacity issue, providing potential solutions which are available to address the constraints. The delegation spoke to the long-term solution of connecting from major water supplies like James Bay or Hudsons Bay.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "WaterTreatment_Aug2013-1.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16854"
+    },
+    {
+     "name": "WaterCapacity-27January2026-KitchenerCouncil.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16855"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "76",
+   "number": "7.10",
+   "title": "Nina Deeb, Kitchener",
+   "closed": false,
+   "video_start": 17772.921,
+   "video_end": 18088.86,
+   "notes": [
+    "<p>The delegation spoke to the water capacity issue in the Region, citing the housing development pause as a hinderance to housing goals. The delegation requested that the province refrain from water taking permits as an alternative to freezing developments. She further spoke to potential solutions for alleviating water capacity constraints.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "8",
+   "title": "Minutes of Previous Meetings",
+   "closed": false,
+   "video_start": 18088.86,
+   "video_end": 18255.253,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "10",
+   "number": "8.1",
+   "title": "Special Council - December 11, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "8.2",
+   "title": "Closed Council - December 11, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "8.3",
+   "title": "Strategic Planning and Budget Committee - December 16, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "52",
+   "number": "8.4",
+   "title": "Closed Strategic Planning and Budget Committee - December 16, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "54",
+   "number": "8.6",
+   "title": "Council Meeting - December 17, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "55",
+   "number": "8.7",
+   "title": "Closed Council - December 17, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "56",
+   "number": "8.8",
+   "title": "Audit Committee - December 18, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "57",
+   "number": "8.9",
+   "title": "All Councils - December 19, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "58",
+   "number": "8.10",
+   "title": "Special Council Public Input - January 7, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "59",
+   "number": "8.11",
+   "title": "Special Council - January 9, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "8.12",
+   "title": "Sustainability, Infrastructure, and Development Committee - January 13, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "8.13",
+   "title": "Closed Committee - January 13, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "53",
+   "number": "8.5",
+   "title": "Special Council - December 16, 2025",
+   "closed": false,
+   "video_start": 18168.249,
+   "video_end": 18841.351,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3",
+    "m4"
+   ]
+  },
+  {
+   "id": "17",
+   "number": "9",
+   "title": "Communications",
+   "closed": false,
+   "video_start": 18841.351,
+   "video_end": 18843.023,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "9.1",
+   "title": "Council Information Package - January 21, 2026 (Distributed to Councillors Electronically)",
+   "closed": false,
+   "video_start": 18843.023,
+   "video_end": 18844.226,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "49",
+   "number": "9.2",
+   "title": "Correspondence - Anne Loeffler",
+   "closed": false,
+   "video_start": 18844.226,
+   "video_end": 18845.632,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Correspondence - Anne Loeffler.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16841"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "62",
+   "number": "9.3",
+   "title": "Larry Masseo, Policy Advisor, Waterloo Region Home Builders' Association",
+   "closed": false,
+   "video_start": 18845.632,
+   "video_end": 18845.992,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "13JAN2026_WRHBA Deputation to RoW_Report No. EES-WAS-26-001-Mannheim Water Capacity Freeze on Housing Delivery _FINAL.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16842"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "68",
+   "number": "9.4",
+   "title": "Correspondence - Brittany Zigmond",
+   "closed": false,
+   "video_start": 18845.992,
+   "video_end": 18847.164,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Water Blue Belt Needed -Stop Wilmot Land Grab.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16846"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "10",
+   "title": "Motion to Go Into Committee of the Whole to Consider Reports",
+   "closed": false,
+   "video_start": 18847.164,
+   "video_end": 18897.631,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "20",
+   "number": "11",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 18897.631,
+   "video_end": 18898.569,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "22",
+   "number": "11.1",
+   "title": "Committee Reports",
+   "closed": false,
+   "video_start": 18898.569,
+   "video_end": 18899.319,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "23",
+   "number": "11.1.1",
+   "title": "Sustainability, Infrastructure, and Development - January 13, 2026",
+   "closed": false,
+   "video_start": 18899.319,
+   "video_end": 18953.974,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "66",
+   "number": "11.1.2",
+   "title": "Administration and Finance Committee Summary - January 28, 2026",
+   "closed": false,
+   "video_start": 18953.974,
+   "video_end": 19132.296,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Administration and Finance Summary January 28, 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16853"
+    }
+   ],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "24",
+   "number": "11.2",
+   "title": "Board of Health",
+   "closed": false,
+   "video_start": 19132.296,
+   "video_end": 19133.093,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "25",
+   "number": "11.2.1",
+   "title": "Board of Health Update",
+   "closed": false,
+   "video_start": 19133.093,
+   "video_end": 19384.562,
+   "notes": [
+    "<p>Dr. Adelle Chang On provided a health update, speaking to current health trends for upper respiratory infections and vaccine availability. She elaborated on the immunization of school children enforcement.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "28",
+   "number": "11.3",
+   "title": "Regional Clerk",
+   "closed": false,
+   "video_start": 19384.562,
+   "video_end": 19385.765,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "50",
+   "number": "11.3.1",
+   "title": "PDL-CAS-26-001, Review of Council Remuneration, Benefits, and Staff Support",
+   "closed": false,
+   "video_start": 19385.765,
+   "video_end": 19493.652,
+   "notes": [
+    "<p>Tim Brubacher, Regional Clerk/Director of Council and Administrative Services, introduced the report.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-CAS-26-001, Review of Council Remuneration, Benefits, and Staff Support.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16843"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "12",
+   "title": "Other Matters Under Committee Of The Whole",
+   "closed": false,
+   "video_start": 19493.652,
+   "video_end": 19494.277,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "71",
+   "number": "12.1",
+   "title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "closed": false,
+   "video_start": 19494.277,
+   "video_end": 28329.096,
+   "notes": [
+    "<p>Mathieu Goetzke, Acting CAO, provided an introduction to the presentation. A copy of the presentation is attached to the agenda. He provided an update to the status of ongoing work, and spoke to current needs to address the water capacity issues.</p>\n<p>Amy Shaw, Director, Water and Wastewater operations, spoke to the preliminary list of projects outlined in the report being proposed, and associated costs. She elaborated on next steps and long-term strategies.</p>\n<p>Kate Konopka, Commissioner, Human Resources, spoke to the proposed new FTEs for the purposes of addressing the water capacity issues.</p>\n<p>In reply to a question, A. Shaw indicated the request for more staff is a preliminary ask, and that the need for more can be expected to maintain infrastructure.</p>\n<p>Responding to a question from Council, Nicole Sapeta, Senior Engineer (Water), provided greater clarity to the capacity needs based on measured data.</p>\n<p>Replying to a question, Wayne Steffler, Commissioner Corporate Services/Chief Financial Officer, explained the capital budget implications of the projects. A. Shaw added that certain projects have actively been under construction, but are being accelerated.</p>\n<p>In response to a question, related to the Wilmot water policy, N. Sapeta spoke to the holistic approach of managing the water supply, and the plan to optimize water through reallocation, with a recognition that technology has advanced. N. Sapeta confirmed that water will still be available in Wilmot through to 2051 to meet needs. The numbers related to water were drawn as a result of the ongoing water supply strategy.</p>\n<p>Replying to questions, Jenny Smith, Director, Corporate Strategy, Performance and Resident Experience, spoke to the communications work being done and ongoing, and expressed that there is a stress on staff currently, which is why additional staffing is being requested. </p>\n<p>In reply to questions from Council, Rod Regier, Commissioner, Planning, Development, and Legislative Services, provided greater clarity to planning tools available and the opportunities for development applications that are still an option.</p>\n<p>Responding to questions, A. Shaw spoke to work being done with technical working groups and other consultants and experts whose opinions are being sought. She added that for the vast number of solutions, staff do not believe firms may not be the best long-term option, with a specific need for consistent engineering and planning, and managing some of the smaller projects on the asset management side. A. Shaw expressed concerns with availability of consultants versus full-time staff. K. Konopka spoke to recruitment being expedited. Staff were asked to have the technical working group to be made public, and A. Shaw indicated she would confer with the members prior to posting. M. Goetzke indicated staff will look to see how much more consultants can be relied upon in the interim, with acceleration of the hiring of staff as an addition to consultant work.</p>\n<p>Replying to questions, A. Shaw spoke to the plan to share data.</p>\n<p>In reply to questions, A. Shaw clarified the numbers related to the projects and associated water capacity. W. Steffler spoke to the financial plan to deal with this issue, indicating the majority of the projects are within the capital budget and are being moved up a year, with an impact on the reserve budget. Ryan Snider, Manager, Water Operations and Maintenance, spoke to the timing of projects and work that can be done.</p>\n<p>Responding to questions, N. Sapeta spoke to the process of the identification of projects.</p>\n<p>Councillor Harris assumed the Chair at 11:11 p.m.</p>\n<p>M. Goetzke provided further information on the long-term planning implications of the water capacity issue. N. Sapeta clarified the deferral of water pipelines from Lake Erie.</p>\n<p>K. Redman assumed the Chair at 11:13 p.m.</p>\n<p>Staff were asked to consider for relevant job descriptions, to have a requirement of the understanding of the two-tiered municipal structure, and work with area municipalities.</p>\n<p>Staff were asked to ensure industry experts and financial partners were consulted, as it pertains to the motion put forward by Councillor James. C. James clarified that consultation is meant for the development community, but is to be publicly available. Council generally spoke in favour of the proposed analysis being easily-readable for the public.</p>\n<p>Responding to questions, M. Goetzke spoke to professional obligations related to approving developments and signing Form 1s, and A. Shaw provided clarity as to the signing of Form 1s, and the proposed liability. Staff strenuously expressed concerns with regard to signing or approving documents with implications for the water system.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs .pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16848"
+    },
+    {
+     "name": "EES-WIM-26-001, Appendix A, FTE Business Rationale.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16849"
+    },
+    {
+     "name": "EES-WIM-26-001, Appendix B Preliminary Summary of Initiatives - Water Capacity Constraint.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16850"
+    },
+    {
+     "name": "EES-WIM-26-001, Appendix C Preliminary Summary of Initiatives - Water Capacity Constraint with Capital Implications.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=16851"
+    }
+   ],
+   "motions": [
+    "m8",
+    "m9",
+    "m10",
+    "m11",
+    "m12",
+    "m13",
+    "m14",
+    "m15",
+    "m16",
+    "m17",
+    "m18"
+   ]
+  },
+  {
+   "id": "30",
+   "number": "13",
+   "title": "Motion for Committee of the Whole to Rise and Council Resume",
+   "closed": false,
+   "video_start": 28329.096,
+   "video_end": 28349.205,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ]
+  },
+  {
+   "id": "31",
+   "number": "14",
+   "title": "Motion To Adopt Proceedings of Committee of the Whole",
+   "closed": false,
+   "video_start": 28349.205,
+   "video_end": 28367.517,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m20"
+   ]
+  },
+  {
+   "id": "32",
+   "number": "15",
+   "title": "Motions where notice has been provided",
+   "closed": false,
+   "video_start": 28367.517,
+   "video_end": 28368.158,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "46",
+   "number": "15.1",
+   "title": "Councillor M. Rodrigues, Re: Road Safety Program",
+   "closed": false,
+   "video_start": 28368.158,
+   "video_end": 28643.611,
+   "notes": [
+    "<p>In reply to a question from Council, Doug Spooner, Acting Commissioner, Transportation Services, indicated formal direction from Council has not been received to expand the red-light program. He explained more reports are anticipated for March pertaining to traffic calming.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m21"
+   ]
+  },
+  {
+   "id": "41",
+   "number": "15.2",
+   "title": "Councillor J. Gowing, Re: Bulky Item Collection Frequency Review",
+   "closed": false,
+   "video_start": 28643.611,
+   "video_end": 28688.579,
+   "notes": [
+    "<p>This item was deferred to the February 10th, 2026 Sustainability, Infrastructure, and Development Committee meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m22"
+   ]
+  },
+  {
+   "id": "44",
+   "number": "15.3",
+   "title": "Councillor D. Craig, Re: Continued Election of Regional Chair",
+   "closed": false,
+   "video_start": 28688.579,
+   "video_end": 28797.048,
+   "notes": [
+    "<p>This item was deferred to the February 10th, 2026 Administration and Finance Committee meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m23"
+   ]
+  },
+  {
+   "id": "33",
+   "number": "16",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": 28797.048,
+   "video_end": 28798.111,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "17",
+   "title": "Unfinished Business",
+   "closed": false,
+   "video_start": 28798.111,
+   "video_end": 28799.267,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "35",
+   "number": "18",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 28799.267,
+   "video_end": 28799.376,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "69",
+   "number": "18.1",
+   "title": "Motion to go into Closed Session - February 7, 2026",
+   "closed": false,
+   "video_start": 28799.376,
+   "video_end": 28863.938,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m24"
+   ]
+  },
+  {
+   "id": "36",
+   "number": "19",
+   "title": "Questions",
+   "closed": false,
+   "video_start": 28863.938,
+   "video_end": 28864.532,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "37",
+   "number": "20",
+   "title": "Enactment of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 28864.532,
+   "video_end": 28903.0,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m25"
+   ]
+  },
+  {
+   "id": "40",
+   "number": "20.1",
+   "title": "By-law 26-003",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m26"
+   ]
+  },
+  {
+   "id": "38",
+   "number": "20.3",
+   "title": "By-law 26-005",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m27"
+   ]
+  },
+  {
+   "id": "39",
+   "number": "21",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 28903.0,
+   "video_end": 28925.422,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m28"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4",
+   "item_number": "3",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Salonen",
+   "text": "That Council reconvene into Open Session.",
+   "text_html": "<p>That Council reconvene into Open Session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Nowak",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "9",
+   "item_number": "8",
+   "item_title": "Minutes of Previous Meetings",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That the following minutes be approved.",
+   "text_html": "<p>That the following minutes be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "53",
+   "item_number": "8.5",
+   "item_title": "Special Council - December 16, 2025",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That the following minutes be approved for Special Council - December 16, 2025.",
+   "text_html": "<p>That the following minutes be approved for Special Council - December 16, 2025.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 3)",
+    "label": "12-3",
+    "for": 12,
+    "against": 3,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Huinink",
+     "Rodrigues"
+    ],
+    "against": [
+     "Vrbanovic",
+     "Salonen",
+     "Gowing"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "53",
+   "item_number": "8.5",
+   "item_title": "Special Council - December 16, 2025",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Huinink",
+   "text": "Amendment That a transcript of item 4.1 be included in the amended minutes.",
+   "text_html": "<p><strong>Amendment </strong></p>\n<p>That a transcript of item 4.1 be included in the amended minutes.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (6 to 9)",
+    "label": "Defeated 6-9",
+    "for": 6,
+    "against": 9,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Foxton",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "19",
+   "item_number": "10",
+   "item_title": "Motion to Go Into Committee of the Whole to Consider Reports",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Nowak",
+   "text": "That Council go into Committee of the Whole to consider reports.",
+   "text_html": "<p>That Council go into Committee of the Whole to consider reports.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m6",
+   "item": "23",
+   "item_number": "11.1.1",
+   "item_title": "Sustainability, Infrastructure, and Development - January 13, 2026",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Rodrigues",
+   "text": "The Sustainability, Infrastructure, and Development Committee recommends as follows: That the Regional Municipality of Waterloo approve an amendment to Controlled Access By-law No. #58-87 for a right-in/right-out emergency access located approximately 245 metres to the north of Pioneer Drive on the west side of Regional Road #28 (Homer Watson Boulevard), in the City of Kitchener, subject to conditions as outlined in Report PDL-GDS-26-001, dated January 13, 2026. That the Regional Municipality of Waterloo approve an amendment to Controlled Access By-law No. #58-87 for a non-commercial access located approximately 667 metres to the north of Coulthard Boulevard on the east side of Regional Road #33 (Townline Road), in the Township of Puslinch, County of Wellington, subject to conditions as outlined in Report PDL-GDS-26-002, dated January 13, 2026. That the Regional Municipality of Waterloo direct and authorize the Regional Solicitor to take the following actions with respect to the expropriation of lands for improvements to Fischer Hallman Road between Bleams Road and Plains Road, in the City of Kitchener, in the Regional Municipality of Waterloo, as detailed in report PDL-LEG-26-004, dated January 13, 2026. Complete application(s) to the Council of The Regional Municipality of Waterloo, as may be required from time to time, for approval to expropriate land, which is required for improvements to Fischer Hallman Road between Bleams Road and Plains Road, and described as follows: Temporary Easement – Grading: The right and easement, being a temporary easement in gross, for the free and unobstructed, right, interest and easement terminating, for the subject properties set out below, on the 31st day of December 2028, for itself, its successors and assigns, and anyone authorized by it, on, over, under and through the following property for the purposes of excavation, construction, installation, replacement, alteration, grading, and landscaping as required in connection with the improvements to Fischer Hallman Road between Bleams Road and Plains Road, and all related improvements, and works ancillary thereto and for such purposes, the free, unimpeded and unobstructed access to the lands at all times by employees, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement: Part of Lot 153, German Company Tract, being Part 1 on 58R-22431, City of Kitchener, part of PIN 22728-0960, (Part of Vacant Land, Fischer Hallman Road, Kitchener); Part of the Common Element, Waterloo Standard Condominium Plan 566, being Parts 1, 2, 3 and 4 on 58R-22432, City of Kitchener, part of PINs 23566-0001 to 23566-0276, (1652 – 1696 Fischer Hallman Road, Kitchener); Part of Lot 158, German Company Tract, being Part 7 on 58R-19936, City of Kitchener, part of PIN 22607-2288, (945 Huron Road, Kitchener); Part of Lot 5, Registrar’s Compiled Plan 1471, being Parts 2, 3, 4, 5 and 6 on 58R-19942, City of Kitchener, part of PIN 22607-2322, (1340 Fischer Hallman Road, Kitchener); Part of Lot 6, Registrar’s Compiled Plan 1471, being Part 1 on 58R-19941, City of Kitchener, part of PIN 22607-2454, (Part of Vacant Land, Fischer Hallman Road, Kitchener); and Part of Lot 156, German Company Tract, being Part 3 on 58R-19941, City of Kitchener, part of PIN 22607-2317, (1548 Fischer Hallman Road, Kitchener) Serve notices of the above applications(s) required by the Expropriations Act (the “Act”); Forward to the Chief Inquiry Officer any requests for a hearing that may be received within the time prescribed by the Act; Attend, with appropriate Regional staff, at any hearing that may be scheduled; Discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete a transaction whereby the required interests in the lands are conveyed or if otherwise deemed appropriate in the opinion of the Commissioner of Engineering and Environmental Services and the Regional Solicitor; and Do all things necessary and proper to be done and report thereon to Regional Council in due course. Whereas in late November 2025, through on-going work and updates to the Water Supply Strategy, Regional staff have identified a water capacity constraint within the Mannheim Service Area, which supplies water to Kitchener, Waterloo, and parts of Cambridge, Woolwich, and Wilmot and Whereas a Technical Team has been meeting and working diligently since that time to research, understand and address these infrastructure challenges, and Whereas the Region of Waterloo staff on an ongoing basis monitors, maintains and updates an annual Asset Management Plan and Master Plans for all regional information including regional water and wastewater infrastructure and Whereas the Asset Management Plan “describes the replacement value and physical condition of the Region’ s asset portfolio” and this information is utilized to predict when renewals and repairs will likely be needed’, and Whereas the 2025 Asset Management Plan includes an Asset Condition profile of Water and Wastewater Services (see Appendix A, Figure A.1 of that report), Levels of Service information, a Drinking Water Quality Management System, Expenditure Forecasts and other aspects of the system all of which are all designed and used to ‘…manage risk to the water supply system by identifying possible hazards, assigning risk scores and identifying procedures, process objectives and preventative measures to help assess and mitigate risk to the environment.” And Whereas housing and employment developments currently in progress and scheduled to begin or to be completed in 2026 and developments being planned within the next 5 years require information as soon as possible regarding the short, medium and long-term plans for repairing the regional water and wastewater infrastructure, Whereas although the Report EES-WAS-26-001indicates that “a more fulsome impact of the capacity issue to the 2026 operating and capital budget is anticipated to be available late Q1 2026”, there is pressing need for area municipalities and the development community to understand the repairs needed and the timelines involved, Therefore be it resolved that the timeline for a preliminary list of the short, medium and long-term plans for the necessary infrastructure repairs be made publicly available before the end of January 2026 rather than in late Q1 2026. Whereas in late November 2025, through on-going work and updates to the Water Supply Strategy, Regional staff have identified a water capacity constraint within the Mannheim Service Area, which supplies water to Kitchener, Waterloo, and parts of Cambridge, Woolwich, and Wilmot and Whereas a Technical Team has been meeting and working diligently since that time to research, understand and address these infrastructure challenges, and Whereas the Report EES-WAS-26-001indicates that ‘…several factors and observations led technical staff to reassess how remaining water capacity was being monitored including “a plateauing of conservation efforts…” and Whereas the water conservation efforts referred to in the report do not include the breadth of water conservation opportunities available to municipalities, homeowners, businesses, property owners, property managers and property developers which include but are not limited to, for example, natural assets – more trees, native plants, floodplain protection – the installation of green infrastructure, the adoption of greywater systems, rainwater capture for personal watering, smart irrigation systems, models for more sustainable water practices and an understanding of how technology and smart metering and data analytics can increase water conservation, and Whereas municipalities like the Region of Waterloo and other municipalities including area municipalities have the opportunity to provide leadership and direction with robust water conservation policy(ies) and appropriate regulations to support water conservation efforts, and Whereas water conservation efforts are required in tandem with the necessary infrastructure repairs and sourcing of new wells in order to ensure a robust water supply now and in the future, Therefore Be It Resolved that staff are directed to report back by the end of Q2 June 2026 with water conservation policy options for the Sustainability, Infrastructure and Development Committee’s and Regional Council’s consideration and Further that input from relevant community partners including but not limited to Reep Green Solutions, Sustainable Waterloo Region, Build Urban, the Waterloo Region Homebuilders Association, the Grand River Conservation Authority, Grand River Environmental Network and area municipalities is sought and included in the water conservation policy options proposed. That Region of Waterloo staff make available to area municipalities, no later than end of January, all raw data that informed and encompasses the Agile Water Supply Peer Review and Assessment Report, and also report to Council by January 28 about also making that data available to industry and other community partners thereafter. Further that in sharing the data and existing information, details also be provided of all budget approved and other planned infrastructure works, along with their respective capacity gains, and associated timing to be brought online for capacity purposes. That Regional staff report to the Sustainability, Infrastructure, and Development Committee in February 2026 on the types of developments and applications subject to Regional advisory comments.",
+   "text_html": "<p>The Sustainability, Infrastructure, and Development Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo approve an amendment to Controlled Access By-law No. #58-87 for a right-in/right-out emergency access located approximately 245 metres to the north of Pioneer Drive on the west side of Regional Road #28 (Homer Watson Boulevard), in the City of Kitchener, subject to conditions as outlined in Report PDL-GDS-26-001, dated January 13, 2026.</li>\n<li>That the Regional Municipality of Waterloo approve an amendment to Controlled Access By-law No. #58-87 for a non-commercial access located approximately 667 metres to the north of Coulthard Boulevard on the east side of Regional Road #33 (Townline Road), in the Township of Puslinch, County of Wellington, subject to conditions as outlined in Report PDL-GDS-26-002, dated January 13, 2026.</li>\n<li>That the Regional Municipality of Waterloo direct and authorize the Regional Solicitor to take the following actions with respect to the expropriation of lands for improvements to Fischer Hallman Road between Bleams Road and Plains Road, in the City of Kitchener, in the Regional Municipality of Waterloo, as detailed in report PDL-LEG-26-004, dated January 13, 2026.\n<ol>\n<li>Complete application(s) to the Council of The Regional Municipality of Waterloo, as may be required from time to time, for approval to expropriate land, which is required for improvements to Fischer Hallman Road between Bleams Road and Plains Road, and described as follows:<br/><strong>Temporary Easement – Grading:</strong><br/>The right and easement, being a temporary easement in gross, for the free and unobstructed, right, interest and easement terminating, for the subject properties set out below, on the 31st day of December 2028, for itself, its successors and assigns, and anyone authorized by it, on, over, under and through the following property for the purposes of excavation, construction, installation, replacement, alteration, grading, and landscaping as required in connection with the improvements to Fischer Hallman Road between Bleams Road and Plains Road, and all related improvements, and works ancillary thereto and for such purposes, the free, unimpeded and unobstructed access to the lands at all times by employees, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement:\n<ol>\n<li>Part of Lot 153, German Company Tract, being Part 1 on 58R-22431, City of Kitchener, part of PIN 22728-0960, (Part of Vacant Land, Fischer Hallman Road, Kitchener);</li>\n<li>Part of the Common Element, Waterloo Standard Condominium Plan 566, being Parts 1, 2, 3 and 4 on 58R-22432, City of Kitchener, part of PINs 23566-0001 to 23566-0276, (1652 – 1696 Fischer Hallman Road, Kitchener);</li>\n<li>Part of Lot 158, German Company Tract, being Part 7 on 58R-19936, City of Kitchener, part of PIN 22607-2288, (945 Huron Road, Kitchener);</li>\n<li>Part of Lot 5, Registrar’s Compiled Plan 1471, being Parts 2, 3, 4, 5 and 6 on 58R-19942, City of Kitchener, part of PIN 22607-2322, (1340 Fischer Hallman Road, Kitchener);</li>\n<li>Part of Lot 6, Registrar’s Compiled Plan 1471, being Part 1 on 58R-19941, City of Kitchener, part of PIN 22607-2454, (Part of Vacant Land, Fischer Hallman Road, Kitchener); and</li>\n<li>Part of Lot 156, German Company Tract, being Part 3 on 58R-19941, City of Kitchener, part of PIN 22607-2317, (1548 Fischer Hallman Road, Kitchener)</li>\n</ol>\n</li>\n<li>Serve notices of the above applications(s) required by the Expropriations Act (the “Act”);</li>\n<li>Forward to the Chief Inquiry Officer any requests for a hearing that may be received within the time prescribed by the Act;</li>\n<li>Attend, with appropriate Regional staff, at any hearing that may be scheduled;</li>\n<li>Discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete a transaction whereby the required interests in the lands are conveyed or if otherwise deemed appropriate in the opinion of the Commissioner of Engineering and Environmental Services and the Regional Solicitor; and</li>\n<li>Do all things necessary and proper to be done and report thereon to Regional Council in due course.</li>\n</ol>\n</li>\n<li>Whereas in late November 2025, through on-going work and updates to the Water Supply Strategy, Regional staff have identified a water capacity constraint within the Mannheim Service Area, which supplies water to Kitchener, Waterloo, and parts of Cambridge, Woolwich, and Wilmot and<br/>Whereas a Technical Team has been meeting and working diligently since that time to research, understand and address these infrastructure challenges, and<br/>Whereas the Region of Waterloo staff on an ongoing basis monitors, maintains and updates an annual Asset Management Plan and Master Plans for all regional information including regional water and wastewater infrastructure and<br/>Whereas the Asset Management Plan “describes the replacement value and physical condition of the Region’ s asset portfolio” and this information is utilized to predict when renewals and repairs will likely be needed’, and <br/>Whereas the 2025 Asset Management Plan includes an Asset Condition profile of Water and Wastewater Services (see Appendix A, Figure A.1 of that report), Levels of Service information, a Drinking Water Quality Management System, Expenditure Forecasts and other aspects of the system all of which are all designed and used to ‘…manage risk to the water supply system by identifying possible hazards, assigning risk scores and identifying procedures, process objectives and preventative measures to help assess and mitigate risk to the environment.” And<br/>Whereas housing and employment developments currently in progress and scheduled to begin or to be completed in 2026 and developments being planned within the next 5 years require information as soon as possible regarding the short, medium and long-term plans for repairing the regional water and wastewater infrastructure,<br/>Whereas although the Report EES-WAS-26-001indicates that “a more fulsome impact of the capacity issue to the 2026 operating and capital budget is anticipated to be available late Q1 2026”, there is pressing need for area municipalities and the development community to understand the repairs needed and the timelines involved,<br/>Therefore be it resolved that the timeline for a preliminary list of the short, medium and long-term plans for the necessary infrastructure repairs be made publicly available before the end of January 2026 rather than in late Q1 2026.</li>\n<li>Whereas in late November 2025, through on-going work and updates to the Water Supply Strategy, Regional staff have identified a water capacity constraint within the Mannheim Service Area, which supplies water to Kitchener, Waterloo, and parts of Cambridge, Woolwich, and Wilmot and<br/>Whereas a Technical Team has been meeting and working diligently since that time to research, understand and address these infrastructure challenges, and<br/>Whereas the Report EES-WAS-26-001indicates that ‘…several factors and observations led technical staff to reassess how remaining water capacity was being monitored including “a plateauing of conservation efforts…” and<br/>Whereas the water conservation efforts referred to in the report do not include the breadth of water conservation opportunities available to municipalities, homeowners, businesses, property owners, property managers and property developers which include but are not limited to, for example, natural assets – more trees, native plants, floodplain protection – the installation of green infrastructure, the adoption of greywater systems, rainwater capture for personal watering, smart irrigation systems, models for more sustainable water practices and an understanding of how technology and smart metering and data analytics can increase water conservation, and<br/>Whereas municipalities like the Region of Waterloo and other municipalities including area municipalities have the opportunity to provide leadership and direction with robust water conservation policy(ies) and appropriate regulations to support water conservation efforts, and<br/>Whereas water conservation efforts are required in tandem with the necessary infrastructure repairs and sourcing of new wells in order to ensure a robust water supply now and in the future, <br/>Therefore Be It Resolved that staff are directed to report back by the end of Q2 June 2026 with water conservation policy options for the Sustainability, Infrastructure and Development Committee’s and Regional Council’s consideration and<br/>Further that input from relevant community partners including but not limited to Reep Green Solutions, Sustainable Waterloo Region, Build Urban, the Waterloo Region Homebuilders Association, the Grand River Conservation Authority, Grand River Environmental Network and area municipalities is sought and included in the water conservation policy options proposed.</li>\n<li>That Region of Waterloo staff make available to area municipalities, no later than end of January, all raw data that informed and encompasses the Agile Water Supply Peer Review and Assessment Report, and also report to Council by January 28 about also making that data available to industry and other community partners thereafter.  <br/>Further that in sharing the data and existing information, details also be provided of all budget approved and other planned infrastructure works, along with their respective capacity gains, and associated timing to be brought online for capacity purposes.</li>\n<li>That Regional staff report to the Sustainability, Infrastructure, and Development Committee in February 2026 on the types of developments and applications subject to Regional advisory comments.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m7",
+   "item": "66",
+   "item_number": "11.1.2",
+   "item_title": "Administration and Finance Committee Summary - January 28, 2026",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Salonen",
+   "text": "The Administration and Finance Committee recommends as follows: That the Regional Municipality of Waterloo write off accounts receivable in the amount of $113,335.76 for the year ended December 31, 2025, as outlined in Report COR-TRY-26-002 dated January 13, 2026. That the Regional Municipality of Waterloo approve the expenditure of up to $600,000 from the Public Art Reserve for a permanent public art acquisition at the Kitchener Central Transit Hub. And that the funding source for $300,000 earmarked for Public Art related to the Kitchener Central Transit Hub (project 90107) be amended from the approved 2026 Transit capital budget to the general tax supported capital reserve. That staff be directed to undertake consultations with the arts community, and the public in general, on the creation of a Waterloo Region Arts Council; and That staff be directed to report back on the results of the consultation by August 2026.",
+   "text_html": "<p>The Administration and Finance Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo write off accounts receivable in the amount of $113,335.76 for the year ended December 31, 2025, as outlined in Report COR-TRY-26-002 dated January 13, 2026.</li>\n<li>That the Regional Municipality of Waterloo approve the expenditure of up to $600,000 from the Public Art Reserve for a permanent public art acquisition at the Kitchener Central Transit Hub. <br/>And that the funding source for $300,000 earmarked for Public Art related to the Kitchener Central Transit Hub (project 90107) be amended from the approved 2026 Transit capital budget to the general tax supported capital reserve.</li>\n<li>That staff be directed to undertake consultations with the arts community, and the public in general, on the creation of a Waterloo Region Arts Council; and <br/>That staff be directed to report back on the results of the consultation by August 2026.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Harris",
+   "text": "That Regional Council agree to extend the Council meeting to 12:00 a.m.",
+   "text_html": "<p>That Regional Council agree to extend the Council meeting to 12:00 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 3)",
+    "label": "12-3",
+    "for": 12,
+    "against": 3,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "Nowak",
+     "Wolf",
+     "Huinink"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Rodrigues",
+   "text": "That the Regional Municipality of Waterloo approve the addition of up to nine (9) full time equivalent (FTE) permanent positions to address increased workload related to the Mannheim Service Area water capacity constraint, with current year costs funded by the Water Stabilization Reserve in the approximate amount of $1.2 million.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve the addition of up to nine (9) full time equivalent (FTE) permanent positions to address increased workload related to the Mannheim Service Area water capacity constraint, with current year costs funded by the Water Stabilization Reserve in the approximate amount of $1.2 million. </p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m10",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Gowing",
+   "text": "That the Region Municipality of Waterloo direct staff to prepare an in-depth research report based on publicly available information, that describes the situation regarding the Mannheim Water Supply Capacity Constraint, and the pathway to address the capacity constraint. And that the summary document be made available to stakeholders, consultants, and the public to provide a consistent point of reference for all parties.",
+   "text_html": "<p>That the Region Municipality of Waterloo direct staff to prepare an <strong>in-depth research report</strong> based on publicly available information, that describes the situation regarding the Mannheim Water Supply Capacity Constraint, and the pathway to address the capacity constraint.<br/>And that the summary document be made available to stakeholders, consultants, and the public to provide a consistent point of reference for all parties.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 2)",
+    "label": "11-2",
+    "for": 11,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "McCabe",
+     "Wolf"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m11",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Rodrigues",
+   "text": "That Council agree to extend the Council meeting by one hour to 1:00 a.m.",
+   "text_html": "<p>That Council agree to extend the Council meeting by one hour to 1:00 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m12",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Foxton",
+   "text": "That the Regional Municipality of Waterloo defer the entirety of the motion moved by B. Vrbanovic discussed under item 12.1 to Sustainability, Infrastructure, and Development on February 10, 2026.",
+   "text_html": "<p>That the Regional Municipality of Waterloo defer the entirety of the motion moved by B. Vrbanovic discussed under item 12.1 to Sustainability, Infrastructure, and Development on February 10, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (4 to 6)",
+    "label": "Defeated 4-6",
+    "for": 4,
+    "against": 6,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Redman",
+     "Foxton",
+     "Craig"
+    ],
+    "against": [
+     "Vrbanovic",
+     "Harris",
+     "Shantz",
+     "James",
+     "Salonen",
+     "Gowing"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m13",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Rodrigues",
+   "text": "WHEREAS the Region of Waterloo has identified significant water supply capacity constraints within the Mannheim Service Area through its Water Supply Strategy update and associated third party technical review; and WHEREAS the Region’s existing methodology for determining remaining water supply capacity requires updating to reflect operational constraints, hydrological realities, and the need to maintain an operational resiliency buffer; and WHEREAS the Region’s current policy permits consideration of future, unbuilt service capacity where: A capacity expansion project is imminent and included in the first five years of the Region’s 10year capital forecast, A sound technical basis exists for the anticipated capacity (supported by an Environmental Assessment, master plan, or equivalent engineering analysis), and Area Municipal recommendations guide approvals, with no more than 50% of projected new capacity allocated in advance of completion; and WHEREAS the Region has developed a preliminary list of initiatives to restore and increase capacity within the Mannheim Service Area; and WHEREAS municipal and industry partners have identified the urgent need for a clear, transparent, Regionwide allocation approach to ensure consistent interpretation of capacity constraints and development impacts across all area municipalities; and WHEREAS Waterloo Region continues to be in a housing supply crisis, particularly for lower income individuals within Waterloo Region; and WHEREAS according to the 2019 labour force survey 24,300 people are employed in construction which could be at risk from a total development freeze THEREFORE BE IT RESOLVED: That in accordance with Region’s long-standing policy, as outlined above, Region staff be directed to work with Area Municipalities on development applications and use up to fifty per cent of planned and unbuilt capacity coming on-line within the next 5 years to support development approvals and operational resiliency so that: the Region of Waterloo can continue to enter into servicing agreements and approve Form 1s for development applications that have been deemed as complete applications by Area Municipalities prior to December 4, 2025; and, Area Municipalities can continue with typical processing of all development applications that have been deemed complete applications by Area Municipalities prior to December 4, 2025; and,",
+   "text_html": "<p>WHEREAS the Region of Waterloo has identified significant water supply capacity constraints within the Mannheim Service Area through its Water Supply Strategy update and associated third party technical review; and</p>\n<p>WHEREAS the Region’s existing methodology for determining remaining water supply capacity requires updating to reflect operational constraints, hydrological realities, and the need to maintain an operational resiliency buffer; and</p>\n<p>WHEREAS the Region’s current policy permits consideration of future, unbuilt service capacity where:</p>\n<ol>\n<li>A capacity expansion project is imminent and included in the first five years of the Region’s 10year capital forecast,</li>\n<li>A sound technical basis exists for the anticipated capacity (supported by an Environmental Assessment, master plan, or equivalent engineering analysis), and</li>\n<li>Area Municipal recommendations guide approvals, with no more than 50% of projected new capacity allocated in advance of completion; and</li>\n</ol>\n<p>WHEREAS the Region has developed a preliminary list of initiatives to restore and increase capacity within the Mannheim Service Area; and</p>\n<p>WHEREAS municipal and industry partners have identified the urgent need for a clear, transparent, Regionwide allocation approach to ensure consistent interpretation of capacity constraints and development impacts across all area municipalities; and</p>\n<p>WHEREAS Waterloo Region continues to be in a housing supply crisis, particularly for lower income individuals within Waterloo Region; and</p>\n<p>WHEREAS according to the 2019 labour force survey 24,300 people are employed in construction which could be at risk from a total development freeze</p>\n<p><strong>THEREFORE BE IT RESOLVED:</strong></p>\n<ol>\n<li>That in accordance with Region’s long-standing policy, as outlined above, Region staff be directed to work with Area Municipalities on development applications and use up to fifty per cent of planned and unbuilt capacity coming on-line within the next 5 years to support development approvals and operational resiliency so that:</li>\n<ol>\n<li>the Region of Waterloo can continue to enter into servicing agreements and approve Form 1s for development applications that have been deemed as complete applications by Area Municipalities prior to December 4, 2025; and,</li>\n<li>Area Municipalities can continue with typical processing of all development applications that have been deemed complete applications by Area Municipalities prior to December 4, 2025; and,</li>\n</ol>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m14",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Salonen",
+   "text": "That the Regional Municipality of Waterloo refer part 1 of the motion to th e Sustainability, Infrastructure, and Development on February 10, 2026.",
+   "text_html": "<p>That the Regional Municipality of Waterloo refer part 1 of the motion to th<strong>e Sustainability, Infrastructure, and Development </strong>on February 10, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m15",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Rodrigues",
+   "text": "2. That staff be directed to report back in March 2026 with a risk management approach to development based on refined development pipeline information and scheduling that breaks down the existing and planned water capacity information expected to occur in each of 2026, 2027, and 2028 and beyond, in consultation with area municipalities and development partners, to understand the total existing connections and applications at different time horizons, while various engineering solutions are pursued to provide operational resiliency and additional capacity.",
+   "text_html": "<p>2.    That staff be directed to report back in March 2026 with a risk management approach to development based on refined development pipeline information and scheduling that breaks down the existing and planned water capacity information expected to occur in each of 2026, 2027, and 2028 and beyond, in consultation with area municipalities and development partners, to understand the total existing connections and applications at different time horizons, while various engineering solutions are pursued to provide operational resiliency and additional capacity.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (9 to 2)",
+    "label": "9-2",
+    "for": 9,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "Erb",
+     "Redman"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m16",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Erb",
+   "text": "That staff be directed to report back in March 2026 end of April 2026 with a risk management approach to development based on refined development pipeline information and scheduling that breaks down the existing and planned water capacity information expected to occur in each of 2026, 2027, and 2028 and beyond, in consultation with area municipalities and development partners, to understand the total existing connections and applications at different time horizons, while various engineering solutions are pursued to provide operational resiliency and additional capacity.",
+   "text_html": "<p>That staff be directed to report back in March 2026 end of April 2026 with a risk management approach to development based on refined development pipeline information and scheduling that breaks down the existing and planned water capacity information expected to occur in each of 2026, 2027, and 2028 and beyond, in consultation with area municipalities and development partners, to understand the total existing connections and applications at different time horizons, while various engineering solutions are pursued to provide operational resiliency and additional capacity.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (4 to 7)",
+    "label": "Defeated 4-7",
+    "for": 4,
+    "against": 7,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Redman",
+     "Foxton",
+     "James"
+    ],
+    "against": [
+     "Vrbanovic",
+     "Harris",
+     "Shantz",
+     "Craig",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m17",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Rodrigues",
+   "text": "3. That in response to the industry request on January 13, 2026 at the Sustainability, Infrastructure, and Development Committee, Regional staff be directed to convene a workshop session prior to February 27, 2026 with development professionals working in the Region of Waterloo to review potential immediate, medium-term, and long-term solutions, including a transition plan to achieve a 20% operational resiliency within the water system, and to report back to Regional Council in March 2026; and further,",
+   "text_html": "<p>3.    That in response to the industry request on January 13, 2026 at the Sustainability, Infrastructure, and Development Committee, Regional staff be directed to convene a workshop session prior to February 27, 2026 with development professionals working in the Region of Waterloo to review potential immediate, medium-term, and long-term solutions, including a transition plan to achieve a 20% operational resiliency within the water system, and to report back to Regional Council in March 2026; and further,</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (9 to 2)",
+    "label": "9-2",
+    "for": 9,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "Erb",
+     "Redman"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m18",
+   "item": "71",
+   "item_number": "12.1",
+   "item_title": "EES-WIM-26-001, Preliminary Water Capacity Constraint Solutions and Associated Resource Needs",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Rodrigues",
+   "text": "4. That staff be directed to provide bi-monthly updates to Waterloo Region Council on available year over year supply and demand capacities.",
+   "text_html": "<p>4.    That staff be directed to provide bi-monthly updates to Waterloo Region Council on available year over year supply and demand capacities.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (10 to 1)",
+    "label": "10-1",
+    "for": 10,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "Erb"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m19",
+   "item": "30",
+   "item_number": "13",
+   "item_title": "Motion for Committee of the Whole to Rise and Council Resume",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Rodrigues",
+   "text": "That Committee of the Whole rise and Council resume.",
+   "text_html": "<p>That Committee of the Whole rise and Council resume.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Harris",
+     "Gowing",
+     "James",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m20",
+   "item": "31",
+   "item_number": "14",
+   "item_title": "Motion To Adopt Proceedings of Committee of the Whole",
+   "name": "",
+   "moved_by": "Shantz",
+   "seconded_by": "Harris",
+   "text": "That Council adopt the proceedings of Committee of the Whole.",
+   "text_html": "<p>That Council adopt the proceedings of Committee of the Whole.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "James",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m21",
+   "item": "46",
+   "item_number": "15.1",
+   "item_title": "Councillor M. Rodrigues, Re: Road Safety Program",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Foxton",
+   "text": "WHEREAS the Road User Safety Program provides comprehensive, evidence-based solutions to reduce serious injuries and fatalities on Regional Roads, with an emphasis on reducing serious collisions involving vulnerable road users including in school zones; WHEREAS revenues from Automated Speed Enforcement (ASE) in school zones would have funded the Road Safety Reserve as a primary funding source for the Road User Safety Program; THEREFORE BE IT RESOLVED that Regional staff report to the Sustainability, Infrastructure, and Development Committee by Q2 2026 and following wind-down of the ASE program to: Establish how to allocate the remaining Road Safety Reserve balance to fund school zone road safety initiatives starting in 2026; and Provide options on how to fund the Road Safety Reserve in future years, including but not limited to sources from transportation user fees and redlight camera revenues.",
+   "text_html": "<p>WHEREAS the Road User Safety Program provides comprehensive, evidence-based solutions to reduce serious injuries and fatalities on Regional Roads, with an emphasis on reducing serious collisions involving vulnerable road users including in school zones;</p>\n<p>WHEREAS revenues from Automated Speed Enforcement (ASE) in school zones would have funded the Road Safety Reserve as a primary funding source for the Road User Safety Program;</p>\n<p>THEREFORE BE IT RESOLVED that Regional staff report to the Sustainability, Infrastructure, and Development Committee by Q2 2026 and following wind-down of the ASE program to:</p>\n<ol>\n<li>Establish how to allocate the remaining Road Safety Reserve balance to fund school zone road safety initiatives starting in 2026; and</li>\n<li>Provide options on how to fund the Road Safety Reserve in future years, including but not limited to sources from transportation user fees and redlight camera revenues.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m22",
+   "item": "41",
+   "item_number": "15.2",
+   "item_title": "Councillor J. Gowing, Re: Bulky Item Collection Frequency Review",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That the Regional Municipality of Waterloo direct staff be directed to explore alternative service frequency models for the Region’s bulky item collection program, including: Monthly collection; Semi-monthly (every two months) collection; Semi-annual collection; And maintaining the current biweekly model as a baseline comparator. And that staff report back to Council with: A comprehensive cost-benefit analysis of each model, including projected operational savings, fleet and staffing impacts, contract considerations, and administrative efficiencies. An assessment of environmental and community impacts , including potential changes to waste diversion, illegal dumping risks, and any required mitigation strategies. An analysis of resident experience implications , including accessibility and communication requirements. A recommended optimal scenario based on financial, operational, environmental, and community impacts. Options for phased implementation , pilot testing, or transition planning should Council consider changing the current service frequency.",
+   "text_html": "<p>That the Regional Municipality of Waterloo direct staff be directed to explore alternative service frequency models for the Region’s bulky item collection program, including:</p>\n<ul>\n<li>Monthly collection;</li>\n<li>Semi-monthly (every two months) collection;</li>\n<li>Semi-annual collection;</li>\n<li>And maintaining the current biweekly model as a baseline comparator.</li>\n</ul>\n<p>And that staff report back to Council with:</p>\n<ol>\n<li>A <strong>comprehensive cost-benefit analysis</strong> of each model, including projected operational savings, fleet and staffing impacts, contract considerations, and administrative efficiencies.</li>\n<li>An assessment of <strong>environmental and community impacts</strong>, including potential changes to waste diversion, illegal dumping risks, and any required mitigation strategies.</li>\n<li>An analysis of <strong>resident experience implications</strong>, including accessibility and communication requirements.</li>\n<li>A recommended <strong>optimal scenario</strong> based on financial, operational, environmental, and community impacts.</li>\n<li><strong>Options for phased implementation</strong>, pilot testing, or transition planning should Council consider changing the current service frequency.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m23",
+   "item": "44",
+   "item_number": "15.3",
+   "item_title": "Councillor D. Craig, Re: Continued Election of Regional Chair",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "Whereas the region of Waterloo has a long standing governance model in which the Regional Chair is elected by the voters of the entire region, providing a direct democratic mandate, And where as the Regional Chair presides over decisions affecting all residents of the Region of Waterloo, including taxation, growth management, housing, public health , policing and social services, And whereas, the direct election of the Regional Chair enhances accountability, transparency, and public confidence in regional decision making, And whereas, provincially appointed municipal roles reduce the local democratic choice and weaken the principle that municipal governments are creatures of local representation, not provincial discretion, And whereas, any change to the method of selecting the Regional Chair should respect local traditions and be undertaken only with the consent of the affected community, Therefore Be It Resolved That The Council of the Region of Waterloo formally requests the Province of Ontario to affirm and support the continued election of the Regional Chair by the voters of the Region of Waterloo, And that the province be requested not to impose or advance legislation that would replaced an elected chair with a provincially appointed position, And that the province be further requested to consult with the Region of Waterloo and its area municipalities prior to any proposed changes to the regional governance structure, And that a copy of this motion be forwarded to: The Premier of Ontario; The Minister of Municipal Affairs and Housing; The Minister of Finance; All members of Provincial Parliament representing Waterloo Region; and The Association of Municipalities of Ontario (AMO).",
+   "text_html": "<p>Whereas the region of Waterloo has a long standing governance model in which the  Regional Chair is elected by the voters of the entire region, providing a direct democratic mandate,</p>\n<p>And where as the Regional Chair presides over decisions affecting all residents of the Region of Waterloo, including taxation, growth management, housing, public health , policing and social services,</p>\n<p>And whereas, the direct election of the Regional Chair enhances accountability, transparency, and public confidence in  regional decision making,</p>\n<p>And whereas, provincially appointed municipal roles reduce the local democratic choice and weaken the principle that municipal governments are creatures of local representation, not provincial discretion,</p>\n<p>And whereas, any change to the method of selecting the Regional Chair should respect local traditions and be undertaken only with the consent of the affected community,</p>\n<p>Therefore Be It Resolved That</p>\n<p>The Council of the Region of Waterloo formally requests the Province of Ontario to affirm and support the continued election of the Regional Chair by the voters of the Region of Waterloo,</p>\n<p>And that the province be requested not to impose or advance legislation that would replaced an elected chair with a provincially appointed position,</p>\n<p>And that the province be further requested to consult with the Region of Waterloo and its area municipalities prior to any proposed changes to the regional governance structure,</p>\n<p>And that a copy of this motion be forwarded to:</p>\n<ol>\n<li>The Premier of Ontario;</li>\n<li>The Minister of Municipal Affairs and Housing;</li>\n<li>The Minister of Finance;</li>\n<li>All members of Provincial Parliament representing Waterloo Region; and</li>\n<li>The Association of Municipalities of Ontario (AMO).</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m24",
+   "item": "69",
+   "item_number": "18.1",
+   "item_title": "Motion to go into Closed Session - February 7, 2026",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Erb",
+   "text": "That a closed meeting of Special Council be held on February 7, 2026 at 8:00 a.m. in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: 1. Receiving information related to identifiable individuals regarding staffing.",
+   "text_html": "<p>That a closed meeting of Special Council be held on February 7, 2026 at 8:00 a.m. in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<p>1. Receiving information related to identifiable individuals regarding staffing.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "James",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m25",
+   "item": "37",
+   "item_number": "20",
+   "item_title": "Enactment of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Shantz",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "James",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m26",
+   "item": "40",
+   "item_number": "20.1",
+   "item_title": "By-law 26-003",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Shantz",
+   "text": "That a By-law to Amend By-law Number 58-87, as Amended, Being a By-law to Designate and Regulate Controlled-Access Roads (Regional Road #28 – Homer Watson Boulevard, City of Kitchener and Regional Road #33 – Townline Road, City of Cambridge), be read a first, second and third time, finally passed and numbered 26-003, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Amend By-law Number 58-87, as Amended, Being a By-law to Designate and Regulate Controlled-Access Roads (Regional Road #28 – Homer Watson Boulevard, City of Kitchener and Regional Road #33 – Townline Road, City of Cambridge), be read a first, second and third time, finally passed and numbered 26-003, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m27",
+   "item": "38",
+   "item_number": "20.3",
+   "item_title": "By-law 26-005",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Shantz",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on January 28, 2026, be read a first, second and third time, finally passed and numbered 26-005, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on January 28, 2026, be read a first, second and third time, finally passed and numbered 26-005, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m28",
+   "item": "39",
+   "item_number": "21",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Foxton",
+   "text": "That the meeting adjourn at 12:25 a.m.",
+   "text_html": "<p>That the meeting adjourn at 12:25 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "James",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

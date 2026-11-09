@@ -1,0 +1,536 @@
+{
+ "title": "Special Council - January 07, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf",
+  "Liggett"
+ ],
+ "absent": [
+  "Liggett"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 528.924,
+   "video_end": 530.143,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 6:00 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 530.143,
+   "video_end": 587.471,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 587.471,
+   "video_end": 612.049,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "4",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 612.049,
+   "video_end": 706.096,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "4.3",
+   "title": "Brooklin Wallis, Kitchener",
+   "closed": false,
+   "video_start": 746.44,
+   "video_end": 1075.043,
+   "notes": [
+    "<p>B. Wallis expressed the importance of caring for all citizens of the Region of Waterloo and that there needs to be investment in an alternative location or that the Region establish a public camping by-law.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "4.4",
+   "title": "Benny Skinner, Waterloo",
+   "closed": false,
+   "video_start": 1075.043,
+   "video_end": 1492.767,
+   "notes": [
+    "<p>B. Skinner expressed concern about the proposed by-law specifically the language used and lack of resources and alternative location for the encampment. They requested that the Region reallocate funding that has been designated to the Waterloo Regional Police Services budget to fund housing supports.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "4.1",
+   "title": "Heidi Holmes, Waterloo",
+   "closed": false,
+   "video_start": 706.096,
+   "video_end": 1791.281,
+   "notes": [
+    "<p>H. Holmes expressed concerns related to the encampment, specifically that there have been significant budgetary and resource investments. She requested that the ongoing litigation and delays be concluded in order to decrease the budgetary impact of the encampment.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "4.5",
+   "title": "Tanner Bergsma, Waterloo",
+   "closed": false,
+   "video_start": 1791.281,
+   "video_end": 2362.513,
+   "notes": [
+    "<p>T. Bergsma requested that the Region provide additional support and resources for transitional housing and mental health services. He highlighted that if there are proper investments would ultimately save the Region funding.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "4.2",
+   "title": "Laura Mosher, Kitchener",
+   "closed": false,
+   "video_start": 2123.546,
+   "video_end": 2137.405,
+   "notes": [
+    "<p>L. Mosher expressed concerns that requesting public feedback has been performative and that the Region and the proposed by-law are against human rights. They referenced the legal decisions related to the encampment and that any approach should align with court orders.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "4.6",
+   "title": "Laura Coakley, Kitchener",
+   "closed": false,
+   "video_start": 2362.513,
+   "video_end": 2669.663,
+   "notes": [
+    "<p>L. Coakley expressed concern that there are an inadequate number of emergency shelter beds, specifically that access for shelter beds can be limited based on gender, situation, and age. She highlighted that there are not enough shelter beds for women or gender diverse individuals. They requested that the information provided to the public on shelter beds needs to be intentional and accurate.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "4.7",
+   "title": "Kathy Eckert, Kitchener",
+   "closed": false,
+   "video_start": 2669.663,
+   "video_end": 2947.972,
+   "notes": [
+    "<p>K. Eckert expressed concern about the treatment of citizens, specifically individuals that have been historically marginalized, and they requested that the human rights and that the related court decision be upheld.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "21",
+   "number": "4.8",
+   "title": "Meagan Snyder, Kitchener",
+   "closed": false,
+   "video_start": 2947.972,
+   "video_end": 3119.826,
+   "notes": [
+    "<p>M. Snyder expressed concern that the proposed by-law does not address the need for alternative sites and that the number of emergency shelter beds does not comply with the court decision related to 100 Victoria Street.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "22",
+   "number": "4.9",
+   "title": "Jacara Droog, Kitchener",
+   "closed": false,
+   "video_start": 3119.826,
+   "video_end": 3409.314,
+   "notes": [
+    "<p>J. Droog expressed concern with proposed by-law amendment. They further expressed concern related to the notice of the encampment information session held on January 5, 2026, specifically that the notice was posted in an inaccessible location due to the weather conditions which made the notice also difficult to read. She requested that the Region repeal the by-law and provide adequate supports for individuals experiencing homelessness.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "23",
+   "number": "4.10",
+   "title": "Tanavya Dimri, Waterloo",
+   "closed": false,
+   "video_start": 3409.314,
+   "video_end": 3419.939,
+   "notes": [
+    "<p>Did not appear when called.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Correspondence - Tanavya Dimri.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15950"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "24",
+   "number": "4.11",
+   "title": "Lesley Crompton, Waterloo",
+   "closed": false,
+   "video_start": 3419.939,
+   "video_end": 3772.367,
+   "notes": [
+    "<p>L. Crompton expressed concerns with the bed availability and that demographics impact access to shelter beds which can result in available shelter beds that are inaccessible to individuals that may need them, but cannot access them for various reasons. She expressed further concern that the approach on removing individuals from the encampment have not been provided to the public.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "4.11 - Lesley Crompton Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15947"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "25",
+   "number": "4.12",
+   "title": "Preston Parsons, St. John the Evangelist Anglican Church",
+   "closed": false,
+   "video_start": 3772.367,
+   "video_end": 3772.836,
+   "notes": [
+    "<p>The delegation withdrew.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "26",
+   "number": "4.13",
+   "title": "Rob Deutschmann, North Dumfries",
+   "closed": false,
+   "video_start": 3772.836,
+   "video_end": 3975.07,
+   "notes": [
+    "<p>R. Deutschmann expressed concern related to the legalities of the proposed by-law. He highlighted various legal issues related to constitutional rights and procedural fairness. He requested that Council direct staff to establish a court aligned compliance plan that provides housing solutions.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Rob Deutschmann Written Submission.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15946"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "28",
+   "number": "4.14",
+   "title": "Abe Fehre, Kitchener",
+   "closed": false,
+   "video_start": 3975.07,
+   "video_end": 4300.375,
+   "notes": [
+    "<p>A. Fehre expressed support for the closure of the encampment and requested that the Region not delay next steps to commence construction on the site.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "4.15",
+   "title": "Ryan Murdock, Kitchener",
+   "closed": false,
+   "video_start": 4300.375,
+   "video_end": 4628.914,
+   "notes": [
+    "<p>R. Murdock requested that the Region establish a public camping by-law to ensure that individuals have the ability to setup a shelter. He further requested that the Region follow the direction of the Valente legal decision.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "30",
+   "number": "4.16",
+   "title": "Maria Karanicolas, Guelph",
+   "closed": false,
+   "video_start": 4628.914,
+   "video_end": 4876.603,
+   "notes": [
+    "<p>M. Karanicolas requested that the Region invest in long term community-led solutions as there are not enough shelter beds for individuals experiencing homelessness. She provided various next steps such as repealing the by-law, establishing a public camping by-law, and follow the decision of the courts.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "31",
+   "number": "4.17",
+   "title": "Robbie Solway, Kitchener",
+   "closed": false,
+   "video_start": 4876.603,
+   "video_end": 5037.444,
+   "notes": [
+    "<p>R. Solway expressed the importance of housing stability and requested that the Region repeal the by-law.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "33",
+   "number": "4.18",
+   "title": "Lynn Intini, Kitchener",
+   "closed": false,
+   "video_start": 5037.444,
+   "video_end": 5396.87,
+   "notes": [
+    "<p>L. Intini expressed frustration with the lack of opportunity to provide public input and that there has been a lack of communication with individuals at the encampment site. She requested that a location be selected to ensure that individuals have a place to establish a shelter with no restrictions.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "4.19",
+   "title": "Julian Ichim, Kitchener",
+   "closed": false,
+   "video_start": 5396.87,
+   "video_end": 5645.157,
+   "notes": [
+    "<p>J. Ichim expressed concern that there are not enough shelter beds available for those experiencing homelessness in the Region. They further expressed frustration with the mediation process that there was not proper representation of individuals experiencing homelessness and living at 100 Victoria St. encampment. He reiterated the importance of human rights and ensuring that all individuals are cared for.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "35",
+   "number": "4.20",
+   "title": "Theo Zhou, Waterloo",
+   "closed": false,
+   "video_start": 5645.157,
+   "video_end": 5750.748,
+   "notes": [
+    "<p>T. Zhou requested that Regional Council repeal By-law 25-021 and that a public camping by-law be passed to ensure that individuals experiencing homelessness can access shelter.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "36",
+   "number": "4.21",
+   "title": "Ambarish Suresh, Kitchener",
+   "closed": false,
+   "video_start": 5750.748,
+   "video_end": 5947.125,
+   "notes": [
+    "<p>A. Suresh explained that 100 Victoria Street is currently being used as a place of last resort and if access is removed there needs to be an alternative site as he stated that there are not enough shelter beds. He expressed concern with the definition of resident in the proposed by-law as the classification is based on the date of April 16th which is dismissive of individuals that needed to shelter at the encampment following that date. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "37",
+   "number": "4.22",
+   "title": "Valerie Morris, Kitchener",
+   "closed": false,
+   "video_start": 5947.125,
+   "video_end": 6179.851,
+   "notes": [
+    "<p>V. Morris expressed concern that individual human rights and human needs are not being protected and that this by-law is causing more harm than providing life-saving solutions.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "38",
+   "number": "4.23",
+   "title": "Alex Cocco, Kitchener",
+   "closed": false,
+   "video_start": 6179.851,
+   "video_end": 6264.754,
+   "notes": [
+    "<p>A. Cocco expressed concern with the eviction of individuals at 100 Victoria Street when there are no alternative living solutions being provided.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "39",
+   "number": "4.24",
+   "title": "Chris Varga, Kitchener",
+   "closed": false,
+   "video_start": 6264.754,
+   "video_end": 7258.501,
+   "notes": [
+    "<p>C. Varga expressed frustration with the current system that creates a cycle of unaffordable living that can lead to homelessness. They requested that human rights be prioritized and that vacant buildings be considered as affordable options.</p>\n<p>Council recessed at 7:43 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "40",
+   "number": "4.25",
+   "title": "Adrian Hastings-Fuhr, Waterloo",
+   "closed": false,
+   "video_start": 7258.501,
+   "video_end": 7530.149,
+   "notes": [
+    "<p>Council resumed at 7:54 p.m.</p>\n<p>A. Hastings-Fuhr expressed concern with the lack of options for individuals experiencing homelessness and that the Region should establish a safe encampment locations prior to closing 100 Victoria St. </p>\n<p> </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "41",
+   "number": "4.26",
+   "title": "Zofia Wajda, Kitchener",
+   "closed": false,
+   "video_start": 7530.149,
+   "video_end": 7581.724,
+   "notes": [
+    "<p>Z. Wajda expressed frustration with the lack of support for the residents of 100 Victoria Street and requested that Council care for Regional residents.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "5",
+   "title": "Correspondence",
+   "closed": false,
+   "video_start": 7581.724,
+   "video_end": 7589.005,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "27",
+   "number": "5.1",
+   "title": "Kevin White",
+   "closed": false,
+   "video_start": 7589.005,
+   "video_end": 7589.818,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Correspondence - Kevin White.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15948"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "32",
+   "number": "5.2",
+   "title": "Phil O'Donnell",
+   "closed": false,
+   "video_start": 7589.818,
+   "video_end": 7591.474,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Phil O'Donnell Correspondence.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15949"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "6",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 7591.474,
+   "video_end": 7634.394,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "13",
+   "item_number": "6",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That the meeting adjourn at 7:59 p.m.",
+   "text_html": "<p>That the meeting adjourn at 7:59 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

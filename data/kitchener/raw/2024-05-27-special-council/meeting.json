@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "920b08e0-ee4a-4883-8760-105504009ff5",
+ "city": "kitchener",
+ "key": "2024-05-27-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2024-05-27T15:00:00",
+ "end": "2024-05-27T17:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=920b08e0-ee4a-4883-8760-105504009ff5&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=18359",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=920b08e0-ee4a-4883-8760-105504009ff5&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=920b08e0-ee4a-4883-8760-105504009ff5&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=920b08e0-ee4a-4883-8760-105504009ff5"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=920b08e0-ee4a-4883-8760-105504009ff5",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "ee1e2dad3e957e6bd095820a999bf818fce871b8a408bbe150b544b665912da7"
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "title": "Special Council Meeting - September 25, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Davey",
+  "Schnider",
+  "Deneault",
+  "Michaud",
+  "Owodunni",
+  "Singh",
+  "Ioannidis",
+  "Johnston",
+  "Chapman",
+  "Clancy"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "13",
+   "number": "1",
+   "title": "Waive Notice - Amend Meeting Start Time",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Prior to beginning the Special Council meeting this date, it was noted Council was being requested to Waive Notice to amend the start time of the meeting this date.</p>\n<p>To approve the amended start time, 2/3 of the Whole of Council is required.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "1",
+   "number": "2",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 14.035,
+   "video_end": 97.942,
+   "notes": [
+    "<p>A meeting of City Council was held at 4:59 p.m this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 97.942,
+   "video_end": 103.677,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "4",
+   "title": "Mayoral Business and Updates - Mayor B. Vrbanovic",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "5",
+   "title": "In-camera Meeting Authorization",
+   "closed": false,
+   "video_start": 103.677,
+   "video_end": 119.255,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "10",
+   "number": "6",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 119.255,
+   "video_end": 124.849,
+   "notes": [
+    "<p>On motion the meeting adjourned at 5:03 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "13",
+   "item_number": "1",
+   "item_title": "Waive Notice - Amend Meeting Start Time",
+   "name": "",
+   "moved_by": "Johnston",
+   "seconded_by": "Deneault",
+   "text": "\"That pursuant to Section 25.4.4 (g) of Chapter 25 (Council Procedure) of the Municipal Code, Council waive notice to amend the start time of the special meeting to commence immediately rather than at 5:30 p.m.”",
+   "text_html": "<p>\"That pursuant to Section 25.4.4 (g) of Chapter 25 (Council Procedure) of the Municipal Code, Council waive notice to amend the start time of the special meeting to commence immediately rather than at 5:30 p.m.”</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "7",
+   "item_number": "5",
+   "item_title": "In-camera Meeting Authorization",
+   "name": "",
+   "moved_by": "Clancy",
+   "seconded_by": "Chapman",
+   "text": "\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider a labour relations matter as authorized by Section 239 (d) of the Municipal Act, 2001, respectively.\"",
+   "text_html": "<p>\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider a labour relations matter as authorized by Section 239 (d) of the Municipal Act, 2001, respectively.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

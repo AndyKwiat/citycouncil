@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "525f75d0-bb86-42a0-8da4-b35aed100262",
+ "city": "kitchener",
+ "key": "2023-03-20",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2023-03-20T18:00:00",
+ "end": "2023-03-20T23:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=525f75d0-bb86-42a0-8da4-b35aed100262&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=9647",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=525f75d0-bb86-42a0-8da4-b35aed100262&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=525f75d0-bb86-42a0-8da4-b35aed100262&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=525f75d0-bb86-42a0-8da4-b35aed100262"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=525f75d0-bb86-42a0-8da4-b35aed100262",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "c5869ec7615f974190009de17af23e5ba65fd720e0160f3b41ddece06bc0ed32"
+ }
+}

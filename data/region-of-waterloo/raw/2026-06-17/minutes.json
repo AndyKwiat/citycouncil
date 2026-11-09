@@ -1,0 +1,2402 @@
+{
+ "title": "Council Meeting - June 17, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 471.418,
+   "video_end": 473.856,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 5:00 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 473.856,
+   "video_end": 615.903,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Conflict of Interest",
+   "closed": false,
+   "video_start": 615.903,
+   "video_end": 622.044,
+   "notes": [
+    "<p>M. Rodrigues declared a conflict of interest on item 12.2 Street Design Guidelines.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "89",
+   "number": "4",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 622.044,
+   "video_end": 4829.493,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "4",
+   "number": "5",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": 7726.935,
+   "video_end": 7864.296,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 7881.921,
+   "video_end": 7882.374,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "88",
+   "number": "6.1",
+   "title": "Waterloo Regional Police Service 2026 Mid-Year Update",
+   "closed": false,
+   "video_start": 7878.436,
+   "video_end": 12035.98,
+   "notes": [
+    "<p>Mark Crowell, Waterloo Regional Police Services (WRPS) Chief, provided the mid-year update to Regional Council. He highlighted the service calls and the different crimes experienced around the Region and the overall decrease in crime rates, with the exception of speeding. He discussed the use of speed cameras and the anticipated positive impact with the reintroduction of automated speed enforcement to assist with enforcement.</p>\n<p>Responding to Council, M. Crowell discussed the Not in my City program and ongoing youth engagement. He also discussed the significant impact of using digital tools that are used to conduct fraud. He noted the importance of utilization of the Community Safety and Well-Being Plan to actively invest in collaboration, youth, and advocacy. He clarified that there are eight (8) dedicated officers to address fraud incidents.</p>\n<p>Council acknowledged the efforts of the WRPS during public events, specifically at the 2026 Victoria Day celebrations.</p>\n<p>In response to Council, he explained that there are several initiatives to combat hate, such as the 'We All Belong Here' campaign, however, the trend toward radicalism and an increase to hate towards minority groups.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "6.1 2026 Chief's Mid-Year Presentation to Regional Council.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19355"
+    },
+    {
+     "name": "WRPS 2025 Annual Report.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19356"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Petitions",
+   "closed": false,
+   "video_start": 12035.98,
+   "video_end": 12037.339,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 12037.339,
+   "video_end": 12037.902,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "108",
+   "number": "8.1",
+   "title": "Fauzia Mazhar, Centre for Mutual Wellbeing",
+   "closed": false,
+   "video_start": 12037.902,
+   "video_end": 12767.251,
+   "notes": [
+    "<p>F. Mazhar, Centre for Mutal Wellbeing, noted that the Coalition of Muslim Women of KW to Centre for Mutual Wellbeing (CMW), with the tagline For Racialized Communities. This change came from strategic planning, community listening, and a careful assessment of where our impact is strongest.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "CMW Presentation(1).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19358"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "109",
+   "number": "8.2",
+   "title": "Andrew Macallum, Waterloo",
+   "closed": false,
+   "video_start": 12767.251,
+   "video_end": 13223.035,
+   "notes": [
+    "<p>A. Macallum provided a delegation on the application of fines for false alarms across the Region. He acknowledged that the administration and oversight of fire programs is within the jurisdiction of the local municipality.  </p>"
+   ],
+   "attachments": [
+    {
+     "name": "8.2(1).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19359"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "77",
+   "number": "8.3",
+   "title": "Joseph Puopolo, Polocorp Inc.",
+   "closed": false,
+   "video_start": 13223.035,
+   "video_end": 13600.943,
+   "notes": [
+    "<p>J. Puopolo expressed that the proposed framework is a good first step, but that additional work is required to ensure that development can proceed so that individuals working in the sector can continue to work and contribute to the Region's future growth.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "78",
+   "number": "8.4",
+   "title": "Larry Masseo, Waterloo Region Home Builders' Association",
+   "closed": false,
+   "video_start": 13600.943,
+   "video_end": 13957.758,
+   "notes": [
+    "<p>L. Masseo, Waterloo Region Home Builders' Association, expressed the importance of continued collaboration between Council, public organizations, and staff. He further expressed concern with the uncertainty of allocated water capacity and how it may contribute to further uncertainty in the housing market. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "87",
+   "number": "8.5",
+   "title": "Katherine Rastel, Kitchener",
+   "closed": false,
+   "video_start": 13957.758,
+   "video_end": 13965.102,
+   "notes": [
+    "<p>K. Ratsel did not appear when called.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "86",
+   "number": "8.6",
+   "title": "Lake Trefler, Kitchener",
+   "closed": false,
+   "video_start": 13965.102,
+   "video_end": 13975.789,
+   "notes": [
+    "<p>L. Trefler did not appear when called.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "84",
+   "number": "8.7",
+   "title": "Chris Gerrits, ReOpen Waterloo",
+   "closed": false,
+   "video_start": 13975.789,
+   "video_end": 14235.822,
+   "notes": [
+    "<p>C. Gerrits, ReOpen Waterloo, provided an overview of historical water usage needs for both planned and unplanned shutdowns. He suggested that the framework demonstrates that proposed water allocations fall under the sustainable yield threshold and do not exceed that threshold.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "85",
+   "number": "8.8",
+   "title": "Melissa Durrell, Build Urban",
+   "closed": false,
+   "video_start": 14235.822,
+   "video_end": 14497.636,
+   "notes": [
+    "<p>M. Durrell, Build Urban, expressed concern about the potential negative impacts related to the pause of development due to water capacity constraints. She noted that the pause on development has implications related to housing and availability of work for the development community.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "91",
+   "number": "8.9",
+   "title": "Pierre Chauvin, MHBC Planning",
+   "closed": false,
+   "video_start": 14497.636,
+   "video_end": 14964.796,
+   "notes": [
+    "<p>P. Chauvin, MHBC Planning, expressed concern with the delay of service agreements and the negative impact on new housing buyers. He requested that all previously approved projects be allowed to proceed so that servicing agreements can be signed.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "92",
+   "number": "8.10",
+   "title": "Heather Wombwell, Kitchener",
+   "closed": false,
+   "video_start": 14964.796,
+   "video_end": 15196.515,
+   "notes": [
+    "<p>H. Wombwell expressed the importance of hybrid buses and improving accessibility to transit system. They also noted that the transit terminal planned for 100 Victoria Street N. should not take precedence over individuals that live at the encampment. She continued that the Region should provide housing options as per the Justice Gibson decision to then make the site available to continue with the transit terminal.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "93",
+   "number": "8.11",
+   "title": "Matt Ninomiya, WalterFedy",
+   "closed": false,
+   "video_start": 15196.515,
+   "video_end": 15473.907,
+   "notes": [
+    "<p>M. Ninomiya, WalterFedy, spoke to the water capacity issue, specifically, that the execution of Form 1s is for the area municipalities to determine and that Form 1s can be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "102",
+   "number": "8.12",
+   "title": "Craig Robson, North Dumfries",
+   "closed": false,
+   "video_start": 15473.907,
+   "video_end": 15823.036,
+   "notes": [
+    "<p>C. Robson expressed concern with the draft water allocation agreements; specifically with the perceived lack of commitment from the Region to deliver on committed water supply.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "104",
+   "number": "8.13",
+   "title": "Tom Strickland, CycleWR",
+   "closed": false,
+   "video_start": 15823.036,
+   "video_end": 16171.851,
+   "notes": [
+    "<p>T. Strickland, CycleWR, requested that Council amend the proposed Street Design Guidelines to improve active transportation, such as the increased use of multi-use pathway and the elimination of parking on Regional Roads.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "110",
+   "number": "8.14",
+   "title": "Joe Benninger, CBRE",
+   "closed": false,
+   "video_start": 16171.851,
+   "video_end": 16450.993,
+   "notes": [
+    "<p>J. Benninger, CBRE, expressed concern related to the pause in the approval of building permits due to the water capacity concerns. He noted that the uncertainties have and will continue to negatively impact the economic outlook if the development and finance communities are unwilling to invest at the Region.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Minutes of Previous Meetings",
+   "closed": false,
+   "video_start": 16450.993,
+   "video_end": 16536.119,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "10",
+   "number": "9.1",
+   "title": "Closed Council - May 20, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "9.2",
+   "title": "Council - May 20, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "65",
+   "number": "9.3",
+   "title": "Special Council - May 28, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "66",
+   "number": "9.4",
+   "title": "Closed Council - May 28, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "9.7",
+   "title": "Closed Committee - June 2, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "9.8",
+   "title": "Administration and Finance Committee - June 2, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "9.9",
+   "title": "Community and Health Services Committee - June 2, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "9.10",
+   "title": "Sustainability, Infrastructure, and Development Committee - June 2, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "9.11",
+   "title": "Special Council - June 2, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "63",
+   "number": "9.12",
+   "title": "Special Council - June 3, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "64",
+   "number": "9.13",
+   "title": "Closed Council - June 3, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "10",
+   "title": "Communications",
+   "closed": false,
+   "video_start": 16536.119,
+   "video_end": 16536.432,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "10.1",
+   "title": "Council Information Package - June 10, 2026 (Distributed to Councillors Electronically)",
+   "closed": false,
+   "video_start": 16536.432,
+   "video_end": 16536.994,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "71",
+   "number": "10.2",
+   "title": "Correspondence, Arnold Radford",
+   "closed": false,
+   "video_start": 16536.994,
+   "video_end": 16537.994,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Formal Correspondence for Regional Council - Arnold Radford_Redacted.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19343"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "99",
+   "number": "10.3",
+   "title": "Correspondence, Activa",
+   "closed": false,
+   "video_start": 16537.994,
+   "video_end": 16538.447,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Activa letter to Regional Council June 15 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19351"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "100",
+   "number": "10.4",
+   "title": "Correspondence, Matthew Harvey",
+   "closed": false,
+   "video_start": 16538.447,
+   "video_end": 16539.588,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Re_ No right turns on red pilot_Redacted.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19352"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "103",
+   "number": "10.5",
+   "title": "Correspondence, Aaron Thorpe",
+   "closed": false,
+   "video_start": 16539.588,
+   "video_end": 16540.119,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "New Response Completed for Council Correspondence_Redacted.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19353"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "105",
+   "number": "10.6",
+   "title": "Correspondence, Tri-Cities Transport Action Group",
+   "closed": false,
+   "video_start": 16540.119,
+   "video_end": 16541.291,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Tri-Cities Transport Action Group.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19354"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "107",
+   "number": "10.7",
+   "title": "Correspondence, Parachute",
+   "closed": false,
+   "video_start": 16541.213,
+   "video_end": 16541.291,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Parachute Correspondence.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19357"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "112",
+   "number": "10.8",
+   "title": "Correspondence, Cornerstone Association of Realtors",
+   "closed": false,
+   "video_start": 16541.291,
+   "video_end": 16542.447,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Cornerstone Association of Realtors.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19360"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "113",
+   "number": "10.9",
+   "title": "Correspondence. Davies Howe",
+   "closed": false,
+   "video_start": 16542.447,
+   "video_end": 16545.526,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Kitchener Trussler Holdings Inc and Davies Howe.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19361"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "11",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 16545.526,
+   "video_end": 16546.963,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "21",
+   "number": "11.1",
+   "title": "Finance Reports",
+   "closed": false,
+   "video_start": 16546.963,
+   "video_end": 17338.858,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "72",
+   "number": "11.1.1",
+   "title": "COR-TRY-26-019, T2024-147 Waterloo Region Housing Underground Services Replacement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Increase to T2024-147 Waterloo Region Housing Underground Services Replacement - COR-TRY-26-019.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19336"
+    }
+   ],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "75",
+   "number": "11.1.2",
+   "title": "COR-TRY-26-020, P2024-28 Region of Waterloo Surplus Land for Affordable Housing 30 Lauris Avenue, Cambridge",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "P2024-28 Region of Waterloo Surplus Land for Affordable Housing 30 Lauris Avenue, Cambridge - COR-TRY-26-020.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19337"
+    }
+   ],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "76",
+   "number": "11.1.3",
+   "title": "COR-TRY-26-021, Procurement of Nineteen (19) Hybrid Transit Buses",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Procurement of Nineteen (19) Hybrid Transit Buses - COR-TRY-26-021.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19338"
+    },
+    {
+     "name": "Appendix A - Detailed Financial Implications.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19339"
+    }
+   ],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "22",
+   "number": "11.2",
+   "title": "Committee Reports",
+   "closed": false,
+   "video_start": 17339.108,
+   "video_end": 17340.436,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "70",
+   "number": "11.2.1",
+   "title": "Community and Health Services Committee Summary - June 2, 2026",
+   "closed": false,
+   "video_start": 17338.858,
+   "video_end": 17339.108,
+   "notes": [
+    "<p>There were no recommendations from the Community and Health Services Committee.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "73",
+   "number": "11.2.2",
+   "title": "Administration and Finance Committee - June 2, 2026",
+   "closed": false,
+   "video_start": 17340.436,
+   "video_end": 17407.39,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ]
+  },
+  {
+   "id": "74",
+   "number": "11.2.3",
+   "title": "Sustainability, Infrastructure, and Development Committee - June 2, 2026",
+   "closed": false,
+   "video_start": 17407.39,
+   "video_end": 17471.0,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ]
+  },
+  {
+   "id": "45",
+   "number": "11.2.4",
+   "title": "Closed Council Summary - June 17, 2026",
+   "closed": false,
+   "video_start": 17471.0,
+   "video_end": 17532.735,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ]
+  },
+  {
+   "id": "24",
+   "number": "11.3",
+   "title": "Board of Health",
+   "closed": false,
+   "video_start": 17532.735,
+   "video_end": 17534.454,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "12",
+   "title": "Other Matters",
+   "closed": false,
+   "video_start": 17534.61,
+   "video_end": 17643.689,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "58",
+   "number": "12.1",
+   "title": "2026-2028 AMO Board of Directors Elections",
+   "closed": false,
+   "video_start": 17534.344,
+   "video_end": 17534.61,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ]
+  },
+  {
+   "id": "83",
+   "number": "12.2",
+   "title": "TSD-TRP-26-010, Street Design Guidelines Council Approval Report",
+   "closed": false,
+   "video_start": 17817.908,
+   "video_end": 18910.729,
+   "notes": [
+    "<p>M. Goetzke provided a brief overview of the updates to the Street Design Guidelines based on Council feedback.</p>\n<p>Council expressed concern with the guidelines that provide for part gravel and part asphalt road shoulders and how it does not work well for horses. In response to these concerns, M. Goetzke did confirm that that guideline was the compromise that was reached after consultation with rural road users and members of the mennonite community.</p>\n<p>M. Rodrigues declared a conflict of interest on this item.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Street Design Guidelines Council Approval Report - TSD-TRP-26-010.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19340"
+    },
+    {
+     "name": "Appendix A - TSD-TRP-26-007, Street Design Guidelines Council Approval Report.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19341"
+    },
+    {
+     "name": "Appendix B - TSD-TRP-26-010 Street Design Guidelines June 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19342"
+    }
+   ],
+   "motions": [
+    "m12",
+    "m13"
+   ]
+  },
+  {
+   "id": "97",
+   "number": "12.3",
+   "title": "EES-WIM-26-013, Supporting Information for June 3, 2026 Council Resolutions",
+   "closed": false,
+   "video_start": 18910.729,
+   "video_end": 21343.822,
+   "notes": [
+    "<p>D. Bhatti introduced the presentation related to addressing the Council questions and resolutions from the Special Council meeting on June 3, 2026. A copy of the presentation was attached to the agenda.</p>\n<p>Pam Law, Director, Projects (Water Capacity), provided an update on the Water Capacity Constraint, specifically the collaborative work that has been progressed to develop a framework that will allow for continued development. She provided a comparison on the impact of the water system when comparing the framework versus the proposed 10% resiliency. </p>\n<p>Council inquired into if proposed motion would fit in with the interim risk management framework (IRMF). Staff confirmed that allocation will be dealt with through the allocation policy and that it will work in conjunction with the IRMF. Staff also confirmed that the 20 l/s will be released as long as milestones are met and that no unforeseen circumstances arise that delay the construction of additional capacity. Staff also committed to continuing to provide Council with regular updates.</p>\n<p>Council also inquired if currently approved subdivisions that wont be built for another one to three years are currently counted towards current demand on water. Staff elaborated that those subdivisions would not be counted towards current demand until approved through the applicable area municipalities' own allocation policy.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WIM-26-013, Supporting Information for June 3, 2026 Council Resolutions.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19349"
+    },
+    {
+     "name": "Appendix A- Mannheim Service Area Water Capacity Constraint Update- June 17.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19350"
+    }
+   ],
+   "motions": [
+    "m14"
+   ]
+  },
+  {
+   "id": "98",
+   "number": "12.3.1",
+   "title": "Related Direction - June 3, 2026",
+   "closed": false,
+   "video_start": 21343.822,
+   "video_end": 21347.228,
+   "notes": [
+    "<p>This motion was withdrawn.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ]
+  },
+  {
+   "id": "96",
+   "number": "12.4",
+   "title": "PDL-GDS-26-017, Proposed Approach to Servicing Agreement Transfer Requests within the Mannheim Service Area",
+   "closed": false,
+   "video_start": 21347.228,
+   "video_end": 23510.696,
+   "notes": [
+    "<p>Rod Regier, Commissioner, Planning, Development, and Legislative Services, provided an introduction to the report.</p>\n<p>Council looked for confirmation on if water capacity is currently available for Activa's project. Amanda Kutler, Director, Regional Growth, Development, and Sustainability Services, explained that the capacity that was committed previously is not currently available as it was calculated using the previous methodology. This is why staff are looking to hold some capacity in reserve, so that it can meet the requirements of previously committed to projects. </p>\n<p>Staff also further clarified that it is not possible to move allocated water capacity around, as previous allocations no longer exist as the available capacity was calculated using the old methodology.</p>\n<p>Staff further clarified that while some projects do still have valid water allocations, the Region can not support moving forward in development as no allocation actually exists as the previous allocation was calculated using a different methodology. </p>\n<p>Council inquired into how many liters per second are required for the Region to be able to fully support previously approved projects. Staff explained that they are currently operating using an average of 2.64 l/s for plans of subdivision on a quarterly basis. Using this average allows staff to adjust water allocation based on what developments come online in any given quarter. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-GDS-26-017, Proposed Approach to Servicing Agreement Transfer Requests in Mannheim Service Area.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19348"
+    }
+   ],
+   "motions": [
+    "m16",
+    "m17",
+    "m18"
+   ]
+  },
+  {
+   "id": "95",
+   "number": "12.5",
+   "title": "PDL-GDS-26-018, Forward Looking Service Agreements (Response to Resolution 4)",
+   "closed": false,
+   "video_start": 23510.696,
+   "video_end": 25095.505,
+   "notes": [
+    "<p>R. Regier provided an introduction to the report and Alyssa Bridge, Associate Director, Development Services, provided a presentation. A copy of the presentation is attached to the agenda. </p>\n<p>Council inquired further into the responsibilities of the Region and the area municipalities for forward looking service agreements. Staff explained that these agreements are meant to share risk between the Region, the area municipality, and the developer, and that it would be a three party agreement. This was done to ensure all parties partake in risk sharing.</p>\n<p>Discussion ensued over whether it was fair for developers to share in the risk of the forward looking service agreements as the Region wants to encourage developers to resume home building. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-GDS-26-018, Forward Looking Service Agreements (Response to Resolution 4).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19344"
+    },
+    {
+     "name": "Draft Forward Looking Servicing Agreement Framework.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19345"
+    },
+    {
+     "name": "Forward_Looking_Servicing_Agreement_(June_2026).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19346"
+    },
+    {
+     "name": "Forward Looking Servicing Agreements Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19347"
+    }
+   ],
+   "motions": [
+    "m19",
+    "m20",
+    "m21",
+    "m22"
+   ]
+  },
+  {
+   "id": "94",
+   "number": "12.5.1",
+   "title": "Deferred Motion - June 3, 2026",
+   "closed": false,
+   "video_start": 24031.654,
+   "video_end": 24041.716,
+   "notes": [
+    "<p>This motion was withdrawn.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m23"
+   ]
+  },
+  {
+   "id": "32",
+   "number": "13",
+   "title": "Motions where notice has been provided",
+   "closed": false,
+   "video_start": 25095.505,
+   "video_end": 25096.051,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "33",
+   "number": "14",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": 25096.051,
+   "video_end": 25100.27,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "106",
+   "number": "14.1",
+   "title": "Councillor M. Rodrigues",
+   "closed": false,
+   "video_start": 25100.27,
+   "video_end": 25357.083,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m24",
+    "m25"
+   ]
+  },
+  {
+   "id": "34",
+   "number": "15",
+   "title": "Unfinished Business",
+   "closed": false,
+   "video_start": 25357.083,
+   "video_end": 25357.724,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "35",
+   "number": "16",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 25357.724,
+   "video_end": 25788.055,
+   "notes": [
+    "<p>Councillor D. Craig raised concerns over the Region's Security protocol for dealing with interruptions to Council meetings. Councillor D. Craig requested that a discussion of security measures occur at the next Council meeting. Several Councillors also raised concerns over security measures and requested that staff return to Council with proposed next steps.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "36",
+   "number": "17",
+   "title": "Questions",
+   "closed": false,
+   "video_start": 25788.055,
+   "video_end": 25788.477,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "37",
+   "number": "18",
+   "title": "Enactment of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 25788.477,
+   "video_end": 25822.727,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m26"
+   ]
+  },
+  {
+   "id": "69",
+   "number": "18.1",
+   "title": "By-law 26-032",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m27"
+   ]
+  },
+  {
+   "id": "46",
+   "number": "18.2",
+   "title": "By-law 26-033",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m28"
+   ]
+  },
+  {
+   "id": "68",
+   "number": "18.3",
+   "title": "By-law 26-034",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m29"
+   ]
+  },
+  {
+   "id": "90",
+   "number": "18.4",
+   "title": "By-law 26-035",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m30"
+   ]
+  },
+  {
+   "id": "111",
+   "number": "18.5",
+   "title": "By-Law 26-036",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m31"
+   ]
+  },
+  {
+   "id": "38",
+   "number": "18.6",
+   "title": "By-law 26-037",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m32"
+   ]
+  },
+  {
+   "id": "39",
+   "number": "19",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 25822.727,
+   "video_end": 25839.727,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m33"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "89",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Wolf",
+   "text": "That a closed meeting of the Council be held on June 17, 2026 at 5:05 p.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Discussion related to identifiable individuals for the purposes of selecting Jack Young Civic Award winners; Receiving information and discussion related to the acquisition and security of property for the Wilmot Land Assembly; *Discussion related to identifiable individuals to ratify the Waterloo Regional Heritage Foundation Board Member appointments; and *Receiving advice subject to solicitor-client privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint.",
+   "text_html": "<p>That a closed meeting of the Council be held on June 17, 2026 at 5:05 p.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Discussion related to identifiable individuals for the purposes of selecting Jack Young Civic Award winners;</li>\n<li>Receiving information and discussion related to the acquisition and security of property for the Wilmot Land Assembly;</li>\n<li>*Discussion related to identifiable individuals to ratify the Waterloo Regional Heritage Foundation Board Member appointments; and</li>\n<li>*Receiving advice subject to solicitor-client privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "4",
+   "item_number": "5",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Rodrigues",
+   "text": "That Council reconvene into Open Session.",
+   "text_html": "<p>That Council reconvene into Open Session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "9",
+   "item_number": "9",
+   "item_title": "Minutes of Previous Meetings",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Erb",
+   "text": "That the following minutes be approved.",
+   "text_html": "<p>That the following minutes be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "21",
+   "item_number": "11.1",
+   "item_title": "Finance Reports",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Foxton",
+   "text": "That the Finance Reports items be received for information and approved.",
+   "text_html": "<p>That the Finance Reports items be received for information and approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "72",
+   "item_number": "11.1.1",
+   "item_title": "COR-TRY-26-019, T2024-147 Waterloo Region Housing Underground Services Replacement",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Foxton",
+   "text": "That the Regional Municipality of Waterloo increase the contract with L82 East Construction Inc for the T2024-147 Waterloo Region Housing Underground Services Replacement at Thaler Ave, Kinzie Ave and Rutherford Dr Kitchener, Ontario in the amount of $297,588.47 for a total cost of $3,126,849.81 plus all applicable taxes as set out in report COR-TRY-26-019 .",
+   "text_html": "<p>That the Regional Municipality of Waterloo increase the contract with L82 East Construction Inc for the T2024-147 Waterloo Region Housing Underground Services Replacement at Thaler Ave, Kinzie Ave and Rutherford Dr Kitchener, Ontario in the amount of $297,588.47 for a total cost of $3,126,849.81 plus all applicable taxes as set out in report COR-TRY-26-019.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m6",
+   "item": "75",
+   "item_number": "11.1.2",
+   "item_title": "COR-TRY-26-020, P2024-28 Region of Waterloo Surplus Land for Affordable Housing 30 Lauris Avenue, Cambridge",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Foxton",
+   "text": "That the Regional Municipality of Waterloo take the following action with respect to Request for Proposal P2024-28 as set out in report COR-TRY-26-020 dated June 17, 2026. Accept the proposal of Central Ontario Co-operative Housing Federation (COCHF) for P2024-28 Region of Waterloo Surplus Land for Affordable Housing 30 Lauris Avenue, Cambridge; Authorize the Commissioner, Planning, Development & Legislative Services to execute the Land Lease Agreement for 30 Lauris Avenue, Cambridge, with Central Ontario Co-operative Housing Federation, in the form and content satisfactory to the Regional Solicitor; Authorize the Commissioner, Planning, Development & Legislative Services to execute any ancillary agreements related to the Region as an owner, supporting the affordable housing development, in the form and content satisfactory to the Regional Solicitor.",
+   "text_html": "<p>That the Regional Municipality of Waterloo take the following action with respect to Request for Proposal P2024-28 as set out in report COR-TRY-26-020 dated June 17, 2026.</p>\n<ol><li>Accept the proposal of Central Ontario Co-operative Housing Federation (COCHF) for P2024-28 Region of Waterloo Surplus Land for Affordable Housing 30 Lauris Avenue, Cambridge;<p></p>\n</li><li>Authorize the Commissioner, Planning, Development &amp; Legislative Services to execute the Land Lease Agreement for 30 Lauris Avenue, Cambridge, with Central Ontario Co-operative Housing Federation, in the form and content satisfactory to the Regional Solicitor;<p></p>\n</li><li>Authorize the Commissioner, Planning, Development &amp; Legislative Services to execute any ancillary agreements related to the Region as an owner, supporting the affordable housing development, in the form and content satisfactory to the Regional Solicitor.<p></p>\n</li></ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m7",
+   "item": "76",
+   "item_number": "11.1.3",
+   "item_title": "COR-TRY-26-021, Procurement of Nineteen (19) Hybrid Transit Buses",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Foxton",
+   "text": "That the Regional Municipality of Waterloo approve the procurement of Nineteen (19) Hybrid Transit Buses to replace buses at end of life from New Flyer Industries Canada in the estimated amount of $29,530,576.91 plus all applicable taxes as set out in report COR-TRY-26-021 dated June 17, 2026. The receipt of the buses is expected in 2027.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve the procurement of Nineteen (19) Hybrid Transit Buses to replace buses at end of life from New Flyer Industries Canada in the estimated amount of $29,530,576.91 plus all applicable taxes as set out in report COR-TRY-26-021 dated June 17, 2026. The receipt of the buses is expected in 2027.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m8",
+   "item": "73",
+   "item_number": "11.2.2",
+   "item_title": "Administration and Finance Committee - June 2, 2026",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "Shantz",
+   "text": "The Administration and Finance Committee recommends as follows: 1. That the Regional Municipality of Waterloo approve the revised Municipal Election Compliance Audit Committee Terms of Reference, as set out in Appendix A attached to report PDL-LEG-26-011, dated June 2, 2026. 2. That the Regional Municipality of Waterloo take the following action with respect to the 2026 first quarter update as set out in report COR-CFN-26-009 dated June 2, 2026: a) Receive the 2026 First Quarter Update that shows implementation and financial progress towards delivery on the Region’s Annual Business Plan, in support of achieving the vision set out by Council in the Growing with Care 2023-2027 Strategic Plan; and b) Amend the 2026 Capital Budget as set out in Appendix B. 3. Whereas Under the ESA, 2000, an employee is currently entitled to unpaid Reservist Leave for Canadian Forces training or deployment, provided they have at least two (2) months of continuous employment and Whereas if the employee is taking Reservist Leave because they are deployed to a Canadian Forces operation inside Canada related to handling an emergency or its aftermath, there is no minimum employment requirement and Whereas recent amendments via the Working for Workers Act, 2023, have expanded this leave to also include recovery from deployment-related injuries or illnesses and Whereas the current ESA leave type creates a \"break in service\" in OMERS, which can potentially reduce an employee’s credited service and future retirement benefits and Whereas, currently, the Region has not elected to share the cost of contributions, meaning that the employee is responsible for both their portion and the employer's portion, known as \"double contributions\" and Whereas OMERS regulations permit the purchase of service for certain leaves of absence, including those mandated by statute, to restore full credited service. For Reservist Leave, the employee may elect to buy back the period by contributing their share of premiums, with the employer matching its portion. This process requires explicit employer approval and, for municipal entities, formal authorization via a bylaw to ensure compliance with the Municipal Act, 2001, and to allocate public funds appropriately and Whereas the proposed bylaw will honour the employee's service to both the municipality and the nation, while upholding OMERS eligibility rules and Whereas the there are minimal financial implications associated with approving the OMERS Reservist Leave By-law and where an employee elects to take a Reservist Leave for Canadian Forces training or deployment, the Region as the employer will make an equal OMERS contribution in accordance with subsection 12(3) of the Primary Plan, funded from within the existing divisional operating budget, Now therefore be it resolved that the Region of Waterloo adopt the OMERS Region of Waterloo Reservist Bylaw to authorize the Region to match OMERS contributions for employees purchasing OMERS broken service resulting from an approved Reservist Leave, in accordance with the Employment Standards Act (ESA), 2000. 4. That the Regional Municipality of Waterloo approve a By-law to delegate authority to the outgoing council to pass by-law(s) to authorize the potential adoption of the prudent investor standard, as set out in report COR-TRY-26-016 dated June 2, 2026. 5. That the Regional Municipality of Waterloo take the following action with respect to the 2027 Plan and Budget as set out in report COR-CFN-008 dated June 2, 2026: a) That staff be provided direction to present 2027 Plan and Budget timetable schedule to the incoming Regional Chair as set out in Appendix A.",
+   "text_html": "<p>The Administration and Finance Committee recommends as follows:</p>\n<p><br/>1.    That the Regional Municipality of Waterloo approve the revised Municipal Election Compliance Audit Committee Terms of Reference, as set out in Appendix A attached to report PDL-LEG-26-011, dated June 2, 2026.</p>\n<p><br/>2.    That the Regional Municipality of Waterloo take the following action with respect to the 2026 first quarter update as set out in report COR-CFN-26-009 dated June 2, 2026:</p>\n<p><br/>a)    Receive the 2026 First Quarter Update that shows implementation and financial progress towards delivery on the Region’s Annual Business Plan, in support of achieving the vision set out by Council in the Growing with Care 2023-2027 Strategic Plan; and </p>\n<p><br/>b)    Amend the 2026 Capital Budget as set out in Appendix B.</p>\n<p><br/>3.    Whereas Under the ESA, 2000, an employee is currently entitled to unpaid Reservist Leave for Canadian Forces training or deployment, provided they have at least two (2) months of continuous employment and<br/>Whereas if the employee is taking Reservist Leave because they are deployed to a Canadian Forces operation inside Canada related to handling an emergency or its aftermath, there is no minimum employment requirement and <br/>Whereas recent amendments via the Working for Workers Act, 2023, have expanded this leave to also include recovery from deployment-related injuries or illnesses and<br/>Whereas the current ESA leave type creates a \"break in service\" in OMERS, which can potentially reduce an employee’s credited service and future retirement benefits and<br/>Whereas, currently, the Region has not elected to share the cost of contributions, meaning that the employee is responsible for both their portion and the employer's portion, known as \"double contributions\" and <br/>Whereas OMERS regulations permit the purchase of service for certain leaves of absence, including those mandated by statute, to restore full credited service. For Reservist Leave, the employee may elect to buy back the period by contributing their share of premiums, with the employer matching its portion. This process requires explicit employer approval and, for municipal entities, formal authorization via a bylaw to ensure compliance with the Municipal Act, 2001, and to allocate public funds appropriately and <br/>Whereas the proposed bylaw will honour the employee's service to both the municipality and the nation, while upholding OMERS eligibility rules and <br/>Whereas the there are minimal financial implications associated with approving the OMERS Reservist Leave By-law and where an employee elects to take a Reservist Leave for Canadian Forces training or deployment, the Region as the employer will make an equal OMERS contribution in accordance with subsection 12(3) of the Primary Plan, funded from within the existing divisional operating budget, <br/>Now therefore be it resolved that the Region of Waterloo adopt the OMERS Region of Waterloo Reservist Bylaw to authorize the Region to match OMERS contributions for employees purchasing OMERS broken service resulting from an approved Reservist Leave, in accordance with the Employment Standards Act (ESA), 2000.</p>\n<p><br/>4.    That the Regional Municipality of Waterloo approve a By-law to delegate authority to the outgoing council to pass by-law(s) to authorize the potential adoption of the prudent investor standard, as set out in report COR-TRY-26-016 dated June 2, 2026.</p>\n<p><br/>5.    That the Regional Municipality of Waterloo take the following action with respect to the 2027 Plan and Budget as set out in report COR-CFN-008 dated June 2, 2026:</p>\n<p><br/>a)    That staff be provided direction to present 2027 Plan and Budget timetable schedule to the incoming Regional Chair as set out in Appendix A.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "74",
+   "item_number": "11.2.3",
+   "item_title": "Sustainability, Infrastructure, and Development Committee - June 2, 2026",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "James",
+   "text": "The Sustainability, Infrastructure, and Development Committee recommends as follows: 1. That the Regional Municipality of Waterloo approve the expropriation of lands for improvements to Fountain Street North from Kossuth Road / Fairway Road North to Middle Block Road, in the City of Cambridge, in the Regional Municipality of Waterloo, as detailed in Report PDL-LEG-26-028, dated June 2, 2026, described as follows: Fee Simple Partial Taking: i. Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 7 on 58R-22454, City of Cambridge, Part of PIN 22737-0006 (Vacant lands at the northeast corner of the intersection of Fountain Street North and Middle Block Road, City of Cambridge) ii. Part of Lot 126, German Company Tract, being Part 1 on 58R-22428, City of Cambridge, Part of PIN 22737-0052 (Vacant lands at the southeast corner of the intersection of Fountain Street North and Kossuth Road, City of Cambridge) iii. Part of Lot 17, Beasley’s Broken Front, being Part 4 on 58R-22456, City of Cambridge, Part of PIN 22736-0026 (4050 Fountain Street North, City of Cambridge) iv. Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 6 on 58R-22454, City of Cambridge, Part of PIN 22736-0147 (4220 Fountain Street North, City of Cambridge) v. Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 4 on 58R-22454, City of Cambridge, Part of PIN 22736-0024 (4230 Fountain Street North, City of Cambridge) vi. Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 2 on 58R-22454, City of Cambridge, Part of PIN 22736-0142 (4300 Fountain Street North, City of Cambridge) vii. Part of Lot 1, Beasley’s Middle Block, being Part 3 on 58R-22427, City of Cambridge, Part of PIN 22736-0148 (4500 Fountain Street North, City of Cambridge) viii. Part of Lot 116, German Company Tract, being Part 5 on 58R-22428, City of Cambridge, Part of PIN 22736-0014 (4520 Fountain Street North, City of Cambridge) ix. Part of Lot 116, German Company Tract, being Parts 9 and 10 on 58R-22428, City of Cambridge, Part of PIN 22736-0132 (4600 Fountain Street North – South of Fairway Road North, City of Cambridge) Temporary Easement – Grading: The right and easement, being a temporary easement in gross, for the free and unobstructed, right, interest and easement terminating, for the subject properties set out below, on the December 31, 2029, for itself, its successors and assigns, and anyone authorized by it, on, over, under and through the following property for the purposes of excavation, construction, installation, replacement, alteration, grading, and landscaping as required in connection with the improvements to Fountain Street North from Kossuth Road / Fairway Road North to Middle Block Road, and all related improvements, and works ancillary thereto and for such purposes, the free, unimpeded and unobstructed access to the lands at all times by employees, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement: x. Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 8 on 58R-22454, City of Cambridge, Part of PIN 22737-0006 (Vacant lands at the northeast corner of the intersection of Fountain Street North and Middle Block Road, City of Cambridge) xi. Part of Lot 126, German Company Tract, being Parts 2 and 3 on 58R-22428, City of Cambridge, Part of PIN 22737-0052 (Vacant lands at the southeast corner of the intersection of Fountain Street North and Kossuth Road, City of Cambridge) xii. Part of Lot 126, German Company Tract, being Part 1 on 58R-22427, City of Cambridge, Part of PIN 22737-0005 (4425 Fountain Street North, City of Cambridge) xiii. Part of Lot 126, German Company Tract, being Part 4 on 58R-22428, City of Cambridge, Part of PIN 22737-0004 (4455 Fountain Street North, City of Cambridge) xiv. Part of Lot 17, Beasley’s Broken Front, being Parts 5 and 6 on 58R-22456, City of Cambridge, Part of PIN 22736-0026 (4050 Fountain Street North, City of Cambridge) xv. Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 5 on 58R-22454, City of Cambridge, Part of PIN 22736-0147 (4220 Fountain Street North, City of Cambridge) xvi. Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 3 on 58R-22454, City of Cambridge, Part of PIN 22736-0024 (4230 Fountain Street North, City of Cambridge) xvii. Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 1 on 58R-22454, City of Cambridge, Part of PIN 22736-0142 (4300 Fountain Street North, City of Cambridge) xviii. Part of Lot 1, Beasley’s Middle Block, being Part 4 on 58R-22427, City of Cambridge, Part of PIN 22736-0148 (4500 Fountain Street North, City of Cambridge) xix. Part of Lot 116, German Company Tract, being Part 6 on 58R-22428, City of Cambridge, Part of PIN 22736-0014 (4520 Fountain Street North, City of Cambridge) xx. Part of Lot 116, German Company Tract, being Parts 7, 8, 11, 12 and 13 on 58R-22428, City of Cambridge, Part of PIN 22736-0132 (4600 Fountain Street North - South of Fairway Road North, City of Cambridge) xxi. Part of Lot 1, Beasley’s Middle Block, being Part 2 on 58R-22427, City of Cambridge, Part of PIN 22737-0022 (Vacant lands on the east side of Fountain Street North, City of Cambridge) xxii. Part of Lot 17, Beasley’s Broken Front, being Part 7 on 58R-22456, City of Cambridge, Part of PIN 22736-0025 (4070 Fountain Street North, City of Cambridge) And that staff be instructed to register a Plan of Expropriation for the properties within three months of the granting of the approval to expropriate the properties, as required by the Expropriations Act; And that the registered owners for the properties be served with a Notice of Expropriation, Notice of Election and a Notice of Possession after the registration of the Plan of Expropriation and the Regional Solicitor is authorized to take any and all actions required to enforce such Notices including but not limited to any application pursuant to Section 40 of the Expropriations Act; And that the Regional Solicitor is authorized to enter into an agreement with the registered owners, or to make an application under Section 39 of the Expropriations Act, to adjust the date for possession specified in the Notice of Possession as may be required; And that all above-referenced fee simple partial takings situated adjacent to an existing Regional public highway be acquired for road widening purposes and therefore be deemed to form part of the adjacent public highway in accordance with subsection 31(6) of the Municipal Act, 2001; And that if no agreement as to compensation is made with an owner, the statutory Offer of Compensation and payment be served upon the registered owners of the properties in the amount of the market value of the interests in the land as estimated by the Region’s appraiser in accordance with the Expropriations Act; And that the Regional Solicitor be authorized to execute any Indemnity agreement or other document related to payment of the statutory Offer of Compensation; And further that the Regional Solicitor be authorized to discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete the transaction or if determined by the Commissioner, Engineering & Environmental Services, that such lands, or any part or interest thereof, are not required for the subject Project. 2. That the Regional Municipality of Waterloo: a. Waive the notice requirements under the Region of Waterloo’s Notice Policy in order to allow for an amendment to the Fees and Charges By-Law without giving twenty-one (21) days notice to the public; and b. Amend the 2026 Fees and Charges By-law to reflect housekeeping updates to Grand River Transit’s Affordable Transit Program (ATP) fare product prices as outlined in report TSD-TRS-26-007, dated June 2, 2026. The 2026 fare prices for the following ATP fare products will be: · ATP - Stored Value: $1.35 · ATP - Monthly Pass: $47.00 · ATP - MobilityPLUS tickets (strip of 5): $6.75 3. That the Regional Municipality of Waterloo endorse the 2025 Waterloo Region Economic Development Strategy as outlined in report PDL-BWR-26-005 on June 2, 2026. 4. That the Regional Municipality of Waterloo approve the Region of Waterloo International Airport 2026 Growth Plan as outlined in report PDL-AIR-26-002, dated June 2, 2026. 5. That the Regional Municipality of Waterloo direct and authorize the Regional Solicitor to take the following actions with respect to the expropriation of lands for road improvements to University Avenue East (Weber Street North to Albert Street), in the City of Waterloo as detailed in report PDL-LEG-26-027, dated June 2, 2026. 1. Complete application(s) to the Council of The Regional Municipality of Waterloo, as may be required from time to time, for approval to expropriate land, which is required for the construction of Road Improvements to University Avenue East (Weber Street North to Albert Street), in the City of Waterloo and described as follows: Fee Simple Partial Taking: i. Part of Lot 19, Plan 494, being Part 1 on 58R-22340, City of Waterloo, Part of PIN 22368-0246 (244-248 King Street North, City of Waterloo) ii. Part of Lots 18 and 19, Plan 494, being Part 4 on 58R-22340, City of Waterloo, Part of PIN 22368-0098 (15 University Avenue East, City of Waterloo) iii. Part of Lot 14, Plan 494, being Part 7 on 58R-22340, City of Waterloo, Part of PIN 22368-0227 (65 University Avenue East, City of Waterloo) iv. Part of Lot 14, Plan 494, being Part 8 on 58R-22340, City of Waterloo, Part of PIN 22368-0216 (245 Weber Street North, City of Waterloo) v. Part of Lot 70, Municipal Compiled Plan of the Subdivision of Lot 13, German Company Tract, being Part 11 on 58R-22340, City of Waterloo Part of PIN 22360-0014 (64 University Avenue East, City of Waterloo) vi. Part of Lot 70, Municipal Compiled Plan of the Subdivision of Lot 13, German Company Tract, being Part 12 on 58R-22340, City of Waterloo, Part of PIN 22360-0059 (66-68 University Avenue East, City of Waterloo) Permanent Easement – Hydro Aerial and Anchoring: The right and easement, being an easement in gross, for itself, its successors and assigns and anyone authorized by it, in perpetuity to, at any time enter upon the following properties for purposes of relocated aerial hydro utility and associated anchoring. All related infrastructure, and all appurtenances thereto, which may be determined necessary from time to time, and for all such purposes together with the free, unimpeded and unobstructed access for itself, its successors and assigns, servants, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement. vii. Part of Lot 19, Plan 494, being Parts 2 and 3 on 58R-22340, City of Waterloo, Part of PIN 22368-0246 (244-248 King Street North, City of Waterloo) viii. Part of Lot 19, Plan 494, being Part 5 on 58R-22340, City of Waterloo, Part of PIN 22368-0098 (15 University Avenue East, City of Waterloo) ix. Part of Lot 16, Plan 494, being Part 6 on 58R-22340, City of Waterloo, Part of PIN 22368-0241 (35 University Avenue East, City of Waterloo) x. Part of Lot 10, Plan 493, being Part 9 on 58R-22340, City of Waterloo, Part of PIN 22368-0216 (245 Weber Street North, City of Waterloo) 2. Serve notices of the above applications(s) required by the Expropriations Act (the “Act”); 3. Forward to the Chief Inquiry Officer any requests for a hearing that may be received within the time prescribed by the Act; 4. Attend, with appropriate Regional staff, at any hearing that may be scheduled; 5. Discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete a transaction whereby the required interests in the lands are conveyed or if otherwise deemed appropriate in the opinion of the Commissioner of Engineering and Environmental Services and the Regional Solicitor; and 6. Do all things necessary and proper to be done and report thereon to Regional Council in due course. 6. That the Regional Municipality of Waterloo approve the implementation of right-turn-on-red (RTOR) prohibitions at 12 signalized intersections around the community as part of a pilot project, by amending the Region’s Traffic & Parking By-law (16-023), Schedule 14 – Prohibited Movements, as outlined in report TSD-TRP-26-008, Appendix A, dated June 2, 2026.",
+   "text_html": "<p>The Sustainability, Infrastructure, and Development Committee recommends as follows:</p>\n<p>1.     That the Regional Municipality of Waterloo approve the expropriation of lands for improvements to Fountain Street North from Kossuth Road / Fairway Road North to Middle Block Road, in the City of Cambridge, in the Regional Municipality of Waterloo, as detailed in Report PDL-LEG-26-028, dated June 2, 2026, described as follows:</p>\n<p><strong>Fee Simple Partial Taking:</strong></p>\n<p>i.     Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 7 on 58R-22454, City of Cambridge, Part of PIN 22737-0006 (Vacant lands at the northeast corner of the intersection of Fountain Street North and Middle Block Road, City of Cambridge)</p>\n<p>ii.     Part of Lot 126, German Company Tract, being Part 1 on 58R-22428, City of Cambridge, Part of PIN 22737-0052 (Vacant lands at the southeast corner of the intersection of Fountain Street North and Kossuth Road, City of Cambridge)</p>\n<p>iii.     Part of Lot 17, Beasley’s Broken Front, being Part 4 on 58R-22456, City of Cambridge, Part of PIN 22736-0026 (4050 Fountain Street North, City of Cambridge)</p>\n<p>iv.     Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 6 on 58R-22454, City of Cambridge, Part of PIN 22736-0147 (4220 Fountain Street North, City of Cambridge)</p>\n<p>v.     Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 4 on 58R-22454, City of Cambridge, Part of PIN 22736-0024 (4230 Fountain Street North, City of Cambridge)</p>\n<p>vi.     Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 2 on 58R-22454, City of Cambridge, Part of PIN 22736-0142 (4300 Fountain Street North, City of Cambridge)</p>\n<p>vii.     Part of Lot 1, Beasley’s Middle Block, being Part 3 on 58R-22427, City of Cambridge, Part of PIN 22736-0148 (4500 Fountain Street North, City of Cambridge)</p>\n<p>viii.     Part of Lot 116, German Company Tract, being Part 5 on 58R-22428, City of Cambridge, Part of PIN 22736-0014 (4520 Fountain Street North, City of Cambridge)</p>\n<p>ix.     Part of Lot 116, German Company Tract, being Parts 9 and 10 on 58R-22428, City of Cambridge, Part of PIN 22736-0132 (4600 Fountain Street North – South of Fairway Road North, City of Cambridge) </p>\n<p><strong>Temporary Easement – Grading:</strong></p>\n<p>The right and easement, being a temporary easement in gross, for the free and unobstructed, right, interest and easement terminating, for the subject properties set out below, on the December 31, 2029, for itself, its successors and assigns, and anyone authorized by it, on, over, under and through the following property for the purposes of excavation, construction, installation, replacement, alteration, grading, and landscaping as required in connection with the improvements to Fountain Street North from Kossuth Road / Fairway Road North to Middle Block Road, and all related improvements, and works ancillary thereto and for such purposes, the free, unimpeded and unobstructed access to the lands at all times by employees, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement:</p>\n<p>x.     Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 8 on 58R-22454, City of Cambridge, Part of PIN 22737-0006 (Vacant lands at the northeast corner of the intersection of Fountain Street North and Middle Block Road, City of Cambridge)</p>\n<p>xi.     Part of Lot 126, German Company Tract, being Parts 2 and 3 on 58R-22428, City of Cambridge, Part of PIN 22737-0052 (Vacant lands at the southeast corner of the intersection of Fountain Street North and Kossuth Road, City of Cambridge)</p>\n<p>xii.     Part of Lot 126, German Company Tract, being Part 1 on 58R-22427, City of Cambridge, Part of PIN 22737-0005 (4425 Fountain Street North, City of Cambridge)</p>\n<p>xiii.     Part of Lot 126, German Company Tract, being Part 4 on 58R-22428, City of Cambridge, Part of PIN 22737-0004 (4455 Fountain Street North, City of Cambridge)</p>\n<p>xiv.     Part of Lot 17, Beasley’s Broken Front, being Parts 5 and 6 on 58R-22456, City of Cambridge, Part of PIN 22736-0026 (4050 Fountain Street North, City of Cambridge)</p>\n<p>xv.     Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 5 on 58R-22454, City of Cambridge, Part of PIN 22736-0147 (4220 Fountain Street North, City of Cambridge)</p>\n<p>xvi.     Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 3 on 58R-22454, City of Cambridge, Part of PIN 22736-0024 (4230 Fountain Street North, City of Cambridge)</p>\n<p>xvii.     Part of Lot 1 (also known as Bricker Lot), Beasley’s Middle Block, being Part 1 on 58R-22454, City of Cambridge, Part of PIN 22736-0142 (4300 Fountain Street North, City of Cambridge)</p>\n<p>xviii.     Part of Lot 1, Beasley’s Middle Block, being Part 4 on 58R-22427, City of Cambridge, Part of PIN 22736-0148 (4500 Fountain Street North, City of Cambridge)</p>\n<p>xix.     Part of Lot 116, German Company Tract, being Part 6 on 58R-22428, City of Cambridge, Part of PIN 22736-0014 (4520 Fountain Street North, City of Cambridge)</p>\n<p>xx.     Part of Lot 116, German Company Tract, being Parts 7, 8, 11, 12 and 13 on 58R-22428, City of Cambridge, Part of PIN 22736-0132 (4600 Fountain Street North - South of Fairway Road North, City of Cambridge)</p>\n<p>xxi.     Part of Lot 1, Beasley’s Middle Block, being Part 2 on 58R-22427, City of Cambridge, Part of PIN 22737-0022 (Vacant lands on the east side of Fountain Street North, City of Cambridge)</p>\n<p>xxii.     Part of Lot 17, Beasley’s Broken Front, being Part 7 on 58R-22456, City of Cambridge, Part of PIN 22736-0025 (4070 Fountain Street North, City of Cambridge)</p>\n<p>And that staff be instructed to register a Plan of Expropriation for the properties within three months of the granting of the approval to expropriate the properties, as required by the Expropriations Act;</p>\n<p>And that the registered owners for the properties be served with a Notice of Expropriation, Notice of Election and a Notice of Possession after the registration of the Plan of Expropriation and the Regional Solicitor is authorized to take any and all actions required to enforce such Notices including but not limited to any application pursuant to Section 40 of the Expropriations Act;</p>\n<p>And that the Regional Solicitor is authorized to enter into an agreement with the registered owners, or to make an application under Section 39 of the Expropriations Act, to adjust the date for possession specified in the Notice of Possession as may be required;</p>\n<p>And that all above-referenced fee simple partial takings situated adjacent to an existing Regional public highway be acquired for road widening purposes and therefore be deemed to form part of the adjacent public highway in accordance with subsection 31(6) of the Municipal Act, 2001;  </p>\n<p>And that if no agreement as to compensation is made with an owner, the statutory Offer of Compensation and payment be served upon the registered owners of the properties in the amount of the market value of the interests in the land as estimated by the Region’s appraiser in accordance with the Expropriations Act;</p>\n<p>And that the Regional Solicitor be authorized to execute any Indemnity agreement or other document related to payment of the statutory Offer of Compensation;</p>\n<p>And further that the Regional Solicitor be authorized to discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete the transaction or if determined by the Commissioner, Engineering &amp; Environmental Services, that such lands, or any part or interest thereof, are not required for the subject Project.</p>\n<p> </p>\n<p>2.     That the Regional Municipality of Waterloo:</p>\n<p>a.     Waive the notice requirements under the Region of Waterloo’s Notice Policy in order to allow for an amendment to the Fees and Charges By-Law without giving twenty-one (21) days notice to the public; and</p>\n<p>b.     Amend the 2026 Fees and Charges By-law to reflect housekeeping updates to Grand River Transit’s Affordable Transit Program (ATP) fare product prices as outlined in report TSD-TRS-26-007, dated June 2, 2026.</p>\n<p>The 2026 fare prices for the following ATP fare products will be:</p>\n<p>·     ATP - Stored Value: $1.35</p>\n<p>·     ATP - Monthly Pass: $47.00</p>\n<p>·     ATP - MobilityPLUS tickets (strip of 5): $6.75</p>\n<p> </p>\n<p>3.     That the Regional Municipality of Waterloo endorse the 2025 Waterloo Region Economic Development Strategy as outlined in report PDL-BWR-26-005 on June 2, 2026.</p>\n<p> </p>\n<p>4.     That the Regional Municipality of Waterloo approve the Region of Waterloo International Airport 2026 Growth Plan as outlined in report PDL-AIR-26-002, dated June 2, 2026.</p>\n<p> </p>\n<p>5.     That the Regional Municipality of Waterloo direct and authorize the Regional Solicitor to take the following actions with respect to the expropriation of lands for road improvements to University Avenue East (Weber Street North to Albert Street), in the City of Waterloo as detailed in report PDL-LEG-26-027, dated June 2, 2026.</p>\n<p>1.     Complete application(s) to the Council of The Regional Municipality of Waterloo, as may be required from time to time, for approval to expropriate land, which is required for the construction of Road Improvements to University Avenue East (Weber Street North to Albert Street), in the City of Waterloo and described as follows:</p>\n<p><strong>Fee Simple Partial Taking:</strong></p>\n<p>i.     Part of Lot 19, Plan 494, being Part 1 on 58R-22340, City of Waterloo, Part of PIN 22368-0246 (244-248 King Street North, City of Waterloo)</p>\n<p>ii.     Part of Lots 18 and 19, Plan 494, being Part 4 on 58R-22340, City of Waterloo, Part of PIN 22368-0098 (15 University Avenue East, City of Waterloo)</p>\n<p>iii.     Part of Lot 14, Plan 494, being Part 7 on 58R-22340, City of Waterloo, Part of PIN 22368-0227 (65 University Avenue East, City of Waterloo)</p>\n<p>iv.     Part of Lot 14, Plan 494, being Part 8 on 58R-22340, City of Waterloo, Part of PIN 22368-0216 (245 Weber Street North, City of Waterloo)</p>\n<p>v.     Part of Lot 70, Municipal Compiled Plan of the Subdivision of Lot 13, German Company Tract, being Part 11 on 58R-22340, City of Waterloo Part of PIN 22360-0014 (64 University Avenue East, City of Waterloo)</p>\n<p>vi.     Part of Lot 70, Municipal Compiled Plan of the Subdivision of Lot 13, German Company Tract, being Part 12 on 58R-22340, City of Waterloo, Part of PIN 22360-0059 (66-68 University Avenue East, City of Waterloo) </p>\n<p><strong>Permanent Easement – Hydro Aerial and Anchoring: </strong><br/>The right and easement, being an easement in gross, for itself, its successors and assigns and anyone authorized by it, in perpetuity to, at any time enter upon the following properties for purposes of relocated aerial hydro utility and associated anchoring. All related infrastructure, and all appurtenances thereto, which may be determined necessary from time to time, and for all such purposes together with the free, unimpeded and unobstructed access for itself, its successors and assigns, servants, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement.</p>\n<p>vii.     Part of Lot 19, Plan 494, being Parts 2 and 3 on 58R-22340, City of Waterloo, Part of PIN 22368-0246 (244-248 King Street North, City of Waterloo)</p>\n<p>viii.     Part of Lot 19, Plan 494, being Part 5 on 58R-22340, City of Waterloo, Part of PIN 22368-0098 (15 University Avenue East, City of Waterloo)</p>\n<p>ix.     Part of Lot 16, Plan 494, being Part 6 on 58R-22340, City of Waterloo, Part of PIN 22368-0241 (35 University Avenue East, City of Waterloo)</p>\n<p>x.     Part of Lot 10, Plan 493, being Part 9 on 58R-22340, City of Waterloo, Part of PIN 22368-0216 (245 Weber Street North, City of Waterloo)</p>\n<p>2.     Serve notices of the above applications(s) required by the Expropriations Act (the “Act”);</p>\n<p>3.     Forward to the Chief Inquiry Officer any requests for a hearing that may be received within the time prescribed by the Act;</p>\n<p>4.     Attend, with appropriate Regional staff, at any hearing that may be scheduled;</p>\n<p>5.     Discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete a transaction whereby the required interests in the lands are conveyed or if otherwise deemed appropriate in the opinion of the Commissioner of Engineering and Environmental Services and the Regional Solicitor; and</p>\n<p>6.     Do all things necessary and proper to be done and report thereon to Regional Council in due course.</p>\n<p> </p>\n<p>6.     That the Regional Municipality of Waterloo approve the implementation of right-turn-on-red (RTOR) prohibitions at 12 signalized intersections around the community as part of a pilot project, by amending the Region’s Traffic &amp; Parking By-law (16-023), Schedule 14 – Prohibited Movements, as outlined in report TSD-TRP-26-008, Appendix A, dated June 2, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m10",
+   "item": "45",
+   "item_number": "11.2.4",
+   "item_title": "Closed Council Summary - June 17, 2026",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Wolf",
+   "text": "That the Regional Municipality of Waterloo ratify the following appointments to the Waterloo Regional Heritage Foundation dated June 17, 2026: Heidi Peller-Oliver for a term ending June 2029; Kevin Twomey for a term ending June 2029; Philippe Elsworthy for a term ending June 2029; Robert Shipley for a term ending June 2029; and Samir Sharma for a term ending June 2029.",
+   "text_html": "<p>That the Regional Municipality of Waterloo ratify the following appointments to the Waterloo Regional Heritage Foundation dated June 17, 2026:</p>\n\n<ol>\n<li>Heidi Peller-Oliver for a term ending June 2029;</li>\n<li>Kevin Twomey for a term ending June 2029;</li>\n<li>Philippe Elsworthy for a term ending June 2029;</li>\n<li>Robert Shipley for a term ending June 2029; and</li>\n<li>Samir Sharma for a term ending June 2029.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m11",
+   "item": "58",
+   "item_number": "12.1",
+   "item_title": "2026-2028 AMO Board of Directors Elections",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Wolf",
+   "text": "Be it resolved that the Regional Municipality of Waterloo nominates Joe Gowing, Regional Councillor, for the position of Director, Regional and Single Tier Caucus on the AMO Board of Directors for the 2026-2028 term.",
+   "text_html": "<p>Be it resolved that the Regional Municipality of Waterloo nominates Joe Gowing, Regional Councillor, for the position of Director, Regional and Single Tier Caucus on the AMO Board of Directors for the 2026-2028 term.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m12",
+   "item": "83",
+   "item_number": "12.2",
+   "item_title": "TSD-TRP-26-010, Street Design Guidelines Council Approval Report",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Wolf",
+   "text": "Main Motion as amended That the Regional Municipality of Waterloo approve the Street Design Guidelines (June 2026) for use by staff, as outlined in Report TSD-TRP-26-010, dated June 17, 2026. And that Appendix B to Report TSD-TRP-26-010, Street Design Guidelines, be amended by adding the following as a fifth principle in Chapter 1 under Guiding Principles: 5. Reflect the Region’s urban, rural, agricultural, and township contexts The Regional road network serves a diverse range of urban, suburban, settlement-area, rural, agricultural, employment, and natural contexts. Street design should respond to the primary function, surrounding land use, operating conditions, maintenance requirements, drainage needs, goods movement, agricultural operations, emergency access, and local community character of each corridor. While safety, accessibility, active transportation, transit-supportive design, and green infrastructure remain important objectives, the appropriate design solution will vary by context. Distinct parts of the Regional network, including rural roads, agricultural corridors, township main streets, industrial corridors, and commercial main streets, should be designed in keeping with their respective contexts and local needs while supporting the safe and efficient movement of people and goods, as well as appropriate access to adjacent businesses, services, and community destinations. And that staff be authorized to make any necessary page, formatting, numbering, or consequential wording updates to accommodate the addition of this principle.",
+   "text_html": "<p>Main Motion as amended</p>\n<p>That the Regional Municipality of Waterloo approve the Street Design Guidelines (June 2026) for use by staff, as outlined in Report TSD-TRP-26-010, dated June 17, 2026.</p>\n<p>And that Appendix B to Report TSD-TRP-26-010, Street Design Guidelines, be amended by adding the following as a fifth principle in Chapter 1 under Guiding Principles:</p>\n<p>5. Reflect the Region’s urban, rural, agricultural, and township contexts</p>\n<p>The Regional road network serves a diverse range of urban, suburban, settlement-area, rural, agricultural, employment, and natural contexts. Street design should respond to the primary function, surrounding land use, operating conditions, maintenance requirements, drainage needs, goods movement, agricultural operations, emergency access, and local community character of each corridor. While safety, accessibility, active transportation, transit-supportive design, and green infrastructure remain important objectives, the appropriate design solution will vary by context. Distinct parts of the Regional network, including rural roads, agricultural corridors, township main streets, industrial corridors, and commercial main streets, should be designed in keeping with their respective contexts and local needs while supporting the safe and efficient movement of people and goods, as well as appropriate access to adjacent businesses, services, and community destinations.</p>\n<p>And that staff be authorized to make any necessary page, formatting, numbering, or consequential wording updates to accommodate the addition of this principle.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": [
+     "Rodrigues"
+    ]
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m13",
+   "item": "83",
+   "item_number": "12.2",
+   "item_title": "TSD-TRP-26-010, Street Design Guidelines Council Approval Report",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Foxton",
+   "text": "Amendment That Appendix B to Report TSD-TRP-26-010, Street Design Guidelines, be amended by adding the following as a fifth principle in Chapter 1 under Guiding Principles: 5. Reflect the Region’s urban, rural, agricultural, and township contexts The Regional road network serves a diverse range of urban, suburban, settlement-area, rural, agricultural, employment, and natural contexts. Street design should respond to the primary function, surrounding land use, operating conditions, maintenance requirements, drainage needs, goods movement, agricultural operations, emergency access, and local community character of each corridor. While safety, accessibility, active transportation, transit-supportive design, and green infrastructure remain important objectives, the appropriate design solution will vary by context. Distinct parts of the Regional network, including rural roads, agricultural corridors, township main streets, industrial corridors, and commercial main streets, should be designed in keeping with their respective contexts and local needs while supporting the safe and efficient movement of people and goods, as well as appropriate access to adjacent businesses, services, and community destinations. And that staff be authorized to make any necessary page, formatting, numbering, or consequential wording updates to accommodate the addition of this principle.",
+   "text_html": "<p><strong>Amendment</strong></p>\n<p>That Appendix B to Report TSD-TRP-26-010, Street Design Guidelines, be amended by adding the following as a fifth principle in Chapter 1 under Guiding Principles:</p>\n<p><strong>5. Reflect the Region’s urban, rural, agricultural, and township contexts</strong></p>\n<p>The Regional road network serves a diverse range of urban, suburban, settlement-area, rural, agricultural, employment, and natural contexts. Street design should respond to the primary function, surrounding land use, operating conditions, maintenance requirements, drainage needs, goods movement, agricultural operations, emergency access, and local community character of each corridor. While safety, accessibility, active transportation, transit-supportive design, and green infrastructure remain important objectives, the appropriate design solution will vary by context. Distinct parts of the Regional network, including rural roads, agricultural corridors, township main streets, industrial corridors, and commercial main streets, should be designed in keeping with their respective contexts and local needs while supporting the safe and efficient movement of people and goods, as well as appropriate access to adjacent businesses, services, and community destinations.</p>\n<p>And that staff be authorized to make any necessary page, formatting, numbering, or consequential wording updates to accommodate the addition of this principle.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": [
+     "Rodrigues"
+    ]
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m14",
+   "item": "97",
+   "item_number": "12.3",
+   "item_title": "EES-WIM-26-013, Supporting Information for June 3, 2026 Council Resolutions",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Harris",
+   "text": "Whereas through ongoing work and updates to the Water Supply Strategy, Regional staff have identified a water capacity constraint within the Mannheim Service Area, which supplies water to Kitchener, Waterloo, and parts of Cambridge, Woolwich, and Wilmot. As a result, the Region of Waterloo has been unable to enter into any new servicing agreements or support the approval of development applications within this service area, until such time that sufficient capacity becomes available; Whereas the Region continues to work closely with its municipal partners on moving short term, medium term and long-term solutions forward as expeditiously as possible; Whereas Regional Council approved a Water Capacity Allocation Policy on May 6, 2026, for the Mannheim Service Area, which determines how available water will be allocated once it becomes available; Whereas Regional Council approved the Interim Risk Management Framework on June 3, 2026, which assesses how staged development could proceed under certain risk-based conditions in the Mannheim Service Area; Whereas the approved Interim Risk Management Framework outlined estimated water allocations to be provided to Area Municipalities by the Region on a quarterly basis, and where it is anticipated that growth would be supported by the end of September 2026; Whereas on June 3, 2026, Regional Council approved an additional allocation of 15 L/s from Wilmot Centre on an interim basis; Therefore, Be It Resolved that on July 1, 2026, 20L/s be assigned to Area Municipalities in alignment with the Council approved allocation policy and the IRMF, to be available for use no earlier than September 30, 2026; And further, be it resolved that future water allocations be assigned to Area Municipalities, by the Region, prior to, or on, the first day of the applicable quarter, beginning on October 1, 2026 for water to be available for use not sooner than the last day of the applicable quarter.",
+   "text_html": "<p>Whereas through ongoing work and updates to the Water Supply Strategy, Regional staff have identified a water capacity constraint within the Mannheim Service Area, which supplies water to Kitchener, Waterloo, and parts of Cambridge, Woolwich, and Wilmot. As a result, the Region of Waterloo has been unable to enter into any new servicing agreements or support the approval of development applications within this service area, until such time that sufficient capacity becomes available; </p>\n<p>Whereas the Region continues to work closely with its municipal partners on moving short term, medium term and long-term solutions forward as expeditiously as possible;</p>\n<p>Whereas Regional Council approved a Water Capacity Allocation Policy on May 6, 2026, for the Mannheim Service Area, which determines how available water will be allocated once it becomes available;</p>\n<p>Whereas Regional Council approved the Interim Risk Management Framework on June 3, 2026, which assesses how staged development could proceed under certain risk-based conditions in the Mannheim Service Area;</p>\n<p>Whereas the approved Interim Risk Management Framework outlined estimated water allocations to be provided to Area Municipalities by the Region on a quarterly basis, and where it is anticipated that growth would be supported by the end of September 2026; </p>\n<p>Whereas on June 3, 2026, Regional Council approved an additional allocation of 15 L/s from Wilmot Centre on an interim basis;  </p>\n<p><strong>Therefore, Be It Resolved</strong> that on July 1, 2026, 20L/s be assigned to Area Municipalities in alignment with the Council approved allocation policy and the IRMF, to be available for use no earlier than <strong>September 30, 2026; </strong></p>\n<p><strong> </strong><strong>And further, be it resolved</strong> that future water allocations be assigned to Area Municipalities, by the Region, prior to, or on, the first day of the applicable quarter, beginning on <strong>October 1, 2026 </strong>for water to be available for use not sooner than the last day of the applicable quarter.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m15",
+   "item": "98",
+   "item_number": "12.3.1",
+   "item_title": "Related Direction - June 3, 2026",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That Regional Municipality of Waterloo consider the following options at the Council Meeting on June 17, 2026, pending a request to the provincial land facilitation office to review, investigate and advise on the recommended resiliency number. b. Immediately adopt a maximum initial resiliency target of 10%, based on a hybrid of the three risk management scenarios presented by staff. And that the provincial land facilitation office be requested to review, investigate and advise on the recommended resiliency number.",
+   "text_html": "<p>That Regional Municipality of Waterloo consider the following options at the Council Meeting on June 17, 2026, pending a request to the provincial land facilitation office to review, investigate and advise on the recommended resiliency number.<br/> <br/>b. Immediately adopt a maximum initial resiliency target of 10%, based on a hybrid of the three risk management scenarios presented by staff.<br/> <br/>And that the provincial land facilitation office be requested to review, investigate and advise on the recommended resiliency number.</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m16",
+   "item": "96",
+   "item_number": "12.4",
+   "item_title": "PDL-GDS-26-017, Proposed Approach to Servicing Agreement Transfer Requests within the Mannheim Service Area",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Gowing",
+   "text": "That Regional Municipality of Waterloo agree to extend the Council meeting to 12:00 a.m.",
+   "text_html": "<p>That Regional Municipality of Waterloo agree to extend the Council meeting to 12:00 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m17",
+   "item": "96",
+   "item_number": "12.4",
+   "item_title": "PDL-GDS-26-017, Proposed Approach to Servicing Agreement Transfer Requests within the Mannheim Service Area",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "McCabe",
+   "text": "That the question be called.",
+   "text_html": "<p>That the question be called.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 1)",
+    "label": "15-1",
+    "for": 15,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [
+     "Vrbanovic"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m18",
+   "item": "96",
+   "item_number": "12.4",
+   "item_title": "PDL-GDS-26-017, Proposed Approach to Servicing Agreement Transfer Requests within the Mannheim Service Area",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Harris",
+   "text": "That the Regional Municipality of Waterloo adopt the Servicing Agreement Transfer Framework for the Mannheim Service Area (“Transfer Framework”) as outlined in report PDL-GDS-26-017 dated June 17, 2026; That Regional Council direct staff to implement the provisions of the Transfer Framework with the execution of new servicing agreements immediately with the understanding that water supply capacity will be available for allocation as identified in the Interim Risk Management Framework; and That the Commissioner, Planning Development and Legislative Services be delegated authority to sign new servicing agreements, in a form satisfactory to the Regional Solicitor, to effect transfers of water supply capacity in accordance with the Transfer Framework.",
+   "text_html": "<ol>\n<li>That the Regional Municipality of Waterloo adopt the Servicing Agreement Transfer Framework for the Mannheim Service Area (“Transfer Framework”) as outlined in report PDL-GDS-26-017 dated June 17, 2026;</li>\n<li>That Regional Council direct staff to implement the provisions of the Transfer Framework with the execution of new servicing agreements immediately with the understanding that water supply capacity will be available for allocation as identified in the Interim Risk Management Framework; and</li>\n<li>That the Commissioner, Planning Development and Legislative Services be delegated authority to sign new servicing agreements, in a form satisfactory to the Regional Solicitor, to effect transfers of water supply capacity in accordance with the Transfer Framework.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (9 to 7)",
+    "label": "9-7",
+    "for": 9,
+    "against": 7,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Gowing",
+     "Harris",
+     "McCabe",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic"
+    ],
+    "against": [
+     "Erb",
+     "Foxton",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Wolf"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m19",
+   "item": "95",
+   "item_number": "12.5",
+   "item_title": "PDL-GDS-26-018, Forward Looking Service Agreements (Response to Resolution 4)",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "McCabe",
+   "text": "Th at the Regional Municipality of Waterloo Council direct staff to work with A rea M unicipalities to engage landowners that have been granted draft plan of subdivision approval prior to May 6 th , 2026 , to consider terms of a suitable F orward L ooking S ervicing A greement and report back to Regional Council on July 8th, 2026 , with a proposed framework for entering into such agreements as set out in report PDL-GDS-26-018 dated June 17, 2026.",
+   "text_html": "<p>That the Regional Municipality of Waterloo Council direct staff to work with Area Municipalities to engage landowners that have been granted draft plan of subdivision approval prior to May 6th, 2026, to consider terms of a suitable Forward Looking Servicing Agreement and report back to Regional Council on July 8th, 2026, with a proposed framework for entering into such agreements as set out in report PDL-GDS-26-018 dated June 17, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 1)",
+    "label": "14-1",
+    "for": 14,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [
+     "Huinink"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m20",
+   "item": "95",
+   "item_number": "12.5",
+   "item_title": "PDL-GDS-26-018, Forward Looking Service Agreements (Response to Resolution 4)",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "James",
+   "text": "That the question be called.",
+   "text_html": "<p>That the question be called.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m21",
+   "item": "95",
+   "item_number": "12.5",
+   "item_title": "PDL-GDS-26-018, Forward Looking Service Agreements (Response to Resolution 4)",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Salonen",
+   "text": "Whereas through ongoing work and updates to the Water Supply Strategy, Region of Waterloo staff have identified a water capacity constraint within the Mannheim Service Area, which supplies water to Kitchener, Waterloo, and parts of Cambridge, Woolwich, and Wilmot. As a result, the Region has currently been unable to enter into any new servicing agreements or support the approval of development applications within this service area, until such time that sufficient capacity becomes available; Whereas the Region continues to work closely with its municipal partners on moving short, medium, and long-term solutions forward as expeditiously as possible; Whereas Regional Council approved a Water Capacity Allocation Policy on May 6, 2026, for the Mannheim Service Area, which determines how available water will be allocated once it becomes available: Whereas Regional Council approved the Interim Risk Management Framework on June 3, 2026, which assesses how staged development can proceed under certain risk-based conditions in the Mannheim Service Area; Whereas the details of any Municipal Forward Facing/Looking Servicing Agreements (MFSA’s) rest solely with Area Municipalities with respect to Planning Act and Building Code Act approvals; Whereas there are existing draft plans of subdivision that received draft approval prior to May 6, 2026, and which require a servicing agreement as a condition of draft plan approval, may be exempt from this motion; Therefore, be it resolved that the Region of Waterloo prepare an administrative agreement in conjunction with Area Municipalities by July 8, 2026 for execution by all relevant parties to implement the Regional Water Allocation Framework which will enable water allocation by the Region to an area municipalities in accordance with the Interim Risk Management Framework (IRMF) allocation schedule, as presented on June 3, 2026, with the following: Estimated Overall Allocation July 1, 2026 - 20 L/S October 1, 2026 - 40 L/S January 1, 2027 - 55 L/S July 1, 2028 - 25 L/S October 1, 2028 - 50 L/S July 1, 2030 - 45 L/S October 1, 2030 - 60 L/S and January 1, 2031 - 20 L/S; and, Further, Be It Resolved that such Administrative Agreements aim to include the following provisions, namely: Requirement for area municipalities to report all building permits to the Region for ongoing monitoring of water allocated against their share of the above allocation table, Notification processes for the Region to inform area municipalities if available water capacity is more than projected in the above table, or available earlier than expected, Notification timing provisions for the Region to notify Area Municipalities if it cannot meet the IRMF allocation schedule as listed above, Force Majeure clause, in case the Region is unable to meet its anticipated additional allocations due to an act outside of its control; and Further, Be It Resolved that the Region of Waterloo enable any area municipality to enter into Forward Facing/Looking Servicing Agreements for developments subject to the allocation table above; and Further, Be It Resolved that the Region coordinate any required regional approvals, required by an Area Municipality’s Forward Facing Servicing Agreements (MFSA), such approvals not to be withheld as long as the MFSA’s were issued within the parameters of the above allocation tables and the requirements of such approvals are met; And Finally, Be It Resolved that except in the case of draft plans of subdivision that were draft approved prior to May 6, and which may be exempt from this motion, all Forward Facing/Looking Servicing Agreements shall be executed between an Area Municipality and the property owner, in accordance with the overall water allocation granted to an Area Municipality by the Region.",
+   "text_html": "<p>Whereas through ongoing work and updates to the Water Supply Strategy, Region of Waterloo staff have identified a water capacity constraint within the Mannheim Service Area, which supplies water to Kitchener, Waterloo, and parts of Cambridge, Woolwich, and Wilmot. As a result, the Region has currently been unable to enter into any new servicing agreements or support the approval of development applications within this service area, until such time that sufficient capacity becomes available; </p>\n<p>Whereas the Region continues to work closely with its municipal partners on moving short, medium, and long-term solutions forward as expeditiously as possible;</p>\n<p>Whereas Regional Council approved a Water Capacity Allocation Policy on May 6, 2026, for the Mannheim Service Area, which determines how available water will be allocated once it becomes available:</p>\n<p>Whereas Regional Council approved the Interim Risk Management Framework on June 3, 2026, which assesses how staged development can proceed under certain risk-based conditions in the Mannheim Service Area;</p>\n<p>Whereas the details of any Municipal Forward Facing/Looking Servicing Agreements (MFSA’s) rest solely with Area Municipalities with respect to Planning Act and Building Code Act approvals;</p>\n<p>Whereas there are existing draft plans of subdivision that received draft approval prior to May 6, 2026, and which require a servicing agreement as a condition of draft plan approval, may be exempt from this motion; </p>\n<p><strong>Therefore, be it resolved</strong> that the Region of Waterloo prepare an administrative agreement in conjunction with Area Municipalities by <strong>July 8, 2026</strong> for execution by all relevant parties to implement the Regional Water Allocation Framework which will enable water allocation by the Region to an area municipalities  in accordance with the Interim Risk Management Framework (IRMF) allocation schedule, as presented on June 3, 2026, with the following: </p>\n<p><strong><em>Estimated </em></strong><strong><em>Overall Allocation</em></strong></p>\n<ul>\n<li><strong><em> </em></strong>July 1, 2026 - 20 L/S</li>\n<li>October 1, 2026 - 40 L/S</li>\n<li>January 1, 2027 - 55 L/S</li>\n<li>July 1, 2028 - 25 L/S</li>\n<li>October 1, 2028 - 50 L/S</li>\n<li>July 1, 2030 - 45 L/S</li>\n<li>October 1, 2030 - 60 L/S and</li>\n<li>January 1, 2031 - 20 L/S; and,</li>\n</ul>\n<p><strong>Further, Be It Resolved</strong> that such Administrative Agreements aim to include the following provisions, namely:</p>\n<ul>\n<li>Requirement for area municipalities to report all building permits to the Region for ongoing monitoring of water allocated against their share of the above allocation table,</li>\n<li>Notification processes for the Region to inform area municipalities if available water capacity is more than projected in the above table, or available earlier than expected,</li>\n<li>Notification timing provisions for the Region to notify Area Municipalities if it cannot meet the IRMF allocation schedule as listed above,</li>\n<li>Force Majeure clause, in case the Region is unable to meet its anticipated additional allocations due to an act outside of its control; and</li>\n</ul>\n<p><strong>Further, Be It Resolved</strong> that the Region of Waterloo enable any area municipality to enter into Forward Facing/Looking Servicing Agreements for developments subject to the allocation table above; and</p>\n<p><strong>Further, Be It Resolved</strong> that the Region coordinate any required regional approvals, required by an Area Municipality’s Forward Facing Servicing Agreements (MFSA), such approvals not to be withheld as long as the MFSA’s were issued within the parameters of the above allocation tables and the requirements of such approvals are met;  </p>\n<p><strong>And Finally, Be It Resolved</strong> that except in the case of draft plans of subdivision that were draft approved prior to May 6, and which may be exempt from this motion, all Forward Facing/Looking Servicing Agreements shall be executed between an Area Municipality and the property owner, in accordance with the overall water allocation granted to an Area Municipality by the Region. </p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m22",
+   "item": "95",
+   "item_number": "12.5",
+   "item_title": "PDL-GDS-26-018, Forward Looking Service Agreements (Response to Resolution 4)",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Foxton",
+   "text": "That Regional Municipality of Waterloo agree to extend the Council meeting up to 1:00 a.m.",
+   "text_html": "<p>That Regional Municipality of Waterloo agree to extend the Council meeting up to 1:00 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m23",
+   "item": "94",
+   "item_number": "12.5.1",
+   "item_title": "Deferred Motion - June 3, 2026",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "McCabe",
+   "text": "Provide clarity and sign off on Form 1’s working with area municipalities to permit projects that have already received full planning approvals to proceed through conditional building permits and phased construction without further unnecessary delay; and In consultation with the provincial land facilitation office.",
+   "text_html": "<p>Provide clarity and sign off on Form 1’s working with area municipalities to permit projects that have already received full planning approvals to proceed through conditional building permits and phased construction without further unnecessary delay; and<br/>In consultation with the provincial land facilitation office.</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m24",
+   "item": "106",
+   "item_number": "14.1",
+   "item_title": "Councillor M. Rodrigues",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Foxton",
+   "text": "That the Regional Municipality of Waterloo waive notice of motion as per section 53 of By-law 26-017, A By-law to Provide Rules for Governing the Proceedings of Council and its Committees, and to repeal By-Law 22-051, as amended.",
+   "text_html": "<p>That the Regional Municipality of Waterloo waive notice of motion as per section 53 of By-law 26-017, A By-law to Provide Rules for Governing the Proceedings of Council and its Committees, and to repeal By-Law 22-051, as amended.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m25",
+   "item": "106",
+   "item_number": "14.1",
+   "item_title": "Councillor M. Rodrigues",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Wolf",
+   "text": "WHEREAS there is a need to support and manage the continued operations of The Hydrocut trail system and its role as a major destination in Ontario and beyond, since the original Stewardship Agreement was signed in 2009; THEREFORE BE IT RESOLVED THAT the Commissioner of Planning, Development, and Legislative Services: 1. Report to Sustainability, Infrastructure, and Development Committee in Fall 2026 on potential amendments to the existing Stewardship Agreement with The Hydrocut operations on Regional property, including continued mountain bike trail development identified therein; and 2. Engage with The Hydrocut through the ongoing Regional Forest Management Plan to identify a long-term strategy for access, servicing, land, and forest management.",
+   "text_html": "<p>WHEREAS there is a need to support and manage the continued operations of The Hydrocut trail system and its role as a major destination in Ontario and beyond, since the original Stewardship Agreement was signed in 2009;</p>\n<p>THEREFORE BE IT RESOLVED THAT the Commissioner of Planning, Development, and Legislative Services:</p>\n<p>1.    Report to Sustainability, Infrastructure, and Development Committee in Fall 2026 on potential amendments to the existing Stewardship Agreement with The Hydrocut operations on Regional property, including continued mountain bike trail development identified therein; and</p>\n<p>2.    Engage with The Hydrocut through the ongoing Regional Forest Management Plan to identify a long-term strategy for access, servicing, land, and forest management.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m26",
+   "item": "37",
+   "item_number": "18",
+   "item_title": "Enactment of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Shantz",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m27",
+   "item": "69",
+   "item_number": "18.1",
+   "item_title": "By-law 26-032",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Shantz",
+   "text": "That a By-law to confirm and authorize participation in the OMERS Primary Pension Plan (“Primary Plan”) and the Retirement Compensation Arrangement for the OMERS Primary Pension Plan (“RCA”), each as amended from time to time, of the employees and Councillors of the Regional Municipality of Waterloo (“Employer”) identified herein, to allow for a reservist leave contribution, and to repeal By-laws 54-73 and 01-023 of The Regional Municipality of Waterloo, be read a first, second and third time, finally passed and numbered 26-032, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to confirm and authorize participation in the OMERS Primary Pension Plan (“Primary Plan”) and the Retirement Compensation Arrangement for the OMERS Primary Pension Plan (“RCA”), each as amended from time to time, of the employees and Councillors of the Regional Municipality of Waterloo (“Employer”) identified herein, to allow for a reservist leave contribution, and to repeal By-laws 54-73 and 01-023 of The Regional Municipality of Waterloo, be read a first, second and third time, finally passed and numbered 26-032, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m28",
+   "item": "46",
+   "item_number": "18.2",
+   "item_title": "By-law 26-033",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Shantz",
+   "text": "That a By-law to appoint the Deputy Treasurer and repeal By-law 24-004, be read a first, second and third time, finally passed and numbered 26-033, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to appoint the Deputy Treasurer and repeal By-law 24-004, be read a first, second and third time, finally passed and numbered 26-033, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m29",
+   "item": "68",
+   "item_number": "18.3",
+   "item_title": "By-law 26-034",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Shantz",
+   "text": "That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Through Highways and Intersection Stop Signs), be read a first, second and third time, finally passed and numbered 26-034 be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Through Highways and Intersection Stop Signs), be read a first, second and third time, finally passed and numbered 26-034 be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m30",
+   "item": "90",
+   "item_number": "18.4",
+   "item_title": "By-law 26-035",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Shantz",
+   "text": "That a By-law of The Regional Municipality of Waterloo to delegate authority to the outgoing council to pass By-law(s) to authorize the passing of a By-law authorizing The Regional Municipality of Waterloo to invest its money and investments that it does not require immediately in the Prudent Investment Program of ONE Joint Investment Board (“ONE JIB”) pursuant to Section 418.1 of the Municipal Act, 2001 and to approve various documents, the entering into of specific agreements and the delegation of certain powers and duties, be read a first, second and third time, finally passed and numbered 26-035, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law of The Regional Municipality of Waterloo to delegate authority to the outgoing council to pass By-law(s) to authorize the passing of a By-law authorizing The Regional Municipality of Waterloo to invest its money and investments that it does not require immediately in the Prudent Investment Program of ONE Joint Investment Board (“ONE JIB”) pursuant to Section 418.1 of the <em>Municipal Act, 2001</em> and to approve various documents, the entering into of specific agreements and the delegation of certain powers and duties, be read a first, second and third time, finally passed and numbered 26-035, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m31",
+   "item": "111",
+   "item_number": "18.5",
+   "item_title": "By-Law 26-036",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Shantz",
+   "text": "That A By-Law to amend By-Law Number 25-066 A By-law to Establish Fees and Charges for the Regional Municipality of Waterloo and repeal By-law 24-052, as Amended be read a first, second and third time, finally passed and numbered 26-036, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That A By-Law to amend By-Law Number 25-066 A By-law to Establish Fees and Charges for the Regional Municipality of Waterloo and repeal By-law 24-052, as Amended be read a first, second and third time, finally passed and numbered 26-036, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m32",
+   "item": "38",
+   "item_number": "18.6",
+   "item_title": "By-law 26-037",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Shantz",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on June 17, 2026, be read a first, second and third time, finally passed and numbered 26-037, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on June 17, 2026, be read a first, second and third time, finally passed and numbered 26-037, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m33",
+   "item": "39",
+   "item_number": "19",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Shantz",
+   "text": "That the meeting adjourn at 12:03 a.m.",
+   "text_html": "<p>That the meeting adjourn at 12:03 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {
+  "m12": "conflict (1)",
+  "m13": "conflict (1)"
+ },
+ "vote_problems": [],
+ "vote_notes": []
+}

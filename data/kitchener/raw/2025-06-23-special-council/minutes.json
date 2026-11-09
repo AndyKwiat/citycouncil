@@ -1,0 +1,121 @@
+{
+ "title": "Special Council Meeting - June 23, 2025",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Davey",
+  "Schnider",
+  "Deneault",
+  "Owodunni",
+  "Singh",
+  "Ioannidis",
+  "Johnston",
+  "Chapman",
+  "Stretch",
+  "Michaud"
+ ],
+ "absent": [
+  "Michaud"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 9.907,
+   "video_end": 212.322,
+   "notes": [
+    "<p>A meeting of City Council was held at 3:45 p.m. this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 212.322,
+   "video_end": 218.634,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "3",
+   "title": "Mayoral Business and Updates - Mayor B. Vrbanovic",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "4",
+   "title": "In-camera Meeting Authorization",
+   "closed": false,
+   "video_start": 218.634,
+   "video_end": 238.805,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "10",
+   "number": "5",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 238.805,
+   "video_end": 254.414,
+   "notes": [
+    "<p>On motion the meeting adjourned at 3:47 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "4",
+   "item_title": "In-camera Meeting Authorization",
+   "name": "",
+   "moved_by": "Schnider",
+   "seconded_by": "Stretch",
+   "text": "\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider five items: one solicitor-client privilege matter, two land acquistion matters; one personal matter about an identifiable individual and position/plan or instruction to be applied to negotiations ; and, one matter having third-party information supplied in confidence to the municipality as authorized by Sections 239 (2) (b) (c) (f) (i) and (k) of the Municipal Act, 2001, respectively.\"",
+   "text_html": "<p>\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider five items: one solicitor-client privilege matter, two land acquistion matters; one personal matter about an identifiable individual and position/plan or instruction to be applied to negotiations; and, one matter having third-party information supplied in confidence to the municipality as authorized by Sections 239 (2) (b) (c) (f) (i) and (k) of the Municipal Act, 2001, respectively.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

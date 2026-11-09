@@ -1,0 +1,128 @@
+{
+ "title": "Special Council - May 29, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf",
+  "Craig",
+  "Deutschmann",
+  "Williams"
+ ],
+ "absent": [
+  "Craig",
+  "Deutschmann",
+  "Williams"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Acting Regional Chair C. Huinink called the meeting to order at 9:00 a.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Acting Regional Chair C. Huinink provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "4",
+   "title": "Strategic Planning Workshop",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Heather Russek, and Jessica Thornton, Creative Futures, led Council through a workshop on the priorities for the 2023-2027 strategic plan.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "5",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "12",
+   "item_number": "5",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Erb",
+   "text": "That the meeting adjourn at 11:42 a.m.",
+   "text_html": "<p>That the meeting adjourn at 11:42 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

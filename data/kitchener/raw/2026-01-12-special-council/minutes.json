@@ -1,0 +1,192 @@
+{
+ "title": "Special Council Meeting - January 12, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Davey",
+  "Deneault",
+  "Michaud",
+  "Owodunni",
+  "Singh",
+  "Ioannidis",
+  "Johnston",
+  "Chapman",
+  "Stretch",
+  "Schnider"
+ ],
+ "absent": [
+  "Schnider"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 77.342,
+   "video_end": 8653.664,
+   "notes": [
+    "<p>A special meeting of City Council was held at 4:36 p.m. this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 116.123,
+   "video_end": 2955.262,
+   "notes": [
+    "<p>None.</p>\n<p>Councillor S. Stretch entered the meeting at this time. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 2942.278,
+   "video_end": 2947.544,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "4",
+   "title": "In-camera Meeting Authorization",
+   "closed": false,
+   "video_start": 147.795,
+   "video_end": 1735.287,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "14",
+   "number": "5",
+   "title": "Recess and Reconvene",
+   "closed": false,
+   "video_start": 1744.897,
+   "video_end": 2246.119,
+   "notes": [
+    "<p>Council recessed at 4:40 p.m. and reconvened at 8:31 p.m., chaired by Mayor B. Vrbanovic with all members present save and except D. Schnider.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "6",
+   "title": "Council Member Appointments to Boards and Committees",
+   "closed": false,
+   "video_start": 2255.728,
+   "video_end": 2942.278,
+   "notes": [
+    "<p>Due to absences, Mayor B. Vrbanovic noted that consideration of the council appointments to Boards and Committees be deferred to the January 26, 2026 Special Council meeting.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "2025-2026 - Working Document Council Appointments to Committees.pdf",
+     "url": "https://pub-kitchener.escribemeetings.com/filestream.ashx?DocumentId=32234"
+    }
+   ],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "6",
+   "number": "7",
+   "title": "Mayoral Business and Updates - Mayor B. Vrbanovic",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "8",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>On motion the meeting adjourned at 8:32 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "4",
+   "item_title": "In-camera Meeting Authorization",
+   "name": "",
+   "moved_by": "Chapman",
+   "seconded_by": "Michaud",
+   "text": "\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider two position/procedures to be applied to negotiations matters and one potential litigation matter as authorized by Sections 239 (2) (e) and (k) of the Municipal Act, 2001, respectively.\"",
+   "text_html": "<p>\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider two position/procedures to be applied to negotiations matters and one potential litigation matter as authorized by Sections 239 (2) (e) and (k) of the Municipal Act, 2001, respectively.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "5",
+   "item_number": "6",
+   "item_title": "Council Member Appointments to Boards and Committees",
+   "name": "",
+   "moved_by": "Owodunni",
+   "seconded_by": "Davey",
+   "text": "\"That the council appointments to boards and committees be deferred to the January 26, 2026 Special Council meeting.\"",
+   "text_html": "<p>\"That the council appointments to boards and committees be deferred to the January 26, 2026 Special Council meeting.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

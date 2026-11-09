@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "cd70efa8-40f6-421d-8f37-6ae28759a704",
+ "city": "kitchener",
+ "key": "2024-04-29-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2024-04-29T15:00:00",
+ "end": "2024-04-29T16:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=cd70efa8-40f6-421d-8f37-6ae28759a704&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=17945",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=cd70efa8-40f6-421d-8f37-6ae28759a704&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=cd70efa8-40f6-421d-8f37-6ae28759a704&Agenda=PostMinutes&lang=English",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "13f3122820b26ffcf1b4ffac8c94d1e22239824c6fde8651310be8e445245426"
+ }
+}

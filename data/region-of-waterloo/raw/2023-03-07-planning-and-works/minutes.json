@@ -1,0 +1,937 @@
+{
+ "title": "Planning and Works - March 07, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Deutschmann",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Williams",
+  "Wolf"
+ ],
+ "absent": [
+  "Wolf"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 159.998,
+   "video_end": 162.294,
+   "notes": [
+    "<p>Chair C. James called the meeting to order at 12:45 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 165.214,
+   "video_end": 169.65,
+   "notes": [
+    "<p>Chair C. James provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 169.65,
+   "video_end": 179.582,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 182.565,
+   "video_end": 183.018,
+   "notes": [
+    "<p>There were no presentations.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 183.018,
+   "video_end": 184.408,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "42",
+   "number": "5.1",
+   "title": "Hanna Domagala, Sr Project Manager, 879115 Ontario Inc",
+   "closed": false,
+   "video_start": 184.408,
+   "video_end": 537.633,
+   "notes": [
+    "<p>Hanna Domagala, Sr Project Manager from 879115 Ontario Inc appeared virtually before the Committee to share concerns regarding the proposed closing of the Lancaster Street and Highway 85 ramp, noting that this will increase traffic on the Bridgeport ramps, which are already difficult to turn left/east from. H. Domagala urged Council to consider the necessity of this project and the impact it will have.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "7",
+   "title": "Regular Agenda",
+   "closed": false,
+   "video_start": 2630.455,
+   "video_end": 2631.345,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "7.3",
+   "title": "Strategic Focus - Sustainable Transportation",
+   "closed": false,
+   "video_start": 7155.974,
+   "video_end": 7161.847,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "30",
+   "number": "7.3.1",
+   "title": "TSD-TRP-23-002, Lancaster Street and Highway 85 Ramp Closure Environmental Assessment Study – Recommendation",
+   "closed": false,
+   "video_start": 537.633,
+   "video_end": 1829.838,
+   "notes": [
+    "<p>Mathieu Goetzke, Commissioner Transportation Services, introduced the report, explaining that from a Ministry of Transportation (MTO) standpoint, the Lancaster ramps are not performing well, mostly due to collisions. M. Goetzke also noted that the ramps have relatively low usage compared to others, and that the closure of these ramps would provide an opportunity for a critical cycling connection to be implemented. M. Goetzke provided an overview of the public engagement that has taken place, including roughly 700 survey responses.</p>\n<p>In response to the Committee, M. Goetzke noted that the risk of deferring this decision could potentially be missing the window of opportunity with MTO. The Committee expressed concerns with the lack of engagement with Kitchener City Councillors. </p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1",
+    "m2"
+   ]
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Consent Agenda",
+   "closed": false,
+   "video_start": 2556.127,
+   "video_end": 2630.455,
+   "notes": [
+    "<p>There were no requests to remove items from the Consent Agenda.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "7",
+   "number": "6.1",
+   "title": "Strategic Focus - Thriving Economy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "26",
+   "number": "6.1.1",
+   "title": "PDL-CPL-23-004, Building Permit Activity, January-June 2022",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>This report was received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "6.2",
+   "title": "Strategic Focus - Sustainable Transportation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "27",
+   "number": "6.2.1",
+   "title": "PDL-LEG-23-011, Authorization to Expropriate Lands (1st Report) for Construction of a Roundabout at the Intersection of Cedar Creek Road and Trussler Road, in the Township of North Dumfries, and County Road No. 8, in the County of Oxford",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "31",
+   "number": "6.2.2",
+   "title": "TSD-TRP-23-003, Transit Priority Lane Designation on King Street at Weber Street, City of Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "33",
+   "number": "6.2.3",
+   "title": "TSD-TRP-23-004, Proposed No Parking Anytime Restriction on Foundry Street (Regional Road 51) between Beck Street and Charles Street in the Township of Wilmot",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "36",
+   "number": "6.2.4",
+   "title": "EES-DCS-23-001, Notice of Completion for the University Avenue (Regional Road 57) Rehabilitation and Improvements, Albert Street to Weber Street, City of Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "6.3",
+   "title": "Strategic Focus - Environmental and Climate Action",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "25",
+   "number": "6.3.1",
+   "title": "EES-WAS-23-001, 2022 Annual Drinking Water Regulatory Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ]
+  },
+  {
+   "id": "28",
+   "number": "6.3.2",
+   "title": "PDL-LEG-23-012, Approval to Expropriate Lands (2nd Report) at 2322 Snyder’s Road East, in the Township of Wilmot",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ]
+  },
+  {
+   "id": "32",
+   "number": "6.3.3",
+   "title": "EES-WAS-23-002, Notice of Completion for the Heidelberg Water Supply System Optimization Class Environmental Assessment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ]
+  },
+  {
+   "id": "34",
+   "number": "6.3.4",
+   "title": "PDL-CPL-23-001, Summary Report of Development Application Activity for 2022",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>This report was received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "7",
+   "title": "Regular Agenda",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "7.1",
+   "title": "Strategic Focus – Healthy, Safe and Inclusive Communities",
+   "closed": false,
+   "video_start": 2631.345,
+   "video_end": 2632.063,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "7.1.1",
+   "title": "CAO-REC-23-001, Indigenous Space Needs Final Report (Staff Presentation)",
+   "closed": false,
+   "video_start": 2632.063,
+   "video_end": 3483.927,
+   "notes": [
+    "<p>Paula Whitlow, Director, Truth and Reconciliation provided a presentation on the report, which included an overview of the project goals and engagement process. P. Whitlow shared that common themes for space attributes included an accessible physical indoor space, cultural and sustaining opportunities on the natural land, and wrap-around services. P. Whitlow noted that staff are excited to continue to build momentum in the community and explore options for a way forward, working towards reconciliation and establishing authentic long term relationships.</p>\n<p>A copy of the presentation is attached to the minutes. This report was received for information.</p>\n<p>In response to the Committee, P. Whitlow shared that the needs are varied and that sharing a space with other groups is not off the table, although was not specifically mentioned during the engagement process. </p>\n<p>Responding to questions from the Committee, Kara McLean, Head, External Stakeholder Management, confirmed that the work was done on behalf of all area municipalities and that there was representation from all municipalities. K. McLean explained that the report looks at how as a community we can respond to the diverse needs, which includes looking to the private sector. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "Presentation - Indigenous Space Needs.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=3114"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "39",
+   "number": "7.2",
+   "title": "Strategic Focus - Thriving Economy",
+   "closed": false,
+   "video_start": 3483.927,
+   "video_end": 3485.489,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "37",
+   "number": "7.2.1",
+   "title": "PDL-ECD-23-003, Charles Street Terminal Visioning Process, Community Consultation and Environmental Findings Update (Staff Presentation)",
+   "closed": false,
+   "video_start": 3485.489,
+   "video_end": 4549.61,
+   "notes": [
+    "<p>Matthew Chandy, Director Innovation and Economic Development and Sarah Millar, Manager, Land Portfolio provided a presentation on the Charles Street terminal visioning process, which included an overview of the history of the land, the technical and engagement work completed, and next steps for 2023. S. Millar noted that 2023 will include more stakeholder engagement, including the creation of five community connector roles. M. Chandy stated that this site is an opportunity to advance four shared community opportunities, which are, affordable housing, climate action, equity, diversity and inclusion, and a thriving economy. </p>\n<p>A copy of the presentation is attached to the minutes. This report was received for information. </p>\n<p>In response to the Committee, Rod Regier, Commissioner Planning, Development and Legislative Services confirmed that staff will come back to Council with a proposed strategy for facilitating the development of the site. R. Regier noted that Council would have the opportunity to sell the terminal outright with no conditions, if desired, but that Council does have the right to determine what the scope would be, in collaboration with the City of Kitchener. </p>\n<p>Responding to questions from the Committee, M. Chandy explained that specific outreach for different community groups is planned for 2023, including Indigenous groups, and that staff will reach out to City of Kitchener staff to determine how they can specifically target groups, such as condo boards. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "Appendix B - PDL-ECD-23-003, Presentation Slide Deck, Planning and Works Committee March 7, 2023.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=3113"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "38",
+   "number": "7.2.2",
+   "title": "PDL-CPL-23-003, Year-End 2022 Population and Household Estimates for Waterloo Region (Staff Presentation)",
+   "closed": false,
+   "video_start": 5437.915,
+   "video_end": 7155.974,
+   "notes": [
+    "<p>Danielle De Fields, Director, Community Planning provided a presentation, which provided an overview of how the Region will grow over the next 30 years, including a population forecast and housing mix. </p>\n<p>A copy of the presentation is attached to the minutes. This report was received for information.</p>\n<p>M. Harris joined at 1:58 p.m.</p>\n<p>In response to the Committee, R. Regier noted that the Bill 23 target of 7,000 new homes will be a challenge. R. Regier stated that the necessary land is available, but that the market may have a challenge in delivering those homes due to supply chain issues and labour shortage. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "Presentation - Population Growth and Housing Supply March 7.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=3112"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "7.3",
+   "title": "Strategic Focus - Sustainable Transportation",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "35",
+   "number": "7.3.2",
+   "title": "TSD-TRS-23-002, Grand River Transit 2023 Transit Network for Cambridge Service Area",
+   "closed": false,
+   "video_start": 7161.847,
+   "video_end": 7440.887,
+   "notes": [
+    "<p>M. Goetzke introduced the report, noting that it is a significant change to the Cambridge transit network, in an effort to better connect neighbourhoods.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ]
+  },
+  {
+   "id": "40",
+   "number": "7.3.3",
+   "title": "Verbal Update: ION LRT Winter Operations",
+   "closed": false,
+   "video_start": 7440.887,
+   "video_end": 9129.304,
+   "notes": [
+    "<p>M. Goetzke and Keolis staff provided a verbal update on the ION LRT winter operations, explaining that the Region owns the network and Keolis maintains and operates it.</p>\n<p>Richard Dean from Keolis, noted that this particular winter has been very challenging for the team due to freezing rain and ice accumulation. R. Dean provided an overview of potential solutions, such as a scraping device, painting deicing fluid onto the wire, and shuttle buses, as well as their respective benefits and challenges. R. Dean stressed the importance of learning, and making adjustments and improvements as we learn and work on the process. </p>\n<p>This verbal update was received for information.</p>\n<p>In response to the Committee, R. Dean noted that continuous service would help to keep ice off the line, however, maintenance needs must be factored in as well. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "8",
+   "title": "Information/Correspondence",
+   "closed": false,
+   "video_start": 9129.304,
+   "video_end": 9131.755,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "21",
+   "number": "8.1",
+   "title": "Council/Committee Tracking List",
+   "closed": false,
+   "video_start": 9131.755,
+   "video_end": 9148.074,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "45",
+   "number": "8.2",
+   "title": "Correspondence Received Regarding The Settlement of Jackson Harvest Farms LTD, 1894-1922 Witmer Road, Wilmot",
+   "closed": false,
+   "video_start": 9148.074,
+   "video_end": 9149.354,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "46",
+   "number": "8.3",
+   "title": "Correspondence Received Regarding TSD-TRP-23-002, Lancaster Street and Highway 85 Ramp Closure Environmental Assessment Study – Recommendation",
+   "closed": false,
+   "video_start": 9149.354,
+   "video_end": 9150.057,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "43",
+   "number": "9",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": 9150.057,
+   "video_end": 9151.79,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "44",
+   "number": "9.1",
+   "title": "Councillor S. Foxton",
+   "closed": false,
+   "video_start": 9151.79,
+   "video_end": 9256.07,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ]
+  },
+  {
+   "id": "22",
+   "number": "10",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 9256.07,
+   "video_end": 9400.155,
+   "notes": [
+    "<p>J. Liggett provided a summary of her recent experience at the Gateway to Growth Summit.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "23",
+   "number": "11",
+   "title": "Next Meeting- April 4, 2023",
+   "closed": false,
+   "video_start": 9400.155,
+   "video_end": 9402.108,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "41",
+   "number": "12",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": 1260.169,
+   "video_end": 9434.192,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ]
+  },
+  {
+   "id": "24",
+   "number": "13",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 9434.192,
+   "video_end": 9476.62,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "30",
+   "item_number": "7.3.1",
+   "item_title": "TSD-TRP-23-002, Lancaster Street and Highway 85 Ramp Closure Environmental Assessment Study – Recommendation",
+   "name": "",
+   "moved_by": "Craig",
+   "seconded_by": "Deutschmann",
+   "text": "That the previous question be called.",
+   "text_html": "<p>That the previous question be called.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "30",
+   "item_number": "7.3.1",
+   "item_title": "TSD-TRP-23-002, Lancaster Street and Highway 85 Ramp Closure Environmental Assessment Study – Recommendation",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Deutschmann",
+   "text": "That the Regional Municipality of Waterloo defer the motion discussed under item 7.3.1. TSD-TRP-23-002, Lancaster Street and Highway 85 Ramp Closure Environmental Assessment Study to no later than our next cycle of Regional Committee meetings on April 4, 2023 and as early as Council on March 22, 2023.",
+   "text_html": "<p>That the Regional Municipality of Waterloo defer the motion discussed under item 7.3.1. TSD-TRP-23-002, Lancaster Street and Highway 85 Ramp Closure Environmental Assessment Study to no later than our next cycle of Regional Committee meetings on April 4, 2023 and as early as Council on March 22, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m3",
+   "item": "6",
+   "item_number": "6",
+   "item_title": "Consent Agenda",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Williams",
+   "text": "That the Consent Agenda items be received for information and approved.",
+   "text_html": "<p>That the Consent Agenda items be received for information and approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m4",
+   "item": "27",
+   "item_number": "6.2.1",
+   "item_title": "PDL-LEG-23-011, Authorization to Expropriate Lands (1st Report) for Construction of a Roundabout at the Intersection of Cedar Creek Road and Trussler Road, in the Township of North Dumfries, and County Road No. 8, in the County of Oxford",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Williams",
+   "text": "That the Regional Municipality of Waterloo direct and authorize the Regional Solicitor to take the following actions with respect to the expropriation of lands for improvements at the intersection of Cedar Creek Road (Regional Road No. 97) and Trussler Road (Regional Road No. 70), in the Township of North Dumfries, in the Regional Municipality of Waterloo, and County Road No. 8, in the County of Oxford, as detailed in report PDL-LEG-23-011, dated March 7, 2023. Complete application(s) to the Council of The Regional Municipality of Waterloo, as may be required from time to time, for approval to expropriate land, which is required for improvements at the intersection of Cedar Creek Road (Regional Road No. 97), Trussler Road (Regional Road No. 70) and County Road No. 8, and described as follows: Fee Simple Partial Taking: Part of Lot 1, Concession 13, being Parts 2 and 4 on 41R-10418, (Part of PIN 00297-0021 (LT)), Township of Blanford-Blenheim, County of Oxford (3541 Trussler Road, Blandford-Blenheim); Part of Lot 1, Concession 12, being Part 5 on 41R-10418, (Part of PIN 00296-0025 (LT)), Township of Blanford-Blenheim, County of Oxford (927762 Oxford Road 8, Blandford-Blenheim); Part of Lot 38, Concession 11, being Parts 1 and 2 on 58R-21584, (Part of PIN 03847-0461 (LT)), Township of North Dumfries, Regional Municipality of Waterloo (3434 Trussler Road, North Dumfries); Part of Lot 38, Concession 10, being Part 3 on 58R-21584, (Part of PIN 03850-0282 (LT)), Township of North Dumfries, Regional Municipality of Waterloo (3704 Trussler Road, North Dumfries); Temporary Easement – Grading: The right and easement, being a temporary easement in gross, for the free and unobstructed, right, interest and easement terminating, for the subject property set out below, on the 31 st day of December, 2024, for itself, its successors and assigns, and anyone authorized by it, on, over, under and through the following property for the purposes of excavation, construction, installation, replacement, alteration, grading, and landscaping as required in connection with the improvements at the intersection of Cedar Creek Road, Trussler Road and County Road No. 8, and all related improvements, and works ancillary thereto and for such purposes, the free, unimpeded and unobstructed access to the lands at all times by employees, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement: I.Part of Lot 1, Concession 13, being Parts 1 and 3 on 41R-10418, (Part of PIN 00297-0021 (LT)), Township of Blanford-Blenheim, County of Oxford (3541 Trussler Road, Blandford-Blenheim); 2.Serve notices of the above applications(s) required by the Expropriations Act (the “Act”); 3.Forward to the Chief Inquiry Officer any requests for a hearing that may be received within the time prescribed by the Act; 4.Attend, with appropriate Regional staff, at any hearing that may be scheduled; 5.Discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete a transaction whereby the required interests in the lands are conveyed or if otherwise deemed appropriate in the opinion of the Commissioner of Engineering and Environmental Services and the Regional Solicitor; and 6.Do all things necessary and proper to be done and report thereon to Regional Council in due course.",
+   "text_html": "<p>That the Regional Municipality of Waterloo direct and authorize the Regional Solicitor to take the following actions with respect to the expropriation of lands for improvements at the intersection of Cedar Creek Road (Regional Road No. 97) and Trussler Road (Regional Road No. 70), in the Township of North Dumfries, in the Regional Municipality of Waterloo, and County Road No. 8, in the County of Oxford, as detailed in report PDL-LEG-23-011, dated March 7, 2023.</p>\n\n<ol>\n<li>Complete application(s) to the Council of The Regional Municipality of Waterloo, as may be required from time to time, for approval to expropriate land, which is required for improvements at the intersection of Cedar Creek Road (Regional Road No. 97), Trussler Road (Regional Road No. 70) and County Road No. 8, and described as follows:\n<p> </p>\n</li>\n</ol>\n\n<p>Fee Simple Partial Taking:</p>\n\n<ol>\n<li>Part of Lot 1, Concession 13, being Parts 2 and 4 on 41R-10418, (Part of PIN 00297-0021 (LT)), Township of Blanford-Blenheim, County of Oxford (3541 Trussler Road, Blandford-Blenheim);\n<p> </p>\n</li>\n<li>Part of Lot 1, Concession 12, being Part 5 on 41R-10418, (Part of PIN 00296-0025 (LT)), Township of Blanford-Blenheim, County of Oxford (927762 Oxford Road 8, Blandford-Blenheim);\n<p> </p>\n</li>\n<li>Part of Lot 38, Concession 11, being Parts 1 and 2 on 58R-21584, (Part of PIN 03847-0461 (LT)), Township of North Dumfries, Regional Municipality of Waterloo (3434 Trussler Road, North Dumfries);\n<p> </p>\n</li>\n<li>Part of Lot 38, Concession 10, being Part 3 on 58R-21584, (Part of PIN 03850-0282 (LT)), Township of North Dumfries, Regional Municipality of Waterloo (3704 Trussler Road, North Dumfries);\n<p> </p>\n</li>\n</ol>\n\n<p>Temporary Easement – Grading: </p>\n<p>The right and easement, being a temporary easement in gross, for the free and unobstructed, right, interest and easement terminating, for the subject property set out below, on the 31st day of December, 2024, for itself, its successors and assigns, and anyone authorized by it, on, over, under and through the following property for the purposes of excavation, construction, installation, replacement, alteration, grading, and landscaping as required in connection with the improvements at the intersection of Cedar Creek Road, Trussler Road and County Road No. 8, and all related improvements, and works ancillary thereto and for such purposes, the free, unimpeded and unobstructed access to the lands at all times by employees, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement:</p>\n<p>I.Part of Lot 1, Concession 13, being Parts 1 and 3 on 41R-10418, (Part of PIN 00297-0021 (LT)), Township of Blanford-Blenheim, County of Oxford (3541 Trussler Road, Blandford-Blenheim);</p>\n<p>2.Serve notices of the above applications(s) required by the Expropriations Act (the “Act”);</p>\n<p>3.Forward to the Chief Inquiry Officer any requests for a hearing that may be received within the time prescribed by the Act;</p>\n<p>4.Attend, with appropriate Regional staff, at any hearing that may be scheduled;</p>\n<p>5.Discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete a transaction whereby the required interests in the lands are conveyed or if otherwise deemed appropriate in the opinion of the Commissioner of Engineering and Environmental Services and the Regional Solicitor; and</p>\n<p>6.Do all things necessary and proper to be done and report thereon to Regional Council in due course.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m5",
+   "item": "31",
+   "item_number": "6.2.2",
+   "item_title": "TSD-TRP-23-003, Transit Priority Lane Designation on King Street at Weber Street, City of Waterloo",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Williams",
+   "text": "That the Regional Municipality of Waterloo amend Traffic and Parking By-law 16-023 , a s amended to a dd to schedule 15, Southbound Right - Turn Lane Designation on King Street (Regional Road 15) at Weber Street (Regional Road 8) , Buses Excepted, in the City of Waterloo as outlined i n R eport TSD-TRP-23- 003 , dated March 7, 2023 .",
+   "text_html": "<p>That the Regional Municipality of Waterloo amend Traffic and Parking By-law 16-023, as amended to add to schedule 15, Southbound Right-Turn Lane Designation on King Street (Regional Road 15) at Weber Street (Regional Road 8), Buses Excepted, in the City of Waterloo as outlined in Report TSD-TRP-23-003, dated March 7, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m6",
+   "item": "33",
+   "item_number": "6.2.3",
+   "item_title": "TSD-TRP-23-004, Proposed No Parking Anytime Restriction on Foundry Street (Regional Road 51) between Beck Street and Charles Street in the Township of Wilmot",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Williams",
+   "text": "That the Regional Municipality of Waterloo amend the Traffic and Parking By-law 16-023, as amended, to add to Schedule 4, No Parking Anytime on the west side of Foundry Street (Regional Road 51) from Beck Street to Charles Street in the Township of Wilmot as outlined in Report TSD-TRP-23-004, dated March 7, 2023.",
+   "text_html": "<p>That the Regional Municipality of Waterloo amend the Traffic and Parking By-law 16-023, as amended, to add to Schedule 4, No Parking Anytime on the west side of Foundry Street (Regional Road 51) from Beck Street to Charles Street in the Township of Wilmot as outlined in Report TSD-TRP-23-004, dated March 7, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m7",
+   "item": "36",
+   "item_number": "6.2.4",
+   "item_title": "EES-DCS-23-001, Notice of Completion for the University Avenue (Regional Road 57) Rehabilitation and Improvements, Albert Street to Weber Street, City of Waterloo",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Williams",
+   "text": "That the Regional Municipality of Waterloo: Approve the Recommended Design Concept for the proposed University Avenue (Regional Road 57) Improvements, Albert Street to Weber Street, as described in Report EES-DCS-23-001 dated March 7, 2023; and Direct staff to file a Notice of Completion with the Ministry of the Environment, Conservation and Parks (MECP) for this Class Environmental Assessment Study by means of advertisements in local newspapers and mailings to adjacent property owners, tenants, and agencies, and place the Environmental Study Report on the public record for a period of 30 days; and Amend Traffic and Parking By-law 16-023 to add to Schedule 22, Reserved Bike Lanes on both sides of University Avenue (Regional Road 57) from King Street (Regional Road 15) to Weber Street (Regional Road 8), in the City of Waterloo as outlined in Report EES-DCS-23-001.",
+   "text_html": "<p>That the Regional Municipality of Waterloo:</p>\n\n<ol>\n<li>Approve the Recommended Design Concept for the proposed University Avenue (Regional Road 57) Improvements, Albert Street to Weber Street, as described in Report EES-DCS-23-001 dated March 7, 2023; and</li>\n<li>Direct staff to file a Notice of Completion with the Ministry of the Environment, Conservation and Parks (MECP) for this Class Environmental Assessment Study by means of advertisements in local newspapers and mailings to adjacent property owners, tenants, and agencies, and place the Environmental Study Report on the public record for a period of 30 days; and</li>\n<li>Amend Traffic and Parking By-law 16-023 to add to Schedule 22, Reserved Bike Lanes on both sides of University Avenue (Regional Road 57) from King Street (Regional Road 15) to Weber Street (Regional Road 8), in the City of Waterloo as outlined in Report EES-DCS-23-001.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m8",
+   "item": "25",
+   "item_number": "6.3.1",
+   "item_title": "EES-WAS-23-001, 2022 Annual Drinking Water Regulatory Update",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Williams",
+   "text": "That the Regional Municipality of Waterloo (Drinking Water Owner) endorse the 11 Municipal Drinking Water Licenses (MDWL) and the associated drinking water operational plans, as outlined in report EES-WAS-23-001, dated March 7, 2023 and receive for information: the 2022 Drinking Water Summary Report, and the 2022 Annual Management Review of the Drinking Water Quality Management System (DWQMS) which includes the 2022 infrastructure maintenance plan update and a summary of the 11 Municipal Drinking Water Licenses (MDWL) and associated drinking water operational plans",
+   "text_html": "<p>That the Regional Municipality of Waterloo (Drinking Water Owner) endorse the 11 Municipal Drinking Water Licenses (MDWL) and the associated drinking water operational plans, as outlined in report EES-WAS-23-001, dated March 7, 2023 and receive for information:</p>\n\n<ul>\n<li>the 2022 Drinking Water Summary Report, and</li>\n<li>the 2022 Annual Management Review of the Drinking Water Quality Management System (DWQMS) which includes the 2022 infrastructure maintenance plan update and a summary of the 11 Municipal Drinking Water Licenses (MDWL) and associated drinking water operational plans</li>\n</ul>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m9",
+   "item": "28",
+   "item_number": "6.3.2",
+   "item_title": "PDL-LEG-23-012, Approval to Expropriate Lands (2nd Report) at 2322 Snyder’s Road East, in the Township of Wilmot",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Williams",
+   "text": "That the Regional Municipality of Waterloo approve the expropriation of lands for the purpose of significant soil management needs associated with long term landfill development and operation for the remaining life of the Waterloo landfill (Site) as detailed in report PDL-LEG-23-012 dated March 7, 2023, described as follows: Fee Simple Full Taking: Part Lot 1, Concession North of Snyder's Road, Wilmot, Part 5 on 58R-6613; subject to 1077502 and 399983, being all of PIN 22184 - 0195 (LT), in the Township of Wilmot ( 2322 Snyder’s Road (formerly known as 2320 Snyder’s Road East)); And that staff be instructed to register a Plan of Expropriation for the property within three months of the granting of the approval to expropriate the property, as required by the Expropriations Act; And that the registered owners be served with a Notice of Expropriation and a Notice of Possession for the property after the registration of the Plan of Expropriation and the Regional Solicitor is authorized to take any and all actions required to enforce such Notices including but not limited to any application pursuant to Section 40 of the Expropriations Act; And that the Regional Solicitor is authorized to enter into an agreement with the registered owners, or to make an application under Section 39 of the Expropriations Act, to adjust the date for possession specified in the Notice of Possession as may be required; And that if no agreement as to compensation is made with an owner, the statutory Offer of Compensation and payment be served upon the registered owners of the property in the amount of the market value of the interests in the land as estimated by the Region’s appraiser in accordance with the Expropriations Act ; And that the Regional Solicitor be authorized to execute any Indemnity agreement or other document related to payment of the statutory Offer of Compensation; And further that the Regional Solicitor be authorized to discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete the transaction or if determined by the Commissioner of Engineering and Environmental Services that such lands, or any part or interest thereof, are not required for the subject Project as outlined in report PDL-LEG-23-012, dated March 7, 2023 .",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve the expropriation of lands for the purpose of significant soil management needs associated with long term landfill development and operation for the remaining life of the Waterloo landfill (Site) as detailed in report PDL-LEG-23-012 dated March 7, 2023, described as follows:</p>\n<p><strong>Fee Simple Full Taking:</strong></p>\n<p>Part Lot 1, Concession North of Snyder's Road, Wilmot, Part 5 on 58R-6613; subject to 1077502 and 399983, being all of PIN 22184-0195 (LT), in the Township of Wilmot (2322 Snyder’s Road (formerly known as 2320 Snyder’s Road East));</p>\n<p>And that staff be instructed to register a Plan of Expropriation for the property within three months of the granting of the approval to expropriate the property, as required by the <em>Expropriations Act;</em></p>\n<p>And that the registered owners be served with a Notice of Expropriation and a Notice of Possession for the property after the registration of the Plan of Expropriation and the Regional Solicitor is authorized to take any and all actions required to enforce such Notices including but not limited to any application pursuant to Section 40 of the <em>Expropriations Act;</em></p>\n<p>And that the Regional Solicitor is authorized to enter into an agreement with the registered owners, or to make an application under Section 39 of the <em>Expropriations Act,</em> to adjust the date for possession specified in the Notice of Possession as may be required;</p>\n<p>And that if no agreement as to compensation is made with an owner, the statutory Offer of Compensation and payment be served upon the registered owners of the property in the amount of the market value of the interests in the land as estimated by the Region’s appraiser in accordance with the <em>Expropriations Act</em>;</p>\n<p>And that the Regional Solicitor be authorized to execute any Indemnity agreement or other document related to payment of the statutory Offer of Compensation;</p>\n<p>And further that the Regional Solicitor be authorized to discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete the transaction or if determined by the Commissioner of Engineering and Environmental Services that such lands, or any part or interest thereof, are not required for the subject Project</p>\n<p>as outlined in report  PDL-LEG-23-012, dated March 7, 2023. </p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m10",
+   "item": "32",
+   "item_number": "6.3.3",
+   "item_title": "EES-WAS-23-002, Notice of Completion for the Heidelberg Water Supply System Optimization Class Environmental Assessment",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Williams",
+   "text": "That the Regional Municipality of Waterloo accept the Heidelberg Water Supply System Optimization – Project File Report as summarized in this Report EES-WAS-23-002 dated March 7, 2023; and that the Regional Municipality of Waterloo publish the Notice of Completion for the Heidelberg Water Supply System Optimization and provide the Project File Report for a public review and comment period, in accordance with the Municipal Engineers Association’s Class Environmental Assessment process.",
+   "text_html": "<p>That the Regional Municipality of Waterloo accept the Heidelberg Water Supply System Optimization – Project File Report as summarized in this Report EES-WAS-23-002 dated March 7, 2023; and</p>\n<p>that the Regional Municipality of Waterloo publish the Notice of Completion for the Heidelberg Water Supply System Optimization and provide the Project File Report for a public review and comment period, in accordance with the Municipal Engineers Association’s Class Environmental Assessment process.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m11",
+   "item": "35",
+   "item_number": "7.3.2",
+   "item_title": "TSD-TRS-23-002, Grand River Transit 2023 Transit Network for Cambridge Service Area",
+   "name": "",
+   "moved_by": "Craig",
+   "seconded_by": "Liggett",
+   "text": "That the Regional Municipality of Waterloo approve transit service improvements to be effective Monday, September 4, 2023, as described in Report No. TSD-TRS-23-002, dated March 7, 2023.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve transit service improvements to be effective Monday, September 4, 2023, as described in Report No. TSD-TRS-23-002, dated March 7, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m12",
+   "item": "44",
+   "item_number": "9.1",
+   "item_title": "Councillor S. Foxton",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Vrbanovic",
+   "text": "That the Regional Municipality of Waterloo expand the Waste / Recycling Collection Area for Downtown Ayr to include Swan Street, from Stanley Street to Fowler Street with no increase to the 2023 operating budget.",
+   "text_html": "<p>That the Regional Municipality of Waterloo expand the Waste / Recycling Collection Area for Downtown Ayr to include Swan Street, from Stanley Street to Fowler Street with no increase to the 2023 operating budget.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m13",
+   "item": "41",
+   "item_number": "12",
+   "item_title": "Closed Session",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Williams",
+   "text": "That a closed meeting of the Planning and Works, Community and Health Services, and Administration and Finance Committees be held on Tuesday, March 7, 2023 immediately following the Planning and Works Committee in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Technical, commercial, and financial information, supplied in confidence from an external organization; Providing direction to staff on a plan to be applied to negotiations; Receiving advice that is subject to solicitor-client privilege related to potential litigation; Receiving advice that is subject to solicitor-client privilege related to a proposed acquisition of lands; and Labour relations",
+   "text_html": "<p>That a closed meeting of the Planning and Works, Community and Health Services, and Administration and Finance Committees be held on Tuesday, March 7, 2023 immediately following the Planning and Works Committee in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Technical, commercial, and financial information, supplied in confidence from an external organization;</li>\n<li>Providing direction to staff on a plan to be applied to negotiations;</li>\n<li>Receiving advice that is subject to solicitor-client privilege related to potential litigation;</li>\n<li>Receiving advice that is subject to solicitor-client privilege related to a proposed acquisition of lands; and</li>\n<li>Labour relations</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m14",
+   "item": "24",
+   "item_number": "13",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Nowak",
+   "text": "That the meeting adjourn at 3:20 p.m.",
+   "text_html": "<p>That the meeting adjourn at 3:20 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

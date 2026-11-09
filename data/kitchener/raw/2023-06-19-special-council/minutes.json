@@ -1,0 +1,183 @@
+{
+ "title": "Special Council Meeting - June 19, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Davey",
+  "Schnider",
+  "Deneault",
+  "Michaud",
+  "Owodunni",
+  "Singh",
+  "Ioannidis",
+  "Johnston",
+  "Chapman",
+  "Clancy"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 166.54,
+   "video_end": 224.352,
+   "notes": [
+    "<p>A meeting of City Council was held at 12:05 p.m. this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 224.352,
+   "video_end": 228.977,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "3",
+   "title": "Notice All-Council Meeting / Region of Waterloo & Area Municipalities - For Information",
+   "closed": false,
+   "video_start": 230.977,
+   "video_end": 270.009,
+   "notes": [
+    "<p>Mayor B. Vrbanovic noted members of Kitchener City Council were invited to participate in a joint meeting with the Councils of the Regional Municipality of Waterloo and all Area Municipalities within the Region of Waterloo on Friday June 23, 2023 at 1:00 p.m. to be held at the Region of Waterloo, Council Chambers, 150 Frederick Street, Kitchener, further notice of the meeting will be published at www.regionofwaterloo.ca.  </p>\n<p>Councillor A. Owodunni entered the meeting at this time.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "4",
+   "title": "In-camera Meeting Authorization",
+   "closed": false,
+   "video_start": 270.009,
+   "video_end": 281.712,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "7",
+   "number": "5",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "5.1",
+   "title": "Three Readings",
+   "closed": false,
+   "video_start": 281.712,
+   "video_end": 304.556,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "5.1.a",
+   "title": "To confirm all actions and proceedings of the Council for June 19, 2023.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(By-Law 2023-080)</p>\n<p><strong>Carried</strong></p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "6",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>On motion the meeting adjourned at 12:07 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "6",
+   "item_number": "4",
+   "item_title": "In-camera Meeting Authorization",
+   "name": "",
+   "moved_by": "Johnston",
+   "seconded_by": "Deneault",
+   "text": "\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider a land disposition and an education session as authorized by Sections 239 (c) and (3) (1) of the Municipal Act, 2001, respectively.\"",
+   "text_html": "<p>\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider a land disposition and an education session as authorized by Sections 239 (c) and (3) (1) of the Municipal Act, 2001, respectively.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "8",
+   "item_number": "5.1",
+   "item_title": "Three Readings",
+   "name": "",
+   "moved_by": "Owodunni",
+   "seconded_by": "Clancy",
+   "text": "\"That the by-laws be given third reading, namely:",
+   "text_html": "<p>\"That the by-laws be given third reading, namely:</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

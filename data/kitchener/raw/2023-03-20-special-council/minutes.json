@@ -1,0 +1,110 @@
+{
+ "title": "Special Council Meeting - March 20, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Deneault",
+  "Michaud",
+  "Owodunni",
+  "Ioannidis",
+  "Johnston",
+  "Chapman",
+  "Clancy",
+  "Davey",
+  "Schnider",
+  "Singh"
+ ],
+ "absent": [
+  "Davey",
+  "Schnider",
+  "Singh"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 16.693,
+   "video_end": 54.919,
+   "notes": [
+    "<p>A meeting of City Council was held at 12:31 this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 54.919,
+   "video_end": 58.981,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "3",
+   "title": "In-camera Meeting Authorization",
+   "closed": false,
+   "video_start": 61.238,
+   "video_end": 93.106,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "4",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 93.106,
+   "video_end": 104.135,
+   "notes": [
+    "<p>On motion the meeting adjourned at 12:32 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "6",
+   "item_number": "3",
+   "item_title": "In-camera Meeting Authorization",
+   "name": "",
+   "moved_by": "Johnston",
+   "seconded_by": "Michaud",
+   "text": "\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider five items, a labour relations matter/personal matter about an identifiable individual, land acquisition-disposition matters, a commercial information/contractual or other negotiation matter, a security of property matter and to receive education and training as authorized by Sections 239 (a) (b) (c) (d) (i) and (3) (1) of the Municipal Act, 2001, respectively.\"",
+   "text_html": "<p>\"That an in-camera meeting of City Council be held immediately following the special council meeting this date to consider five items, a labour relations matter/personal matter about an identifiable individual, land acquisition-disposition matters, a commercial information/contractual or other negotiation matter, a security of property matter and to receive education and training as authorized by Sections 239 (a) (b) (c) (d) (i) and (3) (1) of the Municipal Act, 2001, respectively.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

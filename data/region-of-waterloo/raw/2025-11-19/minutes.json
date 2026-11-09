@@ -1,0 +1,2024 @@
+{
+ "title": "Council Meeting - November 19, 2025",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Salonen",
+  "Vrbanovic",
+  "Wolf",
+  "Gowing",
+  "Liggett",
+  "Shantz"
+ ],
+ "absent": [
+  "Liggett",
+  "Shantz"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 7:00 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "68",
+   "number": "3",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "5",
+   "number": "4",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "5",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "6",
+   "title": "Petitions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "7",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "42",
+   "number": "7.1",
+   "title": "Don Beauchamp and Patrick McMahon, Enbridge Gas",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>D. Beauchamp and P. McMahon provided a delegation related to item 12.1 PDL-LEG-25-039, New Franchise Agreement with Enbridge Gas Inc. They requested support for the renewal of the franchise agreement between the Region and Enbridge Gas.</p>\n<p>Responding to Council, D Beauchamp confirmed that Enbridge Gas Inc. has not been in communication with area municipal staff.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "7.1 - Don Beauchamp and Patrick McMahon, Enbridge Gas Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15526"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "57",
+   "number": "7.2",
+   "title": "Amy-Susanna Compton, Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>A. Compton expressed concern related to the land assembly in the Township of Wilmot. She requested that Council reverse the decision to use the land selected for industrial development. She further requested that information related to the agreement be released and that a report on the destruction of a corn crop be provided.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "62",
+   "number": "7.3",
+   "title": "Reed Nadler, Kitchener",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>R. Nadler expressed support for the expansion of the ION transit system and provided their lived experience of the benefits of high-quality public transportation.</p>\n<p>Responding to Council, R. Nadler confirmed their excitement in using transit with their friends and how the expansion with benefit the citizen of the City of Cambridge as well as other area municipalities wanting to visit.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "63",
+   "number": "7.4",
+   "title": "Samir Sharma and David Kuhn, Waterloo Undergraduate Student Association (WUSA)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>S. Sharma and D. Kuhn expressed support for the Rapid Transit to Cambridge outlined in report TSD-RTS-25-003. They highlighted that the expansion of transit will assist students in reaching campus, work, co-op placements, and beyond. They stated that a stronger transit network with ensure communities that are equitable, sustainable, and accessible for all.</p>\n<p>In response to Council, S. Sharma confirmed that the WUSA would assist in advocating to upper levels of government for financial support for ION phase 2. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "64",
+   "number": "7.5",
+   "title": "Jeremy Turner, Celina McIntosh, and Heather Callander, CUPE Local 1883",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>J. Turner provided a presentation on hybrid work as it relates to CUPE Local 1883 unionized employees. A copy of the presentation is attached to the agenda. They highlighted the benefits of hybrid work including environmental and work-life balance of staff. They further highlighted the various concerns related to increasing in-office days such as cost of office space, spread of seasonal illness, commuting time loss, and overall rigidity in routine.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "7.5 - CUPE Local 1883 Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15531"
+    },
+    {
+     "name": "CUPE 1883 Hybrid Work Report.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15532"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "67",
+   "number": "7.6",
+   "title": "Gabriella Kalapos, Climate Action Partnership (formerly Clean Air Partnership)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>G. Kalapos, Climate Action Partnership, spoke to the proposed new franchise agreement with Enbridge Gas Inc. as outline in agenda item 11.1. She expressed concern that Enbridge Gas does not have to pay for the right of way in Ontario and suggested that this is a potential revenue loss. She requested that Council not agree to the model franchise as there are environmental impacts.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "7.6 - Gabriella Kalapos, Climate Action Partnership presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15529"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "72",
+   "number": "7.7",
+   "title": "Madhav Garg, Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>M. Garg expressed full support for the expansion of the ION phase 2 and requested that the Region continue to look for opportunities to further expand light rails as buses are becoming overcrowded and are not as efficient.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "8",
+   "title": "Minutes of Previous Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "10",
+   "number": "8.1",
+   "title": "Strategic Planning and Budget Committee - October 22, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "8.2",
+   "title": "Closed Strategic Planning and Budget Committee - October 22, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "8.3",
+   "title": "Closed Council - October 22, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "48",
+   "number": "8.4",
+   "title": "Council - October 22, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "8.5",
+   "title": "Sustainability, Infrastructure, and Development Committee - November 4, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "47",
+   "number": "8.6",
+   "title": "Closed Committee - November 4, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "8.7",
+   "title": "Special Council - November 4, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "8.8",
+   "title": "Administration and Finance Committee - November 4, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "8.9",
+   "title": "Community and Health Services Committee - November 4, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "9",
+   "title": "Communications",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "9.1",
+   "title": "Council Information Package - November 12, 2025 (Distributed to Councillors Electronically)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "66",
+   "number": "9.2",
+   "title": "Correspondence - Greater Kitchener Waterloo Chamber of Commerce",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Greater Kitchener Waterloo Chamber of Commerce - Enbridge Support Letter.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15528"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "74",
+   "number": "9.3",
+   "title": "Correspondence - Craig Sloss",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Craig Sloss - LRT Extension Support Letter.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15530"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "75",
+   "number": "9.4",
+   "title": "Correspondence - Marie Schroeder, Waterloo Region Home Builders Association (WRHBA)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Marie Schroeder, Waterloo Region Home Builders Association (WRHBA) - Support for Enbridge.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15534"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "10",
+   "title": "Motion to Go Into Committee of the Whole to Consider Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "20",
+   "number": "11",
+   "title": "Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "21",
+   "number": "11.1",
+   "title": "Finance Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "58",
+   "number": "11.1.1",
+   "title": "COR-TRY-25-033, Increase to T2024-194 - Snow Removal and Disposal for Central, Heidelberg, And Philipsburg Patrol Areas",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "COR-TRY-25-033, Increase to T2024-194 - Snow Removal and Disposal for Central, Heidelberg, And Philipsburg Patrol Areas.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15524"
+    }
+   ],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "59",
+   "number": "11.1.2",
+   "title": "COR-TRY-25-034, T2025-157 Library Headquarters Roof Replacement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "COR-TRY-25-034, T2025-157 Library Headquarters Roof Replacement.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15523"
+    }
+   ],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "22",
+   "number": "11.2",
+   "title": "Committee Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "50",
+   "number": "11.2.1",
+   "title": "Sustainability, Infrastructure, and Development Committee Summary - November 4, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "SID Summary - November 4_ 2025.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15519"
+    }
+   ],
+   "motions": [
+    "m6",
+    "m7",
+    "m8",
+    "m9"
+   ]
+  },
+  {
+   "id": "49",
+   "number": "11.2.2",
+   "title": "Administration and Finance Committee Summary - November 4, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Administration and Finance Summary November 4, 2025.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15518"
+    }
+   ],
+   "motions": [
+    "m10"
+   ]
+  },
+  {
+   "id": "23",
+   "number": "11.2.3",
+   "title": "Community and Health Services Summary - November 4, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>rod and foc</p>"
+   ],
+   "attachments": [
+    {
+     "name": "CHS Summary - November 4, 2025.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15525"
+    }
+   ],
+   "motions": [
+    "m11"
+   ]
+  },
+  {
+   "id": "73",
+   "number": "11.2.4",
+   "title": "Library Committee Summary - November 13, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Library Summary - November 13, 2025.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15533"
+    }
+   ],
+   "motions": [
+    "m12"
+   ]
+  },
+  {
+   "id": "65",
+   "number": "11.2.5",
+   "title": "Licensing and Hearings Committee Summary - November 13, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "LH Summary November 13 2025.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15527"
+    }
+   ],
+   "motions": [
+    "m13"
+   ]
+  },
+  {
+   "id": "24",
+   "number": "11.3",
+   "title": "Board of Health",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "25",
+   "number": "11.3.1",
+   "title": "Board of Health Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Dr. Hsiu-Li Wang, Commissioner Public Health &amp; Paramedic Services/Medical Officer of Health, provided a brief Board of Health update. She provided information related to Influenza, COVID-19, and Respiratory Syncytial Virus vaccines. She also reminded Council that the annual enforcement of the <em>Immunization of School Pupils Act</em> is underway.</p>\n<p>In response to Council, Dr. H. Wang explained that Canada loss the Measles Elimination Status due to widespread outbreaks of measles in Canada that lasted 12 or more months importance. In order to regain the elimination status there must be continued vaccinations and must maintain the annual enforcement process of school age vaccines. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "27",
+   "number": "11.4",
+   "title": "Regional Chair",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "46",
+   "number": "11.4.1",
+   "title": "Appointments to Boards and Committees",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ]
+  },
+  {
+   "id": "29",
+   "number": "12",
+   "title": "Other Matters Under Committee Of The Whole",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "52",
+   "number": "12.1",
+   "title": "PDL-LEG-25-039, New Franchise Agreement with Enbridge Gas Inc.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Rod Regier, Commissioner Planning, Development &amp; Legislative Services, provided an introduction for report PDL-LEG-25-039, New Franchise Agreement with Enbridge Gas Inc. He explained that the model franchise agreement (MFA) established by the Ontario Energy Board (OEB) governs how Enbridge Gas may use municipal 'rights of way' to install and maintain gas infrastructure. The OEB sets out 20-year agreements and the Region's MFA with Enbridge Gas is up for renewal as the current agreement expires on May 24, 2026. The staff recommendation is requesting that Council approve various changes to the agreement such as clarifying cost sharing responsibilities, recognition of newer infrastructure, improve data sharing, and recover fair costs for the use of public property. Staff also requested approval to participate in the OEB generic hearing which is the first comprehensive review of the MFA in over two decades. He confirmed that staff have been in communication with Enbridge Gas and area municipalities on this matter.</p>\n<p>Fiona McCrea, Regional Solicitor and Director of Legal Services, provided a detailed overview of each provisional amendments to the MFA as the agreement has not been updated for over 20 years.</p>\n<p>Council discussed deferring this matter in order for it to be discussed at the staff level before a decision is made.</p>\n<p>Mathieu Goetzke, Acting Chief Administrative Officer, explained that all area municipalities have different renewal dates and the only two municipalities due for renewal in 2026 are the Township of Woolwich and the City of Cambridge. He confirmed that both Woolwich and Cambridge have been in communication with Regional staff. F. McCrea further confirmed that if the current MFA expired the current agreement would continue to be in force. She also indicated the risks related to deferring the recommendation and how it would impact the Region's participation in the OEB generic hearing.</p>\n<p>Member of Council expressed concerns related to the deferral as it could jeopardize participating in the generic hearing.</p>\n<p>Responding to questions, F. McCrea confirmed that Enbridge Gas has infrastructure in all the area municipalities and she noted that most of the City of Kitchener is serviced by Kitchener Utilities, with the exception of an area near Sports World. She further confirmed that the requested amendment to the Municipal Act related to the charging of fees would only be applied for for-profit utilities and not municipal utilities. </p>\n<p>In response to Council, F. McCrea clarified that there would not be an impediment to area municipalities to participate in the generic hearing. She further clarified that Enbridge Inc. expressed that they would resist any amendments to the model franchise agreement and regional staff have provided a proposal </p>\n<p>Council considered a motion to defer the motion which was defeated.</p>\n<p>Responding to Council, Doug Spooner, Commissioner of Transportation Services, agreed that staff will provide further information on whether there are warranties for work completed.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-LEG-25-039, New Franchise Agreement with Enbridge Gas Inc.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15520"
+    },
+    {
+     "name": "Appendix A - Proposed 2000 Model Franchise Agreement.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15521"
+    },
+    {
+     "name": "Appendix B - Letter entitled 2026 Generic Proceeding Regarding the Model Franchise Agreement dated October 15, 2025.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15522"
+    }
+   ],
+   "motions": [
+    "m15",
+    "m16"
+   ]
+  },
+  {
+   "id": "30",
+   "number": "13",
+   "title": "Motion for Committee of the Whole to Rise and Council Resume",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m17"
+   ]
+  },
+  {
+   "id": "31",
+   "number": "14",
+   "title": "Motion To Adopt Proceedings of Committee of the Whole",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m18"
+   ]
+  },
+  {
+   "id": "32",
+   "number": "15",
+   "title": "Motions where notice has been provided",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "44",
+   "number": "15.1",
+   "title": "Notice of Motion - Councillor J. Gowing",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>J. Gowing presented his motion related to direct staff to develop a corporate facilities strategic plan. </p>\n<p>In response to Council, J. Rose, Commissioner of Engineering and Environmental Services explained that a consultant would be needed to facilitate the development of the proposed plan. She explained that staff have begun a strategic review of office space due to the policy change of returning in-office three days a week. The review determined that there is enough office space to accommodate the return to in-office for three days a week, but she noted that an increase beyond three days may not be possible. </p>\n<p>In response to questions, J. Gowing explained that the business plan should include the WRPS and paramedic services, but the strategic plan should not include the WRPS or paramedic services.</p>\n<p>Responding to questions, J. Rose confirmed that if the motion were to be successful it would cause additional work and would require participation and collaboration from all departments. She noted that this project is unfunded and she estimated that the project would cost approximately $300,000. </p>\n<p>J. Gowing provided further information related to his motion by specifying that he is looking for a collaboration of departments to combine assessment management reviews to create a singular strategic plan.</p>\n<p>Council discussed and debated the types of spaces, such as bookable and dedicated, and how this project would be financed.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m19",
+    "m20",
+    "m21"
+   ]
+  },
+  {
+   "id": "45",
+   "number": "15.2",
+   "title": "Notice of Motion - Councillor J. Gowing",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m22"
+   ]
+  },
+  {
+   "id": "33",
+   "number": "16",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "17",
+   "title": "Unfinished Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "35",
+   "number": "18",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council provided special recognition to Darby Lehmann, Regional equipment operator, for winning second place at the very first female operator in the Association of Ontario Road Supervisors Provincial Safety Truck Roadeo. Council further congratulated Dan Rose for his recent certification as Certified Road Supervisor with the AORS. Those who receive this certification have aptly demonstrated their professionalism, accountability, and morale as a member of the public works team.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "36",
+   "number": "19",
+   "title": "Questions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "20",
+   "title": "Motion to go into Closed Session - November 21, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m23"
+   ]
+  },
+  {
+   "id": "37",
+   "number": "21",
+   "title": "Enactment of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m24"
+   ]
+  },
+  {
+   "id": "61",
+   "number": "21.1",
+   "title": "By-law 25-058",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m25"
+   ]
+  },
+  {
+   "id": "43",
+   "number": "21.2",
+   "title": "By-law 25-059",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m26"
+   ]
+  },
+  {
+   "id": "60",
+   "number": "21.3",
+   "title": "By-law 25-060",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m27"
+   ]
+  },
+  {
+   "id": "38",
+   "number": "21.4",
+   "title": "By-law 25-061",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m28"
+   ]
+  },
+  {
+   "id": "39",
+   "number": "22",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m29"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "68",
+   "item_number": "3",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "James",
+   "text": "That Council reconvene into Open Session.",
+   "text_html": "<p>That Council reconvene into Open Session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "9",
+   "item_number": "8",
+   "item_title": "Minutes of Previous Meetings",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Erb",
+   "text": "That the following minutes be approved.",
+   "text_html": "<p>That the following minutes be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "19",
+   "item_number": "10",
+   "item_title": "Motion to Go Into Committee of the Whole to Consider Reports",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Huinink",
+   "text": "That Council go into Committee of the Whole to consider reports.",
+   "text_html": "<p>That Council go into Committee of the Whole to consider reports.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "58",
+   "item_number": "11.1.1",
+   "item_title": "COR-TRY-25-033, Increase to T2024-194 - Snow Removal and Disposal for Central, Heidelberg, And Philipsburg Patrol Areas",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Foxton",
+   "text": "That the Regional Municipality of Waterloo increase the contract with Creative Asphalt & Landscape Inc for T2024-194 - Snow Removal and Disposal for Central, Heidelberg, And Philipsburg Patrol Areas in the amount of $ 260,000 for a total contract price of $1,090,815.34 plus all applicable taxes",
+   "text_html": "<p>That the Regional Municipality of Waterloo increase the contract with Creative Asphalt &amp; Landscape Inc for T2024-194 - Snow Removal and Disposal for Central, Heidelberg, And Philipsburg Patrol Areas in the amount of $260,000 for a total contract price of $1,090,815.34 plus all applicable taxes</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 1)",
+    "label": "13-1",
+    "for": 13,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues"
+    ],
+    "against": [
+     "Gowing"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "59",
+   "item_number": "11.1.2",
+   "item_title": "COR-TRY-25-034, T2025-157 Library Headquarters Roof Replacement",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Nowak",
+   "text": "That the Regional Municipality of Waterloo take the following action with respect to T2025-157 Library Headquarters Roof Replacement as set out in report COR-TRY-25-034 dated November 19, 2025. Accept the tender of Pollard Enterprises Ltd. for the T2025-157 Library Headquarters Roof Replacement in the amount of $324,950.00 plus all applicable taxes. Increase the 2026 capital budget by $95,000 to be funded by the Library Services Reserve $65,000 and the Facilities Life Cycle Reserve $30,000",
+   "text_html": "<p>That the Regional Municipality of Waterloo take the following action with respect to T2025-157 Library Headquarters Roof Replacement as set out in report COR-TRY-25-034 dated November 19, 2025.</p>\n<ol><li>Accept the tender of Pollard Enterprises Ltd. for the T2025-157 Library Headquarters Roof Replacement in the amount of $324,950.00 plus all applicable taxes. </li><li>Increase the 2026 capital budget by $95,000 to be funded by the Library Services Reserve $65,000 and the Facilities Life Cycle Reserve $30,000<p></p>\n</li></ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m6",
+   "item": "50",
+   "item_number": "11.2.1",
+   "item_title": "Sustainability, Infrastructure, and Development Committee Summary - November 4, 2025",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "McCabe",
+   "text": "The Sustainability, Infrastructure, and Development Committee recommends as follows: That the Regional Municipality of Waterloo take the following actions to promote sustainable development and practices for Regional facilities, as outlined in report EES-FFM-25-003, dated November 4, 2025: update the minimum sustainable design and construction standard to Canada Green Building Council’s (CaGBC) Zero Carbon Building-Design (ZCB-Design) Standard for new Regional facilities, replacing the existing LEEDTM Silver standard.",
+   "text_html": "<p>The Sustainability, Infrastructure, and Development Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo take the following actions to promote sustainable development and practices for Regional facilities, as outlined in report EES-FFM-25-003, dated November 4, 2025:<br/>update the minimum sustainable design and construction standard to Canada Green Building Council’s (CaGBC) Zero Carbon Building-Design (ZCB-Design) Standard for new Regional facilities, replacing the existing LEEDTM Silver standard.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m7",
+   "item": "50",
+   "item_number": "11.2.1",
+   "item_title": "Sustainability, Infrastructure, and Development Committee Summary - November 4, 2025",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "Vrbanovic",
+   "text": "Amendment: As amended. That the Regional Municipality of Waterloo defer the motion discussed under item 11.2.1 to SID on March 10, 2026 along with the requested information. The Sustainability, Infrastructure, and Development Committee recommends as follows: That the Regional Municipality of Waterloo take the following actions to promote sustainable development and practices for Regional facilities, as outlined in report EES-FFM-25-003, dated November 4, 2025: update the minimum sustainable design and construction standard to Canada Green Building Council’s (CaGBC) Zero Carbon Building-Design (ZCB-Design) Standard for new Regional facilities, replacing the existing LEEDTM Silver standard.",
+   "text_html": "<p><strong>Amendment:</strong></p>\n<p>As amended.</p>\n<p>That the Regional Municipality of Waterloo defer the motion discussed under item 11.2.1 to SID on March 10, 2026 <strong>along with the requested information.</strong></p>\n<p>The Sustainability, Infrastructure, and Development Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo take the following actions to promote sustainable development and practices for Regional facilities, as outlined in report EES-FFM-25-003, dated November 4, 2025:</li>\n<ol>\n<li>update the minimum sustainable design and construction standard to Canada Green Building Council’s (CaGBC) Zero Carbon Building-Design (ZCB-Design) Standard for new Regional facilities, replacing the existing LEEDTM Silver standard.</li>\n</ol>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 3)",
+    "label": "11-3",
+    "for": 11,
+    "against": 3,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "McCabe",
+     "Wolf",
+     "Huinink"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "50",
+   "item_number": "11.2.1",
+   "item_title": "Sustainability, Infrastructure, and Development Committee Summary - November 4, 2025",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Gowing",
+   "text": "Amendment:",
+   "text_html": "<strong>Amendment:</strong>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 3)",
+    "label": "11-3",
+    "for": 11,
+    "against": 3,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "Craig",
+     "James",
+     "Salonen",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "McCabe",
+     "Wolf",
+     "Huinink"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "50",
+   "item_number": "11.2.1",
+   "item_title": "Sustainability, Infrastructure, and Development Committee Summary - November 4, 2025",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "McCabe",
+   "text": "The Sustainability, Infrastructure, and Development Committee recommends as follows: Vote separated. That the Regional Municipality of Waterloo revise By-law 10-030 titled “A By-law Respecting Signs on Regional Roads”, to include the following revisions to Part VI - Farm Accessory Signs: Remove the following Part VI – Farm Accessory Signs from By-law 10-030: No person shall place or permit to be placed on a Regional road any farm accessory sign except for a farm accessory sign that: is a ground-mounted, moveable or wire-mounted sign; and has no part of the sign within: 0.5 metres of a roadway if there is a curb and no shoulder; 0.5 metres of a shoulder; 3.0 metres of a roadway if there is no curb and no shoulder; 0.5 metres of a sidewalk; 5.0 metres of a driveway other than the farm driveway, measured from the nearest edge of the driveway; or 15.0 metres of an intersecting road, measured from the nearest edge of the shoulder or the roadway if there is no shoulder. Add the following Part VI – Farm Accessory Signs to By-law 10-030: No person shall place or permit to be placed on a Regional road any farm accessory sign except for a farm accessory sign that: has dimensions that are not more than 2.0 metres in sign width (side to side) and not more than 1.0 metre in sign length (top to bottom); is a moveable or wire-mounted sign; has no part of the sign within 0.5 metres of a roadway if there is a curb and no shoulder 0.5 metres of a shoulder; 3.0 metres of a roadway if there is no curb and no shoulder; 0.5 metres of a sidewalk; 5.0 metres of a driveway other than the farm driveway, measured from the nearest edge of the driveway; or 15.0 metres of an intersecting road, measured from the nearest edge of the shoulder or the roadway if there is no shoulder; is placed within the perpendicular projection into the road of the side property lines of the premises of the farm being advertised, on the same side of the road as the farm, but only where the physical location of the building in which the farm resides is so close to the road so as to preclude the sign from being located off the road; and directs attention only to the activities, products, services or facilities produced, manufactured or provided by the business or enterprise at that same location. as outlined in Report TSD-TRP-25-017 dated November 4, 2025. That the Regional Municipality of Waterloo take the following action regarding the Region’s proposed extension of Rapid Transit to Cambridge, as outlined in report TSD-RTS-25-003, dated November 4, 2025: Endorse a full-length extension from Fairway Station in Kitchener to Downtown Cambridge as the preferred route length; Endorse Light Rail Transit (LRT) as the preferred vehicle technology; and Direct staff to pursue full funding from the Provincial and Federal governments for project development and implementation.",
+   "text_html": "<p>The Sustainability, Infrastructure, and Development Committee recommends as follows:</p>\n<ol>\n<li>Vote separated.</li>\n<li>That the Regional Municipality of Waterloo revise By-law 10-030 titled “A By-law Respecting Signs on Regional Roads”, to include the following revisions to Part VI - Farm Accessory Signs:\n<ol>\n<li>Remove the following Part VI – Farm Accessory Signs from By-law 10-030:<br/>No person shall place or permit to be placed on a Regional road any farm accessory sign except for a farm accessory sign that:\n<ol>\n<li>is a ground-mounted, moveable or wire-mounted sign; and</li>\n<li>has no part of the sign within: \n<ol>\n<li>0.5 metres of a roadway if there is a curb and no shoulder;</li>\n<li>0.5 metres of a shoulder;</li>\n<li>3.0 metres of a roadway if there is no curb and no shoulder;</li>\n<li>0.5 metres of a sidewalk;</li>\n<li>5.0 metres of a driveway other than the farm driveway, measured from the nearest edge of the driveway; or</li>\n<li>15.0 metres of an intersecting road, measured from the nearest edge of the shoulder or the roadway if there is no shoulder.</li>\n</ol>\n</li>\n</ol>\n</li>\n<li>Add the following Part VI – Farm Accessory Signs to By-law 10-030:<br/>No person shall place or permit to be placed on a Regional road any farm accessory sign except for a farm accessory sign that:\n<ol>\n<li>has dimensions that are not more than 2.0 metres in sign width (side to side) and not more than 1.0 metre in sign length (top to bottom);</li>\n<li>is a moveable or wire-mounted sign;</li>\n<li>has no part of the sign within \n<ol>\n<li>0.5 metres of a roadway if there is a curb and no shoulder</li>\n<li>0.5 metres of a shoulder;</li>\n<li>3.0 metres of a roadway if there is no curb and no shoulder;</li>\n<li>0.5 metres of a sidewalk;</li>\n<li>5.0 metres of a driveway other than the farm driveway, measured from the nearest edge of the driveway; or</li>\n<li>15.0 metres of an intersecting road, measured from the nearest edge of the shoulder or the roadway if there is no shoulder;</li>\n</ol>\n</li>\n<li>is placed within the perpendicular projection into the road of the side property lines of the premises of the farm being advertised, on the same side of the road as the farm, but only where the physical location of the building in which the farm resides is so close to the road so as to preclude the sign from being located off the road; and</li>\n<li>directs attention only to the activities, products, services or facilities produced, manufactured or provided by the business or enterprise at that same location.<br/>as outlined in Report TSD-TRP-25-017 dated November 4, 2025.</li>\n</ol>\n</li>\n</ol>\n</li>\n<li>That the Regional Municipality of Waterloo take the following action regarding the Region’s proposed extension of Rapid Transit to Cambridge, as outlined in report TSD-RTS-25-003, dated November 4, 2025:\n<ol>\n<li>Endorse a full-length extension from Fairway Station in Kitchener to Downtown Cambridge as the preferred route length;</li>\n<li>Endorse Light Rail Transit (LRT) as the preferred vehicle technology; and</li>\n<li>Direct staff to pursue full funding from the Provincial and Federal governments for project development and implementation.</li>\n</ol>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m10",
+   "item": "49",
+   "item_number": "11.2.2",
+   "item_title": "Administration and Finance Committee Summary - November 4, 2025",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Gowing",
+   "text": "The Administration and Finance Committee recommends as follows: That the Regional Municipality of Waterloo take the following action with respect to the Q3 Plan and Financial Update as set out in report COR-CFN-25-018 dated November 4, 2025: Receive the Q3 Update for information that shows implementation and financial progress towards delivery on the Region’s Annual Business Plan, in support of achieving the vision set out by Council in the Strategic Plan 2023-2027; and Amend the 2025 Capital Budget as set out in Appendix D.",
+   "text_html": "<p>The Administration and Finance Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo take the following action with respect to the Q3 Plan and Financial Update as set out in report COR-CFN-25-018 dated November 4, 2025:</li>\n</ol>\n<ol>\n<li>\n<ol>\n<li>Receive the Q3 Update for information that shows implementation and financial progress towards delivery on the Region’s Annual Business Plan, in support of achieving the vision set out by Council in the Strategic Plan 2023-2027; and</li>\n<li>Amend the 2025 Capital Budget as set out in Appendix D.</li>\n</ol>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m11",
+   "item": "23",
+   "item_number": "11.2.3",
+   "item_title": "Community and Health Services Summary - November 4, 2025",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Foxton",
+   "text": "The Community and Health Services Committee recommends as follows: That the Regional Municipality of Waterloo approve the acquisition of a new artwork for the Langs Drive Housing Redevelopment, as outlined in report PDL-CUL-25-027, dated November 4, 2025. That the Regional Municipality of Waterloo consider maintaining the current level of funding of $236,390 for A Better Tent City (ABTC) on an annual basis, and refer that decision to the 2026 Annual Plan & Budget process, as outlined in report CSD-HOU-25-010, dated November 4, 2025. That the Regional Municipality of Waterloo direct the Commissioner of Community Services and Commissioner of Corporate Services to report to the Community and Health Services Committee by the end of Q1 2026 to: Identify and bring forward all viable funding and financing opportunities, including but not limited to re-prioritizing other regional projects to achieve long-term debt sustainability principles, to advance construction of Mooregate within one year, as identified in CSD-HOU-25-011; and Provide an update to report CSD-HOU-24-021, dated December 3, 2024, where Council directed staff to explore affordable housing development partnership opportunities with the non-profit and private sectors that create enhanced or additional long-term affordable housing units, are beneficial for existing tenants, or produce cost-sharing outcomes, as well as to present a plan to advance site and development readiness in the interim prior to construction.",
+   "text_html": "<p>The Community and Health Services Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo approve the acquisition of a new artwork for the Langs Drive Housing Redevelopment, as outlined in report PDL-CUL-25-027, dated November 4, 2025.</li>\n<li>That the Regional Municipality of Waterloo consider maintaining the current level of funding of $236,390 for A Better Tent City (ABTC) on an annual basis, and refer that decision to the 2026 Annual Plan &amp; Budget process, as outlined in report CSD-HOU-25-010, dated November 4, 2025.</li>\n<li>That the Regional Municipality of Waterloo direct the Commissioner of Community Services and Commissioner of Corporate Services to report to the Community and Health Services Committee by the end of Q1 2026 to:\n<ol>\n<li>Identify and bring forward all viable funding and financing opportunities, including but not limited to re-prioritizing other regional projects to achieve long-term debt sustainability principles, to advance construction of Mooregate within one year, as identified in CSD-HOU-25-011; and</li>\n<li>Provide an update to report CSD-HOU-24-021, dated December 3, 2024, where Council directed staff to explore affordable housing development partnership opportunities with the non-profit and private sectors that create enhanced or additional long-term affordable housing units, are beneficial for existing tenants, or produce cost-sharing outcomes, as well as to present a plan to advance site and development readiness in the interim prior to construction.</li>\n</ol>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m12",
+   "item": "73",
+   "item_number": "11.2.4",
+   "item_title": "Library Committee Summary - November 13, 2025",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Nowak",
+   "text": "The Library Committee recommends as follows: That the Library Committee take the following action with respect to the 2026 Region of Waterloo Library Budget (RWL) as set out in Report COR-CFN-25-016 dated October 14, 2025: Approve the 2026 RWL Operating Budget with a net expenditure of $3,763,168 and a net property tax levy of $3,359,983: and Approve the 2026 RWL Library Capital Budget and 2027-2035 Capital Forecast as appended: and Refer the 2026 RWL Budget to the Region of Waterloo’s Strategic Planning and Budget Committee for consideration. Approve transfer of $10,000 from capital project 20031 (Upgrade Lighting) to 20033 (Microfiche reader) to enable purchase of Microfiche reader in 2025. That the Regional Municipality of Waterloo approve the drafted 2026 Library Business Plan, as set out in the Appendix A of report PDL-CUL-25-028 dated October 14, 2025.",
+   "text_html": "<p>The Library Committee recommends as follows:</p>\n<ol>\n<li>That the Library Committee take the following action with respect to the 2026 Region of Waterloo Library Budget (RWL) as set out in Report COR-CFN-25-016 dated October 14, 2025:\n<ol>\n<li>Approve the 2026 RWL Operating Budget with a net expenditure of $3,763,168 and a net property tax levy of $3,359,983: and</li>\n<li>Approve the 2026 RWL Library Capital Budget and 2027-2035 Capital Forecast as appended: and</li>\n<li>Refer the 2026 RWL Budget to the Region of Waterloo’s Strategic Planning and Budget Committee for consideration.</li>\n<li>Approve transfer of $10,000 from capital project 20031 (Upgrade Lighting) to 20033 (Microfiche reader) to enable purchase of Microfiche reader in 2025.</li>\n</ol>\n</li>\n<li>That the Regional Municipality of Waterloo approve the drafted 2026 Library Business Plan, as set out in the Appendix A of report PDL-CUL-25-028 dated October 14, 2025.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m13",
+   "item": "65",
+   "item_number": "11.2.5",
+   "item_title": "Licensing and Hearings Committee Summary - November 13, 2025",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Erb",
+   "text": "The Licensing and Hearings Committee recommends as follows: That the Regional Municipality of Waterloo: Approve an amending By-law to Taxi By-law #16-044, as outlined in Appendix A; Increase the per-trip accessible taxi incentive from $5.00 to $10.00 between the hours of 11PM and 5AM, starting January 1st, 2026 as outlined in report PDL-CAS-25-016, dated November 13, 2025; and And that staff report back to the Committee with a proposed pilot project for implementing the overnight accessible van service.",
+   "text_html": "<p>The Licensing and Hearings Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo:\n<ol>\n<li>Approve an amending By-law to Taxi By-law #16-044, as outlined in Appendix A;</li>\n<li>Increase the per-trip accessible taxi incentive from $5.00 to $10.00 between the hours of 11PM and 5AM, starting January 1st, 2026 as outlined in report PDL-CAS-25-016, dated November 13, 2025; and</li>\n<li>And that staff report back to the Committee with a proposed pilot project for implementing the overnight accessible van service.</li>\n</ol>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m14",
+   "item": "46",
+   "item_number": "11.4.1",
+   "item_title": "Appointments to Boards and Committees",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Nowak",
+   "text": "That the Regional Municipality of Waterloo makes the following appointments for the remainder of the 2022-2026 term of Regional Council: Councillor Joe Gowing to the Grand River Conservation Authority Board. And that the Regional Clerk be directed to take the necessary actions to implement these appointments.",
+   "text_html": "<p>That the Regional Municipality of Waterloo makes the following appointments for the remainder of the 2022-2026 term of Regional Council:</p>\n<ol>\n<li>Councillor Joe Gowing to the Grand River Conservation Authority Board.</li>\n</ol>\n<p>And that the Regional Clerk be directed to take the necessary actions to implement these appointments.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m15",
+   "item": "52",
+   "item_number": "12.1",
+   "item_title": "PDL-LEG-25-039, New Franchise Agreement with Enbridge Gas Inc.",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Gowing",
+   "text": "That the Regional Municipality of Waterloo authorize Regional staff to negotiate with Enbridge Gas Inc. the following changes to the draft 2000 Model Franchise Agreement (MFA) between the Region of Waterloo and Enbridge Gas Inc.: Expand the definition of “highway” to ensure that all parts of the right of way are captured; Include a requirement for Regional staff to be provided with as-built CAD drawings in UTM NAD83 Zone 17 co-ordinate system in s. 6 of the MFA; Add clarification regarding the use of the words “remove”, “relocate”, and “decommission” in such sections s. 12 and 15 of the MFA; Add clarification regarding the interaction between s. 12 and 15 regarding cost sharing responsibilities; Allow the Region of Waterloo to charge for-profit entities such as Enbridge fees for use of public property if Ontario Regulation 584/06 under the Municipal Act , 2001 is amended to allow for such charging of fees; Add clarification that “project engineering and project administrative costs” listed in s. 12(c)(v) are limited to actual cost incurred; Change the date in s.18 for when a request for infrastructure owned by Enbridge needs to be removed/replaced triggers Enbridge being 100% responsible for all such costs; and Any other changes deemed reasonably necessary by the Regional Solicitor. And that the Regional Municipality of Waterloo authorize Region staff to participate and make submissions in regard to an Ontario Energy Board generic hearing regarding the Model Franchise Agreement which will likely be commenced by the OEB in 2026; And that the Regional Municipality of Waterloo express its support for an Amendment to Section 9 of Regulation 584/06 under the Municipal Act, 2001 and an update to the Model Franchise Agreement to enable Ontario municipalities to keep pace with leading practices in other Canadian jurisdictions and charge private utilities for fair compensation for use of the municipal right of way. And that this resolution be forwarded to the Minister of Municipal Affairs and Housing, Rob Flack, Minister of Energy and Electrification, Stephen Lecce, all Waterloo Region municipalities, the Association of Municipalities of Ontario, and its member municipalities. All as further described in Report PDL-LEG-25-039 dated November 19, 2025.",
+   "text_html": "<p>That the Regional Municipality of Waterloo authorize Regional staff to negotiate with Enbridge Gas Inc. the following changes to the draft 2000 Model Franchise Agreement (MFA) between the Region of Waterloo and Enbridge Gas Inc.:</p>\n<ul><li>Expand the definition of “highway” to ensure that all parts of the right of way are captured;</li><li>Include a requirement for Regional staff to be provided with as-built CAD drawings in UTM NAD83 Zone 17 co-ordinate system in s. 6 of the MFA;</li><li>Add clarification regarding the use of the words “remove”, “relocate”, and “decommission” in such sections s. 12 and 15 of the MFA;</li><li>Add clarification regarding the interaction between s. 12 and 15 regarding cost sharing responsibilities;</li><li>Allow the Region of Waterloo to charge for-profit entities such as Enbridge fees for use of public property if Ontario Regulation 584/06 under the <i>Municipal Act</i><i>, 2001</i> is amended to allow for such charging of fees;</li><li>Add clarification that “project engineering and project administrative costs” listed in s. 12(c)(v) are limited to actual cost incurred; </li><li>Change the date in s.18 for when a request for infrastructure owned by Enbridge needs to be removed/replaced triggers Enbridge being 100% responsible for all such costs; and</li><li>Any other changes deemed reasonably necessary by the Regional Solicitor.</li></ul><p>And that the Regional Municipality of Waterloo authorize Region staff to participate and make submissions in regard to an Ontario Energy Board generic hearing regarding the Model Franchise Agreement which will likely be commenced by the OEB in 2026;</p>\n<p>And that the Regional Municipality of Waterloo express its support for an Amendment to Section 9 of Regulation 584/06 under the Municipal Act, 2001 and an update to the Model Franchise Agreement to enable Ontario municipalities to keep pace with leading practices in other Canadian jurisdictions and charge private utilities for fair compensation for use of the municipal right of way. </p>\n<p>And that this resolution be forwarded to the Minister of Municipal Affairs and Housing, Rob Flack, Minister of Energy and Electrification, Stephen Lecce, all Waterloo Region municipalities, the Association of Municipalities of Ontario, and its member municipalities.</p>\n<p>All as further described in Report PDL-LEG-25-039 dated November 19, 2025.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 1)",
+    "label": "12-1",
+    "for": 12,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "Vrbanovic"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m16",
+   "item": "52",
+   "item_number": "12.1",
+   "item_title": "PDL-LEG-25-039, New Franchise Agreement with Enbridge Gas Inc.",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Nowak",
+   "text": "Amendment:",
+   "text_html": "<strong>Amendment:</strong>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (6 to 7)",
+    "label": "Defeated 6-7",
+    "for": 6,
+    "against": 7,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Craig",
+     "Salonen",
+     "Gowing"
+    ],
+    "against": [
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Huinink",
+     "Rodrigues"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m17",
+   "item": "30",
+   "item_number": "13",
+   "item_title": "Motion for Committee of the Whole to Rise and Council Resume",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Foxton",
+   "text": "That Committee of the Whole rise and Council resume.",
+   "text_html": "<p>That Committee of the Whole rise and Council resume.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m18",
+   "item": "31",
+   "item_number": "14",
+   "item_title": "Motion To Adopt Proceedings of Committee of the Whole",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Craig",
+   "text": "That Council adopt the proceedings of Committee of the Whole.",
+   "text_html": "<p>That Council adopt the proceedings of Committee of the Whole.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m19",
+   "item": "44",
+   "item_number": "15.1",
+   "item_title": "Notice of Motion - Councillor J. Gowing",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Wolf",
+   "text": "Whereas the Region of Waterloo owns and operates a portfolio of corporate and administrative facilities that support governance, management, and centralized service delivery; and Whereas the Covid 19 Pandemic and Public Health rules mandated all people who can work from home to work from home; Whereas effective planning and asset management of these corporate facilities are essential to ensure they are used efficiently, maintained sustainably, and aligned with organizational and workforce needs; and Whereas a focused assessment of corporate facilities—considering current usage, capacity, lifecycle costs, and long-term renewal requirements—will enable evidence-based decision-making and fiscal responsibility; Whereas Facilities work pivoted from long term strategic planning to provide safe work spaces and piloting different ways of work, including ending leasing for space no longer required as the Region has a 2 day in the office policy; Whereas Regional management staff are now expected to return to the office on Dec 1, 3 days per week; Therefore be it resolved that Regional Council direct staff to develop a Corporate Facilities Strategic Plan, providing: An inventory and analysis of existing corporate and administrative facilities; Assessment of current usage, capacity, and functional suitability; Evaluation of operating, maintenance, and lifecycle costs; and Identification of anticipated capital renewal or improvement needs over the next 5–10 years; And be it further resolved that staff include the costs of a Corporate Facilities Strategic Plan in the 2026 operating budget and 10 year capital plan budget deliberations for Council consideration; And be it further resolved that staff report back to Council with findings and recommendations, including opportunities for optimization, co-location, or consolidation to support efficient service delivery and fiscal stewardship; And be it further resolved that staff be directed to commence in 2026 the development of a Facilities Business Plan that consolidates the existing departmental facility needs currently identified across the organization, and provides the analysis of analyzes these requirements to provide information to Council on the identified potential overlaps, determine potential overlaps, shared business uses, and opportunities for cross-departmental collaboration and co-location already planned; And be it further resolved that the completed Facilities Business Plan be brought forward to Council for consideration upon completion, outlining actionable recommendations for improved coordination and efficiency in the Region’s facility planning and operations. Subject to budget approval.",
+   "text_html": "<p>Whereas the Region of Waterloo owns and operates a portfolio of corporate and administrative facilities that support governance, management, and centralized service delivery; and</p>\n<p>Whereas the Covid 19 Pandemic and Public Health rules mandated all people who can work from home to work from home;</p>\n<p>Whereas effective planning and asset management of these corporate facilities are essential to ensure they are used efficiently, maintained sustainably, and aligned with organizational and workforce needs; and</p>\n<p>Whereas a focused assessment of corporate facilities—considering current usage, capacity, lifecycle costs, and long-term renewal requirements—will enable evidence-based decision-making and fiscal responsibility;</p>\n<p>Whereas Facilities work pivoted from long term strategic planning to provide safe work spaces and piloting different ways of work, including ending leasing for space no longer required as the Region has a 2 day in the office policy;</p>\n<p>Whereas Regional management staff are now expected to return to the office on Dec 1, 3 days per week;</p>\n<p>Therefore be it resolved that Regional Council direct staff to develop a Corporate Facilities Strategic Plan, providing:</p>\n<ol>\n<li>An inventory and analysis of existing corporate and administrative facilities;</li>\n<li>Assessment of current usage, capacity, and functional suitability;</li>\n<li>Evaluation of operating, maintenance, and lifecycle costs; and</li>\n<li>Identification of anticipated capital renewal or improvement needs over the next 5–10 years;</li>\n</ol>\n<p>And be it further resolved that staff include the costs of a Corporate Facilities Strategic Plan in the 2026 operating budget and 10 year capital plan budget deliberations for Council consideration;</p>\n<p>And be it further resolved that staff report back to Council with findings and recommendations, including opportunities for optimization, co-location, or consolidation to support efficient service delivery and fiscal stewardship;</p>\n<p>And be it further resolved that staff be directed to commence in 2026 the development of a Facilities Business Plan that consolidates the existing departmental facility needs currently identified across the organization, and provides the analysis of analyzes these requirements to provide information to Council on the identified potential overlaps, determine potential overlaps, shared business uses, and opportunities for cross-departmental collaboration and co-location already planned;</p>\n<p>And be it further resolved that the completed Facilities Business Plan be brought forward to Council for consideration upon completion, outlining actionable recommendations for improved coordination and efficiency in the Region’s facility planning and operations.</p>\n<p><strong>Subject to budget approval.</strong></p>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (6 to 6)",
+    "label": "Defeated 6-6",
+    "for": 6,
+    "against": 6,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Wolf",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "James",
+     "Salonen",
+     "Huinink"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m20",
+   "item": "44",
+   "item_number": "15.1",
+   "item_title": "Notice of Motion - Councillor J. Gowing",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Foxton",
+   "text": "Amendment:",
+   "text_html": "<strong>Amendment:</strong>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 1)",
+    "label": "11-1",
+    "for": 11,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [
+     "McCabe"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m21",
+   "item": "44",
+   "item_number": "15.1",
+   "item_title": "Notice of Motion - Councillor J. Gowing",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "McCabe",
+   "text": "Amendment:",
+   "text_html": "<strong>Amendment:</strong>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (10 to 2)",
+    "label": "10-2",
+    "for": 10,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues"
+    ],
+    "against": [
+     "Foxton",
+     "Gowing"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m22",
+   "item": "45",
+   "item_number": "15.2",
+   "item_title": "Notice of Motion - Councillor J. Gowing",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "James",
+   "text": "Whereas the Region of Waterloo is proceeding with the December 1, 2025 return to office (three days per week) for the Management and Management Support (M/MS) employee group; and Whereas decisions regarding workspace design, allocation, or facility use have long-term implications for operations, finances, and service delivery; and Whereas Council has directed staff to prepare a Corporate Facilities Strategic Plan to assess current usage, capacity, operating and maintenance costs, and projected corporate facility needs over the next 5–10 years; Therefore be it resolved that Regional Council pause all further return-to-office planning or implementation activities beyond the December 1, 2025 M/MS return, including any additional staff group returns or related facility renovations, relocations, or workspace redesign activities, until the Corporate Facilities Strategic Plan has been completed and considered by Council; And be it further resolved that staff report back to Council on the anticipated implications of this pause, including potential timelines, interim measures, and communication to affected departments and staff.",
+   "text_html": "<p>Whereas the Region of Waterloo is proceeding with the December 1, 2025 return to office (three days per week) for the Management and Management Support (M/MS) employee group; and</p>\n<p>Whereas decisions regarding workspace design, allocation, or facility use have long-term implications for operations, finances, and service delivery; and</p>\n<p>Whereas Council has directed staff to prepare a Corporate Facilities Strategic Plan to assess current usage, capacity, operating and maintenance costs, and projected corporate facility needs over the next 5–10 years;</p>\n<p>Therefore be it resolved that Regional Council pause all further return-to-office planning or implementation activities beyond the December 1, 2025 M/MS return, including any additional staff group returns or related facility renovations, relocations, or workspace redesign activities, until the Corporate Facilities Strategic Plan has been completed and considered by Council;</p>\n<p>And be it further resolved that staff report back to Council on the anticipated implications of this pause, including potential timelines, interim measures, and communication to affected departments and staff.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (1 to 11)",
+    "label": "Defeated 1-11",
+    "for": 1,
+    "against": 11,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Gowing"
+    ],
+    "against": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m23",
+   "item": "3",
+   "item_number": "20",
+   "item_title": "Motion to go into Closed Session - November 21, 2025",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "James",
+   "text": "That a closed meeting of the Council be held on November 21, 2025 at 1:00 p.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to ongoing litigation regarding the 100 Victoria Street encampment.",
+   "text_html": "<p>That a closed meeting of the Council be held on November 21, 2025 at 1:00 p.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to ongoing litigation regarding the 100 Victoria Street encampment.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m24",
+   "item": "37",
+   "item_number": "21",
+   "item_title": "Enactment of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Huinink",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m25",
+   "item": "61",
+   "item_number": "21.1",
+   "item_title": "By-law 25-058",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Huinink",
+   "text": "That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Loading Zones, Pedestrian Crossover, Through Highways, Intersection Stop Signs, Lane Designation, Rates of Speed, Reserved Lanes), be read a first, second and third time, finally passed and numbered 25-058, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Loading Zones, Pedestrian Crossover, Through Highways, Intersection Stop Signs, Lane Designation, Rates of Speed, Reserved Lanes), be read a first, second and third time, finally passed and numbered 25-058, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m26",
+   "item": "43",
+   "item_number": "21.2",
+   "item_title": "By-law 25-059",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Huinink",
+   "text": "That a By-law to Amend By-law 16-023, as amended, being a By-Law to Regulate Load Restrictions for Vehicles on Highways Under the Jurisdiction of the Regional Municipality of Waterloo, be read a first, second and third time, finally passed and numbered 25-059, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Amend By-law 16-023, as amended, being a By-Law to Regulate Load Restrictions for Vehicles on Highways Under the Jurisdiction of the Regional Municipality of Waterloo, be read a first, second and third time, finally passed and numbered 25-059, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m27",
+   "item": "60",
+   "item_number": "21.3",
+   "item_title": "By-law 25-060",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Huinink",
+   "text": "That a By-law to Amend By-law 10-030, A By-law Respecting Signs on Regional Roads, As Amended, be read a first, second and third time, finally passed and numbered 25-060, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Amend By-law 10-030, A By-law Respecting Signs on Regional Roads, As Amended, be read a first, second and third time, finally passed and numbered 25-060, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m28",
+   "item": "38",
+   "item_number": "21.4",
+   "item_title": "By-law 25-061",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Huinink",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on November 19, 2025 be read a first, second and third time, finally passed and numbered 25-061, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on November 19, 2025 be read a first, second and third time, finally passed and numbered 25-061, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m29",
+   "item": "39",
+   "item_number": "22",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Erb",
+   "text": "That the meeting adjourn at 9:54 p.m.",
+   "text_html": "<p>That the meeting adjourn at 9:54 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Foxton",
+     "McCabe",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

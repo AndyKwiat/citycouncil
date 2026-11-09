@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "42e54c2d-30a2-477c-a8c1-b8483750d130",
+ "city": "region-of-waterloo",
+ "key": "2022-12-14-board-of-health",
+ "type": "Board of Health (Regional Council)",
+ "body": "council",
+ "body_name": "Board of Health",
+ "title": "Board of Health (Regional Council)",
+ "start": "2022-12-14T16:30:00",
+ "end": "2022-12-14T17:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=42e54c2d-30a2-477c-a8c1-b8483750d130&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=2175",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=42e54c2d-30a2-477c-a8c1-b8483750d130&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=42e54c2d-30a2-477c-a8c1-b8483750d130&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=42e54c2d-30a2-477c-a8c1-b8483750d130"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=42e54c2d-30a2-477c-a8c1-b8483750d130",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "ddb6f2afb6f38e863e6e0a39c440c98e91b7b078c818a7f6322e81a954b2d265"
+ }
+}

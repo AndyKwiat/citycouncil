@@ -1,0 +1,986 @@
+{
+ "title": "Planning and Works - June 04, 2024",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Williams",
+  "Wolf",
+  "Deutschmann"
+ ],
+ "absent": [
+  "Deutschmann"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 76.011,
+   "video_end": 76.527,
+   "notes": [
+    "<p>Chair C. James called the meeting to order at 10:16 a.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 76.527,
+   "video_end": 81.011,
+   "notes": [
+    "<p>Chair C. James provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 81.011,
+   "video_end": 110.652,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "52",
+   "number": "4",
+   "title": "Petitions",
+   "closed": false,
+   "video_start": 110.652,
+   "video_end": 111.339,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "53",
+   "number": "4.1",
+   "title": "Petition for safety lights at the roundabout at Beverley and Dundas",
+   "closed": false,
+   "video_start": 111.339,
+   "video_end": 208.137,
+   "notes": [
+    "<p>Doug Spooner, Acting Commissioner, Transportation Services, spoke to the roundabout at Beverley and Dundas described within the petition, which possesses a newer design and geometric features. He indicated that flashing lights may not be the appropriate technical solution but that a team is already conducting a study to provide upgrades to roundabouts around the region to improve pedestrian crossings overall. He said that the particular site output will be included in the 2025 capital plan, with 3 design changes.</p>\n<p>Replying to a question from the Committee, D. Spooner indicated he will look at a number of solutions, including flashing lights, but that lights may not achieve what is desired.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Petition - Safety lights at Beverley-Dundas (June 4).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8625"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 208.137,
+   "video_end": 208.637,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "51",
+   "number": "5.1",
+   "title": "Lindsay Markle, Kitchener",
+   "closed": false,
+   "video_start": 208.637,
+   "video_end": 734.313,
+   "notes": [
+    "<p>Lindsay Markle spoke to concerns surrounding the Highland Road noise study that he and the neighbours have. The main issues include that a field test was not conducted prior to construction, the speed parameters in the study do not reflect what’s really happening with noise, and if noise warnings are added to titles it will devalue properties. He further noted an increase in traffic with lots of acceleration at the traffic light, and questioned whether exhausts, mufflers, were captured in the study. L. Markle said that he is not sure if noise barrier will provide solution, but he and the neighbours ask that everything is looked at. He provided that an earth berm is already present along with a fence, and noise is still in excess of 65 decibels.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "24",
+   "number": "5.2",
+   "title": "Kyra Chisholm, Plan Manager, ClimateActionWR and Tova Davidson, Patrick Gilbride of Sustainable Waterloo Region & Reep Green Solutions",
+   "closed": false,
+   "video_start": 734.313,
+   "video_end": 1700.711,
+   "notes": [
+    "<p>Kyra Chisholm and Tova Davidson of Sustainable Waterloo Region &amp; Reep Green Solutions provided a presentation to the Committee regarding Greenhouse Gas Inventory in Waterloo Region and efforts to reduce emissions.</p>\n<p>Responding to a question from the Committee, K. Chisholm answered that their organization works with staff who complete the inventory. They access data through utilities and local delivery corporations, as well as data from the Ministry of Transportation, Regional Landfill, and the Heads of Livestock Association, with rural data only being livestock heads, not including food.</p>\n<p>In response to a question from the Committee, K. Chisholm indicated that its difficult to be on track as part of a larger carbon emitting system, and they need to be ambitious to be on track. T. Davidson said when looking at transportation as a major emitter, they are seeing a major shift in the purchase of electric vehicles, which will in turn be charged at buildings, which will create a data challenge.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "5.2 Kyra Chisholm GHG Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8632"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "57",
+   "number": "5.3",
+   "title": "Kai Reimer-Watts, Organizer, Faith Climate Justice Waterloo Region",
+   "closed": false,
+   "video_start": 1700.711,
+   "video_end": 1901.087,
+   "notes": [
+    "<p>Kai Reimer-Watts spoke in support of the 50% by 2030 Carbon emissions target, and ClimateActionWR and their work. His message to Council is that though the work is daunting, there exists a climate emergency, declared so by Council along with all area municipalities. They are seeing record-breaking temperatures, and there is public will for action. K. Reimer-Watts expressed his hope that the work and the target can continue to be taken seriously, and underscored the ability to get off natural gas.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "58",
+   "number": "5.4",
+   "title": "Brandon Gorr, Kitchener",
+   "closed": false,
+   "video_start": 1901.087,
+   "video_end": 2264.871,
+   "notes": [
+    "<p>Brandon Gorr spoke to a previously presented noise study, and noted issues and concerns with the modelling within. He explained that staff have denied previous requests to record field data to observe what is actually happening. He concluded that residents are not convinced that the modelled sound levels are accurate.</p>\n<p>In reply to a question from the Committee, B. Gorr explained the biggest concerns are that some of the questions have not been reasonably addressed by staff.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "6",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 2264.871,
+   "video_end": 2265.324,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "46",
+   "number": "6.1",
+   "title": "Staff Presentation - Climate Aligned Growth Update",
+   "closed": false,
+   "video_start": 2265.324,
+   "video_end": 3486.988,
+   "notes": [
+    "<p>Staff provided a presentation and spoke to several elements of staff work being done to align with the strategic priority of climate aligned growth. This was presented by Jennifer Rose, Commissioner, Engineering and Environmental Services; Rod Regier, Commissioner, Planning Development and Legislative Services; Danielle De Fields, Director, Community Planning; Katie Johnson, Director, Strategic Initiatives and Asset Management; and Aaron Moss, Director, Facilities and Fleet Management.</p>\n<p>Responding to the Committee, J. Rose indicated that the integrated mobility plan will look at project lists through climate aligned growth, and that Council needs to decide their comfort level in moving forward with certain initiatives and projects. The pace at which Council wants to do projects is based on budget, and if Council wants be more aggressive, this could cost more money, and also be disruptive.</p>\n<p>Replying to a question from the Committee, D. Spooner indicated that staff will continue awareness about ridership, trails, multi-use pathways and more for people’s ability to move around.</p>\n<p>In response to a question from the Committee, J. Rose indicated that assessments have been done of all available roofs that solar panels can go on, and that this is ongoing work. Additionally, A. Moss indicated that staff will look for opportunities to make buildings more efficient with every project.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Climate_Aligned_Growth_Collaborative_Presentation_June_4.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8608"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "7",
+   "title": "Consent Agenda",
+   "closed": false,
+   "video_start": 4541.526,
+   "video_end": 4666.355,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "7",
+   "number": "7.1",
+   "title": "Strategic Priority - Homes for All",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "36",
+   "number": "7.1.1",
+   "title": "EES-WAS-24-002, Floradale Wastewater System - Municipal Responsibility Agreement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "EES-WAS-24-002, Floradale Wastewater System - Municipal Responsibility Agreement.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8601"
+    }
+   ],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "54",
+   "number": "7.1.2",
+   "title": "TSD-TRP-24-007, Transfer of Daylight Triangles west side Fountain Street North (Regional Road 17) at Menno Street Woolwich Township",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "TSD-TRP-24-007, Daylight Triangle Land Transfer from ROW to Woolwich Township.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8626"
+    },
+    {
+     "name": "TSD-TRP-24-007 - Appendix A - Location Map.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8627"
+    },
+    {
+     "name": "TSD-TRP-24-007, Appendix B.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8628"
+    },
+    {
+     "name": "TSD-TRP-24-007 - Appendix C - 21-181-04A.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8629"
+    },
+    {
+     "name": "TSD-TRP-24-007 - Appendix D - 58R-21819 - Menno Street Road Closure.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8630"
+    }
+   ],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "8",
+   "number": "7.2",
+   "title": "Strategic Priority - Climate Aligned Growth",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "26",
+   "number": "7.2.1",
+   "title": "PDL-CPL-24-010, 2022 Community Greenhouse Gas Emissions Inventory",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-CPL-24-010, 2022 Community Greenhouse Gas Emissions Inventory.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8613"
+    },
+    {
+     "name": "Appendix A-Climate Action Waterloo Region 2022 Community GHG Emissions Inventory.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8614"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "7.2.2",
+   "title": "PDL-CPL-24-008, Corporate Climate Action Plan Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-CPL-24-008, Corporate Climate Action Plan Update.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8609"
+    },
+    {
+     "name": "Schedule A-Enabling Conditions for Net Zero.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8610"
+    },
+    {
+     "name": "Schedule B-Summary of Ongoing Climate Change Actions by Regional Service Area.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8611"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "44",
+   "number": "7.2.3",
+   "title": "EES-FFM-24-002, Corporate Energy Plan 2024-2033",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-FFM-24-002, Corporate Energy Plan 2024-2033 .pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8597"
+    },
+    {
+     "name": "2024-2023 Corporate Energy Plan.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8598"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "7.2.4",
+   "title": "PDL-CPL-24-009, Advancing a Thermal Strategy in Waterloo Region",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-CPL-24-009, Advancing a Thermal Strategy in Waterloo Region.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8612"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "43",
+   "number": "7.2.5",
+   "title": "PDL-CPL-24-012, Master Environmental Servicing Plan (East Side Lands Stage 2)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "PDL-CPL-24-012, Master Environmental Servicing Plan (East Side Lands Stage 2).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8620"
+    },
+    {
+     "name": "Appendix A - Scoped Master Drainage Report Study Area.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8621"
+    },
+    {
+     "name": "Appendix B - East Side Lands – Stage 2 Scoped Master Drainage Report (WSP, April 2024).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8622"
+    },
+    {
+     "name": "Appendix C - East Side Lands – Stage 2 Scoped Master Drainage Report Technical Appendix (WSP, September 2023).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8623"
+    },
+    {
+     "name": "Appendix D - Scoped Master Drainage Report Public Comments and Responses.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8624"
+    }
+   ],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "50",
+   "number": "7.2.6",
+   "title": "TSD-TRS-24-008, Grand River Transit - Ridership Update - First Quarter 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-TRS-24-008, Grand River Transit - Ridership Update - First Quarter 2024.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8618"
+    },
+    {
+     "name": "TSD-TRS-24-008 Appendix A - 2024 Q1 Ridership Dashboard.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8619"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "41",
+   "number": "7.2.8",
+   "title": "EES-DCS-24-003, Victoria Street Improvements, Fischer-Hallman Road to Lawrence Avenue, City of Kitchener - Design Refinements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "EES-DCS-24-003, Victoria Street Improvements, Fischer-Hallman Road to Lawrence Avenue, Design Refinements.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8602"
+    },
+    {
+     "name": "EES-DCS-24-003, Appendix A - KeyPlan.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8603"
+    },
+    {
+     "name": "EES-DCS-24-003, Appendix B - Detailed Design Alternatives.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8604"
+    }
+   ],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "7.3",
+   "title": "Strategic Priority - Equitable Services and Opportunities",
+   "closed": false,
+   "video_start": 5063.56,
+   "video_end": 5065.591,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "48",
+   "number": "7.3.1",
+   "title": "EES-DCS-24-005, Proposed Delegation of Authority - Third Party Agreements for Works in Regional Roads",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "EES-DCS-24-005, Proposed Delegation of Authority-Third Party Agreements for Works in Regional Roads .pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8605"
+    }
+   ],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": null,
+   "number": "7.2",
+   "title": "Strategic Priority - Climate Aligned Growth",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "33",
+   "number": "7.2.7",
+   "title": "TSD-TRP-24-006, Cambridge Truck Diversion Project Evaluation",
+   "closed": false,
+   "video_start": 4666.355,
+   "video_end": 4931.403,
+   "notes": [
+    "<p>Item 7.2.7 was removed from the Consent Agenda. </p>\n<p>In reply to a question from the Committee, D. Spooner indicated that the goal for the project is 100% diversion when traffic measures are in place for better outcomes. The pathway to that success is outlined as the 2 options in the report, being continued enforcement and street safety designs. </p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-TRP-24-006, Cambridge Truck Diversion Project Evaluation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8615"
+    },
+    {
+     "name": "TSD-TRP-24-006 - Appendix A_Truck Diversion Results (1).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8616"
+    },
+    {
+     "name": "TSD-TRP-24-006 Appendix B - Summary Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8617"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "8",
+   "title": "Regular Agenda",
+   "closed": false,
+   "video_start": 5065.591,
+   "video_end": 5066.482,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "8.1",
+   "title": "Strategic Priority - Climate Aligned Growth",
+   "closed": false,
+   "video_start": 5066.482,
+   "video_end": 5066.997,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "38",
+   "number": "8.1.1",
+   "title": "EES-DCS-24-004, Highland Road - Updated Noise Assessment",
+   "closed": false,
+   "video_start": 5066.997,
+   "video_end": 6638.729,
+   "notes": [
+    "<p>J. Rose provided a brief introduction to the noise study report, which has been an ongoing process based on other construction occurring on Highland Road. In accordance with the noise policy, the recommendation is that no noise wall is needed, but residents may request another study after 5 years.</p>\n<p>In reply to a question from the Committee, J. Rose indicated that the first study is no longer relevant due to some errors, as it was conducted to the property line, and the next two studies were done to the outdoor living area. Frank Kosa, Director, Design &amp; Construction, replied that there were not physical readings completed as the noise policy uses modelling for determining existing and future noise predictions.</p>\n<p>Responding to a question from the Committee, Mike Henderson, Manager, Transportation Program Development, spoke to the parameters of the modelling used, and how this model tends to overpredict noise. He indicated that peak noises will not be impacted by noise walls even twice the size. To add, D. Spooner said that trees would not be as effective as a noise wall but would provide some mitigation.</p>\n<p>Replying to a question from the Committee, M. Henderson said there is no risk with doing a live test, but it is not Regional policy to approach it that way and that other municipalities do not do it that way. In follow-up, D. Spooner indicated that they are unsure if they still have that equipment, and if the ask is to do a current noise level study, he suggests they follow current practice.</p>\n<p>In reply to a question from the Committee, M. Henderson answered that from his experience, they do look at speeding in projects, and, if there is speeding, they look at mitigating measures. In follow-up, F. Kosa indicated the road redesign is taken into consideration on all projects, they try to take into account various geometric changes but that there are limitations to what can be done.</p>\n<p>Replying to the Committee, M. Henderson indicated that the MTO and speed cameras are not current conversations taking place but that this can be investigated.</p>\n<p>The Committee asked staff to look into the feasibility of conducting a live study in the area in question including the availability of airport noise monitoring equipment, and report back to Council on June 19th </p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-DCS-24-004, Highland Road - Noise Assessment Update.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8599"
+    },
+    {
+     "name": "Final_Highland_Road_Updated_Noise_Study_2024-04-16 - No Appendices.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8600"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "42",
+   "number": "8.1.2",
+   "title": "EES-WMS-24-002, Long-Term Waste Management Strategic Review Update",
+   "closed": false,
+   "video_start": 6638.729,
+   "video_end": 7169.732,
+   "notes": [
+    "<p>Jon Arsenault, Director, Waste Management, provided a presentation on the Long-Term Waste Management Strategic Review and update. J. Arsenault reviewed the landfill work being done, as well as ways to reduce waste, the importance of collaborating with the community for reduction targets, and ways to align waste management with principles of circular economy.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WMS-24-002, Long Term Waste Management Strategic Review Update .pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8606"
+    },
+    {
+     "name": "Appendix A, EES-WMS-24-002, LTWMS PowerPoint presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8607"
+    }
+   ],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "18",
+   "number": "10",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 7249.966,
+   "video_end": 8002.486,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "56",
+   "number": "10.1",
+   "title": "Ontario Public Works Association - Diversity, Equity and Inclusion Award",
+   "closed": false,
+   "video_start": 7169.732,
+   "video_end": 8088.3,
+   "notes": [
+    "<p>Chair C. James outlined that the Region received an award from the Ontario Public Works Association Diversity, Equity and Inclusion Award, for the work done in collaboration with other groups to complete an archeological assessment as part of the Fischer-Hallman Road improvements.</p>\n<p><br/>Replying to N. Salonen, D. Spooner indicated that, relating to parking at the Snyder's Road hydro cut in Wilmot, staff are continuing to investigate and have teams on site to look at parking and access, but there is more work to do before they report back. In follow-up, D. Spooner answered that he will look at better solutions such as enforcement in the immediate future.</p>\n<p>Replying to B. Vrbanovic, as it pertains to grass-cutting, D. Spooner indicated urban roadside mowing is twice per month in May and June, and monthly for July to October. He provided that grass was cut twice in May, and will be done in June. D. Spooner indicated they will look at contractor concerns and staff are aware of outcomes desired.</p>\n<p>S. Shantz spoke to detour complaints in rural areas. The detours result in several areas that require significant extra travel. In reply, J. Rose indicated that detours are on Regional roads, but staff will work with local municipalities on other options.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "OPWA_DEI 2024.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8633"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "9",
+   "title": "Information/Correspondence",
+   "closed": false,
+   "video_start": 7246.982,
+   "video_end": 7247.482,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "9.1",
+   "title": "Council/Committee Tracking List",
+   "closed": false,
+   "video_start": 7247.482,
+   "video_end": 7249.966,
+   "notes": [
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Council-Committee Tracking List (June 4, 2024).pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=8631"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "11",
+   "title": "Next Meeting - August 13, 2024",
+   "closed": false,
+   "video_start": 8088.3,
+   "video_end": 8089.784,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "55",
+   "number": "12",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 8089.784,
+   "video_end": 8152.941,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ]
+  },
+  {
+   "id": "20",
+   "number": "13",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 8152.941,
+   "video_end": 8191.284,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "6",
+   "item_number": "7",
+   "item_title": "Consent Agenda",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That the Consent Agenda items be received for information and approved.",
+   "text_html": "<p>That the Consent Agenda items be received for information and approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "36",
+   "item_number": "7.1.1",
+   "item_title": "EES-WAS-24-002, Floradale Wastewater System - Municipal Responsibility Agreement",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That the Regional Municipality of Waterloo enter into the revised Municipal Responsibility Agreement with Floradale Parkview Non-Profit Manors Inc. (Owner) related to a proposal to upgrade an existing privately operated sewage treatment system as outlined in report EES-WAS-24-002, dated June 4, 2024, to the satisfaction of the Regional Solicitor.",
+   "text_html": "<p>That the Regional Municipality of Waterloo enter into the revised Municipal Responsibility Agreement with Floradale Parkview Non-Profit Manors Inc. (Owner) related to a proposal to upgrade an existing privately operated sewage treatment system as outlined in report EES-WAS-24-002, dated June 4, 2024, to the satisfaction of the Regional Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m3",
+   "item": "54",
+   "item_number": "7.1.2",
+   "item_title": "TSD-TRP-24-007, Transfer of Daylight Triangles west side Fountain Street North (Regional Road 17) at Menno Street Woolwich Township",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That the Regional Municipality of Waterloo take the following action regarding the daylight triangles located at the intersection of Menno Street (Township Road 80) and Fountain Street North (Regional Road 17): Amend the Road Consolidation By-law 01-059 (Regional Road System) to, effective upon passing of the by-law, transfer the daylight triangles forming part of Fountain Street North (Regional Road 17) described as Part Lot 109 GCT, Geographic Township of Waterloo, Township of Woolwich designated as Part 2 on 58R-21819, being part of PIN 22254-0093 and Part 3 on 58R-21819, being part of PIN 22251-0233, from the Region to the Corporation of the Township of Woolwich; That the Regional Solicitor be directed to cause notice of such by-law to be registered on title to the lands that are the subject of the by-law as outlined in Report TSD-TRP-24-007 dated June 4th,2024; and Authorize the Commissioner, Planning Development and Legislative Services to execute an indemnification agreement with the Corporation of the Township of Woolwich in respect of the transfer of jurisdiction over the daylight triangles on terms and conditions satisfactory to the Regional Solicitor.",
+   "text_html": "<p>That the Regional Municipality of Waterloo take the following action regarding the daylight triangles located at the intersection of Menno Street (Township Road 80) and Fountain Street North (Regional Road 17):</p>\n\n<ul>\n<li>Amend the Road Consolidation By-law 01-059 (Regional Road System) to, effective upon passing of the by-law, transfer the daylight triangles forming part of Fountain Street North (Regional Road 17) described as Part Lot 109 GCT, Geographic Township of Waterloo, Township of Woolwich designated as Part 2 on 58R-21819, being part of PIN 22254-0093 and Part 3 on 58R-21819, being part of PIN 22251-0233, from the Region to the Corporation of the Township of Woolwich;</li>\n<li>That the Regional Solicitor be directed to cause notice of such by-law to be registered on title to the lands that are the subject of the by-law as outlined in Report TSD-TRP-24-007 dated June 4th,2024; and</li>\n<li>Authorize the Commissioner, Planning Development and Legislative Services to execute an indemnification agreement with the Corporation of the Township of Woolwich in respect of the transfer of jurisdiction over the daylight triangles on terms and conditions satisfactory to the Regional Solicitor.\n<p> </p>\n</li>\n</ul>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m4",
+   "item": "43",
+   "item_number": "7.2.5",
+   "item_title": "PDL-CPL-24-012, Master Environmental Servicing Plan (East Side Lands Stage 2)",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That the Regional Municipality of Waterloo approve the Scoped Master Drainage Report for the Randall and Breslau Drains (May 2024) and Technical Appendix (October 2024) as outlined in report PDL-CPL-24-012 dated June 4, 2024 in accordance with Regional Official Plan policy 7.F.6 to the extent that it addresses matters of Regional interest.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve the Scoped Master Drainage Report for the Randall and Breslau Drains (May 2024) and Technical Appendix (October 2024) as outlined in report PDL-CPL-24-012 dated June 4, 2024 in accordance with Regional Official Plan policy 7.F.6 to the extent that it addresses matters of Regional interest.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m5",
+   "item": "41",
+   "item_number": "7.2.8",
+   "item_title": "EES-DCS-24-003, Victoria Street Improvements, Fischer-Hallman Road to Lawrence Avenue, City of Kitchener - Design Refinements",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That the Regional Municipality of Waterloo: Approve the refined recommended design alternative for Victoria Street Improvements, Lawrence Avenue to Fischer-Hallman Road in the City of Kitchener, as outlined in Report EES-DCS-24-003, dated June 4, 2024; and Approve an extension to the consulting services agreement with Associated Engineering Ltd. to complete the final design and tender documents in the amount of $245,320 plus HST for a total value of $1,104,600 plus HST.",
+   "text_html": "<p>That the Regional Municipality of Waterloo:</p>\n<ol><li>Approve the refined recommended design alternative for Victoria Street Improvements, Lawrence Avenue to Fischer-Hallman Road in the City of Kitchener, as outlined in Report EES-DCS-24-003, dated June 4, 2024; and</li><li>Approve an extension to the consulting services agreement with Associated Engineering Ltd. to complete the final design and tender documents in the amount of $245,320 plus HST for a total value of $1,104,600 plus HST.<p></p>\n</li></ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m6",
+   "item": "48",
+   "item_number": "7.3.1",
+   "item_title": "EES-DCS-24-005, Proposed Delegation of Authority - Third Party Agreements for Works in Regional Roads",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That the Regional Municipality of Waterloo amend Schedule “A” of By-law 22-018 (Delegation By-law) to add the following new Section 115.1: Column 1 (Document o r Delegat ed Matter) Agreements or other documentation to provide for the construction and installation of public or private infrastructure, connections, utilities, roadway and access improvements on Regional Roads or Regional lands by area municipalities and/or third parties to facilitate development of adjacent lands, at the cost of the area municipality and/or third party, subject to cost-sharing between the parties as appropriate, provided that: such agreements provide for the payment of the applicable fees prescribed by the then current Regional Fees & Charges By-law Column 2 (Signing Officer) Commissioner, Transportation Services; or Commissioner, Engineering & Environmental Services whichever Commissioner’s department the work relates (b) That the Regional Municipality of Waterloo amend Consolidated Schedule E: Transportation Services of By-law 23-062: A By-law to Establish Fees and Charges for the Regional Municipality of Waterloo and repeal By-law 23-009, as Amended to add the following new column: Description : A Developer fee for Agreements to provide for the construction and installation of public or private infrastructure, connections, utilities, roadway and access improvements on Regional Roads or Regional lands by area municipalities and/or third parties. Fee: $5,000.00 Applicable Taxes (+HST, Inclusive of HST, Exempt) : + HST As outlined in report EES-DCS-24-005, dated June 4, 2024.",
+   "text_html": "<p>That the Regional Municipality of Waterloo amend Schedule “A” of By-law 22-018 (Delegation By-law) to add the following new Section 115.1:</p>\n<p><strong>Column 1 (Document o</strong><strong>r </strong><strong>Delegat</strong><strong>ed</strong><strong> Matter)</strong></p>\n<p>Agreements or other documentation to provide for the construction and installation of public or private infrastructure, connections, utilities, roadway and access improvements on Regional Roads or Regional lands by area municipalities and/or third parties to facilitate development of adjacent lands, at the cost of the area municipality and/or third party, subject to cost-sharing between the parties as appropriate, provided that:</p>\n<p>such agreements provide for the payment of the applicable fees prescribed by the then current Regional Fees &amp; Charges By-law</p>\n<p><strong>Column 2 (Signing Officer)</strong></p>\n<p>Commissioner, Transportation Services; or Commissioner, Engineering &amp; Environmental Services whichever Commissioner’s department the work relates</p>\n<p>(b) That the Regional Municipality of Waterloo amend Consolidated Schedule E: Transportation Services of By-law 23-062: A By-law to Establish Fees and Charges for the Regional Municipality of Waterloo and repeal By-law 23-009, as Amended to add the following new column:</p>\n<p><strong>Description</strong>: A Developer fee for Agreements to provide for the construction and installation of public or private infrastructure, connections, utilities, roadway and access improvements on Regional Roads or Regional lands by area municipalities and/or third parties.</p>\n<p><strong>Fee:</strong> $5,000.00</p>\n<p><strong>Applicable Taxes (+HST, Inclusive of HST, Exempt)</strong><strong>:</strong> + HST</p>\n<p>As outlined in report EES-DCS-24-005, dated June 4, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m7",
+   "item": "42",
+   "item_number": "8.1.2",
+   "item_title": "EES-WMS-24-002, Long-Term Waste Management Strategic Review Update",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "McCabe",
+   "text": "That the Regional Municipality of Waterloo approve the following guiding principles for the Long-Term Waste Management Strategy (LTWMS) review and update: explore new and additional opportunities to reduce waste; collaborate with community and Region partners to achieve climate and energy consumption reduction targets; and align waste management services with the principles of a circular economy. as outlined in report EES-WMS-24-002, dated June 4, 2024.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve the following guiding principles for the Long-Term Waste Management Strategy (LTWMS) review and update:</p>\n\n<ol>\n<li>explore new and additional opportunities to reduce waste;</li>\n<li>collaborate with community and Region partners to achieve climate and energy consumption reduction targets; and</li>\n<li>align waste management services with the principles of a circular economy.</li>\n</ol>\n\n<p>as outlined in report EES-WMS-24-002, dated June 4, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "55",
+   "item_number": "12",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Wolf",
+   "text": "That a closed meeting of the Planning and Works, and Community and Health Services Committees be held on Tuesday, June 4, 2024 immediately following the Planning and Works Committee in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: 1) Personal matters about an identifiable individual related to an award 2) Receiving advice that is subject to solicitor-client privilege related to an agreement 3) Receiving advice that is subject to solicitor-client privilege related to a proposed acquisition of lands",
+   "text_html": "<p>That a closed meeting of the Planning and Works, and Community and Health Services Committees be held on Tuesday, June 4, 2024 immediately following the Planning and Works Committee in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:<br/>1)    Personal matters about an identifiable individual related to an award<br/>2)    Receiving advice that is subject to solicitor-client privilege related to an agreement<br/>3)    Receiving advice that is subject to solicitor-client privilege related to a proposed acquisition of lands</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "20",
+   "item_number": "13",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "McCabe",
+   "text": "That the meeting adjourn at 12:32 p.m.",
+   "text_html": "<p>That the meeting adjourn at 12:32 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "McCabe",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

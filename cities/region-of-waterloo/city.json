@@ -1,0 +1,147 @@
+{
+ "slug": "region-of-waterloo",
+ "name": "Region of Waterloo",
+ "display_name": "Region of Waterloo",
+ "place": "Waterloo Region, Ontario",
+ "council_name": "Waterloo Regional Council",
+ "council_short": "Regional Council",
+ "municipality": "Region of Waterloo",
+ "adapter": "escribe",
+ "start_date": "2022-11-15",
+ "names_recorded_from": "2023-08-01",
+ "urls": {
+  "records": "https://pub-regionofwaterloo.escribemeetings.com",
+  "records_name": "Region of Waterloo eSCRIBE",
+  "council_page": "https://www.regionofwaterloo.ca/en/regional-government/regional-council.aspx"
+ },
+ "escribe": {
+  "base": "https://pub-regionofwaterloo.escribemeetings.com",
+  "isi_client": "waterloo",
+  "calendar_by_month": true,
+  "vote_labels": {
+   "for": [
+    "in favor"
+   ],
+   "against": [
+    "opposed"
+   ],
+   "other": [
+    "conflict"
+   ]
+  },
+  "audit_for_pattern": "(?s)MotionVoters['\\\"](?:(?!</table>).)*?VoterVote['\\\"][^>]*>\\s*(?:In Favor|Opposed|Conflict)\\s*:?\\s*\\(\\d+\\)",
+  "attendance": {
+   "start": [
+    "Members Present:",
+    "Present:"
+   ],
+   "absent": [
+    "Members Absent:",
+    "Absent:",
+    "Regrets:"
+   ],
+   "end": [
+    "Staff:",
+    "Also Present:",
+    "Staff Present:",
+    "1. Call to Order",
+    "Call to Order"
+   ],
+   "names": "initials"
+  }
+ },
+ "meeting_types": {
+  "Council Meeting": {
+   "body": "council",
+   "slug": "",
+   "label": "Regional Council"
+  },
+  "Special Council": {
+   "body": "council",
+   "slug": "special-council",
+   "label": "Special Council"
+  },
+  "Emergency Special Council": {
+   "body": "council",
+   "slug": "emergency-special-council",
+   "label": "Special Council"
+  },
+  "Board of Health (Regional Council)": {
+   "body": "council",
+   "slug": "board-of-health",
+   "label": "Board of Health"
+  },
+  "Administration and Finance": {
+   "body": "committee",
+   "slug": "administration-and-finance",
+   "label": "Administration and Finance"
+  },
+  "Community and Health Services": {
+   "body": "committee",
+   "slug": "community-and-health-services",
+   "label": "Community and Health Services"
+  },
+  "Planning and Works": {
+   "body": "committee",
+   "slug": "planning-and-works",
+   "label": "Planning and Works"
+  },
+  "Special Planning and Works": {
+   "body": "committee",
+   "slug": "planning-and-works",
+   "label": "Planning and Works"
+  },
+  "Sustainability, Infrastructure, and Development": {
+   "body": "committee",
+   "slug": "sustainability-infrastructure-and-development",
+   "label": "Sustainability, Infrastructure, and Development"
+  },
+  "Special Sustainability, Infrastructure, and Development": {
+   "body": "committee",
+   "slug": "sustainability-infrastructure-and-development",
+   "label": "Sustainability, Infrastructure, and Development"
+  },
+  "Strategic Planning and Budget Committee": {
+   "body": "committee",
+   "slug": "strategic-planning-and-budget",
+   "label": "Strategic Planning and Budget"
+  }
+ },
+ "main_type": "Council Meeting",
+ "terms": [
+  {
+   "id": "2022-2026",
+   "label": "2022–2026",
+   "start": "2022-11-15",
+   "end": "2026-11-14",
+   "seats": 16
+  },
+  {
+   "id": "2026-2030",
+   "label": "2026–2030",
+   "start": "2026-11-15",
+   "end": "2030-11-14",
+   "seats": 16
+  }
+ ],
+ "redirect_from": [
+  "region",
+  "waterloo-region"
+ ],
+ "theme": {
+  "accent": "#7a2e3f",
+  "accent_soft": "#f3e4e7",
+  "duotone_dark": "#5a2230",
+  "duotone_light": "#f7f5ef",
+  "photo": "source.jpg",
+  "photo_title": "ION train 505 at Kitchener City Hall",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:ION_505_Kitchener_City_Hall.jpg",
+  "photo_artist": "*Youngjin",
+  "photo_licence": "CC BY-SA 3.0",
+  "photo_licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "focal_point": [
+   0.5,
+   0.55
+  ]
+ }
+}

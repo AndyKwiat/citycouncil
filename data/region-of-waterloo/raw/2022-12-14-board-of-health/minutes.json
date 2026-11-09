@@ -1,0 +1,172 @@
+{
+ "title": "Board of Health (Regional Council) - December 14, 2022",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Deutschmann",
+  "Foxton",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Williams",
+  "Wolf",
+  "Erb",
+  "Harris"
+ ],
+ "absent": [
+  "Erb",
+  "Harris"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 80.526,
+   "video_end": 82.167,
+   "notes": [
+    "<p>Chair K. Redman called the meeting to order at 4:50 p.m. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 82.167,
+   "video_end": 84.854,
+   "notes": [
+    "<p>Chair Redman provided a land acknowledgement</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 97.526,
+   "video_end": 103.119,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "COVID-19 Update",
+   "closed": false,
+   "video_start": 103.119,
+   "video_end": 984.369,
+   "notes": [
+    "<p>Dr. Hsiu-Li Wang, Commissioner, Public Health &amp; Emergency Services/Medical Officer of Health and Jessie Johal, Acting Director, Covid Response, provided a presentation on the current state of Covid-19 and other seasonal respiratory viruses, such as respiratory syncytial virus (RSV) and influenza, in the community. Dr. H. Wang stressed that a large number of children are being infected with RSV, on top of continuing COVID-19 infections, and an earlier arrival of seasonal influenza, is stressing the health care system. J. Johal provided an overview of the current Covid-19 vaccination rates. She stressed the importance of getting vaccinated for Covid-19 and influenza.</p>\n<p>In response to a question from the Board, Dr. H. Wang noted that Waterloo Region Police Services has put out a drug alert resulting from 2 overdoses from green fentanyl. She stressed that individuals that may be using these substances should be extra cautious. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "BOH - Council Update_-_December_14__2022.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=2171"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Motion to Go into Closed Session",
+   "closed": false,
+   "video_start": 984.369,
+   "video_end": 1067.931,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 1067.931,
+   "video_end": 1086.01,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5",
+   "item_number": "5",
+   "item_title": "Motion to Go into Closed Session",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Huinink",
+   "text": "That a closed meeting of Council be held on Wednesday, December 14, 2022 immediately following the Board of Health meeting in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Education related to Regional Council’s role as the Board of Health; Education related to Regional Development Charges; and Education related to the Regional Insurance Pool History and Status. Receiving advice that is subject to solicitor-client privilege related to a joint procurement project.",
+   "text_html": "<p>That a closed meeting of Council be held on Wednesday, December 14, 2022 immediately following the Board of Health meeting in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Education related to Regional Council’s role as the Board of Health;</li>\n<li>Education related to Regional Development Charges; and</li>\n<li>Education related to the Regional Insurance Pool History and Status.</li>\n<li>Receiving advice that is subject to solicitor-client privilege related to a joint procurement project. </li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "6",
+   "item_number": "6",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "James",
+   "text": "That the meeting adjourn at 5:07 p.m.",
+   "text_html": "<p>That the meeting adjourn at 5:07 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,236 @@
+{
+ "title": "Special Council - December 11, 2025",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Erb",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Rodrigues",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf",
+  "Craig",
+  "Foxton",
+  "Nowak"
+ ],
+ "absent": [
+  "Craig",
+  "Foxton",
+  "Nowak"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 172.972,
+   "video_end": 181.565,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 9:01 a.m. to consider a motion to go into Closed Session.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 181.565,
+   "video_end": 182.519,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 182.519,
+   "video_end": 241.798,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "4",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 241.798,
+   "video_end": 242.798,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "5",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 242.798,
+   "video_end": 425.059,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1",
+    "m2"
+   ]
+  },
+  {
+   "id": "13",
+   "number": "6",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 425.059,
+   "video_end": 464.839,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "5",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Shantz",
+   "text": "That the Regional Municipality of Waterloo suspend the rules of procedure in accordance with sections 2.3 and 8.6 of the Procedural By-law, by adding an additional purpose to its Special Council agenda being held on December 11, 2025 as follows: Amending to the closed session motion under item 5 to include: Receiving information regarding potential litigation related to water quantity in the Region.",
+   "text_html": "<p>That the Regional Municipality of Waterloo suspend the rules of procedure in accordance with sections 2.3 and 8.6 of the Procedural By-law, by adding an additional purpose to its Special Council agenda being held on December 11, 2025 as follows:</p>\n<ol>\n<li>Amending to the closed session motion under item 5 to include: Receiving information regarding potential litigation related to water quantity in the Region.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "3",
+   "item_number": "5",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Huinink",
+   "text": "That a closed meeting of the Council be held on December 11, 2025, at approximately 9:05 a.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to ongoing litigation regarding the 100 Victoria Street encampment; and Receiving information regarding potential litigation related to water quantity in the Region.",
+   "text_html": "<p>That a closed meeting of the Council be held on December 11, 2025, at approximately 9:05 a.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to ongoing litigation regarding the 100 Victoria Street encampment; and</li>\n<li>Receiving information regarding potential litigation related to water quantity in the Region.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "13",
+   "item_number": "6",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Gowing",
+   "text": "That the meeting adjourn at 9:06 a.m.",
+   "text_html": "<p>That the meeting adjourn at 9:06 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "McCabe",
+     "Liggett",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Rodrigues",
+     "Gowing"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

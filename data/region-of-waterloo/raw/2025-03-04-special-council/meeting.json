@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "db28ee61-5080-48c1-8158-9f7986739874",
+ "city": "region-of-waterloo",
+ "key": "2025-03-04-special-council",
+ "type": "Special Council",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council",
+ "start": "2025-03-04T09:00:00",
+ "end": "2025-03-04T10:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=db28ee61-5080-48c1-8158-9f7986739874&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=11939",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=db28ee61-5080-48c1-8158-9f7986739874&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=db28ee61-5080-48c1-8158-9f7986739874&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=db28ee61-5080-48c1-8158-9f7986739874"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=db28ee61-5080-48c1-8158-9f7986739874",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "fb1514f98d4d99ad373a17a38d17549c23ebf56115ac146b93ba683cd4bd4b5d"
+ }
+}

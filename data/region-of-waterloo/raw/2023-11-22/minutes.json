@@ -1,0 +1,1380 @@
+{
+ "title": "Council Meeting - November 22, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Deutschmann",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Williams",
+  "Wolf",
+  "Liggett",
+  "McCabe",
+  "Nowak"
+ ],
+ "absent": [
+  "Liggett",
+  "McCabe",
+  "Nowak"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 354.49,
+   "video_end": 355.209,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 7:00 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 355.209,
+   "video_end": 373.725,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "62",
+   "number": "3",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": 373.725,
+   "video_end": 406.083,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "5",
+   "number": "4",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 406.083,
+   "video_end": 430.162,
+   "notes": [
+    "<p>C. James declared an indirect pecuniary interest regarding item 3 on the Administration and Finance Summary summary due to The Clay and Glass Gallery being one of her clients.  </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "5",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 430.162,
+   "video_end": 430.99,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "6",
+   "title": "Petitions",
+   "closed": false,
+   "video_start": 430.99,
+   "video_end": 432.052,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "7",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 432.052,
+   "video_end": 432.818,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "8",
+   "title": "Minutes of Previous Meetings",
+   "closed": false,
+   "video_start": 432.818,
+   "video_end": 484.802,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "11",
+   "number": "8.1",
+   "title": "Closed Council - October 25, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "8.2",
+   "title": "Council - October 25, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "8.3",
+   "title": "Strategic Planning and Budget Committee - November 1, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "8.4",
+   "title": "Closed Strategic Planning and Budget Committee - November 1, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "8.5",
+   "title": "Strategic Planning and Budget Public Input Committee - November 1, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "8.6",
+   "title": "Community and Health Services Committee - November 7, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "8.7",
+   "title": "Closed Committee - November 7, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "50",
+   "number": "8.8",
+   "title": "Planning and Works Committee - November 7, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "51",
+   "number": "8.9",
+   "title": "Administration and Finance Committee - November 7, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "52",
+   "number": "8.10",
+   "title": "Special Council - November 8, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "53",
+   "number": "8.11",
+   "title": "Closed Council - November 8, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "63",
+   "number": "8.12",
+   "title": "Strategic Planning and Budget - November 8, 2023",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "9",
+   "title": "Communications",
+   "closed": false,
+   "video_start": 484.802,
+   "video_end": 487.474,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "9.1",
+   "title": "Council Information Package - November 15, 2023 (Distributed to Councillors Electronically)",
+   "closed": false,
+   "video_start": 487.474,
+   "video_end": 489.661,
+   "notes": [
+    "<p>Received for information. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "61",
+   "number": "9.2",
+   "title": "Hold The Line Waterloo Region",
+   "closed": false,
+   "video_start": 489.661,
+   "video_end": 496.474,
+   "notes": [
+    "<p>Received for information. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "10",
+   "title": "Motion to Go Into Committee of the Whole to Consider Reports",
+   "closed": false,
+   "video_start": 496.474,
+   "video_end": 544.755,
+   "notes": [
+    "<p>M. Harris left the meeting at 7:05 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "21",
+   "number": "11",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 544.755,
+   "video_end": 546.084,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "22",
+   "number": "11.1",
+   "title": "Finance Reports",
+   "closed": false,
+   "video_start": 546.084,
+   "video_end": 579.944,
+   "notes": [
+    "<p>M. Harris joined the meeting at 7:07 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "58",
+   "number": "11.1.1",
+   "title": "COR-TRY-23-034, P2016-24 Transportation Feeder Service (busPLUS)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "59",
+   "number": "11.1.2",
+   "title": "COR-TRY-23-035, P2023-25 Hybrid and Electric Transit Buses",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "23",
+   "number": "11.2",
+   "title": "Committee Reports",
+   "closed": false,
+   "video_start": 579.944,
+   "video_end": 580.944,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "47",
+   "number": "11.2.1",
+   "title": "Closed Committee Summary - November 7, 2023",
+   "closed": false,
+   "video_start": 580.944,
+   "video_end": 636.163,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "48",
+   "number": "11.2.2",
+   "title": "Planning and Works Summary - November 7, 2023",
+   "closed": false,
+   "video_start": 636.163,
+   "video_end": 687.539,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ]
+  },
+  {
+   "id": "49",
+   "number": "11.2.3",
+   "title": "Administration and Finance Summary - November 7, 2023",
+   "closed": false,
+   "video_start": 667.195,
+   "video_end": 783.541,
+   "notes": [
+    "<p>Regional Chair K. Redman noted that item 3 on the summary would be taken separately due to C. James' conflict. </p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9",
+    "m10"
+   ]
+  },
+  {
+   "id": "38",
+   "number": "11.3",
+   "title": "Board of Health",
+   "closed": false,
+   "video_start": 758.087,
+   "video_end": 761.009,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "57",
+   "number": "11.3.1",
+   "title": "Respiratory Season Update",
+   "closed": false,
+   "video_start": 758.54,
+   "video_end": 1007.107,
+   "notes": [
+    "<p>Dr. Hsiu-Li Wang, Commissioner, Public Health &amp; Emergency Services/Medical Officer of Health, provided an update on the status of respiratory illnesses in the community. She highlighted that there is currently an elevated level of Covid-19 in the community that is expected to fluctuate throughout the season. She further noted that there is an increase in Invasive Group A Streptocaus, which is a common bacteria that usually causes strep throat, but can cause severe illness. Dr. H. Wang encouraged the public to stay up to date on vaccinations, and highlighted that vaccination clinics will be shifting their focus to children under 5 who may have difficulty getting vaccinations at other locations. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "28",
+   "number": "12",
+   "title": "Other Matters Under Committee Of The Whole",
+   "closed": false,
+   "video_start": 1007.107,
+   "video_end": 1020.279,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "13",
+   "title": "Motion for Committee of the Whole to Rise and Council Resume",
+   "closed": false,
+   "video_start": 1020.279,
+   "video_end": 1059.295,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ]
+  },
+  {
+   "id": "30",
+   "number": "14",
+   "title": "Motion To Adopt Proceedings of Committee of the Whole",
+   "closed": false,
+   "video_start": 1059.295,
+   "video_end": 1095.123,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ]
+  },
+  {
+   "id": "31",
+   "number": "15",
+   "title": "Motions",
+   "closed": false,
+   "video_start": 1095.123,
+   "video_end": 1096.951,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "32",
+   "number": "16",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": 1096.951,
+   "video_end": 1098.155,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "39",
+   "number": "16.1",
+   "title": "Councillor N. Salonen",
+   "closed": false,
+   "video_start": 1098.155,
+   "video_end": 1126.983,
+   "notes": [
+    "<p>Councillor N. Salonen explained that due to recent clarification from the provincial government she would be withdrawing her motion. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "33",
+   "number": "17",
+   "title": "Unfinished Business",
+   "closed": false,
+   "video_start": 1126.983,
+   "video_end": 1127.827,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "18",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 1127.827,
+   "video_end": 1128.421,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "56",
+   "number": "18.1",
+   "title": "Closed All Council Education Session",
+   "closed": false,
+   "video_start": 1128.421,
+   "video_end": 1185.921,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ]
+  },
+  {
+   "id": "35",
+   "number": "19",
+   "title": "Questions",
+   "closed": false,
+   "video_start": 1185.921,
+   "video_end": 1190.624,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "36",
+   "number": "20",
+   "title": "Enactment of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 1190.624,
+   "video_end": 1273.328,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ]
+  },
+  {
+   "id": "40",
+   "number": "20.1",
+   "title": "By-Law 23-055",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ]
+  },
+  {
+   "id": "41",
+   "number": "20.2",
+   "title": "By-Law 23-056",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ]
+  },
+  {
+   "id": "42",
+   "number": "20.3",
+   "title": "By-Law 23-057",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m17"
+   ]
+  },
+  {
+   "id": "43",
+   "number": "20.4",
+   "title": "By-Law 23-058",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m18"
+   ]
+  },
+  {
+   "id": "44",
+   "number": "20.5",
+   "title": "By-Law 23-059",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ]
+  },
+  {
+   "id": "37",
+   "number": "21",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 1226.546,
+   "video_end": 1255.031,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m20"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "62",
+   "item_number": "3",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Salonen",
+   "text": "That Council reconvene into Open Session.",
+   "text_html": "<p>That Council reconvene into Open Session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "10",
+   "item_number": "8",
+   "item_title": "Minutes of Previous Meetings",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Craig",
+   "text": "That the following minutes be approved.",
+   "text_html": "<p>That the following minutes be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "20",
+   "item_number": "10",
+   "item_title": "Motion to Go Into Committee of the Whole to Consider Reports",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Shantz",
+   "text": "That Council go into Committee of the Whole to consider reports.",
+   "text_html": "<p>That Council go into Committee of the Whole to consider reports.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "22",
+   "item_number": "11.1",
+   "item_title": "Finance Reports",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Salonen",
+   "text": "That the Finance Reports items be received for information and approved.",
+   "text_html": "<p>That the Finance Reports items be received for information and approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "58",
+   "item_number": "11.1.1",
+   "item_title": "COR-TRY-23-034, P2016-24 Transportation Feeder Service (busPLUS)",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Salonen",
+   "text": "That the Regional Municipality of Waterloo extend the contract with 947465 Ontario Ltd. o/a Voyageur Transportation Services for P2016-24 Transportation Feeder Service (busPLUS) for a two (2) year period effective April 1, 2024 in the estimated amount of $2,605,000.00 plus all applicable taxes as set out in report COR-TRY-23-034 dated November 22, 2023.",
+   "text_html": "<p>That the Regional Municipality of Waterloo extend the contract with 947465 Ontario Ltd. o/a Voyageur Transportation Services for P2016-24 Transportation Feeder Service (busPLUS) for a two (2) year period effective April 1, 2024 in the estimated amount of $2,605,000.00 plus all applicable taxes as set out in report COR-TRY-23-034 dated November 22, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m6",
+   "item": "59",
+   "item_number": "11.1.2",
+   "item_title": "COR-TRY-23-035, P2023-25 Hybrid and Electric Transit Buses",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Salonen",
+   "text": "That the Regional Municipality of Waterloo take the following action with respect to P2023-25 Hybrid and Electric Transit Buses as set out in report COR-TRY-23-035 dated November 22, 2023: a) Accept the proposal of Nova Bus Inc. for P2023-25 Hybrid and Electric Transit Buses to supply eight (8) Buses in the amount of $9,595,992.00 plus all applicable taxes; and b) Name Nova Bus Inc. as the Vendor of Record (VOR) for all Hybrid and Electric Transit Buses for a two (2) year period ending December 31, 2025 with the option to renew for three (3) additional one (1) year periods ending December 31, 2028.",
+   "text_html": "<p>That the Regional Municipality of Waterloo take the following action with respect to P2023-25 Hybrid and Electric Transit Buses as set out in report COR-TRY-23-035 dated November 22, 2023:</p>\n<p>a) Accept the proposal of Nova Bus Inc. for P2023-25 Hybrid and Electric Transit Buses to supply eight (8) Buses in the amount of $9,595,992.00 plus all applicable taxes; and</p>\n<p>b) Name Nova Bus Inc. as the Vendor of Record (VOR) for all Hybrid and Electric Transit Buses for a two (2) year period ending December 31, 2025 with the option to renew for three (3) additional one (1) year periods ending December 31, 2028.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m7",
+   "item": "47",
+   "item_number": "11.2.1",
+   "item_title": "Closed Committee Summary - November 7, 2023",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Shantz",
+   "text": "That the following recommendations from Closed Committee be approved: That the Regional Municipality of Waterloo approve the settlement of Kieswetter Excavating Inc. v. the Region et al. whereby the Region pays Kieswetter the sum of $700,000 inclusive of all compensation, holdbacks, interest and costs, with the Regional Solicitor having all authority to execute the settlement documents and releases.",
+   "text_html": "<p>That the following recommendations from Closed Committee be approved:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo approve the settlement of Kieswetter Excavating Inc. v. the Region et al. whereby the Region pays Kieswetter the sum of $700,000 inclusive of all compensation, holdbacks, interest and costs, with the Regional Solicitor having all authority to execute the settlement documents and releases.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "48",
+   "item_number": "11.2.2",
+   "item_title": "Planning and Works Summary - November 7, 2023",
+   "name": "",
+   "moved_by": "James",
+   "seconded_by": "Foxton",
+   "text": "That the following recommendations from the Planning and Works Committee be approved: That the Regional Municipality of Waterloo, amend the current Maintenance Agreement outlined in report,TES-TRP-21-19, Maintenance Agreement Report from October 2021, that authorized the current Maintenance Agreements with the three City Area Municipalities to; delegate authority to the Commissioner of Transportation Services or designate on behalf of the Region as set out in report TSD-TRP-23-013, dated November 7, 2023 to declare a Significant Weather Event (SWE) pursuant to Ontario Regulation O.Reg. 239/02 Minimum Maintenance Standards, (MMS) of the Municipal Act, 2001. And That the Regional Municipality of Waterloo amend By-law 16-023 to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo to add the following, as Subsection 2(e) to; Part III – Enforcement and Authority: e) The Commissioner is authorized to declare a Significant Weather Event (SWE) in accordance with Ontario Regulation 239/02 Minimum Maintenance Standards for Municipal Highways. The Commissioner is authorized to further delegate that authority to declare a SWE to The Corporation of the City of Waterloo, The Corporation of the City of Kitchener, and The Corporation of the City of Cambridge in respect of a highway or part of a highway located within their respective municipal boundary. (i) That the Regional Municipality of Waterloo pass a by-law to add to the Regional Road System, to form part of Regional Road 39 (being Eagle Street North, in the City of Cambridge), the lands described as follows: Part of Lot 33, Registered Plan 1364, being Part 1 on Reference Plan 67R-3246; City of Cambridge, Regional Municipality of Waterloo, being part of PIN: 03767-0002(LT) (the “subject lands”); and (ii) That the Regional Solicitor be directed to register notice of such by-law on title to the lands that are the subject of the by-law, as outlined in report PDL-LEG-23-052, dated November 7, 2023. That the Regional Municipality of Waterloo (the “Region”) pass a by-law to permanently close a portion of Regional Road No. 58 (Fischer-Hallman Road), in the City of Kitchener, legally described as Part of Block 200, Plan 58M-631, being Parts 10, 11, 12 and 13 on 58R-21237; City of Kitchener (being part of PIN 22722-2648 (LT)) (the “Property”); That the Regional Solicitor be directed to register notice of such by-law on title to the Property, as outlined in report PDL-LEG-23-053, dated November 7, 2023; and That the Region pass a by-law to amend Road Consolidation By-law No. 01-059 (Regional Road System) to remove the Property from the Regional Road System. That the Regional Municipality of Waterloo approve the permanent lowering of posted speed limits in school zones on regional roads by amending the Region’s Traffic and Parking By-law 16-023, as per the changes to Schedule 17, Rates of Speed, outlined in Attachment A in Report TSD-TRP-23-014, dated November 7, 2023; and That the Regional Municipality of Waterloo amend the proposed Attachment A as provided in report TSD-TRP-23-014, Update on Posted Speed Limits in School Zones, to remove Snyder's Road, Wilmot and keep as current with timed Monday-Friday 7 a.m. - 5 pm. September - June 40 km and 60 km at all other times; And that staff report back on the potential for a flashing light system at this site to add clarity to the public when 40 km is in effect. That the Regional Municipality of Waterloo approve the Corporate Asset Management Policy, as set out in Appendix A to report EES-SAM-23-002 dated November 7, 2023.",
+   "text_html": "<p>That the following recommendations from the Planning and Works Committee be approved:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo, amend the current Maintenance Agreement outlined in report,TES-TRP-21-19, Maintenance Agreement Report from October 2021, that authorized the current Maintenance Agreements with the three City Area Municipalities to; delegate authority to the Commissioner of Transportation Services or designate on behalf of the Region as set out in report TSD-TRP-23-013, dated November 7, 2023 to declare a Significant Weather Event (SWE) pursuant to Ontario Regulation O.Reg. 239/02 Minimum Maintenance Standards, (MMS) of the Municipal Act, 2001. And<br/>That the Regional Municipality of Waterloo amend By-law 16-023 to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo to add the following, as Subsection 2(e) to; Part III – Enforcement and Authority:<br/>e) The Commissioner is authorized to declare a Significant Weather Event (SWE) in accordance with Ontario Regulation 239/02 Minimum Maintenance Standards for Municipal Highways. The Commissioner is authorized to further delegate that authority to declare a SWE to The Corporation of the City of Waterloo, The Corporation of the City of Kitchener, and The Corporation of the City of Cambridge in respect of a highway or part of a highway located within their respective municipal boundary.</li>\n<li>(i) That the Regional Municipality of Waterloo pass a by-law to add to the Regional Road System, to form part of Regional Road 39 (being Eagle Street North, in the City of Cambridge), the lands described as follows:<br/>Part of Lot 33, Registered Plan 1364, being Part 1 on Reference Plan 67R-3246; City of Cambridge, Regional Municipality of Waterloo, being part of PIN: 03767-0002(LT) (the “subject lands”); and<br/>(ii) That the Regional Solicitor be directed to register notice of such by-law on title to the lands that are the subject of the by-law, as outlined in report PDL-LEG-23-052, dated November 7, 2023.</li>\n<li>That the Regional Municipality of Waterloo (the “Region”) pass a by-law to permanently close a portion of Regional Road No. 58 (Fischer-Hallman Road), in the City of Kitchener, legally described as Part of Block 200, Plan 58M-631, being Parts 10, 11, 12 and 13 on 58R-21237; City of Kitchener (being part of PIN 22722-2648 (LT)) (the “Property”);<br/>That the Regional Solicitor be directed to register notice of such by-law on title to the Property, as outlined in report PDL-LEG-23-053, dated November 7, 2023; and<br/>That the Region pass a by-law to amend Road Consolidation By-law No. 01-059 (Regional Road System) to remove the Property from the Regional Road System.</li>\n<li>That the Regional Municipality of Waterloo approve the permanent lowering of posted speed limits in school zones on regional roads by amending the Region’s Traffic and Parking By-law 16-023, as per the changes to Schedule 17, Rates of Speed, outlined in Attachment A in Report TSD-TRP-23-014, dated November 7, 2023; and<br/>That the Regional Municipality of Waterloo amend the proposed Attachment A as provided in report TSD-TRP-23-014, Update on Posted Speed Limits in School Zones, to remove Snyder's Road, Wilmot and keep as current with timed Monday-Friday 7 a.m. - 5 pm. September - June 40 km and 60 km at all other times;<br/>And that staff report back on the potential for a flashing light system at this site to add clarity to the public when 40 km is in effect.</li>\n<li>That the Regional Municipality of Waterloo approve the Corporate Asset Management Policy, as set out in Appendix A to report EES-SAM-23-002 dated November 7, 2023.</li>\n</ol>\n<p> </p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "49",
+   "item_number": "11.2.3",
+   "item_title": "Administration and Finance Summary - November 7, 2023",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Shantz",
+   "text": "That the following recommendations from the Administration and Finance Committee be approved: That the Regional Municipality of Waterloo contact the Ministry of the Attorney General to identify the lack of judicial resources provided to the Region’s Provincial Offences Court and to request adequate judicial resources as per the Memorandum of Understanding as set out in report PDL-CAS-23-015 dated November 7, 2023. That the Regional Municipality of Waterloo approve the refreshed Corporate Vision, Mission, and Core Value statements as outlined in report CAO-23-005, dated November 7, 2023.",
+   "text_html": "<p>That the following recommendations from the Administration and Finance Committee be approved:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo contact the Ministry of the Attorney General to identify the lack of judicial resources provided to the Region’s Provincial Offences Court and to request adequate judicial resources as per the Memorandum of Understanding as set out in report PDL-CAS-23-015 dated November 7, 2023. </li>\n<li>That the Regional Municipality of Waterloo approve the refreshed Corporate Vision, Mission, and Core Value statements as outlined in report CAO-23-005, dated November 7, 2023.<br/></li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m10",
+   "item": "49",
+   "item_number": "11.2.3",
+   "item_title": "Administration and Finance Summary - November 7, 2023",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Shantz",
+   "text": "3. That the Regional Municipality of Waterloo reinstate public art galleries as eligible organizations to receive operating support through Council-approved grant programs effective January 1, 2024 as outlined in report PDL-CUL-23-014 dated November 7, 2023.",
+   "text_html": "<p>3. That the Regional Municipality of Waterloo reinstate public art galleries as eligible organizations to receive operating support through Council-approved grant programs effective January 1, 2024 as outlined in report PDL-CUL-23-014 dated November 7, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": [
+     "James"
+    ]
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m11",
+   "item": "29",
+   "item_number": "13",
+   "item_title": "Motion for Committee of the Whole to Rise and Council Resume",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Williams",
+   "text": "That Committee of the Whole rise and Council resume.",
+   "text_html": "<p>That Committee of the Whole rise and Council resume.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m12",
+   "item": "30",
+   "item_number": "14",
+   "item_title": "Motion To Adopt Proceedings of Committee of the Whole",
+   "name": "",
+   "moved_by": "Foxton",
+   "seconded_by": "Craig",
+   "text": "That Council adopt the proceedings of Committee of the Whole.",
+   "text_html": "<p>That Council adopt the proceedings of Committee of the Whole.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m13",
+   "item": "56",
+   "item_number": "18.1",
+   "item_title": "Closed All Council Education Session",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Shantz",
+   "text": "That a closed meeting of Council be held on Friday, December 8, 2023 at 1:00 p.m. in the Regional Council Chambers and electronically, in accordance with Section 239 of the Municipal Act, 2001, for the purposes of considering the following subject matters: 1) Education related to Indigenous History and Reconciliation",
+   "text_html": "<p>That a closed meeting of Council be held on Friday, December 8, 2023 at 1:00 p.m. in the Regional Council Chambers and electronically, in accordance with Section 239 of the Municipal Act, 2001, for the purposes of considering the following subject matters:<br/>1)            Education related to Indigenous History and Reconciliation</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m14",
+   "item": "36",
+   "item_number": "20",
+   "item_title": "Enactment of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Wolf",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m15",
+   "item": "40",
+   "item_number": "20.1",
+   "item_title": "By-Law 23-055",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Wolf",
+   "text": "That a By-law to dedicate certain lands as part of the highway known as Eagle Street North (Regional Road No. 39), in the City of Cambridge, Regional Municipality of Waterloo be read a first, second and third time, finally passed and numbered 23-055, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to dedicate certain lands as part of the highway known as Eagle Street North (Regional Road No. 39), in the City of Cambridge, Regional Municipality of Waterloo be read a first, second and third time, finally passed and numbered 23-055, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m16",
+   "item": "41",
+   "item_number": "20.2",
+   "item_title": "By-Law 23-056",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Wolf",
+   "text": "That a By-law to Permanently Close a Non-Travelled Part of Fischer-Hallman Road (Regional Road 58), City of Kitchener and to Amend By-Law 01-059, as amended be read a first, second and third time, finally passed and numbered 23-056, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Permanently Close a Non-Travelled Part of Fischer-Hallman Road (Regional Road 58), City of Kitchener and to Amend By-Law 01-059, as amended be read a first, second and third time, finally passed and numbered 23-056, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m17",
+   "item": "42",
+   "item_number": "20.3",
+   "item_title": "By-Law 23-057",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Wolf",
+   "text": "That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Significant Weather Event – Delegated Authority for Declaration) be read a first, second and third time, finally passed and numbered 23-057, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Significant Weather Event – Delegated Authority for Declaration) be read a first, second and third time, finally passed and numbered 23-057, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m18",
+   "item": "43",
+   "item_number": "20.4",
+   "item_title": "By-Law 23-058",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Wolf",
+   "text": "That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Posted Speed Limits in School Zones) be read a first, second and third time, finally passed and numbered 23-058, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Amend By-law 16-023, as amended, being a By-law to Regulate Traffic and Parking on Highways Under the Jurisdiction of the Regional Municipality of Waterloo (Posted Speed Limits in School Zones) be read a first, second and third time, finally passed and numbered 23-058, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m19",
+   "item": "44",
+   "item_number": "20.5",
+   "item_title": "By-Law 23-059",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Wolf",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on November 22, 2023 be read a first, second and third time, finally passed and numbered 23-059, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on November 22, 2023 be read a first, second and third time, finally passed and numbered 23-059, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m20",
+   "item": "37",
+   "item_number": "21",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "Williams",
+   "text": "That the meeting adjourn at 7:16 p.m.",
+   "text_html": "<p>That the meeting adjourn at 7:16 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Vrbanovic",
+     "Erb",
+     "Redman",
+     "Harris",
+     "Shantz",
+     "Foxton",
+     "Craig",
+     "Wolf",
+     "James",
+     "Deutschmann",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {
+  "m10": "conflict (1)"
+ },
+ "vote_problems": [],
+ "vote_notes": []
+}

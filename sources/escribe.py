@@ -169,7 +169,10 @@ def surname(name):
 
 
 def split_names(text):
-    return [surname(n) for n in re.split(r",|\band\b", text) if n.strip()]
+    # Typos seen in name lists: "D. Schnider. J. Deneault" (a full stop for a comma) and "Mayor B, Vrbanovic".
+    text = re.sub(r"\b([A-Z][a-z'’-]{2,})\.\s+(?=[A-Z]\.)", r"\1, ", text)
+    text = re.sub(r"\b([A-Z]),\s*(?=[A-Z][a-z])", r"\1. ", text)
+    return [surname(n) for n in re.split(r",|;|\band\b", text) if n.strip()]
 
 
 def parse_result(text):
@@ -256,6 +259,7 @@ def parse_conflicts(soup):
 def audit_votes(raw, soup, motions, roster, pattern=r"Voting in Favour"):
     """Compare what we parsed with the raw minutes, so a vote can't go missing unnoticed."""
     problems = []
+    motions = [x for x in motions if not x.get("ballot")]  # appointment ballots aren't for-and-against votes
     own = [x for x in motions if x["votes"]["for"] or x["votes"]["against"] or x["votes"]["other"]]
     unique = {id(x["votes"]) for x in own}
     # Votes anywhere on the page, including ones written into free text rather than the motion block.
@@ -263,13 +267,16 @@ def audit_votes(raw, soup, motions, roster, pattern=r"Voting in Favour"):
     in_favour = len(re.findall(pattern, page))
     if in_favour != len(unique):
         problems.append(f"page has {in_favour} '{pattern}' lists but {len(unique)} were parsed")
-    results_on_page = len(re.findall(r"\(\d+\s+to\s+\d+\)", text_of(soup)))
-    results_parsed = len(soup.select(".MotionResult")) and sum(1 for r in soup.select(".MotionResult") if re.search(r"\(\d+ to \d+\)", r.get_text()))
+    # Counts are at most two digits, so "(2025 to 2030)" in a report title isn't mistaken for a vote.
+    results_on_page = len(re.findall(r"\(\d{1,2}\s+to\s+\d{1,2}\)", text_of(soup)))
+    results_parsed = len(soup.select(".MotionResult")) and sum(1 for r in soup.select(".MotionResult") if re.search(r"\(\d{1,2} to \d{1,2}\)", r.get_text()))
     if results_on_page != results_parsed:
         problems.append(f"page text has {results_on_page} counted results but motion blocks have {results_parsed}")
     for x in own:
         r, v = x["result"], x["votes"]
-        if r["for"] is None:
+        if not (v["for"] or v["against"]):  # a table of only declared conflicts needs no count
+            pass
+        elif r["for"] is None:
             problems.append(f"{x['id']}: names recorded but the result has no count: '{r['text']}'")
         elif (r["for"], r["against"]) != (len(v["for"]), len(v["against"])):
             problems.append(f"{x['id']}: result says {r['for']}-{r['against']} but names give {len(v['for'])}-{len(v['against'])}")
@@ -286,19 +293,35 @@ def audit_votes(raw, soup, motions, roster, pattern=r"Voting in Favour"):
     return problems
 
 
+# Names, possibly with initials ("Mayor B. Vrbanovic and Councillors S. Davey, J. Deneault"): a full stop is allowed
+# only after a single capital letter, so a list never runs on into the next sentence.
+NAMES = r"(?:[^.;]|(?<=\b[A-Z])\.)+?"
 PROSE_VOTE = re.compile(
-    r"(?P<outcome>Carried|Lost|LOST|Defeated|DEFEATED|CARRIED)\b[^;]{0,60}?on a recorded vote,?\s*with\s+(?P<yes>.+?)\s+voting in favou?r"
-    r"(?:[;,]?\s*(?:and,?\s*)?(?P<no>[^;]+?)\s+voting in opposition)?(?=[.;]|\s*$)")
+    r"(?P<outcome>Carried|Lost|LOST|Defeated|DEFEATED|CARRIED)\b[^;]{0,60}?on a (?:tied )?recorded vote\s*,?\s*with\s+"
+    rf"(?P<a>{NAMES})\s+voting in (?P<side_a>favou?r|opposition)"
+    rf"(?:[;,]?\s*(?:and,?\s*)?(?P<b>{NAMES})\s+voting in (?P<side_b>favou?r|opposition)"
+    rf"|;\s*and,?\s*(?P<c>(?:[A-Za-z'’ ,-]|(?<=\b[A-Z])\.)+?)(?<!\b[A-Z])(?=\.))?")
+# "Councillor D. Chapman declined to vote and … the refusal is recorded as a vote in opposition" (procedure by-law)
+DECLINED = re.compile(r"((?:Mayor|Councill?or)\s+(?:[A-Z]\.\s*)?[A-Z][A-Za-z'’-]+)\s+declined to vote.{0,250}?vote in opposition")  # the minutes sometimes drop the second "voting in …"
 
 
 def prose_votes(text):
     """Votes the minutes narrate instead of tabulating (Kitchener): "…was LOST on a recorded vote, with Councillors
     D. Chapman and J. Deneault voting in favour; and, Mayor B. Vrbanovic and Councillors … voting in opposition."""
     out = []
+    text = re.sub(r"\b([A-Z][a-z'’-]{2,})\.\s+(?=[A-Z]\.\s*[A-Z][a-z])", r"\1, ", text)  # "D. Schnider. J. Deneault"
     for m in PROSE_VOTE.finditer(text):
         lead = text[:m.start()].rsplit(". ", 1)[-1] if ". " in text[:m.start()] else text[:m.start()]
-        out.append({"outcome": m.group("outcome").capitalize(), "for": split_names(m.group("yes")),
-                    "against": split_names(m.group("no")) if m.group("no") else [], "sentence": (lead + m.group(0)).strip()})
+        sides = {"for": [], "against": []}
+        other = "favour" if m.group("side_a") == "opposition" else "opposition"
+        for who, side in ((m.group("a"), m.group("side_a")), (m.group("b"), m.group("side_b")), (m.group("c"), other)):
+            if who:
+                sides["against" if side == "opposition" else "for"] += split_names(who)
+        declined = DECLINED.match(text[m.end():].lstrip(" ;,and"))
+        if declined:
+            sides["against"].append(surname(declined.group(1)))
+        out.append({"outcome": m.group("outcome").capitalize(), **sides,
+                    "sentence": (lead + m.group(0) + (" " + declined.group(0) if declined else "")).strip()})
     return out
 
 
@@ -342,7 +365,7 @@ def parse_minutes(city, d):
             ballot = False
             for row in li.select(".MotionVoters tr"):
                 label, names = text_of(row.select_one(".VoterVote")), row.select_one(".VotesUsers")
-                if not label or not names:
+                if not label or not names or text_of(names).lower() in ("none", "n/a", "-"):
                     continue
                 if re.search(r"\d+(?:\.\d+)?\s*%", label):  # an appointment ballot: candidates, not for and against
                     ballot = True
@@ -369,6 +392,7 @@ def parse_minutes(city, d):
                       "votes": votes, "inherited": False}
             if ballot:
                 motion["ballot"] = True
+                motion["votes"] = {"for": [], "against": [], "other": []}
             motions.append(motion)
             item["motions"].append(mid)
         if cfg(city).get("prose_votes"):
@@ -396,7 +420,8 @@ def parse_minutes(city, d):
         # Sometimes each item gets its own recorded vote; those must keep it. Fill in only motions the city left blank,
         # and only when one vote can be the one that covered them.
         for x in group:
-            if x["result"]["outcome"] or re.search(r"withdrawn|out of order|referred", x["post_html"], re.I):
+            own_table = x["votes"]["for"] or x["votes"]["against"] or x["votes"]["other"]
+            if x["result"]["outcome"] or own_table or re.search(r"withdrawn|out of order|referred", x["post_html"], re.I):
                 continue
             own_item = [y for y in decided if y["item_number"] == x["item_number"]]
             source = own_item[0] if own_item else decided[0] if len(decided) == 1 else None
@@ -424,9 +449,13 @@ def parse_minutes(city, d):
             problems.append(f"page has {said} 'voting in favour' phrases but {len(prose)} prose votes were parsed")
     # Before a council started naming voters, a split shown only as a count is how the minutes were kept, not a gap.
     notes = []
+    # One-off oddities in a meeting's minutes, explained by hand in cities/<slug>/explained.json.
+    for found, why in ((read_json(city.dir / "explained.json") or {}).get(d.name) or {}).items():
+        notes += [f"{p} (explained: {why})" for p in problems if found in p]
+        problems = [p for p in problems if found not in p]
     named_from = city.get("names_recorded_from")
     if named_from and meeting.get("start", "9999") < named_from:
-        notes = [p for p in problems if "but no names" in p]
+        notes += [p for p in problems if "but no names" in p]
         problems = [p for p in problems if "but no names" not in p]
     minutes = {"title": text_of(soup.select_one("title")), "source_format": "escribe-html", "roster": roster, "absent": absent,
                "items": items, "motions": motions, "conflicts": parse_conflicts(soup), "attendance_events": [],

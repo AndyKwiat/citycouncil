@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "00b32c85-cb96-4f46-9e2d-63eb2bc39f18",
+ "city": "kitchener",
+ "key": "2022-12-19-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2022-12-19T17:00:00",
+ "end": "2022-12-19T19:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=00b32c85-cb96-4f46-9e2d-63eb2bc39f18&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=7787",
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=00b32c85-cb96-4f46-9e2d-63eb2bc39f18&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=00b32c85-cb96-4f46-9e2d-63eb2bc39f18&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=00b32c85-cb96-4f46-9e2d-63eb2bc39f18"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=00b32c85-cb96-4f46-9e2d-63eb2bc39f18",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "c8f31b42183f89833784f8e057d9204c13848bbae10ec2ae828566fb07c4a5fe"
+ }
+}

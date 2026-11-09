@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "3f53c8b0-c06f-474f-9399-a53de83a3398",
+ "city": "region-of-waterloo",
+ "key": "2025-03-13-special-council",
+ "type": "Special Council",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council",
+ "start": "2025-03-13T09:00:00",
+ "end": "2025-03-13T10:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=3f53c8b0-c06f-474f-9399-a53de83a3398&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=11892",
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=3f53c8b0-c06f-474f-9399-a53de83a3398&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=3f53c8b0-c06f-474f-9399-a53de83a3398&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=3f53c8b0-c06f-474f-9399-a53de83a3398"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=3f53c8b0-c06f-474f-9399-a53de83a3398",
+    "file": null,
+    "hls": null,
+    "captions": null
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "5b1c39afe53122a184908d4d415355b5a51c75efe70ba11dc3d8259a5a5106fd"
+ }
+}

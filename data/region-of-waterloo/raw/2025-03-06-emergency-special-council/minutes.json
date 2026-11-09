@@ -1,0 +1,233 @@
+{
+ "title": "Emergency Special Council - March 06, 2025",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "Nowak",
+  "Salonen",
+  "Williams",
+  "Wolf",
+  "McCabe",
+  "Shantz",
+  "Vrbanovic"
+ ],
+ "absent": [
+  "McCabe",
+  "Shantz",
+  "Vrbanovic"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 179.322,
+   "video_end": 181.182,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 3:45 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 181.182,
+   "video_end": 216.072,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Motion to hold an Emergency Special Council Meeting",
+   "closed": false,
+   "video_start": 216.072,
+   "video_end": 311.463,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Declarations of Pecuniary Interest under the “Municipal Conflict of Interest Act”",
+   "closed": false,
+   "video_start": 311.463,
+   "video_end": 313.807,
+   "notes": [
+    "<p>None declared. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 313.807,
+   "video_end": 357.276,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 357.276,
+   "video_end": 396.183,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "3",
+   "item_title": "Motion to hold an Emergency Special Council Meeting",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Williams",
+   "text": "That pursuant to section 8.7 of the Region of Waterloo’s Procedural By-law 22-051, an Emergency Special Council Meeting be held, without 48 hours notice, on March 6, 2025 at 3:45 p.m., for the purpose of holding a closed session regarding a labour relations issue.",
+   "text_html": "<p>That pursuant to section 8.7 of the Region of Waterloo’s Procedural By-law 22-051, an Emergency Special Council Meeting be held, without 48 hours notice, on March 6, 2025 at 3:45 p.m., for the purpose of holding a closed session regarding a labour relations issue.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "5",
+   "item_number": "5",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Salonen",
+   "text": "That a closed meeting of the Council be held on March 6, 2025 at 3:50 p.m. in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: labour relations or employee negotiations related to a union.",
+   "text_html": "<p>    <br/>That a closed meeting of the Council be held on March 6, 2025 at 3:50 p.m. in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>labour relations or employee negotiations related to a union.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "6",
+   "item_number": "6",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "Foxton",
+   "text": "That the meeting adjourn at 3:50 p.m.",
+   "text_html": "<p>That the meeting adjourn at 3:50 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Erb",
+     "Nowak",
+     "Redman",
+     "Harris",
+     "Foxton",
+     "Liggett",
+     "Craig",
+     "Wolf",
+     "James",
+     "Salonen",
+     "Huinink",
+     "Williams"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

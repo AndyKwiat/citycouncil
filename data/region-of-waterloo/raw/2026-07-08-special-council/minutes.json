@@ -1,0 +1,892 @@
+{
+ "title": "Special Council - July 08, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Foxton",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Salonen",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 350.079,
+   "video_end": 351.016,
+   "notes": [
+    "<p>Regional Chair K. Redman called the meeting to order at 9:00 a.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 351.016,
+   "video_end": 462.924,
+   "notes": [
+    "<p>Regional Chair K. Redman provided a land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Declarations of Conflict of Interest",
+   "closed": false,
+   "video_start": 462.924,
+   "video_end": 465.611,
+   "notes": [
+    "<p>None declared. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 465.611,
+   "video_end": 571.486,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": 571.486,
+   "video_end": 6069.588,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 6288.12,
+   "video_end": 6296.886,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 6296.886,
+   "video_end": 6297.042,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "26",
+   "number": "7.1",
+   "title": "Jabran Butt, Kitchener",
+   "closed": false,
+   "video_start": 6297.042,
+   "video_end": 6654.905,
+   "notes": [
+    "<p>J. Butt spoke to Council advocating for solutions to water capacity constraints, including connecting James Bay with the Grand River to increase the water supply in the Region of Waterloo. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "7.2 Jabran Butt pp.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18978"
+    },
+    {
+     "name": "7.2 Jabran Butt maps.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18979"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "27",
+   "number": "7.2",
+   "title": "Melissa Durrell, Executive Officer, Build Urban",
+   "closed": false,
+   "video_start": 6654.905,
+   "video_end": 6664.812,
+   "notes": [
+    "<p>M. Durrell spoke to Council in support of Councillor McCabe's motion to accelerate water infrastructure development. M. Durrell expressed support for the recent announcement of the newly identified 10L/s of water available for development.</p>\n<p>M. Durrell stressed the need for continued aggressive and urgent action to support the long-term water supply and asked Council to keep looking for opportunities to optimize the Region's water infrastructure.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "7.3",
+   "title": "Hugh Simpson, Kitchener",
+   "closed": false,
+   "video_start": 6901.923,
+   "video_end": 7237.955,
+   "notes": [
+    "<p>H. Simpson asked Council to develop a collaborative and inclusive approach to developing a Well Interference Committee and process. H. Simpson further asked for a comprehensive groundwater management system that is dynamic, integrated, and community centered.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Hugh Simpson Region of Waterloo Delegation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18977"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "28",
+   "number": "7.4",
+   "title": "Rory Farnan, Secretary, Citizens for Safe Ground Water",
+   "closed": false,
+   "video_start": 7064.048,
+   "video_end": 7773.272,
+   "notes": [
+    "<p>R. Farnan spoke on the Burnside 2025 Biennial Groundwater Monitoring Report - Wilmot Centre Well Field (K50, K51, K52) and asked Council to consider a proactive approach to groundwater monitoring.</p>\n<p>R. Farnan stated that the Burnside 2025 Biennial Groundwater Monitoring Report shows concerning trends in aquifer levels and nearby private wells. R. Farnan asked Council to increase reporting from biennially to annually, require a formal trend analysis, review groundwater trigger levels, and assess recovery after pumping reductions. R. Farnan further asked Council to create a proactive private well monitoring program, establish a drought-response operating protocol, publish clear public facing summaries, and review whether the current permitted volume remains appropriate.</p>\n<p>In response to a question from Council, Amy Shaw, Director of Water and Wastewater Operations, stated that resident feedback is being incorporated into groundwater policies and that meetings are ongoing. A. Shaw further explained that time constraints have previously impacted dialogue at meetings, and that staff are working on ways to facilitate dialogue, including further public consultations and surveys. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "CSGW - Report Should Not Be Considered a Clean Bill of Health.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18976"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "32",
+   "number": "7.5",
+   "title": "Joseph Puopolo, Senior Advisor, Urban Initiatives",
+   "closed": false,
+   "video_start": 7773.272,
+   "video_end": 8111.571,
+   "notes": [
+    "<p>J. Puopolo spoke in support of finalizing the framework for Forward Looking Servicing Agreements. J. Puopolo asked Council to ensure the framework provides confidence that the water commitments will be honoured, recognizes the distinct roles of developers and builders, includes realistic timelines, and supports normal financing and land transactions that understand the mechanics of land development. J. Puopolo further emphasized the need for agreements to balance risk across all parties and give confidence back to the community that development is proceeding in a thoughtful way.</p>\n<p>J. Puopolo asked Council to implement a transparent reporting mechanism and emphasized the need for the Interim Risk Management Framework to be viewed as a short-term approach that ceases once water capacity is restored. J. Puopolo further emphasized the need for making returning to normal the primary objective and spoke in support of Councillor McCabe's motion to accelerate water infrastructure. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "33",
+   "number": "7.6",
+   "title": "Craig Robson, Reopen Waterloo Region Industry Coalition",
+   "closed": false,
+   "video_start": 8111.571,
+   "video_end": 8456.605,
+   "notes": [
+    "<p>C. Robson expressed concerns over the proposed Forward Looking Servicing Agreements. C. Robson noted flaws in the framework, including a reliance on occupancy targets instead of building permits, prohibiting assigning rights or obligations to third parties, and prohibiting sale closings until occupancy. C. Robson asked Council to hold off on approving the Forward Looking Servicing Agreements until these issues can be addressed. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "7.7",
+   "title": "Charles 'Chuck' Campbell, Waterloo",
+   "closed": false,
+   "video_start": 8386.308,
+   "video_end": 8814.389,
+   "notes": [
+    "<p>C. Campbell spoke to Council regarding the potential increase of water taking by future data centers in the Region of Waterloo. C. Campbell asked Council to further investigate data centers within and nearby the Region.</p>\n<p>Council directed staff to bring back a report with more information on water usage from data centers.</p>\n<p>Responding to a question from Council, Rod Regier, Commissioner of Planning, Development, and Legislative Services, confirmed that heavy water users are considered in the Interim Risk Management Framework.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "8",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 8814.389,
+   "video_end": 8815.357,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "8.1",
+   "title": "EES-WIM-26-014, Mannheim Service Area Water Capacity Constraint – Update on Work Underway – July 2026",
+   "closed": false,
+   "video_start": 8815.357,
+   "video_end": 10284.821,
+   "notes": [
+    "<p>Ken Brothers, Commissioner of Water and Wastewater, introduced the report and stated that the Region of Waterloo is no longer in a deficit position and water can begin being allocated to development. A copy of the presentation is attached to the agenda.</p>\n<p>K. Brothers explained that 30L/s of water capacity is ready to be allocated in July, with 10L/s available for use immediately and an additional 20L/s becoming available for use in Fall, 2026. K. Brothers stated this is projected to support up to 5,400 homes for up to 10,500 residents and up to 5,000 jobs.</p>\n<p>K. Brothers summarized the work done to date on infrastructure projects, operational efficiencies, and policies and tools to increase the water supply in the Region. Completed projects have included well optimization, work on the Parkway Water Treatment Plant, the Wilmot Centre Water Transfer, the Interim Risk Management Framework, and the Regional Allocation Policy. K. Brothers stated projects at the Greenbrook Water Treatment Plant and the Mannheim Side Steam, as well as finalizing transfers of servicing commitments and the Forward Looking Servicing Agreement Framework, are in progress.</p>\n<p>K. Brothers stated that the next assignment of water is planned for October 1, 2026, and will include 40L/s of water. K. Brother explained that this would bring the total anticipated assignment for 2026 to 70L/s.</p>\n<p>R. Regier provided an update on the Regional Water Allocation Administrative Agreement, which outlines the roles and the responsibilities for the Region and Area Municipalities related to water allocation. R. Regier further stated that Transfers of Servicing Commitments are currently being processed for all requests received to date. He elaborated on how the Region's policies and frameworks work together with Area Municipal allocation policies to issue Forward Looking Servicing Agreements, Transfers of Servicing Commitments, and water allocations for site-specific development.</p>\n<p>Connie MacDonald, Commissioner of Resident Experience, Strategy, and Communications, provided an update on communications, which included a media briefing on July 7, new updates to the information hub, Well Interference Engagement that included a survey and in-person drop-in session on July 14, 2026, and continued videos on water infrastructure. The next progress update will be provided on July 9, 2026.</p>\n<p>K. Brothers explained the next steps, which included site preparation and testing on the Mannheim Side Steam project, a progress update bulletin on July 9, 2026, and a Work Underway Report and Well Interference Report to be brought back at the Special Council meeting on August 12, 2026.</p>\n<p>Responding to Council, Pam Law, Director, Projects (Water Capacity), explained that the 10 L/s was found through a review of the Region's water infrastructure that looked for opportunities to increase water taking in a manner that was sustainable for the whole system. P. Law emphasized that this work was done in parallel to infrastructure solutions over the last six (6) months.</p>\n<p>Responding to a question from Council, P. Law stated that the additional pumping is coming from the Mannheim North Wellfield, which is located in Kitchener.</p>\n<p>Council provided direction to staff to provide a report on each of the well systems in the Region of Waterloo following Ministry of Environment, Conservation and Parks' technical review of the Biennial Groundwater Monitoring Reports.</p>\n<p>Responding to a question regarding the temporary nature of the Interim Risk Management Framework, A. Shaw explained that quarterly reports will be brought back to Council, with mechanisms to bring forward new information sooner as needed. A. Shaw further stated that staff will continue to provide updates to Council through weekly emails and monthly progress meetings, and that staff are currently looking into a centralized public repository where information regarding water capacity could be accessed.</p>\n<p>Responding to Council, C. MacDonald explained that a communications working group that includes all the Area Municipalities meet weekly to discuss any opportunities to share what is being worked on. C. MacDonald stated that the feedback requesting a more collaborative approach can be brought back to this working group. </p>\n<p>Received for information. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "EES-WIM-26-014, Mannheim Service Area Water Capacity Constraint – Update on Work Underway – July 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18980"
+    },
+    {
+     "name": "EES-WIM-26-014 Appendix A July Work Underway Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18981"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "8.2",
+   "title": "PDL-GDS-26-019, Mannheim Service Area Water Capacity Constraint Update - Forward Looking Servicing Agreement",
+   "closed": false,
+   "video_start": 10284.821,
+   "video_end": 11667.284,
+   "notes": [
+    "<p>R. Regier introduced the report and gave a summary of the work done to develop a framework for Forward Looking Servicing Agreements. A copy of the presentation is attached to the agenda.</p>\n<p>Alyssa Bridge, Associate Director of Development Services, explained that the framework for Forward Looking Servicing Agreements includes the incorporation of feedback regarding shared risk, certainty on the timing of water supply, and the need for it to be an Area Municipality responsibility. A. Bridge stated that significant consultation with Area Municipalities, the Province of Ontario, and the Development Industry has taken place. She explained that this resulted in an approach that includes updated eligibility, a simplified process, greater certainty, and clarified implementation details.</p>\n<p>A. Bridge explained that through the updated framework, 60% of a future water supply capacity project can be made available for Forward Looking Servicing Agreements, with 50% of this capacity reserved for Area Municipal agreements and 10% for Regional agreements. The remaining 40% or the balance of the estimated capacity would be assigned to the Area Municipalities quarterly to allocate to site specific development.</p>\n<p>A. Bridge summarized next steps, which include continued incorporation of feedback on the terms of conditions of the agreements.</p>\n<p>In response to a question from Council, A. Bridge explained that the framework for Forward Looking Servicing Agreements includes requirements aimed at mitigating perceived favouritism. Applications for Foward Looking Servicing Agreements must include, at a minimum, building permits, dates of occupancy, notice should a project not be going as planned, and expiration clauses to ensure water allocations are being used. A. Bridge further explained that Regional Forward Looking Servicing Agreements would be available to landowners that had a draft approved plan of a subdivision where they had made a request to the Region for a Servicing Agreement. A. Bridge stated that these requests have been tracked, and requests will be prioritized based on the date submitted to ensure fairness.</p>\n<p>Responding to Council, Fiona McCrea, Regional Solicitor, explained that in the event of unforeseen circumstances, allocations are based on the Interim Risk Management Framework and are subject to unforeseen events that may prevent delays and impact what water is available. In these circumstances, F. McCrea explained that developers could either look to what might be available in current allocations or look at utilizing the Forward Looking Servicing Agreement to meet their needs.</p>\n<p>In response to a question from Council, P. Law stated that conversations are ongoing with the Ministry of Environment, Conservation and Parks to execute Form 1s as part of the Forward Looking Servicing Agreements. A. Shaw clarified that Form 1s can be signed immediately for the 10 L/s that just became available, and that the Province has outlined how to sign Form 1s for future allocations as part of the Forward Looking Servicing Agreements. A. Shaw confirmed that under these conditions, the Region would be able to sign Form 1s.</p>\n<p>Responding to Council, A. Bridge explained that the Region's Forward Looking Servicing Agreements would be for draft plans of subdivision that were submitted prior to May 6, 2026. All other Forward Looking Servicing Agreements would be at the discretion of the Area Municipalities. </p>\n<p>Responding to Council, A. Bridge confirmed that these agreements will only impact projects within the Mannheim Service Area, and that plans outside this service area will not be affected.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-GDS-26-019, Forward Looking Servicing Agreement.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18973"
+    },
+    {
+     "name": "Attachment A - Forward Looking Servicing Agreement Framework.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18974"
+    },
+    {
+     "name": "Appendix B - Forward Looking Servicing Agreements Presentation.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18975"
+    }
+   ],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "19",
+   "number": "8.3",
+   "title": "COR-TRY-26-023, Opportunities for Expediting Water Capacity Projects under the Region's Purchasing By-Law",
+   "closed": false,
+   "video_start": 11667.284,
+   "video_end": 11762.129,
+   "notes": [
+    "<p>Wayne Steffler, Commissioner of Corporate Services, introduced the report and explained that standard procurement timelines may create risks that could delay infrastructure needed to support development and growth. W. Steffler explained that the recommended motion would authorize Council to wave certain requirements of the purchasing bylaw to accelerate delivery and would also delegate authority to the Chief Administrative Officer to approve procurements for the projects regardless of value where specific criteria are met.</p>\n<p>W. Steffler clarified that the requirements waved would be regarding the competitive procurement requirement and requirements on the dispersing of additional funds for an existing contract. W. Steffler stated this would allow the Chief Administrative Officer to bypass the competitive process for specified water capacity projects when time is critical and provide funding to contracts where contract values have changed beyond the normal delegated approval limits.</p>\n<p>W. Steffler emphasized that the recommendation does not authorize any new spending, is temporary, and would automatically sunset on December 31, 2028, unless extended. W. Steffler explained that this recommendation is in response to feedback from Area Municipalities and development stakeholders and prioritizes strong accountability and oversight.</p>\n<p>Responding to Council, P. Law explained that the 2028 expiring clause was chosen to give staff the opportunity to keep critical projects moving over the next two (2) years.</p>\n<p>W. Steffler explained that the recommended waiving of the competitive procurement process would change how bids are collected, and that the approval levels for a tender would stay the same.</p>\n<p>Council raised concerns over the recommended 2028 sunsetting date and discussed options for a closer date that would still provide staff with the needed flexibility.</p>\n<p>W. Steffler confirmed that monthly reporting will be brought back to Council, and it will include all items that were approved under the circumstances of this recommendation.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "COR-TRY-26-023, Opportunities for Expediting Water Capacity Projects under the Region's Purchasing By-Law.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18971"
+    },
+    {
+     "name": "Appendix A - Water Capacity Supporting Projects.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18972"
+    }
+   ],
+   "motions": [
+    "m4",
+    "m5",
+    "m6"
+   ]
+  },
+  {
+   "id": "17",
+   "number": "8.4",
+   "title": "COR-CFN-26-014, Water Financial Update",
+   "closed": false,
+   "video_start": 13327.202,
+   "video_end": 14090.832,
+   "notes": [
+    "<p>W. Steffler introduced the report and provided a financial update on the initiatives required to address the Mannheim Service Area water capacity constraint.</p>\n<p>W. Steffler explained that to support long range planning, staff developed three (3) financial scenarios illustrating how varying levels of senior government funding could affect reserve balances, financing requirements, and future water rates. W. Steffler clarified that these scenarios are for illustrative purposes only, and do not represent recommended rate increases or a forecast of the 2027 plan and budget process. He further clarified that the analysis also assumes development charge funding for certain projects would not be available.</p>\n<p>W. Steffler explained the key findings, including the significant influence senior government funding could have on a long-term financial outlook of the water program.</p>\n<p>W. Steffler stated that staff continue to work closely with the Province and advocate for funding support. W. Steffler further stated that staff will continue to refine project costs, timing, funding strategies, and will bring forward any future recommendations regarding water rates, reserve contributions, financing strategies, or debt financing through the 2027 plan and budget process. W. Steffler emphasized that securing external funding remains the most important factor to reduce future rate pressures and avoid debt financing.</p>\n<p>Responding to Council, W. Steffler explained that scenario one (1) assumes no external funding, scenario two (2) assumes 50% external funding, and scenario three (3) assumed full funding of the new capital.</p>\n<p>Responding to a question from Council, P. Law confirmed that the majority of the water capacity capital projects were already part of the 10-year capital program.</p>\n<p>W. Steffler clarified that the scenarios are not inclusive of all the factors that might affect the budget, including additional operating costs, such as new full-time staff. W. Steffler explained that this will be part of the planning process for the 2027 budget. W. Steffler emphasized that this report is a forecast at this point in time, to the best of staff's knowledge.</p>\n<p>Council raised concerns over the impact of these recommendations on water rates on residents.</p>\n<p>Received for information. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "COR-CFN-26-014, Water Financial Update.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18969"
+    },
+    {
+     "name": "COR-CFN-26-014 - Appendix A.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18970"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "9",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": 14092.894,
+   "video_end": 14093.973,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "9.1",
+   "title": "Councillor D. McCabe",
+   "closed": false,
+   "video_start": 14090.832,
+   "video_end": 14551.335,
+   "notes": [
+    "<p>D. McCabe explained the purpose of this motion is to determine whether it is feasible to advance the Maple Grove Booster Pumping Station and the Cambridge 2W Booster Pumping Station to support long-term system reliability and operational resiliency in the Region.</p>\n<p>C. Huinink spoke on the motion, expressing support for actions that would demonstrate a desire for more water usage and development to return to normal.</p>\n<p>Council spoke in support of working proactively to determine if it is feasible to advance the Maple Grove Booster Pumping Station and the Cambridge 2W Booster Pumping Station.</p>\n<p>P. Law stated that the report will be prepared by the end of August and presented to Council in September.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "8",
+   "number": "10",
+   "title": "Correspondence",
+   "closed": false,
+   "video_start": 14551.335,
+   "video_end": 14551.976,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "24",
+   "number": "10.1",
+   "title": "Rory Farnan, Citizens for Safe Groundwater",
+   "closed": false,
+   "video_start": 14551.976,
+   "video_end": 14553.851,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Greater Water Conservation in Waterloo Region - The Province Must Play a Role.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=18968"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "11",
+   "title": "Enactment Of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 14553.851,
+   "video_end": 14674.804,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ]
+  },
+  {
+   "id": "11",
+   "number": "11.1",
+   "title": "By-law 26-039",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ]
+  },
+  {
+   "id": "20",
+   "number": "12",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 14674.804,
+   "video_end": 14715.82,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "13",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 14715.82,
+   "video_end": 14743.696,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Liggett",
+   "text": "That a closed meeting of Council be held on July 8, 2026 at 9:05 a.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Receiving advice subject to solicitor-client privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint.",
+   "text_html": "<p>That a closed meeting of Council be held on July 8, 2026 at 9:05 a.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Receiving advice subject to solicitor-client privilege regarding potential litigation related to the Mannheim Service Area Water Capacity Constraint.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "5",
+   "item_number": "5",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Nowak",
+   "text": "That Council reconvene into Open Session.",
+   "text_html": "<p>That Council reconvene into Open Session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "16",
+   "item_number": "8.2",
+   "item_title": "PDL-GDS-26-019, Mannheim Service Area Water Capacity Constraint Update - Forward Looking Servicing Agreement",
+   "name": "",
+   "moved_by": "Wolf",
+   "seconded_by": "Rodrigues",
+   "text": "That the Regional Municipality of Waterloo endorse the Forward Looking Servicing Agreement Framework (“Framework”) as outlined in report PDL-GDS-26-019 dated July 8, 2026. And that Regional Council direct staff to continue to negotiate the terms and conditions of a Forward Looking Servicing Agreement (“FLSA”) with those eligible landowners who request such an agreement. And that the Commissioner of Water and Wastewater Services be delegated the authority to sign FLSAs, in a form satisfactory to the Regional Solicitor.",
+   "text_html": "<p>That the Regional Municipality of Waterloo endorse the Forward Looking Servicing Agreement Framework (“Framework”) as outlined in report PDL-GDS-26-019 dated July 8, 2026.</p>\n<p>And that Regional Council direct staff to continue to negotiate the terms and conditions of a Forward Looking Servicing Agreement (“FLSA”) with those eligible landowners who request such an agreement.</p>\n<p>And that the Commissioner of Water and Wastewater Services be delegated the authority to sign FLSAs, in a form satisfactory to the Regional Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "19",
+   "item_number": "8.3",
+   "item_title": "COR-TRY-26-023, Opportunities for Expediting Water Capacity Projects under the Region's Purchasing By-Law",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "James",
+   "text": "1. That the Regional Municipality of Waterloo waive the following provisions of By-Law 16-032, as amended (the “Purchasing By-Law): (i) the competitive procurement process and (ii) section 35, for water capacity supporting projects as identified in Appendix A of report COR-TRY-26-023, dated July 8, 2026, where required, to support commitments under the Council-approved Interim Risk Management Framework (IRMF), and delegate to the Chief Administrative Officer (CAO) such authorizations in accordance with the following: a. the Chief Administrative Office (CAO) may authorize the waiver of the competitive procurement process of the Purchasing By-Law, regardless of their value, for the water capacity projects identified in Appendix A, provided that: i. the CAO is satisfied that waiving the competitive procurement process is required in meeting the Region’s commitments to allocating water supply capacity under the IRMF; ii. compliance with the Purchasing By-Law cannot reasonably be followed to complete the project within the required timeframe; and iii. sufficient funding is included in the approved project budget or other water capacity projects identified in Appendix A; b. the Chief Administrative Office (CAO) may approve the disbursement of additional funds or reallocation of funds with respect to the purchase of goods or services that are already authorized in accordance with the Purchasing By-Law, regardless of their value, for the water capacity projects identified in Appendix A, provided that: iv. the CAO is satisfied the disbursement of additional funds or reallocation of funds is required in meeting the Region’s commitments to allocating water supply capacity under the IRMF; v. compliance with section 35 of the Purchasing By-Law cannot reasonably be followed to complete the project within the required timeframe; and vi. sufficient funding is included in the approved project budget or other water capacity projects identified in Appendix A. 2. Further, Regional Council directs that the following applies with respect to (1) above: prior to waiving the competitive procurement process, approving the disbursement of additional funds or the reallocation of funds under this authority, as the case may be, the CAO shall consult with the Chief Purchasing Officer (CPO) to confirm that the proposed change is within the scope of this authority and that the appropriate procurement process, contract amendment process, and documentation requirements are followed, as applicable; staff report monthly to Council on any waiving of the competitive procurement process, approving of the disbursement of additional funds or the reallocation of funds under this authority, and include information such as the project, vendor, selection process, description of the change, amount, funding source, the risk or urgency being addressed, and the rationale for use of the waiver; and the said waiver and delegated authority shall expire on December 31, 2028, after which any continuation would be subject to further Council review and approval. be in place only until June 30, 2027 and further, that the new Council be fully briefed on the water issue ahead of the 2027 budget, including staff delegation provisions so that they can consider if they want to proceed with them.",
+   "text_html": "<p>1. That the Regional Municipality of Waterloo waive the following provisions of By-Law 16-032, as amended (the “Purchasing By-Law): (i) the competitive procurement process and (ii) section 35, for water capacity supporting projects as identified in Appendix A of report COR-TRY-26-023, dated July 8, 2026, where required, to support commitments under the Council-approved Interim Risk Management Framework (IRMF), and delegate to the Chief Administrative Officer (CAO) such authorizations in accordance with the following:</p>\n<p>a. the Chief Administrative Office (CAO) may authorize the waiver of the competitive procurement process of the Purchasing By-Law, regardless of their value, for the water capacity projects identified in Appendix A, provided that:</p>\n<p>i. the CAO is satisfied that waiving the competitive procurement process is required in meeting the Region’s commitments to allocating water supply capacity under the IRMF;</p>\n<p>ii. compliance with the Purchasing By-Law cannot reasonably be followed to complete the project within the required timeframe; and  </p>\n<p>iii. sufficient funding is included in the approved project budget or other water capacity projects identified in Appendix A;</p>\n<p>b. the Chief Administrative Office (CAO) may approve the disbursement of additional funds or reallocation of funds with respect to the purchase of goods or services that are already authorized in accordance with the Purchasing By-Law, regardless of their value, for the water capacity projects identified in Appendix A, provided that:</p>\n<p>iv. the CAO is satisfied the disbursement of additional funds or reallocation of funds is required in meeting the Region’s commitments to allocating water supply capacity under the IRMF;</p>\n<p>v. compliance with section 35 of the Purchasing By-Law cannot reasonably be followed to complete the project within the required timeframe; and</p>\n<p>vi. sufficient funding is included in the approved project budget or other water capacity projects identified in Appendix A.</p>\n<p>2. Further, Regional Council directs that the following applies with respect to (1) above:</p>\n<ol>\n<li>\n<ol>\n<li>prior to waiving the competitive procurement process, approving the disbursement of additional funds or the reallocation of funds under this authority, as the case may be, the CAO shall consult with the Chief Purchasing Officer (CPO) to confirm that the proposed change is within the scope of this authority and that the appropriate procurement process, contract amendment process, and documentation requirements are followed, as applicable;</li>\n<li>staff report monthly to Council on any waiving of the competitive procurement process, approving of the disbursement of additional funds or the reallocation of funds under this authority, and include information such as the project, vendor, selection process, description of the change, amount, funding source, the risk or urgency being addressed, and the rationale for use of the waiver; and</li>\n<li>the said waiver and delegated authority shall expire on December 31, 2028, after which any continuation would be subject to further Council review and approval. <strong>be in place only until June 30, 2027 and further, that the new Council be fully briefed on the water issue ahead of the 2027 budget, including staff delegation provisions so that they can consider if they want to proceed with them.</strong></li>\n</ol>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (16 to 0)",
+    "label": "16-0",
+    "for": 16,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "19",
+   "item_number": "8.3",
+   "item_title": "COR-TRY-26-023, Opportunities for Expediting Water Capacity Projects under the Region's Purchasing By-Law",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Huinink",
+   "text": "Amendment iii. the said waiver and delegated authority shall expire on December 31, 2027, after which any continuation would be subject to further Council review and approval. Withdrawn via Unanimous Consent",
+   "text_html": "<p><strong>Amendment</strong></p>\n<p>iii. the said waiver and delegated authority shall expire on <strong>December 31, 2027,</strong> after which any continuation would be subject to further Council review and approval.</p>\n<p><strong>Withdrawn via Unanimous Consent</strong></p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m6",
+   "item": "19",
+   "item_number": "8.3",
+   "item_title": "COR-TRY-26-023, Opportunities for Expediting Water Capacity Projects under the Region's Purchasing By-Law",
+   "name": "",
+   "moved_by": "Vrbanovic",
+   "seconded_by": "Salonen",
+   "text": "Amendment iii. provision be in place only until June 30, 2027 and further, that the new Council be fully briefed on the water issue ahead of the 2027 budget, including staff delegation provisions so that they can consider if they want to proceed with them.",
+   "text_html": "<p><strong>Amendment</strong></p>\n<p>iii. provision be in place only until June 30, 2027 and further, that the new Council be fully briefed on the water issue ahead of the 2027 budget, including staff delegation provisions so that they can consider if they want to proceed with them.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 1)",
+    "label": "15-1",
+    "for": 15,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [
+     "McCabe"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m7",
+   "item": "14",
+   "item_number": "9.1",
+   "item_title": "Councillor D. McCabe",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Huinink",
+   "text": "Whereas the Region of Waterloo’s drinking water infrastructure is essential to the delivery of safe, reliable service to all residents, commercial and industrial businesses, institutions and other corporations across the community; and Whereas water conservation and water efficiency measures are needed in new buildings, including residential developments, and are important to managing long-term water demand, supporting sustainable growth, and reducing pressure on municipal water infrastructure; and Whereas the Maple Grove Water Treatment Plant and the Cambridge 2W Booster Pumping Station are important projects for the future of the Region’s water system, and timely actions are necessary to support long-term system reliability, operational resilience, and asset stewardship; and Whereas construction of the Maple Grove Water Treatment Plant and the Cambridge 2W Booster Pumping Station are scheduled to begin in 2028/2029; and Whereas the Environmental Assessment for this work is already complete for the Maple Grove Water Treatment Plant and underway for the Cambridge 2W Booster Pumping Station; and Whereas ensuring that the water capacity constraint is addressed and resolved as expediently as possible requires building the Maple Grove Water Treatment Plant and the Cambridge 2W Booster Pumping Station in a timely manner; and Therefore Be It Resolved That , while ensuring prudent oversight of financial, operational, and program impacts; Regional Council direct staff to review the 10-year capital plan for water and wastewater projects and report back to Council no later than the end of August 2026 on the feasibility of advancing the Maple Grove Booster Pumping Station design construction and the Cambridge 2W Booster Pumping Station design/construction so that work may commence in 2026/2027; and That the staff report include: a. an assessment of the readiness of each project to proceed in 2027, including design status, procurement requirements, regulatory approvals, operational constraints, and construction feasibility; b. the financial implications of accelerating these projects, including any impacts on the water and wastewater capital program, reserves, debt financing, rate-supported budgets, and the timing of other capital priorities; c. the risks, benefits, and service implications associated with advancing the projects to 2026/2027, as compared with maintaining the current schedule; and d. recommendations on implementation options, timelines, and any required amendments to the capital plan or budget for Council’s consideration. e. Provide a critical-path schedule identifying the earliest achievable dates for design completion, procurement, approvals, construction commencement, commissioning, and in-service capacity for each project, together with the specific Council decisions, budget amendments, staffing resources, procurement steps, regulatory approvals, and third-party dependencies required to achieve those dates; and f. estimates of the additional water capacity, expressed in litres per second and equivalent residential/employment growth capacity, expected from each project and from both projects combined, together with an updated Scenario 2 Water Forecast showing the effect of advancing the projects to 2026/2027 compared with the current 2028/2029 schedule.",
+   "text_html": "<p><strong>Whereas </strong>the Region of Waterloo’s drinking water infrastructure is essential to the delivery of safe, reliable service to all residents, commercial and industrial businesses, institutions and other corporations across the community; and</p>\n<p><strong>Whereas </strong>water conservation and water efficiency measures are needed in new buildings, including residential developments, and are important to managing long-term water demand, supporting sustainable growth, and reducing pressure on municipal water infrastructure; and</p>\n<p><strong>Whereas</strong> the Maple Grove Water Treatment Plant and the Cambridge 2W Booster Pumping Station are important projects for the future of the Region’s water system, and timely actions are necessary to support long-term system reliability, operational resilience, and asset stewardship; and</p>\n<p><strong>Whereas</strong> construction of the Maple Grove Water Treatment Plant and the Cambridge 2W Booster Pumping Station are scheduled to begin in 2028/2029; and</p>\n<p><strong>Whereas</strong> the Environmental Assessment for this work is already complete for the Maple Grove Water Treatment Plant and underway for the Cambridge 2W Booster Pumping Station; and</p>\n<p><strong>Whereas </strong>ensuring that the water capacity constraint is addressed and resolved as expediently as possible requires building the Maple Grove Water Treatment Plant and the Cambridge 2W Booster Pumping Station in a timely manner; and</p>\n<p><strong>Therefore Be It Resolved That</strong>, while ensuring prudent oversight of financial, operational, and program impacts; Regional Council direct staff to review the 10-year capital plan for water and wastewater projects and report back to Council no later than the end of August 2026 on the feasibility of advancing the Maple Grove Booster Pumping Station design construction and the Cambridge 2W Booster Pumping Station design/construction so that work may commence in 2026/2027; and</p>\n<p>That the staff report include:</p>\n<p>a. an assessment of the readiness of each project to proceed in 2027, including design status, procurement requirements, regulatory approvals, operational constraints, and construction feasibility;</p>\n<p>b. the financial implications of accelerating these projects, including any impacts on the water and wastewater capital program, reserves, debt financing, rate-supported budgets, and the timing of other capital priorities;</p>\n<p>c. the risks, benefits, and service implications associated with advancing the projects to 2026/2027, as compared with maintaining the current schedule; and</p>\n<p>d. recommendations on implementation options, timelines, and any required amendments to the capital plan or budget for Council’s consideration.</p>\n<p>e. Provide a critical-path schedule identifying the earliest achievable dates for design completion, procurement, approvals, construction commencement, commissioning, and in-service capacity for each project, together with the specific Council decisions, budget amendments, staffing resources, procurement steps, regulatory approvals, and third-party dependencies required to achieve those dates; and</p>\n<p>f. estimates of the additional water capacity, expressed in litres per second and equivalent residential/employment growth capacity, expected from each project and from both projects combined, together with an updated Scenario 2 Water Forecast showing the effect of advancing the projects to 2026/2027 compared with the current 2028/2029 schedule.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "10",
+   "item_number": "11",
+   "item_title": "Enactment Of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Liggett",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "11",
+   "item_number": "11.1",
+   "item_title": "By-law 26-039",
+   "name": "",
+   "moved_by": "Rodrigues",
+   "seconded_by": "Liggett",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on July 8, 2026 be read a first, second and third time, finally passed and numbered 26-039, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on July 8, 2026 be read a first, second and third time, finally passed and numbered 26-039, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m10",
+   "item": "20",
+   "item_number": "12",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Salonen",
+   "seconded_by": "McCabe",
+   "text": "That a closed meeting of Council be held on July 8, 2026 immediately following open session, in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Discussion related to identifiable individuals and labour relations regarding the organizational structure.",
+   "text_html": "<p>That a closed meeting of Council be held on July 8, 2026 immediately following open session, in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Discussion related to identifiable individuals and labour relations regarding the organizational structure.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m11",
+   "item": "12",
+   "item_number": "13",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Rodrigues",
+   "text": "That the meeting adjourn at 12:57 a.m.",
+   "text_html": "<p>That the meeting adjourn at 12:57 a.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (15 to 0)",
+    "label": "15-0",
+    "for": 15,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Foxton",
+     "Gowing",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Salonen",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

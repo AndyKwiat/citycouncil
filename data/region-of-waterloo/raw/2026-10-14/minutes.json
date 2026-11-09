@@ -1,0 +1,1123 @@
+{
+ "title": "Council Meeting - October 14, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Redman",
+  "Craig",
+  "Erb",
+  "Gowing",
+  "Harris",
+  "Huinink",
+  "James",
+  "Liggett",
+  "McCabe",
+  "Nowak",
+  "Rodrigues",
+  "Shantz",
+  "Vrbanovic",
+  "Wolf",
+  "Foxton",
+  "Salonen"
+ ],
+ "absent": [
+  "Foxton",
+  "Salonen"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 262.057,
+   "video_end": 263.026,
+   "notes": [
+    "<p>Regional Chair Redman called the meeting to order at 5:31 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": 263.026,
+   "video_end": 483.541,
+   "notes": [
+    "<p>Regional Chair Redman provided the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "5",
+   "number": "3",
+   "title": "Declarations of Conflict of Interest",
+   "closed": false,
+   "video_start": 483.541,
+   "video_end": 490.166,
+   "notes": [
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "4",
+   "title": "Motion to go into Closed Session",
+   "closed": false,
+   "video_start": 490.166,
+   "video_end": 5921.341,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "4",
+   "number": "5",
+   "title": "Motion to Reconvene into Open Session",
+   "closed": false,
+   "video_start": 5921.341,
+   "video_end": 5947.294,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": 5947.294,
+   "video_end": 5973.997,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Petitions",
+   "closed": false,
+   "video_start": 5973.997,
+   "video_end": 5983.294,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": 5983.294,
+   "video_end": 6041.732,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "64",
+   "number": "8.1",
+   "title": "Catherine Clarridge, Cambridge",
+   "closed": false,
+   "video_start": 6041.732,
+   "video_end": 6380.31,
+   "notes": [
+    "<p>C. Clarridge expressed concerns related to accountability in housing services and provided several recommendations to improve the treatment of individuals that are experiencing homelessness. She highlighted potential solutions relating to housing, adaptive reuse of underused institutional space, conflict resolution, and improving coordination between publicly funded services.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Minutes of Previous Meetings",
+   "closed": false,
+   "video_start": 6380.31,
+   "video_end": 6427.325,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "10",
+   "number": "9.1",
+   "title": "Closed Council - September 23, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "9.2",
+   "title": "Council - September 23, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "9.3",
+   "title": "Sustainability, Infrastructure, and Development Committee - October 6, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "9.4",
+   "title": "Administration and Finance Committee - October 6, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "16",
+   "number": "9.5",
+   "title": "Special Council - October 6, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "9.6",
+   "title": "Community and Health Services Committee - October 6, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "9.7",
+   "title": "Closed Committee - October 6, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "47",
+   "number": "9.8",
+   "title": "Special Council - October 7, 2026",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "17",
+   "number": "10",
+   "title": "Communications",
+   "closed": false,
+   "video_start": 6427.325,
+   "video_end": 6429.075,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "10.1",
+   "title": "Council Information Package - October 7, 2026 (Distributed to Councillors Electronically)",
+   "closed": false,
+   "video_start": 6429.075,
+   "video_end": 6430.56,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "20",
+   "number": "11",
+   "title": "Reports",
+   "closed": false,
+   "video_start": 6430.56,
+   "video_end": 6430.935,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "21",
+   "number": "11.1",
+   "title": "Finance Reports",
+   "closed": false,
+   "video_start": 6430.935,
+   "video_end": 6433.169,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "61",
+   "number": "11.1.1",
+   "title": "COR-TRY-26-037, Pre-Budget 2027 and 2028 Ambulance and Equipment Procurement Approval",
+   "closed": false,
+   "video_start": 6433.169,
+   "video_end": 6724.31,
+   "notes": [
+    "<p>Kedar Tupil, Acting Commissioner of Corporate Services/Chief Financial Officer, explained that pre-budget approval is requested to support the timely acquisition and delivery of 20 replacement ambulances required for 2028.  He noted that Council approval is also requested to support the timely acquisition and delivery in 2027 of 76 defibrillators, 72 stretchers, and a replacement Electronic Patient Care Reporting System (ePCR) for Paramedic Services.</p>\n<p>Responding to Council, Dr. Hsiu-Li Wang, TITLE, explained that Council considering a pre-budget approval for paramedic equipment is a routine practice due to the lengthy process in ordering the equipment.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "COR-TRY-26-037, Pre-Budget 2027 and 2028 Ambulance and Equipment Procurement Approval.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19902"
+    }
+   ],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "62",
+   "number": "11.1.2",
+   "title": "COR-TRY-26-038, Regional Debenture Issue Dated October 19, 2026",
+   "closed": false,
+   "video_start": 6724.31,
+   "video_end": 6811.232,
+   "notes": [
+    "<p>K. Tupil introduced the report related to the issuing of Regional Debentures. Debentures are issued to fund capital projects. The Municipal Act prescribes, among other things, that the proceeds of a debenture issue can only be used to finance capital works. Staff reviewed the progress of capital projects to determine which projects would require debenture financing in the fall of 2026. Regional capital projects from waste management, Grand River Transit, facility asset renewal, housing, Waterloo Regional Police, and paramedic services are being financed through this debenture issue along with capital projects for the cities of Cambridge, Kitchener and Waterloo and townships of Wilmot and Woolwich.</p>\n<p>He noted that Council will be considering the debenture by-laws later in the agenda.</p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "COR-TRY-26-038, Regional Debenture Issue dated October 19, 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19905"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "63",
+   "number": "11.1.3",
+   "title": "COR-TRY-26-039, Moody’s Credit Rating Update",
+   "closed": false,
+   "video_start": 6811.232,
+   "video_end": 6932.92,
+   "notes": [
+    "<p>Staff and Council acknowledged that the continued triple aaa credit rating is great news for the Region.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "COR-TRY-26-039, Moody's Credit Rating Update.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19903"
+    },
+    {
+     "name": "Appendix A - Moody's Credit Opinion Dated October 9, 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19904"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "22",
+   "number": "11.2",
+   "title": "Committee Reports",
+   "closed": false,
+   "video_start": 6995.061,
+   "video_end": 6995.92,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "23",
+   "number": "11.2.1",
+   "title": "Sustainability, Infrastructure, and Development Committee Summary - October 6, 2026",
+   "closed": false,
+   "video_start": 6995.92,
+   "video_end": 7049.811,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "SID Summary - October 6_ 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19901"
+    }
+   ],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "49",
+   "number": "11.2.2",
+   "title": "Administration and Finance Committee Summary - October 6, 2026",
+   "closed": false,
+   "video_start": 7049.811,
+   "video_end": 7083.436,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Administration and Finance Committee Summary - October 6, 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19899"
+    }
+   ],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "50",
+   "number": "11.2.3",
+   "title": "Community and Health Services Committee Summary - October 6, 2026",
+   "closed": false,
+   "video_start": 7083.436,
+   "video_end": 7132.78,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "CHS Summary - October 6, 2026.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19898"
+    }
+   ],
+   "motions": [
+    "m7"
+   ]
+  },
+  {
+   "id": "65",
+   "number": "11.2.4",
+   "title": "Closed Summary - October 14, 2026",
+   "closed": false,
+   "video_start": 7132.78,
+   "video_end": 7236.029,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ]
+  },
+  {
+   "id": "24",
+   "number": "11.3",
+   "title": "Board of Health",
+   "closed": false,
+   "video_start": 7236.029,
+   "video_end": 7237.232,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "25",
+   "number": "11.3.1",
+   "title": "Board of Health Update",
+   "closed": false,
+   "video_start": 7237.232,
+   "video_end": 7566.045,
+   "notes": [
+    "<p>Dr. H. Wang provided a Board of Health update. She highlighted that RSV and Flu vaccination clinics have begun around the Region in anticipation for the respiratory season. She also provided an update related to student vaccination requirements. She noted that suspension enforcement of student vaccines will begin in February for secondary schools and in April for elementary schools. She acknowledged the successful enforcement in the previous school year.</p>\n<p>Responding to Council, Dr. H. Wang confirmed that there will be vaccination buses and the locations and dates are publicly available on the Regional website. </p>\n<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "29",
+   "number": "12",
+   "title": "Other Matters",
+   "closed": false,
+   "video_start": 7566.045,
+   "video_end": 7567.436,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "48",
+   "number": "12.1",
+   "title": "TSD-COM-26-001, Councillor Engagement on Project Teams",
+   "closed": false,
+   "video_start": 7567.436,
+   "video_end": 7816.17,
+   "notes": [
+    "<p>Mathieu Goetzke, Commissioner of Transportation Services, introduced the report on Councillor engagement on project teams. Staff developed the terms of reference based on previous practices and direction of Council. The project teams are aimed at increasing collaboration with area municipalities and encourage Council to participate and provide feedback in the early stages of a project. </p>"
+   ],
+   "attachments": [
+    {
+     "name": "TSD-COM-26-001, Councillor Engagement on Project Teams.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19896"
+    },
+    {
+     "name": "Appendix A - Councillor Engagement on Project Teams Draft Terms of Reference and Process.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19897"
+    }
+   ],
+   "motions": []
+  },
+  {
+   "id": "53",
+   "number": "12.2",
+   "title": "PDL-BWR-26-008, 30 Lauris Avenue, Cambridge - Surplus Lands",
+   "closed": false,
+   "video_start": 7816.17,
+   "video_end": 8182.497,
+   "notes": [
+    "<p>Rod Regier, Commissioner of Planning, Development, and Legislative Services, introduced the report related to the surplus lands at 30 Lauris Avenue, Cambridge. He outlined that the awarded proposal was put forward by Central Ontario Co-operative Housing Federation (COCHF) and includes an estimated 101 dwelling units, approximately 30% (31 units) of which will be affordable for a term of not less than 63 years, with a possible extension of 36 years if both the Region and COCHF/30 Lauris Avenue Housing Co-operative Incorporated agree. COCHF submitted funding applications to Canada Mortgage and Housing Corporation and to facilitate funding COCHF incorporated a housing co-operative for this project.</p>\n<p>Council acknowledged the good work of staff both at the Regional and City level.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "PDL-BWR-26-008, 30 Lauris Avenue, Cambridge - Surplus Lands.pdf",
+     "url": "https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=19900"
+    }
+   ],
+   "motions": [
+    "m9"
+   ]
+  },
+  {
+   "id": "32",
+   "number": "13",
+   "title": "Motions where notice has been provided",
+   "closed": false,
+   "video_start": 8182.497,
+   "video_end": 8183.763,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "33",
+   "number": "14",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": 8183.763,
+   "video_end": 8184.747,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "34",
+   "number": "15",
+   "title": "Unfinished Business",
+   "closed": false,
+   "video_start": 8184.747,
+   "video_end": 8186.029,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "35",
+   "number": "16",
+   "title": "Other Business",
+   "closed": false,
+   "video_start": 8186.029,
+   "video_end": 8454.06,
+   "notes": [
+    "<p>Council recognized the good work of Ken Brothers, Interim Commissioner of Water and Wastewater, specifically his important role finding solutions to the water capacity constraint matter. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "36",
+   "number": "17",
+   "title": "Questions",
+   "closed": false,
+   "video_start": 8195.872,
+   "video_end": 8460.326,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "37",
+   "number": "18",
+   "title": "Enactment of By-laws – First, Second & Third Readings",
+   "closed": false,
+   "video_start": 8460.326,
+   "video_end": 8511.825,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ]
+  },
+  {
+   "id": "43",
+   "number": "18.8",
+   "title": "By-law 26-058",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ]
+  },
+  {
+   "id": "38",
+   "number": "18.9",
+   "title": "By-law 26-059",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ]
+  },
+  {
+   "id": "39",
+   "number": "19",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": 8511.825,
+   "video_end": 8538.044,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "4",
+   "item_title": "Motion to go into Closed Session",
+   "name": "",
+   "moved_by": "Shantz",
+   "seconded_by": "Nowak",
+   "text": "That a closed meeting of Council be held on October 14, 2026 at approximately 5:35 p.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters: Receiving advice that is subject to solicitor-client privilege related to a proposed disposition of lands in the City of Kitchener; and Receiving advice subject to solicitor client-privilege related to an investigation by the Ministry of Environment, Conservation and Parks.",
+   "text_html": "<p><br/>That a closed meeting of Council be held on October 14, 2026 at approximately 5:35 p.m., in the Waterloo County Room, in accordance with Section 239 of the “Municipal Act, 2001”, for the purposes of considering the following subject matters:</p>\n<ol>\n<li>Receiving advice that is subject to solicitor-client privilege related to a proposed disposition of lands in the City of Kitchener; and</li>\n<li>Receiving advice subject to solicitor client-privilege related to an investigation by the Ministry of Environment, Conservation and Parks.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "4",
+   "item_number": "5",
+   "item_title": "Motion to Reconvene into Open Session",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "Craig",
+   "text": "That Council reconvene into open session.",
+   "text_html": "<p>That Council reconvene into open session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (14 to 0)",
+    "label": "14-0",
+    "for": 14,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "McCabe",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Vrbanovic",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "9",
+   "item_number": "9",
+   "item_title": "Minutes of Previous Meetings",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "Gowing",
+   "text": "That the following minutes be approved.",
+   "text_html": "<p>That the following minutes be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "61",
+   "item_number": "11.1.1",
+   "item_title": "COR-TRY-26-037, Pre-Budget 2027 and 2028 Ambulance and Equipment Procurement Approval",
+   "name": "",
+   "moved_by": "Huinink",
+   "seconded_by": "James",
+   "text": "That the Regional Municipality of Waterloo approve the pre-budget procurement of replacement ambulances and related Paramedic Services equipment scheduled for replacement in 2027 and 2028, as set out in report COR-TRY-26-037, dated October 14, 2026.",
+   "text_html": "<p>That the Regional Municipality of Waterloo approve the pre-budget procurement of replacement ambulances and related Paramedic Services equipment scheduled for replacement in 2027 and 2028, as set out in report COR-TRY-26-037, dated October 14, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m5",
+   "item": "23",
+   "item_number": "11.2.1",
+   "item_title": "Sustainability, Infrastructure, and Development Committee Summary - October 6, 2026",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Nowak",
+   "text": "The Sustainability, Infrastructure, and Development Committee recommends as follows: That the Regional Municipality of Waterloo approve the expropriation of lands for improvements to University Avenue East (between Weber Street North and Albert Street), in the City of Waterloo, in the Regional Municipality of Waterloo, as detailed in Report CAO-LEG-26-002, dated October 6, 2026, described as follows: Fee Simple Partial Taking: Part of Lot 19, Plan 494, being Part 1 on 58R-22340, City of Waterloo, Part of PIN 22368-0246 (244-248 King Street North, City of Waterloo) Part of Lots 18 and 19, Plan 494, being Part 4 on 58R-22340, City of Waterloo, Part of PIN 22368-0098 (15 University Avenue East, City of Waterloo) Part of Lot 70, Municipal Compiled Plan of the Subdivision of Lot 13, German Company Tract, being Part 11 on 58R-22340, City of Waterloo Part of PIN 22360-0014 (64 University Avenue East, City of Waterloo) Part of Lot 70, Municipal Compiled Plan of the Subdivision of Lot 13, German Company Tract, being Part 12 on 58R-22340, City of Waterloo, Part of PIN 22360-0059 (66-68 University Avenue East, City of Waterloo) Permanent Easement – Hydro Aerial and Anchoring: The right and easement, being an easement in gross, for itself, its successors and assigns and anyone authorized by it, in perpetuity to, at any time enter upon the following properties for purposes of relocated aerial hydro utility and associated anchoring. All related infrastructure, and all appurtenances thereto, which may be determined necessary from time to time, and for all such purposes together with the free, unimpeded and unobstructed access for itself, its successors and assigns, servants, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement: Part of Lot 19, Plan 494, being Parts 2 and 3 on 58R-22340, City of Waterloo, Part of PIN 22368-0246 (244-248 King Street North, City of Waterloo) Part of Lot 19, Plan 494, being Part 5 on 58R-22340, City of Waterloo, Part of PIN 22368-0098 (15 University Avenue East, City of Waterloo And that staff be instructed to register a Plan of Expropriation for the properties within three months of the granting of the approval to expropriate the properties, as required by the Expropriations Act; And that the registered owners be served with a Notice of Expropriation, Notice of Election and a Notice of Possession for the properties after the registration of the Plan of Expropriation and the Regional Solicitor is authorized to take any and all actions required to enforce such Notices including but not limited to any application pursuant to Section 40 of the Expropriations Act; And that the Regional Solicitor is authorized to enter into an agreement with the registered owners, or to make an application under Section 39 of the Expropriations Act, to adjust the date for possession specified in the Notice of Possession as may be required; And that all above-referenced fee simple partial takings situated adjacent to an existing Regional public highway be acquired for road widening purposes and therefore be deemed to form part of the adjacent public highway in accordance with subsection 31(6) of the Municipal Act, 2001; And that if no agreement as to compensation is made with an owner, the statutory Offer of Compensation and payment be served upon the registered owners of the properties in the amount of the market value of the interests in the land as estimated by the Region’s appraiser in accordance with the Expropriations Act; And that the Regional Solicitor be authorized to execute any Indemnity agreement or other document related to payment of the statutory Offer of Compensation; And further that the Regional Solicitor be authorized to discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete the transaction or if determined by the Commissioner, Engineering & Environmental Services, that such lands, or any part or interest thereof, are not required for the subject Project. WHEREAS the Region of Waterloo currently uses established methodologies to assess traffic noise along Regional roads; AND WHEREAS traffic-noise modelling and assessment practices continue to evolve; THEREFORE BE IT RESOLVED THAT as part of Transportation Services’ 2027 work plan, staff review alternative and emerging methodologies used to calculate and assess traffic noise, including approaches used by other municipalities and transportation authorities; AND FURTHER THAT staff report back to Regional Council with their findings, including whether any changes to the Region’s current noise assessment methodology should be considered.",
+   "text_html": "<p>The Sustainability, Infrastructure, and Development Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo approve the expropriation of lands for improvements to University Avenue East (between Weber Street North and Albert Street), in the City of Waterloo, in the Regional Municipality of Waterloo, as detailed in Report CAO-LEG-26-002, dated October 6, 2026, described as follows:<br/><strong>Fee Simple Partial Taking:</strong>\n<ol>\n<li>Part of Lot 19, Plan 494, being Part 1 on 58R-22340, City of Waterloo, Part of PIN 22368-0246 (244-248 King Street North, City of Waterloo)</li>\n<li>Part of Lots 18 and 19, Plan 494, being Part 4 on 58R-22340, City of Waterloo, Part of PIN 22368-0098 (15 University Avenue East, City of Waterloo)</li>\n<li>Part of Lot 70, Municipal Compiled Plan of the Subdivision of Lot 13, German Company Tract, being Part 11 on 58R-22340, City of Waterloo Part of PIN 22360-0014 (64 University Avenue East, City of Waterloo)</li>\n<li>Part of Lot 70, Municipal Compiled Plan of the Subdivision of Lot 13, German Company Tract, being Part 12 on 58R-22340, City of Waterloo, Part of PIN 22360-0059 (66-68 University Avenue East, City of Waterloo)<br/><strong><br/>Permanent Easement – Hydro Aerial and Anchoring:</strong><strong><br/></strong>The right and easement, being an easement in gross, for itself, its successors and assigns and anyone authorized by it, in perpetuity to, at any time enter upon the following properties for purposes of relocated aerial hydro utility and associated anchoring. All related infrastructure, and all appurtenances thereto, which may be determined necessary from time to time, and for all such purposes together with the free, unimpeded and unobstructed access for itself, its successors and assigns, servants, agents, contractors, workers and anyone authorized by it, and vehicles, supplies and equipment at all times and for all purposes and things necessary for or incidental to the exercise and enjoyment of the right and easement:</li>\n<li>Part of Lot 19, Plan 494, being Parts 2 and 3 on 58R-22340, City of Waterloo, Part of PIN 22368-0246 (244-248 King Street North, City of Waterloo)</li>\n<li>Part of Lot 19, Plan 494, being Part 5 on 58R-22340, City of Waterloo, Part of PIN 22368-0098 (15 University Avenue East, City of Waterloo<br/><br/>And that staff be instructed to register a Plan of Expropriation for the properties within three months of the granting of the approval to expropriate the properties, as required by the Expropriations Act;<br/>And that the registered owners be served with a Notice of Expropriation, Notice of Election and a Notice of Possession for the properties after the registration of the Plan of Expropriation and the Regional Solicitor is authorized to take any and all actions required to enforce such Notices including but not limited to any application pursuant to Section 40 of the Expropriations Act;<br/>And that the Regional Solicitor is authorized to enter into an agreement with the registered owners, or to make an application under Section 39 of the Expropriations Act, to adjust the date for possession specified in the Notice of Possession as may be required;<br/>And that all above-referenced fee simple partial takings situated adjacent to an existing Regional public highway be acquired for road widening purposes and therefore be deemed to form part of the adjacent public highway in accordance with subsection 31(6) of the Municipal Act, 2001;<br/>And that if no agreement as to compensation is made with an owner, the statutory Offer of Compensation and payment be served upon the registered owners of the properties in the amount of the market value of the interests in the land as estimated by the Region’s appraiser in accordance with the Expropriations Act;<br/>And that the Regional Solicitor be authorized to execute any Indemnity agreement or other document related to payment of the statutory Offer of Compensation;<br/>And further that the Regional Solicitor be authorized to discontinue expropriation proceedings or any part thereof, in respect of the above described lands, or any part thereof, upon the registration on title of the required documentation to complete the transaction or if determined by the Commissioner, Engineering &amp; Environmental Services, that such lands, or any part or interest thereof, are not required for the subject Project.<br/><br/></li>\n</ol>\n</li>\n<li>WHEREAS the Region of Waterloo currently uses established methodologies to assess traffic noise along Regional roads;<br/>AND WHEREAS traffic-noise modelling and assessment practices continue to evolve;<br/>THEREFORE BE IT RESOLVED THAT as part of Transportation Services’ 2027 work plan, staff review alternative and emerging methodologies used to calculate and assess traffic noise, including approaches used by other municipalities and transportation authorities;<br/>AND FURTHER THAT staff report back to Regional Council with their findings, including whether any changes to the Region’s current noise assessment methodology should be considered.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m6",
+   "item": "49",
+   "item_number": "11.2.2",
+   "item_title": "Administration and Finance Committee Summary - October 6, 2026",
+   "name": "",
+   "moved_by": "Shantz",
+   "seconded_by": "Erb",
+   "text": "The Administration and Finance Committee recommends as follows: THAT the Regional Municipality of Waterloo, on behalf of the Waterloo Region Education and Public Network (WREPNET) partners, renew its agreement with Rogers Communications Canada Inc. for the provisioning and supply of a dark fibre network within the Region for a five (5) year period beginning September 1, 2026, subject to final CPI reconciliation and the material terms summarized in this report, with such agreement to be satisfactory to the Commissioner of Corporate Services and Regional Solicitor, as outlined in Report COR-ITS-26-001 dated October 6, 2026. THAT the Regional Municipality of Waterloo directs staff to review and update the Region’s Reserve and Reserve Fund Policy for consideration by the Administration & Finance Committee in Q2 2027, as outlined in report COR-CFN-26-021 dated October 6, 2026. WHEREAS the Region of Waterloo's Cultural Drivers of Tourism program provides funding from the Municipal Accommodation Tax (MAT) Reserve to support arts, cultural, and heritage organizations that attract visitors to Waterloo Region; and WHEREAS hotels located throughout Waterloo Region generate the Municipal Accommodation Tax revenues that fund this program; and WHEREAS the 2026 funding allocations resulted in Cambridge-based organizations receiving approximately $3,000 of the $250,000 available through the program, despite Cambridge being home to a significant number of accommodation providers contributing to the MAT Reserve; WHEREAS a sustainable cultural tourism strategy should recognize both visitor attraction outcomes and the contribution of municipalities that generate the revenues supporting the program; THEREFORE BE IT RESOLVED THAT Regional Council direct staff to review the Cultural Drivers of Tourism funding formula and eligibility criteria to determine whether amendments are warranted to ensure a more equitable geographic distribution of funding across the Region's municipalities; and BE IT FURTHER RESOLVED THAT the review include consideration of: The relationship between Municipal Accommodation Tax revenue generation and funding allocations; Mechanisms to ensure all municipalities receive fair consideration under the program; The long-term impact of current allocation practices on cultural development and tourism growth in municipalities receiving minimal funding; and Alternative funding models that balance visitor attraction metrics with regional equity objectives. BE IT FURTHER RESOLVED THAT staff report back to Council with recommendations prior to the next Cultural Drivers of Tourism funding intake. WHEREAS the late Kari Williams served the residents of Waterloo Region with dedication, compassion, and a strong commitment to community well-being; and WHEREAS Kari Williams was a passionate supporter of the Stanley Park Eats program, which provides meals and support to community members in need; and WHEREAS the Stanley Park Community Association is leading a community mural project on the Stanley Park Eats serving hut; and WHEREAS the mural has been inspired by Kari Williams' commitment to addressing food insecurity and supporting the Stanley Park community; and WHEREAS the project has received funding through the City of Kitchener and contributions from the Stanley Park Community Association, and community fundraising efforts; and WHEREAS community art projects help create vibrant public spaces and strengthen neighbourhood pride; THEREFORE BE IT RESOLVED that Regional Council approve a one-time grant of $2,000 from the Public Art Reserve Fund to the Stanley Park Community Association to support the Stanley Park Eats mural project; and BE IT FURTHER RESOLVED that Regional Council recognizes the lasting contributions of Kari Williams to the Stanley Park community and Waterloo Region; and BE IT FURTHER RESOLVED that the Commissioner of Corporate Services be authorized to take all necessary administrative actions to implement this resolution.",
+   "text_html": "<p>The Administration and Finance Committee recommends as follows:</p>\n<ol>\n<li>THAT the Regional Municipality of Waterloo, on behalf of the Waterloo Region Education and Public Network (WREPNET) partners, renew its agreement with Rogers Communications Canada Inc. for the provisioning and supply of a dark fibre network within the Region for a five (5) year period beginning September 1, 2026, subject to final CPI reconciliation and the material terms summarized in this report, with such agreement to be satisfactory to the Commissioner of Corporate Services and Regional Solicitor, as outlined in Report COR-ITS-26-001 dated October 6, 2026.</li>\n<li>THAT the Regional Municipality of Waterloo directs staff to review and update the Region’s Reserve and Reserve Fund Policy for consideration by the Administration &amp; Finance Committee in Q2 2027, as outlined in report COR-CFN-26-021 dated October 6, 2026.</li>\n<li>WHEREAS the Region of Waterloo's Cultural Drivers of Tourism program provides funding from the Municipal Accommodation Tax (MAT) Reserve to support arts, cultural, and heritage organizations that attract visitors to Waterloo Region; and<br/>WHEREAS hotels located throughout Waterloo Region generate the Municipal Accommodation Tax revenues that fund this program; and<br/>WHEREAS the 2026 funding allocations resulted in Cambridge-based organizations receiving approximately $3,000 of the $250,000 available through the program, despite Cambridge being home to a significant number of accommodation providers contributing to the MAT Reserve;<br/>WHEREAS a sustainable cultural tourism strategy should recognize both visitor attraction outcomes and the contribution of municipalities that generate the revenues supporting the program;<br/>THEREFORE BE IT RESOLVED THAT Regional Council direct staff to review the Cultural Drivers of Tourism funding formula and eligibility criteria to determine whether amendments are warranted to ensure a more equitable geographic distribution of funding across the Region's municipalities; and<br/>BE IT FURTHER RESOLVED THAT the review include consideration of:\n<ol>\n<li>The relationship between Municipal Accommodation Tax revenue generation and funding allocations;</li>\n<li>Mechanisms to ensure all municipalities receive fair consideration under the program;</li>\n<li>The long-term impact of current allocation practices on cultural development and tourism growth in municipalities receiving minimal funding; and</li>\n<li>Alternative funding models that balance visitor attraction metrics with regional equity objectives.<br/>BE IT FURTHER RESOLVED THAT staff report back to Council with recommendations prior to the next Cultural Drivers of Tourism funding intake.</li>\n</ol>\n</li>\n<li>WHEREAS the late Kari Williams served the residents of Waterloo Region with dedication, compassion, and a strong commitment to community well-being; and<br/>WHEREAS Kari Williams was a passionate supporter of the Stanley Park Eats program, which provides meals and support to community members in need; and<br/>WHEREAS the Stanley Park Community Association is leading a community mural project on the Stanley Park Eats serving hut; and<br/>WHEREAS the mural has been inspired by Kari Williams' commitment to addressing food insecurity and supporting the Stanley Park community; and<br/>WHEREAS the project has received funding through the City of Kitchener and contributions from the Stanley Park Community Association, and community fundraising efforts; and<br/>WHEREAS community art projects help create vibrant public spaces and strengthen neighbourhood pride;<br/>THEREFORE BE IT RESOLVED that Regional Council approve a one-time grant of $2,000 from the Public Art Reserve Fund to the Stanley Park Community Association to support the Stanley Park Eats mural project; and<br/>BE IT FURTHER RESOLVED that Regional Council recognizes the lasting contributions of Kari Williams to the Stanley Park community and Waterloo Region; and<br/>BE IT FURTHER RESOLVED that the Commissioner of Corporate Services be authorized to take all necessary administrative actions to implement this resolution.</li>\n</ol>\n<p> </p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m7",
+   "item": "50",
+   "item_number": "11.2.3",
+   "item_title": "Community and Health Services Committee Summary - October 6, 2026",
+   "name": "",
+   "moved_by": "Erb",
+   "seconded_by": "Rodrigues",
+   "text": "The Community and Health Services Committee recommends as follows: That the Regional Municipality of Waterloo endorse the 2026–2036 Housing and Homelessness Plan, to provide the Region of Waterloo’s strategic direction for housing and homelessness planning, investment, service coordination, monitoring, and advocacy over the next decade, as outlined in report CSD-HOU-26-008, dated October 6, 2026.",
+   "text_html": "<p>The Community and Health Services Committee recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo endorse the 2026–2036 Housing and Homelessness Plan, to provide the Region of Waterloo’s strategic direction for housing and homelessness planning, investment, service coordination, monitoring, and advocacy over the next decade, as outlined in report CSD-HOU-26-008, dated October 6, 2026.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m8",
+   "item": "65",
+   "item_number": "11.2.4",
+   "item_title": "Closed Summary - October 14, 2026",
+   "name": "",
+   "moved_by": "Gowing",
+   "seconded_by": "Erb",
+   "text": "The Closed Council recommends as follows: That the Regional Municipality of Waterloo staff continue with due diligence as outlined in this report and only take the following actions when satisfied with the due diligence: Authorize the Commissioner, Planning, Development & Legislative Services to execute the Agreement of Purchase and Sale for the sale of 1388 Highland Road West, Kitchener to Grand Valley Communities, in the form and content satisfactory to the Regional Solicitor. Authorize the Chief Administrative Officer to enter into ancillary documentation and/or agreements to facilitate the project that the Chief Administrative Officer deems to be in the best interests of The Regional Municipality of Waterloo, subject to the satisfaction of the Regional Solicitor.",
+   "text_html": "<p>The Closed Council recommends as follows:</p>\n<ol>\n<li>That the Regional Municipality of Waterloo staff continue with due diligence as outlined in this report and only take the following actions when satisfied with the due diligence:</li>\n</ol>\n<ol>\n<li>\n<ol>\n<li>Authorize the Commissioner, Planning, Development &amp; Legislative Services to execute the Agreement of Purchase and Sale for the sale of 1388 Highland Road West, Kitchener to Grand Valley Communities, in the form and content satisfactory to the Regional Solicitor.</li>\n<li>Authorize the Chief Administrative Officer to enter into ancillary documentation and/or agreements to facilitate the project that the Chief Administrative Officer deems to be in the best interests of The Regional Municipality of Waterloo, subject to the satisfaction of the Regional Solicitor.</li>\n</ol>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (10 to 2)",
+    "label": "10-2",
+    "for": 10,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Harris",
+     "Huinink",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [
+     "Gowing",
+     "James"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "53",
+   "item_number": "12.2",
+   "item_title": "PDL-BWR-26-008, 30 Lauris Avenue, Cambridge - Surplus Lands",
+   "name": "",
+   "moved_by": "Liggett",
+   "seconded_by": "Wolf",
+   "text": "That the Regional Municipality of Waterloo take the following action with respect to Request for Proposal P2024-28 as set out in report PDL-BWR-26-008, dated October 14, 2026. Authorize the Commissioner, Planning, Development & Legislative Services to execute the Land Lease Agreement for 30 Lauris Avenue, Cambridge, with Central Ontario Co-operative Housing Federation, and/or its affiliated organization 30 Lauris Avenue Housing Co-operative Incorporated, in the form and content satisfactory to the Regional Solicitor. Authorize the Commissioner, Planning, Development & Legislative Services to execute any ancillary documents and agreements including agreements with Canada Mortgage and Housing Corporation and/or Build Canada Homes, for 30 Lauris Avenue, Cambridge, with Central Ontario Co-operative Housing Federation, and/or its affiliated organization 30 Lauris Avenue Housing Co-operative Incorporated, in the form and content satisfactory to the Regional Solicitor.",
+   "text_html": "<p>That the Regional Municipality of Waterloo take the following action with respect to Request for Proposal P2024-28 as set out in report PDL-BWR-26-008, dated October 14, 2026.</p>\n\n<ol>\n<li>Authorize the Commissioner, Planning, Development &amp; Legislative Services to execute the Land Lease Agreement for 30 Lauris Avenue, Cambridge, with Central Ontario Co-operative Housing Federation, and/or its affiliated organization 30 Lauris Avenue Housing Co-operative Incorporated, in the form and content satisfactory to the Regional Solicitor.\n<p> </p>\n</li>\n<li>Authorize the Commissioner, Planning, Development &amp; Legislative Services to execute any ancillary documents and agreements including agreements with Canada Mortgage and Housing Corporation and/or Build Canada Homes, for 30 Lauris Avenue, Cambridge, with Central Ontario Co-operative Housing Federation, and/or its affiliated organization 30 Lauris Avenue Housing Co-operative Incorporated, in the form and content satisfactory to the Regional Solicitor.\n<p> </p>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m10",
+   "item": "37",
+   "item_number": "18",
+   "item_title": "Enactment of By-laws – First, Second & Third Readings",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Rodrigues",
+   "text": "That the following by-laws be approved.",
+   "text_html": "<p>That the following by-laws be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m11",
+   "item": "43",
+   "item_number": "18.8",
+   "item_title": "By-law 26-058",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Rodrigues",
+   "text": "That a By-law to Provide Rules for Governing the Proceedings of the Council and its Committees, as amended, and to repeal By-law 26-017 be read a first, second and third time, finally passed and numbered 26-058, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Provide Rules for Governing the Proceedings of the Council and its Committees, as amended, and to repeal By-law 26-017 be read a first, second and third time, finally passed and numbered 26-058, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m12",
+   "item": "38",
+   "item_number": "18.9",
+   "item_title": "By-law 26-059",
+   "name": "",
+   "moved_by": "Nowak",
+   "seconded_by": "Rodrigues",
+   "text": "That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on October 14, 2026 be read a first, second and third time, finally passed and numbered 26-059, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.",
+   "text_html": "<p>That a By-law to Confirm the Proceedings of the Council of the Regional Municipality of Waterloo at this Meeting Held on October 14, 2026 be read a first, second and third time, finally passed and numbered 26-059, be signed by the Regional Chair and Regional Clerk and sealed with the Regional Seal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m13",
+   "item": "39",
+   "item_number": "19",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Harris",
+   "seconded_by": "Huinink",
+   "text": "That the meeting adjourn at 7:50 p.m.",
+   "text_html": "<p>That the meeting adjourn at 7:50 p.m.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Redman",
+     "Craig",
+     "Erb",
+     "Gowing",
+     "Harris",
+     "Huinink",
+     "James",
+     "Liggett",
+     "Nowak",
+     "Rodrigues",
+     "Shantz",
+     "Wolf"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}
