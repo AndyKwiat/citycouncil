@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "41e1b61b-84c9-4d1e-9de4-5873b4b85ba0",
+ "city": "guelph",
+ "key": "2024-11-26",
+ "type": "City Council",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "City Council",
+ "start": "2024-11-26T17:30:00",
+ "end": "2024-11-26T18:30:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=41e1b61b-84c9-4d1e-9de4-5873b4b85ba0&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=55880",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=41e1b61b-84c9-4d1e-9de4-5873b4b85ba0&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=41e1b61b-84c9-4d1e-9de4-5873b4b85ba0&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=41e1b61b-84c9-4d1e-9de4-5873b4b85ba0"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=41e1b61b-84c9-4d1e-9de4-5873b4b85ba0",
+    "file": "November 26, 2024 - City Council and CAO Recruitment, Selection and Performance Sub-Committee.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/November%2026%2C%202024%20-%20City%20Council%20and%20CAO%20Recruitment%2C%20Selection%20and%20Performance%20Sub-Committee.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/November%2026%2C%202024%20-%20City%20Council%20and%20CAO%20Recruitment%2C%20Selection%20and%20Performance%20Sub-Committee.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "17c4eabf07544b1c6a0ee0d009102ebb1d7724de9dc90a8e4a4fb8fe8823f75e"
+ }
+}

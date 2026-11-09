@@ -12,6 +12,7 @@ wake = threading.Condition(lock)
 jobs = []        # newest last
 current = None   # (job, Popen)
 DATE = re.compile(r"\d{4}-\d{2}-\d{2}")
+KEY = re.compile(r"\d{4}-\d{2}-\d{2}(-[a-z0-9-]+)?")
 
 
 def now():
@@ -42,15 +43,15 @@ def describe(body):
     if action == "build":
         return "Update website", ["build"], []
     if action == "deploy":
-        return f"Deploy to {p.SITE_DOMAIN}/{p.SITE_PATH}", ["deploy"], []
+        return f"Deploy to {p.SITE_DOMAIN}", ["deploy"], []
     if action == "search_index":
         return "Update search index", ["search-index"], []
     if action == "search_deploy":
         return f"Deploy search to {p.SEARCH_APP}.akwiat.com", ["search-deploy"], []
     if action == "meeting":
         key, mode = body.get("key", ""), body.get("mode")
-        if not DATE.fullmatch(key):
-            raise ValueError("Bad meeting date")
+        if not KEY.fullmatch(key):
+            raise ValueError("Bad meeting key")
         modes = {"all": ("Process", []),
                  "docs": ("Re-download documents", ["--steps", "docs,parse", "--force"]),
                  "captions": ("Redo transcript", ["--steps", "transcribe", "--force"]),
@@ -115,16 +116,17 @@ def worker():
 def state():
     built = p.read_json(p.STATE / "build.json") or {}
     deployed = p.read_json(p.STATE / "deploy.json") or {}
-    meetings = [p.meeting_status(m, built) for m in p.council_meetings()]
+    city = p.load()
+    meetings = [p.meeting_status(m, built, city) for m in p.council_meetings(city)]
     with lock:
         active = {k: j["status"] for j in jobs if j["status"] in ("queued", "running") for k in j["keys"]}
         recent = list(reversed(jobs[-25:]))
     for m in meetings:
         m["job"] = active.get(m["key"])
     ready = {m["key"] for m in meetings if m["summary"]}
-    built_keys = set(built.get("meetings", {}))
+    built_keys = set(p.built_meetings(built, city))
     fingerprint = built.get("fingerprint")
-    return {"meetings": meetings, "checked_at": (p.read_json(p.CALENDAR) or {}).get("checked_at"), "jobs": recent,
+    return {"meetings": meetings, "checked_at": (p.read_json(city.calendar) or {}).get("checked_at"), "jobs": recent,
             "build": {"at": built.get("built_at"), "count": len(built_keys),
                       "stale": sorted((ready - built_keys) | {m["key"] for m in meetings if m["stale"]}),
                       "removed": sorted(built_keys - ready)},

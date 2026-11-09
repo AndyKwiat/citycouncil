@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "2b4c6bf5-1321-499c-a1e5-6c956d0d84ca",
+ "city": "guelph",
+ "key": "2025-02-25",
+ "type": "City Council",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "City Council",
+ "start": "2025-02-25T17:30:00",
+ "end": "2025-02-25T18:30:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=2b4c6bf5-1321-499c-a1e5-6c956d0d84ca&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=58677",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=2b4c6bf5-1321-499c-a1e5-6c956d0d84ca&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=2b4c6bf5-1321-499c-a1e5-6c956d0d84ca&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=2b4c6bf5-1321-499c-a1e5-6c956d0d84ca"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=2b4c6bf5-1321-499c-a1e5-6c956d0d84ca",
+    "file": "Council Encoder_City Council_2025-02-25-05-31.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_City%20Council_2025-02-25-05-31.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_City%20Council_2025-02-25-05-31.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "09229aa9e915c125e586d7b5fe2dc80b3d8fc1ac35184157efe6d261b721a2f0"
+ }
+}

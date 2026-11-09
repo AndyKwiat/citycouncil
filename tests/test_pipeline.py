@@ -9,6 +9,10 @@ import search_index
 import analysis
 import pipeline as p
 from bs4 import BeautifulSoup
+from core import city as cities
+from sources import escribe
+
+GUELPH = cities.load("guelph")
 
 
 def motion(mid="m1", title="Some item", yes=(), no=(), result="", inherited=False):
@@ -74,15 +78,10 @@ class Parsing(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.raw = pathlib.Path(self.tmp.name)
-        patcher = mock.patch.object(p, "RAW", self.raw)
-        patcher.start()
-        self.addCleanup(patcher.stop)
         self.addCleanup(self.tmp.cleanup)
-        self.m = {"StartDate": "2024/01/02 10:00:00"}
         (self.raw / "2024-01-02").mkdir()
         (self.raw / "2024-01-02" / "minutes.html").write_text(MINUTES_PAGE)
-        p.step_parse(self.m)
-        self.out = p.read_json(self.raw / "2024-01-02" / "minutes.json")
+        self.out = escribe.parse_minutes(GUELPH, self.raw / "2024-01-02")
 
     def test_attendance(self):
         self.assertEqual(self.out["absent"], ["Billings"])
@@ -118,8 +117,7 @@ class Parsing(unittest.TestCase):
             <div class="MotionResult">Carried ({len(names)} to 0)</div></li></ul></div>"""
             for n, names in ((2, ["Mayor Guthrie", "Councillor Gibson"]), (3, ["Councillor Gibson"]))) + "</body></html>"
         (self.raw / "2024-01-02" / "minutes.html").write_text(page)
-        p.step_parse(self.m)
-        out = p.read_json(self.raw / "2024-01-02" / "minutes.json")
+        out = escribe.parse_minutes(GUELPH, self.raw / "2024-01-02")
         self.assertEqual([x["result"]["for"] for x in out["motions"]], [2, 1])
         self.assertEqual([x["inherited"] for x in out["motions"]], [False, False])
         self.assertEqual(out["vote_problems"], [])
@@ -292,7 +290,7 @@ class RealData(unittest.TestCase):
     """Whatever has been downloaded must stay internally consistent."""
 
     def test_recorded_votes_match_their_counts(self):
-        for d in sorted(x for x in p.RAW.iterdir() if x.is_dir()):
+        for d in p.meeting_dirs(GUELPH):
             minutes = p.read_json(d / "minutes.json")
             for x in (minutes or {}).get("motions", []):
                 r, v = x["result"], x["votes"]
@@ -301,7 +299,7 @@ class RealData(unittest.TestCase):
                     self.assertFalse(set(v["for"]) & set(v["against"]), f"{d.name}/{x['id']}")
 
     def test_summaries_point_at_real_motions(self):
-        for d in sorted(x for x in p.RAW.iterdir() if x.is_dir()):
+        for d in p.meeting_dirs(GUELPH):
             minutes, summary = p.read_json(d / "minutes.json"), p.read_json(d / "summary.json")
             if minutes and summary:
                 ids = {x["id"] for x in minutes["motions"]}

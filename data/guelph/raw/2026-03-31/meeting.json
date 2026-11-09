@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "208249e2-1efa-4b42-be98-17d31bf8f670",
+ "city": "guelph",
+ "key": "2026-03-31",
+ "type": "City Council",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "City Council",
+ "start": "2026-03-31T17:30:00",
+ "end": "2026-03-31T22:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=208249e2-1efa-4b42-be98-17d31bf8f670&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=72798",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=208249e2-1efa-4b42-be98-17d31bf8f670&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=208249e2-1efa-4b42-be98-17d31bf8f670&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=208249e2-1efa-4b42-be98-17d31bf8f670"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=208249e2-1efa-4b42-be98-17d31bf8f670",
+    "file": "Council Encoder_City Council_2026-03-31-05-15.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_City%20Council_2026-03-31-05-15.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_City%20Council_2026-03-31-05-15.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "c418aac1e3997be8c68b238363b5f1883af93d1123b1b71b97378d5962f49032"
+ }
+}

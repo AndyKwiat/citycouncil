@@ -16,7 +16,7 @@ summarized and so on); this file tracks *build* progress.
 
 | Task | Status | Notes |
 |---|---|---|
-| Move plan docs into `docs/multicity/` | todo | |
+| Move plan docs into `docs/multicity/` | done | 2026-11-09, branch `multicity` |
 | Waterloo: meeting enumeration spike | todo | |
 | Centre Wellington: CivicWeb crawl spike | todo | |
 | YouTube auto-caption spike (Waterloo, CW) | todo | |
@@ -31,16 +31,16 @@ summarized and so on); this file tracks *build* progress.
 
 | Task | Status | Notes |
 |---|---|---|
-| Golden snapshot of the current Guelph site and 10 saved searches | todo | |
-| Repo restructure (`cities/`, `data/`, `core/`, `sources/`, `video/`) | todo | |
-| `meeting.json` v2 plus Guelph migration | todo | |
-| eSCRIBE adapter extracted from `pipeline.py` | todo | |
+| Golden snapshot of the current Guelph site and 10 saved searches | done | Site in `state/golden/site/` (101 files, not committed); searches in `docs/multicity/golden/searches.md`; check with `tools/golden_diff.py` |
+| Repo restructure (`cities/`, `data/`, `core/`, `sources/`, `video/`) | done | `git mv` of raw, votes, councillors, portraits; `pipeline.py` is the CLI and re-exports helpers for tests and the panel |
+| `meeting.json` v2 plus Guelph migration | done | `tools/migrate_v2.py`; eSCRIBE record kept in `source/meeting_source.json`; `video_file.txt` folded into `video.parts`. Re-parse of all 42 meetings identical to before |
+| eSCRIBE adapter extracted from `pipeline.py` | done | `sources/escribe.py` + `video/isilive.py`; shared steps in `core/` |
 | Terms: per-term councillors and analysis, term selector | todo | |
 | Committees: keys, `body`, per-meeting roster, filters, summary wording | todo | |
 | Guelph committee backfill | todo | |
-| Vote-label maps, attendance per adapter, council-size check | todo | |
-| Theme pipeline (duotone, emblem, card, OG image) | todo | |
-| Disclaimer footer; check for "AI" in user-facing text | todo | |
+| Vote-label maps, attendance per adapter, council-size check | done | Labels in `city.json` plus defaults (Contra, In Favor, Opposed…); unknown labels are vote problems. Also fixed: Kitchener's "Carried, on a recorded vote (7 to 4)" had no count. Council size from term `seats` |
+| Theme pipeline (duotone, emblem, card, OG image) | done | `core/theme.py` (Pillow) from `cities/<slug>/theme/source.jpg`; images generated into `state/theme/` |
+| Disclaimer footer; check for "AI" in user-facing text | done | Footer on every page; tests check sources and built pages (transcripts quote speakers, so their text is exempt) |
 | Landing page `/` and `_redirects` | todo | |
 | Search: `city`/`date` columns, `cities=` parameter, Worker | todo | |
 | Golden diff shows only intended changes; deploy | todo | |

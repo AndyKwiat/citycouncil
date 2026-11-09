@@ -3,7 +3,7 @@ the private search API with a secret key."""
 import html
 
 e = html.escape
-SEARCH_API = "/api"  # same site: the Cloudflare Worker forwards searches to the API
+SEARCH_API = "/api"  # same site, absolute: the Cloudflare Worker forwards searches to the API
 KINDS = [("summary", "Summaries"), ("vote", "Votes"), ("minutes", "Minutes"), ("transcript", "Transcripts")]
 
 CSS = """
@@ -26,14 +26,23 @@ CSS = """
 .sr-mini{display:flex;gap:6px;margin-top:14px;max-width:460px}
 .sr-mini input{flex:1;min-width:0;font:inherit;font-size:15px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}
 .sr-mini button{padding:7px 14px}
+.sr-where{display:inline-flex;flex-wrap:wrap;gap:8px 16px}.sr-council{font-weight:600;color:var(--accent)}
 """
 
 JS = r"""
 (function(){
-var API = %s, form = document.getElementById('sr-form'), box = document.getElementById('sr-q'), status = document.getElementById('sr-status'), list = document.getElementById('sr-results');
+var CFG = %s, API = CFG.api, HERE = CFG.here, COUNCILS = CFG.councils, SLUGS = Object.keys(COUNCILS), form = document.getElementById('sr-form'), box = document.getElementById('sr-q'), status = document.getElementById('sr-status'), list = document.getElementById('sr-results');
 var ALL = ['summary','vote','minutes','transcript'], NAMES = {summary:'Summary', vote:'Vote', minutes:'Minutes', transcript:'Transcript'};
 function el(tag, cls, text, parent){ var n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; if (parent) parent.appendChild(n); return n; }
 function kinds(){ return ALL.filter(function(k){ return document.getElementById('sr-k-' + k).checked; }); }
+var allBox = document.getElementById('sr-all');
+// Which councils to search: this one unless "All councils" is ticked, or the ticked ones on the all-councils page.
+function councils(){
+  if (HERE) return allBox && allBox.checked ? SLUGS : [HERE];
+  return SLUGS.filter(function(c){ var b = document.getElementById('sr-c-' + c); return !b || b.checked; });
+}
+// Results link to pages relative to the council's folder; this page may be in it, beside it, or above it.
+function link(h){ var c = h.city || HERE; if (!c) return h.url; return (HERE ? (c === HERE ? '' : '../' + c + '/') : c + '/') + h.url; }
 function when(d){ var t = new Date(d + 'T12:00:00'); return t.toLocaleDateString('en-CA', {year:'numeric', month:'short', day:'numeric'}); }
 // Highlight query words in plain text without ever inserting HTML from the result.
 function highlight(parent, text, q){
@@ -49,12 +58,16 @@ function readUrl(){
   ALL.forEach(function(k){ document.getElementById('sr-k-' + k).checked = want.indexOf(k) >= 0; });
   document.getElementById('sr-from').value = u.get('from') || '';
   document.getElementById('sr-to').value = u.get('to') || '';
+  if (allBox) allBox.checked = u.get('all') === '1';
+  if (!HERE) { var want2 = (u.get('cities') || SLUGS.join(',')).split(','); SLUGS.forEach(function(c){ var b = document.getElementById('sr-c-' + c); if (b) b.checked = want2.indexOf(c) >= 0; }); }
 }
 function query(){
   var u = new URLSearchParams();
   u.set('q', box.value.trim());
   var k = kinds(); if (k.length < ALL.length) u.set('kinds', k.join(','));
   ['from','to'].forEach(function(f){ var v = document.getElementById('sr-' + f).value; if (v) u.set(f, v); });
+  if (HERE && allBox && allBox.checked) u.set('all', '1');
+  if (!HERE && councils().length < SLUGS.length) u.set('cities', councils().join(','));
   return u;
 }
 var seq = 0;
@@ -62,10 +75,13 @@ function run(push){
   var u = query();
   if (!u.get('q')) { status.textContent = 'Search summaries, votes, minutes and transcripts by meaning, not just exact words.'; list.textContent = ''; return; }
   if (!kinds().length) { status.textContent = 'Pick at least one kind of result.'; list.textContent = ''; return; }
+  if (!councils().length) { status.textContent = 'Pick at least one council.'; list.textContent = ''; return; }
   if (push) history.replaceState(null, '', '?' + u.toString());
   var mine = ++seq;
   status.textContent = 'Searching…';
   u.set('limit', '40');
+  u.delete('all');
+  u.set('cities', councils().join(','));
   fetch(API + '/search?' + u.toString()).then(function(r){
     return r.json().catch(function(){ return {}; }).then(function(body){ if (!r.ok) throw new Error(body.error || ('The search service answered ' + r.status)); return body; });
   }).then(function(body){
@@ -75,15 +91,16 @@ function run(push){
     if (body.weak) {
       var note = el('div', 'sr-weak', null, list);
       el('b', '', 'Nothing in these records closely matches “' + body.query + '”.', note);
-      el('span', '', ' No passage uses those words, and none is close in meaning, so the results below are only the nearest and are probably unrelated. Council may not have discussed it at a City Council meeting.', note);
+      el('span', '', ' No passage uses those words, and none is close in meaning, so the results below are only the nearest and are probably unrelated. Council may not have discussed it at the meetings on this site.', note);
     }
     body.results.forEach(function(h){
       var item = el('div', 'sr-hit', null, list), meta = el('div', 'sr-meta', null, item);
       el('span', 'sr-kind ' + h.kind, NAMES[h.kind] || h.kind, meta);
-      el('span', '', when(h.meeting), meta);
+      if (h.city && (!HERE || h.city !== HERE)) el('span', 'sr-council', COUNCILS[h.city] || h.city, meta);
+      el('span', '', when(h.date || h.meeting.slice(0, 10)), meta);
       if (h.label) el('span', 'sr-label', h.label, meta);
       if (h.exact) el('span', 'sr-exact', 'uses your words', meta);
-      var a = el('a', 't', h.title, item); a.href = h.url;
+      var a = el('a', 't', h.title, item); a.href = link(h);
       highlight(el('p', '', null, item), h.snippet, body.query);
     });
   }).catch(function(err){
@@ -102,31 +119,44 @@ if (!box.value) box.focus();
 """
 
 
-def mini_form():
+def mini_form(action="search.html", placeholder="Search votes, minutes and transcripts"):
     """A small search box for other pages; it opens the search page."""
-    return ('<form class="sr-mini" action="search.html" method="get" role="search">'
-            '<input type="search" name="q" placeholder="Search votes, minutes and transcripts" aria-label="Search council records">'
+    return (f'<form class="sr-mini" action="{action}" method="get" role="search">'
+            f'<input type="search" name="q" placeholder="{e(placeholder, quote=True)}" aria-label="Search council records">'
             '<button type="submit">Search</button></form>')
 
 
-def page_body(years):
+def councils():
+    from core import city as cities
+    return {s: cities.load(s).get("display_name", cities.load(s).name) for s in cities.all_slugs()}
+
+
+def page_body(years, city=None):
+    """The search page of one council (city) or, with city=None, of all of them (at the site's root)."""
     boxes = "".join(f'<label><input type="checkbox" id="sr-k-{k}" checked> {e(name)}</label>' for k, name in KINDS)
     options = lambda first: f'<option value="">{first}</option>' + "".join(f'<option value="{y}-{"01-01" if first == "Any start" else "12-31"}">{y}</option>' for y in years)
+    names = councils()
+    if city:
+        where = (f'<label><input type="checkbox" id="sr-all"> All councils</label>' if len(names) > 1 else "")
+        back, title = '<a href="index.html">&larr; All meetings</a>', "Search council records"
+    else:
+        where = "".join(f'<label><input type="checkbox" id="sr-c-{s}" checked> {e(n)}</label>' for s, n in names.items()) if len(names) > 1 else ""
+        back, title = '<a href="index.html">&larr; All councils</a>', "Search every council"
     return f"""
-<header class="top"><div class="eyebrow"><a href="index.html">&larr; All meetings</a></div>
-<h1>Search council records</h1>
+<header class="top"><div class="eyebrow">{back}</div>
+<h1>{title}</h1>
 <p class="lede">Finds passages by meaning: a search for “homelessness” also finds encampments, shelters and drop-in funding.</p></header>
 <form class="sr-form" id="sr-form" role="search"><input type="search" id="sr-q" name="q" placeholder="What are you looking for?" aria-label="Search">
 <button type="submit">Search</button></form>
 <div class="sr-filters" id="sr-filters">{boxes}
 <label>From <select id="sr-from" aria-label="From year">{options("Any start")}</select></label>
-<label>to <select id="sr-to" aria-label="To year">{options("Any end")}</select></label></div>
+<label>to <select id="sr-to" aria-label="To year">{options("Any end")}</select></label>{f'<span class="sr-where">{where}</span>' if where else ''}</div>
 <p class="sr-status" id="sr-status" aria-live="polite"></p>
 <div id="sr-results"></div>
-<footer>Results come from the city's minutes, the AI summaries on this site and machine transcripts of the recordings,
+<footer>Results come from the councils' minutes, the automated summaries on this site and machine transcripts of the recordings,
 so transcript passages can contain misheard words.</footer>"""
 
 
-def script():
+def script(city=None):
     import json
-    return JS % json.dumps(SEARCH_API)
+    return JS % json.dumps({"api": SEARCH_API if city is None else SEARCH_API, "here": city.slug if city else None, "councils": councils()})

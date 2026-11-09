@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
-"""Render raw/<date>/ into the static site under site/."""
+"""Render each council's data/<slug>/raw/<key>/ into site/<slug>/, plus the landing page and search at the root."""
 import collections, datetime as dt, html, itertools, json, math, pathlib, re, shutil
 import alliance_network
 import search_page
 import analysis
 import pipeline as p
+from core import city as cities, theme
+from core.votes import export_votes
 
 e = html.escape
-BASE = p.BASE
+# Below this many split recorded votes in a term, agreement percentages mean little (PLAN 4.7).
+ENOUGH_SPLIT_VOTES = 30
 
 CSS = """
 :root{color-scheme:light;--g0:#2a78d6;--g1:#eb6834;--g2:#1baf7a;--g2-ink:#0b0b0b;--bg:#f7f5ef;--panel:#fffefa;--ink:#1f2421;--muted:#667067;--line:#ddd9cc;
@@ -129,6 +132,22 @@ summary{grid-template-columns:1fr 18px;gap:6px 10px;padding:16px}
 .date{grid-column:1/2}.date .d,.date .y,.date .t{display:inline;font-size:14px;font-family:var(--sans);font-weight:500;color:var(--muted);margin-right:4px}
 .chev{grid-column:2;grid-row:1}summary .head{grid-column:1/3}h1{font-size:30px}.body{padding:2px 16px 18px}
 .tr .para{grid-template-columns:1fr;gap:0}.wrap{padding-top:28px}}
+body{position:relative}.wrap{position:relative;z-index:1}
+.hero{position:absolute;top:0;left:0;right:0;height:360px;background:center top/cover no-repeat;opacity:.13;pointer-events:none;
+-webkit-mask-image:linear-gradient(#000 35%,transparent);mask-image:linear-gradient(#000 35%,transparent)}
+.brand{display:flex;gap:14px;align-items:center}.brand img{width:56px;height:56px;border-radius:50%;flex:none;box-shadow:0 0 0 3px var(--panel)}
+footer.site{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:13px;line-height:1.55}
+footer.site p{margin:0 0 8px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:18px 0 0}
+.chips a{font-size:13.5px;text-decoration:none;padding:3px 11px;border-radius:99px;border:1px solid var(--line);background:var(--panel);color:var(--ink)}
+.chips a[aria-current=true]{background:var(--accent);border-color:var(--accent);color:var(--panel)}
+.date .b{display:block;margin-top:4px;font-size:11.5px;line-height:1.3;color:var(--accent);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+details.meeting[hidden],h2.year[hidden]{display:none}
+.councils{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin-top:22px}
+.council{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--ink)}
+.council:hover{box-shadow:0 2px 14px rgba(0,0,0,.08)}.council img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
+.council div{padding:12px 16px 14px}.council h2{font:600 21px/1.25 var(--serif);margin:0 0 4px;color:var(--accent)}.council p{margin:0;color:var(--muted);font-size:14px;line-height:1.45}
+@media (max-width:560px){.date .b{display:inline;margin:0}.brand img{width:44px;height:44px}}
 """
 
 JS = """
@@ -153,8 +172,15 @@ document.addEventListener('click',function(ev){var b=ev.target.closest&&ev.targe
  if(!(ev.target.closest&&ev.target.closest('#pop')))hide();});
 document.addEventListener('keydown',function(ev){if(ev.key==='Escape')hide();});
 addEventListener('scroll',function(){if(!pop.hidden&&!pinned)pop.hidden=true},true);
-function openHash(){if(!location.hash)return;var m=document.querySelector(location.hash);if(m&&m.tagName==='DETAILS'){m.open=true;m.scrollIntoView()}}
+function openHash(){if(location.hash.indexOf('#m-')!==0)return;var m=document.getElementById(location.hash.slice(1));if(m&&m.tagName==='DETAILS'){m.open=true;m.scrollIntoView()}}
 openHash();addEventListener('hashchange',openHash);
+// The meeting list's filter (All, Council, each committee) lives in the hash, e.g. #show=committee-of-the-whole.
+function filter(){var chips=document.querySelectorAll('.chips[data-filter] a');if(!chips.length)return;
+ var h=location.hash.indexOf('#show=')===0?decodeURIComponent(location.hash.slice(6)):'all';
+ [].forEach.call(chips,function(a){a.setAttribute('aria-current',a.dataset.show===h?'true':'false')});
+ [].forEach.call(document.querySelectorAll('details.meeting'),function(d){d.hidden=!(h==='all'||d.dataset.body===h||d.dataset.type===h)});
+ [].forEach.call(document.querySelectorAll('h2.year'),function(y){var n=y.nextElementSibling,any=false;while(n&&n.tagName==='DETAILS'){if(!n.hidden)any=true;n=n.nextElementSibling}y.hidden=!any});}
+filter();addEventListener('hashchange',filter);
 })();
 """
 
@@ -261,11 +287,40 @@ document.addEventListener('keydown',function(ev){if(ev.key==='Escape')hide()});
 """
 
 
-def page(title, body, script=True, extra_js=""):
+def disclaimer(city=None, up=""):
+    """Every page's footer (PLAN 4.5). It never calls the site artificial intelligence: tests check every built page."""
+    record = (f'<a href="{e(city.records_url, quote=True)}">official record</a>' if city else "official record of each council")
+    who = city.get("municipality") if city else "any of the councils shown"
+    text = (f"<p>This site is produced automatically. Summaries and transcripts are generated by software from the official "
+            f"minutes and meeting recordings, with no human review, so they can contain mistakes: misheard words, missing "
+            f"context or the wrong emphasis. Vote results and names come directly from the official minutes, but always check "
+            f"the {record} before relying on anything here. cityhallvotes.ca is independent and not affiliated with {e(who)}.</p>")
+    t = (city.get("theme") or {}) if city else {}
+    if t.get("photo_page"):
+        text += (f'<p>Photo: <a href="{e(t["photo_page"], quote=True)}">{e(t.get("photo_title", "council photo"))}</a> by '
+                 f'{e(t["photo_artist"])}, <a href="{e(t["photo_licence_url"], quote=True)}">{e(t["photo_licence"])}</a>, via '
+                 f'Wikimedia Commons; tinted for this site and shared under the same licence.</p>')
+    elif not city:
+        text += f'<p>Photos are credited on each council\'s pages.</p>'
+    return f'<footer class="site">{text}</footer>'
+
+
+def page(title, body, script=True, extra_js="", city=None, up="", themed=True):
+    """A whole page. `up` is the relative path back to the council's folder ("" or "../")."""
+    head, hero = "", ""
+    t = (city.get("theme") or {}) if city else {}
+    if t.get("accent"):
+        head += f'<style>:root{{--accent:{t["accent"]};--accent-soft:{t.get("accent_soft", "#e3eee8")}}}</style>'
+    if city and themed and THEMED.get(city.slug):
+        head += f'<link rel="icon" href="{up}theme/emblem.png">'
+        hero = f'<div class="hero" aria-hidden="true" style="background-image:url(\'{up}theme/header.jpg\')"></div>'
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
             f'<meta name="viewport" content="width=device-width,initial-scale=1"><title>{e(title)}</title>'
-            f'<style>{CSS}{search_page.CSS}</style></head><body><div class="wrap">{body}</div>'
+            f'<style>{CSS}{search_page.CSS}</style>{head}</head><body>{hero}<div class="wrap">{body}{disclaimer(city, up)}</div>'
             + (f"<script>{JS}</script>" if script else "") + (f"<script>{extra_js}</script>" if extra_js else "") + "</body></html>")
+
+
+THEMED = {}  # slug -> True once the council's theme images are in the site being built
 
 
 def hms(s):
@@ -339,8 +394,8 @@ SOURCE_NOTE = {
 }
 
 
-def build_transcript(out, key, sumr, m, meta, segs, docs, long_date):
-    video = f"{BASE}/Players/ISIStandAlonePlayer.aspx?Id={m['ID']}"
+def build_transcript(out, city, key, sumr, m, meta, segs, long_date):
+    video = m["links"]["video"]
     checked = {g["start"]: g for g in meta.get("gaps", [])}
     paras, prev_end, starts = "", None, []
     for pr in paragraphs(segs):
@@ -356,16 +411,21 @@ def build_transcript(out, key, sumr, m, meta, segs, docs, long_date):
         prev_end = pr["end"]
     (out / "transcripts" / f"{key}.html").write_text(page(f"Transcript: {long_date}", f"""
 <header class="top"><div class="eyebrow"><a href="../index.html#m-{key}">&larr; All meetings</a></div>
-<h1>{e(sumr['title'])}</h1><p class="lede">Guelph City Council, {long_date}. {meta['words']:,} words.
+<h1>{e(sumr['title'])}</h1><p class="lede">{e(body_title(city, m))}, {long_date}. {meta['words']:,} words.
 <a href="{video}">Watch the recording</a>.</p></header>
 <div class="note">{SOURCE_NOTE[meta['method']]} Expect misspelled names and misheard words, and there are no speaker labels.
 Timestamps are positions in the recording, not clock time. For what was officially decided, rely on the
 <a href="../minutes/{key}.html">minutes</a>.</div>
-<div class="tr">{paras}</div>""", script=False))
+<div class="tr">{paras}</div>""", script=False, city=city, up="../"))
     return starts
 
 
-def build_minutes(out, key, sumr, minutes, m, official, long_date):
+def body_title(city, m):
+    """"Guelph City Council", or "Guelph Committee of the Whole" for other meetings."""
+    return city.council_name if m["type"] == city.get("main_type") else f"{city.name} {m['body_name']}"
+
+
+def build_minutes(out, city, key, sumr, minutes, m, official, long_date):
     motions = {x["id"]: x for x in minutes["motions"]}
     html_items = ""
     for it in minutes["items"]:
@@ -391,21 +451,31 @@ def build_minutes(out, key, sumr, minutes, m, official, long_date):
         anchor = f' id="i-{it["id"]}"' if it["id"] else ""
         html_items += f'<section class="item {sub}"{anchor}><h2><span class="num">{e(it["number"])}</span>{e(it["title"])}</h2>{body}</section>'
     present = [n for n in minutes["roster"] if n not in minutes["absent"]]
+    when = long_date if m["type"] == city.get("main_type") else f"{m['body_name']}, {long_date}"
     attendance = f"Present: {', '.join(present)}." + (f" Absent: {', '.join(minutes['absent'])}." if minutes["absent"] else "")
-    (out / "minutes" / f"{key}.html").write_text(page(f"Minutes: {long_date}", f"""
+    (out / "minutes" / f"{key}.html").write_text(page(f"Minutes: {when}", f"""
 <header class="top"><div class="eyebrow"><a href="../index.html#m-{key}">&larr; All meetings</a></div>
-<h1>Minutes: {long_date}</h1><p class="lede">{e(attendance)}</p></header>
+<h1>Minutes: {when}</h1><p class="lede">{e(attendance)}</p></header>
 <div class="note">A copy of the city's published minutes, reformatted for this site. The
 <a href="{official}">official minutes</a> are the record.</div>
-<div class="mins">{html_items}</div>""", script=False))
+<div class="mins">{html_items}</div>""", script=False, city=city, up="../"))
 
 
-def agreement(built):
+BODY_FILTERS = {"all": "All votes", "council": "Council only", "committee": "Committees only"}
+
+
+def split_votes(city, built, term=None, body="all"):
+    """Recorded votes where at least one member dissented, from meetings on the site, for a term and body filter."""
+    if not (city.votes / "votes.json").exists():
+        export_votes(city)
+    rows = p.read_json(city.votes / "votes.json")["motions"]
+    return [r for r in rows if r["meeting_key"] in built and r["for"] and r["against"] and not r["duplicate_of_consent_vote"]
+            and (term is None or r.get("term") == term) and (body == "all" or r.get("body") == body)]
+
+
+def agreement(city, built, term=None, body="all"):
     """Who agreed with whom, counted only on recorded votes where at least one councillor dissented."""
-    if not (p.ROOT / "votes" / "votes.json").exists():
-        p.export_votes()
-    rows = p.read_json(p.ROOT / "votes" / "votes.json")["motions"]
-    votes = [r for r in rows if r["meeting_date"] in built and r["for"] and r["against"] and not r["duplicate_of_consent_vote"]]
+    votes = split_votes(city, built, term, body)
     agreed, shared = {}, {}
     names = sorted({n for r in votes for n in r["for"] + r["against"]})
     for r in votes:
@@ -432,11 +502,12 @@ def circle_order(names, rate):
     return order[top:] + order[:top]
 
 
-def build_map(c, full, photo, ward, agreed, shared):
+def build_map(c, full, photo, ward, agreed, shared, save=None):
     """The 2D map of voting groups, with its legend cards and method note."""
     if len(c["members"]) < 5:
         return ""
-    p.write_json(p.ROOT / "votes" / "clusters.json", c)
+    if save:
+        p.write_json(save, c)
     W, pad = 900, 84
     xs, ys = [m["x"] for m in c["members"].values()], [m["y"] for m in c["members"].values()]
     scale = (W - 2 * pad) / (max(xs) - min(xs))
@@ -523,18 +594,53 @@ def build_map(c, full, photo, ward, agreed, shared):
 </div></details>"""
 
 
-def build_councillors(out, all_minutes):
-    votes, names, agreed, shared = agreement(all_minutes)
+def councillor_pages(city, all_minutes):
+    """Which councillors pages to make: one per term with votes, and per body filter where a term has both.
+
+    Returns [(term, body, filename)], the default page first (named councillors.html): the most recent term with
+    enough split votes, or failing that the most recent with any, with all bodies."""
+    built = set(all_minutes)
+    terms = [t["id"] for t in city.terms if len(agreement(city, built, t["id"])[1]) >= 2]
+    if not terms:
+        return []
+    enough = [t for t in terms if len(split_votes(city, built, t)) >= ENOUGH_SPLIT_VOTES]
+    default = (enough or terms)[-1]
+    pages = []
+    for t in [default] + [t for t in reversed(terms) if t != default]:
+        bodies = {r["body"] for r in split_votes(city, built, t)}
+        for body in ["all"] + (["council", "committee"] if len(bodies) > 1 else []):
+            name = "councillors" + ("" if t == default else f"-{t}") + ("" if body == "all" else f"-{body}") + ".html"
+            pages.append((t, body, name))
+    return pages
+
+
+def councillors_nav(city, pages, term, body):
+    """Links between the term and body variants; empty when there's only one page."""
+    if len(pages) < 2:
+        return ""
+    first = {}
+    for t, b, name in pages:
+        first.setdefault(t, name)
+    terms = "".join(f'<a href="{first[t]}" aria-current="{str(t == term).lower()}">{e(city.term(t)["label"])}</a>' for t in first) if len(first) > 1 else ""
+    mine = [(b, name) for t, b, name in pages if t == term]
+    bodies = "".join(f'<a href="{name}" aria-current="{str(b == body).lower()}">{BODY_FILTERS[b]}</a>' for b, name in mine) if len(mine) > 1 else ""
+    return ((f'<nav class="chips" aria-label="Council term">{terms}</nav>' if terms else "")
+            + (f'<nav class="chips" aria-label="Which meetings">{bodies}</nav>' if bodies else ""))
+
+
+def build_councillors(out, city, all_minutes, metas, term=None, body="all", filename="councillors.html", nav="", save=None):
+    votes, names, agreed, shared = agreement(city, set(all_minutes), term, body)
+    body_filter = body  # `body` is reused below for the table's rows
     if len(names) < 2:
         return False
-    roster = p.read_json(p.ROOT / "councillors.json") or {}
+    roster = city.members(term) if term else {}
     full = lambda n: roster.get(n, {}).get("name", n)
     ward = lambda n: roster.get(n, {}).get("ward", "")
-    photo = lambda n: f"portraits/{roster[n]['portrait']}" if n in roster and (p.ROOT / "portraits" / roster[n]["portrait"]).exists() else ""
+    photo = lambda n: f"portraits/{roster[n]['portrait']}" if n in roster and (city.portraits / roster[n]["portrait"]).exists() else ""
     for n in names:
         if photo(n):
             (out / "portraits").mkdir(exist_ok=True)
-            shutil.copy(p.ROOT / "portraits" / roster[n]["portrait"], out / photo(n))
+            shutil.copy(city.portraits / roster[n]["portrait"], out / photo(n))
     # A share, not a raw count: someone who served part of the term has fewer chances to agree with anybody.
     rate = {k: agreed[k] / shared[k] for k in shared}
     order = circle_order(names, rate)
@@ -612,12 +718,12 @@ def build_councillors(out, all_minutes):
         body += f'<tr><th scope="row">{e(full(a))}</th>{cells}</tr>'
     vote_rows = ""
     for r in votes:
-        minutes = all_minutes[r["meeting_date"]]
+        minutes = all_minutes[r["meeting_key"]]
         x = next(y for y in minutes["motions"] if y["id"] == r["motion_id"])
         day = dt.date.fromisoformat(r["meeting_date"])
         title = r["motion_name"] or r["item_title"]
         vote_rows += (f'<div class="cn-vote"><span class="when">{day:%b} {day.day}, {day.year}</span>'
-                      f'<a href="minutes/{r["meeting_date"]}.html#{r["motion_id"]}">{e(title)}</a>{vote_badge(x, minutes, r["meeting_date"])}</div>')
+                      f'<a href="minutes/{r["meeting_key"]}.html#{r["motion_id"]}">{e(title)}</a>{vote_badge(x, minutes, r["meeting_key"])}</div>')
     largest_day, largest = collections.Counter(r["meeting_date"] for r in votes).most_common(1)[0]
     busy = dt.date.fromisoformat(largest_day)
     heavy = (f" For example, {largest} of the {len(votes)} votes come from {busy:%B} {busy.day}, {busy.year}." if largest / len(votes) >= .1 else "")
@@ -625,11 +731,12 @@ def build_councillors(out, all_minutes):
     part_term = [f"{full(n)} took part in {c} of them" for n, c in took_part.most_common() if c < .8 * len(votes)]
     never = [f"{full(a)} and {full(b)}" for a, b in itertools.combinations(sorted(names), 2) if (a, b) not in shared]
     credits = " ".join(sorted({x["credit"] for x in roster.values() if isinstance(x, dict) and x.get("credit")}))
-    (out / "councillors.html").write_text(page("Who votes with whom", f"""
+    meetings = sum(1 for k in all_minutes if (term is None or metas[k].get("term") == term) and body_filter in ("all", metas[k].get("body")))
+    (out / filename).write_text(page("Who votes with whom", f"""
 <header class="top"><div class="eyebrow"><a href="index.html">&larr; All meetings</a></div>
 <h1>Who votes with whom</h1>
 <p class="lede">Three ways to explore how council members vote together. All of them count only the
-{len(votes)} recorded votes that were not unanimous, from {len(all_minutes)} meetings.</p></header>
+{len(votes)} recorded votes that were not unanimous, from {meetings} meetings.</p>{nav}</header>
 {network}
 <h2 class="sec">Agreement circle</h2>
 <p class="lede">The thicker the line, the larger the share of votes on which two council members voted the same way.</p>
@@ -638,7 +745,7 @@ def build_councillors(out, all_minutes):
 <g>{lines}</g><g>{hits}</g><g>{nodes}</g><g class="cn-count"></g></svg>
 <div class="cn-legend">{legend}<span>of votes in agreement</span></div>
 {panels}
-{build_map(groups, full, photo, ward, agreed, shared)}
+{build_map(groups, full, photo, ward, agreed, shared, save)}
 <h2 class="sec">The numbers</h2>
 <details class="more"><summary>Every pair, as a table</summary><div class="in"><p class="hint">Percent of the votes both attended on which they agreed.</p><div class="scroll"><table class="cn">
 <thead><tr><td></td>{head}</tr></thead><tbody>{body}</tbody></table></div></div></details>
@@ -647,56 +754,40 @@ def build_councillors(out, all_minutes):
 of it, so pairs shared between {min(shared.values())} and {max(shared.values())} of these votes.{" Not everyone served the whole time: " + "; ".join(part_term) + "." if part_term else ""}{" " + "; ".join(never) + " never voted together, so there is no line between them." if never else ""} People who often agree are placed
 next to each other around the circle; the placement has no other meaning. Amendments and separate clauses each count as a vote,
 so one issue can weigh heavily.{heavy} Line thickness grows faster than the percentage, to make
-differences easier to see. Votes come from the city's minutes. Names and photos are from the <a href="https://guelph.ca/city-government/mayor-and-council/city-council/">City of Guelph</a>. {e(credits)}</footer>""", extra_js=CHART_JS + alliance_network.SCRIPT))
+differences easier to see. Votes come from the city's minutes. Names and photos are from the <a href="{e(city.cfg['urls']['council_page'], quote=True)}">{e(city.get('municipality'))}</a>. {e(credits)}</footer>""", extra_js=CHART_JS + alliance_network.SCRIPT, city=city))
     return True
 
 
-def main():
-    out = p.ROOT / "site.tmp"
-    shutil.rmtree(out, ignore_errors=True)
-    (out / "transcripts").mkdir(parents=True)
-    (out / "minutes").mkdir()
-    cards, stamps, all_minutes = [], {}, {}
-    for d in sorted((x for x in p.RAW.iterdir() if x.is_dir()), reverse=True):
-        key = d.name
-        m = p.read_json(d / "meeting.json")
-        sumr, minutes = p.read_json(d / "summary.json"), p.read_json(d / "minutes.json")
-        if not (m and sumr and minutes):
-            continue
-        start = dt.datetime.strptime(m["StartDate"], "%Y/%m/%d %H:%M:%S")
-        docs = {x["Title"]: x for x in m["MeetingDocumentLink"]}
-        long_date = f"{start:%A, %B} {start.day}, {start.year}"
-        clock = f"{start:%I:%M %p}".lstrip("0")
-        official = f"{BASE}{docs['Minutes (HTML)']['Url']}"
-        agenda = docs.get("Revised Agenda (HTML)") or docs.get("Agenda (HTML)")
-        video = f"{BASE}/Players/ISIStandAlonePlayer.aspx?Id={m['ID']}"
-        meeting_page = f"{BASE}/Meeting.aspx?Id={m['ID']}&Agenda=PostMinutes&lang=English"
-        meta, segs = p.read_json(d / "transcript_meta.json"), p.read_json(d / "transcript.json")
-        starts = build_transcript(out, key, sumr, m, meta, segs, docs, long_date) if meta and segs else []
-        build_minutes(out, key, sumr, minutes, m, official, long_date)
-        motions = {x["id"]: x for x in minutes["motions"]}
-
-        decisions = ""
-        for x in sumr["decisions"]:
-            mo = motions[x["motion"]]
-            t, bookmark = item_time(minutes, mo["item"], mo["item_number"])
-            jumps = [f'<a href="minutes/{key}.html#{mo["id"]}">Minutes</a>']
-            if t is not None and starts:
-                anchor = next((s for s in starts if s >= t - 1), starts[-1])
-                jumps.insert(0, f'<a href="transcripts/{key}.html#t-{anchor}">Transcript at {hms(t)}</a>')
-            if bookmark:
-                jumps.insert(1 if starts and t is not None else 0, f'<a href="{e(meeting_page, quote=True)}#{bookmark}">Video at {hms(t)}</a>')
-            decisions += (f'<div class="decision"><div class="row"><b>{e(x["item"])}</b>{vote_badge(mo, minutes, key)}</div>'
-                          f'<p>{rich(x["detail"], motions, minutes, key)}</p><div class="jump">{"".join(jumps)}</div></div>')
-        debate = "".join(f"<li>{rich(b, motions, minutes, key)}</li>" for b in sumr.get("debate", []))
-        overview = "".join(f"<p>{rich(t, motions, minutes, key)}</p>" for t in sumr["overview"])
-        transcript_link = f'<a class="btn" href="transcripts/{key}.html">Read full transcript</a>' if starts else ""
-        video_link = f'<a href="{video}">Video</a>' if m.get("HasVideo") else ""
-        agenda_link = f'<a href="{BASE}{agenda["Url"]}">Agenda</a>' if agenda else ""
-        cards.append((start, f"""
-<details class="meeting" id="m-{key}">
+def meeting_card(city, key, m, sumr, minutes, starts, multi):
+    start = dt.datetime.fromisoformat(m["start"])
+    clock = f"{start:%I:%M %p}".lstrip("0")
+    links = m["links"]
+    official, meeting_page = links["official_minutes"], links["meeting_page"]
+    motions = {x["id"]: x for x in minutes["motions"]}
+    decisions = ""
+    for x in sumr["decisions"]:
+        mo = motions[x["motion"]]
+        t, bookmark = item_time(minutes, mo["item"], mo["item_number"])
+        jumps = [f'<a href="minutes/{key}.html#{mo["id"]}">Minutes</a>']
+        if t is not None and starts:
+            anchor = next((s for s in starts if s >= t - 1), starts[-1])
+            jumps.insert(0, f'<a href="transcripts/{key}.html#t-{anchor}">Transcript at {hms(t)}</a>')
+        if bookmark:
+            jumps.insert(1 if starts and t is not None else 0, f'<a href="{e(meeting_page, quote=True)}#{bookmark}">Video at {hms(t)}</a>')
+        decisions += (f'<div class="decision"><div class="row"><b>{e(x["item"])}</b>{vote_badge(mo, minutes, key)}</div>'
+                      f'<p>{rich(x["detail"], motions, minutes, key)}</p><div class="jump">{"".join(jumps)}</div></div>')
+    debate = "".join(f"<li>{rich(b, motions, minutes, key)}</li>" for b in sumr.get("debate", []))
+    overview = "".join(f"<p>{rich(t, motions, minutes, key)}</p>" for t in sumr["overview"])
+    transcript_link = f'<a class="btn" href="transcripts/{key}.html">Read full transcript</a>' if starts else ""
+    video_link = f'<a href="{links["video"]}">Video</a>' if links.get("video") else ""
+    agenda_link = f'<a href="{links["agenda"]}">Agenda</a>' if links.get("agenda") else ""
+    # The body shows on every card once a council has more than one kind of meeting on its site.
+    body_label = f'<span class="b">{e(m["body_name"])}</span>' if multi else ""
+    data = f' data-body="{m["body"]}" data-type="{e(cities.slugify(m["body_name"]), quote=True)}"' if multi else ""
+    return f"""
+<details class="meeting" id="m-{key}"{data}>
 <summary>
-<div class="date"><span class="d">{start:%b} {start.day}</span><span class="y">{start.year}</span><span class="t">{clock}</span></div>
+<div class="date"><span class="d">{start:%b} {start.day}</span><span class="y">{start.year}</span><span class="t">{clock}</span>{body_label}</div>
 <div class="head"><h2>{e(sumr['title'])}</h2><p>{e(sumr['subtitle'])}</p></div>
 <span class="chev" aria-hidden="true">&#9654;</span>
 </summary>
@@ -708,31 +799,103 @@ def main():
 <a href="minutes/{key}.html">Minutes</a>
 <a href="{official}">Official minutes</a>{agenda_link}</div>
 </div>
-</details>"""))
+</details>"""
+
+
+def filter_chips(city, metas):
+    """All · Council · each committee, when the site has more than one kind of meeting."""
+    types = {m["body_name"]: m["body"] for m in metas.values()}
+    if len(types) < 2:
+        return ""
+    chips = [("all", "All"), ("council", "Council")] + [(cities.slugify(n), n) for n, b in sorted(types.items()) if b == "committee"]
+    return ('<nav class="chips" data-filter aria-label="Show meetings of">'
+            + "".join(f'<a href="#show={k}" data-show="{k}" aria-current="{str(k == "all").lower()}">{e(n)}</a>' for k, n in chips) + "</nav>")
+
+
+def build_city(city, out):
+    """Render one council into out/ (which becomes site/<slug>/). Returns what the landing page needs."""
+    (out / "transcripts").mkdir(parents=True)
+    (out / "minutes").mkdir()
+    THEMED[city.slug] = theme.copy_to(city, out)
+    found, stamps, all_minutes, metas = [], {}, {}, {}
+    for d in sorted((x for x in city.raw.iterdir() if x.is_dir()), reverse=True) if city.raw.exists() else []:
+        m = p.read_json(d / "meeting.json")
+        sumr, minutes = p.read_json(d / "summary.json"), p.read_json(d / "minutes.json")
+        if m and sumr and minutes:
+            found.append((d, m, sumr, minutes))
+            metas[d.name] = m
+    multi = len({m["body_name"] for m in metas.values()}) > 1
+    cards = []
+    for d, m, sumr, minutes in found:
+        key = d.name
+        start = dt.datetime.fromisoformat(m["start"])
+        long_date = f"{start:%A, %B} {start.day}, {start.year}"
+        meta, segs = p.read_json(d / "transcript_meta.json"), p.read_json(d / "transcript.json")
+        starts = build_transcript(out, city, key, sumr, m, meta, segs, long_date) if meta and segs else []
+        build_minutes(out, city, key, sumr, minutes, m, m["links"]["official_minutes"], long_date)
+        cards.append((start, meeting_card(city, key, m, sumr, minutes, starts, multi)))
         stamps[key] = p.content_stamp(d)
         all_minutes[key] = minutes
-
-    has_chart = build_councillors(out, all_minutes)
-    years = sorted({k[:4] for k in all_minutes})
-    (out / "search.html").write_text(page("Search council records", search_page.page_body(years), extra_js=search_page.script()))
+    # Cards newest first; a committee and a council meeting on the same day keep the order of their start times.
+    cards.sort(key=lambda c: c[0], reverse=True)
+    pages = councillor_pages(city, all_minutes)
+    for i, (term, body, name) in enumerate(pages):
+        build_councillors(out, city, all_minutes, metas, term, body, name, councillors_nav(city, pages, term, body),
+                          save=city.votes / "clusters.json" if i == 0 else None)
+    has_chart = bool(pages)
+    years = sorted({m["start"][:4] for m in metas.values()})
+    (out / "search.html").write_text(page("Search council records", search_page.page_body(years, city), extra_js=search_page.script(city), city=city))
     dates = [when for when, _ in cards]
-    span = (f"{len(cards)} City Council meeting{'s' if len(cards) != 1 else ''}, {min(dates):%B %Y} to {max(dates):%B %Y}" if dates else "No meetings yet")
+    what = f"{city.get('council_short', 'Council')} meeting" if not multi else "meeting"
+    span = (f"{len(cards)} {what}{'s' if len(cards) != 1 else ''}, {min(dates):%B %Y} to {max(dates):%B %Y}" if dates else "No meetings yet")
     listing = ""
     for year, group in itertools.groupby(cards, key=lambda c: c[0].year):
         listing += f'<h2 class="sec year">{year}</h2>' + "".join(body for _, body in group)
-    (out / "index.html").write_text(page("Guelph City Council", f"""
-<header class="top"><div class="eyebrow">Guelph, Ontario</div><h1>City Council, in brief</h1>
+    emblem = '<img src="theme/emblem.png" alt="" width="56" height="56">' if THEMED[city.slug] else ""
+    (out / "index.html").write_text(page(city.council_name, f"""
+<header class="top"><div class="brand">{emblem}<div><div class="eyebrow">{e(city.get('place', city.name))}</div><h1>{e(city.get('council_short', 'Council'))}, in brief</h1></div></div>
 <p class="lede">{span}. Select one for a summary, decisions and the full transcript. Select a vote to see who voted which way.</p>
 {'<a class="cn-nav" href="councillors.html">See who votes with whom &rarr;</a>' if has_chart else ''}
-{search_page.mini_form()}</header>
+{search_page.mini_form()}{filter_chips(city, metas)}</header>
 {listing}
-<footer>Source: <a href="{BASE}">City of Guelph eSCRIBE</a>. Summaries are AI-generated from the official minutes and
-transcripts of the recordings, so check the minutes before relying on them. Vote counts come directly from the minutes.</footer>"""))
+<footer>Source: <a href="{e(city.records_url, quote=True)}">{e(city.cfg['urls'].get('records_name', city.records_url))}</a>.
+Vote counts and names come directly from the minutes.</footer>""", city=city))
+    latest = max(found, key=lambda f: f[1]["start"]) if found else None
+    return {"slug": city.slug, "name": city.get("display_name", city.name), "council": city.council_name,
+            "count": len(cards), "meetings": stamps, "themed": THEMED[city.slug],
+            "first": min(dates).date().isoformat() if dates else None,
+            "latest": {"key": latest[0].name, "date": latest[1]["start"][:10], "title": latest[2]["title"]} if latest else None}
+
+
+def build_root(out, built):
+    """The landing page at /, the all-councils search page, and _redirects."""
+    import build_root
+    build_root.write(out, built)
+
+
+def main(slugs=None):
+    """Build the named councils (default: all) and the root pages into site/. Others already built are kept."""
+    out = p.SITE.parent / "site.tmp"
+    shutil.rmtree(out, ignore_errors=True)
+    out.mkdir()
+    previous = p.read_json(p.STATE / "build.json") or {}
+    built = {}
+    for slug in cities.all_slugs():
+        city = cities.load(slug)
+        if slugs is None or slug in slugs:
+            built[slug] = build_city(city, out / slug)
+            p.log(f"Built {built[slug]['count']} {slug} meetings")
+        elif (p.SITE / slug).exists() and slug in previous.get("cities", {}):
+            shutil.copytree(p.SITE / slug, out / slug)
+            built[slug] = previous["cities"][slug]
+    build_root(out, built)
     shutil.rmtree(p.SITE, ignore_errors=True)
     out.rename(p.SITE)
-    p.write_json(p.STATE / "build.json", {"built_at": dt.datetime.now().isoformat(timespec="seconds"), "meetings": stamps, "fingerprint": p.site_fingerprint()})
-    p.log(f"Built {len(cards)} meetings into {p.SITE}")
+    p.write_json(p.STATE / "build.json", {"built_at": dt.datetime.now().isoformat(timespec="seconds"), "cities": built,
+                                          "fingerprint": p.site_fingerprint()})
+    p.log(f"Built {', '.join(built)} and the landing page into {p.SITE}")
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    main(sys.argv[1:] or None)

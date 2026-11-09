@@ -1,0 +1,50 @@
+{
+ "slug": "guelph",
+ "name": "Guelph",
+ "display_name": "Guelph",
+ "place": "Guelph, Ontario",
+ "council_name": "Guelph City Council",
+ "council_short": "City Council",
+ "municipality": "City of Guelph",
+ "adapter": "escribe",
+ "start_date": "2022-11-15",
+ "urls": {
+  "records": "https://pub-guelph.escribemeetings.com",
+  "records_name": "City of Guelph eSCRIBE",
+  "council_page": "https://guelph.ca/city-government/mayor-and-council/city-council/"
+ },
+ "escribe": {
+  "base": "https://pub-guelph.escribemeetings.com",
+  "isi_client": "guelph",
+  "vote_labels": {"for": ["voting in favour"], "against": ["voting against"], "other": ["conflict"]},
+  "audit_for_pattern": "Voting in Favour",
+  "attendance": {"start": ["Council:"], "absent": ["Absent:"], "end": ["Staff:"]}
+ },
+ "meeting_types": {
+  "City Council": {"body": "council", "slug": "", "label": "City Council"},
+  "Special Council Meeting": {"body": "council", "slug": "special-council", "label": "Special Council"},
+  "Special Council Meeting - Budget": {"body": "council", "slug": "budget", "label": "Budget"},
+  "Council Planning": {"body": "council", "slug": "council-planning", "label": "Council Planning"},
+  "Committee of the Whole": {"body": "committee", "slug": "committee-of-the-whole", "label": "Committee of the Whole"}
+ },
+ "main_type": "City Council",
+ "terms": [
+  {"id": "2022-2026", "label": "2022–2026", "start": "2022-11-15", "end": "2026-11-14", "seats": 13},
+  {"id": "2026-2030", "label": "2026–2030", "start": "2026-11-15", "end": "2030-11-14", "seats": 13}
+ ],
+ "redirect_from": [],
+ "theme": {
+  "accent": "#1f5f4a",
+  "accent_soft": "#e3eee8",
+  "duotone_dark": "#173f33",
+  "duotone_light": "#f7f5ef",
+  "photo": "source.jpg",
+  "photo_title": "Basilica of Our Lady Immaculate, Guelph",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Basilica_of_Our_Lady_Immaculate,_Guelph_-_Frontal_view.jpg",
+  "photo_artist": "Maksim Sokolov (maxergon.com)",
+  "photo_licence": "CC BY-SA 4.0",
+  "photo_licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "focal_point": [0.5, 0.22],
+  "header_crop": [0.0, 0.03, 1.0, 0.245]
+ }
+}

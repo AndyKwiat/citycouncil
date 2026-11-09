@@ -1,0 +1,927 @@
+{
+ "title": "City Council - July 21, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Chew",
+  "Downer",
+  "Gibson",
+  "Goller",
+  "Hauser",
+  "Klassen",
+  "Richardson"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "2",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 69.281,
+   "video_end": 95.453,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (5:48 p.m.).</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "31",
+   "number": "2.1",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": 95.453,
+   "video_end": 97.547,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "30",
+   "number": "3",
+   "title": "Authority to Move Into Closed Session",
+   "closed": false,
+   "video_start": 97.547,
+   "video_end": 455.394,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": null,
+   "number": "3.1",
+   "title": "Call to Order (closed meeting)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "3.2",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof (closed items)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "3.3",
+   "title": "Grant Agreement - 2026-399",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "3.4",
+   "title": "Return to Open Session",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "38",
+   "number": "4",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": 483.16,
+   "video_end": 2039.599,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (5:56 p.m.) and noted the following: </p>\n<p><strong>Grant Agreement - 2026-399</strong></p>\n<p>Council provided direction to staff.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "5",
+   "title": "Open Meeting",
+   "closed": false,
+   "video_start": 485.051,
+   "video_end": 611.349,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (5:58 p.m.).</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "5.1",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": 646.678,
+   "video_end": 655.131,
+   "notes": [
+    "<p>There were none.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "18",
+   "number": "6",
+   "title": "Staff Recognitions",
+   "closed": false,
+   "video_start": 655.131,
+   "video_end": 795.164,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "19",
+   "number": "6.1",
+   "title": "Guelph Barrier Free Committee - Access Recognition Awards",
+   "closed": false,
+   "video_start": 795.164,
+   "video_end": 1558.968,
+   "notes": [
+    "<p>Mayor Guthrie recognized Art Not Shame, Guelph Community Health Centre, Dynamic Balance - Natalie Cudney, Royal City Mission, Emma Loucks, Meagan Reid, and Rundle Dorosh for their achievements.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "24",
+   "number": "6.2",
+   "title": "Winner of the Men’s Black Belt All Weights & All Ages Overall Fighting Title at the Canadian Open Martial Arts Championships",
+   "closed": false,
+   "video_start": 1558.968,
+   "video_end": 1826.753,
+   "notes": [
+    "<p>Mayor Guthrie recognized Nathan Skoufis for his achievements.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "40",
+   "number": "6.3",
+   "title": "Gold Duke of Edinburgh Award",
+   "closed": false,
+   "video_start": 1826.753,
+   "video_end": 2080.397,
+   "notes": [
+    "<p>Mayor Guthrie recognized Noah Mason-Wetherill for his achievements.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "7",
+   "title": "Confirmation of Open Minutes",
+   "closed": false,
+   "video_start": 2069.162,
+   "video_end": 2114.272,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Post-Meeting Minutes - CPM_Jun09_2026 - English.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=75546"
+    },
+    {
+     "name": "Post-Meeting Minutes - SCM_Jun10_2026 - English.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=75547"
+    },
+    {
+     "name": "Post-Meeting Minutes - City Council_Jun23_2026 - English.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=75548"
+    },
+    {
+     "name": "Post-Meeting Minutes - CoW_Jun02_2026 - English.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=75549"
+    }
+   ],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "11",
+   "number": "8",
+   "title": "Committee of the Whole Consent Report",
+   "closed": false,
+   "video_start": 2114.272,
+   "video_end": 2139.256,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "28",
+   "number": "8.4",
+   "title": "2026-2029 Guelph Community Safety and Well-being Plan - 2026-277",
+   "closed": false,
+   "video_start": 2139.256,
+   "video_end": 2160.101,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "2026-2029 Guelph Community Safety and Well-being Plan - 2026-277.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=75543"
+    },
+    {
+     "name": "Attachment-1 2026-2029 Guelph Community Safety and Well-being Plan.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=75544"
+    },
+    {
+     "name": "Attachment-2 2026-2029 Guelph Community Safety and Well-being Plan Presentation.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=75545"
+    }
+   ],
+   "motions": [
+    "m4"
+   ]
+  },
+  {
+   "id": "41",
+   "number": "9",
+   "title": "Items for Discussion",
+   "closed": false,
+   "video_start": 2160.101,
+   "video_end": 2161.335,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "42",
+   "number": "9.1",
+   "title": "Site Specific Development Charges Bylaw Deferred Payment Agreement",
+   "closed": false,
+   "video_start": 2161.335,
+   "video_end": 2600.135,
+   "notes": [
+    "<p>Mayor Guthrie provided introductory remarks to the Site Specific Development Charges Bylaw Deferred Payment Agreement.</p>\n<p>The following delegates spoke:<br/>Paul Barson</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Letter To Mayor and Council - RCMPI Development Charges.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=75550"
+    }
+   ],
+   "motions": [
+    "m5"
+   ]
+  },
+  {
+   "id": "43",
+   "number": "9.2",
+   "title": "Public Space Use Bylaw Update",
+   "closed": false,
+   "video_start": 2600.135,
+   "video_end": 2611.698,
+   "notes": [
+    "<p>Mayor Guthrie provided introductory remarks to the Public Space Use Bylaw Update.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "44",
+   "number": "9.2.1",
+   "title": "Authority to Move Into Closed Session",
+   "closed": false,
+   "video_start": 2611.698,
+   "video_end": 6458.395,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ]
+  },
+  {
+   "id": "45",
+   "number": "",
+   "title": "",
+   "closed": false,
+   "video_start": 7334.951,
+   "video_end": 7424.795,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "45",
+   "number": "9.2.2",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": 7334.951,
+   "video_end": 7424.795,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (7:34 p.m.) and noted the following: </p>\n<p><strong>Public Space Use Bylaw Update</strong></p>\n<p>Council received advice.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "46",
+   "number": "9.2.3",
+   "title": "Open Meeting",
+   "closed": false,
+   "video_start": 7333.763,
+   "video_end": 9927.493,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7",
+    "m8",
+    "m9",
+    "m10",
+    "m11",
+    "m12",
+    "m13"
+   ]
+  },
+  {
+   "id": "15",
+   "number": "10",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ]
+  },
+  {
+   "id": "17",
+   "number": "12",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 10001.901,
+   "video_end": 10008.354,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "30",
+   "item_number": "3",
+   "item_title": "Authority to Move Into Closed Session",
+   "name": "",
+   "moved_by": "Richardson",
+   "seconded_by": "Klassen",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act, to consider: Grant Agreement - 2026-399 As per section 239(2)(h) of the Municipal Act, regarding information explicitly supplied in confidence to the municipality or local board by Canada, a province or territory or a Crown agency of any of them.",
+   "text_html": "<p>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act, to consider:</p>\n<p><strong>Grant Agreement - 2026-399</strong><br/>As per section 239(2)(h) of the Municipal Act, regarding information explicitly supplied in confidence to the municipality or local board by Canada, a province or territory or a Crown agency of any of them.</p>",
+   "post_html": "<p>The following items were considered:</p>",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "10",
+   "item_number": "7",
+   "item_title": "Confirmation of Open Minutes",
+   "name": "",
+   "moved_by": "Downer",
+   "seconded_by": "Allt",
+   "text": "That the minutes of the open Council Meetings held June 9, 10, and 23, and the minutes of the open Committee of the Whole meeting held June 2, 2026 be confirmed as recorded and without being read.",
+   "text_html": "<ol>\n<li>That the minutes of the open Council Meetings held June 9, 10, and 23, and the minutes of the open Committee of the Whole meeting held June 2, 2026 be confirmed as recorded and without being read.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "11",
+   "item_number": "8",
+   "item_title": "Committee of the Whole Consent Report",
+   "name": "",
+   "moved_by": "Goller",
+   "seconded_by": "Busuttil",
+   "text": "That the July 7, 2026 Committee of the Whole Consent Report, identified below, be adopted:",
+   "text_html": "<ol>\n<li>That the July 7, 2026 Committee of the Whole Consent Report, identified below, be adopted:</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": true,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m4",
+   "item": "28",
+   "item_number": "8.4",
+   "item_title": "2026-2029 Guelph Community Safety and Well-being Plan - 2026-277",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "That the 2026–2029 Guelph Community Safety and Well-being Plan, as included as Attachment-1 to report 2026-277, dated July 7, 2026, be adopted.",
+   "text_html": "<ol>\n<li>That the 2026–2029 Guelph Community Safety and Well-being Plan, as included as Attachment-1 to report 2026-277, dated July 7, 2026, be adopted.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": true,
+   "consent_source": true,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m5",
+   "item": "42",
+   "item_number": "9.1",
+   "item_title": "Site Specific Development Charges Bylaw Deferred Payment Agreement",
+   "name": "",
+   "moved_by": "Downer",
+   "seconded_by": "Caron",
+   "text": "That, prior to issuance of a building permit, staff be directed to offer, and if accepted, enter into a deferred payment agreement, pursuant to Section 27 of the Development Charges Act, 1997, for the development charges owing for the development of the property at 100 Crimea Street Unit 8A, with both the property owner, 531642 ONTARIO INC., and the tenant, Royal City Musical Productions Inc., as parties to the agreement; for a period of not more than fifteen (15) years with no interest accruing, with the initial payment owing on the first anniversary of the signed agreement; That Staff be directed as part of the next Development Charge Bylaw update to explore a non-residential development charge exemption policy and/or grant in lieu options for non-profits and charities that considers both ownership and tenancy operating models; and That, as part of this policy and program evaluation, staff include an assessment of how any new relief policy or program would apply to development charges owing under existing deferred payment agreements for non-residential development, including any implications with agreements already in place.",
+   "text_html": "<ol>\n<li>That, prior to issuance of a building permit, staff be directed to offer, and if accepted, enter into a deferred payment agreement, pursuant to Section 27 of the Development Charges Act, 1997, for the development charges owing for the development of the property at 100 Crimea Street Unit 8A, with both the property owner, 531642 ONTARIO INC., and the tenant, Royal City Musical Productions Inc., as parties to the agreement; for a period of not more than fifteen (15) years with no interest accruing, with the initial payment owing on the first anniversary of the signed agreement;</li>\n<li>That Staff be directed as part of the next Development Charge Bylaw update to explore a non-residential development charge exemption policy and/or grant in lieu options for non-profits and charities that considers both ownership and tenancy operating models; and</li>\n<li>That, as part of this policy and program evaluation, staff include an assessment of how any new relief policy or program would apply to development charges owing under existing deferred payment agreements for non-residential development, including any implications with agreements already in place.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m6",
+   "item": "44",
+   "item_number": "9.2.1",
+   "item_title": "Authority to Move Into Closed Session",
+   "name": "",
+   "moved_by": "Busuttil",
+   "seconded_by": "Allt",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act, to consider: Public Space Use Bylaw Update As per section 239(2)(f) advice that is subject to solicitor-client privilege, including communications necessary for that purpose.",
+   "text_html": "<ol>\n<li>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act, to consider:</li>\n</ol>\n<p><strong>Public Space Use Bylaw Update<br/></strong>As per section 239(2)(f) advice that is subject to solicitor-client privilege, including communications necessary for that purpose.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m7",
+   "item": "46",
+   "item_number": "9.2.3",
+   "item_title": "Open Meeting",
+   "name": "Main Motion",
+   "moved_by": "Downer",
+   "seconded_by": "Goller",
+   "text": "That staff be directed to bring back a report, reviewing the Public Space Bylaw, By-law Number (2024) – 20990, in Q1 of 2027, considering such things as: setback from a residential property line unauthorized structures or shelters on public spaces that immediately abut the property line of a supportive medical facility or transitional housing facility a unauthorized structures or shelters within the current boundary/periphery of a playground, waterpark, splash pad, or wading pool unauthorized structures or shelters in a Sensitive Public Area or as listed in Schedule A of the Public Space By-law structures or shelters near the boundary/periphery of a lake, river, pond or other watercourse And any other recommended revisions",
+   "text_html": "<ol>\n<li>That staff be directed to bring back a report, reviewing the Public Space Bylaw, By-law Number (2024) – 20990, in Q1 of 2027, considering such things as:\n<ol>\n<li>setback from a residential property line</li>\n<li>unauthorized structures or shelters on public spaces that immediately abut the property line of a supportive medical facility or transitional housing facility a</li>\n<li>unauthorized structures or shelters within the current boundary/periphery of a playground, waterpark, splash pad, or wading pool</li>\n<li>unauthorized structures or shelters in  a Sensitive Public Area or as listed in Schedule A of the Public Space By-law</li>\n<li>structures or shelters near the  boundary/periphery of a lake, river, pond or other watercourse</li>\n<li>And any other recommended revisions</li>\n</ol>\n</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m8",
+   "item": "46",
+   "item_number": "9.2.3",
+   "item_title": "Open Meeting",
+   "name": "Amendment to Main Motion",
+   "moved_by": "Caron",
+   "seconded_by": "Allt",
+   "text": "That staff be directed to bring back a report, reviewing the Public Space Bylaw, By-law Number (2024) – 20990, in Q2 of 2027, considering such things as: setback from a residential property line unauthorized structures or shelters on public spaces that immediately abut the property line of a supportive medical facility or transitional housing facility a unauthorized structures or shelters within the current boundary/periphery of a playground, waterpark, splash pad, or wading pool unauthorized structures or shelters in a Sensitive Public Area or as listed in Schedule A of the Public Space By-law structures or shelters near the boundary/periphery of a lake, river, pond or other watercourse And any other recommended revisions",
+   "text_html": "<ol>\n<li>That staff be directed to bring back a report, reviewing the Public Space Bylaw, By-law Number (2024) – 20990, in <strong>Q2 </strong>of 2027, considering such things as:</li>\n<ol>\n<li>setback from a residential property line</li>\n<li>unauthorized structures or shelters on public spaces that immediately abut the property line of a supportive medical facility or transitional housing facility a</li>\n<li>unauthorized structures or shelters within the current boundary/periphery of a playground, waterpark, splash pad, or wading pool</li>\n<li>unauthorized structures or shelters in  a Sensitive Public Area or as listed in Schedule A of the Public Space By-law</li>\n<li>structures or shelters near the  boundary/periphery of a lake, river, pond or other watercourse</li>\n<li>And any other recommended revisions</li>\n</ol>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m9",
+   "item": "46",
+   "item_number": "9.2.3",
+   "item_title": "Open Meeting",
+   "name": "Main Motion as Amended",
+   "moved_by": "Downer",
+   "seconded_by": "Goller",
+   "text": "That staff be directed to bring back a report, reviewing the Public Space Bylaw, By-law Number (2024) – 20990, in Q2 of 2027, considering such things as: setback from a residential property line unauthorized structures or shelters on public spaces that immediately abut the property line of a supportive medical facility or transitional housing facility a unauthorized structures or shelters within the current boundary/periphery of a playground, waterpark, splash pad, or wading pool unauthorized structures or shelters in a Sensitive Public Area or as listed in Schedule A of the Public Space By-law structures or shelters near the boundary/periphery of a lake, river, pond or other watercourse And any other recommended revisions",
+   "text_html": "<ol>\n<li>That staff be directed to bring back a report, reviewing the Public Space Bylaw, By-law Number (2024) – 20990, in Q2 of 2027, considering such things as:</li>\n<ol>\n<li>setback from a residential property line</li>\n<li>unauthorized structures or shelters on public spaces that immediately abut the property line of a supportive medical facility or transitional housing facility a</li>\n<li>unauthorized structures or shelters within the current boundary/periphery of a playground, waterpark, splash pad, or wading pool</li>\n<li>unauthorized structures or shelters in  a Sensitive Public Area or as listed in Schedule A of the Public Space By-law</li>\n<li>structures or shelters near the  boundary/periphery of a lake, river, pond or other watercourse</li>\n<li>And any other recommended revisions</li>\n</ol>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 1)",
+    "label": "12-1",
+    "for": 12,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew",
+     "Hauser"
+    ],
+    "against": [
+     "Caton"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m10",
+   "item": "46",
+   "item_number": "9.2.3",
+   "item_title": "Open Meeting",
+   "name": "First Additional Motion",
+   "moved_by": "Downer",
+   "seconded_by": "Goller",
+   "text": "That staff be directed on a pilot basis, with a budget of $260,000 for a seven month period from August 2026 to February 2027, funded from the tax operating contingency reserve (180), to create a dedicated response team that will work closely with community agencies on the growing volume of encampments in the City of Guelph. That staff report back ahead of the 2027 budget with an evaluation of the impact of this dedicated team, the evaluation of the need for a permanent service level increase and any recommended revisions to the bylaw. That the staff and the Mayor be directed to increase advocacy efforts with both the provincial and federal governments in alignment with the Ontario Big City Mayors’ Solve the Crisis Campaign. That the Mayor respectfully request that the County of Wellington, the Consolidated Municipal Service Manager for Social Service for the City of Guelph, hold an emergency Joint Social Services and Land Ambulance Committee (JSSLAC) meeting, or add an item to the September 2026 JSSLAC agenda, to discuss the growing volume of encampments within the City and seek to understand what solutions are being actioned to help transition people into permanent housing solutions.",
+   "text_html": "<ol>\n<li>That staff be directed on a pilot basis, with a budget of $260,000 for a seven month period from August 2026 to February 2027, funded from the tax operating contingency reserve (180), to create a dedicated response team that will work closely with community agencies on the growing volume of encampments in the City of Guelph. </li>\n<li>That staff report back ahead of the 2027 budget with an evaluation of the impact of this dedicated team, the evaluation of the need for a permanent service level increase and any recommended revisions to the bylaw.</li>\n<li>That the staff and the Mayor be directed to increase advocacy efforts with both the provincial and federal governments in alignment with the Ontario Big City Mayors’ Solve the Crisis Campaign.</li>\n<li>That the Mayor respectfully request that the County of Wellington, the Consolidated Municipal Service Manager for Social Service for the City of Guelph, hold an emergency Joint Social Services and Land Ambulance Committee (JSSLAC) meeting, or add an item to the September 2026 JSSLAC agenda, to discuss the growing volume of encampments within the City and seek to understand what solutions are being actioned to help transition people into permanent housing solutions.</li>\n</ol>",
+   "post_html": "<p>This motion was withdrawn by the mover and seconder.</p>",
+   "result": {
+    "text": "",
+    "label": "Withdrawn",
+    "for": null,
+    "against": null,
+    "outcome": "Withdrawn",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m11",
+   "item": "46",
+   "item_number": "9.2.3",
+   "item_title": "Open Meeting",
+   "name": "Second Additional Motion",
+   "moved_by": "Downer",
+   "seconded_by": "Goller",
+   "text": "That staff be directed on a pilot basis, with a budget of $260,000 for a seven month period from August 2026 to February 2027, funded from the tax operating contingency reserve (180), to create a dedicated response team that will work closely with community agencies on the growing volume of encampments in the City of Guelph. That staff report back ahead of the 2027 budget with an evaluation of the impact of this dedicated team, the evaluation of the need for a permanent service level increase. That the staff and the Mayor be directed to increase advocacy efforts with both the provincial and federal governments in alignment with the Ontario Big City Mayors’ Solve the Crisis Campaign. That the Mayor respectfully request that the County of Wellington, the Consolidated Municipal Service Manager for Social Service for the City of Guelph, hold an emergency Joint Social Services and Land Ambulance Committee (JSSLAC) meeting, or add an item to the September 2026 JSSLAC agenda, to discuss the growing volume of encampments within the City and seek to understand what solutions are being actioned to help transition people into permanent housing solutions.",
+   "text_html": "<ol>\n<li>That staff be directed on a pilot basis, with a budget of $260,000 for a seven month period from August 2026 to February 2027, funded from the tax operating contingency reserve (180), to create a dedicated response team that will work closely with community agencies on the growing volume of encampments in the City of Guelph. </li>\n<li>That staff report back ahead of the 2027 budget with an evaluation of the impact of this dedicated team, the evaluation of the need for a permanent service level increase.</li>\n<li>That the staff and the Mayor be directed to increase advocacy efforts with both the provincial and federal governments in alignment with the Ontario Big City Mayors’ Solve the Crisis Campaign.</li>\n<li>That the Mayor respectfully request that the County of Wellington, the Consolidated Municipal Service Manager for Social Service for the City of Guelph, hold an emergency Joint Social Services and Land Ambulance Committee (JSSLAC) meeting, or add an item to the September 2026 JSSLAC agenda, to discuss the growing volume of encampments within the City and seek to understand what solutions are being actioned to help transition people into permanent housing solutions.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m12",
+   "item": "46",
+   "item_number": "9.2.3",
+   "item_title": "Open Meeting",
+   "name": "Amendment to Second Additional Motion",
+   "moved_by": "Busuttil",
+   "seconded_by": "Caton",
+   "text": "That staff be directed on a pilot basis, with a budget of $260,000 for a seven month period from August 2026 to February 2027, funded from the tax operating contingency reserve (180), to create a dedicated response team that will work closely with community agencies on the growing volume of structures and encampments in the City of Guelph. That staff report back ahead of the 2027 budget with an evaluation of the impact of this dedicated team, the evaluation of the need for a permanent service level increase That the staff and the Mayor be directed to increase advocacy efforts with both the provincial and federal governments in alignment with the Ontario Big City Mayors’ Solve the Crisis Campaign. That the Mayor respectfully request that the County of Wellington, the Consolidated Municipal Service Manager for Social Service for the City of Guelph, hold an emergency Joint Social Services and Land Ambulance Committee (JSSLAC) meeting, or add an item to the September 2026 JSSLAC agenda, to discuss the growing volume of encampments within the City and seek to understand what solutions are being actioned to help transition people into permanent housing solutions.",
+   "text_html": "<ol>\n<li>That staff be directed on a pilot basis, with a budget of $260,000 for a seven month period from August 2026 to February 2027, funded from the tax operating contingency reserve (180), to create a dedicated response team that will work closely with community agencies on the growing volume of <strong>structures and</strong> encampments in the City of Guelph. </li>\n<li>That staff report back ahead of the 2027 budget with an evaluation of the impact of this dedicated team, the evaluation of the need for a permanent service level increase</li>\n<li>That the staff and the Mayor be directed to increase advocacy efforts with both the provincial and federal governments in alignment with the Ontario Big City Mayors’ Solve the Crisis Campaign.</li>\n<li>That the Mayor respectfully request that the County of Wellington, the Consolidated Municipal Service Manager for Social Service for the City of Guelph, hold an emergency Joint Social Services and Land Ambulance Committee (JSSLAC) meeting, or add an item to the September 2026 JSSLAC agenda, to discuss the growing volume of encampments within the City and seek to understand what solutions are being actioned to help transition people into permanent housing solutions.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Defeated (6 to 7)",
+    "label": "Defeated 6-7",
+    "for": 6,
+    "against": 7,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Allt",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Busuttil",
+     "Hauser"
+    ],
+    "against": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Downer",
+     "Billings",
+     "Richardson",
+     "Chew"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m13",
+   "item": "46",
+   "item_number": "9.2.3",
+   "item_title": "Open Meeting",
+   "name": "Second Additional Motion",
+   "moved_by": "Downer",
+   "seconded_by": "Goller",
+   "text": "That staff be directed on a pilot basis, with a budget of $260,000 for a seven month period from August 2026 to February 2027, funded from the tax operating contingency reserve (180), to create a dedicated response team that will work closely with community agencies on the growing volume of encampments in the City of Guelph. That staff report back ahead of the 2027 budget with an evaluation of the impact of this dedicated team, the evaluation of the need for a permanent service level increase. That the staff and the Mayor be directed to increase advocacy efforts with both the provincial and federal governments in alignment with the Ontario Big City Mayors’ Solve the Crisis Campaign. That the Mayor respectfully request that the County of Wellington, the Consolidated Municipal Service Manager for Social Service for the City of Guelph, hold an emergency Joint Social Services and Land Ambulance Committee (JSSLAC) meeting, or add an item to the September 2026 JSSLAC agenda, to discuss the growing volume of encampments within the City and seek to understand what solutions are being actioned to help transition people into permanent housing solutions.",
+   "text_html": "<ol>\n<li>That staff be directed on a pilot basis, with a budget of $260,000 for a seven month period from August 2026 to February 2027, funded from the tax operating contingency reserve (180), to create a dedicated response team that will work closely with community agencies on the growing volume of encampments in the City of Guelph. </li>\n<li>That staff report back ahead of the 2027 budget with an evaluation of the impact of this dedicated team, the evaluation of the need for a permanent service level increase.</li>\n<li>That the staff and the Mayor be directed to increase advocacy efforts with both the provincial and federal governments in alignment with the Ontario Big City Mayors’ Solve the Crisis Campaign.</li>\n<li>That the Mayor respectfully request that the County of Wellington, the Consolidated Municipal Service Manager for Social Service for the City of Guelph, hold an emergency Joint Social Services and Land Ambulance Committee (JSSLAC) meeting, or add an item to the September 2026 JSSLAC agenda, to discuss the growing volume of encampments within the City and seek to understand what solutions are being actioned to help transition people into permanent housing solutions.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m14",
+   "item": "15",
+   "item_number": "10",
+   "item_title": "By-laws",
+   "name": "",
+   "moved_by": "Hauser",
+   "seconded_by": "Goller",
+   "text": "That by-laws (2026) - 21248, (2026) - 21278, (2026) - 21279, (2026) - 21281, and (2026) - 21285 be approved subject to Section 284.11 (4) of the Municipal Act.",
+   "text_html": "<ol>\n<li>That by-laws (2026) - 21248, (2026) - 21278, (2026) - 21279, (2026) - 21281, and (2026) - 21285 be approved subject to Section 284.11 (4) of the Municipal Act. </li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m15",
+   "item": "17",
+   "item_number": "12",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Billings",
+   "seconded_by": "Caton",
+   "text": "That the meeting be adjourned (8:34 p.m.).",
+   "text_html": "<ol>\n<li>That the meeting be adjourned (8:34 p.m.). </li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}
