@@ -102,7 +102,7 @@ def save_meeting(city, m):
 
 def fetch_documents(city, m, force=False):
     d = city.raw / m["key"]
-    d.mkdir(parents=True, exist_ok=True)
+    save_meeting(city, m)  # first, so a folder never lacks its meeting.json even if a download fails
     links = m["links"]
     if links["official_minutes"] and (force or not (d / "minutes.html").exists()):
         body = get(links["official_minutes"])
