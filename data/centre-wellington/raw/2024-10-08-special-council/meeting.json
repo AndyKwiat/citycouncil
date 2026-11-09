@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/67483",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=862",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=kq6cPyF9S70"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=kq6cPyF9S70",
+    "youtube_id": "kq6cPyF9S70",
+    "title": "Special Council - 08 Oct 2024",
+    "duration": 2560
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

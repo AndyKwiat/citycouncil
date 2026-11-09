@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/78189",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=922",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=sRyJdwcqJcQ"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=sRyJdwcqJcQ",
+    "youtube_id": "sRyJdwcqJcQ",
+    "title": "Council (Budget) - 27 Oct 2025",
+    "duration": 13503
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

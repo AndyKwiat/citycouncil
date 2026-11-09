@@ -15,9 +15,25 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2026-03-30-1400-Council-Meeting/8489b1d4-8164-4d57-8f82-b44a00f280ab",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2026-03-30-1400-Council-Meeting/ede5ff4b-0359-47d8-9049-b4190148b88d",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-03-30-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=Qmj67EBMECk"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=Qmj67EBMECk",
+    "youtube_id": "Qmj67EBMECk",
+    "title": "City of Waterloo Council Meeting March 30, 2026 @ 2:00PM",
+    "duration": 4763
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=CDubQsc3jx0",
+    "youtube_id": "CDubQsc3jx0",
+    "title": "City of Waterloo Council Meeting March 30, 2026 @ 6:30PM",
+    "duration": 2575
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

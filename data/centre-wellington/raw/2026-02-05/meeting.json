@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/80291",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=1017",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=4veWUsp-GCU"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=4veWUsp-GCU",
+    "youtube_id": "4veWUsp-GCU",
+    "title": "Council - 05 Feb 2026",
+    "duration": 9691
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/77664",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=920",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=ZchcyRNkoUg"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=ZchcyRNkoUg",
+    "youtube_id": "ZchcyRNkoUg",
+    "title": "Council - 16 Jun 2025",
+    "duration": 26830
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

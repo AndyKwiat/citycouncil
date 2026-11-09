@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-12-04-1400-Council-Meeting/29b74440-b4d9-4432-a58f-b0f901358f5e",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2023-12-04-1400-Council-Meeting/6a58653b-7983-4d2c-8cda-b0ca0118defd",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-12-04-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=xLgGxhrrMWc"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=xLgGxhrrMWc",
+    "youtube_id": "xLgGxhrrMWc",
+    "title": "City of Waterloo Council Meeting December 4, 2023 @ 4:00PM",
+    "duration": 6084
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

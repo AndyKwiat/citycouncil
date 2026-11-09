@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/77667",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=914",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=EPJYSSI-uls"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=EPJYSSI-uls",
+    "youtube_id": "EPJYSSI-uls",
+    "title": "Council - 14 Apr 2025",
+    "duration": 14907
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "id": "865",
+ "city": "centre-wellington",
+ "key": "2024-11-05-committee-of-the-whole",
+ "type": "Committee of the Whole (Budget)",
+ "body": "committee",
+ "body_name": "Committee of the Whole",
+ "title": "Committee of the Whole (Budget)",
+ "start": "2024-11-05T17:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": null,
+  "minutes_pdf": null,
+  "agenda": null,
+  "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=865",
+  "video": "https://www.youtube.com/watch?v=wGKrxw1oc24"
+ },
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=wGKrxw1oc24",
+    "youtube_id": "wGKrxw1oc24",
+    "title": "Committee of the Whole (Budget) - 05 Nov 2024",
+    "duration": 13389
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": false,
+ "source_hashes": {}
+}

@@ -15,9 +15,25 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2026-10-05-1400-Council-Meeting/e8676865-9e46-4cb5-b532-b4fa00f47167",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2026-10-05-1400-Council-Meeting/62639498-95c8-47af-9a79-b4d700d692ab",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-10-05-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=ubcgz1_AK2M"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=ubcgz1_AK2M",
+    "youtube_id": "ubcgz1_AK2M",
+    "title": "City of Waterloo Council Meeting October 5, 2026 @ 3:00PM",
+    "duration": 6865
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Gfqgm8a0vi4",
+    "youtube_id": "Gfqgm8a0vi4",
+    "title": "City of Waterloo Council Meeting October 5, 2026 @ 6:30PM",
+    "duration": 3513
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/51867",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=690",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=aGzaus2NAjw"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=aGzaus2NAjw",
+    "youtube_id": "aGzaus2NAjw",
+    "title": "Committee of the Whole - 13 Feb 2023",
+    "duration": 5328
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/80790",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=991",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=M9YYQ-X3AEc"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=M9YYQ-X3AEc",
+    "youtube_id": "M9YYQ-X3AEc",
+    "title": "Council - 26 Jan 2026",
+    "duration": 11344
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

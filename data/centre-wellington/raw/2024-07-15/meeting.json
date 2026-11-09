@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/66295",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=822",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=4wJJB22EuMg"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=4wJJB22EuMg",
+    "youtube_id": "4wJJB22EuMg",
+    "title": "Council - 15 Jul 2024",
+    "duration": 11934
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

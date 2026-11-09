@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2024-01-22-1400-Council-Meeting/28637fce-413e-4c69-885e-b12301338093",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2024-01-22-1400-Council-Meeting/8082172e-6c78-464c-9f09-b0fc00e72c58",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2024-01-22-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=lkthANqwvLU"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=lkthANqwvLU",
+    "youtube_id": "lkthANqwvLU",
+    "title": "City of Waterloo Council Meeting January 22, 2024 @ 2:00PM",
+    "duration": 9162
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

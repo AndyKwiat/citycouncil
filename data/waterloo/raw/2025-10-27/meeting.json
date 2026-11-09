@@ -15,9 +15,25 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-10-27-1400-Council-Meeting/d40ce57a-a326-4c36-a12c-b3f7015c313c",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2025-10-27-1400-Council-Meeting/d96757a6-9b09-47d9-bf04-b37f01264331",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-10-27-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=fQ8vDUMh-uE"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=fQ8vDUMh-uE",
+    "youtube_id": "fQ8vDUMh-uE",
+    "title": "City of Waterloo Council Meeting October 27, 2025 @ 4:15PM",
+    "duration": 1100
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=YE9Ps0AYoNg",
+    "youtube_id": "YE9Ps0AYoNg",
+    "title": "City of Waterloo Council Meeting October 27, 2025 @ 6:30PM",
+    "duration": 9374
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

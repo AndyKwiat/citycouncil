@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2026-06-15-1400-Council-Meeting/bc7e0ee1-c485-4357-8967-b48700f8153d",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2026-06-15-1400-Council-Meeting/e08cedc9-75a9-4c6d-92c1-b46600da474e",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-06-15-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=zsCDMviNh1c"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=zsCDMviNh1c",
+    "youtube_id": "zsCDMviNh1c",
+    "title": "City of Waterloo Council Meeting June 15, 2026 @ 2:00PM",
+    "duration": 8956
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

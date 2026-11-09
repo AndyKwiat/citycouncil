@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2024-05-13-1400-Council-Meeting/cf001e96-5cda-43de-8291-b19b00feb88b",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2024-05-13-1400-Council-Meeting/0bae6f74-8bdb-469f-9080-b16b013c07fb",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2024-05-13-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=daaqOsXHn80"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=daaqOsXHn80",
+    "youtube_id": "daaqOsXHn80",
+    "title": "City of Waterloo Council Meeting May 13, 2024 @ 2:00PM",
+    "duration": 3013
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

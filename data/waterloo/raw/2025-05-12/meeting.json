@@ -15,9 +15,25 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-05-12-1400-Council-Meeting/64c1b503-8ecc-45b5-a3d5-b2fa00f6d9a0",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2025-05-12-1400-Council-Meeting/ead8258d-48d8-4c53-93b1-b2d700f0ae14",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-05-12-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=3Yjjlx2_8PY"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=3Yjjlx2_8PY",
+    "youtube_id": "3Yjjlx2_8PY",
+    "title": "City of Waterloo Council Meeting May 12, 2025 @ 2:00PM",
+    "duration": 5089
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=o0KQEv1uph8",
+    "youtube_id": "o0KQEv1uph8",
+    "title": "City of Waterloo Council Meeting May 12, 2025 @ 6:30PM",
+    "duration": 2028
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

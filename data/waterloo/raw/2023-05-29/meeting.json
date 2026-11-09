@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "id": "2023-05-29-1400-Council-Meeting",
+ "city": "waterloo",
+ "key": "2023-05-29",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2023-05-29T14:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": null,
+  "minutes_pdf": null,
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2023-05-29-1400-Council-Meeting/3c0fed0e-01f0-4ca3-8d01-b00601323595",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-05-29-1400-Council-Meeting",
+  "video": "https://www.youtube.com/watch?v=T3vbDcgQgTQ"
+ },
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=T3vbDcgQgTQ",
+    "youtube_id": "T3vbDcgQgTQ",
+    "title": "City of Waterloo Council Meeting May 29, 2023 @ 3:00PM",
+    "duration": 11898
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": false,
+ "source_hashes": {}
+}

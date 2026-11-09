@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2024-11-18-1300-Council-Meeting/022a97b0-9687-4dde-b7c4-b249012e7913",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2024-11-18-1300-Council-Meeting/42119deb-e9b7-454b-83e5-b229011b5ff7",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2024-11-18-1300-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=oL1iCS-j8Bo"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=oL1iCS-j8Bo",
+    "youtube_id": "oL1iCS-j8Bo",
+    "title": "City of Waterloo Council Meeting November 18, 2024 @ 6:30PM",
+    "duration": 5587
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

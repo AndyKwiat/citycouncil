@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-03-24-1400-Council-Meeting/1eda0318-5d10-4f4f-bfda-b2c00145eb6f",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2025-03-24-1400-Council-Meeting/6f683230-fb40-4093-a390-b2a60114328e",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-03-24-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=f-I5FgLjfhw"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=f-I5FgLjfhw",
+    "youtube_id": "f-I5FgLjfhw",
+    "title": "City of Waterloo Council Meeting March 24, 2025 @ 2:00PM",
+    "duration": 4245
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

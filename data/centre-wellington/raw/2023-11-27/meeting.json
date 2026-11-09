@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/59302",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=703",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=1_uw4FeveZg"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=1_uw4FeveZg",
+    "youtube_id": "1_uw4FeveZg",
+    "title": "Council - 27 Nov 2023",
+    "duration": 14899
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

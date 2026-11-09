@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-11-17-1400-Council-Meeting/a61b1e74-b3a9-481b-a6a3-b3d8012fa11c",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2025-11-17-1400-Council-Meeting/23c60bfd-e4bb-42e4-b611-b394014cc011",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-11-17-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=uCz6AMWItTE"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=uCz6AMWItTE",
+    "youtube_id": "uCz6AMWItTE",
+    "title": "City of Waterloo Council Meeting November 17, 2025 @ 6:30PM",
+    "duration": 9989
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

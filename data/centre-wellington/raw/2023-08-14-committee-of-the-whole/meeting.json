@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/55698",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=709",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=gNPiHa5XNFY"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=gNPiHa5XNFY",
+    "youtube_id": "gNPiHa5XNFY",
+    "title": "Committee of the Whole - 14 Aug 2023",
+    "duration": 13477
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2024-12-16-1400-Council-Meeting/0fbbbe55-c906-4105-8658-b26c0134cf43",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2024-12-16-1400-Council-Meeting/953a96ad-9108-4fd7-8b79-b244013fbf8f",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2024-12-16-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=H5Ma6sJYYO0"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=H5Ma6sJYYO0",
+    "youtube_id": "H5Ma6sJYYO0",
+    "title": "City of Waterloo Council Meeting December 16, 2024 @ 3:00PM",
+    "duration": 7524
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

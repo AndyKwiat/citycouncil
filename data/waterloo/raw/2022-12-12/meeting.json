@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2022-12-12-1400-Council-Meeting/eed27a4e-cf6b-4ade-a5df-af8f0141abe7",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2022-12-12-1400-Council-Meeting/6fbb1585-c5a2-4c5c-9db6-af6600f43ff8",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2022-12-12-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=jUUyzqCEHg0"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=jUUyzqCEHg0",
+    "youtube_id": "jUUyzqCEHg0",
+    "title": "City of Waterloo Council Meeting December 12, 2022 @ 3:00PM",
+    "duration": 11219
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

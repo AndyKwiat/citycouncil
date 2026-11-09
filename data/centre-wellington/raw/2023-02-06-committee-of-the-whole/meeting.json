@@ -15,9 +15,25 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/58985",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=688",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=W9i4_k4IvC8"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=W9i4_k4IvC8",
+    "youtube_id": "W9i4_k4IvC8",
+    "title": "Committee of the Whole (continued) - 06 Feb 2023",
+    "duration": 4001
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=16_QWkNhcrY",
+    "youtube_id": "16_QWkNhcrY",
+    "title": "Committee of the Whole - 06 Feb 2023",
+    "duration": 28845
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

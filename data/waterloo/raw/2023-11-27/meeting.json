@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-11-27-1400-Council-Meeting/b6dcd2a3-8b1b-4a6c-93f2-b0f901353a84",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2023-11-27-1400-Council-Meeting/ce627265-9f83-465e-a471-b0bc01480317",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-11-27-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=QrQdkW-tG-k"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=QrQdkW-tG-k",
+    "youtube_id": "QrQdkW-tG-k",
+    "title": "City of Waterloo Council Meeting November 27, 2023 @ 2:00PM",
+    "duration": 8408
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

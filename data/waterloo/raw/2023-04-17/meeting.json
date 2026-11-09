@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-04-17-1400-Council-Meeting/b986c930-db10-42ec-9b25-b00c011b8396",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2023-04-17-1400-Council-Meeting/9402720f-aa74-402c-a2ad-afdc013605af",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-04-17-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=XFtPnZWcLhM"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=XFtPnZWcLhM",
+    "youtube_id": "XFtPnZWcLhM",
+    "title": "City of Waterloo Council Meeting April 17, 2023 @ 2:00PM",
+    "duration": 6330
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

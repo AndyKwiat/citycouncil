@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-12-08-1400-Council-Meeting/40f19d1e-a584-4fb6-95fa-b3d801306dd5",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2025-12-08-1400-Council-Meeting/1cdc7d1e-b124-4980-8489-b3ac01313080",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-12-08-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=IPFBIBH-OcU"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=IPFBIBH-OcU",
+    "youtube_id": "IPFBIBH-OcU",
+    "title": "City of Waterloo Council Meeting December 8, 2025 @ 2:00PM",
+    "duration": 11885
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

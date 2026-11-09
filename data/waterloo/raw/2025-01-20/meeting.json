@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-01-20-1400-Council-Meeting/458dbe3f-2b7f-4565-8f32-b29001312d40",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2025-01-20-1400-Council-Meeting/3745a60c-0c60-4ed6-bc82-b267012b9c3b",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-01-20-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=AbuTgAEqmzI"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=AbuTgAEqmzI",
+    "youtube_id": "AbuTgAEqmzI",
+    "title": "City of Waterloo Council Meeting January 20, 2025 @ 3:30PM",
+    "duration": 4860
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

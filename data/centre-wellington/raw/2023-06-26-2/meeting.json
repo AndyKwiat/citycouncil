@@ -1,0 +1,40 @@
+{
+ "version": 2,
+ "id": "742",
+ "city": "centre-wellington",
+ "key": "2023-06-26-2",
+ "type": "Council",
+ "body": "council",
+ "body_name": "Township Council",
+ "title": "Council - 26 Jun 2023 - Part 2",
+ "start": "2023-06-26T17:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": null,
+  "minutes_pdf": null,
+  "agenda": null,
+  "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=742",
+  "video": "https://www.youtube.com/watch?v=j-3wowgnMd0"
+ },
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=j-3wowgnMd0",
+    "youtube_id": "j-3wowgnMd0",
+    "title": "Council - 26 Jun 2023",
+    "duration": 15210
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=D5Bl90F8Q8Y",
+    "youtube_id": "D5Bl90F8Q8Y",
+    "title": "Council - 26 Jun 2023 - Part 2",
+    "duration": 3396
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": false,
+ "source_hashes": {}
+}

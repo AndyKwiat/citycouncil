@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2026-04-20-1400-Council-Meeting/831bdd56-2668-4b82-857a-b45601393b10",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2026-04-20-1400-Council-Meeting/290f9e97-d967-44ba-b486-b427013663dd",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-04-20-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=CuI78nb21Uc"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=CuI78nb21Uc",
+    "youtube_id": "CuI78nb21Uc",
+    "title": "City of Waterloo Council Meeting April 20, 2026 @ 3:30PM",
+    "duration": 3465
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

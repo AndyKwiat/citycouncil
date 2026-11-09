@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "id": "2026-11-02-1500-Council-Meeting",
+ "city": "waterloo",
+ "key": "2026-11-02",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2026-11-02T15:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": null,
+  "minutes_pdf": null,
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2026-11-02-1500-Council-Meeting/96ddacd2-f8e2-4ab5-959d-b4eb01358f34",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-11-02-1500-Council-Meeting",
+  "video": "https://www.youtube.com/watch?v=WHOCLwpaVOY"
+ },
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=WHOCLwpaVOY",
+    "youtube_id": "WHOCLwpaVOY",
+    "title": "City of Waterloo Council Meeting November 2, 2026 @ 3:00PM",
+    "duration": 8314
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": false,
+ "source_hashes": {}
+}

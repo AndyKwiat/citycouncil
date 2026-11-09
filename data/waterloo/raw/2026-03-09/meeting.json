@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2026-03-09-1400-Council-Meeting/3ee185a3-2ae5-415f-b7e9-b42e0148bfa6",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2026-03-09-1400-Council-Meeting/7209ffc4-6f50-478c-977d-b40401417320",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-03-09-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=iK-yUl40R7A"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=iK-yUl40R7A",
+    "youtube_id": "iK-yUl40R7A",
+    "title": "City of Waterloo Council Meeting March 9, 2026 @ 3:00PM",
+    "duration": 1744
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2026-01-19-1400-Council-Meeting/d56acba8-18d0-4317-bfd6-b3fc012f16af",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2026-01-19-1400-Council-Meeting/4ccda1fc-8f14-42b4-be5a-b3cc01413086",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-01-19-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=P1eBeQSp_fQ"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=P1eBeQSp_fQ",
+    "youtube_id": "P1eBeQSp_fQ",
+    "title": "City of Waterloo Council Meeting January 19, 2026 @ 4:00PM",
+    "duration": 15233
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/67482",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=859",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=vH6CIsPAglc"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=vH6CIsPAglc",
+    "youtube_id": "vH6CIsPAglc",
+    "title": "Committee of the Whole (Budget)- 19 Sep 2024",
+    "duration": 15009
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

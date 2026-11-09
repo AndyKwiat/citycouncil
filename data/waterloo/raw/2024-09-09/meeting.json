@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2024-09-09-1400-Council-Meeting/c3cd0699-721b-4973-9521-b2030144bf5f",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2024-09-09-1400-Council-Meeting/5352ffe5-4d73-4815-90d5-b1db0135bed7",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2024-09-09-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=6c0NJ-cHDbI"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=6c0NJ-cHDbI",
+    "youtube_id": "6c0NJ-cHDbI",
+    "title": "City of Waterloo Council Meeting September 9, 2024 @ 6:30PM",
+    "duration": 4181
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

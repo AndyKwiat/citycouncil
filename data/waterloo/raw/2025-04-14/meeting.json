@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-04-14-1400-Council-Meeting/7d43858c-dffe-425f-b3a7-b2dd00ff85e4",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2025-04-14-1400-Council-Meeting/d31d2ce9-899f-4cf9-9664-b2bb01401dc1",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-04-14-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=p45CiTiuJp8"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=p45CiTiuJp8",
+    "youtube_id": "p45CiTiuJp8",
+    "title": "City of Waterloo Council Meeting April 14, 2025 @ 4:00PM",
+    "duration": 7658
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

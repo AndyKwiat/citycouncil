@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-03-20-1400-Council-Meeting/d51c6686-7016-4fdc-925e-afeb01408aa8",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2023-03-20-1400-Council-Meeting/c2234298-3733-4eb7-8963-afcb0104d969",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-03-20-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=ByLcbzIWcHU"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=ByLcbzIWcHU",
+    "youtube_id": "ByLcbzIWcHU",
+    "title": "City of Waterloo Council Meeting March 20, 2023 @ 2:00PM",
+    "duration": 16758
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

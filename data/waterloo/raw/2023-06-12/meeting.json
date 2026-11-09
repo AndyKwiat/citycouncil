@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-06-12-1400-Council-Meeting/70206f16-673c-4ef5-a84f-b084013ccb62",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2023-06-12-1400-Council-Meeting/2f0f0d63-d203-4487-aa5d-b01c00e11b55",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-06-12-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=KWdfl-nrQlo"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=KWdfl-nrQlo",
+    "youtube_id": "KWdfl-nrQlo",
+    "title": "City of Waterloo Council Meeting June 12, 2023 @ 4:00PM",
+    "duration": 3944
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

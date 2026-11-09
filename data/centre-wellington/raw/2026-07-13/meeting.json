@@ -15,9 +15,19 @@
   "minutes_pdf": "https://centrewellington.civicweb.net/document/82810",
   "agenda": null,
   "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=1001",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=RuK61YqFcSc"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=RuK61YqFcSc",
+    "youtube_id": "RuK61YqFcSc",
+    "title": "Council - 13 Jul 2026",
+    "duration": 10791
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

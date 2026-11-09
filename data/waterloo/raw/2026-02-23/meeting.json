@@ -15,9 +15,25 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2026-02-23-1400-Council-Meeting/b1f8cb08-fe67-4173-a5a3-b417011b0252",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2026-02-23-1400-Council-Meeting/fb336481-7269-4ec1-bedc-b3f60112c881",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-02-23-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=vnMdDdLZLEo"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=vnMdDdLZLEo",
+    "youtube_id": "vnMdDdLZLEo",
+    "title": "City of Waterloo Council Meeting February 23, 2026 @ 2:00PM",
+    "duration": 1740
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=uC_m0H2ZlbE",
+    "youtube_id": "uC_m0H2ZlbE",
+    "title": "City of Waterloo Council Meeting February 23, 2026 @ 6:30PM",
+    "duration": 3392
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

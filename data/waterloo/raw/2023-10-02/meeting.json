@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-10-02-1400-Council-Meeting/72064848-99fb-4ea9-93a5-b0ad0136e812",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2023-10-02-1400-Council-Meeting/e9d9ae4c-d1ab-4f69-bc77-b08c00db2ceb",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-10-02-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=jvNANSKW2hA"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=jvNANSKW2hA",
+    "youtube_id": "jvNANSKW2hA",
+    "title": "City of Waterloo Council Meeting October 2, 2023 @ 6:30PM",
+    "duration": 11290
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {

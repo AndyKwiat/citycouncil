@@ -15,9 +15,19 @@
   "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2024-05-27-1400-Council-Meeting/d6dcb991-bb6e-40bd-9760-b19b00fed23f",
   "agenda": "https://events.waterloo.ca/meetings/Detail/2024-05-27-1400-Council-Meeting/5eaa9915-2ceb-4141-963c-b1790121a198",
   "meeting_page": "https://events.waterloo.ca/meetings/Detail/2024-05-27-1400-Council-Meeting",
-  "video": null
+  "video": "https://www.youtube.com/watch?v=dlGp23D6CyQ"
  },
- "video": null,
+ "video": {
+  "provider": "youtube",
+  "parts": [
+   {
+    "url": "https://www.youtube.com/watch?v=dlGp23D6CyQ",
+    "youtube_id": "dlGp23D6CyQ",
+    "title": "City of Waterloo Council Meeting May 27, 2024 @ 4:00PM",
+    "duration": 4598
+   }
+  ]
+ },
  "term": "2022-2026",
  "minutes_posted": true,
  "source_hashes": {
