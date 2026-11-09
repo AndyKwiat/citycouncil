@@ -1,0 +1,615 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 10,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [
+  "Wright"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman declared a conflict with respect to items 5a) due to a conflict of interest as it relates to place of employment.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4a",
+   "number": "4a",
+   "title": "HAF Community Planning Permit",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>System Initiative: Second Draft</p>",
+    "<p>Community Planning Permit By-law</p>",
+    "<p>and Complementary Urban Design</p>",
+    "<p>Guidelines</p>",
+    "<p>Report No.: IPPW2025-037</p>",
+    "<p>Prepared By: Tanja Curic</p>",
+    "<p>David Riley, Principal, SGL Planning &amp; Design Inc. gave a presentation outlining the Community Planning Permit System, including how it plans to streamline the approval process and the draft by-law changes. David Riley then responded to questions of Council. Tanja Curic also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "4b",
+   "number": "4b",
+   "title": "Official Plan Review: Resolution of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>deferred sites from Phase 1 and</p>",
+    "<p>modification requests</p>",
+    "<p>Report No.: IPPW2025-026</p>",
+    "<p>Prepared By: Ric Martins and Adam Zufferli</p>",
+    "<p>Ward No.: City-Wide</p>",
+    "<p>Ric Martins gave a brief presentation outlining the resolution of the deferred sites. He then responded to questions of Council.</p>",
+    "<p>(Time: 2:47 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Informal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "5a",
+   "number": "5a",
+   "title": "Barrel Yards - 6 Merchant",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(OPA65 &amp; Z-25-12) and 2 &amp; 8</p>",
+    "<p>Father David Bauer Drive (OPA66 &amp;</p>",
+    "<p>Z-25-13)</p>",
+    "<p>Prepared by: Amanda Wyszynski</p>",
+    "<p>Ward No.: Ward 7 - Uptown</p>",
+    "<p>Amanda Wyszynski gave a presentation outlining the proposed developments, including renderings of the proposed new towers, as well as the Official Plan and Zoning By-law amendments being requested. She then responded to questions of Council.</p>",
+    "<p>Kristen Barisdale, GSP Group gave a presentation further detailing the proposed development, offering some additional site context. She then responded to questions of Council. Alex Vandersluis, Auburn Developments also responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Informal Public Meeting and indicated that staff will review the issues and report back to Council at a later date.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "5b",
+   "number": "5b",
+   "title": "170 Columbia St W (OPA67 &",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Z-25-14) and 180 Columbia St W</p>",
+    "<p>(OPA68 &amp; Z-25-15)</p>",
+    "<p>Prepared by: Amanda Wyszynski</p>",
+    "<p>Ward No.: Ward 6 – Central Columbia</p>",
+    "<p>Amanda Wyszynski gave a presentation detailing the proposed development, offering a breakdown of the different phases and potential renderings, as well as the proposed amendments to the Official Plan and Zoning By-law being requested. She then responded to questions of Council. Joel Cotter also responded to questions of Council.</p>",
+    "<p>David Galbraith, UP Consulting gave a presentation further detailing the proposed development, offering additional site and policy context. He then responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Informal Public Meeting and indicated that staff will review the issues and report back to Council at a later date.</p>",
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "5c",
+   "number": "5c",
+   "title": "Zone Change Application Z-16-14,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Draft Plan of Subdivision 30T-16402,</p>",
+    "<p>2115881 Ontario Limited (Mattamy Homes),</p>",
+    "<p>556, 560, 576 Conservation Dr</p>",
+    "<p>Report No.: IPPW2025-041</p>",
+    "<p>Prepared By: John Vos</p>",
+    "<p>Ward No.: Ward 2, Northwest</p>",
+    "<p>John Vos gave a presentation outlining the proposed development, including site specific zoning amendments, and the modifications to the conditions of Subdivision that were not in the staff report. He then responded to questions of Council. Joel Cotter and Ron Ormson also responded to questions of Council.</p>",
+    "<p>Kristen Barisdale, GSP Group gave a presentation further outlining the proposed development, specifically the site specific zoning amendments being requested by the applicant. Brad Trussler, Mattamy Homes responded to questions of Council. Kristen Barisdale also responded to questions of Council. John Vos responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>",
+    "<p>Following the failed vote, the chair called the vote on the original motion tabled by Councillor Bodaly.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3",
+    "m4",
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Vasic wanted to highlight a new business by a first year University of Waterloo Student called Just Barely Baked, and provided a treat for Council. They met earlier today, and their story aligns with a book Councillor Vasic has been reading by Robin Wall Kimmerer, an Indigenous environmental biologist. The book talks about how the economy is based on transaction, and there is even an inherent reciprocity with gifts. The student’s business model is based on connecting with people, information sharing, and a kind of community.</p>",
+    "<p>Councillor Vasic also wanted to highlight an email they received from the THEMUSEUM about a talk with Alex Sarian, author of The Audacity of Relevance, and president and CEO of Arts Commons in Calgary. The talk is on October 21, 2025, and tickets are by donation, or you can connect with the CEO if you want a table. He talks about the social impact and importance of the arts, especially in times of crisis.</p>",
+    "<p>Councillor Freeman noticed that Engage WR doesn’t always include all the studies for planning applications, likely due to their size. She wanted to know if that’s something that can change, as she likes to read them before Council Meetings. Joel Cotter, Director of Planning, offered to take this away and report back.</p>",
+    "<p>Mayor McCabe mentioned that Jazz Fest is this weekend at the Waterloo City Centre, as well as Afro Vibes in downtown Kitchener.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 9
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, September 8, 2025</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 9
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4a",
+   "item_number": "4a",
+   "item_title": "HAF Community Planning Permit",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "1. That Council receive report IPPW2025-037 for information. 2. That Council direct staff to consult with the public and interested parties on the second draft Community Planning Permit By-law and complementary Urban Design Guidelines.",
+   "text_html": "<p>1. That Council receive report IPPW2025-037 for information.</p><p>2. That Council direct staff to consult with the public and interested parties on the second draft Community Planning Permit By-law and complementary Urban Design Guidelines.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "4b",
+   "item_number": "4b",
+   "item_title": "Official Plan Review: Resolution of",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Bodaly",
+   "text": "1. That report IPPW2025-026 be approved. 2. That Council request the Ontario Ministry of Municipal Affairs and Housing to make modifications to Official Plan Amendment 58 to add four new Area Specific Policies as outlined in Attachment C to report IPPW2025-026. 3. That Council request the Ontario Ministry of Municipal Affairs and Housing to remove the deferral for all properties referred to in Table C of Attachment B to report IPPW2025-026. 4. That Council request the Ontario Ministry of Municipal Affairs and Housing to maintain a deferral for the properties noted in Table B of Attachment B to report IPPW2025-026, with the resolution of the deferral to be determined as part of Phase 2 of the Official Plan Review.",
+   "text_html": "<p>1. That report IPPW2025-026 be approved.</p><p>2. That Council request the Ontario Ministry of Municipal Affairs and Housing to make modifications to Official Plan Amendment 58 to add four new Area Specific Policies as outlined in Attachment C to report IPPW2025-026.</p><p>3. That Council request the Ontario Ministry of Municipal Affairs and Housing to remove the deferral for all properties referred to in Table C of Attachment B to report IPPW2025-026.</p><p>4. That Council request the Ontario Ministry of Municipal Affairs and Housing to maintain a deferral for the properties noted in Table B of Attachment B to report IPPW2025-026, with the resolution of the deferral to be determined as part of Phase 2 of the Official Plan Review.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "5c",
+   "item_number": "5c",
+   "item_title": "Zone Change Application Z-16-14,",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve IPPW2025-041. 2. That Council approve Zone Change Application Z-16-14, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041. 3. That Council approve Draft Plan of Subdivision 30T-16402, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041 with the following modifications to the Site Specific Conditions of Subdivision Approval: i. Modify condition 1.4 by adding ‘to the satisfaction of the Director of Planning’ ii. Modify condition 2.14 by removing the text ‘at its sole expense’ iii. Remove condition 4.18 entirely iv. Modify condition 5.5 by removing Block 19 v. Modify condition 5.16 by removing the requirement of an agreement between the Owner and the Region of Waterloo 4. That Council delegate authority to the City’s Director of Planning to make administrative and minor modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision Approval in relation to Draft Plan of Subdivision 30T- 16402, and minor redline revisions to Draft Plan of Subdivision 30T- 16402. 5. That Council further extend the timeframe for 2115881 Ontario Limited to obtain a building permit for the replacement of the dwelling unit at 560 Conservation Drive and the dwelling unit at 576 Conservation Drive until October 30, 2030, pursuant to subsection 6.a of the City’s Demolition Control By-law. Councillor Freeman left the meeting. (Time: 5:13 p.m.) Councillor Freeman joined the meeting. (Time: 5:17 p.m.) Councillor Vasic left the meeting. (Time: 5:21 p.m.) Councillor Vasic joined the meeting. (Time: 5:22 p.m.) Prior to the taking of the vote, Councillor Roach introduced an amendment to the motion as outlined below in bold font:",
+   "text_html": "<p>1. That Council approve IPPW2025-041.</p><p>2. That Council approve Zone Change Application Z-16-14, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041.</p><p>3. That Council approve Draft Plan of Subdivision 30T-16402, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041 with the following modifications to the Site Specific Conditions of Subdivision Approval: i. Modify condition 1.4 by adding ‘to the satisfaction of the Director of Planning’ ii. Modify condition 2.14 by removing the text ‘at its sole expense’ iii. Remove condition 4.18 entirely iv. Modify condition 5.5 by removing Block 19 v. Modify condition 5.16 by removing the requirement of an agreement between the Owner and the Region of Waterloo</p><p>4. That Council delegate authority to the City’s Director of Planning to make administrative and minor modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision Approval in relation to Draft Plan of Subdivision 30T- 16402, and minor redline revisions to Draft Plan of Subdivision 30T- 16402.</p><p>5. That Council further extend the timeframe for 2115881 Ontario Limited to obtain a building permit for the replacement of the dwelling unit at 560 Conservation Drive and the dwelling unit at 576 Conservation Drive until October 30, 2030, pursuant to subsection 6.a of the City’s Demolition Control By-law. Councillor Freeman left the meeting. (Time: 5:13 p.m.) Councillor Freeman joined the meeting. (Time: 5:17 p.m.) Councillor Vasic left the meeting. (Time: 5:21 p.m.) Councillor Vasic joined the meeting. (Time: 5:22 p.m.) Prior to the taking of the vote, Councillor Roach introduced an amendment to the motion as outlined below in bold font:</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m4",
+   "item": "5c",
+   "item_number": "5c",
+   "item_title": "Zone Change Application Z-16-14,",
+   "name": "",
+   "moved_by": "Roach",
+   "seconded_by": "",
+   "text": "Seconded by Freeman 1. That Council approve IPPW2025-041. 2. That Council approve Zone Change Application Z-16-14, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041, as amended to include the additional following zoning amendments: i. For the portion of the Lands zoned RBC2: A. INTERIOR SIDE YARD setback: 1.2 metres on one side, 0.6 metres opposite side, provided there is no less than 1.8 metres between building ii. Notwithstanding anything to the contrary, for the Lands, for CLUSTER DEVELOPMENT, a BALCONY may encroach into the FRONT YARD by a maximum one-point-eight metres (1.8m). For the purposes of this By-Law, a BALCONY is defined as platform that projects from an upper floor of a BUILDING and is enclosed by a parapet or railing. 3. That Council approve Draft Plan of Subdivision 30T-16402, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041 with the following modifications to the Site Specific Conditions of Subdivision Approval: i. Modify condition 1.4 by adding ‘to the satisfaction of the Director of Planning’ ii. Modify condition 2.14 by removing the text ‘at its sole expense’ iii. Remove condition 4.18 entirely iv. Modify condition 5.5 by removing Block 19 v. Modify condition 5.16 by removing the requirement of an agreement between the Owner and the Region of Waterloo 4. That Council delegate authority to the City’s Director of Planning to make administrative and minor modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision Approval in relation to Draft Plan of Subdivision 30T- 16402, and minor redline revisions to Draft Plan of Subdivision 30T- 16402. 5. That Council further extend the timeframe for 2115881 Ontario Limited to obtain a building permit for the replacement of the dwelling unit at 560 Conservation Drive and the dwelling unit at 576 Conservation Drive until October 30, 2030, pursuant to subsection 6.a of the City’s Demolition Control By-law. 6. That the final wording of the implementing Zoning By-Law be to the satisfaction of the Director of Planning and the City Solicitor. For the following reason: • The mover indicated that Housing affordability is the number one concern communicated from constituents, and the applicant has indicated these amendments could decrease the costs of these homes",
+   "text_html": "<p>Seconded by Freeman</p><p>1. That Council approve IPPW2025-041.</p><p>2. That Council approve Zone Change Application Z-16-14, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041, as amended to include the additional following zoning amendments: i. For the portion of the Lands zoned RBC2: A. INTERIOR SIDE YARD setback: 1.2 metres on one side, 0.6 metres opposite side, provided there is no less than 1.8 metres between building ii. Notwithstanding anything to the contrary, for the Lands, for CLUSTER DEVELOPMENT, a BALCONY may encroach into the FRONT YARD by a maximum one-point-eight metres (1.8m). For the purposes of this By-Law, a BALCONY is defined as platform that projects from an upper floor of a BUILDING and is enclosed by a parapet or railing.</p><p>3. That Council approve Draft Plan of Subdivision 30T-16402, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041 with the following modifications to the Site Specific Conditions of Subdivision Approval: i. Modify condition 1.4 by adding ‘to the satisfaction of the Director of Planning’ ii. Modify condition 2.14 by removing the text ‘at its sole expense’ iii. Remove condition 4.18 entirely iv. Modify condition 5.5 by removing Block 19 v. Modify condition 5.16 by removing the requirement of an agreement between the Owner and the Region of Waterloo</p><p>4. That Council delegate authority to the City’s Director of Planning to make administrative and minor modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision Approval in relation to Draft Plan of Subdivision 30T- 16402, and minor redline revisions to Draft Plan of Subdivision 30T- 16402.</p><p>5. That Council further extend the timeframe for 2115881 Ontario Limited to obtain a building permit for the replacement of the dwelling unit at 560 Conservation Drive and the dwelling unit at 576 Conservation Drive until October 30, 2030, pursuant to subsection 6.a of the City’s Demolition Control By-law.</p><p>6. That the final wording of the implementing Zoning By-Law be to the satisfaction of the Director of Planning and the City Solicitor. For the following reason: • The mover indicated that Housing affordability is the number one concern communicated from constituents, and the applicant has indicated these amendments could decrease the costs of these homes</p>",
+   "post_html": "",
+   "result": {
+    "text": "Motion Failed (2 to 4)",
+    "label": "Defeated 2-4",
+    "for": 2,
+    "against": 4,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [
+     "Hanmer",
+     "Bodaly",
+     "Vasic",
+     "Roe"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "dissent named",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m5",
+   "item": "5c",
+   "item_number": "5c",
+   "item_title": "Zone Change Application Z-16-14,",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve IPPW2025-041. 2. That Council approve Zone Change Application Z-16-14, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041. 3. That Council approve Draft Plan of Subdivision 30T-16402, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041 with the following modifications to the Site Specific Conditions of Subdivision Approval: i. Modify condition 1.4 by adding ‘to the satisfaction of the Director of Planning’ ii. Modify condition 2.14 by removing the text ‘at its sole expense’ iii. Remove condition 4.18 entirely iv. Modify condition 5.5 by removing Block 19 v. Modify condition 5.16 by removing the requirement of an agreement between the Owner and the Region of Waterloo 4. That Council delegate authority to the City’s Director of Planning to make administrative and minor modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision Approval in relation to Draft Plan of Subdivision 30T- 16402, and minor redline revisions to Draft Plan of Subdivision 30T- 16402. 5. That Council further extend the timeframe for 2115881 Ontario Limited to obtain a building permit for the replacement of the dwelling unit at 560 Conservation Drive and the dwelling unit at 576 Conservation Drive until October 30, 2030, pursuant to subsection 6.a of the City’s Demolition Control By-law.",
+   "text_html": "<p>1. That Council approve IPPW2025-041.</p><p>2. That Council approve Zone Change Application Z-16-14, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041.</p><p>3. That Council approve Draft Plan of Subdivision 30T-16402, 2115881 Ontario Limited (Mattamy Homes), for 556, 560, 576 Conservation Dr, as set out in Section 8 of IPPW2025-041 with the following modifications to the Site Specific Conditions of Subdivision Approval: i. Modify condition 1.4 by adding ‘to the satisfaction of the Director of Planning’ ii. Modify condition 2.14 by removing the text ‘at its sole expense’ iii. Remove condition 4.18 entirely iv. Modify condition 5.5 by removing Block 19 v. Modify condition 5.16 by removing the requirement of an agreement between the Owner and the Region of Waterloo</p><p>4. That Council delegate authority to the City’s Director of Planning to make administrative and minor modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision Approval in relation to Draft Plan of Subdivision 30T- 16402, and minor redline revisions to Draft Plan of Subdivision 30T- 16402.</p><p>5. That Council further extend the timeframe for 2115881 Ontario Limited to obtain a building permit for the replacement of the dwelling unit at 560 Conservation Drive and the dwelling unit at 576 Conservation Drive until October 30, 2030, pursuant to subsection 6.a of the City’s Demolition Control By-law.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (5 to 1)",
+    "label": "5-1",
+    "for": 5,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [
+     "Roach"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "dissent named",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m6",
+   "item": "7",
+   "item_number": "7",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roach",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-050 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-050 By-law to amend By-Law No. 2018-050, being a Zoning By-law controlling land use in the City of Waterloo for 556, 560, 576 Conservation Drive (Zoning By-law Amendment Z-16-14, IPPW2025-041, Council July 14, 2025, 2115881 Ontario Limited (Mattamy Homes)) b) By-law 2025-051 By-law to confirm all actions and proceedings of Council, July 14, 2025",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-050 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-050 By-law to amend By-Law No. 2018-050, being a Zoning By-law controlling land use in the City of Waterloo for 556, 560, 576 Conservation Drive (Zoning By-law Amendment Z-16-14, IPPW2025-041, Council July 14, 2025, 2115881 Ontario Limited (Mattamy Homes)) b) By-law 2025-051 By-law to confirm all actions and proceedings of Council, July 14, 2025</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m7",
+   "item": "8",
+   "item_number": "8",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "That the meeting adjourn. (Time: 5:35 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 5:35 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 9
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Freeman",
+   "event": "left",
+   "text": "Having previously declared a conflict of interest, Councillor Freeman left the meeting.",
+   "page": 3
+  },
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 3:23 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Freeman",
+   "event": "joined",
+   "text": "Councillor Freeman joined the meeting. (Time: 3:24 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 3:25 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 3:40 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 3:43 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 3:59 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 4:02 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Roe",
+   "event": "left",
+   "text": "Councillor Roe left the meeting. (Time: 4:24 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Roe",
+   "event": "joined",
+   "text": "Councillor Roe joined the meeting. (Time: 4:29 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time 4:46 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 4:48 p.m.)",
+   "page": 5
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": [
+  "m4: tally 2-4, but 3 others were present; only the dissenters are listed",
+  "m5: tally 5-1, but 6 others were present; only the dissenters are listed"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2025-01-20-1400-Council-Meeting",
+ "city": "waterloo",
+ "key": "2025-01-20",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2025-01-20T14:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2025-01-20-1400-Council-Meeting/458dbe3f-2b7f-4565-8f32-b29001312d40",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-01-20-1400-Council-Meeting/458dbe3f-2b7f-4565-8f32-b29001312d40",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2025-01-20-1400-Council-Meeting/3745a60c-0c60-4ed6-bc82-b267012b9c3b",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-01-20-1400-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "6232c3628ddd9360ce166753d9def02c9ea6e1eac7301bcfe00a14632bc7667a"
+ }
+}

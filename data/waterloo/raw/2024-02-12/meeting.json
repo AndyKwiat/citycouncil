@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2024-02-12-1230-Council-Meeting",
+ "city": "waterloo",
+ "key": "2024-02-12",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2024-02-12T12:30:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2024-02-12-1230-Council-Meeting/7ee96fc9-b82a-4ca5-89af-b15701068754",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2024-02-12-1230-Council-Meeting/7ee96fc9-b82a-4ca5-89af-b15701068754",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2024-02-12-1230-Council-Meeting/7e4a931d-3e2a-4e90-acab-b111012936ce",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2024-02-12-1230-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "2f1d3162cc2f284dbe78cdf3d8cb1af33afc97c003ed896d71f8065c0596f8de"
+ }
+}

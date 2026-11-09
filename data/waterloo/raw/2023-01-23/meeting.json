@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2023-01-23-1300-Council-Meeting",
+ "city": "waterloo",
+ "key": "2023-01-23",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2023-01-23T13:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2023-01-23-1300-Council-Meeting/fe5f704c-641b-49c3-a9df-afab01101c24",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-01-23-1300-Council-Meeting/fe5f704c-641b-49c3-a9df-afab01101c24",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2023-01-23-1300-Council-Meeting/f50eda9d-7dd7-4186-af91-af900106ed16",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-01-23-1300-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "daf4524cce5e9e231fd90f11f409dd246b8efcb2335457470246a257578e09a1"
+ }
+}

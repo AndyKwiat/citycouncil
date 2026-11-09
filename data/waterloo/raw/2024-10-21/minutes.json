@@ -1,0 +1,972 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 10,
+ "roster": [
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright",
+  "Mayor McCabe"
+ ],
+ "absent": [
+  "Mayor McCabe"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:01 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 4:20 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "September 16, 2024 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "September 23, 2024 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (b) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Community Sport and Recreation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Infrastructure Fund Grant Application</p>",
+    "<p>Report No.: COM2024-037</p>",
+    "<p>Prepared By: Heather Liddycoat, Robin Milne, Gracjan Oleksinski Kevin Van Ooteghem responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Lease Agreement for 404 K-W Wing",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(Royal Canadian Air Force Association)</p>",
+    "<p>Report No.: COM2024-038</p>",
+    "<p>Prepared By: Liz Williams</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "KWSC 2025-2028 License Agreement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2024-036</p>",
+    "<p>Prepared By: Jillian Fleming</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Affordable Rental Housing Grant",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Program: Recipients of First Call</p>",
+    "<p>for Applications</p>",
+    "<p>Report No.: IPPW2024-053</p>",
+    "<p>Prepared By: Tanja Curic</p>",
+    "<p>Tanja Curic gave some introductory remarks about the report including some details on the first round of grant recipients, as well as noting there would be a second call for applications. She then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9c",
+   "number": "9c",
+   "title": "2024 Surplus-Deficit Projection – August",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-035</p>",
+    "<p>Prepared By: Brad Witzel and Michael Pugliese</p>",
+    "<p>Brad Witzel offered some opening remarks on the report, including that staff would return by May 2025 with the actuals. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9d",
+   "number": "9d",
+   "title": "Award of RFT24-20 Supply and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Installation of Two Splash Pads and</p>",
+    "<p>Washroom Buildings</p>",
+    "<p>Report No.: COM2024-039</p>",
+    "<p>Prepared By: Trevor Schmidt</p>",
+    "<p>Robin Milne responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 4:45 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman declared a conflict with respect to item 12b) due to a conflict of interest as it relates to place of employment.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11a",
+   "number": "11a",
+   "title": "Region of Waterloo’s Municipal Speed Camera Program",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Doug Spooner, Acting Transportation Commissioner, Region of Waterloo gave a presentation outlining the Region’s municipal speed camera and administrative penalties program, including an overview of the current program and the upcoming expansion, an explanation of community safety zones, and the Region’s communications plan. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Informal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12a",
+   "number": "12a",
+   "title": "Zoning By-law Amendment Z-24-17,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Opulence Homes, 137 &amp; 141 Woolwich Street</p>",
+    "<p>Prepared by: Aminu Bello</p>",
+    "<p>Ward No.: Ward No. 5 – Southeast</p>",
+    "<p>Aminu Bello gave a presentation outlining the proposed development, including an overview of the current subject property and the requested zoning by-law amendments.</p>",
+    "<p>He then responded to questions of Council. Bob Henderson also responded to questions of Council.</p>",
+    "<p>Michael Witmer, Senior Planner, GSP Group Inc. gave a presentation further detailing the proposed development and zoning by-law amendments, including some resident comments. He then responded to questions of Council.</p>",
+    "<p>Kerry Church, Resident of Waterloo spoke about the petition signed by her neighbours against this development, as well as the community in the area.</p>",
+    "<p>Saba Mirzaagha, Resident of Waterloo spoke about the development community and how development decisions get made.</p>",
+    "<p>Jalud Abdulmenan, Resident of Waterloo spoke about the zoning in the neighbourhood and how that impacted their decision to buy a home there, as well as road safety. Aminu Bello responded to questions of Council.</p>",
+    "<p>Naz Rahim, Resident of Waterloo spoke about the community in the neighbourhood, and the lack of integration from the development.</p>",
+    "<p>Sunny Lubana, Owner spoke about the desire to keep trees on the site, as well as to develop relationships with the community.</p>",
+    "<p>Allison Henshall, Resident of Waterloo spoke about her concerns with the proposal, including the traffic issues, noise, garbage collection and the wildlife in the area.</p>",
+    "<p>Roger Joudrie, Resident of Waterloo spoke about infrastructure concerns in the area, as well as concerns for his children that currently live at the property. Aminu Bello responded to questions of Council.</p>",
+    "<p>Kimberly Cyr, Resident of Waterloo shared some concerns about the grading at the new development and its relation to her property. She also spoke about the snow banks, parking, and the utilities. She then responded to questions of Council. Aminu Bello responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Informal Public Meeting and indicated that staff will review the issues and report back to Council at a later date.</p>",
+    "<p>Councillor Freeman left the Chair. (Time: 8:07 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair. (Time: 8:07 p.m.)</p>",
+    "<p>(Time: 8:07 p.m.)</p>",
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12b",
+   "number": "12b",
+   "title": "Official Plan Amendment 51,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning By-law Amendment Z-24-02,</p>",
+    "<p>Lester Sunview Development Inc,</p>",
+    "<p>249-253 Sunview Street</p>",
+    "<p>Report No.: IPPW2024-016</p>",
+    "<p>Prepared By: Amanda Wyszynski</p>",
+    "<p>Ward No.: Central-Columbia, Ward 6</p>",
+    "<p>Amanda Wyszynski gave a presentation outlining the proposed development, including the site specific zoning exemptions. She then responded to questions of Council.</p>",
+    "<p>Jeff Henry, Urban Planner, Arcadis Professional Services (Canada) Inc. gave a presentation further detailing the proposed development. He then responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>",
+    "<p>Councillor Freeman having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 8
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright wanted to speak about a hate-motivated incident that occurred in Uptown last week, and the overarching issue of hate crimes in the Region. She mentioned that there is a motion coming to Council next week regarding combatting hate in the community.</p>",
+    "<p>Mayor McCabe echoed the sentiments and spoke about the actions different groups are taking to combat hate in the Region, including those by the City, while acknowledging there is still more work to be done.</p>",
+    "<p>Councillor Hanmer wanted to congratulate St. Mary’s General Hospital, which opened on October 21, 1924 and is celebrating 100 years. The Region of Waterloo Ken Seiling Museum has an exhibit called Beyond the Bricks open until April 2025 about the legacy of the hospital.</p>",
+    "<p>Councillor Bodaly hosted an information session for a new park block in the extended development for Vista Hills. He is grateful to staff for connecting with the developer and their planner to host and for communicating with residents in the area.</p>",
+    "<p>Councillor Roe wanted to highlight that the Waterloo Professional Firefighters Association held their graduation for new firefighters on Friday, October 18th. It was a great day to welcome them and their families, and see the dedication and commitment they have.</p>",
+    "<p>Mayor McCabe wanted to commemorate the two years since becoming Mayor and since the election. It’s been a journey of learning and she thanked everyone for their help.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 10
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, November 18, 2024</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 10
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Roach",
+   "seconded_by": "Bodaly",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (unsheltered housing, safe drinking water act); b) personal matters about an identifiable individual, including municipal or local board employees (safe drinking water act); c) security of the property of the municipality or local board (unsheltered housing); and, d) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (accessibility tour).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (unsheltered housing, safe drinking water act); b) personal matters about an identifiable individual, including municipal or local board employees (safe drinking water act); c) security of the property of the municipality or local board (unsheltered housing); and, d) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (accessibility tour).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "September 16, 2024 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "That the minutes of the Council meeting held on September 16, 2024 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on September 16, 2024 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "September 23, 2024 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "That the minutes of the Council meeting held on September 23, 2024 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on September 23, 2024 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "Community Sport and Recreation",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report COM2024-037. 2. That Council approve the City of Waterloo’s grant application to the Community Sport and Recreation Infrastructure Fund (CSRIF) grant program – Stream 1 Repair and Rehabilitation for the proposed project AMCC Revitalization and Accessibility Retrofit with a project value of $1,550,000. 3. That if the City of Waterloo’s AMCC Revitalization and Accessibility Retrofit grant application is successful, Council approves the required City portion of $775,000 be funded as follows: a. $100,000 from the Accessibility Facility Upgrades (Ref#130) b. $500,000 from the Grant Opportunities (Ref#146) c. $50,000 from the Building Capital Renewal Program (Ref#229) d. $125,000 from the Large-Scale Programming Specialties (Ref#337) 4. That Council approve the City of Waterloo’s grant application to the Community Sport and Recreation Infrastructure Fund (CSRIF) grant program – Stream 2 New Builds, Signature New Builds for the proposed project RIM Park Diamonds 4, 5 and 6 Upgrades and Expansion with a project value of $7,800,000. 5. That if the City’s RIM Park Diamonds 4, 5 and 6 Upgrades and Expansion grant application is successful, Council approves the required City portion of $3,900,000 be funded as follows: a. $448,000 from Outdoor Sports Field Strategy implementation Project 160008 (Ref# 291) b. $198,000 from the Park Shade Structure Project (Ref#294) c. $1,940,000 from RIM Park Ball Diamond Upgrades (Ref #297) and that this 2026 non-routine funding be released on January 1, 2026. d. $1,098,000 from the Artificial Turf Replacement Project (Ref#311) e. $216,000 from Playground Upgrades/Expansion City Wide Project 110083 (Ref#324) 6. That Council authorize the Mayor and Clerk to sign the grant transfer agreement and any other related documents, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2024-037.</p><p>2. That Council approve the City of Waterloo’s grant application to the Community Sport and Recreation Infrastructure Fund (CSRIF) grant program – Stream 1 Repair and Rehabilitation for the proposed project AMCC Revitalization and Accessibility Retrofit with a project value of $1,550,000.</p><p>3. That if the City of Waterloo’s AMCC Revitalization and Accessibility Retrofit grant application is successful, Council approves the required City portion of $775,000 be funded as follows: a. $100,000 from the Accessibility Facility Upgrades (Ref#130) b. $500,000 from the Grant Opportunities (Ref#146) c. $50,000 from the Building Capital Renewal Program (Ref#229) d. $125,000 from the Large-Scale Programming Specialties (Ref#337)</p><p>4. That Council approve the City of Waterloo’s grant application to the Community Sport and Recreation Infrastructure Fund (CSRIF) grant program – Stream 2 New Builds, Signature New Builds for the proposed project RIM Park Diamonds 4, 5 and 6 Upgrades and Expansion with a project value of $7,800,000.</p><p>5. That if the City’s RIM Park Diamonds 4, 5 and 6 Upgrades and Expansion grant application is successful, Council approves the required City portion of $3,900,000 be funded as follows: a. $448,000 from Outdoor Sports Field Strategy implementation Project 160008 (Ref# 291) b. $198,000 from the Park Shade Structure Project (Ref#294) c. $1,940,000 from RIM Park Ball Diamond Upgrades (Ref #297) and that this 2026 non-routine funding be released on January 1, 2026. d. $1,098,000 from the Artificial Turf Replacement Project (Ref#311) e. $216,000 from Playground Upgrades/Expansion City Wide Project 110083 (Ref#324)</p><p>6. That Council authorize the Mayor and Clerk to sign the grant transfer agreement and any other related documents, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Lease Agreement for 404 K-W Wing",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report COM2024-038. 2. That Council approve the lease agreement for 404 K-W Wing (Royal Canadian Air Force Association) at 510 Dutton Dr, Waterloo, according to the Terms and Conditions as outlined in this report. 3. That the Mayor and Clerk be authorized to sign the Lease Agreement and any other necessary documents, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2024-038.</p><p>2. That Council approve the lease agreement for 404 K-W Wing (Royal Canadian Air Force Association) at 510 Dutton Dr, Waterloo, according to the Terms and Conditions as outlined in this report.</p><p>3. That the Mayor and Clerk be authorized to sign the Lease Agreement and any other necessary documents, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "KWSC 2025-2028 License Agreement",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report COM2024-036. 2. That Council approve the 2025-2028 License Agreement with Kitchener-Waterloo Skating Club for space at RIM Park Manulife Sportsplex according to the terms and conditions as outlined in this report. 3. That the Mayor and Clerk be authorized to sign the agreement and any other related documents, including subsequent extensions, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2024-036.</p><p>2. That Council approve the 2025-2028 License Agreement with Kitchener-Waterloo Skating Club for space at RIM Park Manulife Sportsplex according to the terms and conditions as outlined in this report.</p><p>3. That the Mayor and Clerk be authorized to sign the agreement and any other related documents, including subsequent extensions, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Affordable Rental Housing Grant",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "McCabe",
+   "text": "1. That report IPPW2024-053 be received for information.",
+   "text_html": "<p>1. That report IPPW2024-053 be received for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "9c",
+   "item_number": "9c",
+   "item_title": "2024 Surplus-Deficit Projection – August",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report CORP2024-035. 2. That as part of report CORP2024-035 Council acknowledges the projected 2024 net tax base surplus of approximately $0.8 million. 3. That as part of report CORP2024-035 Council acknowledges the projected 2024 net Enterprise deficit of approximately $1.1 million. 4. That Council directs staff to provide a final 2024 surplus-deficit allocation report by May 2025.",
+   "text_html": "<p>1. That Council approve report CORP2024-035.</p><p>2. That as part of report CORP2024-035 Council acknowledges the projected 2024 net tax base surplus of approximately $0.8 million.</p><p>3. That as part of report CORP2024-035 Council acknowledges the projected 2024 net Enterprise deficit of approximately $1.1 million.</p><p>4. That Council directs staff to provide a final 2024 surplus-deficit allocation report by May 2025.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "9d",
+   "item_number": "9d",
+   "item_title": "Award of RFT24-20 Supply and",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report COM2024-039. 2. That Council approve the Award of RFT24-20 Supply and Installation of Two Splash Pads and Washroom Buildings to Yard Weasels Inc. for the submitted price of $ 1,521,185.00 plus unrecoverable HST in the amount of $ 26,772.86 for a total award value of $1,547,957.86. 3. That Council approve project transfers to the Splash Pads project 202019 totaling $150,000, funded $100,000 from Park Shade Structures project 220005, and $50,000 from the Parkland Strategy project 170005. 4. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and Yard Weasels Inc, and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2024-039.</p><p>2. That Council approve the Award of RFT24-20 Supply and Installation of Two Splash Pads and Washroom Buildings to Yard Weasels Inc. for the submitted price of $ 1,521,185.00 plus unrecoverable HST in the amount of $ 26,772.86 for a total award value of $1,547,957.86.</p><p>3. That Council approve project transfers to the Splash Pads project 202019 totaling $150,000, funded $100,000 from Park Shade Structures project 220005, and $50,000 from the Parkland Strategy project 170005.</p><p>4. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and Yard Weasels Inc, and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m10",
+   "item": "12b",
+   "item_number": "12b",
+   "item_title": "Official Plan Amendment 51,",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report IPPW2024-016. 2. That Council adopt Official Plan Amendment No. 51 (OPA 51), Lester Sunview Development Inc, 249-253 Sunview Street, in accordance with Section 7 of Staff Report IPPW2024-016. 3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 51 (OPA 51). 4. That Council approve Zoning By-law Amendment Z-24-02, Lester Sunview Development Inc, for 249-253 Sunview Street, in accordance with Section 7 of Staff Report IPPW2024-016.",
+   "text_html": "<p>1. That Council approve report IPPW2024-016.</p><p>2. That Council adopt Official Plan Amendment No. 51 (OPA 51), Lester Sunview Development Inc, 249-253 Sunview Street, in accordance with Section 7 of Staff Report IPPW2024-016.</p><p>3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 51 (OPA 51).</p><p>4. That Council approve Zoning By-law Amendment Z-24-02, Lester Sunview Development Inc, for 249-253 Sunview Street, in accordance with Section 7 of Staff Report IPPW2024-016.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m11",
+   "item": "14",
+   "item_number": "14",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-077 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-077 By-law to confirm all actions and proceedings of Council, October 21, 2024",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-077 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-077 By-law to confirm all actions and proceedings of Council, October 21, 2024</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m12",
+   "item": "15",
+   "item_number": "15",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "That the meeting adjourn. (Time: 8:52 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 8:52 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 10
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Freeman",
+   "item_number": "12b",
+   "text": ""
+  }
+ ],
+ "attendance_events": [
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 7:18 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 7:20 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Freeman",
+   "event": "left",
+   "text": "Having previously declared a conflict of interest, Councillor Freeman left the meeting.",
+   "page": 8
+  },
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 8:08 p.m.)",
+   "page": 8
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 8:14 p.m.)",
+   "page": 9
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,1580 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 18,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright",
+  "Roach"
+ ],
+ "absent": [
+  "Roach"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:02 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 2:44 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>",
+    "<p>Saturday was National Indigenous Peoples Day, and people took the time to continue their own learning journeys or participate in local events and activities with First Nations in our community.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright declared a conflict with respect to items 11a) and 11b) due to a conflict of interest as it relates to being a landlord.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "May 26, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright requested that item 7b) Uptown Temporary Leash Free Area be removed from the consent motion.</p>",
+    "<p>That consent motion items (a) through (f) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "2024 Consolidated Financial Statements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2025-025</p>",
+    "<p>Prepared By: Paul Hettinga</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Traffic and Parking By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Amendments – Various Locations</p>",
+    "<p>Report No.: IPPW2025-040</p>",
+    "<p>Prepared By: Haydn Kocznur</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7c",
+   "number": "7c",
+   "title": "Waterloo Park Plan Implementation –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>2025 Capital Funds Release Request</p>",
+    "<p>Report No.: COM2025-017</p>",
+    "<p>Prepared By: Anna lee Sangster</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7d",
+   "number": "7d",
+   "title": "Proposed Demolition of Residential",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Dwelling Unit at 47 Erb Street West,</p>",
+    "<p>Atrium Waterloo GP Inc.</p>",
+    "<p>Report No.: IPPW2025-045</p>",
+    "<p>Prepared By: John Vos</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7e",
+   "number": "7e",
+   "title": "Delegation of Approval Authority for",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Draft Plans of Condominium, Draft Plans</p>",
+    "<p>of Subdivision, and Part Lot Control Exemptions</p>",
+    "<p>Report No.: IPPW2025-044</p>",
+    "<p>Prepared By: Danielle Ingram</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7f",
+   "number": "7f",
+   "title": "Multi-Sector Service Accountability",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Agreement – Declaration of Compliance –</p>",
+    "<p>City of Waterloo, Community Support Services</p>",
+    "<p>Report No.: COM2025-020</p>",
+    "<p>Prepared By: Tiffany Smith</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Uptown Temporary Leash Free Area",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2025-018</p>",
+    "<p>Prepared By: Andrea Bazler, Robin Milne, Brad Witzel</p>",
+    "<p>Robin Milne responded to questions of Council. Andrea Bazler also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Large Street Gathering Recommendations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Update</p>",
+    "<p>Report No.: COM2025-019</p>",
+    "<p>Prepared By: Nicole Papke, Cari Van Niekerk</p>",
+    "<p>Nicole Papke and Cari Van Niekerk gave a presentation providing an update on the Large Street Gathering Task Force, which has since been disbanded, and the recommendations presented in March 2020. They outlined the ongoing initiatives and next steps for the City, Waterloo Regional Police Services, post-secondary institutions and other community partners. Nicole Papke responded to questions of Council.</p>",
+    "<p>Carleen Carroll, Assistant Vice President, External Relations, Wilfrid Laurier University also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 6
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Housing Accelerator Fund Initiative 6:",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Additional Residential Unit (ARU) Grant</p>",
+    "<p>Program</p>",
+    "<p>Report No.: IPPW2025-035</p>",
+    "<p>Prepared By: Dominik Simpson</p>",
+    "<p>Dominik Simpson gave a presentation offering the background information on the Housing Accelerator Fund (HAF) Initiative 6, as well as details for the Additional Residential Unit (ARU) grant program, which include short-term affordability. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 6
+  },
+  {
+   "id": "9c",
+   "number": "9c",
+   "title": "2024/25 Winter Control Review",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: IPPW2025-027</p>",
+    "<p>Prepared By: Bob Henderson, Robin Milne, Nicole Papke,</p>",
+    "<p>Tracie Bell, Brad Witzel</p>",
+    "<p>Grant Curlew responded to questions of Council. Bob Henderson also responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 3:47 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 7
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>",
+    "<p>11. STAFF REPORTS continued</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "10a",
+   "number": "10a",
+   "title": "Rental Housing Regulation Review",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2025-015</p>",
+    "<p>Prepared By: Grant Curlew</p>",
+    "<p>Grant Curlew gave a presentation outlining the results of the engagement undertaken during the review, and detailed the proposed changes to the regulations. He then responded to questions of Council.</p>",
+    "<p>Alexandra Oestreicher, President, Conestoga Students Inc. spoke in favour of expanding the licensing program to include apartments and short-term rentals, as well as the expansion of the education program for tenants and landlords. Alexandra Oestreicher also spoke about concerns for the current regulations. Grant Curlew responded to questions of Council.</p>",
+    "<p>Tony Rossignoli, Resident of Waterloo spoke about the impact short-term rentals on long-term residents, especially in Uptown Waterloo. Tony Rossignoli responded to questions of Council.</p>",
+    "<p>Sofia Bahar, Stakeholder Relations Assistant, Waterloo Undergraduate Student Association (WUSA) spoke about the rental housing issues that students face, and in favour of the proposed recommendations. Sofia Bahar also spoke about the maintenance concerns that apartment renters often face.</p>",
+    "<p>Elliot Wand, ACORN Leader, Waterloo Region ACORN spoke in favour of the proposed recommendations, specifically the tenant protections being proposed by staff.</p>",
+    "<p>Heline Chow, Resident of Waterloo spoke in favour of the proposed recommendations.</p>",
+    "<p>Councillor Wright having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 8
+  },
+  {
+   "id": "10b",
+   "number": "10b",
+   "title": "Review of Eviction Regulations and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>other Tenant Supports</p>",
+    "<p>Report No.: COM2025-016</p>",
+    "<p>Prepared By: Michelle Lee, Tanja Curic, Grant Curlew</p>",
+    "<p>Michelle Lee gave a presentation outlining the results of the engagement undertaken, and focused on what the team believes are effective solutions to the challenges that tenants and landlords are facing. Grant Curlew, Michelle Lee and Nicole Papke responded to questions of Council.</p>",
+    "<p>Steven Singer, Resident of Waterloo spoke about his experiences with the City and the urgent need for a Renoviction by-law in the City.</p>",
+    "<p>Heather Bigelow, Resident of Waterloo spoke generally in favour of the recommendations, but that they don’t go far enough and the City should enact a Renoviction by-law. Heather Bigelow responded to questions of Council. Grant Curlew also responded to questions of Council.</p>",
+    "<p>Elliot Wand, ACORN Leader, Waterloo Region ACORN spoke in favour of a potential rental replacement by-law, but urged Council to consider the implementation of a Renoviction by-law. Elliot Wand responded to questions of Council.</p>",
+    "<p>Heline Chow, Resident of Waterloo spoke in support of the tenant protections outlined in the report, and asked Council to implement a Renoviction by-law.</p>",
+    "<p>Christina Mills, Resident of Waterloo spoke about the relationship between stable housing and public health, and the housing crisis. Christina Mills asked Council to pass a Renoviction by-law, and responded to questions of Council.</p>",
+    "<p>Mo Markham, Resident of Kitchener spoke in support of creating a Renoviction by-law, and about issues with the current housing market.</p>",
+    "<p>Grant Curlew and Michelle Lee responded to questions of Council. Ron Ormson also responded to questions of Council.</p>",
+    "<p>Councillor Wright having previously declared a pecuniary interest was absent for the taking of the vote.</p>",
+    "<p>Councillor Wright having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14",
+    "m15"
+   ],
+   "page": 10
+  },
+  {
+   "id": "10c",
+   "number": "10c",
+   "title": "Annual Accessibility Report (AODA)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CAO2025-004</p>",
+    "<p>Prepared By: Amy Ross</p>",
+    "<p>Amy Ross gave a presentation highlighting the City’s accessibility improvements and challenges, why accessibility matters, and what’s happening in 2025. She then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 13
+  },
+  {
+   "id": "10d",
+   "number": "10d",
+   "title": "Mid Year Update – Inclusionary",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning within Protected Major Transit</p>",
+    "<p>Stations Areas, City of Waterloo</p>",
+    "<p>Report No.: IPPW2025-030</p>",
+    "<p>Prepared By: Douglas W. Stewart</p>",
+    "<p>Douglas Stewart offered introductory remarks and background information to the report.</p>",
+    "<p>Melissa Durrell, Executive Officer, Build Urban spoke against Inclusionary Zoning at this time, and offered recommendations for when Inclusionary Zoning should be implemented.</p>",
+    "<p>Douglas Stewart responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m17"
+   ],
+   "page": 13
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Informal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 14
+  },
+  {
+   "id": "12a",
+   "number": "12a",
+   "title": "Zoning By-law Amendment Z-25-09",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>City of Waterloo</p>",
+    "<p>Prepared by: Janine Fletcher</p>",
+    "<p>Ward No.: City-wide</p>",
+    "<p>Janine Fletcher gave a presentation outlining the proposed zoning by-law amendments.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Informal Public Meeting and indicated that staff will review the issues and report back to Council at a later date.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 14
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Unfinished Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m18"
+   ],
+   "page": 14
+  },
+  {
+   "id": "13a",
+   "number": "13a",
+   "title": "Lease Agreement for St. Columba",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Arts Space</p>",
+    "<p>Report No.: CAO2025-020</p>",
+    "<p>Prepared By: Lakyn Barton and Astero Kalogeropoulos</p>",
+    "<p>Addendum: Lease Agreement for St. Columba</p>",
+    "<p>Arts Space: Supplementary Info</p>",
+    "<p>Report No.: CAO2025-020.1</p>",
+    "<p>Prepared By: Justin McFadden</p>",
+    "<p>For Information.</p>",
+    "<p>Jen Prior, Resident of Waterloo spoke about the similarities between the technology and arts industries, and in favour of the community that arts spaces build.</p>",
+    "<p>Wendy Ridgway, City of Waterloo Neighbourhood Connector, Lincoln Heights Neighbourhood Group spoke about the neighbourhood, and the impact that an arts space will have on the community. Wendy Ridgway responded to questions of Council.</p>",
+    "<p>Jeff Percival, Resident of Waterloo spoke about the neighbourhood and what would suit the space long-term. Jeff Percival also spoke about the importance of creative people in the technology industry, and in favour of the arts space.</p>",
+    "<p>Teneile Warren, Resident of Kitchener spoke about the human need for art, and the need for more shared arts space in the Region. Teneile Warren also responded to questions of Council.</p>",
+    "<p>Alexandra Glass, Executive Director, ArtsBuild Ontario offered further information about the potential use of the space, and the need for more arts spaces in the Region and the City. She then responded to questions of Council.</p>",
+    "<p>Sam Nabi, Project Coordinator, One Million Neighbours WR spoke about the costs of leaving the site vacant while they work on affordable housing, and the importance of a partnership with the arts community.</p>",
+    "<p>Mayor McCabe left the Chair. (Time: 11:04 p.m.)</p>",
+    "<p>Councillor Bodaly in the Chair. (Time: 11:04 p.m.)</p>",
+    "<p>Councillor Bodaly left the Chair. (Time: 11:07 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair. (Time: 11:07 p.m.)</p>",
+    "<p>Julie Finley-Swaren responded to questions of Council. Joel Cotter also responded to questions of Council. Kevin Van Ooteghem and Amy Ross also responded to questions of Council. Jim Bowman and Justin McFadden also responded to questions of Council.</p>",
+    "<p>Brad Witzel also responded to questions of Council. Tim Anderson also responded to questions of Council.</p>",
+    "<p>Mayor McCabe asked when staff could come back with a report. Tim Anderson responded that staff would report back in the fall with a process report to advance the permanent affordable housing.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m19",
+    "m20"
+   ],
+   "page": 14
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Hanmer gave a shout-out to staff for the Community Conversations they helped run in her ward this past Sunday, June 22. The weather was great for use of the splashpad, and they had about 250 people interested in the event.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 16
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m21"
+   ],
+   "page": 17
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, September 8, 2025</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m22"
+   ],
+   "page": 18
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Hanmer",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) acquisition/disposition of land (Disposition of city-owned lands); and b) position, plan, criteria to be applied to negotiations (Disposition of city- owned lands).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) acquisition/disposition of land (Disposition of city-owned lands); and b) position, plan, criteria to be applied to negotiations (Disposition of city- owned lands).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "May 26, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Bodaly",
+   "text": "That the minutes of the Council meeting held on May 26, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on May 26, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "2024 Consolidated Financial Statements",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve report CORP2025-025. 2. That Council approve the 2024 Audited Financial Statements (draft) of the Corporation of the City of Waterloo as attached in Appendix A.",
+   "text_html": "<p>1. That Council approve report CORP2025-025.</p><p>2. That Council approve the 2024 Audited Financial Statements (draft) of the Corporation of the City of Waterloo as attached in Appendix A.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Traffic and Parking By-law",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve report IPPW2025-040. 2. That Traffic and Parking By-law #08-077 be updated with the amendments contained herein.",
+   "text_html": "<p>1. That Council approve report IPPW2025-040.</p><p>2. That Traffic and Parking By-law #08-077 be updated with the amendments contained herein.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "7c",
+   "item_number": "7c",
+   "item_title": "Waterloo Park Plan Implementation –",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve report COM2025-017. 2. That Council approve the release of the 2025 non-routine capital funding for Waterloo Park Plan Implementation project (ref#305) in the amount of $600,000, from the 2024-2026 Approved Capital Budget and 2027-2033 Capital Forecast.",
+   "text_html": "<p>1. That Council approve report COM2025-017.</p><p>2. That Council approve the release of the 2025 non-routine capital funding for Waterloo Park Plan Implementation project (ref#305) in the amount of $600,000, from the 2024-2026 Approved Capital Budget and 2027-2033 Capital Forecast.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "7d",
+   "item_number": "7d",
+   "item_title": "Proposed Demolition of Residential",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve report IPPW2025-045. 2. That Council issue a demolition permit in respect of the existing dwelling at 47 Erb Street West in accordance with the City’s Demolition Control Area By-law No. 2013-014 subject to the City’s standard conditions. 3. That Council grant relief from the following provisions of By-law No. 2013-014: a. Section 6.a., such that the owner shall not be required to replace the dwelling unit on the lands; and b. Section 6.b., such that a penalty of $10,000.00 per dwelling unit shall not be required because the dwelling until will not be replaced. c. Section 7.b., such that the requirement for site plan approval and/or draft plan of subdivision approval prior to the issuance of a demolition permit has been waived;",
+   "text_html": "<p>1. That Council approve report IPPW2025-045.</p><p>2. That Council issue a demolition permit in respect of the existing dwelling at 47 Erb Street West in accordance with the City’s Demolition Control Area By-law No. 2013-014 subject to the City’s standard conditions.</p><p>3. That Council grant relief from the following provisions of By-law No. 2013-014: a. Section 6.a., such that the owner shall not be required to replace the dwelling unit on the lands; and b. Section 6.b., such that a penalty of $10,000.00 per dwelling unit shall not be required because the dwelling until will not be replaced. c. Section 7.b., such that the requirement for site plan approval and/or draft plan of subdivision approval prior to the issuance of a demolition permit has been waived;</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "7e",
+   "item_number": "7e",
+   "item_title": "Delegation of Approval Authority for",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "1. That IPPW2025-044 be approved. 2. That the Director of Planning be authorized to approve (with or without conditions) or deny Standard Plans of Condominium, Phased Plans of Condominium, Common Element Condominiums, and Condominium Exemption requests, and execute all documents and plans thereto, including the registration of same. 3. That the Director of Planning be authorized to execute all documents and plans for Draft Plans of Subdivision, including the registration of same. 4. That the Director of Planning be authorized to approve or deny Part Lot Control Exemption By-laws, and execute all documents and plans thereto, including the registration of same.",
+   "text_html": "<p>1. That IPPW2025-044 be approved.</p><p>2. That the Director of Planning be authorized to approve (with or without conditions) or deny Standard Plans of Condominium, Phased Plans of Condominium, Common Element Condominiums, and Condominium Exemption requests, and execute all documents and plans thereto, including the registration of same.</p><p>3. That the Director of Planning be authorized to execute all documents and plans for Draft Plans of Subdivision, including the registration of same.</p><p>4. That the Director of Planning be authorized to approve or deny Part Lot Control Exemption By-laws, and execute all documents and plans thereto, including the registration of same.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m8",
+   "item": "7f",
+   "item_number": "7f",
+   "item_title": "Multi-Sector Service Accountability",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve report COM2025-020. 2. That the Mayor be authorized to sign the necessary document associated with the Multi-Sector Service Accountability Agreement (MSAA) Schedule F – Declaration of Compliance and any other MSAA documents related to City of Waterloo’s delivery of Community Support Service programs, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2025-020.</p><p>2. That the Mayor be authorized to sign the necessary document associated with the Multi-Sector Service Accountability Agreement (MSAA) Schedule F – Declaration of Compliance and any other MSAA documents related to City of Waterloo’s delivery of Community Support Service programs, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m9",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Uptown Temporary Leash Free Area",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2025-018. 2. That Council approve the proposed location for the Uptown temporary leash free dog park at the Westmount Road entrance to Waterloo Park. 3. That Council approve funding in the amount of $45,000 for the construction of the Uptown temporary leash free dog park, funded from Council's Community Priority and Contingency Reserve. 4. That Council direct staff to move forward with community engagement to determine permanent location for a leash free dog park in the City core.",
+   "text_html": "<p>1. That Council approve report COM2025-018.</p><p>2. That Council approve the proposed location for the Uptown temporary leash free dog park at the Westmount Road entrance to Waterloo Park.</p><p>3. That Council approve funding in the amount of $45,000 for the construction of the Uptown temporary leash free dog park, funded from Council&#x27;s Community Priority and Contingency Reserve.</p><p>4. That Council direct staff to move forward with community engagement to determine permanent location for a leash free dog park in the City core.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m10",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Large Street Gathering Recommendations",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council receive report COM2025-019 for information.",
+   "text_html": "<p>1. That Council receive report COM2025-019 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m11",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Housing Accelerator Fund Initiative 6:",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve IPPW2025-035. 2. That Council approve the Corporate Procedure as set out in Appendix ‘A’ to IPPW2025-035 regarding guidelines for the ARU Grant Program. 3. That Council enact the By-law as set out in Appendix ‘B’ to IPPW2025-035 to permit The Corporation of The City of Waterloo to enter into agreements for the provision of affordable housing through a Municipal Housing Facilities By-law for the ARU Grant Program. 4. That Council direct staff to publish and release on the City’s website the ARU Grant Program and associated implementation materials as outlined in this report. 5. That Council authorize the Director of Planning to execute all agreements and related documents in respect of the provision of affordable housing through the Municipal Housing Facilities By-Law for the ARU Grant Program, subject to the form of such agreements and documents being satisfactory to the City Solicitor.",
+   "text_html": "<p>1. That Council approve IPPW2025-035.</p><p>2. That Council approve the Corporate Procedure as set out in Appendix ‘A’ to IPPW2025-035 regarding guidelines for the ARU Grant Program.</p><p>3. That Council enact the By-law as set out in Appendix ‘B’ to IPPW2025-035 to permit The Corporation of The City of Waterloo to enter into agreements for the provision of affordable housing through a Municipal Housing Facilities By-law for the ARU Grant Program.</p><p>4. That Council direct staff to publish and release on the City’s website the ARU Grant Program and associated implementation materials as outlined in this report.</p><p>5. That Council authorize the Director of Planning to execute all agreements and related documents in respect of the provision of affordable housing through the Municipal Housing Facilities By-Law for the ARU Grant Program, subject to the form of such agreements and documents being satisfactory to the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m12",
+   "item": "9c",
+   "item_number": "9c",
+   "item_title": "2024/25 Winter Control Review",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Freeman",
+   "text": "1. That IPPW2025-027 be received for information; 2. That staff be directed to review other opportunities identified in IPPW2025-027 to enhance winter maintenance as the City’s transportation network expands to promote compliance with the minimum maintenance standards set out under O.Reg. 239/03 of the Municipal Act; and, 3. That staff maintain a communications plan to assist in education and expectations about service levels following major snowfall events; and, 4. That for the 2027 and 2028-2030 budget cycles, the City’s Budget Committee be directed to explore opportunities for improvements to winter control operations for Council’s consideration. 5. That the Traffic and Parking By-law 2008-077 definition for “snow event” be revised as described in IPPW2025-027.",
+   "text_html": "<p>1. That IPPW2025-027 be received for information;</p><p>2. That staff be directed to review other opportunities identified in IPPW2025-027 to enhance winter maintenance as the City’s transportation network expands to promote compliance with the minimum maintenance standards set out under O.Reg. 239/03 of the Municipal Act; and,</p><p>3. That staff maintain a communications plan to assist in education and expectations about service levels following major snowfall events; and,</p><p>4. That for the 2027 and 2028-2030 budget cycles, the City’s Budget Committee be directed to explore opportunities for improvements to winter control operations for Council’s consideration.</p><p>5. That the Traffic and Parking By-law 2008-077 definition for “snow event” be revised as described in IPPW2025-027.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m13",
+   "item": "10a",
+   "item_number": "10a",
+   "item_title": "Rental Housing Regulation Review",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2025-015. 2. That Council approve the updated Residential Rental Licensing By- law, as outlined in this report, and repeal and replace the existing By-law 2011-047. 3. That Council approve amendments to Business Licensing By-law 2023-105, adding licensing provisions for Short-term Rental Platforms. 4. That Council authorize the hiring of a part-time contract Zoning Coordinator (0.6 FTE) to begin March 2026. 5. That Council authorize the elevation of a Licensing & Standards Officer to a Supervisor role to begin March 2026. 6. That Council direct staff to continue to review the feasibility of an Apartment Building Safety Program and return with recommendations at a later date.",
+   "text_html": "<p>1. That Council approve report COM2025-015.</p><p>2. That Council approve the updated Residential Rental Licensing By- law, as outlined in this report, and repeal and replace the existing By-law 2011-047.</p><p>3. That Council approve amendments to Business Licensing By-law 2023-105, adding licensing provisions for Short-term Rental Platforms.</p><p>4. That Council authorize the hiring of a part-time contract Zoning Coordinator (0.6 FTE) to begin March 2026.</p><p>5. That Council authorize the elevation of a Licensing &amp; Standards Officer to a Supervisor role to begin March 2026.</p><p>6. That Council direct staff to continue to review the feasibility of an Apartment Building Safety Program and return with recommendations at a later date.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m14",
+   "item": "10b",
+   "item_number": "10b",
+   "item_title": "Review of Eviction Regulations and",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report Com2025-016. 2. Direct staff to create and update, as needed, a Tenant and Landlord Information Package, in collaboration with area municipalities and the Region of Waterloo, for broad dissemination and posting on the City’s Rental Housing Support webpage. 3. Direct staff, on behalf of Council, to write to the Premier of Ontario and the Minister of Municipal Affairs and Housing to request that the Province: a) Proclaim into force the tenant protections in the Residential Tenancies Act, 2006 that were passed in June 2023 through Bill 97 and that include provisions to prevent bad faith evictions; b) Make additional investments in the Landlord and Tenant Board to make it easier and clearer for tenants navigating the tribunal system and to expedite the resolution of cases; and c) Increase funding of Provincially funded legal clinics to provide additional staffing and resources for tenants and to prevent instances of illegal evictions. 4. Encourage the Region of Waterloo, as the designated service manager for housing and homelessness in Waterloo Region to continue to invest in the creation of new, affordable, non-market rental housing and co-operative housing. 5. Direct staff to provide one-time funding in 2026, up to a total of $30,000, to augment Regional funding of local organizations providing eviction prevention services in accordance with the recommendations in the Affordable Housing Strategy, to be funded from the Affordable Housing Strategy project (ref #620). 6. Direct staff to consider sustainable long-term funding of the City’s Multi-Unit Residential Acquisition (MURA) program, in alignment with the forthcoming Federal program, to support the purchase of existing affordable rental housing developments by non-profit and co-operative housing organizations and increase security of tenure for tenants, as part of the 2027 and/or 2028-2030 budget deliberation process. 7. Direct staff to proceed with the exploration of a rental replacement by-law, in accordance with the recommendations in the Affordable Housing Strategy, with a goal to initiate the work starting in late 2025/early 2026. 8. Direct staff to monitor the implementation and efficacy of eviction regulations in other municipalities as well as any new Provincial legislative changes, including those announced on Jun 5, 2025, and to report back to Council in 2026 with an update and any changes to staff’s recommendations.",
+   "text_html": "<p>1. That Council approve report Com2025-016. 2. Direct staff to create and update, as needed, a Tenant and Landlord Information Package, in collaboration with area municipalities and the Region of Waterloo, for broad dissemination and posting on the City’s Rental Housing Support webpage. 3. Direct staff, on behalf of Council, to write to the Premier of Ontario and the Minister of Municipal Affairs and Housing to request that the Province: a) Proclaim into force the tenant protections in the Residential Tenancies Act, 2006 that were passed in June 2023 through Bill 97 and that include provisions to prevent bad faith evictions; b) Make additional investments in the Landlord and Tenant Board to make it easier and clearer for tenants navigating the tribunal system and to expedite the resolution of cases; and c) Increase funding of Provincially funded legal clinics to provide additional staffing and resources for tenants and to prevent instances of illegal evictions. 4. Encourage the Region of Waterloo, as the designated service manager for housing and homelessness in Waterloo Region to continue to invest in the creation of new, affordable, non-market rental housing and co-operative housing. 5. Direct staff to provide one-time funding in 2026, up to a total of $30,000, to augment Regional funding of local organizations providing eviction prevention services in accordance with the recommendations in the Affordable Housing Strategy, to be funded from the Affordable Housing Strategy project (ref #620). 6. Direct staff to consider sustainable long-term funding of the City’s Multi-Unit Residential Acquisition (MURA) program, in alignment with the forthcoming Federal program, to support the purchase of existing affordable rental housing developments by non-profit and co-operative housing organizations and increase security of tenure for tenants, as part of the 2027 and/or 2028-2030 budget deliberation process. 7. Direct staff to proceed with the exploration of a rental replacement by-law, in accordance with the recommendations in the Affordable Housing Strategy, with a goal to initiate the work starting in late 2025/early 2026. 8. Direct staff to monitor the implementation and efficacy of eviction regulations in other municipalities as well as any new Provincial legislative changes, including those announced on Jun 5, 2025, and to report back to Council in 2026 with an update and any changes to staff’s recommendations.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": true,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m15",
+   "item": "10b",
+   "item_number": "10b",
+   "item_title": "Review of Eviction Regulations and",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Bodaly",
+   "text": "9. Direct staff to bring forward a framework for a draft Renovation License by-law program. 10. Direct staff to look at options for better coordinating and navigating the Housing system.",
+   "text_html": "<p>9. Direct staff to bring forward a framework for a draft Renovation License by-law program. 10. Direct staff to look at options for better coordinating and navigating the Housing system.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (5 to 2)",
+    "label": "5-2",
+    "for": 5,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Hanmer",
+     "Bodaly",
+     "Freeman",
+     "Vasic",
+     "Roe"
+    ],
+    "against": [
+     "Mayor McCabe",
+     "Roach"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "for_inferred": false,
+   "requested_recorded_vote": true,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m16",
+   "item": "10c",
+   "item_number": "10c",
+   "item_title": "Annual Accessibility Report (AODA)",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report CAO2025-004. 2. That Council continues to champion accessibility and inclusion in all aspects of the corporation.",
+   "text_html": "<p>1. That Council approve report CAO2025-004.</p><p>2. That Council continues to champion accessibility and inclusion in all aspects of the corporation.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m17",
+   "item": "10d",
+   "item_number": "10d",
+   "item_title": "Mid Year Update – Inclusionary",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "1. That report IPPW2025-030 be approved. 2. That the implementation timing of Inclusionary Zoning remain as ‘an undetermined date in the future.’ 3. That Planning staff be directed to undertake an additional market evaluation in association with the City of Kitchener, the City of Cambridge and the Region of Waterloo.",
+   "text_html": "<p>1. That report IPPW2025-030 be approved.</p><p>2. That the implementation timing of Inclusionary Zoning remain as ‘an undetermined date in the future.’</p><p>3. That Planning staff be directed to undertake an additional market evaluation in association with the City of Kitchener, the City of Cambridge and the Region of Waterloo.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (7 to 1)",
+    "label": "7-1",
+    "for": 7,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Bodaly",
+     "Freeman",
+     "Hanmer",
+     "Mayor McCabe",
+     "Roach",
+     "Roe",
+     "Wright"
+    ],
+    "against": [
+     "Vasic"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "for_inferred": true,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m18",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "Unfinished Business",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roach",
+   "text": "That Council extend the proceedings of Council until 12:00 am on June 24, 2025 as required by Section 31.02 of the Procedure By-Law.",
+   "text_html": "<p>That Council extend the proceedings of Council until 12:00 am on June 24, 2025 as required by Section 31.02 of the Procedure By-Law.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 14
+  },
+  {
+   "id": "m19",
+   "item": "13a",
+   "item_number": "13a",
+   "item_title": "Lease Agreement for St. Columba",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "That Council extend the proceedings of Council until 1:00 am on June 24, 2025 as required by Section 31.02 of the Procedure By-Law.",
+   "text_html": "<p>That Council extend the proceedings of Council until 1:00 am on June 24, 2025 as required by Section 31.02 of the Procedure By-Law.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 16
+  },
+  {
+   "id": "m20",
+   "item": "13a",
+   "item_number": "13a",
+   "item_title": "Lease Agreement for St. Columba",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report CAO2025-020. 2. That Council approve the lease agreement with ArtsBuild Ontario for the operation of the St. Columba arts space (250 Lincoln Road) for a term up to 3 years. 3. That the Mayor and Clerk be authorized to sign the Lease Agreement between the Corporation of the City of Waterloo and ArtsBuild Ontario and any other necessary documents, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report CAO2025-020.</p><p>2. That Council approve the lease agreement with ArtsBuild Ontario for the operation of the St. Columba arts space (250 Lincoln Road) for a term up to 3 years.</p><p>3. That the Mayor and Clerk be authorized to sign the Lease Agreement between the Corporation of the City of Waterloo and ArtsBuild Ontario and any other necessary documents, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Motion Failed (3 to 5)",
+    "label": "Defeated 3-5",
+    "for": 3,
+    "against": 5,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Bodaly",
+     "Vasic",
+     "Wright"
+    ],
+    "against": [
+     "Mayor McCabe",
+     "Hanmer",
+     "Roach",
+     "Freeman",
+     "Roe"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "for_inferred": true,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 16
+  },
+  {
+   "id": "m21",
+   "item": "15",
+   "item_number": "15",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-039 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-039 By-law to Amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under Jurisdiction of the City of Waterloo (IPPW2025-040, Council June 23, 2025) b) By-law 2025-040 By-law to Amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under Jurisdiction of the City of Waterloo (IPPW2025-027, Council June 23, 2025) c) By-law 2025-041 By-law to Amend the City of Waterloo Official Plan for 1 Columbia Street West, 351 King Street North, and 355 King Street North (IPPW2025-015, Council June 16, 2025) d) By-law 2025-042 By-law to Amend No. 2018-050, being a Zoning By-law Controlling Land Use Development within the City of Waterloo for 1 Columbia Street West, 351 King Street North, and 355 King Street North (IPPW2025-015, Council June 16, 2025) e) By-law 2025-043 By-law to Permit the Corporation of the City of Waterloo to Enter into Agreements for the Provision of Affordable Housing re: the Additional Residential Unit Grant Program (Municipal Housing Facilities By-law, IPPW2025-035, Council June 23, 2025) f) By-law 2025-044 By-law for the Licensing and Regulation of Various Rental Businesses in the City of Waterloo (COM2025-015, Council June 23, 2025) g) By-law 2025-045 By-law to Amend City of Waterloo By-law No. 2023-105 to Provide for the Licensing and Regulation of Short-Term Rental Platforms (COM2025-015, Council June 23, 2025) h) By-law 2025-046 By-law to Amend City of Waterloo By-law #2025-030 (COM2025-007, Council May 5, 2025) i) By-law 2025-047 By-law to Amend No. 2017-082, being a By- law to Delegate Authority to Execute Documents (IPPW2025-044, Council June 23, 2025) j) By-law 2025-048 By-law to confirm all actions and proceedings of Council, June 23, 2025",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-039 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-039 By-law to Amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under Jurisdiction of the City of Waterloo (IPPW2025-040, Council June 23, 2025) b) By-law 2025-040 By-law to Amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under Jurisdiction of the City of Waterloo (IPPW2025-027, Council June 23, 2025) c) By-law 2025-041 By-law to Amend the City of Waterloo Official Plan for 1 Columbia Street West, 351 King Street North, and 355 King Street North (IPPW2025-015, Council June 16, 2025) d) By-law 2025-042 By-law to Amend No. 2018-050, being a Zoning By-law Controlling Land Use Development within the City of Waterloo for 1 Columbia Street West, 351 King Street North, and 355 King Street North (IPPW2025-015, Council June 16, 2025) e) By-law 2025-043 By-law to Permit the Corporation of the City of Waterloo to Enter into Agreements for the Provision of Affordable Housing re: the Additional Residential Unit Grant Program (Municipal Housing Facilities By-law, IPPW2025-035, Council June 23, 2025) f) By-law 2025-044 By-law for the Licensing and Regulation of Various Rental Businesses in the City of Waterloo (COM2025-015, Council June 23, 2025) g) By-law 2025-045 By-law to Amend City of Waterloo By-law No. 2023-105 to Provide for the Licensing and Regulation of Short-Term Rental Platforms (COM2025-015, Council June 23, 2025) h) By-law 2025-046 By-law to Amend City of Waterloo By-law #2025-030 (COM2025-007, Council May 5, 2025) i) By-law 2025-047 By-law to Amend No. 2017-082, being a By- law to Delegate Authority to Execute Documents (IPPW2025-044, Council June 23, 2025) j) By-law 2025-048 By-law to confirm all actions and proceedings of Council, June 23, 2025</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 17
+  },
+  {
+   "id": "m22",
+   "item": "16",
+   "item_number": "16",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Hanmer",
+   "text": "That the meeting adjourn. (Time: 12:06 a.m., June 24, 2025)",
+   "text_html": "<p>That the meeting adjourn. (Time: 12:06 a.m., June 24, 2025)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 18
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 6:42 p.m.)",
+   "page": 8
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 6:43 p.m.)",
+   "page": 8
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 7:50 p.m.)",
+   "page": 10
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 7:51 p.m.)",
+   "page": 10
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 9:10 p.m.)",
+   "page": 10
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 9:12 p.m.)",
+   "page": 10
+  },
+  {
+   "member": "Wright",
+   "event": "joined",
+   "text": "Councillor Wright joined the meeting. (Time: 9:24 p.m.)",
+   "page": 13
+  },
+  {
+   "member": "Freeman",
+   "event": "left",
+   "text": "Councillor Freeman left the meeting. (Time: 9:53 p.m.)",
+   "page": 14
+  },
+  {
+   "member": "Freeman",
+   "event": "joined",
+   "text": "Councillor Freeman joined the meeting. (Time: 9:55 p.m.)",
+   "page": 14
+  },
+  {
+   "member": "Roe",
+   "event": "left",
+   "text": "Councillor Roe left the meeting. (Time: 9:58 p.m.)",
+   "page": 14
+  },
+  {
+   "member": "Roe",
+   "event": "joined",
+   "text": "Councillor Roe joined the meeting. (Time: 10:01 p.m.)",
+   "page": 15
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 10:53 p.m.)",
+   "page": 15
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 10:54 p.m.)",
+   "page": 15
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "left",
+   "text": "Mayor McCabe left the meeting. (Time: 11:04 p.m.)",
+   "page": 15
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "joined",
+   "text": "Mayor McCabe joined the meeting. (Time: 11:07 p.m.)",
+   "page": 15
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

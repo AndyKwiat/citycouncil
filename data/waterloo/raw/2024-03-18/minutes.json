@@ -1,0 +1,594 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 6,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which many of us are gathered today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral peoples. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous people with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4a",
+   "number": "4a",
+   "title": "Community Justice Centre",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Chris Cowie, Executive Director, Community Justice Initiatives Waterloo Region spoke about the work of the Community Justice Initiatives, including their work on restorative justice and crime prevention through upstream initiatives. Jason Spencer, Program Director, Community Justice Initiatives Waterloo Region spoke about the work they’re doing at the Community Justice Centre. They then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5a",
+   "number": "5a",
+   "title": "Fleet Equipment Replacement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Funding Release</p>",
+    "<p>Report No.: CORP2024-010</p>",
+    "<p>Prepared By: Jason Evans</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5b",
+   "number": "5b",
+   "title": "2024-2026 Capital Budget Project",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Reclassification to Routine Projects</p>",
+    "<p>Report No.: CORP2024-017</p>",
+    "<p>Prepared By: Brad Witzel</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5c",
+   "number": "5c",
+   "title": "Housing-Enabling Water Systems Fund",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>– City of Waterloo Application</p>",
+    "<p>Report No.: IPPW2024-013</p>",
+    "<p>Prepared By: Dan Ditaranto, Brad Witzel</p>",
+    "<p>Francis Reyes responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "5d",
+   "number": "5d",
+   "title": "Award of Tender RFT24-04 Hillcrest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Avenue Reconstruction</p>",
+    "<p>Report No.: IPPW2024-014</p>",
+    "<p>Prepared By: Gavin Vermeer</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 4
+  },
+  {
+   "id": "5e",
+   "number": "5e",
+   "title": "Brownfields Financial Incentive Program",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>– TIG Program for 119 Roger Street</p>",
+    "<p>– Phasing Update</p>",
+    "<p>Report No.: CAO2024-009</p>",
+    "<p>Prepared By: Kristin Sainsbury and Julie Koppeser</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "5f",
+   "number": "5f",
+   "title": "Award of Tender RFT24-03 Quickfall",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Drive &amp; Langford Place, Mayfield Ave</p>",
+    "<p>to End of Cul-De-Sacs Reconstruction Project</p>",
+    "<p>Report No.: IPPW2024-012</p>",
+    "<p>Prepared By: Mike Lupsa</p>",
+    "<p>Francis Reyes responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 5
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Hanmer gave a shout out to Nicole Papke and by-law staff for the preparations for St. Patrick’s Day, providing safety for students and residents.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, April 15, 2024</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 6
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5a",
+   "item_number": "5a",
+   "item_title": "Fleet Equipment Replacement",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Wright",
+   "text": "1. That CORP2024-010 be approved. 2. That capital funding be released for the 2024 Fleet Equipment Replacement in the amount of $2,900,000, funded from the Equipment Reserve (ER); as per the 2024-2026approved Capital Budget (ref# 422). 3. That on January 1, 2025, capital funding be released for the 2025 Fleet Equipment Replacement in the amount of $2,900,000, funded from the Equipment Reserve (ER); as per the 2024-2026 approved Capital Budget (ref# 422). 4. That on January 1, 2026, capital funding be released for the 2026 Fleet Equipment Replacement in the amount of $2,900,000, funded from the Equipment Reserve (ER); as per the 2024-2026 approved Capital Budget (ref# 422).",
+   "text_html": "<p>1. That CORP2024-010 be approved.</p><p>2. That capital funding be released for the 2024 Fleet Equipment Replacement in the amount of $2,900,000, funded from the Equipment Reserve (ER); as per the 2024-2026approved Capital Budget (ref# 422).</p><p>3. That on January 1, 2025, capital funding be released for the 2025 Fleet Equipment Replacement in the amount of $2,900,000, funded from the Equipment Reserve (ER); as per the 2024-2026 approved Capital Budget (ref# 422).</p><p>4. That on January 1, 2026, capital funding be released for the 2026 Fleet Equipment Replacement in the amount of $2,900,000, funded from the Equipment Reserve (ER); as per the 2024-2026 approved Capital Budget (ref# 422).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "5b",
+   "item_number": "5b",
+   "item_title": "2024-2026 Capital Budget Project",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report CORP2024-017. 2. That Council approve the reclassification of capital ref #132 - Equity and Reconciliation Partnerships as Routine as listed in Appendix A. 3. That Council approve the reclassification of capital ref #228 - Audio and Visual Equipment and Systems Technology as Routine as listed in Appendix A. 4. That Council approve the reclassification of capital ref #308 - Emerald Ash Borer Management Plan Implementation as Routine as listed in Appendix A. 5. That Council approve the reclassification of capital ref #309 - Urban Forest Management Implementation as Routine as listed in Appendix A. 6. That Council approve the reclassification of capital ref #327 - Winter Sidewalk Maintenance Service Enhancements Equipment as Routine as listed in Appendix A. 7. That Council approve the reclassification of capital ref #401 - Digital Strategy Implementation - Architecture Maintenance and Upgrades as Routine as listed in Appendix A. 8. That Council approve the reclassification of capital ref #414 – Comprehensive Asset Management as Routine as listed in Appendix A. 9. That Council approve the reclassification of capital ref #620 - Affordable Housing Strategy as Routine as listed in Appendix A.",
+   "text_html": "<p>1. That Council approve report CORP2024-017.</p><p>2. That Council approve the reclassification of capital ref #132 - Equity and Reconciliation Partnerships as Routine as listed in Appendix A.</p><p>3. That Council approve the reclassification of capital ref #228 - Audio and Visual Equipment and Systems Technology as Routine as listed in Appendix A.</p><p>4. That Council approve the reclassification of capital ref #308 - Emerald Ash Borer Management Plan Implementation as Routine as listed in Appendix A.</p><p>5. That Council approve the reclassification of capital ref #309 - Urban Forest Management Implementation as Routine as listed in Appendix A.</p><p>6. That Council approve the reclassification of capital ref #327 - Winter Sidewalk Maintenance Service Enhancements Equipment as Routine as listed in Appendix A.</p><p>7. That Council approve the reclassification of capital ref #401 - Digital Strategy Implementation - Architecture Maintenance and Upgrades as Routine as listed in Appendix A.</p><p>8. That Council approve the reclassification of capital ref #414 – Comprehensive Asset Management as Routine as listed in Appendix A.</p><p>9. That Council approve the reclassification of capital ref #620 - Affordable Housing Strategy as Routine as listed in Appendix A.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "5c",
+   "item_number": "5c",
+   "item_title": "Housing-Enabling Water Systems Fund",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve IPPW2024-013. 2. That Council direct staff to prepare an application to the Housing- Enabling Water Systems Fund, in support of the Beaver Creek Road and Conservation Drive Reconstruction project (Ref. #590 in the Approved 2024-2026 Capital Budget), for an estimated total eligible grant value of up to $35 million, titled “Beaver Creek Meadows Infrastructure Expansion.” 3. That should the City’s Housing-Enabling Water Systems Fund grant application be successful, Council authorize the Mayor and Clerk to sign the grant transfer payment agreement and any other related documents.",
+   "text_html": "<p>1. That Council approve IPPW2024-013.</p><p>2. That Council direct staff to prepare an application to the Housing- Enabling Water Systems Fund, in support of the Beaver Creek Road and Conservation Drive Reconstruction project (Ref. #590 in the Approved 2024-2026 Capital Budget), for an estimated total eligible grant value of up to $35 million, titled “Beaver Creek Meadows Infrastructure Expansion.”</p><p>3. That should the City’s Housing-Enabling Water Systems Fund grant application be successful, Council authorize the Mayor and Clerk to sign the grant transfer payment agreement and any other related documents.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "5d",
+   "item_number": "5d",
+   "item_title": "Award of Tender RFT24-04 Hillcrest",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Roach",
+   "text": "1. That IPPW2024-014 be approved. 2. That Council approve the award of RFT 24-04 – Hillcrest Avenue Reconstruction to 410754 Ontario Limited o/a Sousa Concrete for the submitted price of $1,222,000.00 plus unrecoverable HST in the amount of $21,507.20 for a total award value of $1,243,507.20. 3. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and 410754 Ontario Limited o/a Sousa Concrete, and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That IPPW2024-014 be approved.</p><p>2. That Council approve the award of RFT 24-04 – Hillcrest Avenue Reconstruction to 410754 Ontario Limited o/a Sousa Concrete for the submitted price of $1,222,000.00 plus unrecoverable HST in the amount of $21,507.20 for a total award value of $1,243,507.20.</p><p>3. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and 410754 Ontario Limited o/a Sousa Concrete, and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m5",
+   "item": "5e",
+   "item_number": "5e",
+   "item_title": "Brownfields Financial Incentive Program",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "1. That CAO2024-009 be approved. 2. That Council approves the phasing of the approved Tax Increment Grant to Reid’s Heritage Homes Ltd. for the property known as 119 Roger Street, previously approved via report CAO2019-029. 3. That the joint phased Tax Increment Grant does not exceed the maximum amount of $728,954 for the City for the Initial Registration Phase to be financed from the incremental tax revenue for the property following remediation, redevelopment and reassessment. 4. That the joint phased Tax Increment Grant does not exceed the maximum amount of $392,820 for the City for Phase One be financed from the incremental tax revenue for the property following remediation, redevelopment and reassessment. 5. That the joint phased Tax Increment Grant does not exceed the maximum amount of $119,415 for the City for Phase Two be financed from the incremental tax revenue for the property following remediation, redevelopment and reassessment. 6. That the Region of Waterloo brownfield coordinator be advised of City Council’s decision regarding this application. 7. That the Mayor and Clerk be authorized to execute Phased TIG Agreements, and any related documents, in coordination with the Region of Waterloo with the registered owner of 119 Roger Street to the satisfaction of the City and Regional Solicitors.",
+   "text_html": "<p>1. That CAO2024-009 be approved.</p><p>2. That Council approves the phasing of the approved Tax Increment Grant to Reid’s Heritage Homes Ltd. for the property known as 119 Roger Street, previously approved via report CAO2019-029.</p><p>3. That the joint phased Tax Increment Grant does not exceed the maximum amount of $728,954 for the City for the Initial Registration Phase to be financed from the incremental tax revenue for the property following remediation, redevelopment and reassessment.</p><p>4. That the joint phased Tax Increment Grant does not exceed the maximum amount of $392,820 for the City for Phase One be financed from the incremental tax revenue for the property following remediation, redevelopment and reassessment.</p><p>5. That the joint phased Tax Increment Grant does not exceed the maximum amount of $119,415 for the City for Phase Two be financed from the incremental tax revenue for the property following remediation, redevelopment and reassessment.</p><p>6. That the Region of Waterloo brownfield coordinator be advised of City Council’s decision regarding this application.</p><p>7. That the Mayor and Clerk be authorized to execute Phased TIG Agreements, and any related documents, in coordination with the Region of Waterloo with the registered owner of 119 Roger Street to the satisfaction of the City and Regional Solicitors.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "5f",
+   "item_number": "5f",
+   "item_title": "Award of Tender RFT24-03 Quickfall",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That IPPW2024-012 be approved. 2. That Council approve the award of RFT24-03 – Quickfall Drive & Langford Place, Mayfield Ave to End of Cul-De-Sacs Reconstruction Project to Steed and Evans Limited for the submitted price of $2,213,928.90 plus unrecoverable HST in the amount of $38,965.15 for a total award value of $2,252,894.05. 3. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and Steed and Evans Limited, and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That IPPW2024-012 be approved.</p><p>2. That Council approve the award of RFT24-03 – Quickfall Drive &amp; Langford Place, Mayfield Ave to End of Cul-De-Sacs Reconstruction Project to Steed and Evans Limited for the submitted price of $2,213,928.90 plus unrecoverable HST in the amount of $38,965.15 for a total award value of $2,252,894.05.</p><p>3. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and Steed and Evans Limited, and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "7",
+   "item_number": "7",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-018 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-018 By-law to confirm all actions and proceedings of Council, March 18, 2024",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-018 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-018 By-law to confirm all actions and proceedings of Council, March 18, 2024</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m8",
+   "item": "8",
+   "item_number": "8",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Wright",
+   "text": "That the meeting adjourn. (Time: 2:31 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 2:31 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Roe",
+   "event": "left",
+   "text": "Councillor Roe left the meeting. (Time: 2:23 p.m.)",
+   "page": 2
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "left",
+   "text": "Mayor McCabe left the meeting. (Time: 2:23 p.m.)",
+   "page": 2
+  },
+  {
+   "member": "Roe",
+   "event": "joined",
+   "text": "Councillor Roe joined the meeting. (Time: 2:25 p.m.)",
+   "page": 3
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,959 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 10,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roe",
+  "Wright",
+  "Roach",
+  "Freeman",
+  "Vasic"
+ ],
+ "absent": [
+  "Roach",
+  "Freeman",
+  "Vasic"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with moments of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>",
+    "<p>The flags at City of Waterloo facilities had been at half-mast since the tragic events in Tumbler Ridge on February 11. This is the first Council meeting held since that date, and on behalf of Council, staff, and the City of Waterloo, I want to extend again our sincere condolences to all those who lost a family member or loved one, and to recognize all the lives which have been forever changed by this tragedy.</p>",
+    "<p>We continue to hold the people of Tumbler Ridge in our thoughts, sending strength to your community as you support one another through the coming weeks.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4a",
+   "number": "4a",
+   "title": "January 19, 2026 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "4b",
+   "number": "4b",
+   "title": "January 26, 2026 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations/delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5a",
+   "number": "5a",
+   "title": "Open Air Fire By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Deborah-Lynn Worden, Resident of Waterloo spoke in favour of a structured pilot program for backyard fires, addressing concerns outlined in a 2021 staff report, including safety, staffing and financial concerns. Deborah-Lynn Worden also spoke about the support from residents for such a program, as well as the benefits to the community.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Roe requested that item 6c) 2025 Drinking Water Annual and Summary Report be removed from the consent motion.</p>",
+    "<p>That consent motion items (a) through (c) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "Traffic and Parking By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Amendments – Various Locations</p>",
+    "<p>Report No.: IPPW2026-010</p>",
+    "<p>Prepared By: Haydn Kocznur</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "Nuisance By-law Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2026-007</p>",
+    "<p>Prepared By: Nicole Papke, Christopher Mulhern</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6c",
+   "number": "6c",
+   "title": "Speed Management on Residential",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Streets – 2026 Update</p>",
+    "<p>Report No.: IPPW2026-003</p>",
+    "<p>Prepared By: Ainsley Rego</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "2025 Drinking Water Annual and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Summary Report</p>",
+    "<p>Report No.: IPPW2026-004</p>",
+    "<p>Prepared By: Lori McKenzie</p>",
+    "<p>Natasha Glauser responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Acquisition of 279 Lexington Road",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2026-009</p>",
+    "<p>Prepared By: Robin Milne</p>",
+    "<p>Andrea Bazler responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8b",
+   "number": "8b",
+   "title": "Dangerous Dogs By-law Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2026-006</p>",
+    "<p>Prepared By: Grant Curlew</p>",
+    "<p>Grant Curlew responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8c",
+   "number": "8c",
+   "title": "Short-Form Wording and Penalties Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2026-008</p>",
+    "<p>Prepared By: Grant Curlew</p>",
+    "<p>Council meeting recessed: (Time: 2:29 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with moments of reflection.</p>",
+    "<p>The flags at City of Waterloo facilities had been at half-mast since the tragic events in Tumbler Ridge on February 11. This is the first Council meeting held since that date, and on behalf of Council, staff, and the City of Waterloo, I want to extend again our sincere condolences to all those who lost a family member or loved one, and to recognize all the lives which have been forever changed by this tragedy.</p>",
+    "<p>We continue to hold the people of Tumbler Ridge in our thoughts, sending strength to your community as you support one another through the coming weeks.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "11a",
+   "number": "11a",
+   "title": "Development Charge By-law Update –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>",
+    "<p>Report No.: CORP2026-003</p>",
+    "<p>Prepared By: Michael Pugliese</p>",
+    "<p>Ward No.: All – City wide</p>",
+    "<p>Stefan Krzeczunowicz, Hemson Consulting Ltd. gave a presentation outlining the Development Charges process including the passage of the proposed by-law, as well as the current and calculated rates of Development Charges for the City. Stefan Krzeczunowicz then responded to questions of Council. Brad Witzel and Michael Pugliese also responded to questions of Council.</p>",
+    "<p>Craig Sloss, Resident of Waterloo gave a presentation detailing experience with Development Charges and affordability in the Region, as well as the year-over-year changes in the rates compared to the housing prices for the past three years. Craig Sloss also spoke in favour of the City not delaying the West Side Recreation Facility, as west Waterloo has the highest concentration of families with children and newcomers to Canada, and delaying it would disproportionately impact these communities.</p>",
+    "<p>Brian Santos, Advocacy Committee Member, Cornerstone Association of Realtors spoke against raising Development Charges in the City, as it impacts affordability and attainability for residents and newcomers to Waterloo. Brian Santos responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the process, the Chair concluded the Formal Public Meeting and advised the meeting is now open to Council for a motion and debate.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 6
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Consideration of Notice of Motion Given at Previous Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12a",
+   "number": "12a",
+   "title": "Mayor Dorothy McCabe – Provincial Plan for Consolidation of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Ontario’s Conservation Authorities</p>",
+    "<p>Motion tabled February 9, 2026 for Council consideration February 23, 2026.</p>",
+    "<p>Mayor McCabe left the Chair. (Time: 7:17 p.m.)</p>",
+    "<p>Councillor Roe in the Chair. (Time: 7:17 p.m.)</p>",
+    "<p>Councillor Roe left the Chair. (Time: 7:22 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair. (Time: 7:22 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 7
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Questions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman had a question for Kevin Van Ooteghem, wondering if the noise by- law can be implemented in an apartment building. Kevin Van Ooteghem responded that he would follow up with her.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright mentioned that Mount Zion Lutheran Church held their Black History Month service and community lunch this past Sunday, February 22. It was a highlight to join the congregation and celebrate the many accomplishments and contributions of Black Canadians and Black people around the world. It is also a celebration of the recipients of the Canadian Caribbean Association of Waterloo Region scholarship fund.</p>",
+    "<p>She and the other elected officials, including Councillor Roe, had the opportunity to serve the food to the community.</p>",
+    "<p>Councillor Roe attended the Black Pharmacy Professionals Conference this past weekend, February 20-22, at the University of Waterloo School of Pharmacy in Kitchener. Approximately 150 pharmacists and pharmacy students from across Canada attended the event. There was an awards ceremony, and great conversations about representation for health care providers that reflect people&#x27;s lived experiences.</p>",
+    "<p>Mayor McCabe highlighted that Council for a Day is coming up on April 16. It’s open to grade five students in the City of Waterloo. They can share their one big idea to make the City even better.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 9
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, March 23, 2026</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 10
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4a",
+   "item_number": "4a",
+   "item_title": "January 19, 2026 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "That the minutes of the Council meeting held on January 19, 2026 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on January 19, 2026 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "4b",
+   "item_number": "4b",
+   "item_title": "January 26, 2026 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "That the minutes of the Council meeting held on January 26, 2026 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on January 26, 2026 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "Traffic and Parking By-law",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report IPPW2026-010; and, 2. That Traffic and Parking By-law #08-077 be updated with the amendments contained herein.",
+   "text_html": "<p>1. That Council approve report IPPW2026-010; and,</p><p>2. That Traffic and Parking By-law #08-077 be updated with the amendments contained herein.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "Nuisance By-law Update",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report COM2026-007. 2. That Council approve amendments to the Nuisance By-law 2011- 125",
+   "text_html": "<p>1. That Council approve report COM2026-007.</p><p>2. That Council approve amendments to the Nuisance By-law 2011- 125</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "6c",
+   "item_number": "6c",
+   "item_title": "Speed Management on Residential",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council receive report IPPW2026-003 for information.",
+   "text_html": "<p>1. That Council receive report IPPW2026-003 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "2025 Drinking Water Annual and",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council receives the 2025 Annual and Summary Reports pursuant to Ontario Regulation 170/03 of the Safe Drinking Water Act (2002). 2. That Council approves IPPW2026-004.",
+   "text_html": "<p>1. That Council receives the 2025 Annual and Summary Reports pursuant to Ontario Regulation 170/03 of the Safe Drinking Water Act (2002).</p><p>2. That Council approves IPPW2026-004.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Acquisition of 279 Lexington Road",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report COM2026-009. 2. That Council approve the release of the 2026 non-routine capital funding Parkland Acquisitions (ref #293) in the amount $1,334,000 from the 2026 approved capital budget for the acquisition of 279 Lexington Road. 3. That the Mayor and Clerk be authorized to sign the Agreement of Purchase and Sale, and any documents related to the acquisition of 279 Lexington Road, documents subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2026-009.</p><p>2. That Council approve the release of the 2026 non-routine capital funding Parkland Acquisitions (ref #293) in the amount $1,334,000 from the 2026 approved capital budget for the acquisition of 279 Lexington Road.</p><p>3. That the Mayor and Clerk be authorized to sign the Agreement of Purchase and Sale, and any documents related to the acquisition of 279 Lexington Road, documents subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m8",
+   "item": "8b",
+   "item_number": "8b",
+   "item_title": "Dangerous Dogs By-law Update",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2026-006. 2. That Council repeal and replace Dangerous Dog By-law #98-092 with the updated Dangerous Dog By-law attached as Appendix A 3. That Council approve amendments to the Screening and Hearing Officer By-law 4. That Council approve the amendments to Schedule A of the General Administrative Penalty By-law",
+   "text_html": "<p>1. That Council approve report COM2026-006.</p><p>2. That Council repeal and replace Dangerous Dog By-law #98-092 with the updated Dangerous Dog By-law attached as Appendix A</p><p>3. That Council approve amendments to the Screening and Hearing Officer By-law</p><p>4. That Council approve the amendments to Schedule A of the General Administrative Penalty By-law</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m9",
+   "item": "8c",
+   "item_number": "8c",
+   "item_title": "Short-Form Wording and Penalties Update",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report COM2026-008. 2. That Council approve the amendments to Schedule A of the General Administrative Penalty By-law",
+   "text_html": "<p>1. That Council approve report COM2026-008.</p><p>2. That Council approve the amendments to Schedule A of the General Administrative Penalty By-law</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m10",
+   "item": "11a",
+   "item_number": "11a",
+   "item_title": "Development Charge By-law Update –",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Freeman",
+   "text": "1. That CORP2026-003 be approved. 2. That the 2026 Development Charges Background Study dated January 19, 2026, as amended (if applicable), be approved.",
+   "text_html": "<p>1. That CORP2026-003 be approved.</p><p>2. That the 2026 Development Charges Background Study dated January 19, 2026, as amended (if applicable), be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m11",
+   "item": "12a",
+   "item_number": "12a",
+   "item_title": "Mayor Dorothy McCabe – Provincial Plan for Consolidation of",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Bodaly",
+   "text": "WHEREAS the Conservation Authorities Act, 1990 (the “Act”), originally enacted in 1946, was established to allow municipalities to form conservation authorities equipped to deliver local, watershed-based conservation, restoration, and natural resource management programs on behalf of both the province and municipalities; and, WHEREAS Ontario’s thirty-six (36) conservation authorities are each distinct, reflecting the unique environmental, geographic, and community needs of their respective watersheds; and, WHEREAS municipalities have long relied on their conservation authorities to tailor programs to local watershed priorities while ensuring fair and transparent costs for ratepayers; and, WHEREAS municipalities are best positioned to understand the needs of their local communities and environments, and the existing watershed- based structure enables effective, collaborative approaches to water conservation and resource management that cannot be replicated through centralized oversight; and, WHEREAS the Province of Ontario has not provided any information to municipalities regarding the financial and operational impact of the consolidation of Conservation Authorities to municipalities nor the conservation authorities; and, WHEREAS Bill 68 (Schedule 3) and ERO Posting 025-1257 propose consolidating Ontario’s 36 conservation authorities into seven regional authorities and creating the Ontario Provincial Conservation Agency, a Crown agency that would assume oversight and possess the authority to levy conservation authorities for its costs meaning municipalities may ultimately contribute all or a significant share of OPCA’s budget without having any meaningful role in shaping its governance, priorities, or strategic direction. NOW THEREFORE BE IT RESOLVED: THAT the City of Waterloo Council requests that the Minister of Environment, Conservation and Parks and the Chief Conservation Executive meaningfully consult with municipalities including the City of Waterloo to allow municipalities the opportunity to review the full financial, reserves and operational impacts that could affect local control and management of the floodplain areas watersheds and natural resources which Conservation Authorities were established to manage; AND THAT the Minister of Environment, Conservation and Parks and the Chief Conservation Executive meet with the GRCA leadership to consult regarding the regional model proposed which more closely aligns with existing Source Protection Regions; AND THAT a copy of this motion be forwarded to The Honourable Doug Ford, Premier of Ontario; The Honourable Todd McCarthy, Minister of Environment, Conservation and Parks; local and area MPPs; the Grand River Conservation Authority (GRCA); the Association of Municipalities of Ontario (AMO); the Association of Municipal Managers, Clerks and Treasurers of Ontario (AMCTO); and to the Region of Waterloo and local area municipalities.",
+   "text_html": "<p>WHEREAS the Conservation Authorities Act, 1990 (the “Act”), originally enacted in 1946, was established to allow municipalities to form conservation authorities equipped to deliver local, watershed-based conservation, restoration, and natural resource management programs on behalf of both the province and municipalities; and, WHEREAS Ontario’s thirty-six (36) conservation authorities are each distinct, reflecting the unique environmental, geographic, and community needs of their respective watersheds; and, WHEREAS municipalities have long relied on their conservation authorities to tailor programs to local watershed priorities while ensuring fair and transparent costs for ratepayers; and, WHEREAS municipalities are best positioned to understand the needs of their local communities and environments, and the existing watershed- based structure enables effective, collaborative approaches to water conservation and resource management that cannot be replicated through centralized oversight; and, WHEREAS the Province of Ontario has not provided any information to municipalities regarding the financial and operational impact of the consolidation of Conservation Authorities to municipalities nor the conservation authorities; and, WHEREAS Bill 68 (Schedule 3) and ERO Posting 025-1257 propose consolidating Ontario’s 36 conservation authorities into seven regional authorities and creating the Ontario Provincial Conservation Agency, a Crown agency that would assume oversight and possess the authority to levy conservation authorities for its costs meaning municipalities may ultimately contribute all or a significant share of OPCA’s budget without having any meaningful role in shaping its governance, priorities, or strategic direction. NOW THEREFORE BE IT RESOLVED: THAT the City of Waterloo Council requests that the Minister of Environment, Conservation and Parks and the Chief Conservation Executive meaningfully consult with municipalities including the City of Waterloo to allow municipalities the opportunity to review the full financial, reserves and operational impacts that could affect local control and management of the floodplain areas watersheds and natural resources which Conservation Authorities were established to manage; AND THAT the Minister of Environment, Conservation and Parks and the Chief Conservation Executive meet with the GRCA leadership to consult regarding the regional model proposed which more closely aligns with existing Source Protection Regions; AND THAT a copy of this motion be forwarded to The Honourable Doug Ford, Premier of Ontario; The Honourable Todd McCarthy, Minister of Environment, Conservation and Parks; local and area MPPs; the Grand River Conservation Authority (GRCA); the Association of Municipalities of Ontario (AMO); the Association of Municipal Managers, Clerks and Treasurers of Ontario (AMCTO); and to the Region of Waterloo and local area municipalities.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m12",
+   "item": "15",
+   "item_number": "15",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2026-007 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2026-007 By-Law to Amend Statutory Officer Appointment By-law 2014-046 b) By-law 2026-008 By-law Establishing a Public Highway in the City of Waterloo known as Ladyslipper Drive (DS06-16, July 17, 2006) c) By-law 2026-009 By-law to Amend No.08-77, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2026-010, Council February 23, 2026) d) By-law 2026-010 By-law to Regulate Dangerous Dogs, Potentially Dangerous Dogs and Prohibited Dogs (COM2026-006, Council February 23, 2026) e) By-law 2026-011 By-law Relating to Screening and Hearing Officers (COM2026-006, Council February 23, 2026) f) By-law 2026-012 By-law for Licensing and Regulation of Renovations in Rental Housing (COM2026- 002, Council January 19, 2026) g) By-law 2026-013 By-law to Amend City of Waterloo By-law #2011-125 (COM2026-007, Council February 23, 2026) h) By-law 2026-014 By-law to Amend City of Waterloo By-law #2023-038 to Provide for the Update of Monetary Penalties and Administrative Fees Schedule (COM2026-008, Council February 23, 2026) i) By-law 2026-015 By-law to confirm all actions and proceedings of Council, February 23, 2026",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2026-007 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2026-007 By-Law to Amend Statutory Officer Appointment By-law 2014-046 b) By-law 2026-008 By-law Establishing a Public Highway in the City of Waterloo known as Ladyslipper Drive (DS06-16, July 17, 2006) c) By-law 2026-009 By-law to Amend No.08-77, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2026-010, Council February 23, 2026) d) By-law 2026-010 By-law to Regulate Dangerous Dogs, Potentially Dangerous Dogs and Prohibited Dogs (COM2026-006, Council February 23, 2026) e) By-law 2026-011 By-law Relating to Screening and Hearing Officers (COM2026-006, Council February 23, 2026) f) By-law 2026-012 By-law for Licensing and Regulation of Renovations in Rental Housing (COM2026- 002, Council January 19, 2026) g) By-law 2026-013 By-law to Amend City of Waterloo By-law #2011-125 (COM2026-007, Council February 23, 2026) h) By-law 2026-014 By-law to Amend City of Waterloo By-law #2023-038 to Provide for the Update of Monetary Penalties and Administrative Fees Schedule (COM2026-008, Council February 23, 2026) i) By-law 2026-015 By-law to confirm all actions and proceedings of Council, February 23, 2026</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m13",
+   "item": "16",
+   "item_number": "16",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Freeman",
+   "text": "That the meeting adjourn. (Time: 7:27 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 7:27 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 10
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

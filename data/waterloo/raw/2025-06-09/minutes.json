@@ -1,0 +1,601 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 6,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [
+  "Hanmer"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:07 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:31 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "May 5, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "May 12, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Kitchener-Waterloo Siskins 2025/26",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>License Renewal</p>",
+    "<p>Report No.: COM2025-013</p>",
+    "<p>Prepared By: Jillian Fleming</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Carnegie Library- Museum Use –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Feasibility Study Update</p>",
+    "<p>Report No.: COM2025-014</p>",
+    "<p>Prepared By: Karen VandenBrink, Heather Liddycoat</p>",
+    "<p>Heather Liddycoat and Karen VandenBrink responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Official Plan Amendment 59 and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning By-law Amendment Z-24-15,</p>",
+    "<p>TJMT Enterprise Ltd., 354 King Street North</p>",
+    "<p>Report No.: IPPW2025-039</p>",
+    "<p>Prepared By: John Vos and Janine Fletcher</p>",
+    "<p>Ward No.: Central-Columbia, Ward 6</p>",
+    "<p>Janine Fletcher gave a presentation outlining the proposed development, including the site context, the unit breakdown, and the specific amendments being requested. She then responded to questions of Council. John Vos also responded to questions of Council.</p>",
+    "<p>Richard Kelly-Ruetz, Senior Planner, GSP Group gave a presentation further detailing the proposed development, offering information on the unit mix and floor plans, as well as the amenity space, commercial space, and the elevation of the ground floor. He then responded to questions of Council. Janine Fletcher also responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application was open to Council for a motion and debate.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman mentioned that on June 10 there is a public meeting regarding changes on the Lexington Road corridor from Davenport Road to University Avenue, especially regarding active transportation. More information can be found on EngageWR.</p>",
+    "<p>Councillor Freeman also mentioned that she was concerned about wind impacts, especially with the environmental implications of Bill 5. She asked if there was more to comment on, and Mayor McCabe mentioned that staff had provided comments to the environmental registry on Bill 5. Mayor was hopeful to work with the Elected Officials at the Province on the environmental regulations.</p>",
+    "<p>Councillor Vasic wanted to recognize community and staff for hosting longstanding events, such as KW Bookfest on the weekend of May 31. She offered thanks to the KW Writers Alliance and the CreateWaterloo Arts and Creative Industries team, who do a lot with very little. She mentioned the Croyden-Southwick BBQ in Ward 5, celebrating their 31st Anniversary, on the weekend of June 14-15. There would be a pig roast and games. Councillor Vasic thanked the Lincoln Hights neighbourhood for the yard sale that was also becoming a staple in the neighbourhood.</p>",
+    "<p>Councillor Freeman wanted to highlight the Service Centre Open House, on Saturday, June 7. Councillor Wright followed up, mentioning that she stayed until they presented the cheque to Food4Kids. It was the 30th anniversary, and it was a great opportunity for kids and for the public to look “under the hood” at the City. The event raised over $2,000 for Food4Kids.</p>",
+    "<p>Councillor Roe mentioned the City Pride kick-off celebration in Waterloo Town Square on Wednesday, June 5. She highlighted that in the times of concerning rhetoric, it was great to be part of this Council and this City that prioritizes diversity and inclusion. She offered thanks to staff for organizing it.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 6
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, September 8, 2025</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 6
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Hanmer",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (Council Orientation – accessibility).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (Council Orientation – accessibility).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "May 5, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Wright",
+   "text": "That the minutes of the Council meeting held on May 5, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on May 5, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "May 12, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Wright",
+   "text": "That the minutes of the Council meeting held on May 12, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on May 12, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "Kitchener-Waterloo Siskins 2025/26",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report COM2025-013. 2. That Council direct staff to formalize a license renewal for 2025- 2026 with the Kitchener-Waterloo Siskins Jr B Hockey Club, per report COM2025-013. 3. That the Mayor and City Clerk be authorized to sign the Kitchener- Waterloo Siskins Jr. ‘B’ Hockey Club 2025 – 2026 License Renewal, any related documents and associated extensions in a form to be approved by the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2025-013.</p><p>2. That Council direct staff to formalize a license renewal for 2025- 2026 with the Kitchener-Waterloo Siskins Jr B Hockey Club, per report COM2025-013.</p><p>3. That the Mayor and City Clerk be authorized to sign the Kitchener- Waterloo Siskins Jr. ‘B’ Hockey Club 2025 – 2026 License Renewal, any related documents and associated extensions in a form to be approved by the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Carnegie Library- Museum Use –",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report COM2025-014. 2. That Council direct staff to proceed with issuing an RFP for consulting services to complete the detail design work for the Carnegie Library – Museum Use Renovation Project, funded through the previously approved 2019 capital budget. 3. That Council direct staff to pursue any relevant grant opportunities over the next 2 years to support the project work, which would be brought back to Council for approval if applicable, in accordance with the City’s grant policy. 4. That Council approve the release of 2025 non-routine funding in the amount of $930,000, funded from the Capital Reserve Fund as approved in the 2024-2026 Capital Budget (ref# 209).",
+   "text_html": "<p>1. That Council approve report COM2025-014.</p><p>2. That Council direct staff to proceed with issuing an RFP for consulting services to complete the detail design work for the Carnegie Library – Museum Use Renovation Project, funded through the previously approved 2019 capital budget.</p><p>3. That Council direct staff to pursue any relevant grant opportunities over the next 2 years to support the project work, which would be brought back to Council for approval if applicable, in accordance with the City’s grant policy.</p><p>4. That Council approve the release of 2025 non-routine funding in the amount of $930,000, funded from the Capital Reserve Fund as approved in the 2024-2026 Capital Budget (ref# 209).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Official Plan Amendment 59 and",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve staff report IPPW2025-039. 2. That Council approve Official Plan Amendment 59 (OPA 59), TJMT Enterprise Ltd., 354 King Street North in accordance with Section 7 of staff report IPPW2025-039. 3. That the effective date of OPA 59 shall be the day after the Ministry of Municipal Affairs and Housing decision on OPA 58. 4. That Council approve Zoning By-law Amendment Z-24-15, TJMT Enterprise Ltd., 354 King Street North in accordance with Section 7 of staff report IPPW2025-039.",
+   "text_html": "<p>1. That Council approve staff report IPPW2025-039.</p><p>2. That Council approve Official Plan Amendment 59 (OPA 59), TJMT Enterprise Ltd., 354 King Street North in accordance with Section 7 of staff report IPPW2025-039.</p><p>3. That the effective date of OPA 59 shall be the day after the Ministry of Municipal Affairs and Housing decision on OPA 58.</p><p>4. That Council approve Zoning By-law Amendment Z-24-15, TJMT Enterprise Ltd., 354 King Street North in accordance with Section 7 of staff report IPPW2025-039.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "10",
+   "item_number": "10",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-033 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-033 By-law to confirm all actions and proceedings of Council, June 9, 2025",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-033 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-033 By-law to confirm all actions and proceedings of Council, June 9, 2025</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m8",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Vasic",
+   "text": "That the meeting adjourn. (Time: 7:33 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 7:33 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 6:33 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 6:33 p.m.)",
+   "page": 3
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

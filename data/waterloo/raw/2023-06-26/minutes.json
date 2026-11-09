@@ -1,0 +1,1286 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 14,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:03 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 4:06 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we are gathered and broadcasting from today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral peoples. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous people with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "May 29, 2023 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (c) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "2023 Audit Committee Recruitment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-026</p>",
+    "<p>Prepared By: Kevin Gerlach</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Kitchener-Waterloo Siskins 2023-2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>License Renewal</p>",
+    "<p>Report No.: COM2023-023</p>",
+    "<p>Prepared By: Jillian Fleming</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7c",
+   "number": "7c",
+   "title": "License of Land for Public",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Recreational Purposes</p>",
+    "<p>Report No.: IPPW2023-041</p>",
+    "<p>Prepared By: Chris Hodgson</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "2023-2026 Final Strategic Plan",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CAO2023-022</p>",
+    "<p>Prepared By: Sandy Little</p>",
+    "<p>Mayor McCabe offered introductory remarks.</p>",
+    "<p>Sandy Little offered further remarks, noting three key points: engaging with equity- deserving groups, building on previous strategic plans, and making sure this wasn’t a “one and done” approach. She wanted to make sure that they were having ongoing conversations, and following an implementation process that was always evolving and bringing people together.</p>",
+    "<p>Sarah Lewis, Manager, Deloitte gave a presentation on the final Strategic Plan, including the Vision, Mission, Guiding Principles and Strategic Priorities. She discussed the links to the United Nations Sustainable Development Goals, and the performance measurement they intend to use going forward. She then responded to questions of Council.</p>",
+    "<p>Sandy Little went over next steps, including integration of the Strategic Plan and performance measurement metrics, and releasing details in the coming months around the Community Conversations Initiative. She then thanked the community, staff, CMT and Council for their participation in this work.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Award of Tender RFT23-15 Highpoint",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Avenue CIPP Watermain Lining</p>",
+    "<p>Report No.: IPPW2023-033</p>",
+    "<p>Prepared By: Caroline Amyot</p>",
+    "<p>Caroline Amyot responded to questions of Council. Ron Ormson also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9c",
+   "number": "9c",
+   "title": "2023 Laurel Creek Culvert Inlet Deck Repair –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Funding Request</p>",
+    "<p>Report No.: IPPW2023-038</p>",
+    "<p>Prepared By: Michael Stewart</p>",
+    "<p>Council meeting recessed: (Time: 4:45 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:32 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the evening meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we are gathered and broadcasting from today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral peoples. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous people with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>",
+    "<p>13. STAFF REPORTS continued</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "12d",
+   "number": "12d",
+   "title": "Winter Sidewalk Maintenance Service",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Enhancement Recommendations</p>",
+    "<p>Report No.: IPPW2023-040</p>",
+    "<p>Prepared By: Bob Henderson, Robin Milne,</p>",
+    "<p>Nicole Papke, Cari Van Niekerk</p>",
+    "<p>Bob Henderson offered some introductory remarks to the report.</p>",
+    "<p>Daisy Arseneault, Resident of Waterloo spoke about the work done by the City, reminded Council that the conversation around sidewalk snow clearing is citizen-led and citizen-fueled, and spoke about the importance of equitable and inclusive active transportation, and sustainability.</p>",
+    "<p>Leslie Maxwell, School Travel Planning Supervisor, Student Transportation Services of Waterloo Region spoke in support of the recommendations provided, and the importance of active transportation. She then responded to questions of Council.</p>",
+    "<p>Aswin Annamalai, Resident of Waterloo talked about how the report was a good start, and asked Council to support the report.</p>",
+    "<p>Janice Jim, Resident of Waterloo thanked Council and staff for listening to the citizen concerns, and mentioned the importance of an accessible City.</p>",
+    "<p>Craig Sloss, Resident of Waterloo gave his feedback on the recommendations before Council. Some of the initiatives he recommended the City take on included: clearing sidewalks on Regional Roads, and looking at whether clearing Regional Roads and increased by-law funding could have their timelines switched. He lastly spoke about the greenhouse gas emissions associated with sidewalk snow clearing, and the balance between that and accessibility.</p>",
+    "<p>Bob Henderson, Nicole Papke, Brad Witzel and Cari Van Niekerk responded to questions of Council. Julie Finley-Swaren and Mark Dykstra also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "12e",
+   "number": "12e",
+   "title": "Inclusionary Zoning - Recommended",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Policy and Implementation Directions</p>",
+    "<p>Report No.: IPPW2023-028</p>",
+    "<p>Prepared By: Michelle Lee</p>",
+    "<p>Michelle Lee gave a presentation with an overview of Inclusionary Zoning, the five principles that impact Inclusionary Zoning, and the policy directions that are being recommended. She then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 7
+  },
+  {
+   "id": "12f",
+   "number": "12f",
+   "title": "2022 Consolidated Financial Statements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-037</p>",
+    "<p>Prepared By: Mary Zubert</p>",
+    "<p>Paul Hettinga gave a presentation on the audited consolidated financial statements, explaining the total revenues and expenditures of 2022. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 8
+  },
+  {
+   "id": "12g",
+   "number": "12g",
+   "title": "Delegation of Authority – Heritage Permits",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: IPPW2023-030</p>",
+    "<p>Prepared By: Dominik Simpson</p>",
+    "<p>Dominik Simpson responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 8
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "14a",
+   "number": "14a",
+   "title": "General Amendments to Zoning By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>2018-050</p>",
+    "<p>Report No.: IPPW2023-035</p>",
+    "<p>Prepared By: Tristin Deveau</p>",
+    "<p>Ward No.: All Wards</p>",
+    "<p>Tristin Deveau gave a presentation outlining the proposed amendments to the Zoning By-law. He then responded to questions of Council. Nicole Papke also responded to questions of Council.</p>",
+    "<p>David Graham, Resident of Waterloo spoke about the additional dwelling units that the by-law amendments propose, and that the noise of construction can be detrimental to neighbourhoods. Nicole Papke and Ron Ormson responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 9
+  },
+  {
+   "id": "14b",
+   "number": "14b",
+   "title": "Official Plan Amendment No. 44 – Bill 109",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Implementation (Housekeeping)</p>",
+    "<p>Report No.: IPPW2023-031</p>",
+    "<p>Prepared By: Dominik Simpson</p>",
+    "<p>Ward No.: City-Wide</p>",
+    "<p>Dominik Simpson provided a brief overview of the proposed Official Plan Amendments.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 9
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Questions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman had a question of staff regarding an update to the Parks by-law to explicitly prohibit axe throwing.</p>",
+    "<p>Councillor Freeman asked Forestry if they could provide an update regarding the trees in the park on whether they were going to live.</p>",
+    "<p>Councillor Freeman asked Commissioner Dykstra about the weeds and vines on Davenport Road overgrowing the sidewalk making it inaccessible to residents. Mark Dykstra and Nicole Papke responded, saying the director of Parks has stated that he can look after that, but that there may be some homeowner engagement as well.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 10
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "16a",
+   "number": "16a",
+   "title": "Regional All-Council Meeting (Training) – September 15, 2023, 1:00pm-",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>3:30pm</p>",
+    "<p>Councillor Freeman wanted to shout out the Eastbridge Neighbourhood Association, who had over 200 people show up to the Food Truck Event they hosted on Saturday, June 24th.</p>",
+    "<p>Councillor Freeman was at the Waterloo Regional Police awards, and it was very humbling to be there and see citizens receiving awards for bravery and taking initiative to save lives throughout the past year.</p>",
+    "<p>Councillor Freeman wanted to shout out City Staff, specifically transportation, for the resurfacing of the roads in Colonial Acres.</p>",
+    "<p>Councillor Hanmer wanted to shout out the Westvale Community Association for their food truck day and event, despite the rain on Saturday.</p>",
+    "<p>Councillor Vasic mentioned that the Button Factory Arts is holding its annual tulip fundraiser, where you can buy a bag for $15. Land Back Camp is hosting an Indigiqueer 101 in Victoria Park on Wednesday, June 28th.</p>",
+    "<p>Councillor Wright wanted to congratulate the Parks and Neighbourhood teams on the opening of Alexandra Park.</p>",
+    "<p>Mayor McCabe shouted out Councillor Roe for organizing the Walk of Refugees on Saturday, and thanked her for her ongoing work supporting newcomers and refugees to the community.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 11
+  },
+  {
+   "id": "17",
+   "number": "17",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m17"
+   ],
+   "page": 12
+  },
+  {
+   "id": "18",
+   "number": "18",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, September 11, 2023</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m18"
+   ],
+   "page": 13
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (council orientation); b) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (OLT Appeals, acquisition/disposition of city- owned lands); c) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (OLT Appeals); and, d) a proposed or pending acquisition or disposition of land by the municipality or local board (acquisition/disposition of city-owned land).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (council orientation); b) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (OLT Appeals, acquisition/disposition of city- owned lands); c) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (OLT Appeals); and, d) a proposed or pending acquisition or disposition of land by the municipality or local board (acquisition/disposition of city-owned land).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "May 29, 2023 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Freeman",
+   "text": "That the minutes of the Council meeting held on May 29, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on May 29, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "2023 Audit Committee Recruitment",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "1. That staff report CORP2023-026 be approved. 2. That Council enact the appropriate by-law to appoint the recommended candidates to the Audit Committee.",
+   "text_html": "<p>1. That staff report CORP2023-026 be approved.</p><p>2. That Council enact the appropriate by-law to appoint the recommended candidates to the Audit Committee.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Kitchener-Waterloo Siskins 2023-2025",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2023-023. 2. That Council direct staff to formalize a license renewal for 2023- 2025 with the Kitchener-Waterloo Siskins Jr B Hockey Club, per report COM2023-023. 3. That the Mayor and City Clerk be authorized to execute and sign the Kitchener-Waterloo Siskins Jr. ‘B’ Hockey Club 2023 – 2025 License Renewal.",
+   "text_html": "<p>1. That Council approve report COM2023-023.</p><p>2. That Council direct staff to formalize a license renewal for 2023- 2025 with the Kitchener-Waterloo Siskins Jr B Hockey Club, per report COM2023-023.</p><p>3. That the Mayor and City Clerk be authorized to execute and sign the Kitchener-Waterloo Siskins Jr. ‘B’ Hockey Club 2023 – 2025 License Renewal.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "7c",
+   "item_number": "7c",
+   "item_title": "License of Land for Public",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "1. That Report IPPW2023-041 be approved. 2. That the Mayor and Clerk be authorized to sign the Hydro One licence agreement for Licence of Land for Public Recreational Purposes and any other related documents, subject to the licence agreement being acceptable to the City Solicitor and Chief Financial Officer.",
+   "text_html": "<p>1. That Report IPPW2023-041 be approved.</p><p>2. That the Mayor and Clerk be authorized to sign the Hydro One licence agreement for Licence of Land for Public Recreational Purposes and any other related documents, subject to the licence agreement being acceptable to the City Solicitor and Chief Financial Officer.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "2023-2026 Final Strategic Plan",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve staff report CAO2023-022. 2. That Council approve the 2023-2026 City of Waterloo Strategic Plan.",
+   "text_html": "<p>1. That Council approve staff report CAO2023-022.</p><p>2. That Council approve the 2023-2026 City of Waterloo Strategic Plan.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Award of Tender RFT23-15 Highpoint",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roach",
+   "text": "1. That IPPW2023-033 be approved. 2. That Council approve the award of RFT23-15 Highpoint Avenue CIPP Watermain Lining to Fer-Pal Construction Ltd. for the submitted price of $1,558,321.00 plus unrecoverable HST in the amount of $27,426.45 for a total award value of $1,585,747.45. 3. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and Fer-Pal Construction Ltd., and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That IPPW2023-033 be approved.</p><p>2. That Council approve the award of RFT23-15 Highpoint Avenue CIPP Watermain Lining to Fer-Pal Construction Ltd. for the submitted price of $1,558,321.00 plus unrecoverable HST in the amount of $27,426.45 for a total award value of $1,585,747.45.</p><p>3. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and Fer-Pal Construction Ltd., and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "9c",
+   "item_number": "9c",
+   "item_title": "2023 Laurel Creek Culvert Inlet Deck Repair –",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Vasic",
+   "text": "1. That IPPW2023-038 be approved. 2. That Council approves $500,000 in capital funding in 2023 for the Laurel Creek Culvert RS-064 Inlet Deck Repair project, funded $250,000 from the Stormwater Management Reserve (SWM), $150,000 from the Capital Infrastructure Reinvestment Reserve Fund (CIRRF), and $100,000 transferred from project 230060 IPPW-TS-Various Resurfacing.",
+   "text_html": "<p>1. That IPPW2023-038 be approved.</p><p>2. That Council approves $500,000 in capital funding in 2023 for the Laurel Creek Culvert RS-064 Inlet Deck Repair project, funded $250,000 from the Stormwater Management Reserve (SWM), $150,000 from the Capital Infrastructure Reinvestment Reserve Fund (CIRRF), and $100,000 transferred from project 230060 IPPW-TS-Various Resurfacing.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m9",
+   "item": "12d",
+   "item_number": "12d",
+   "item_title": "Winter Sidewalk Maintenance Service",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report IPPW2023-040. 2. That Council approve the winter sidewalk service enhancement recommendations as outlined in report IPPW2023-040. 3. That Council direct staff to add the winter sidewalk maintenance service enhancements to the 2024-2026 operating and capital budgets for consideration.",
+   "text_html": "<p>1. That Council approve report IPPW2023-040.</p><p>2. That Council approve the winter sidewalk service enhancement recommendations as outlined in report IPPW2023-040.</p><p>3. That Council direct staff to add the winter sidewalk maintenance service enhancements to the 2024-2026 operating and capital budgets for consideration.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m10",
+   "item": "12e",
+   "item_number": "12e",
+   "item_title": "Inclusionary Zoning - Recommended",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report IPPW2023-028. 2. That staff, in coordination with the Cities of Kitchener and Cambridge, and the Region of Waterloo, be directed to use the policy directions in Appendix A to IPPW2023-028 (Inclusionary Zoning Discussion Paper) as the basis for further consultation with the development industry, affordable housing providers, other affected groups, and the public. 3. That staff, in coordination with the Cities of Kitchener and Cambridge, and the Region of Waterloo, be directed to develop draft Inclusionary Zoning Official Plan policies and implementing Zoning By-law provisions, for council’s consideration via City initiated amendments to the Official Plan and Zoning By-law 2018- 050. Such policies and provisions to be in general accordance with the directions set out in Appendix A to IPPW2023-028 (Inclusionary Zoning Discussion Paper), and have regard to input received through the consultation process.",
+   "text_html": "<p>1. That Council approve report IPPW2023-028.</p><p>2. That staff, in coordination with the Cities of Kitchener and Cambridge, and the Region of Waterloo, be directed to use the policy directions in Appendix A to IPPW2023-028 (Inclusionary Zoning Discussion Paper) as the basis for further consultation with the development industry, affordable housing providers, other affected groups, and the public.</p><p>3. That staff, in coordination with the Cities of Kitchener and Cambridge, and the Region of Waterloo, be directed to develop draft Inclusionary Zoning Official Plan policies and implementing Zoning By-law provisions, for council’s consideration via City initiated amendments to the Official Plan and Zoning By-law 2018- 050. Such policies and provisions to be in general accordance with the directions set out in Appendix A to IPPW2023-028 (Inclusionary Zoning Discussion Paper), and have regard to input received through the consultation process.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m11",
+   "item": "12f",
+   "item_number": "12f",
+   "item_title": "2022 Consolidated Financial Statements",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve CORP2023-037 2. That Council approve the 2022 Consolidated Financial Statements of the Corporation of the City of Waterloo.",
+   "text_html": "<p>1. That Council approve CORP2023-037</p><p>2. That Council approve the 2022 Consolidated Financial Statements of the Corporation of the City of Waterloo.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m12",
+   "item": "12g",
+   "item_number": "12g",
+   "item_title": "Delegation of Authority – Heritage Permits",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roe",
+   "text": "1. The Council approve report IPPW2023-030. 2. That Council delegate authority to the City’s Director of Planning or their designate to consent to, and grants permits for, alterations to designated heritage properties pursuant to Sections 33 and 42 of the Ontario Heritage Act, R.S.O. 1990, c.O.18.",
+   "text_html": "<p>1. The Council approve report IPPW2023-030.</p><p>2. That Council delegate authority to the City’s Director of Planning or their designate to consent to, and grants permits for, alterations to designated heritage properties pursuant to Sections 33 and 42 of the Ontario Heritage Act, R.S.O. 1990, c.O.18.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m13",
+   "item": "14a",
+   "item_number": "14a",
+   "item_title": "General Amendments to Zoning By-law",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report IPPW2023-035. 2. That Council approve Zoning By-law Amendment Z-23-01, General Amendments to Zoning By-law 2018-050, as set out in Schedule ‘A’ to IPPW2023-035.",
+   "text_html": "<p>1. That Council approve report IPPW2023-035.</p><p>2. That Council approve Zoning By-law Amendment Z-23-01, General Amendments to Zoning By-law 2018-050, as set out in Schedule ‘A’ to IPPW2023-035.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m14",
+   "item": "14b",
+   "item_number": "14b",
+   "item_title": "Official Plan Amendment No. 44 – Bill 109",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report IPPW2023-031. 2. That Council adopt Official Plan Amendment No. 44 (OPA 44) – Bill 109 Implementation, Housekeeping Amendment to the Official Plan, as set out in Appendix ‘A’ to IPPW2023-031. 3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 44 (OPA 44). 4. That Council approve the Corporate Procedure as set out in Appendix ‘B’ to IPPW2023-031 regarding the withdrawal and lapsing of development applications. 5. That Council approve a by-law to delegate authority to the Director of Planning to (a) pass by-laws under Section 34 of the Planning Act that are of a minor nature, as enabled by Policy 12.2.17 (as amended) of the City’s Official Plan; and (b) approve exemptions under Section 40 of the Planning Act (Parking Exemptions), and to delegate authority to the Commissioner of Integrated Planning & Public Works to execute agreements and other documents under Section 40 of the Planning Act (Parking Exemptions), as set out in Appendix ‘C’ to IPPW2023-031, subject to the form and content of such by-law or agreement being acceptable to the City Solicitor. 6. That Council approve the hiring of two (2) new Senior Development Planners, to be funded from staff savings in 2023, and that the financial implications of said positions be referred to the 2024-2026 operating budget for permanent ongoing funding.",
+   "text_html": "<p>1. That Council approve report IPPW2023-031.</p><p>2. That Council adopt Official Plan Amendment No. 44 (OPA 44) – Bill 109 Implementation, Housekeeping Amendment to the Official Plan, as set out in Appendix ‘A’ to IPPW2023-031.</p><p>3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 44 (OPA 44).</p><p>4. That Council approve the Corporate Procedure as set out in Appendix ‘B’ to IPPW2023-031 regarding the withdrawal and lapsing of development applications.</p><p>5. That Council approve a by-law to delegate authority to the Director of Planning to (a) pass by-laws under Section 34 of the Planning Act that are of a minor nature, as enabled by Policy 12.2.17 (as amended) of the City’s Official Plan; and (b) approve exemptions under Section 40 of the Planning Act (Parking Exemptions), and to delegate authority to the Commissioner of Integrated Planning &amp; Public Works to execute agreements and other documents under Section 40 of the Planning Act (Parking Exemptions), as set out in Appendix ‘C’ to IPPW2023-031, subject to the form and content of such by-law or agreement being acceptable to the City Solicitor.</p><p>6. That Council approve the hiring of two (2) new Senior Development Planners, to be funded from staff savings in 2023, and that the financial implications of said positions be referred to the 2024-2026 operating budget for permanent ongoing funding.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m15",
+   "item": "15",
+   "item_number": "15",
+   "item_title": "Questions",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roach",
+   "text": "To direct staff to return to Council with an update to the Parks by-law to expressly probity axe throwing.",
+   "text_html": "<p>To direct staff to return to Council with an update to the Parks by-law to expressly probity axe throwing.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m16",
+   "item": "16a",
+   "item_number": "16a",
+   "item_title": "Regional All-Council Meeting (Training) – September 15, 2023, 1:00pm-",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "That Council attend an all Council Meeting for the purposes of training on Friday, September 15th, 2023.",
+   "text_html": "<p>That Council attend an all Council Meeting for the purposes of training on Friday, September 15th, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m17",
+   "item": "17",
+   "item_number": "17",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Hanmer",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-066 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-066 By-law to amend By-law 2023-003, being a by-law to provide for the appointment of community representatives of the City of Waterloo on the Appeals Tribunal, Audit Committee, Committee of Adjustment, Fence Variance Committee, and the Waterloo Public Library Board for the term ending November 2026 (CORP2023-026, Council, June 26, 2023) b) By-law 2023-067 By-law to amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2023-001, Council February 27, 2023) c) By-law 2023-068 By-law to delegate Council’s authority to consent to/grant permits for the alteration of designated heritage properties to the Director of Planning or their designate (IPPW2023-030, Council June 26, 2023) d) By-law 2023-069 By-law to amend the City of Waterloo Official Plan. Housekeeping amendments to the Official Plan to streamline development approval processes in response to Bill 109. (Official Plan Amendment No. 44, IPPW2023- 031, Council June 26, 2023) e) By-law 2023-070 By-law to amend the City of Waterloo Zoning By-law 2018-050 being a Zoning By-law controlling land use development in the City of Waterloo to amend definitions and regulations related to Additional Dwelling Units and Coach Houses to align with recent changes to Provincial Legislation. (Zoning By-law Amendment Z-23-01, IPPW2023-035, Council June 26, 2023) f) By-law 2023-071 By-law to amend the City of Waterloo Zoning By-law 2018-050 being a Zoning By-law controlling land use development in the City of Waterloo to amend Residential Northdale Zones (RN-6, RN-8, RN-12, and RN-25) to remove Site Plan Control endorsement as a condition of Holding (H) symbol removal. (Zoning By-law Amendment Z-23-01, IPPW2023-035, Council June 26, 2023) g) By-law 2023-072 By-law to amend the City of Waterloo Zoning By-law 2018-050 being a Zoning By-law controlling land use development in the City of Waterloo to improve clarity, correct errors and address omissions. (Zoning By-law Amendment Z-23-01, IPPW2023-035, Council June 26, 2023) h) By-law 2023-073 By-law to delegate Council’s authority to the Director of Planning or their designate to: pass by-laws under Section 34 of the Planning Act that are of a minor nature; and exemption and approve agreements under Section 40 of the Planning Act. (IPPW2023-031, Council June 26, 2023) i) By-law 2023-074 By-law to confirm all actions and proceedings of Council, June 26, 2023",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-066 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-066 By-law to amend By-law 2023-003, being a by-law to provide for the appointment of community representatives of the City of Waterloo on the Appeals Tribunal, Audit Committee, Committee of Adjustment, Fence Variance Committee, and the Waterloo Public Library Board for the term ending November 2026 (CORP2023-026, Council, June 26, 2023) b) By-law 2023-067 By-law to amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2023-001, Council February 27, 2023) c) By-law 2023-068 By-law to delegate Council’s authority to consent to/grant permits for the alteration of designated heritage properties to the Director of Planning or their designate (IPPW2023-030, Council June 26, 2023) d) By-law 2023-069 By-law to amend the City of Waterloo Official Plan. Housekeeping amendments to the Official Plan to streamline development approval processes in response to Bill 109. (Official Plan Amendment No. 44, IPPW2023- 031, Council June 26, 2023) e) By-law 2023-070 By-law to amend the City of Waterloo Zoning By-law 2018-050 being a Zoning By-law controlling land use development in the City of Waterloo to amend definitions and regulations related to Additional Dwelling Units and Coach Houses to align with recent changes to Provincial Legislation. (Zoning By-law Amendment Z-23-01, IPPW2023-035, Council June 26, 2023) f) By-law 2023-071 By-law to amend the City of Waterloo Zoning By-law 2018-050 being a Zoning By-law controlling land use development in the City of Waterloo to amend Residential Northdale Zones (RN-6, RN-8, RN-12, and RN-25) to remove Site Plan Control endorsement as a condition of Holding (H) symbol removal. (Zoning By-law Amendment Z-23-01, IPPW2023-035, Council June 26, 2023) g) By-law 2023-072 By-law to amend the City of Waterloo Zoning By-law 2018-050 being a Zoning By-law controlling land use development in the City of Waterloo to improve clarity, correct errors and address omissions. (Zoning By-law Amendment Z-23-01, IPPW2023-035, Council June 26, 2023) h) By-law 2023-073 By-law to delegate Council’s authority to the Director of Planning or their designate to: pass by-laws under Section 34 of the Planning Act that are of a minor nature; and exemption and approve agreements under Section 40 of the Planning Act. (IPPW2023-031, Council June 26, 2023) i) By-law 2023-074 By-law to confirm all actions and proceedings of Council, June 26, 2023</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m18",
+   "item": "18",
+   "item_number": "18",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "That the meeting adjourn. (Time: 9:06 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 9:06 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 13
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 7:25 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 7:25 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 7:26 p.m.)",
+   "page": 7
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

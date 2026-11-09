@@ -1,0 +1,912 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 8,
+ "roster": [
+  "Mayor McCabe",
+  "Bodaly",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright",
+  "Hanmer",
+  "Roach"
+ ],
+ "absent": [
+  "Hanmer",
+  "Roach"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:02 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 4:15 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright declared a conflict with respect to item 10a) Rental Renovation and Tenant Support due to a conflict of interest as it relates to being a landlord.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "November 17, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "November 24, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6c",
+   "number": "6c",
+   "title": "December 1, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6d",
+   "number": "6d",
+   "title": "December 8, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Presentations/delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "WRPS CCTV Follow-Up",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Craig Sloss, Resident of Waterloo gave a presentation sharing data analysis of the disproportionate impact of CCTV cameras on racialized and low-income communities.</p>",
+    "<p>Craig Sloss then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Website Launch Presentation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Cari Van Niekerk, City of Waterloo offered an introduction to the website refresh launch.</p>",
+    "<p>Janice Maarhuis, City of Waterloo gave a presentation outlining the new City of Waterloo website, and presented the new features that can be found on it.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (b) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "OMERS Reservist Leave By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2026-001</p>",
+    "<p>Prepared By: Michael Burzynski</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8b",
+   "number": "8b",
+   "title": "Contract with the Kitchener Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>and Stratford Perth Humane Society</p>",
+    "<p>Report No.: COM2026-001</p>",
+    "<p>Prepared By: Nicole Papke</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(Time: 4:53 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10a",
+   "number": "10a",
+   "title": "Rental Renovation and Tenant Support",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2026-002</p>",
+    "<p>Prepared By: Grant Curlew</p>",
+    "<p>Grant Curlew gave a presentation outlining the rental renovation licensing report. He explored the options in front of Council today, including the tenant support liaison and a rental renovation licensing program. He then responded to questions of Council.</p>",
+    "<p>Jacquie Wells, Chair, ACORN Waterloo Region chapter and Ken Vogelpohl, Co-Chair, ACORN Waterloo Region chapter spoke about the work that ACORN has done, and spoke about their disappointment in the staff recommendations. They recommend the City implement a renoviction by-law with additional parameters. They then responded to questions of Council.</p>",
+    "<p>Grant Curlew responded to questions of Council. Nicole Papke and Ron Ormson also responded to questions of Council.</p>",
+    "<p>Alexandar Pavlov, Project Lead, Community Legal Information Project (CLIP) gave a presentation offering information on CLIP and the access to justice issue in the community. Alexandar Pavlov responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 6:15 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:31 p.m.)</p>",
+    "<p>Randall Withell, Resident of Waterloo spoke about the importance of a renoviction by- law, and how it would affect tenants in Waterloo.</p>",
+    "<p>Grant Curlew responded to questions of Council.</p>",
+    "<p>Elliot Wand, Resident of Waterloo spoke about the issues surrounding the N13s served on them and the other tenants in their building, as well as the need for more tenant protections. Elliot Wand also read a statement from another member of the community who was unable to register in time. Elliot Wand then responded to questions of Council.</p>",
+    "<p>Grant Curlew responded to questions of Council.</p>",
+    "<p>Ryan Murdock, Resident of Kitchener spoke against the staff recommendations and in favour of a strong renoviction by-law that includes temporary accommodations, rental top-ups, and moving costs. Ryan Murdock responded to questions of Council.</p>",
+    "<p>Kurtis Sutton, Resident of Waterloo spoke about the need for Waterloo to pass a renoviction by-law, and the poor conditions that some renters face.</p>",
+    "<p>Lynn Intini, Resident of Kitchener spoke about the poor conditions some renters face, and how landlords and investors need to be held accountable for bad actions.</p>",
+    "<p>Linda Vos, Resident of Kitchener spoke about the need to pass a strong renoviction by- law, and how bad faith renovictions affect tenants, especially those who are vulnerable.</p>",
+    "<p>Grant Curlew and Nicole Papke responded to questions of Council.</p>",
+    "<p>Councillor Wright having previously declared a pecuniary interest was absent for the taking of the vote.</p>",
+    "<p>Grant Curlew responded to questions of Council.</p>",
+    "<p>Following the failed vote, Councillor Vasic introduced an alternate motion.</p>",
+    "<p>Councillor Wright having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8",
+    "m9"
+   ],
+   "page": 5
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Questions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright asked a question of staff regarding the lighting issue in Uptown, where there are a number of strobing lights. She asked if they could be removed until a replacement can be sourced. She asked staff if they could update her offline.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 7
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, February 23, 2026</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 8
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "McCabe",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (READI training).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (READI training).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "November 17, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Hanmer",
+   "text": "That the minutes of the Council meeting held on November 17, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on November 17, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "November 24, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Hanmer",
+   "text": "That the minutes of the Council meeting held on November 24, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on November 24, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m4",
+   "item": "6c",
+   "item_number": "6c",
+   "item_title": "December 1, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Hanmer",
+   "text": "That the minutes of the Council meeting held on December 1, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on December 1, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "6d",
+   "item_number": "6d",
+   "item_title": "December 8, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Hanmer",
+   "text": "That the minutes of the Council meeting held on December 8, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on December 8, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "OMERS Reservist Leave By-law",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve CORP2026-001. 2. That the Council of the City of Waterloo adopt the OMERS Waterloo Reservist By-law, to authorize the City to match OMERS contributions for employees purchasing OMERS broken service resulting from an approved Reservist Leave, in accordance with the Employment Standards Act (ESA), 2000.",
+   "text_html": "<p>1. That Council approve CORP2026-001.</p><p>2. That the Council of the City of Waterloo adopt the OMERS Waterloo Reservist By-law, to authorize the City to match OMERS contributions for employees purchasing OMERS broken service resulting from an approved Reservist Leave, in accordance with the Employment Standards Act (ESA), 2000.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "8b",
+   "item_number": "8b",
+   "item_title": "Contract with the Kitchener Waterloo",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report COM2026-001. 2. That the Mayor and Clerk be authorized to sign the Agreement between the Corporation of the City of Waterloo and the Humane Society of Kitchener Waterloo and Stratford Perth, and any other documents related to this project, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2026-001.</p><p>2. That the Mayor and Clerk be authorized to sign the Agreement between the Corporation of the City of Waterloo and the Humane Society of Kitchener Waterloo and Stratford Perth, and any other documents related to this project, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m8",
+   "item": "10a",
+   "item_number": "10a",
+   "item_title": "Rental Renovation and Tenant Support",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve report COM2026-002. 2. That Council approve Option 1 – Current Level of Service. 3. That Council direct staff to continue monitoring renovation-related eviction activity and related tenant impacts in Waterloo, including ongoing provincial legislative changes to the Residential Tenancies Act and experiences from other municipalities, and to report back to Council should circumstances warrant reconsideration of municipal regulatory measures in the future.",
+   "text_html": "<p>1. That Council approve report COM2026-002.</p><p>2. That Council approve Option 1 – Current Level of Service.</p><p>3. That Council direct staff to continue monitoring renovation-related eviction activity and related tenant impacts in Waterloo, including ongoing provincial legislative changes to the Residential Tenancies Act and experiences from other municipalities, and to report back to Council should circumstances warrant reconsideration of municipal regulatory measures in the future.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Motion Failed (2 to 5)",
+    "label": "Defeated 2-5",
+    "for": 2,
+    "against": 5,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Freeman",
+     "Mayor McCabe"
+    ],
+    "against": [
+     "Hanmer",
+     "Bodaly",
+     "Roach",
+     "Vasic",
+     "Roe"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "for_inferred": true,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "10a",
+   "item_number": "10a",
+   "item_title": "Rental Renovation and Tenant Support",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve Report COM2026-002. 2. That Council approve Option 3 - the implementation of rental renovation licensing program with the required one-time funding amount of $365,000 and the 2026 on-going funding amount of $450,000 to be funded from Tax Rate Stabilization Reserve for a total of $815,000, and staff be directed to bring forward the permanent rental renovation licensing program funding request as part of the 2027 budget cycle. 3. That Council direct staff to bring forward for consideration the Rental Renovation Licensing By-law attached as Appendix A. 4. That Council direct staff to continue monitoring renovation-related eviction activity and related tenant impacts in Waterloo, including ongoing provincial legislative changes to the Residential Tenancies Act and experiences from other municipalities, and to report back to Council should circumstances warrant reconsideration of municipal regulatory measures in the future.",
+   "text_html": "<p>1. That Council approve Report COM2026-002.</p><p>2. That Council approve Option 3 - the implementation of rental renovation licensing program with the required one-time funding amount of $365,000 and the 2026 on-going funding amount of $450,000 to be funded from Tax Rate Stabilization Reserve for a total of $815,000, and staff be directed to bring forward the permanent rental renovation licensing program funding request as part of the 2027 budget cycle.</p><p>3. That Council direct staff to bring forward for consideration the Rental Renovation Licensing By-law attached as Appendix A.</p><p>4. That Council direct staff to continue monitoring renovation-related eviction activity and related tenant impacts in Waterloo, including ongoing provincial legislative changes to the Residential Tenancies Act and experiences from other municipalities, and to report back to Council should circumstances warrant reconsideration of municipal regulatory measures in the future.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (6 to 1)",
+    "label": "6-1",
+    "for": 6,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Bodaly",
+     "Freeman",
+     "Hanmer",
+     "Roach",
+     "Roe",
+     "Vasic"
+    ],
+    "against": [
+     "Mayor McCabe"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "for_inferred": true,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m10",
+   "item": "12",
+   "item_number": "12",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Wright",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2026-001 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2026-001 By-law to Confirm and Authorize Participation in the OMERS Primary Pension Plan (“Primary Plan”) and the Retirement Compensation Arrangement for the OMERS Primary Pension Plan (“RCA”), Each as Amended from Time to Time, of the Employees of the Corporation of the City of Waterloo (“Employer”) Identified Herein (CORP2026-001, Council January 19, 2026) b) By-law 2026-002 By-law to confirm all actions and proceedings of Council, January 19, 2026",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2026-001 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2026-001 By-law to Confirm and Authorize Participation in the OMERS Primary Pension Plan (“Primary Plan”) and the Retirement Compensation Arrangement for the OMERS Primary Pension Plan (“RCA”), Each as Amended from Time to Time, of the Employees of the Corporation of the City of Waterloo (“Employer”) Identified Herein (CORP2026-001, Council January 19, 2026) b) By-law 2026-002 By-law to confirm all actions and proceedings of Council, January 19, 2026</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m11",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roe",
+   "text": "That the meeting adjourn. (Time: 8:27 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 8:27 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Wright",
+   "item_number": "10a",
+   "text": ""
+  }
+ ],
+ "attendance_events": [
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 4:34 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 4:36 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "left",
+   "text": "Mayor McCabe left the meeting. (Time: 4:52 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "joined",
+   "text": "Mayor McCabe joined the meeting. (Time: 4:52 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Wright",
+   "event": "left",
+   "text": "Having previously declared a conflict of interest, Councillor Wright left the meeting.",
+   "page": 4
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 5:42 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 5:45 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 6:35 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 7:22 p.m.)",
+   "page": 6
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 7:24 p.m.)",
+   "page": 6
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 8:13 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 8:15 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Wright",
+   "event": "joined",
+   "text": "Councillor Wright joined the meeting. (Time: 8:25 p.m.)",
+   "page": 7
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

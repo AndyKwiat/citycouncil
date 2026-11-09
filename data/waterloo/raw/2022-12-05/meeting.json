@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2022-12-05-1400-Council-Meeting",
+ "city": "waterloo",
+ "key": "2022-12-05",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2022-12-05T14:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2022-12-05-1400-Council-Meeting/987f7cb8-9b81-423b-8ba6-af8f01414e70",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2022-12-05-1400-Council-Meeting/987f7cb8-9b81-423b-8ba6-af8f01414e70",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2022-12-05-1400-Council-Meeting/09998897-2951-40fa-9117-af5f00eb1fcb",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2022-12-05-1400-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "c6c431de3e35e477b4290eaba6967b32ed662e6aa1f04b4cbf9e260daa83a596"
+ }
+}

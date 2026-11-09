@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2023-05-08-1400-Council-Meeting",
+ "city": "waterloo",
+ "key": "2023-05-08",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2023-05-08T14:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2023-05-08-1400-Council-Meeting/019fbb61-e9a7-4444-8cdf-b023011bf279",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-05-08-1400-Council-Meeting/019fbb61-e9a7-4444-8cdf-b023011bf279",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2023-05-08-1400-Council-Meeting/74ac00f1-d4fe-4adf-a74d-aff101365509",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-05-08-1400-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "9b5bc0376b58947a7e53d36dc33c42bc2fc25a82c49f50120b2079133f3c9f18"
+ }
+}

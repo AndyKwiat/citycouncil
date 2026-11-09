@@ -1,0 +1,93 @@
+{
+ "slug": "waterloo",
+ "name": "Waterloo",
+ "display_name": "Waterloo",
+ "place": "Waterloo, Ontario",
+ "council_name": "Waterloo City Council",
+ "council_short": "City Council",
+ "municipality": "City of Waterloo",
+ "adapter": "govstack",
+ "start_date": "2022-11-15",
+ "records_votes": "dissent named",
+ "urls": {
+  "records": "https://events.waterloo.ca/meetings",
+  "records_name": "City of Waterloo meetings calendar",
+  "council_page": "https://www.waterloo.ca/council-and-committees/mayor-and-city-council/"
+ },
+ "govstack": {
+  "base": "https://events.waterloo.ca",
+  "calendars": [
+   "Council Calendar"
+  ],
+  "header": "^[A-Z][a-z]+ \\d{1,2}, \\d{4} Page \\d+ .*Meeting$"
+ },
+ "youtube": {
+  "channel": "UCVP6QGtoGy5jmMkKhE3FRPA",
+  "tabs": [
+   "streams"
+  ],
+  "types": {
+   "Council Meeting": {
+    "words": [
+     "council meeting"
+    ],
+    "not": [
+     "special",
+     "inaugural",
+     "all council"
+    ]
+   },
+   "Special Council Meeting": {
+    "words": [
+     "special council"
+    ]
+   }
+  }
+ },
+ "meeting_types": {
+  "Council Meeting": {
+   "body": "council",
+   "slug": "",
+   "label": "City Council"
+  },
+  "Special Council Meeting": {
+   "body": "council",
+   "slug": "special-council",
+   "label": "Special Council"
+  }
+ },
+ "main_type": "Council Meeting",
+ "terms": [
+  {
+   "id": "2022-2026",
+   "label": "2022–2026",
+   "start": "2022-11-15",
+   "end": "2026-11-14",
+   "seats": 8
+  },
+  {
+   "id": "2026-2030",
+   "label": "2026–2030",
+   "start": "2026-11-15",
+   "end": "2030-11-14",
+   "seats": 8
+  }
+ ],
+ "redirect_from": [],
+ "theme": {
+  "accent": "#7a5410",
+  "accent_soft": "#f3ead8",
+  "duotone_dark": "#5b3f0c",
+  "duotone_light": "#f7f5ef",
+  "photo": "source.jpg",
+  "photo_title": "The Seagram Lofts, Waterloo",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:The_Seagram_Lofts_-_Waterloo,_Ontario_2025-09-14.jpg",
+  "photo_artist": "Ryan Hodnett",
+  "photo_licence": "CC BY-SA 4.0",
+  "photo_licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "focal_point": [
+   0.5,
+   0.5
+  ]
+ }
+}

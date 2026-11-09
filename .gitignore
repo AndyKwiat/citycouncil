@@ -7,3 +7,7 @@ site/
 site.tmp/
 # Local job history and build stamps
 state/
+# Re-downloadable sources (hashes are in meeting.json)
+data/*/raw/*/source/*.pdf
+data/*/raw/*/source/*.json3
+data/*/raw/*/source/captions/

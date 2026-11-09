@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2025-02-10-1300-Council-Meeting",
+ "city": "waterloo",
+ "key": "2025-02-10",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2025-02-10T13:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2025-02-10-1300-Council-Meeting/22a323b1-3e9d-4fa2-8680-b2960110bd09",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2025-02-10-1300-Council-Meeting/22a323b1-3e9d-4fa2-8680-b2960110bd09",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2025-02-10-1300-Council-Meeting/feacd56e-9fdf-45c0-8e74-b27c011fab69",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2025-02-10-1300-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "f6f3638e60a5c37cde77c9c701d3a387b88435838b05810365ae7aac5921dc10"
+ }
+}

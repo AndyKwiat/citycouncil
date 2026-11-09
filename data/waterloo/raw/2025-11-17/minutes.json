@@ -1,0 +1,1142 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 15,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright",
+  "Roach"
+ ],
+ "absent": [
+  "Roach",
+  "Hanmer"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:01 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "October 15, 2025 – Special Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (f) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "2025 Audit Committee Elected Officials",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Remuneration Report</p>",
+    "<p>Report No.: CORP2025-009</p>",
+    "<p>Prepared By: Michael Burzynski</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "2026 Interim Tax Levy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2025-040</p>",
+    "<p>Prepared By: Mary Zubert</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7c",
+   "number": "7c",
+   "title": "Martin Farmstead Lease Agreement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2025-026</p>",
+    "<p>Prepared By: Liz Badley</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7d",
+   "number": "7d",
+   "title": "RIM Park- Waterloo Sports Medicine",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Centre Lease</p>",
+    "<p>Report No.: COM2025-024</p>",
+    "<p>Prepared By: Liz Badley</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7e",
+   "number": "7e",
+   "title": "Fire Safety Boxes Bylaw 2024-067",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Amendment</p>",
+    "<p>Report No.: COM2025-025</p>",
+    "<p>Prepared By: Sandy van Solm</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "7f",
+   "number": "7f",
+   "title": "Grant Policy Update (FC-004)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2025-036</p>",
+    "<p>Prepared By: Gracjan Oleksinski</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Release of Funds and Information",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Update on the Design and Public</p>",
+    "<p>Engagement of Margaret Ave Park</p>",
+    "<p>Report No.: COM2025-027</p>",
+    "<p>Prepared By: Hala Al Amine</p>",
+    "<p>Hala Al Amine spoke about Margaret Ave Park and its history, and introduced David Duhan.</p>",
+    "<p>David Duhan, Associate, SHIFT Landscape Architecture gave a presentation on the Margaret Ave Park redesign process to date. David Duhan spoke about the project identity and how it fit into the neighborhood, mentioning that the project team are narrowing down the vision between two concepts. They are hoping to blend both concepts, nature rich designs, highlighting the importance of community space. David Duhan responded to questions of Council. Hala Al Amine also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Release of Funds and Information",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Update on the Design and Public</p>",
+    "<p>Engagement of St Moritz Park</p>",
+    "<p>Report No.: COM2025-028</p>",
+    "<p>Prepared By: Hala Al Amine</p>",
+    "<p>David Duhan, Associate, SHIFT Landscape Architecture gave a presentation on St.</p>",
+    "<p>Moritz Park project timeline, the engagement overview and concepts for the park. David Duhan spoke of the early outreach they did in the community and schools around the park, and highlighted the different features that could potentially be in park.</p>",
+    "<p>Mayor McCabe left meeting. (Time 7:16 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 6
+  },
+  {
+   "id": "9c",
+   "number": "9c",
+   "title": "Development Charge By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Update – Progress Report #2</p>",
+    "<p>Report No.: CORP2025-028</p>",
+    "<p>Prepared By: Michael Pugliese</p>",
+    "<p>Michael Pugliese introduced Stefan Krzeczunowicz, and spoke briefly about the report.</p>",
+    "<p>Stefan Krzeczunowicz, Hemson Consulting Ltd. gave a presentation with an update of the Development Charge By-law process, the current legislative changes and the impact. Stefan Krzeczunowicz spoke about the maximum Development Charge rates that could be considered based on previous staff reports, and explained how those rates compared to the current rates of the other surrounding cities and municipalities.</p>",
+    "<p>Stefan Krzeczunowicz responded to questions of Council</p>",
+    "<p>Jason Van Amelsvoort, Director, Cornerstone Association of REALTORS spoke about the concerns about timing for review of Development Charges, without the complete understanding of Bill 60. Jason Van Amelsvoort spoke of how development charges disrupted the current market conditions and caused difficulty with affordability for homes. Jason Van Amelsvoort responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 7:35 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 7:48 p.m.)</p>",
+    "<p>Larry Masseo, Policy Advisor, Waterloo Region Home Builders&#x27; Association (WRHBA) spoke about the external pressures in regard to the current economic reality. Larry Masseon requested a pause in the process for a full transparent review of the Development Charges program, and the focus on growth. Larry Masseo then responded to questions of Council. Stefan Krzeczunowicz also responded to questions of council.</p>",
+    "<p>Jeff Macintyre, President, Grand Valley Construction Association spoke about what the association represented, and the impact of development charges on the construction.</p>",
+    "<p>Jeff Macintyre also requested a pause in the implementation of the updated development charges until the industry could catch up. Jeff Macintyre then responded to questions of council.</p>",
+    "<p>Michael Pugliese, Brad Witzel and Stefan Krzeczunowicz responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 7
+  },
+  {
+   "id": "9d",
+   "number": "9d",
+   "title": "Affordable Rental Housing Grant Program:",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Recipients of Second Call for Applications</p>",
+    "<p>Report No.: IPPW2025-058</p>",
+    "<p>Prepared By: Tanja Curic</p>",
+    "<p>Tanja Curic gave a presentation on the recipients of the Affordable Rental Housing Grant. She spoke about each recipient and how many units would be on site, including how many would be affordable (up to 146 units). She offered her thanks to all those involved.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 8
+  },
+  {
+   "id": "9e",
+   "number": "9e",
+   "title": "Funding Release for Phase 1",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Construction for the Implementation</p>",
+    "<p>of Fire Master Plan Recommendations</p>",
+    "<p>Report No.: COM2025-029</p>",
+    "<p>Prepared By: Michael Kuebler</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 9
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "10a",
+   "number": "10a",
+   "title": "General Parking-related Amendments",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: IPPW2025-064</p>",
+    "<p>Prepared By: Janine Fletcher</p>",
+    "<p>Ward No.: City-wide</p>",
+    "<p>Janine Fletcher gave a presentation on the parking regulations within the City, including the background for the amendments, and how they promoted the optimal use of land and supported affordability. She spoke about the amendments to parking rates, specifically near take-out restaurants, and the removal of parking minimums. Janine Fletcher, Ron Ormson and Joel Cotter responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 9
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Dorothy McCabe – Explore the feasibility of building a High Performance Aquatics facility with a 50 metre competition ready pool, practice pool, appropriate training amenities and meeting spaces in Waterloo with support from the Government of Canada and the Government of Ontario.</p>",
+    "<p>Motion to be tabled November 17, 2025 for Council consideration November 24, 2025.</p>",
+    "<p>WHEREAS the City of Waterloo Council is committed to the health and wellness of all of its residents by funding and operating recreation centres, pools, parks, trails and active programming for children, youth and adults of all abilities across the City; and,</p>",
+    "<p>WHEREAS thousands of residents participate in learn-to-swim, recreational and competitive swimming programs, and current programs are regularly at or near capacity; and,</p>",
+    "<p>WHEREAS the 50 metre pool at Wilfrid Laurier University - the only 50 metre pool in Waterloo Region - is nearing the end of its life and non- student users make up 65% of the total hours booked; and, WHEREAS the City of Waterloo’s Indoor Community Space Strategy’s recommendations include that Council and staff prioritize “the construction or facilitate the access to a new indoor pool”; and,</p>",
+    "<p>WHEREAS the City of Waterloo’s Recreation Services Division regularly works in partnership with local swim clubs, the University of Waterloo, Wilfrid Laurier and Conestoga College’s Recreation and Athletics Directors and other recreation partners and affiliates; and,</p>",
+    "<p>WHEREAS building a new or renovating an existing aquatic facility would enhance access to recreational programming as well as provide improved opportunities for training elite swimmers in the City of Waterloo and in neighbouring communities within the Region of Waterloo; and, WHEREAS population and housing growth in the City and Region continues to grow towards 1 million people by 2050 and the City must continue to explore the need for new or renovated recreation facilities to ensure adequate capacity to serve our current and future population; and, WHEREAS a new high performance aquatic centre with a 50 metre competition ready pool, practice pool, training spaces and meeting rooms would significantly increase the capacity and availability of learn-to-swim, competitive and elite level programming for city and regional residents and post-secondary students while also increasing the opportunities for sport hosting tourism for Explore Waterloo Region and local municipalities which will generate a positive economic impact; and,</p>",
+    "<p>WHEREAS the City of Waterloo is already planning for and needs a new, multi-use recreation facility in the west side of the city; and, WHEREAS an Aquatics Feasibility Study was completed by Explore Waterloo Region in 2023 and the information remains relevant; and, WHEREAS provincial sport organizations and local municipalities need financial support from federal and provincial governments to build regionally significant sport facilities; and,</p>",
+    "<p>WHEREAS Ontario’s swimming infrastructure across the province is not keeping up with population growth and the only 50 metre pool in Waterloo and Waterloo Region is nearing its end of life; and,</p>",
+    "<p>WHEREAS Swim Ontario, the provincial governing body is very interested in the development of a high performance aquatics facility with a 50 metre competition ready pool, practice pool, training spaces and meeting rooms in Waterloo or Waterloo Region; and,</p>",
+    "<p>WHEREAS the City’s participation in this vision will be contingent upon confirmed financial commitments from the Federal and/or Provincial governments and other like-minded institutional partners to ensure the project is financially sustainable and regionally supported; and, WHEREAS the federal and provincial governments have previously provided funding opportunities for municipalities to build and operate such facilities.</p>",
+    "<p>THEREFORE, BE IT RESOLVED:</p>",
+    "<p>THAT any potential, future indoor aquatic centre being considered in the City of Waterloo be updated to include the capital and operating costs of the development of a high performance aquatic centre with a 50 metre competition ready pool, practice pool, training spaces and meeting rooms that includes appropriate spectator seating; and,</p>",
+    "<p>THAT the City of Waterloo Mayor write to the federal Minister of Housing, Infrastructure and Communities, the Secretary of State for Sport, the Ontario Minister of Infrastructure and the Minister of Sport indicating that the City of Waterloo is interested in discussing potential federal and provincial funding opportunities to build regionally significant sports infrastructure, including a high performance aquatic centre with a 50 metre competition ready pool, practice pool, training spaces and meeting rooms with spectator seating to allow local and regional athletes to train and compete locally; and,</p>",
+    "<p>THAT the federal and provincial governments create and maintain a robust funding stream to significantly contribute to the cost of the infrastructure and operations of regionally significant sport infrastructure;</p>",
+    "<p>and,</p>",
+    "<p>THAT when exploring options for new recreational facilities on the west side of Waterloo, staff consider developing a high performance aquatic centre with a 50 metre competition ready pool, practice pool, training spaces and meeting rooms and appropriate spectator seating incorporating best practices in environmental sustainability, energy efficiency and AODA accessibility best practices in the design; and, THAT the City of Waterloo continue to work with all local and regional sport organizations, all local municipalities in Waterloo Region including the Region of Waterloo to address the need for regionally significant sport infrastructure;</p>",
+    "<p>AND FURTHER THAT a copy of this motion be forwarded to the Right Honourable Mark Carney, Prime Minister of Canada; The Honourable Gregor Robertson, Federal Minister of Housing and Infrastructure; The Honourable Adam van Koeverden, Secretary of State (Sport); The Honourable Doug Ford, Premier of Ontario; The Honourable Neil Lumsden, Provincial Minister of Sport; The Honourable Kinga Surma, Provincial Minister of Infrastructure; to local and area MPPs; the Association of Municipalities of Ontario (AMO); the Ontario Big City Mayors (OBCM); the Association of Municipal Managers, Clerks and Treasurers of Ontario (AMCTO); the Federation of Canadian Municipalities (FCM); and to the Region of Waterloo and local area municipalities.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 10
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman spoke about the City’s Remembrance Day ceremony, which was challenging due to the weather. She wanted to acknowledge the local engineering regiments which arrived in Waterloo, instead of travelling to St. Thomas, due to the 401 closure, to be with the representative of their honorary Colonel Lord Bruce. She commended the residents of Waterloo and their continued reflection and willingness to come out every year to honor those who served and continued to serve our country.</p>",
+    "<p>She lastly mentioned the veteran banners put up around Waterloo, and recognized Kevin Van Ooteghem’s team took a leadership role with the Legion to get those up.</p>",
+    "<p>Councillor Wright mentioned that two Uptown Neighbourhood Associations had their annual general meetings on November 10, and that she attended one of them. She highlighted that it was great to be able to update everyone on Council business. She thanked the Neighbourhoods team for their support.</p>",
+    "<p>Councillor Wright also wanted to thank MPP Catherine Fife for convening an event at the Princess Twin Cinema for Professor Brian Doucet’s documentary on affordable housing on Sunday, November 16. It was well attended by area Councillors. Councillor Wright mentioned that she appreciated the community support for affordable housing.</p>",
+    "<p>Councillor Roe spoke of the Adventure4Change night market that she and Councillor Hanmer attended on Thursday, November 13. The organization works hard to support the Sunnydale neighborhood. Many people came out to support the organization.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 13
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 13
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, January 19, 2026</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 14
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) personal matters about an identifiable individual, including municipal or local board employees (Labour Budget Impact); and b) labour relations or employee negotiations (Labour Budget Impact); and c) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (READI training).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) personal matters about an identifiable individual, including municipal or local board employees (Labour Budget Impact); and b) labour relations or employee negotiations (Labour Budget Impact); and c) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (READI training).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "October 15, 2025 – Special Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Special Council meeting held on October 15, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Special Council meeting held on October 15, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "2025 Audit Committee Elected Officials",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That report CORP2025-009 be approved by Council. 2. That Council approves the following recommendations of the Audit Committee report #: CTTEE2025-005 attached as Appendix A: a. That the Market Comparator group include only lower tier municipalities with equivalent part-time Councillor positions which would result in an increase to the Mayor’s annual salary to $132,538 (from $116,831), and the Councillor’s annual part- time salary to $58,463 (from $44,257). b. That the annual cost of living policy be amended to be the same as the annual increases as outlined in the current Staff Association (SA) Agreement. c. That Council initiate the intent to join OMERS for members of Council. d. That the city leased vehicle car allowance option for the Mayor that includes city coverage for maintenance, minor repairs and insurance include a mileage reimbursement to be set at 40% of the staff mileage rate. e. That the parking permit policy for the Mayor be aligned with the SA agreement effective January 1st, 2027. 3. That staff be directed to update Corporate Policy G-002 Council Remuneration and Expense Policy to reflect the approved changes. 4. That recommendations 2a) – 2d) be effective for the next term of Council, November 15th, 2026.",
+   "text_html": "<p>1. That report CORP2025-009 be approved by Council.</p><p>2. That Council approves the following recommendations of the Audit Committee report #: CTTEE2025-005 attached as Appendix A: a. That the Market Comparator group include only lower tier municipalities with equivalent part-time Councillor positions which would result in an increase to the Mayor’s annual salary to $132,538 (from $116,831), and the Councillor’s annual part- time salary to $58,463 (from $44,257). b. That the annual cost of living policy be amended to be the same as the annual increases as outlined in the current Staff Association (SA) Agreement. c. That Council initiate the intent to join OMERS for members of Council. d. That the city leased vehicle car allowance option for the Mayor that includes city coverage for maintenance, minor repairs and insurance include a mileage reimbursement to be set at 40% of the staff mileage rate. e. That the parking permit policy for the Mayor be aligned with the SA agreement effective January 1st, 2027.</p><p>3. That staff be directed to update Corporate Policy G-002 Council Remuneration and Expense Policy to reflect the approved changes.</p><p>4. That recommendations 2a) – 2d) be effective for the next term of Council, November 15th, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "2026 Interim Tax Levy",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approves staff report CORP2025-040. 2. That Council approves the 2026 Interim Tax Levy By-law, attached as Appendix “A”.",
+   "text_html": "<p>1. That Council approves staff report CORP2025-040.</p><p>2. That Council approves the 2026 Interim Tax Levy By-law, attached as Appendix “A”.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m5",
+   "item": "7c",
+   "item_number": "7c",
+   "item_title": "Martin Farmstead Lease Agreement",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report COM2025-026. 2. That Council approve the Lease with Cleon Martin, Wayne Martin and Vera Martin at 680 Woolwich St N, Waterloo. 3. That the Mayor and Clerk be authorized to sign the Lease and any other necessary documents, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2025-026.</p><p>2. That Council approve the Lease with Cleon Martin, Wayne Martin and Vera Martin at 680 Woolwich St N, Waterloo.</p><p>3. That the Mayor and Clerk be authorized to sign the Lease and any other necessary documents, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "7d",
+   "item_number": "7d",
+   "item_title": "RIM Park- Waterloo Sports Medicine",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report COM2025-024. 2. That Council approve the Lease with Clermont CPPG Physiotherapy Professional Corporation operating as Waterloo Sports Medicine Centre at RIM Park 2001 University Ave E, Waterloo. 3. That the Mayor and Clerk be authorized to sign the Lease and any other necessary documents, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2025-024.</p><p>2. That Council approve the Lease with Clermont CPPG Physiotherapy Professional Corporation operating as Waterloo Sports Medicine Centre at RIM Park 2001 University Ave E, Waterloo.</p><p>3. That the Mayor and Clerk be authorized to sign the Lease and any other necessary documents, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "7e",
+   "item_number": "7e",
+   "item_title": "Fire Safety Boxes Bylaw 2024-067",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report COM2025-025. 2. That Council approve the amendment of the Fire Safety Box By- Law 2024-067.",
+   "text_html": "<p>1. That Council approve report COM2025-025.</p><p>2. That Council approve the amendment of the Fire Safety Box By- Law 2024-067.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "7f",
+   "item_number": "7f",
+   "item_title": "Grant Policy Update (FC-004)",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report CORP2025-036. 2. That Council approves all the recommended changes outlined in Table 1 – Grant Policy Changes 3. That Council approves the amended Grants Policy as attached in Appendix A.",
+   "text_html": "<p>1. That Council approve report CORP2025-036.</p><p>2. That Council approves all the recommended changes outlined in Table 1 – Grant Policy Changes</p><p>3. That Council approves the amended Grants Policy as attached in Appendix A.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m9",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Release of Funds and Information",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report COM2025-027. 2. That Council approve the release of the 2025 non-routine capital funding for Bridgeport & Margaret Park (ref# 281) in the amount $1,593,000 from the 2024-2026 Approved Capital Budget.",
+   "text_html": "<p>1. That Council approve report COM2025-027.</p><p>2. That Council approve the release of the 2025 non-routine capital funding for Bridgeport &amp; Margaret Park (ref# 281) in the amount $1,593,000 from the 2024-2026 Approved Capital Budget.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m10",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Release of Funds and Information",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report COM2025-028. 2. That Council approve the release of the 2025 non-routine capital funding for St Moritz Community Park (ref# 303) in the amount $1,682,000 from the 2024-2026 approved capital budget. 3. That council approve the release of the 2025 non-routine capital funding for Spray Pad-Cooling Area project (ref# 302) in the amount $924,000 from the 2024-2026 approved capital budget and approve the administrative transfer to the St Moritz Community Park project 240027.",
+   "text_html": "<p>1. That Council approve report COM2025-028.</p><p>2. That Council approve the release of the 2025 non-routine capital funding for St Moritz Community Park (ref# 303) in the amount $1,682,000 from the 2024-2026 approved capital budget.</p><p>3. That council approve the release of the 2025 non-routine capital funding for Spray Pad-Cooling Area project (ref# 302) in the amount $924,000 from the 2024-2026 approved capital budget and approve the administrative transfer to the St Moritz Community Park project 240027.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m11",
+   "item": "9c",
+   "item_number": "9c",
+   "item_title": "Development Charge By-law",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "1. That report CORP2025-028 be approved. 2. That Council direct staff to proceed with finalizing the Development Charge background study as part of the process required to update the City’s Development Charge by-law, pursuant to section 10 of the Development Charges Act, on the basis of the revised growth- related capital program attached as Appendix A. 3. That Council approve adding one (1) additional month of review time to the project schedule (Table 3) at the request of the Waterloo Region Home Builders’ Association, as referenced in Appendix D.",
+   "text_html": "<p>1. That report CORP2025-028 be approved.</p><p>2. That Council direct staff to proceed with finalizing the Development Charge background study as part of the process required to update the City’s Development Charge by-law, pursuant to section 10 of the Development Charges Act, on the basis of the revised growth- related capital program attached as Appendix A.</p><p>3. That Council approve adding one (1) additional month of review time to the project schedule (Table 3) at the request of the Waterloo Region Home Builders’ Association, as referenced in Appendix D.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m12",
+   "item": "9d",
+   "item_number": "9d",
+   "item_title": "Affordable Rental Housing Grant Program:",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Roe",
+   "text": "1. That report IPPW2025-058 be received for information.",
+   "text_html": "<p>1. That report IPPW2025-058 be received for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m13",
+   "item": "9e",
+   "item_number": "9e",
+   "item_title": "Funding Release for Phase 1",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report COM2025-029. 2. That Council approve the partial release of 2025 non-routine funding in the amount of $3,080,000 from the approved 2024-2026 Capital Budget (Ref#250), to be funded from the Development Charges Reserve Fund and that the funds be released to the Fire Rescue Expansion project 230022 for Phase 1Construction activities. 3. That Council approve a funding transfer to the Fire Rescue Expansion Project230022 totaling $141,000 from the Fire Storage Building Expansion Project202027 for Phase 1 Construction activities. 4. That Council direct staff to initiate the Request for Tender process to seek qualified Contractors for Fire Station 1 Expansion for PPE Decontamination and growth-related construction and Fire Station 2 Suppression Side interior growth-related construction and site development improvements as per Fire Master Plan recommendations.",
+   "text_html": "<p>1. That Council approve report COM2025-029.</p><p>2. That Council approve the partial release of 2025 non-routine funding in the amount of $3,080,000 from the approved 2024-2026 Capital Budget (Ref#250), to be funded from the Development Charges Reserve Fund and that the funds be released to the Fire Rescue Expansion project 230022 for Phase 1Construction activities.</p><p>3. That Council approve a funding transfer to the Fire Rescue Expansion Project230022 totaling $141,000 from the Fire Storage Building Expansion Project202027 for Phase 1 Construction activities.</p><p>4. That Council direct staff to initiate the Request for Tender process to seek qualified Contractors for Fire Station 1 Expansion for PPE Decontamination and growth-related construction and Fire Station 2 Suppression Side interior growth-related construction and site development improvements as per Fire Master Plan recommendations.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m14",
+   "item": "10a",
+   "item_number": "10a",
+   "item_title": "General Parking-related Amendments",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report IPPW2025-064. 2. That Council approve Zoning By-Law Amendment Z-25-09, General Parking-related Amendments to Zoning By-Law 2018-050, as set out in Appendix ‘A’ to IPPW2025-064.",
+   "text_html": "<p>1. That Council approve report IPPW2025-064.</p><p>2. That Council approve Zoning By-Law Amendment Z-25-09, General Parking-related Amendments to Zoning By-Law 2018-050, as set out in Appendix ‘A’ to IPPW2025-064.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m15",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "McCabe",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-072 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-072 By-law to Amend City of Waterloo By-law #2024-067 (COM2025-025, Council November 17, 2025) b) By-law 2025-073 By-law to Clarify the Position Title of the Deputy Commissioner of the City of Waterloo c) By-law 2025-074 By-law to Amend By-law 2021-065, Being a By-law to Update the CMT Titles and Update the Deputy CAO Delegation d) By-law 2025-075 By-law to Provide for the 2026 Interim Tax Levy and for the Payment of 2026 Interim Property Taxes (CORP2025-040, Council November 17, 2025) e) By-law 2025-076 By-law to Amend the City of Waterloo Official Plan, 400 Millennium Blvd (OPA 53, IPPW2025-061, Council October 27, 2025, Activa Holdings Inc.) f) By-law 2025-077 By-law to Amend By-law No. 2018-050, being a Zoning By-law Controlling Land Use Development within the City of Waterloo, 400 Millennium Blvd (Zoning By-law Amendment Z- 24-04, IPPW2025-061, Council October 27, 2025, Activa Holdings Inc.) g) By-law 2025-078 By-law to amend By-law No. 2018-050, being a Zoning By-law controlling land use development within the City of Waterloo, Parking-related General Amendments (IPPW2025-064, Council November 17, 2025) h) By-law 2025-079 By-law to confirm all actions and proceedings of Council, November 17, 2025",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-072 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-072 By-law to Amend City of Waterloo By-law #2024-067 (COM2025-025, Council November 17, 2025) b) By-law 2025-073 By-law to Clarify the Position Title of the Deputy Commissioner of the City of Waterloo c) By-law 2025-074 By-law to Amend By-law 2021-065, Being a By-law to Update the CMT Titles and Update the Deputy CAO Delegation d) By-law 2025-075 By-law to Provide for the 2026 Interim Tax Levy and for the Payment of 2026 Interim Property Taxes (CORP2025-040, Council November 17, 2025) e) By-law 2025-076 By-law to Amend the City of Waterloo Official Plan, 400 Millennium Blvd (OPA 53, IPPW2025-061, Council October 27, 2025, Activa Holdings Inc.) f) By-law 2025-077 By-law to Amend By-law No. 2018-050, being a Zoning By-law Controlling Land Use Development within the City of Waterloo, 400 Millennium Blvd (Zoning By-law Amendment Z- 24-04, IPPW2025-061, Council October 27, 2025, Activa Holdings Inc.) g) By-law 2025-078 By-law to amend By-law No. 2018-050, being a Zoning By-law controlling land use development within the City of Waterloo, Parking-related General Amendments (IPPW2025-064, Council November 17, 2025) h) By-law 2025-079 By-law to confirm all actions and proceedings of Council, November 17, 2025</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m16",
+   "item": "14",
+   "item_number": "14",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "That the meeting adjourn. (Time: 9:25 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 9:25 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 14
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Mayor McCabe",
+   "event": "joined",
+   "text": "Mayor McCabe joined the meeting. (Time: 7:19 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 9:00 p.m.)",
+   "page": 8
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 9:01 p.m.)",
+   "page": 9
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

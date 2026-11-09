@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2026-01-19-1400-Council-Meeting",
+ "city": "waterloo",
+ "key": "2026-01-19",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2026-01-19T14:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2026-01-19-1400-Council-Meeting/d56acba8-18d0-4317-bfd6-b3fc012f16af",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2026-01-19-1400-Council-Meeting/d56acba8-18d0-4317-bfd6-b3fc012f16af",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2026-01-19-1400-Council-Meeting/4ccda1fc-8f14-42b4-be5a-b3cc01413086",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2026-01-19-1400-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "f718a1e3c6363a415844101bc9ac354deaf7f6add95cff6f0b70464b70ca18dc"
+ }
+}

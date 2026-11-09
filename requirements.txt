@@ -2,3 +2,6 @@ beautifulsoup4==4.15.0
 imageio-ffmpeg==0.8.1
 mlx-whisper==0.4.3
 pillow==13.0.0
+pdfplumber==0.11.10
+yt-dlp==2026.10.26
+requests==2.34.2

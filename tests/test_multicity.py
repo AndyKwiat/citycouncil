@@ -196,6 +196,60 @@ class ProseVotes(unittest.TestCase):
         self.assertEqual(escribe.parse_result("Carried, unanimously on a recorded vote (11 to 0)")["label"], "11-0")
 
 
+WATERLOO_TEXT = """PRESENT: Mayor Dorothy McCabe, Councillor Sandra Hanmer, Councillor Royce
+Bodaly, Councillor Hans Roach
+ABSENT: Councillor Julie Wright
+1. STAFF REPORTS
+a) Title: Fireworks By-law Amendment
+Moved by Councillor Hanmer, Seconded by Councillor Roach:
+That Council approve report COM2025-021.
+Carried Unanimously
+Councillor Roach left the meeting. (Time: 3:22 p.m.)
+Moved by Councillor Bodaly, Seconded by Councillor Hanmer:
+That the plan be approved.
+Carried
+2 Voting in Favour
+1 Voting in Opposition
+(COUNCILLOR BODALY)
+That the second clause be approved.
+Motion Failed
+1 Voting in Favour
+2 Voting in Opposition
+(MAYOR MCCABE)
+(COUNCILLOR HANMER)
+"""
+
+
+class Waterloo(unittest.TestCase):
+    def test_pdf_minutes(self):
+        from sources import govstack
+        c = cities.load("waterloo")
+        with tempfile.TemporaryDirectory() as tmp, contextlib.redirect_stdout(io.StringIO()):
+            d = pathlib.Path(tmp)
+            (d / "minutes.txt").write_text("".join(f"1\t{l}\n" for l in WATERLOO_TEXT.splitlines()))
+            p.write_json(d / "meeting.json", {"term": "2022-2026", "title": "Council Meeting"})
+            out = govstack.parse_minutes(c, d)
+        self.assertEqual(out["roster"], ["Mayor McCabe", "Hanmer", "Bodaly", "Roach", "Wright"])
+        self.assertEqual(out["absent"], ["Wright"])
+        first, split, failed = out["motions"]
+        self.assertEqual((first["recording"], first["result"]["label"], first["moved_by"], first["text"]),
+                         ("unanimous", "Carried unanimously", "Hanmer", "That Council approve report COM2025-021."))
+        self.assertEqual(first["votes"]["for"], [])  # nobody's vote is invented for a unanimous motion
+        self.assertEqual((split["votes"]["for"], split["votes"]["against"], split["for_inferred"]), (["Hanmer", "Mayor McCabe"], ["Bodaly"], True))
+        self.assertEqual((failed["result"]["label"], failed["votes"]["against"], failed["text"]),
+                         ("Defeated 1-2", ["Mayor McCabe", "Hanmer"], "That the second clause be approved."))
+        self.assertEqual(out["items"][1]["number"], "1a")
+        self.assertEqual(out["vote_problems"], [])
+
+    def test_youtube_titles(self):
+        from video import youtube
+        import datetime
+        self.assertEqual(youtube.title_date("City of Waterloo Council Meeting September 8, 2025 @ 3:00PM"), datetime.date(2025, 9, 8))
+        self.assertEqual(youtube.title_date("Council - 24 Aug 2026 (Part 2)"), datetime.date(2026, 8, 24))
+        titles = ["X September 8, 2025 @ 6:30PM", "X September 8, 2025 @ 3:00PM"]
+        self.assertEqual(sorted(titles, key=youtube.order_key), titles[::-1])
+
+
 class Cycles(unittest.TestCase):
     def test_other_meetings_fold_under_the_next_council_meeting(self):
         def it(day, kind):

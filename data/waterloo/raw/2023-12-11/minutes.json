@@ -1,0 +1,1688 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 21,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright",
+  "Mayor Moved"
+ ],
+ "absent": [
+  "Mayor Moved",
+  "Vasic",
+  "Wright"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:01 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 3:22 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which many of us are gathered today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral peoples. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous people with whom we share this land today.</p>",
+    "<p>Councillor Freeman offered further reflections on the training that Council is doing to expand reconciliation efforts.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright declared a conflict with respect to item 9a) due to a conflict of interest as it relates to a family member’s place of employment.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "November 20, 2023 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (e) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "2024 Annual Debt and Financial",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Obligation Limit Calculation</p>",
+    "<p>Report No.: CORP2023-048</p>",
+    "<p>Prepared By: Kim Reger</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Interim Spending Authority",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-053</p>",
+    "<p>Prepared By: Mary Zubert</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7c",
+   "number": "7c",
+   "title": "2024 Building Standards Fees and Charges",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: IPPW2023-061</p>",
+    "<p>Prepared By: Beth Maxwell</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7d",
+   "number": "7d",
+   "title": "Cemetery Services 2024 Fees and Charges",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2023-036</p>",
+    "<p>Prepared By: Derek Brick</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7e",
+   "number": "7e",
+   "title": "Municipal Parking Lots By-law Amendment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CAO2023-027</p>",
+    "<p>Prepared By: Christine Tettman and Christopher Mulhern</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Business Licensing By-law Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2023-031</p>",
+    "<p>Prepared By: Grant Curlew</p>",
+    "<p>(Time: 3:25 p.m.)</p>",
+    "<p>Grant Curlew gave a presentation on the importance of business licensing, background on the current by-law, engagement and consultation, the proposed updates, and the funding model. He then responded to questions of Council.</p>",
+    "<p>Councillor Wright having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Rental Housing and Business Licensing",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>2024-2026 Fees and Charges</p>",
+    "<p>Report No.: COM2023-032</p>",
+    "<p>Prepared By: Grant Curlew, Kim Reger</p>",
+    "<p>Grant Curlew responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9c",
+   "number": "9c",
+   "title": "2024-2026 Staff Tabled Budget Summary",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-055</p>",
+    "<p>Prepared By: Paul Hettinga, Brad Witzel</p>",
+    "<p>Councillor Freeman offered introductory remarks about the budget process.</p>",
+    "<p>Paul Hettinga introduced the staff tabled budget, and Brad Witzel gave a presentation outlining the budget process, budget efficiencies and improvements, operating investment highlights, capital highlights, climate action, and inflation. Brad Witzel responded to questions of Council. Cari Van Niekerk also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 6
+  },
+  {
+   "id": "9d",
+   "number": "9d",
+   "title": "Reserves and Reserve Funds Annual Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-043</p>",
+    "<p>Prepared By: Julie Koppeser</p>",
+    "<p>Julie Koppeser responded to questions of Council. Brad Witzel also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 7
+  },
+  {
+   "id": "9e",
+   "number": "9e",
+   "title": "Early Approval of Capital Projects",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-049</p>",
+    "<p>Prepared By: Julie Koppeser</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 9
+  },
+  {
+   "id": "9f",
+   "number": "9f",
+   "title": "City Utilities – 2024 Rates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: IPPW2023-060</p>",
+    "<p>Prepared By: Michael Pugliese, Leigh McDermott</p>",
+    "<p>Leigh McDermott and Michael Pugliese gave a presentation outlining the rate setting objectives, what the rates fund, the household impact, municipal comparators, and the reserve levels. Leigh McDermott responded to questions of Council. Brad Witzel also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 11
+  },
+  {
+   "id": "9g",
+   "number": "9g",
+   "title": "Long-Term Financial Plan Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-052</p>",
+    "<p>Prepared By: Michael Pugliese, Cassandra Pacey</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 12
+  },
+  {
+   "id": "9h",
+   "number": "9h",
+   "title": "City Operations and Storage Expansion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-054</p>",
+    "<p>Prepared By: Christina Marina</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 12
+  },
+  {
+   "id": "9i",
+   "number": "9i",
+   "title": "Uptown Community Improvement Plan",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(CIP) – 2023 Annual Update and Extension</p>",
+    "<p>Report No.: CAO2023-028</p>",
+    "<p>Prepared By: Justin McFadden</p>",
+    "<p>Justin McFadden responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 5:08 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:33 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 13
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 13
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 13
+  },
+  {
+   "id": "11a",
+   "number": "11a",
+   "title": "Official Plan Amendment No. 32,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zone Change Application Z-21-03,</p>",
+    "<p>Draft Plan of Subdivision 30T-21401,</p>",
+    "<p>65 Northfield Drive Inc., 525 &amp; 565</p>",
+    "<p>Conestogo Rd W</p>",
+    "<p>Report No.: IPPW2023-059</p>",
+    "<p>Prepared By: Rita Szilock</p>",
+    "<p>Ward No.: Ward 4, Northeast</p>",
+    "<p>Rita Szilock gave a presentation outlining the proposed development, including the current official plan and zoning, and the proposed amendments. She also noted the corrections to the staff report, including the correct number of bedrooms (5,452). She then responded to questions of Council. Joel Cotter also responded to questions of Council.</p>",
+    "<p>Richard Boyer, Owner and Chris Pidgeon, GSP Group gave a presentation further detailing the proposed development, highlighting the greenspace, car-free living, and sustainability. They then responded to questions of Council.</p>",
+    "<p>Ashwin Annamalai spoke about the need for more housing, and the potential distribution of affordable units. Richard Boyer responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application was now open to Council for a motion and debate.</p>",
+    "<p>Council meeting recessed: (Time: 7:39 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 7:46 p.m.)</p>",
+    "<p>That Council hold a closed meeting for the purposes of considering the following subject matter:</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 14
+  },
+  {
+   "id": "11a",
+   "number": "11a",
+   "title": "litigation or potential litigation, including matters before administrative",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 7:48 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 8:20 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m17",
+    "m18"
+   ],
+   "page": 14
+  },
+  {
+   "id": "11b",
+   "number": "11b",
+   "title": "Zoning By-law Amendment Z-23-10,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>University of Waterloo, 155 and 165</p>",
+    "<p>University Ave W</p>",
+    "<p>Report No.: IPPW2023-053</p>",
+    "<p>Prepared By: Amanda Wyszynski</p>",
+    "<p>Ward No.: 6 – Central Columbia</p>",
+    "<p>Amanda Wyszynski gave a presentation outlining the proposed development, highlighting the site specific zoning exemptions. She then responded to questions of Council. Joel Cotter also responded to questions of Council.</p>",
+    "<p>Kristen Barisdale, GSP Group gave a presentation further detailing the proposed development. Duncan Bates, Diamond Schmitt responded to questions of Council.</p>",
+    "<p>Wade MacAulay, University of Waterloo Campus Housing also responded to questions of Council. Rob Hunsberger, University of Waterloo Design and Construction Services also responded to questions of Council.</p>",
+    "<p>At this time, Councillor Bodaly declared a conflict with respect to the current item due to a conflict of interest relating to a family member’s employment and left the meeting.</p>",
+    "<p>(Time: 8:52 p.m.)</p>",
+    "<p>Ashwin Annamalai, Resident of Waterloo spoke about the need for more housing, and specifically more affordable housing. Julie Finley-Swaren and Joel Cotter responded to questions of Council.</p>",
+    "<p>Shiva Subramanian, Resident of Waterloo spoke about the need for more housing and encouraged the City to work with the University to build more housing.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application was now open to Council for a motion and debate.</p>",
+    "<p>Councillor Bodaly having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ],
+   "page": 15
+  },
+  {
+   "id": "11c",
+   "number": "11c",
+   "title": "Extension of the SOLER (Support Our Local",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Economic Recovery) Initiative</p>",
+    "<p>Report No.: IPPW2023-062</p>",
+    "<p>Prepared By: Aminu Bello</p>",
+    "<p>Ward No.: City Wide</p>",
+    "<p>Aminu Bello briefly spoke about the extension of the SOLER Initiative.</p>",
+    "<p>As no one was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application was now open to Council for a motion and debate.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m20"
+   ],
+   "page": 17
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 17
+  },
+  {
+   "id": "12a",
+   "number": "12a",
+   "title": "Regional All-Council Meeting – December 15, 2023, 2:00pm",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m21"
+   ],
+   "page": 17
+  },
+  {
+   "id": "12b",
+   "number": "12b",
+   "title": "Share the Road Funding Request",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman left the Chair. (Time: 9:15 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair. (Time: 9:15 p.m.)</p>",
+    "<p>At this time, Councillor Freeman declared a conflict with respect to the current item due to a conflict of interest relating to being on the board and left the meeting.</p>",
+    "<p>(Time: 9:15 p.m.)</p>",
+    "<p>Councillor Freeman having previously declared a pecuniary interest was absent for the taking of the vote.</p>",
+    "<p>Councillor Freeman having previously declared a pecuniary interest was absent for the taking of the vote.</p>",
+    "<p>Mayor McCabe left the Chair. (Time: 9:19 p.m.)</p>",
+    "<p>Councillor Freeman in the Chair. (Time: 9:19 p.m.)</p>",
+    "<p>Councillor Roe mentioned that the Erb West Community Centre held a gingerbread competition last week. She wanted to shout out the staff there for all their fantastic work in the community.</p>",
+    "<p>Councillor Roe also mentioned that the Thorndale Neighbourhood Community filled the back of a pickup truck with food bank donations this past weekend.</p>",
+    "<p>Councillor Roe also mentioned the Menorah lighting on Thursday, December 7 in Uptown, which had a great crowd.</p>",
+    "<p>Councillor Wright and Councillor Vasic delivered food hampers for the House of Friendship, which was a great opportunity to see people and hear their stories.</p>",
+    "<p>Councillor Wright also wanted to note that on Sunday, December 10 she had the opportunity to attend a Holiday Concert by the Wellington Wind Symphony and Waterloo County Teacher’s Choir at Knox Presbyterian Church.</p>",
+    "<p>Councillor Vasic talked about how pat the dog Theatre Creation is running a Buzzie Indie Series each month. On Monday, December 4 they held a Jingle All the Gay event at the Registry Theatre. There was book readings, and a book sale from Rad Riot Books, as well as a drag show and some comedy.</p>",
+    "<p>Councillor Bodaly wanted to shout out the Laurelwood Neighbourhood Association, which hosted Christmas tree lighting at the fire station on Saturday, December 9. There were community members, people doing crafts, and Santa stopped by as well. He thanked the neighbourhood associations for all that they do.</p>",
+    "<p>Councillor Roach wanted to shout out the new All Saints Anglican Church He and the Mayor attended their consecration on Wednesday, December 6, and learned all about the new community centre. He also delivered turkeys in the community.</p>",
+    "<p>Councillor Vasic mentioned that in her ward there is house lighting competition, with prizes donated by local businesses, and organized by a local resident in the Lincoln Heights neighbourhood.</p>",
+    "<p>Councillor Freeman mentioned that the Parkwood Mennonite Home received a visit from one of Santa’s reindeer this past weekend.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m22",
+    "m23"
+   ],
+   "page": 17
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m24"
+   ],
+   "page": 19
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, January 15, 2024</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m25"
+   ],
+   "page": 21
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roach",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) personal matters about an identifiable individual, including municipal or local board employees (Labour Budget Impact, CUPE Update); b) labour relations or employee negotiations (Labour Budget Impact, CUPE Update); c) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (Legal Matter Update); d) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Legal Matter Update); and, e) a matter in respect of which a council, board, committee or other body may hold a closed meeting under another Act (Legal Matter Update).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) personal matters about an identifiable individual, including municipal or local board employees (Labour Budget Impact, CUPE Update); b) labour relations or employee negotiations (Labour Budget Impact, CUPE Update); c) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (Legal Matter Update); d) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Legal Matter Update); and, e) a matter in respect of which a council, board, committee or other body may hold a closed meeting under another Act (Legal Matter Update).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "November 20, 2023 – Council Meeting",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on November 20, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on November 20, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "2024 Annual Debt and Financial",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Vasic",
+   "text": "1. That Council receives the report CORP2023-048 for information.",
+   "text_html": "<p>1. That Council receives the report CORP2023-048 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Interim Spending Authority",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approves staff report CORP2023-053 2. That Council approves 2024 interim spending authority for City of Waterloo operating expenditures in an amount not to exceed $53,717,933 which represents 25% of the annual 2023 approved operating expenditure budget of the City.",
+   "text_html": "<p>1. That Council approves staff report CORP2023-053</p><p>2. That Council approves 2024 interim spending authority for City of Waterloo operating expenditures in an amount not to exceed $53,717,933 which represents 25% of the annual 2023 approved operating expenditure budget of the City.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "7c",
+   "item_number": "7c",
+   "item_title": "2024 Building Standards Fees and Charges",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Vasic",
+   "text": "1. That IPPW2023-061 be approved. 2. That Council approve a 12% increase to all Building Standards fees and charges effective January 1, 2024. 3. That Council approve the Building Standards Fees and Charges by- law updates, attached as Appendix A to IPPW2023-061, effective of the dates noted, and that the Fees and Charges by-law is updated accordingly.",
+   "text_html": "<p>1. That IPPW2023-061 be approved.</p><p>2. That Council approve a 12% increase to all Building Standards fees and charges effective January 1, 2024.</p><p>3. That Council approve the Building Standards Fees and Charges by- law updates, attached as Appendix A to IPPW2023-061, effective of the dates noted, and that the Fees and Charges by-law is updated accordingly.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "7d",
+   "item_number": "7d",
+   "item_title": "Cemetery Services 2024 Fees and Charges",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report COM2023-036. 2. That Council approve the Cemetery Services Fees and Charges By-law updates, attached as Appendix A to COM2023-036, effective as of the dates noted, and that the Fees and Charges By- law is updated accordingly.",
+   "text_html": "<p>1. That Council approve report COM2023-036.</p><p>2. That Council approve the Cemetery Services Fees and Charges By-law updates, attached as Appendix A to COM2023-036, effective as of the dates noted, and that the Fees and Charges By- law is updated accordingly.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "7e",
+   "item_number": "7e",
+   "item_title": "Municipal Parking Lots By-law Amendment",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report CAO2023-027. 2. That Council approve amendments to Municipal Parking Lot By-Law #2017-047, as set out in CAO2023-027.",
+   "text_html": "<p>1. That Council approve report CAO2023-027.</p><p>2. That Council approve amendments to Municipal Parking Lot By-Law #2017-047, as set out in CAO2023-027.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m8",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Business Licensing By-law Update",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2023-031. 2. That Council approve the Comprehensive Business Licensing By- law.",
+   "text_html": "<p>1. That Council approve report COM2023-031.</p><p>2. That Council approve the Comprehensive Business Licensing By- law.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m9",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Rental Housing and Business Licensing",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report COM2023-032. 2. That Council approve a 4% Rental Housing rate increase for 2024 as set out in Table #2 of report COM2023-032. 3. That Council approve the 2025-2026 Rental Housing rate forecast in principle as set out in Table #2 of report COM2023-032. 4. That Council approve the Rental Housing Program Fees and Charges By-Law updates, attached as Appendix A to COM2023- 032, effective as of the dates noted, and that Fees and Charges By- Law is updated accordingly. 5. That Council permits the Rental Housing Reserve to temporarily be in a deficit position extended to the end of 2030 as per the Rental Housing Reserve Forecast in Appendix B. 6. That Council approve a 5% Business Licensing Program Fees and Charges rate increase for 2024 (effective July 1st, 2024) as set out in Table #4 of report COM2023-032. 7. That Council approve the 2025-2026 Business Licensing rate forecast in principle as set out in Table #4 of report COM2023-032. 8. That Council approve the Business Licensing Program Fees and Charges By-Law updates, attached as Appendix C to COM2023-032, effective as of the dates noted, and that the Fees and Charges By-Law is updated accordingly.",
+   "text_html": "<p>1. That Council approve report COM2023-032.</p><p>2. That Council approve a 4% Rental Housing rate increase for 2024 as set out in Table #2 of report COM2023-032.</p><p>3. That Council approve the 2025-2026 Rental Housing rate forecast in principle as set out in Table #2 of report COM2023-032.</p><p>4. That Council approve the Rental Housing Program Fees and Charges By-Law updates, attached as Appendix A to COM2023- 032, effective as of the dates noted, and that Fees and Charges By- Law is updated accordingly.</p><p>5. That Council permits the Rental Housing Reserve to temporarily be in a deficit position extended to the end of 2030 as per the Rental Housing Reserve Forecast in Appendix B.</p><p>6. That Council approve a 5% Business Licensing Program Fees and Charges rate increase for 2024 (effective July 1st, 2024) as set out in Table #4 of report COM2023-032.</p><p>7. That Council approve the 2025-2026 Business Licensing rate forecast in principle as set out in Table #4 of report COM2023-032.</p><p>8. That Council approve the Business Licensing Program Fees and Charges By-Law updates, attached as Appendix C to COM2023-032, effective as of the dates noted, and that the Fees and Charges By-Law is updated accordingly.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m10",
+   "item": "9c",
+   "item_number": "9c",
+   "item_title": "2024-2026 Staff Tabled Budget Summary",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Wright",
+   "text": "1. That Council receive report CORP2023-055 for information. 2. That Council approve the 2024-2026 budget schedule as attached in Appendix B to report CORP2023-055, with the final 2024-2026 budget adoption scheduled for February 12, 2024. 3. That Council receive the 2024-2026 staff tabled budget documents for consideration on February 12, 2024 as per the budget schedule, which includes a staff tabled property tax increase of: i) 3.82% for base budget and operating impact of capital and growth, plus 2.64% for service level change, plus 1.00% for infrastructure investments for a total 2024 increase of 7.46%. ii) 3.86% for base budget and operating impact of capital and growth, plus 2.44% for service level change, plus 1.00% for infrastructure investments for a total 2025 increase of 7.30%. iii) 3.55% for base budget and operating impact of capital and growth, plus 1.89% for service level change, plus 1.00% for infrastructure investments for a total 2026 increase of 6.44%.",
+   "text_html": "<p>1. That Council receive report CORP2023-055 for information.</p><p>2. That Council approve the 2024-2026 budget schedule as attached in Appendix B to report CORP2023-055, with the final 2024-2026 budget adoption scheduled for February 12, 2024.</p><p>3. That Council receive the 2024-2026 staff tabled budget documents for consideration on February 12, 2024 as per the budget schedule, which includes a staff tabled property tax increase of: i) 3.82% for base budget and operating impact of capital and growth, plus 2.64% for service level change, plus 1.00% for infrastructure investments for a total 2024 increase of 7.46%. ii) 3.86% for base budget and operating impact of capital and growth, plus 2.44% for service level change, plus 1.00% for infrastructure investments for a total 2025 increase of 7.30%. iii) 3.55% for base budget and operating impact of capital and growth, plus 1.89% for service level change, plus 1.00% for infrastructure investments for a total 2026 increase of 6.44%.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m11",
+   "item": "9d",
+   "item_number": "9d",
+   "item_title": "Reserves and Reserve Funds Annual Update",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report CORP2023-043, as amended. 2. That Council defer consideration until February 2024 the staff recommendation to transfer $4,405,000 from the Northdale portion to the General portion of the Parkland Dedication Reserve Fund. 3. That Council approve that $100,000 in 2024, $50,000 in 2025, and an additional $50,000 in 2026 of the annual CRF funding allocation be redirected as a permanent source of funding for the Climate Action Reserve Fund. 4. That Council approve that the final reported property tax operating surplus annually, if any, be allocated: • 25% to the Tax Rate Stabilization Reserve (TRS) • 25% to the Capital Infrastructure Reinvestment Reserve Fund (CIRRF) • 25% to the Climate Action Reserve Fund (CARF) • 25% to the Library Expansion and Rehabilitation Reserve Fund (LXPR) 5. That Council approve that when actual investment income exceeds budgeted investment income, the surplus is transferred: • 25% to the Climate Action Reserve Fund (CARF) • 25% to the Capital Infrastructure Reinvestment Reserve Fund (CIRRF) • 25% to the Capital Reserve Fund (CRF) • 25% to the Library Expansion and Rehabilitation Reserve Fund (LXPR) 6. That Council approve that the RIM Park Investment Reserve (RIM) no longer receive $200,000 from any year-end property tax operating surplus (if available). 7. That Council approve one-time transfers from the RIM Park Investment Reserve (RIM) surplus of: • $1,200,000 to the Capital Reserve Fund (CRF) • $750,000 to the Planning Litigation Reserve Fund (LIT) • $500,000 to the Climate Action Reserve Fund (CARF) • $500,000 to the Affordable Housing Reserve Fund (CCPC- AH) • $400,000 to the Comprehensive Business Licensing Reserve (BUS) • $100,000 to the Rental Housing Reserve (RHR) 8. That Council approve the following administrative adjustments be updated in the Reserves and Reserve Funds Policies: a. That Council approve that all references to Waterloo North Hydro in the Reserve and Reserve fund policies be updated to Enova Power Corp. b. That Council approve that all references to hard and soft services in the Development Charges Reserve Fund policy be updated to “engineering” and “general”, respectively. c. That Council approve that the reference to WMRC lot permit revenue be removed from the Capital Infrastructure Reinvestment Reserve Fund revenue policy. d. That Council approve that the Library Expansion Reserve Fund (LXP) permitted use be updated to include Library Rehabilitation. e. That Council approve that the Library Expansion Reserve Fund (LXP) name be changed to the Library Expansion and Rehabilitation Reserve Fund (LXPR). f. That Council approve that the Parkland Dedication Reserve Fund policy be updated to remove references that the need to upgrade is due to intensification of the surrounding neighbourhood. g. That Council approve that the Sick Leave Reserve Fund Revenue policy be updated to: 100% of the net difference between Fire salary budget and actual, less 50% of vacancy related savings for Fire positions. h. That Council approve that the General Operating Contingency Reserve be renamed to the General Contingency Reserve (GENCON). i. That Council approve that the General Operating Contingency Reserve policy be updated to include that the reserve may be used for strategic, one-time, capital contingency expenditures. j. That Council approve that the reference to WMRC lot permit revenue be removed from the General Operating Contingency Reserve revenue policy. k. That Council approve that the Rental Housing Reserve Council Approved Target level be updated to reference that the reserve should remain in a positive position. l. That Council approve that the Tax Rate Stabilization policy be updated to reflect the exemption of Enterprise step gapping. m. That the Council Approved Target Levels of the Sanitary Sewer Utility Capital Reserve (SEWCAP), Sanitary Sewer Utility Stabilization Reserve (SEWOP), Stormwater Utility Reserve (SWM), Water Utility Capital Reserve (WATCAP) and Water Utility Stabilization Reserve (WATOP), be updated to remove the word “minimum’, to provide greater clarity that these levels are target levels. n. That Council approve that all references to the greenhouse gas emission reduction targets of “50% by 2030 and 80% by 2050” in the Reserve and Reserve fund policies be updated to “50% by 2030 and net zero by 2050”. 9. That Council approve that FC-006 Reserves and Reserve Funds Policy, attached as Appendix B, be updated for the changes required through recommendations 1 through 8, inclusive. 10. That Council approve that FC-003 Surplus Allocation Policy, attached as Appendix C, be updated for the changes required through recommendations 4 and 6.",
+   "text_html": "<p>1. That Council approve report CORP2023-043, as amended.</p><p>2. That Council defer consideration until February 2024 the staff recommendation to transfer $4,405,000 from the Northdale portion to the General portion of the Parkland Dedication Reserve Fund.</p><p>3. That Council approve that $100,000 in 2024, $50,000 in 2025, and an additional $50,000 in 2026 of the annual CRF funding allocation be redirected as a permanent source of funding for the Climate Action Reserve Fund.</p><p>4. That Council approve that the final reported property tax operating surplus annually, if any, be allocated: • 25% to the Tax Rate Stabilization Reserve (TRS) • 25% to the Capital Infrastructure Reinvestment Reserve Fund (CIRRF) • 25% to the Climate Action Reserve Fund (CARF) • 25% to the Library Expansion and Rehabilitation Reserve Fund (LXPR)</p><p>5. That Council approve that when actual investment income exceeds budgeted investment income, the surplus is transferred: • 25% to the Climate Action Reserve Fund (CARF) • 25% to the Capital Infrastructure Reinvestment Reserve Fund (CIRRF) • 25% to the Capital Reserve Fund (CRF) • 25% to the Library Expansion and Rehabilitation Reserve Fund (LXPR)</p><p>6. That Council approve that the RIM Park Investment Reserve (RIM) no longer receive $200,000 from any year-end property tax operating surplus (if available).</p><p>7. That Council approve one-time transfers from the RIM Park Investment Reserve (RIM) surplus of: • $1,200,000 to the Capital Reserve Fund (CRF) • $750,000 to the Planning Litigation Reserve Fund (LIT) • $500,000 to the Climate Action Reserve Fund (CARF) • $500,000 to the Affordable Housing Reserve Fund (CCPC- AH) • $400,000 to the Comprehensive Business Licensing Reserve (BUS) • $100,000 to the Rental Housing Reserve (RHR)</p><p>8. That Council approve the following administrative adjustments be updated in the Reserves and Reserve Funds Policies: a. That Council approve that all references to Waterloo North Hydro in the Reserve and Reserve fund policies be updated to Enova Power Corp. b. That Council approve that all references to hard and soft services in the Development Charges Reserve Fund policy be updated to “engineering” and “general”, respectively. c. That Council approve that the reference to WMRC lot permit revenue be removed from the Capital Infrastructure Reinvestment Reserve Fund revenue policy. d. That Council approve that the Library Expansion Reserve Fund (LXP) permitted use be updated to include Library Rehabilitation. e. That Council approve that the Library Expansion Reserve Fund (LXP) name be changed to the Library Expansion and Rehabilitation Reserve Fund (LXPR). f. That Council approve that the Parkland Dedication Reserve Fund policy be updated to remove references that the need to upgrade is due to intensification of the surrounding neighbourhood. g. That Council approve that the Sick Leave Reserve Fund Revenue policy be updated to: 100% of the net difference between Fire salary budget and actual, less 50% of vacancy related savings for Fire positions. h. That Council approve that the General Operating Contingency Reserve be renamed to the General Contingency Reserve (GENCON). i. That Council approve that the General Operating Contingency Reserve policy be updated to include that the reserve may be used for strategic, one-time, capital contingency expenditures. j. That Council approve that the reference to WMRC lot permit revenue be removed from the General Operating Contingency Reserve revenue policy. k. That Council approve that the Rental Housing Reserve Council Approved Target level be updated to reference that the reserve should remain in a positive position. l. That Council approve that the Tax Rate Stabilization policy be updated to reflect the exemption of Enterprise step gapping. m. That the Council Approved Target Levels of the Sanitary Sewer Utility Capital Reserve (SEWCAP), Sanitary Sewer Utility Stabilization Reserve (SEWOP), Stormwater Utility Reserve (SWM), Water Utility Capital Reserve (WATCAP) and Water Utility Stabilization Reserve (WATOP), be updated to remove the word “minimum’, to provide greater clarity that these levels are target levels. n. That Council approve that all references to the greenhouse gas emission reduction targets of “50% by 2030 and 80% by 2050” in the Reserve and Reserve fund policies be updated to “50% by 2030 and net zero by 2050”.</p><p>9. That Council approve that FC-006 Reserves and Reserve Funds Policy, attached as Appendix B, be updated for the changes required through recommendations 1 through 8, inclusive.</p><p>10. That Council approve that FC-003 Surplus Allocation Policy, attached as Appendix C, be updated for the changes required through recommendations 4 and 6.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m12",
+   "item": "9e",
+   "item_number": "9e",
+   "item_title": "Early Approval of Capital Projects",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report CORP2023-049. 2. That Council approve: a. That the 2024 non-routine project, Facilities Design & Management Services – AMCC Sportsplex & WPL McCormick Branch Library Renovations (ref #222), totaling $7,257,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That staff return with a report prior to February 12, 2024 to request the partial release of $1,500,000 in non-routine funds for the AMCC Sportsplex & WPL McCormick Branch Library Renovations project (ref #222). 3. That Council approve: a. That the 2024 routine project, Facilities Design & Management Services – Corporate Security System Upgrades (ref #223), totaling $531,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027- 2033 Capital Forecast on February 12, 2024. b. That the funding for Corporate Security System Upgrades (ref #223) be released on January 1, 2024. 4. That Council approve: a. That the 2024 routine project, Facilities Design & Management Services – Material Storage Building (ref #233), totaling $1,103,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That the funding for Material Storage Building (ref #233) be released on January 1, 2024. 5. That Council approve: a. That the 2024 non-routine project, Facilities Design & Management Services – West Side Satellite Operations Centre (ref #236), totaling $75,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That staff return with a report prior to February 12, 2024 to request the release of non-routine funds for the West Side Mini Operations Centre project (ref #236). 6. That Council approve: a. That the 2024 non-routine project, Parks, Forestry and Cemetery Services – Action Sports Parks-City Wide (ref #280), totaling $796,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That staff return with a report prior to February 12, 2024 to request the release of non-routine funds for the Action Sports Parks-City Wide project (ref #280). 7. That Council approve: a. That the 2024 routine project, City Utilities-Sanitary – Inflow and Infiltration Mitigation Program (ref #517), totaling $84,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That the funding for Inflow and Infiltration Mitigation Program (ref #517) be released on January 1, 2024. 8. That Council approve: a. That the 2024 routine project, City Utilities-Water – Non- potable Water Supply Well Assessment (ref #550), totaling $56,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That the funding for Non-potable Water Supply Well Assessment (ref #550) be released on January 1, 2024.",
+   "text_html": "<p>1. That Council approve report CORP2023-049.</p><p>2. That Council approve: a. That the 2024 non-routine project, Facilities Design &amp; Management Services – AMCC Sportsplex &amp; WPL McCormick Branch Library Renovations (ref #222), totaling $7,257,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That staff return with a report prior to February 12, 2024 to request the partial release of $1,500,000 in non-routine funds for the AMCC Sportsplex &amp; WPL McCormick Branch Library Renovations project (ref #222).</p><p>3. That Council approve: a. That the 2024 routine project, Facilities Design &amp; Management Services – Corporate Security System Upgrades (ref #223), totaling $531,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027- 2033 Capital Forecast on February 12, 2024. b. That the funding for Corporate Security System Upgrades (ref #223) be released on January 1, 2024.</p><p>4. That Council approve: a. That the 2024 routine project, Facilities Design &amp; Management Services – Material Storage Building (ref #233), totaling $1,103,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That the funding for Material Storage Building (ref #233) be released on January 1, 2024.</p><p>5. That Council approve: a. That the 2024 non-routine project, Facilities Design &amp; Management Services – West Side Satellite Operations Centre (ref #236), totaling $75,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That staff return with a report prior to February 12, 2024 to request the release of non-routine funds for the West Side Mini Operations Centre project (ref #236).</p><p>6. That Council approve: a. That the 2024 non-routine project, Parks, Forestry and Cemetery Services – Action Sports Parks-City Wide (ref #280), totaling $796,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That staff return with a report prior to February 12, 2024 to request the release of non-routine funds for the Action Sports Parks-City Wide project (ref #280).</p><p>7. That Council approve: a. That the 2024 routine project, City Utilities-Sanitary – Inflow and Infiltration Mitigation Program (ref #517), totaling $84,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That the funding for Inflow and Infiltration Mitigation Program (ref #517) be released on January 1, 2024.</p><p>8. That Council approve: a. That the 2024 routine project, City Utilities-Water – Non- potable Water Supply Well Assessment (ref #550), totaling $56,000, be included in the 2024 Capital Budget prior to the passing of the 2024-2026 Capital Budget and 2027-2033 Capital Forecast on February 12, 2024. b. That the funding for Non-potable Water Supply Well Assessment (ref #550) be released on January 1, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m13",
+   "item": "9f",
+   "item_number": "9f",
+   "item_title": "City Utilities – 2024 Rates",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "1. That IPPW2023-060 be approved. 2. That Council approve the 2024 water rate at $2.32/m3, comprised of the City portion of the rate at $1.1150/m3 and the Regional portion of the rate at $1.2050/m3 as set out in Table 1 of report IPPW2023-060, and that the Fees and Charges By-Law be updated to reflect the water rate effective January 1, 2024. 3. That Council approve the 2024 sanitary rate at $2.81/m3, comprised of the City portion of the rate at $1.3323/m3 and the Regional portion of the rate at $1.4777/m3 as set out in Table 1 of report IPPW2023-060, and that the Fees and Charges By-Law be updated to reflect the sanitary rate effective January 1, 2024. 4. That Council approve the 2024 stormwater rates as outlined below and that the Fees and Charges By-Law be updated to reflect the stormwater rates effective January 1, 2024: • Residential; small $11.19/month, medium $16.76/month, and large $22.88/month • Multi-Residential; small $32.11/month, medium $135.85/month, and large $723.89/month • Institutional; small $52.04/month, medium $140.64/month, and large $287.98/month • Commercial/Industrial; small $43.06/month, medium $201.08/month, large $648.02/month, and largest $1,641.38/month 5. That Council approve the 2025-2033 water, sanitary, and stormwater rate forecast in principle as set out in Table 1 of report IPPW2023-060. 6. That Council approve that the Fees and Charges By-Law be updated for the rates and effective dates as shown in Appendix B of report IPPW2023-060. 7. That Council approve that bi-monthly City Utilities billings no longer use a blended rate when water and sanitary volumetric charges span different years and are billed based on the previous year’s rates until the next full billing period.",
+   "text_html": "<p>1. That IPPW2023-060 be approved.</p><p>2. That Council approve the 2024 water rate at $2.32/m3, comprised of the City portion of the rate at $1.1150/m3 and the Regional portion of the rate at $1.2050/m3 as set out in Table 1 of report IPPW2023-060, and that the Fees and Charges By-Law be updated to reflect the water rate effective January 1, 2024.</p><p>3. That Council approve the 2024 sanitary rate at $2.81/m3, comprised of the City portion of the rate at $1.3323/m3 and the Regional portion of the rate at $1.4777/m3 as set out in Table 1 of report IPPW2023-060, and that the Fees and Charges By-Law be updated to reflect the sanitary rate effective January 1, 2024.</p><p>4. That Council approve the 2024 stormwater rates as outlined below and that the Fees and Charges By-Law be updated to reflect the stormwater rates effective January 1, 2024: • Residential; small $11.19/month, medium $16.76/month, and large $22.88/month • Multi-Residential; small $32.11/month, medium $135.85/month, and large $723.89/month • Institutional; small $52.04/month, medium $140.64/month, and large $287.98/month • Commercial/Industrial; small $43.06/month, medium $201.08/month, large $648.02/month, and largest $1,641.38/month</p><p>5. That Council approve the 2025-2033 water, sanitary, and stormwater rate forecast in principle as set out in Table 1 of report IPPW2023-060.</p><p>6. That Council approve that the Fees and Charges By-Law be updated for the rates and effective dates as shown in Appendix B of report IPPW2023-060.</p><p>7. That Council approve that bi-monthly City Utilities billings no longer use a blended rate when water and sanitary volumetric charges span different years and are billed based on the previous year’s rates until the next full billing period.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m14",
+   "item": "9g",
+   "item_number": "9g",
+   "item_title": "Long-Term Financial Plan Update",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "1. That Council receives CORP2023-052 for information.",
+   "text_html": "<p>1. That Council receives CORP2023-052 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m15",
+   "item": "9h",
+   "item_number": "9h",
+   "item_title": "City Operations and Storage Expansion",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve staff report CORP2023-054. 2. That Council approve capital funding for City operations and storage expansion needs including land and facility acquisition, renovation and other matters incidental to enabling city expansion in the amount of $5,750,000, funded$2,325,000 from the Tax Rate Stabilization Reserve, $1,162,500 from the Water Utility Stabilization Reserve, $1,162,500 from the Sanitary Sewer Utility Stabilization Reserve, with the remaining $1,100,000 being funded by the 2024capital budget routine project Material Storage Building (ref #233). 3. That the Mayor, Clerk and City Solicitor, where applicable, be authorized to execute all necessary agreements and documents required to complete any transactions related to expansion of city services to support growing operational and storage needs.",
+   "text_html": "<p>1. That Council approve staff report CORP2023-054.</p><p>2. That Council approve capital funding for City operations and storage expansion needs including land and facility acquisition, renovation and other matters incidental to enabling city expansion in the amount of $5,750,000, funded$2,325,000 from the Tax Rate Stabilization Reserve, $1,162,500 from the Water Utility Stabilization Reserve, $1,162,500 from the Sanitary Sewer Utility Stabilization Reserve, with the remaining $1,100,000 being funded by the 2024capital budget routine project Material Storage Building (ref #233).</p><p>3. That the Mayor, Clerk and City Solicitor, where applicable, be authorized to execute all necessary agreements and documents required to complete any transactions related to expansion of city services to support growing operational and storage needs.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m16",
+   "item": "9i",
+   "item_number": "9i",
+   "item_title": "Uptown Community Improvement Plan",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That report CAO2023-028 be approved; 2. That Council approve the extension for funding of the Façade Improvement Grant, Major Activity Grant and the Parking Exemption Program under the current Uptown Community Improvement Plan until December 31, 2024; 3. That Council direct staff to undertake a review of the Uptown Community Improvement Plan program and report back before December 31, 2024.",
+   "text_html": "<p>1. That report CAO2023-028 be approved;</p><p>2. That Council approve the extension for funding of the Façade Improvement Grant, Major Activity Grant and the Parking Exemption Program under the current Uptown Community Improvement Plan until December 31, 2024;</p><p>3. That Council direct staff to undertake a review of the Uptown Community Improvement Plan program and report back before December 31, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m17",
+   "item": "11a",
+   "item_number": "11a",
+   "item_title": "litigation or potential litigation, including matters before administrative",
+   "name": "",
+   "moved_by": "",
+   "seconded_by": "",
+   "text": "tribunals, affecting the municipality or local board (planning matter).",
+   "text_html": "<p>tribunals, affecting the municipality or local board (planning matter).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 14
+  },
+  {
+   "id": "m18",
+   "item": "11a",
+   "item_number": "11a",
+   "item_title": "litigation or potential litigation, including matters before administrative",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve IPPW2023-059. 2. That Council adopt Official Plan Amendment No. 32 (OPA 32), 65 Northfield Drive Inc., for 525 and 565 Conestogo Road West, as set out in Section 8 of IPPW2023-059, as amended to: 1. correct Section 8 B.10.(4)(h)(i) and Section 8 D.2 – Schedule B: 1.F.(j) to permit 750 bedrooms per hectare and a maximum 5,452 bedrooms, calculated using the entire Lands and development thereon; 2. delete Section 8 B.10.(5)(a) and Section 8 B.1.A(b)(i) to remove the requirement for a Record of Site Condition prior to the lifting of the holding symbol; and 3. amend Section 8 D.2 – Schedule B: 1.F.(o)(ii) by replacing the last bullet with “USES permitted in Section 1.C above, excluding Live/Work Units”. 3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 32 (OPA 32). 4. That Council approve Zone Change Application Z-21-03, 65 Northfield Drive Inc., for 525 and 565 Conestogo Road West, as set out in Section 8 of IPPW2023-059, as amended above. 5. That Council endorse Draft Plan of Subdivision 30T-21401, 65 Northfield Drive Inc., for 525 and 565 Conestogo Road West, as set out in Section 8 of IPPW2023-059, as amended above. 6. That Council delegate authority to the City’s Director of Planning to make administrative modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision in relation to Draft Plan of Subdivision 30T-21401.",
+   "text_html": "<p>1. That Council approve IPPW2023-059.</p><p>2. That Council adopt Official Plan Amendment No. 32 (OPA 32), 65 Northfield Drive Inc., for 525 and 565 Conestogo Road West, as set out in Section 8 of IPPW2023-059, as amended to: 1. correct Section 8 B.10.(4)(h)(i) and Section 8 D.2 – Schedule B: 1.F.(j) to permit 750 bedrooms per hectare and a maximum 5,452 bedrooms, calculated using the entire Lands and development thereon; 2. delete Section 8 B.10.(5)(a) and Section 8 B.1.A(b)(i) to remove the requirement for a Record of Site Condition prior to the lifting of the holding symbol; and 3. amend Section 8 D.2 – Schedule B: 1.F.(o)(ii) by replacing the last bullet with “USES permitted in Section 1.C above, excluding Live/Work Units”.</p><p>3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 32 (OPA 32).</p><p>4. That Council approve Zone Change Application Z-21-03, 65 Northfield Drive Inc., for 525 and 565 Conestogo Road West, as set out in Section 8 of IPPW2023-059, as amended above.</p><p>5. That Council endorse Draft Plan of Subdivision 30T-21401, 65 Northfield Drive Inc., for 525 and 565 Conestogo Road West, as set out in Section 8 of IPPW2023-059, as amended above.</p><p>6. That Council delegate authority to the City’s Director of Planning to make administrative modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision in relation to Draft Plan of Subdivision 30T-21401.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 15
+  },
+  {
+   "id": "m19",
+   "item": "11b",
+   "item_number": "11b",
+   "item_title": "Zoning By-law Amendment Z-23-10,",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report IPPW2023-053. 2. That Council approve Zoning By-law Amendment Z-23-10, University of Waterloo, 155 and 165 University Avenue West, in accordance with Section 7 of staff report IPPW2023-053. 3. That Council not pass the implementing by-law to lift the holding (H) provision for the proposed development as specified in 2.c.) and 2.d.) above, until written confirmation has been received from the Region of Waterloo and CN Rail confirming that all noise and vibration requirements specified in 3.R.1.2 of Zoning By-law 2018- 050 are satisfied.",
+   "text_html": "<p>1. That Council approve report IPPW2023-053.</p><p>2. That Council approve Zoning By-law Amendment Z-23-10, University of Waterloo, 155 and 165 University Avenue West, in accordance with Section 7 of staff report IPPW2023-053.</p><p>3. That Council not pass the implementing by-law to lift the holding (H) provision for the proposed development as specified in 2.c.) and 2.d.) above, until written confirmation has been received from the Region of Waterloo and CN Rail confirming that all noise and vibration requirements specified in 3.R.1.2 of Zoning By-law 2018- 050 are satisfied.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 16
+  },
+  {
+   "id": "m20",
+   "item": "11c",
+   "item_number": "11c",
+   "item_title": "Extension of the SOLER (Support Our Local",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report IPPW2023-062. 2. That Council support the extension of the SOLER Initiative until December 31, 2024. 3. That Council approve the extension of Temporary Use Zoning By- law 2020-049 as amended, SOLER Initiative, pursuant to Section 39 of the Planning Act, as set forth in IPPW2023-062.",
+   "text_html": "<p>1. That Council approve report IPPW2023-062.</p><p>2. That Council support the extension of the SOLER Initiative until December 31, 2024.</p><p>3. That Council approve the extension of Temporary Use Zoning By- law 2020-049 as amended, SOLER Initiative, pursuant to Section 39 of the Planning Act, as set forth in IPPW2023-062.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 17
+  },
+  {
+   "id": "m21",
+   "item": "12a",
+   "item_number": "12a",
+   "item_title": "Regional All-Council Meeting – December 15, 2023, 2:00pm",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "That Council attend a Regional All-Council Meeting on Friday, December 15th, 2023 at 2:00pm.",
+   "text_html": "<p>That Council attend a Regional All-Council Meeting on Friday, December 15th, 2023 at 2:00pm.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 17
+  },
+  {
+   "id": "m22",
+   "item": "12b",
+   "item_number": "12b",
+   "item_title": "Share the Road Funding Request",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roe",
+   "text": "That Council waive the notice requirements and consider the donation request received from the Share the Road Cycling Coalition at the December 11, 2023 Meeting of Council.",
+   "text_html": "<p>That Council waive the notice requirements and consider the donation request received from the Share the Road Cycling Coalition at the December 11, 2023 Meeting of Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 18
+  },
+  {
+   "id": "m23",
+   "item": "12b",
+   "item_number": "12b",
+   "item_title": "Share the Road Funding Request",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Bodaly",
+   "text": "WHEREAS the City has received a request to support the 2024 Ontario Bike Summit to be held in Waterloo, April 3-5, 2024 as a sponsor in the amount of $25,000; and, WHEREAS the City of Waterloo is one of Canada’s Gold Bicycle Friendly communities and the summit will provide a platform for the City to showcase its innovative approach to cycling and active transportation design and initiatives; and, WHEREAS the summit is anticipated to bring 200 delegates to Waterloo over the three-day period with a potential for extended stays; NOW THEREFORE BE IT RESOLVED that $25,000 be funded from Council’s Community Priority and Contingency Reserve to be donated as a sponsor of the 2024 Ontario Bike Summit.",
+   "text_html": "<p>WHEREAS the City has received a request to support the 2024 Ontario Bike Summit to be held in Waterloo, April 3-5, 2024 as a sponsor in the amount of $25,000; and, WHEREAS the City of Waterloo is one of Canada’s Gold Bicycle Friendly communities and the summit will provide a platform for the City to showcase its innovative approach to cycling and active transportation design and initiatives; and, WHEREAS the summit is anticipated to bring 200 delegates to Waterloo over the three-day period with a potential for extended stays; NOW THEREFORE BE IT RESOLVED that $25,000 be funded from Council’s Community Priority and Contingency Reserve to be donated as a sponsor of the 2024 Ontario Bike Summit.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 18
+  },
+  {
+   "id": "m24",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Wright",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-103 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-103 By-law to Impose Fees and Charges on Persons (COM2023-036, COM2023-032, IPPW2023-060, IPPW2023-061, Council December 11, 2023) b) By-law 2023-104 Temporary Use Zoning By-law City of Waterloo, SOLER Initiative Extension (IPPW2023-062, Council December 11, 2023) c) By-law 2023-105 By-law to Provide for the Licensing and Regulation of Various Businesses in the City of Waterloo (COM2023-031, Council December 11, 2023) d) By-law 2023-106 By-law to adopt Official Plan Amendment No. 42 creating a specific provision are for the lands known municipally as 83, 85 Hickory Street West and 265, 267 Hemlock Street. (OPA 42, IPPW2023-036, Council November 20, 2023, 13780520 Canada Inc.) e) By-law 2023-107 By-law to amend By-law No. 2018-050, being a zoning by-law controlling land use in the City of Waterloo. Amending the zoning on the lands known municipally as 83, 85 Hickory Street West and 265, 267 Hemlock Street in order to apply site specific regulations. (Zone Change Application Z-22-13, IPPW2023-036, Council Nov 20, 2023, 13780520 Canada Inc.) f) By-law 2023-108 A By-law to amend By-law 2017-047, being a By-law to Establish Certain Municipal Parking Lots in the City and to Regulate the Parking of Vehicles Therein and Thereon (CAO2023-027, Council December 11, 2023) g) By-law 2023-109 By-law to amend By-law No. 2018-050, being a Zoning By-law controlling land use development within the City of Waterloo. 155 & 165 University Ave W. (IPPW2023-053, Council December 11, 2023) h) By-law 2023-110 By-law to adopt Official Plan Amendment No. 32 redesignating the lands known municipally as 525 & 565 Conestogo Road West from Business Employment to Mixed-Use Community Commercial and creating a specific provision area for the lands. (OPA 32, IPPW2023-059, Council December 11, 2023, 65 Northfield Drive Inc.) i) By-law 2023-111 By-law to amend By-Law No. 2018-050, being a zoning by-law controlling land use in the City of Waterloo. Rezone the lands known municipally as 525 & 565 Conestogo Rd W from Future Determination (FD) to Station Area Mixed-Use Community Commercial (C1A-81) with site specific provisions. 65 Northfield Drive Inc. (Zone Change Application Z-21-03, IPPW2023-059, Council December 11, 2023, 65 Northfield Drive Inc.) j) By-law 2023-112 By-law to confirm all actions and proceedings of Council, December 11, 2023",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-103 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-103 By-law to Impose Fees and Charges on Persons (COM2023-036, COM2023-032, IPPW2023-060, IPPW2023-061, Council December 11, 2023) b) By-law 2023-104 Temporary Use Zoning By-law City of Waterloo, SOLER Initiative Extension (IPPW2023-062, Council December 11, 2023) c) By-law 2023-105 By-law to Provide for the Licensing and Regulation of Various Businesses in the City of Waterloo (COM2023-031, Council December 11, 2023) d) By-law 2023-106 By-law to adopt Official Plan Amendment No. 42 creating a specific provision are for the lands known municipally as 83, 85 Hickory Street West and 265, 267 Hemlock Street. (OPA 42, IPPW2023-036, Council November 20, 2023, 13780520 Canada Inc.) e) By-law 2023-107 By-law to amend By-law No. 2018-050, being a zoning by-law controlling land use in the City of Waterloo. Amending the zoning on the lands known municipally as 83, 85 Hickory Street West and 265, 267 Hemlock Street in order to apply site specific regulations. (Zone Change Application Z-22-13, IPPW2023-036, Council Nov 20, 2023, 13780520 Canada Inc.) f) By-law 2023-108 A By-law to amend By-law 2017-047, being a By-law to Establish Certain Municipal Parking Lots in the City and to Regulate the Parking of Vehicles Therein and Thereon (CAO2023-027, Council December 11, 2023) g) By-law 2023-109 By-law to amend By-law No. 2018-050, being a Zoning By-law controlling land use development within the City of Waterloo. 155 &amp; 165 University Ave W. (IPPW2023-053, Council December 11, 2023) h) By-law 2023-110 By-law to adopt Official Plan Amendment No. 32 redesignating the lands known municipally as 525 &amp; 565 Conestogo Road West from Business Employment to Mixed-Use Community Commercial and creating a specific provision area for the lands. (OPA 32, IPPW2023-059, Council December 11, 2023, 65 Northfield Drive Inc.) i) By-law 2023-111 By-law to amend By-Law No. 2018-050, being a zoning by-law controlling land use in the City of Waterloo. Rezone the lands known municipally as 525 &amp; 565 Conestogo Rd W from Future Determination (FD) to Station Area Mixed-Use Community Commercial (C1A-81) with site specific provisions. 65 Northfield Drive Inc. (Zone Change Application Z-21-03, IPPW2023-059, Council December 11, 2023, 65 Northfield Drive Inc.) j) By-law 2023-112 By-law to confirm all actions and proceedings of Council, December 11, 2023</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 19
+  },
+  {
+   "id": "m25",
+   "item": "14",
+   "item_number": "14",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "McCabe",
+   "text": "That the meeting adjourn. (Time: 9:27 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 9:27 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 21
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Wright",
+   "item_number": "9a",
+   "text": ""
+  }
+ ],
+ "attendance_events": [
+  {
+   "member": "Wright",
+   "event": "left",
+   "text": "Having previously declared a conflict of interest, Councillor Wright left the meeting.",
+   "page": 4
+  },
+  {
+   "member": "Wright",
+   "event": "joined",
+   "text": "Councillor Wright joined the meeting. (Time: 3:44 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 4:40 p.m.)",
+   "page": 11
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 4:42 p.m.)",
+   "page": 11
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "joined",
+   "text": "Mayor McCabe joined the meeting. (Time: 7:48 p.m.)",
+   "page": 15
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 9:09 p.m.)",
+   "page": 17
+  },
+  {
+   "member": "Freeman",
+   "event": "joined",
+   "text": "Councillor Freeman joined the meeting. (Time: 9:19 p.m.)",
+   "page": 18
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

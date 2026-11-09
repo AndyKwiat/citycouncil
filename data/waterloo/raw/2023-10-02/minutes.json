@@ -1,0 +1,691 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 7,
+ "roster": [
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Roe",
+  "Wright",
+  "Mayor McCabe",
+  "Hanmer",
+  "Vasic"
+ ],
+ "absent": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Vasic"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:01 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Bodaly opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we are gathering from today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share their land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Bodaly provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "September 6, 2023 – Special Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "September 11, 2023 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (c) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Delegated Authority for Declaration",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>of Significant Weather Event</p>",
+    "<p>Report No.: IPPW2023-050</p>",
+    "<p>Prepared By: Bob Henderson, Chad Heise, Robin Milne</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Traffic and Parking By-law Amendments –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Various Locations</p>",
+    "<p>Report No.: IPPW2023-045</p>",
+    "<p>Prepared By: Haydn Kocznur</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7c",
+   "number": "7c",
+   "title": "Proposed 2024 Council Schedule",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-044</p>",
+    "<p>Prepared By: Rook Ward and Julie Finley-Swaren</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting - DEFFERED</p>",
+    "<p>The Formal Public meeting for Zoning By-law Amendment Application Z-23- 09, Canadian Tire Properties Inc., 650, 654, 656, 660 Erb St. W., Ward 2 (Northwest) which was scheduled to occur on Monday, October 2, 2023 has been deferred to October 30, 2023.</p>",
+    "<p>For more information regarding the application please contact the planner John Vos at john.vos@waterloo.ca or 519-747-8527.</p>",
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Official Plan Amendment No. 39,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning By-law Amendment Z-22-11,</p>",
+    "<p>203-207 King Street South and 10-16</p>",
+    "<p>John Street West, 2865161 Ontario Inc.</p>",
+    "<p>Report No.: IPPW2023-046</p>",
+    "<p>Prepared By: Max Kerrigan</p>",
+    "<p>Ward No.: Ward 7 – Uptown</p>",
+    "<p>Max Kerrigan gave a presentation outlining the City structure and the major nodes of the City, and detailing the development proposal. He then responded to questions of Council.</p>",
+    "<p>Trevor Hawkins, partner, MHBC gave a presentation further detailing the proposed development. He then responded to questions of Council.</p>",
+    "<p>Joan Heaton, resident of Waterloo spoke against the proposed development and shared some concerns for the proposed building. They responded to questions of Council.</p>",
+    "<p>Richard Magnussen, resident of Waterloo, spoke about how they are pleased to see development, but disapproves the Official Plan Amendment as it is presented. Max Kerrigan responded to questions of Council.</p>",
+    "<p>Richard Dixon, Resident of Waterloo spoke against the proposed development, mentioning the zoning by-law. They then responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 7:55 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 8:01 p.m.)</p>",
+    "<p>Ashwin Annamalai, resident of Waterloo spoke in favour of the proposed development, and the community building it would bring.</p>",
+    "<p>Carol Dixon, resident of Waterloo raised concerns about the way public notices are provided and spoke against the proposed development. They then responded to questions of Council. Cari Van Niekerk and Max Kerrigan also responded to questions of Council.</p>",
+    "<p>Phil Marfisi, resident of Waterloo spoke in favour of the proposed amendments, citing the alignment with the Strategic Priorities.</p>",
+    "<p>John Shortreed, resident of Waterloo spoke against the proposed development. They then responded to questions of Council. Max Kerrigan and Joel Cotter responded to questions of Council.</p>",
+    "<p>Craig Sloss, resident of Waterloo spoke in favour of the proposed development and about 15-minute cities and the walkability of the City. Cari Van Niekerk responded to questions of Council.</p>",
+    "<p>Damian Mikhail, resident of Waterloo spoke in favour of the proposed development, and the sense of community that Waterloo offers.</p>",
+    "<p>Shiva Subramanian, resident of Waterloo spoke in favour of the proposed development.</p>",
+    "<p>They also suggested that restrictive zoning practices limit what can be built.</p>",
+    "<p>Ryan Mounsey, resident of Waterloo spoke in favour of the proposed development, and the need for more housing.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>",
+    "<p>Max Kerrigan responded to further questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe wanted to thank everyone who came to the Mayor’s Oktoberfest Market organized by the Uptown BIA, staff, and Create Waterloo.</p>",
+    "<p>Councillor Roe mentioned the Indigenous Mural unveiling at Wilfrid Laurier on Thursday, September 28th and the importance of representation and reconciliation.</p>",
+    "<p>Councillor Freeman mentioned how wonderful Lumen was for the City and wanted to thank staff for all of their hard work on the event.</p>",
+    "<p>Councillor Bodaly echoed some of Councillor Freeman’s thoughts on Lumen and its growth over last year. He also spoke about the official opening of Silver Lake at Waterloo Park, and how nicely Lumen tied into it.</p>",
+    "<p>Mayor McCabe talked about an event she took part in for Truth and Reconciliation Day as part of her position sitting on the UW Board of Governors. At the Board Retreat they did a Blanket Exercise with the Elder from the University of Waterloo. This experience offered an impactful history lesson on colonization and the residential school system.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 6
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, October 30, 2023</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 7
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Freeman",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Legal Advice re: Settlement, Housing); b) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (Legal Advice re: Settlement, Housing); and c) the security of the property of the municipality or local board (Housing).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Legal Advice re: Settlement, Housing); b) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (Legal Advice re: Settlement, Housing); and c) the security of the property of the municipality or local board (Housing).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "September 6, 2023 – Special Council Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Freeman",
+   "text": "That the minutes of the Special Council meeting held on September 6, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Special Council meeting held on September 6, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "September 11, 2023 – Council Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Freeman",
+   "text": "That the minutes of the Council meeting held on September 11, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on September 11, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "Delegated Authority for Declaration",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve report IPPW2023-050. 2. That Council delegate authority to declare a Significant Weather Event pursuant to Ontario Regulation O.Reg. 239/02 Minimum Maintenance Standards, (“MMS”) of the Municipal Act, 2001 to the Chief Administrative Officer or designate. 3. That staff to bring forward a by-law for Council’s consideration to amend Bylaw 2021-065 (CAO duties by-law) to include declaring the beginning and end of a Significant Weather Event.",
+   "text_html": "<p>1. That Council approve report IPPW2023-050.</p><p>2. That Council delegate authority to declare a Significant Weather Event pursuant to Ontario Regulation O.Reg. 239/02 Minimum Maintenance Standards, (“MMS”) of the Municipal Act, 2001 to the Chief Administrative Officer or designate.</p><p>3. That staff to bring forward a by-law for Council’s consideration to amend Bylaw 2021-065 (CAO duties by-law) to include declaring the beginning and end of a Significant Weather Event.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Traffic and Parking By-law Amendments –",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Freeman",
+   "text": "1. That IPPW2023-045 be approved. 2. That Traffic and Parking By-law #08-077 be amended as set out in IPPW2023-045.",
+   "text_html": "<p>1. That IPPW2023-045 be approved.</p><p>2. That Traffic and Parking By-law #08-077 be amended as set out in IPPW2023-045.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "7c",
+   "item_number": "7c",
+   "item_title": "Proposed 2024 Council Schedule",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Freeman",
+   "text": "1. That CORP2023-044 be approved. 2. That Council approve the proposed 2024 Council Meeting Schedule attached as Appendix A.",
+   "text_html": "<p>1. That CORP2023-044 be approved.</p><p>2. That Council approve the proposed 2024 Council Meeting Schedule attached as Appendix A.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Official Plan Amendment No. 39,",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report IPPW2023-046. 2. That Council adopt Official Plan Amendment No. 39 (OPA 39) as set out in Section 8 of IPPW2023-046. 3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 39 (OPA 39). 4. That Council approve Zoning By-law Amendment Z-22-11, 203-207 King Street South and 10-16 John Street West, in accordance with Section 8 of IPPW2023-046.",
+   "text_html": "<p>1. That Council approve report IPPW2023-046.</p><p>2. That Council adopt Official Plan Amendment No. 39 (OPA 39) as set out in Section 8 of IPPW2023-046.</p><p>3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 39 (OPA 39).</p><p>4. That Council approve Zoning By-law Amendment Z-22-11, 203-207 King Street South and 10-16 John Street West, in accordance with Section 8 of IPPW2023-046.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (6 to 1)",
+    "label": "6-1",
+    "for": 6,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Bodaly",
+     "Freeman",
+     "Hanmer",
+     "Mayor McCabe",
+     "Roe",
+     "Wright"
+    ],
+    "against": [
+     "Roach"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "for_inferred": true,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m8",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Hanmer",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-082 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-082 By-law to Amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2023-045, Council October 2, 2023) b) By-law 2023-083 By-law to confirm all actions and proceedings of Council, October 2, 2023",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-082 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-082 By-law to Amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2023-045, Council October 2, 2023) b) By-law 2023-083 By-law to confirm all actions and proceedings of Council, October 2, 2023</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "12",
+   "item_number": "12",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Roach",
+   "text": "That the meeting adjourn. (Time: 9:31 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 9:31 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 7
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,1363 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 14,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [
+  "Freeman"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which many of us are gathered today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral peoples. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous people with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Hanmer declared a conflict with respect to item 5d) due to a conflict of interest as it relates to being a member of the home association.</p>",
+    "<p>Councillor Freeman declared a conflict with respect to item 9a) due to a conflict of interest as it relates to place of employment.</p>",
+    "<p>Councillor Vasic declared a conflict with respect to item 9b) due to a conflict of interest as it relates to place of study.</p>",
+    "<p>Mayor McCabe declared a conflict with respect to item 5c) due to a conflict of interest as it relates to being a member of the home association.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4a",
+   "number": "4a",
+   "title": "March 25, 2024 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman requested that items 5c) 2024 GIIHA Special Service Levy and 5d) 2024 BW2HA Special Service Levy be removed from the consent motion.</p>",
+    "<p>That consent motion items (a) through (e) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5a",
+   "number": "5a",
+   "title": "2024 BIIHA Special Service Levy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-011</p>",
+    "<p>Prepared By: Mary Zubert</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5b",
+   "number": "5b",
+   "title": "2024 BWIHA Special Service Levy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-012</p>",
+    "<p>Prepared By: Mary Zubert</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "5c",
+   "number": "5c",
+   "title": "2024 BSHA Special Service Levy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-016</p>",
+    "<p>Prepared By: Mary Zubert</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "5d",
+   "number": "5d",
+   "title": "Bylaw to Authorize the Borrowing for",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Temporary Loans</p>",
+    "<p>Report No.: CORP2024-019</p>",
+    "<p>Prepared By: Mary Zubert</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "5e",
+   "number": "5e",
+   "title": "Significant Festivals and Events for",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>By-Law Exemption</p>",
+    "<p>Report No.: CAO2024-015</p>",
+    "<p>Prepared By: Lakyn Barton</p>",
+    "<p>(Time: 2:03 p.m.)</p>",
+    "<p>(Time: 2:03 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "2024 GIIHA Special Service Levy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-013</p>",
+    "<p>Prepared By: Mary Zubert</p>",
+    "<p>Mayor McCabe having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "2024 BW2HA Special Service Levy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-015</p>",
+    "<p>Prepared By: Mary Zubert</p>",
+    "<p>Councillor Hanmer having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "2024 Sustainability and Climate Change",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Update Report</p>",
+    "<p>Report No.: CAO2024-010</p>",
+    "<p>Prepared By: Ena Ristic</p>",
+    "<p>Ena Ristic gave a presentation with the strategic, corporate and community sustainability highlights, as well as an overview of engagement and the challenges they face. She then responded to questions. Bob Henderson, Mark Dykstra and Sandy Little also responded to questions of Council.</p>",
+    "<p>Kae Elgie, Resident of Waterloo, GreenWR spoke about the positive impact the City is making, and how the members of the public can keep track of the community’s progress. She then responded to questions of Council. Ena Ristic and Sandy Little also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Green Building Policy and GHG",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Progress Updates</p>",
+    "<p>Report No.: COM2024-010</p>",
+    "<p>Prepared By: Scott Prevost</p>",
+    "<p>Scott Prevost gave a presentation updating Council on the Green Building Policy, greenhouse gas sources and projections, and net zero carbon emissions. He then responded to questions of Council.</p>",
+    "<p>Phil Raats, Resident of Waterloo spoke about his idea to help with housing and energy efficiency.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 6
+  },
+  {
+   "id": "7c",
+   "number": "7c",
+   "title": "Facility Transformational Projects",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Partial Funding Release Request</p>",
+    "<p>Report No.: COM2024-016</p>",
+    "<p>Prepared By: Scott Prevost</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 7
+  },
+  {
+   "id": "7d",
+   "number": "7d",
+   "title": "2024 Business Improvement Area Levy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-014</p>",
+    "<p>Prepared By: Mary Zubert</p>",
+    "<p>Jeyas Balaskanthan, Executive Director, Uptown Waterloo Business Improvement Area gave a presentation updating Council on the activities of the Uptown BIA. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 7
+  },
+  {
+   "id": "7e",
+   "number": "7e",
+   "title": "2023/2024 Grant Update Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-020</p>",
+    "<p>Prepared By: Michael Pugliese</p>",
+    "<p>Brad Witzel responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 8
+  },
+  {
+   "id": "7f",
+   "number": "7f",
+   "title": "Disposition of City Owned Lands –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Millennium Blvd Remnant Land Parcel</p>",
+    "<p>Report No.: CAO2024-008</p>",
+    "<p>Prepared By: Justin McFadden</p>",
+    "<p>Council meeting recessed: (Time: 3:39 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:31 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Vasic declared a conflict with respect to item 9b) due to a conflict of interest as it relates to place of study.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>",
+    "<p>Formal Public Meeting - DEFFERED</p>",
+    "<p>The Formal Public meeting for Official Plan Amendment No. 52 &amp; Zoning By-law Amendment Application Z-24-03, 14688210 Canada Inc, 177-179 Albert Street, Ward 7 Uptown, which was scheduled to occur on Monday, April 22nd, has been deferred to a later date to be determined.</p>",
+    "<p>For more information regarding the application please contact the planner Max Kerrigan at max.kerrigan@waterloo.ca or 519-747-8522.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Official Plan Amendment No. 48 and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning By-law Amendment Z-23-08,</p>",
+    "<p>Copper Bay Homes Ltd., 6, 8, 10, 12,</p>",
+    "<p>and 14 Dietz Avenue North</p>",
+    "<p>Report No.: IPPW2024-021</p>",
+    "<p>Prepared By: John Vos</p>",
+    "<p>Ward No.: Uptown, Ward 7</p>",
+    "<p>John Vos gave a presentation outlining the proposed development and amendments required. He then responded to questions of Council.</p>",
+    "<p>Trevor Hawkins, Partner, MHBC Planning gave a presentation further detailing the proposed development and the context of the site. He then responded to questions of Council. Tommy Rakic, Owner, Copper Bay Homes also responded to questions of Council.</p>",
+    "<p>Robert Barnett, Resident of Waterloo spoke about the proposed amendments, affordable housing, the recommendations as presented in the report, and the need for a Master Plan for the lands between Dietz and Avondale.</p>",
+    "<p>Thom Bartleman, Resident of Waterloo spoke against the proposed development, citing the reduction of parking and suitability for the neighbourhood. He then responded to questions of Council.</p>",
+    "<p>Ashwin Annamalai, Resident of Waterloo spoke about the troubles of renting in the City and the need for more housing, especially purpose-built rentals.</p>",
+    "<p>Phil Marfisi, Resident of Waterloo spoke about the need for transit-oriented development and that they supported a mid-rise building planned for a side street.</p>",
+    "<p>Reinhold Dresler, Resident of Waterloo spoke about concerns with the height of the building.</p>",
+    "<p>Shiva Subramanian, Resident of Waterloo spoke about the need for more rental housing. They then responded to questions of Council.</p>",
+    "<p>Craig Sloss, Resident of Waterloo spoke in favour of the proposed development, about the breakdown of the building, and about the importance of protecting the countryside.</p>",
+    "<p>Pauline Campbell, Resident of Waterloo spoke about the suitability of the building to the neighbourhood, as well as the impact of the building on Waterloo Heights.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application was open to Council for a motion and debate.</p>",
+    "<p>Joel Cotter and John Vos responded to questions of Council.</p>",
+    "<p>(Time: 8:03 p.m.)</p>",
+    "<p>Council meeting recessed: (Time: 8:04 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 8:10 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 9
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "General Amendments to the Official Plan",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>and Zoning By-law, OPA 54 and Z-24-01,</p>",
+    "<p>The Corporation of the City of Waterloo</p>",
+    "<p>Report No.: IPPW2024-022</p>",
+    "<p>Prepared By: Tristin Deveau</p>",
+    "<p>Ward No.: All Wards</p>",
+    "<p>Tristin Deveau gave a presentation outlining the proposed amendments to the Official Plan and Zoning By-law.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>",
+    "<p>Councillor Vasic having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 11
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Hanmer noted that she was proud and excited about residents not just in her ward but across the City being engaged in Earth Day activities over the past weekend.</p>",
+    "<p>There was a lot of cleanup across the City. She offered her thanks to those who organized the events as well as those who participated.</p>",
+    "<p>Councillor Bodaly appeared as acting mayor when the solicitor general was in town last week. They visited Fire Station 2 in his ward to discuss cancer screening information for firefighters in the community.</p>",
+    "<p>Councillor Roe mentioned that the Coalition of Muslim Women held an Eid activity event at the Harper Library on Saturday, April 20. The crafts were great and there was great engagement with the community.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 12
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(Time: 8:25 p.m.)</p>",
+    "<p>(Time: 8:25 p.m.)</p>",
+    "<p>Councillor Hanmer having previously declared a pecuniary interest was absent for the taking of the vote.</p>",
+    "<p>Mayor McCabe having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m17",
+    "m18"
+   ],
+   "page": 12
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, May 27, 2024</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ],
+   "page": 13
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4a",
+   "item_number": "4a",
+   "item_title": "March 25, 2024 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on March 25, 2024 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on March 25, 2024 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "5a",
+   "item_number": "5a",
+   "item_title": "2024 BIIHA Special Service Levy",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve CORP2024-011. 2. That Council approve the Beechwood II Homes Association (“BIIHA”) 2024municipal budgeted levy of $89,462 to fund the operating and capital costs of the BIIHA recreation facility and programs; and, 3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.",
+   "text_html": "<p>1. That Council approve CORP2024-011.</p><p>2. That Council approve the Beechwood II Homes Association (“BIIHA”) 2024municipal budgeted levy of $89,462 to fund the operating and capital costs of the BIIHA recreation facility and programs; and,</p><p>3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "5b",
+   "item_number": "5b",
+   "item_title": "2024 BWIHA Special Service Levy",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve CORP2024-12. 2. That Council approve the Beechwood West #1 Homes Association (“BWIHA”) 2024 municipal budgeted levy of $126,846 to fund the operating and capital costs of the BWIHA recreation facility and programs; and, 3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.",
+   "text_html": "<p>1. That Council approve CORP2024-12.</p><p>2. That Council approve the Beechwood West #1 Homes Association (“BWIHA”) 2024 municipal budgeted levy of $126,846 to fund the operating and capital costs of the BWIHA recreation facility and programs; and,</p><p>3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "5c",
+   "item_number": "5c",
+   "item_title": "2024 BSHA Special Service Levy",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve CORP2024-16. 2. That Council approve the Beechwood South Homes Association (“BSHA”) 2024 municipal budgeted levy of $122,265 to fund the operating and capital costs of the BSHA recreation facility and programs; and, 3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.",
+   "text_html": "<p>1. That Council approve CORP2024-16.</p><p>2. That Council approve the Beechwood South Homes Association (“BSHA”) 2024 municipal budgeted levy of $122,265 to fund the operating and capital costs of the BSHA recreation facility and programs; and,</p><p>3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "5d",
+   "item_number": "5d",
+   "item_title": "Bylaw to Authorize the Borrowing for",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve CORP2024-019. 2. That Council approves the borrowing for temporary loans, if required, not to exceed an aggregate of $103,339,084 to meet the current expenditures for 2024, 2025 and 2026. 3. That Council adopt the By-law attached as Appendix A to this report for the establishment of borrowing limits. 4. That Council directs staff to report back on amount and terms subsequent to any temporary borrowing required.",
+   "text_html": "<p>1. That Council approve CORP2024-019.</p><p>2. That Council approves the borrowing for temporary loans, if required, not to exceed an aggregate of $103,339,084 to meet the current expenditures for 2024, 2025 and 2026.</p><p>3. That Council adopt the By-law attached as Appendix A to this report for the establishment of borrowing limits.</p><p>4. That Council directs staff to report back on amount and terms subsequent to any temporary borrowing required.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "5e",
+   "item_number": "5e",
+   "item_title": "Significant Festivals and Events for",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report CAO2024-15 2. That the 2024 designated “Significant Festivals and Events for By- Law Exemption” include: Affiliate-delivered festivals and events. o  Afro Fest  Kitchener-Waterloo Oktoberfest events  Kultrun World Music Festival  The Royal Medieval Faire  Waterloo Busker Carnival  Waterloo Jazz Festival  Wonders of Winter",
+   "text_html": "<p>1. That Council approve report CAO2024-15</p><p>2. That the 2024 designated “Significant Festivals and Events for By- Law Exemption” include: Affiliate-delivered festivals and events. o  Afro Fest  Kitchener-Waterloo Oktoberfest events  Kultrun World Music Festival  The Royal Medieval Faire  Waterloo Busker Carnival  Waterloo Jazz Festival  Wonders of Winter</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "2024 GIIHA Special Service Levy",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve Staff Report CORP2024-013. 2. That Council approve the Glasgow II Homes Association (“GIIHA”) 2024 municipal budgeted levy of $27,000 to fund the operating and capital costs of the GIIHA recreation facility and programs; and, 3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.",
+   "text_html": "<p>1. That Council approve Staff Report CORP2024-013.</p><p>2. That Council approve the Glasgow II Homes Association (“GIIHA”) 2024 municipal budgeted levy of $27,000 to fund the operating and capital costs of the GIIHA recreation facility and programs; and,</p><p>3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "2024 BW2HA Special Service Levy",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve CORP2024-15. 2. That Council approve the Beechwood West #2 Homes Association (“BW2HA”)2024 municipal budgeted levy of $64,000 to fund the operating and capital costs of the BW2HA recreation facility and programs; and, 3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.",
+   "text_html": "<p>1. That Council approve CORP2024-15.</p><p>2. That Council approve the Beechwood West #2 Homes Association (“BW2HA”)2024 municipal budgeted levy of $64,000 to fund the operating and capital costs of the BW2HA recreation facility and programs; and,</p><p>3. That Council adopt the By-law attached as Appendix A to this report for the imposition of a Special Services Levy on the rateable properties prescribed therein.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m9",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "2024 Sustainability and Climate Change",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Roe",
+   "text": "1. That Council receive CAO2024-010 as information.",
+   "text_html": "<p>1. That Council receive CAO2024-010 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m10",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Green Building Policy and GHG",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Wright",
+   "text": "1. That Council approve report COM2024-010. 2. That Council approve the revisions to the Corporate Policy A-033 Green Building Policy for City-Owned Buildings as Appendix A. 3. That Council direct staff to update greenhouse gas emission targets for City-owned buildings to align with Council’s most recently endorsed greenhouse gas emission reduction targets of 50% by 2030 and net-zero by 2050. 4. That Council direct staff to develop a Corporate Solar Photovoltaic (PV) Strategy for City-owned buildings and properties, as part of the overall plan to achieve the City’s Corporate GHG emissions reduction targets and report back to Council at a later date.",
+   "text_html": "<p>1. That Council approve report COM2024-010.</p><p>2. That Council approve the revisions to the Corporate Policy A-033 Green Building Policy for City-Owned Buildings as Appendix A.</p><p>3. That Council direct staff to update greenhouse gas emission targets for City-owned buildings to align with Council’s most recently endorsed greenhouse gas emission reduction targets of 50% by 2030 and net-zero by 2050.</p><p>4. That Council direct staff to develop a Corporate Solar Photovoltaic (PV) Strategy for City-owned buildings and properties, as part of the overall plan to achieve the City’s Corporate GHG emissions reduction targets and report back to Council at a later date.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m11",
+   "item": "7c",
+   "item_number": "7c",
+   "item_title": "Facility Transformational Projects",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report COM2024-016. 2. That Council approve the partial release of 2024 non-routine funding for the Facility Transformational Projects, in the amount of $250,000, from the Approved 2024-2026 Capital Budget (Ref #225), funded from the Climate Action Reserve Fund (CARF).",
+   "text_html": "<p>1. That Council approve report COM2024-016.</p><p>2. That Council approve the partial release of 2024 non-routine funding for the Facility Transformational Projects, in the amount of $250,000, from the Approved 2024-2026 Capital Budget (Ref #225), funded from the Climate Action Reserve Fund (CARF).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m12",
+   "item": "7d",
+   "item_number": "7d",
+   "item_title": "2024 Business Improvement Area Levy",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve Staff Report CORP2024-014. 2. That Council adopt the By-Law attached as Appendix A to this report for imposition of a Special Levy on the rateable properties prescribed within the Uptown Waterloo Business Improvement Area (BIA) Area Map Schedule A. 3. That Council approve the Uptown Waterloo BIA 2024 levy of $738,274 to fund the operating and capital costs of the Board of Management for Uptown Waterloo Business Improvement Area.",
+   "text_html": "<p>1. That Council approve Staff Report CORP2024-014.</p><p>2. That Council adopt the By-Law attached as Appendix A to this report for imposition of a Special Levy on the rateable properties prescribed within the Uptown Waterloo Business Improvement Area (BIA) Area Map Schedule A.</p><p>3. That Council approve the Uptown Waterloo BIA 2024 levy of $738,274 to fund the operating and capital costs of the Board of Management for Uptown Waterloo Business Improvement Area.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m13",
+   "item": "7e",
+   "item_number": "7e",
+   "item_title": "2023/2024 Grant Update Report",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Vasic",
+   "text": "1. That Council receives report CORP2024-020 as information.",
+   "text_html": "<p>1. That Council receives report CORP2024-020 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m14",
+   "item": "7f",
+   "item_number": "7f",
+   "item_title": "Disposition of City Owned Lands –",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "McCabe",
+   "text": "1. That CAO2024-008 be approved. 2. That Council declare the lands surplus, shown on Attachment 1 (Reference Plan 58R-21605) as Part of Lot 65, German Company Tract designated as Parts 2 and 4 on Plan 58R-21605; Part 4 is subject to an Easement in Gross as in WR808880; City of Waterloo, being Part of PIN 22707-1814 (the “Subject Land”), for the purpose of selling the Subject Lands to Activa Holdings Inc. 3. That Council delegates authority to the City Solicitor to finalize an Agreement Purchase of Sale (“APS”) and execute the APS along with any other necessary documents related to the above noted lands, to successfully transfer the parcel. The value of the transfer will be the appraised value of $640,000, with the net land sale proceeds to be allocated to the Tax Rate Stabilization Fund (TRS).",
+   "text_html": "<p>1. That CAO2024-008 be approved.</p><p>2. That Council declare the lands surplus, shown on Attachment 1 (Reference Plan 58R-21605) as Part of Lot 65, German Company Tract designated as Parts 2 and 4 on Plan 58R-21605; Part 4 is subject to an Easement in Gross as in WR808880; City of Waterloo, being Part of PIN 22707-1814 (the “Subject Land”), for the purpose of selling the Subject Lands to Activa Holdings Inc.</p><p>3. That Council delegates authority to the City Solicitor to finalize an Agreement Purchase of Sale (“APS”) and execute the APS along with any other necessary documents related to the above noted lands, to successfully transfer the parcel. The value of the transfer will be the appraised value of $640,000, with the net land sale proceeds to be allocated to the Tax Rate Stabilization Fund (TRS).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m15",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Official Plan Amendment No. 48 and",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve staff report IPPW2024-021. 2. That Council adopt Official Plan Amendment No. 48 (OPA 48), Copper Bay Homes Ltd., 6, 8, 10, 12, 14 Dietz Avenue North in accordance with Section 7 of staff report IPPW2024-021. 3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 48 (OPA 48). 4. That Council approve Zoning By-law Amendment Z-23-08, Copper Bay Homes Ltd., 6, 8, 10, 12, 14 Dietz Avenue North in accordance with Section 7 of staff report IPPW2024-021",
+   "text_html": "<p>1. That Council approve staff report IPPW2024-021.</p><p>2. That Council adopt Official Plan Amendment No. 48 (OPA 48), Copper Bay Homes Ltd., 6, 8, 10, 12, 14 Dietz Avenue North in accordance with Section 7 of staff report IPPW2024-021.</p><p>3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 48 (OPA 48).</p><p>4. That Council approve Zoning By-law Amendment Z-23-08, Copper Bay Homes Ltd., 6, 8, 10, 12, 14 Dietz Avenue North in accordance with Section 7 of staff report IPPW2024-021</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m16",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "General Amendments to the Official Plan",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report IPPW2024-022. 2. That Council adopt Official Plan Amendment No. 54, General Amendments to the Official Plan of the City of Waterloo, as set out in Schedule ‘A’ to IPPW2024-022. 3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 54. 4. That Council approve Zoning By-law Amendment Z-24-01, General Amendments to City of Waterloo Zoning By-law 2018-050, as set out in Schedule ‘B’ to IPPW2024-022.",
+   "text_html": "<p>1. That Council approve report IPPW2024-022.</p><p>2. That Council adopt Official Plan Amendment No. 54, General Amendments to the Official Plan of the City of Waterloo, as set out in Schedule ‘A’ to IPPW2024-022.</p><p>3. That Council request that the Regional Municipality of Waterloo approve Official Plan Amendment No. 54.</p><p>4. That Council approve Zoning By-law Amendment Z-24-01, General Amendments to City of Waterloo Zoning By-law 2018-050, as set out in Schedule ‘B’ to IPPW2024-022.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m17",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Bodaly",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-022 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-022 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Beechwood II Homes Association Area for the Taxation Year 2024 (CORP2024-011, Council April 22, 2024) b) By-law 2024-023 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Beechwood West #1 Homes Association Area for the Taxation Year 2024 (CORP2024-012, Council April 22, 2024) d) By-law 2024-025 By-law to Determine how the BIA Collects Levies from Properties Within its Boundaries (CORP2024-014, Council April 22, 2024) f) By-law 2024-027 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Beechwood South Homes Association Area for the Taxation Year 2024 (CORP2024-016, Council April 22, 2024) g) By-law 2024-028 By-law to Authorize the Borrowing for Temporary Loans (CORP2024-019, Council April 22, 2024) h) By-law 2024-029 By-law to confirm all actions and proceedings of Council, April 22, 2024",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-022 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-022 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Beechwood II Homes Association Area for the Taxation Year 2024 (CORP2024-011, Council April 22, 2024) b) By-law 2024-023 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Beechwood West #1 Homes Association Area for the Taxation Year 2024 (CORP2024-012, Council April 22, 2024) d) By-law 2024-025 By-law to Determine how the BIA Collects Levies from Properties Within its Boundaries (CORP2024-014, Council April 22, 2024) f) By-law 2024-027 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Beechwood South Homes Association Area for the Taxation Year 2024 (CORP2024-016, Council April 22, 2024) g) By-law 2024-028 By-law to Authorize the Borrowing for Temporary Loans (CORP2024-019, Council April 22, 2024) h) By-law 2024-029 By-law to confirm all actions and proceedings of Council, April 22, 2024</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m18",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Bodaly",
+   "text": "c) By-law 2024-024 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Glasgow II Homes Association Area for the Taxation Year 2024 (CORP2024-013, Council April 22, 2024) e) By-law 2024-026 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Beechwood West #2 Homes Association Area for the Taxation Year 2024 (CORP2024-015, Council April 22, 2024)",
+   "text_html": "<p>c) By-law 2024-024 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Glasgow II Homes Association Area for the Taxation Year 2024 (CORP2024-013, Council April 22, 2024) e) By-law 2024-026 By-law to Levy a Special Local Municipality Levy on the Rateable Property in the Beechwood West #2 Homes Association Area for the Taxation Year 2024 (CORP2024-015, Council April 22, 2024)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 4,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m19",
+   "item": "12",
+   "item_number": "12",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Roach",
+   "text": "That the meeting adjourn. (Time: 8:27 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 8:27 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 13
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Hanmer",
+   "item_number": "5d",
+   "text": ""
+  },
+  {
+   "member": "Freeman",
+   "item_number": "9a",
+   "text": ""
+  },
+  {
+   "member": "Vasic",
+   "item_number": "9b",
+   "text": ""
+  },
+  {
+   "member": "Mayor McCabe",
+   "item_number": "5c",
+   "text": ""
+  }
+ ],
+ "attendance_events": [
+  {
+   "member": "Mayor McCabe",
+   "event": "left",
+   "text": "Having previously declared a conflict of interest, Mayor McCabe left the meeting.",
+   "page": 4
+  },
+  {
+   "member": "Hanmer",
+   "event": "left",
+   "text": "Having previously declared a conflict of interest, Councillor Hanmer left the meeting.",
+   "page": 4
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "joined",
+   "text": "Mayor McCabe joined the meeting. (Time: 2:03 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Hanmer",
+   "event": "joined",
+   "text": "Councillor Hanmer joined the meeting. (Time: 2:03 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Roe",
+   "event": "joined",
+   "text": "Councillor Roe joined the meeting. (Time: 2:07 p.m.)",
+   "page": 6
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "left",
+   "text": "Mayor McCabe left the meeting. (Time: 3:20 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "joined",
+   "text": "Mayor McCabe joined the meeting. (Time: 3:24 p.m.)",
+   "page": 7
+  },
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Having previously declared a conflict of interest, Councillor Vasic left the meeting.",
+   "page": 11
+  },
+  {
+   "member": "Hanmer",
+   "event": "left",
+   "text": "Having previously declared a pecuniary interest, Councillor Hanmer left the meeting.",
+   "page": 13
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "left",
+   "text": "Having previously declared a pecuniary interest, Mayor McCabe left the meeting.",
+   "page": 13
+  },
+  {
+   "member": "Hanmer",
+   "event": "joined",
+   "text": "Councillor Hanmer joined the meeting. (Time: 8:26 p.m.)",
+   "page": 13
+  },
+  {
+   "member": "Mayor McCabe",
+   "event": "joined",
+   "text": "Mayor McCabe joined the meeting. (Time: 8:26 p.m.)",
+   "page": 13
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

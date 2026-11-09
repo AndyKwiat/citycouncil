@@ -1,0 +1,785 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 7,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Vasic",
+  "Roe",
+  "Wright",
+  "Roach",
+  "Freeman"
+ ],
+ "absent": [
+  "Roach",
+  "Freeman"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which many of us are gathered today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral peoples. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous people with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>",
+    "<p>Mayor McCabe offered further reflections on her visit to Mount Zion Lutheran Church for their annual Black History Month celebration on Sunday, February 25th with Councillor Wright.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4a",
+   "number": "4a",
+   "title": "January 22, 2024 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "4b",
+   "number": "4b",
+   "title": "January 29, 2024 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (e) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5a",
+   "number": "5a",
+   "title": "2023 Drinking Water Annual and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Summary Reports</p>",
+    "<p>Report No.: IPPW2024-007</p>",
+    "<p>Prepared By: Jaclyn Varga</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5b",
+   "number": "5b",
+   "title": "Demolition Control Applications –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>2023 Summary</p>",
+    "<p>Report No.: IPPW2024-011</p>",
+    "<p>Prepared By: Brandon Thompson</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "5c",
+   "number": "5c",
+   "title": "Waterloo City Centre – Lease Renewal",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>– Advanis Inc.</p>",
+    "<p>Report No.: COM2024-011</p>",
+    "<p>Prepared By: Liz Williams</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "5d",
+   "number": "5d",
+   "title": "Waterloo City Centre – Lease Renewal",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>– The Honourable Bardish Chagger,</p>",
+    "<p>Member of Parliament</p>",
+    "<p>Report No.: COM2024-012</p>",
+    "<p>Prepared By: Liz Williams</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 3
+  },
+  {
+   "id": "5e",
+   "number": "5e",
+   "title": "Service Agreement with Region of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Waterloo for Subsidized Camp Fees</p>",
+    "<p>for Children</p>",
+    "<p>Report No.: COM2024-009</p>",
+    "<p>Prepared By: Melanie Stoddard</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>DEFERRED ITEM: The Item advertised for consideration of declaring Parts 2 &amp; 4 on Plan 58R-21605, located on the north side of Millennium Blvd surplus is deferred until a later date.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Speed Management on Residential Streets",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>– 2024 Update</p>",
+    "<p>Report No.: IPPW2024-002</p>",
+    "<p>Prepared By: Ainsley Rego</p>",
+    "<p>Ainsley Rego and Jenny Renaud responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Traffic Calming Policy and Collision",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Countermeasure Program</p>",
+    "<p>Report No.: IPPW2024-001</p>",
+    "<p>Prepared By: Jenny Renaud</p>",
+    "<p>Jenny Renaud gave a presentation outlining the differences between the former Traffic Calming Policy and the proposed changes, as well as the advantages of the changes.</p>",
+    "<p>She then responded to questions of Council. Bob Henderson also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting - DEFFERED</p>",
+    "<p>The Formal Public meeting for Zoning By-law Amendment Z-23-14, Chabad Lubavitch of the Waterloo Region, 251 Albert Street, Ward 6 – Central Columbia, which was scheduled to occur on Monday, February 26th, has been deferred to a later date.</p>",
+    "<p>For more information regarding the application please contact the planner Aminu Bello at aminu.bello@waterloo.ca or 519-514-0224.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Roe gave Notice of Motion for Monday, March 4th relating to a motion on the Ontario Heritage Act, which will appear in the Revised Agenda.</p>",
+    "<p>Mayor McCabe gave Notice of Motion for Monday, March 4th relating to a motion on the Ontario Energy Board, which will appear in the Revised Agenda.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Vasic spoke about Winterloo Lite in Uptown Square on February 17th, with the Clay and Glass Gallery also hosting an event. The event was really animated, and there were many things for people to enjoy, such as maple syrup taffy, hot chocolate, skating and DJ King Kadeem. She wanted to highlight this event because Lumen, which is put on by the same staff team, has been nominated for a Business Excellence Award in the category of Service Excellence and Hospitality in Tourism by the KW Chamber of Commerce.</p>",
+    "<p>Councillor Wright mentioned the Coldest Night of the Year walk on Saturday, February 24, in support of SHOW, Supportive Housing of Waterloo. She also mentioned she was with the Mayor at Mount Zion Lutheran Church to celebrate Black History Month and to connect with members of the Black community across the Region.</p>",
+    "<p>Mayor McCabe continued that they had a record number of walkers, over 240, and a record amount of funds raised for Coldest Night of the Year, beating their goal of $65,000 and raising approximately $80,000.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 6
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, April 15, 2024</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 7
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4a",
+   "item_number": "4a",
+   "item_title": "January 22, 2024 – Council Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Wright",
+   "text": "That the minutes of the Council meeting held on January 22, 2024 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on January 22, 2024 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "4b",
+   "item_number": "4b",
+   "item_title": "January 29, 2024 – Council Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Wright",
+   "text": "That the minutes of the Council meeting held on January 29, 2024 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on January 29, 2024 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "5a",
+   "item_number": "5a",
+   "item_title": "2023 Drinking Water Annual and",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council receives the 2023 Annual and Summary Reports pursuant to Ontario Regulation 170/03 of the Safe Drinking Water Act, 2002. 2. That Council approves IPPW2024-007.",
+   "text_html": "<p>1. That Council receives the 2023 Annual and Summary Reports pursuant to Ontario Regulation 170/03 of the Safe Drinking Water Act, 2002.</p><p>2. That Council approves IPPW2024-007.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m4",
+   "item": "5b",
+   "item_number": "5b",
+   "item_title": "Demolition Control Applications –",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council receive report IPPW2024-011 for information.",
+   "text_html": "<p>1. That Council receive report IPPW2024-011 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "5c",
+   "item_number": "5c",
+   "item_title": "Waterloo City Centre – Lease Renewal",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2024-011. 2. That Council approve the lease renewal for Advanis Inc. at the Waterloo City Centre according to the Terms and Conditions as outlined in report COM2024-011. 3. That the Mayor and Clerk be authorized to sign the Lease Amending Agreement and any other necessary documents including the Amending Agreement commenced from January 2021, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2024-011.</p><p>2. That Council approve the lease renewal for Advanis Inc. at the Waterloo City Centre according to the Terms and Conditions as outlined in report COM2024-011.</p><p>3. That the Mayor and Clerk be authorized to sign the Lease Amending Agreement and any other necessary documents including the Amending Agreement commenced from January 2021, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "5d",
+   "item_number": "5d",
+   "item_title": "Waterloo City Centre – Lease Renewal",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2024-012. 2. That Council approve the lease renewal for The Honourable Bardish Chagger, Member of Parliament at the Waterloo City Centre according to the Terms and Conditions as outlined in report COM2024-012. 3. That the Mayor and Clerk be authorized to sign the Lease Amending Agreement and any other necessary documents, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2024-012.</p><p>2. That Council approve the lease renewal for The Honourable Bardish Chagger, Member of Parliament at the Waterloo City Centre according to the Terms and Conditions as outlined in report COM2024-012.</p><p>3. That the Mayor and Clerk be authorized to sign the Lease Amending Agreement and any other necessary documents, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m7",
+   "item": "5e",
+   "item_number": "5e",
+   "item_title": "Service Agreement with Region of",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2024-009. 2. That the Mayor and Clerk be authorized to sign the necessary documents associated with the Service Contract Agreement with the Region of Waterloo and any other Camp Subsidy Agreements related to the City of Waterloo’s delivery of camp programs, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2024-009.</p><p>2. That the Mayor and Clerk be authorized to sign the necessary documents associated with the Service Contract Agreement with the Region of Waterloo and any other Camp Subsidy Agreements related to the City of Waterloo’s delivery of camp programs, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m8",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "Speed Management on Residential Streets",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Wright",
+   "text": "1. That Council receive report IPPW2024-002 for information; and, 2. That the Traffic and Parking By-Law 2018-037 be updated with the amendments contained herein; and 3. Columbia Street between Phillip Street and Erbsville Road be reduced to 50 km/h to align with the City’s Vision Zero philosophy.",
+   "text_html": "<p>1. That Council receive report IPPW2024-002 for information; and,</p><p>2. That the Traffic and Parking By-Law 2018-037 be updated with the amendments contained herein; and 3. Columbia Street between Phillip Street and Erbsville Road be reduced to 50 km/h to align with the City’s Vision Zero philosophy.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m9",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Traffic Calming Policy and Collision",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve staff report IPPW2024-001; and, 2. That Council enhance the current approach to traffic calming by replacing the Traffic Calming Policy in the City’s 2011 Transportation Master Plan with the new Traffic Calming and Collision Countermeasure Program outlined in this report.",
+   "text_html": "<p>1. That Council approve staff report IPPW2024-001; and,</p><p>2. That Council enhance the current approach to traffic calming by replacing the Traffic Calming Policy in the City’s 2011 Transportation Master Plan with the new Traffic Calming and Collision Countermeasure Program outlined in this report.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m10",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Bodaly",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-011 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-011 By-law to Amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2024-001, IPPW2024-002, Council February 26, 2024) b) By-law 2024-012 By-law Establishing (Widening) a Public Highway in the City of Waterloo known as Albert Street c) By-law 2024-013 By-law to confirm all actions and proceedings of Council, February 26, 2024",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-011 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-011 By-law to Amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2024-001, IPPW2024-002, Council February 26, 2024) b) By-law 2024-012 By-law Establishing (Widening) a Public Highway in the City of Waterloo known as Albert Street c) By-law 2024-013 By-law to confirm all actions and proceedings of Council, February 26, 2024</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m11",
+   "item": "12",
+   "item_number": "12",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "That the meeting adjourn. (Time: 2:52 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 2:52 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

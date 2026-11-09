@@ -1,0 +1,151 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 2,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [
+  "Wright"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, May 5, 2025</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) the security of the property of the municipality or local board (Unsanctioned Event); and, b) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Unsanctioned Event, Procurement and Legal Advice); and, c) personal matters about an identifiable individual, including municipal or local board employees (HR Update); and, d) a proposed or pending acquisition or disposition of land by the municipality or local board (potential disposition of city-owned lands); and, e) a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board (potential disposition of city-owned lands); and, f) a trade secret or scientific, technical, commercial, financial or labour relations information, supplied in confidence to the municipality or local board, which, if disclosed, could reasonably be expected to prejudice significantly the competitive position or interfere significantly with the contractual or other negotiations of a person, group of persons, or organization (third party information supplied in confidence).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) the security of the property of the municipality or local board (Unsanctioned Event); and, b) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Unsanctioned Event, Procurement and Legal Advice); and, c) personal matters about an identifiable individual, including municipal or local board employees (HR Update); and, d) a proposed or pending acquisition or disposition of land by the municipality or local board (potential disposition of city-owned lands); and, e) a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board (potential disposition of city-owned lands); and, f) a trade secret or scientific, technical, commercial, financial or labour relations information, supplied in confidence to the municipality or local board, which, if disclosed, could reasonably be expected to prejudice significantly the competitive position or interfere significantly with the contractual or other negotiations of a person, group of persons, or organization (third party information supplied in confidence).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "3",
+   "item_number": "3",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Vasic",
+   "text": "That the meeting adjourn. (Time: 2:01 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 2:01 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic"
+   ],
+   "page": 2
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,677 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 6,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Vasic",
+  "Roe",
+  "Wright",
+  "Freeman"
+ ],
+ "absent": [
+  "Freeman"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Roll Call",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>At this time, Mayor McCabe requested a roll call of the members of Council present and responding.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Due to technical difficulties, Councillor Vasic was missing from the vote.</p>",
+    "<p>Council meeting recessed: (Time: 10:02 a.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 2:02 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we are gathering from today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share their land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection, reflecting on the Holocaust Remembrance Day, also called Yom HaShoah in Hebrew.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "March 20, 2023 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Facility Accessibility Audits",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2023-009</p>",
+    "<p>Prepared By: Amy Ross and Swati Vekariya</p>",
+    "<p>Swati Vekariya gave a presentation outlining the summary of the work done for the audit. She displayed a slideshow of the different facilities throughout the City, and the accessibility needs for them. Amy Ross continued the presentation and outlined the processes required to complete the work. She then responded to questions of Council.</p>",
+    "<p>Kevin Van Ooteghem also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8b",
+   "number": "8b",
+   "title": "Parkview Crematorium Addition –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Request for Additional Funding</p>",
+    "<p>Report No.: COM2023-011</p>",
+    "<p>Prepared By: Swati Vekariya</p>",
+    "<p>Henry Schmidt, Resident of Waterloo asked Council and staff to consider more green methods, as opposed to traditional cremation and burial. Some of these include promoting green burials, human composting, and aquamation. He then responded to questions of Council.</p>",
+    "<p>Mark Dykstra offered some introductory remarks to the report. He then responded to questions of Council. Sunda Siva and Kevin Van Ooteghem also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8c",
+   "number": "8c",
+   "title": "2022/2023 Grant Update Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-023</p>",
+    "<p>Prepared By: Marcel (Emily) Humelnicu</p>",
+    "<p>Emily Humelnicu responded to questions of Council. Filipa Reynolds also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8d",
+   "number": "8d",
+   "title": "Joint Services Initiatives Committee",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>2022 Update</p>",
+    "<p>Report No.: CAO2023-018</p>",
+    "<p>Prepared By: Sandy Little</p>",
+    "<p>Sandy Little responded to questions of Council. Ron Ormson and Nicole Papke also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8e",
+   "number": "8e",
+   "title": "Ratification of Waterloo Professional",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Fire Fighters Association (WPFFA)</p>",
+    "<p>Local 791 Agreement 2023-2026</p>",
+    "<p>Report No.: CORP2023-028</p>",
+    "<p>Prepared By: Kathy Weidhaas</p>",
+    "<p>Kathy Weidhaas responded to questions of Council. Adam Overgaard also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Roach gave a shout out to all the hockey players, boys and girls, who competed in Provincial Championships this past weekend. He wanted to highlight a couple of the provincial champions, including the U16 AAA boys team, including Brady Martin, one of the top players in Ontario. He also congratulated the U10 AAA boys team who completed their season undefeated.</p>",
+    "<p>Councillor Hanmer continued and thanked all the coaches, volunteers, and everyone who makes both associations work.</p>",
+    "<p>Councillor Vasic wanted to draw attention to an Earth Day Thrift Market happening in Ward 5 on April 22, 2023 at the Lincoln Road Chapel at 145 Lincoln Road, in support of an international student in peace and conflict studies.</p>",
+    "<p>Mayor McCabe wanted to draw attention to events happening across the Region. As well, she called out Volunteer Appreciation Week and thanked all the volunteers across the City.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, May 15, 2023</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "3",
+   "item_number": "3",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Hanmer",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (council orientation); and b) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (council orientation).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (council orientation); and b) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (council orientation).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "March 20, 2023 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on March 20, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on March 20, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m3",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Facility Accessibility Audits",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2023-009. 2. That Council direct staff to provide an annual update on the status of Accessibility Improvements at City owned facilities.",
+   "text_html": "<p>1. That Council approve report COM2023-009.</p><p>2. That Council direct staff to provide an annual update on the status of Accessibility Improvements at City owned facilities.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "8b",
+   "item_number": "8b",
+   "item_title": "Parkview Crematorium Addition –",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report COM2023-011. 2. That Council approve additional funding of $850,000 from the Cemetery Reserve Fund (CEM) #860090 to allow staff to continue with the building upgrades and for replacement of the existing retorts at Parkview Crematorium.",
+   "text_html": "<p>1. That Council approve report COM2023-011.</p><p>2. That Council approve additional funding of $850,000 from the Cemetery Reserve Fund (CEM) #860090 to allow staff to continue with the building upgrades and for replacement of the existing retorts at Parkview Crematorium.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m5",
+   "item": "8c",
+   "item_number": "8c",
+   "item_title": "2022/2023 Grant Update Report",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report CORP2023-023.",
+   "text_html": "<p>1. That Council approve report CORP2023-023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "8d",
+   "item_number": "8d",
+   "item_title": "Joint Services Initiatives Committee",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Vasic",
+   "text": "1. That Council receives CAO2023-016 as information.",
+   "text_html": "<p>1. That Council receives CAO2023-016 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "8e",
+   "item_number": "8e",
+   "item_title": "Ratification of Waterloo Professional",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roach",
+   "text": "1. That CORP2023-028 be approved as terms of settlement between the Corporation of the City of Waterloo and the Waterloo Professional Fire Fighters Association (WPFFA) Local 791 covering the period of January 1, 2023 to December 31, 2026 and that the Mayor and Clerk be authorized to sign any related documents.",
+   "text_html": "<p>1. That CORP2023-028 be approved as terms of settlement between the Corporation of the City of Waterloo and the Waterloo Professional Fire Fighters Association (WPFFA) Local 791 covering the period of January 1, 2023 to December 31, 2026 and that the Mayor and Clerk be authorized to sign any related documents.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "10",
+   "item_number": "10",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Wright",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-022 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-022 By-law to amend By-law No. 2018-050 being a Zoning By-law controlling land use development within the City of Waterloo. 372 Erb Street West (Zone Change Application Z- 23-02, IPPW2023-017, Council April 3, 2023, Waterloo Infant Toddler Daycare Association). b) By-law 2023-023 By-law to confirm all actions and proceedings of Council, April 17, 2023",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-022 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-022 By-law to amend By-law No. 2018-050 being a Zoning By-law controlling land use development within the City of Waterloo. 372 Erb Street West (Zone Change Application Z- 23-02, IPPW2023-017, Council April 3, 2023, Waterloo Infant Toddler Daycare Association). b) By-law 2023-023 By-law to confirm all actions and proceedings of Council, April 17, 2023</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m9",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Vasic",
+   "text": "That the meeting adjourn. (Time: 3:36 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 3:36 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 2:52 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 2:54 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 3:16 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 3:18 p.m.)",
+   "page": 4
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

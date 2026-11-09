@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2024-04-22-1400-Council-Meeting",
+ "city": "waterloo",
+ "key": "2024-04-22",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2024-04-22T14:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2024-04-22-1400-Council-Meeting/1ab9b668-759d-4429-825b-b17e00e874cb",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2024-04-22-1400-Council-Meeting/1ab9b668-759d-4429-825b-b17e00e874cb",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2024-04-22-1400-Council-Meeting/877fb466-2d51-4251-a40e-b15700eae686",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2024-04-22-1400-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "521fa238f5c345b6480c520c982d61dd41f9d8232ac10395f78d82d873ddceab"
+ }
+}

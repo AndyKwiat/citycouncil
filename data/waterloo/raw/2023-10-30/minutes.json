@@ -1,0 +1,797 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 9,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [
+  "Roach"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 12:02 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which many of us are gathered today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral peoples. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous people with whom we share this land today.</p>",
+    "<p>Mayor McCabe also shared thoughts on Council’s visit to Crow Shield Lodge.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "October 2, 2023 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Presentations/delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Rotary Club of Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Brenda Halloran, District Governor for District 7080, Kelly Steiss, Past-President of Rotary Waterloo, and Isaac Oluwagbemi, President-Elect of Rotary Waterloo gave a presentation on what Rotary is, the impact that they are having in the community, and how they would like to collaborate with the City. They then responded to questions of Council. Commissioner Mark Dykstra also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Streamline Development Approval Fund:",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>City of Waterloo</p>",
+    "<p>Report No.: IPPW2023-058</p>",
+    "<p>Prepared By: Joel Cotter</p>",
+    "<p>Joel Cotter gave a presentation outlining the Streamline Development Approval Fund and the twelve initiatives that the City committed to. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8b",
+   "number": "8b",
+   "title": "Indoor Community Space Master",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Plan Update</p>",
+    "<p>Report No.: COM2023-028</p>",
+    "<p>Prepared By: Travis McCallum</p>",
+    "<p>Travis McCallum gave a brief overview of the report. He then responded to questions of Council. Beth Rajnovich also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8c",
+   "number": "8c",
+   "title": "Emergency Response Plan and By-Law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2023-029</p>",
+    "<p>Prepared By: Sandy van Solm</p>",
+    "<p>Sandy van Solm responded to questions of Council. Julie Finley-Swaren also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Zoning By-law Amendment Z-23-09,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Canadian Tire Properties Inc.,</p>",
+    "<p>650, 654, 656, 660 Erb St W</p>",
+    "<p>Report No.: IPPW2023-052</p>",
+    "<p>Prepared By: John Vos</p>",
+    "<p>Ward No.: Northwest, Ward 2</p>",
+    "<p>John Vos gave a presentation outlining the proposed development and zoning by-law amendments. He then responded to questions of Council.</p>",
+    "<p>At this time, Councillor Freeman declared a conflict with respect to the current item due to a conflict of interest relating to a family member’s employment and left the meeting.</p>",
+    "<p>(Time: 8:09 p.m.)</p>",
+    "<p>Jonathan Rodger, Principal Planner, Zelinka Priamo Ltd. gave a presentation further detailing the proposed development, including the pedestrian connections, preliminary elevations, and the project highlights. They then responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>",
+    "<p>Having previously declared a conflict, Councillor Freeman was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Consideration of Notice of Motion Given at Previous Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "10a",
+   "number": "10a",
+   "title": "Affordable Housing Commitment Motion – Councillor Bodaly",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Bodaly introduced the motion and called on Adam Lauder to show examples of triplexes and fourplexes in the area.</p>",
+    "<p>Shiva Subramanian, Resident of Waterloo spoke in support of the motion and about the affordable housing crisis.</p>",
+    "<p>Nicholas Aboagye, Resident of Kitchener spoke in support of the motion and offered suggestions on what else the City can do to address the housing crisis.</p>",
+    "<p>Joel Cotter responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Questions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman asked staff if the City might consider starting a memorial banner program to honour veterans. Commissioner Ron Ormson spoke in support of this idea, and directed it to CAO, Tim Anderson.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 7
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman wanted to inform Council that the 48th Squadron of 31 Combat Engineering Regiment - for the first time in the Canadian military history - would be interring their battle colours from the First World War on Saturday, November 4 at St.</p>",
+    "<p>Thomas Cemetery.</p>",
+    "<p>Councillor Vasic attended the Kitchener-Waterloo Art Gallery’s Black and Gold Gala on October 19, 2023. Bangishimo was the keynote speaker and Roshan James did some spoken word. Additionally, the Coalition of Muslim Women held their Radiant Ladies Night Gala on October 28, 2023. Lastly, the Lincoln Heights neighbourhood held their “Grave and Rave” neighbourhood event on October 29, 2023.</p>",
+    "<p>Councillor Bodaly mentioned that he and Mayor McCabe attended a Vista Hills Diwali event at RIM Park on Sunday, October 29, 2023. He specifically wanted to highlight the volunteers of the neighbourhood association who put the event on. There were over 250 people celebrating Diwali at the event.</p>",
+    "<p>Councillor Wright wanted to mention that the Mary Allen Farmer’s Market has concluded for the season, and that their annual general meeting is coming up.</p>",
+    "<p>Mayor McCabe shouted out the Sexual Assault Support Centre Gala happening on November 4, 2023.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 8
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, November 27, 2023</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 9
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Hanmer",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) labour relations or employee negotiations (labour relations); and b) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (council orientation).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) labour relations or employee negotiations (labour relations); and b) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (council orientation).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "October 2, 2023 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "That the minutes of the Council meeting held on October 2, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on October 2, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Streamline Development Approval Fund:",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve IPPW2023-058 and the directives therein. 2. That Council approve the hiring of one (1) Assistant City Solicitor, to be funded from staff savings in 2023, and that the financial implications of said positon be referred to the 2024-2026 operating budget for permanent ongoing funding. 3. That Mayor McCabe formally thank the Premier of Ontario and the Minister of Municipal Affairs and Housing for the Province’s support of its municipal partners by way of the Streamline Development Approval Fund, and recommend that the Province continue to support municipalities by funding more initiatives that bring housing to market faster and streamline development approvals.",
+   "text_html": "<p>1. That Council approve IPPW2023-058 and the directives therein.</p><p>2. That Council approve the hiring of one (1) Assistant City Solicitor, to be funded from staff savings in 2023, and that the financial implications of said positon be referred to the 2024-2026 operating budget for permanent ongoing funding.</p><p>3. That Mayor McCabe formally thank the Premier of Ontario and the Minister of Municipal Affairs and Housing for the Province’s support of its municipal partners by way of the Streamline Development Approval Fund, and recommend that the Province continue to support municipalities by funding more initiatives that bring housing to market faster and streamline development approvals.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "8b",
+   "item_number": "8b",
+   "item_title": "Indoor Community Space Master",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roe",
+   "text": "1. That Council accept this report as a status update on the Indoor Community Space Master Plan.",
+   "text_html": "<p>1. That Council accept this report as a status update on the Indoor Community Space Master Plan.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m5",
+   "item": "8c",
+   "item_number": "8c",
+   "item_title": "Emergency Response Plan and By-Law",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report COM2023-029. 2. That Council approve the updated version of the City of Waterloo’s Emergency Response Plan (ERP), attached as Attachment A. 3. That Council approve the Emergency Management Program By- Law, attached as Attachment B.",
+   "text_html": "<p>1. That Council approve report COM2023-029.</p><p>2. That Council approve the updated version of the City of Waterloo’s Emergency Response Plan (ERP), attached as Attachment A.</p><p>3. That Council approve the Emergency Management Program By- Law, attached as Attachment B.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Zoning By-law Amendment Z-23-09,",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve staff report IPPW2023-052 2. That Council approve Zoning Bylaw Amendment Z-23-09, Canadian Tire Properties Inc., 650, 654, 656, 660 Erb St W in accordance with Section 7 of staff report IPPW2023-052",
+   "text_html": "<p>1. That Council approve staff report IPPW2023-052</p><p>2. That Council approve Zoning Bylaw Amendment Z-23-09, Canadian Tire Properties Inc., 650, 654, 656, 660 Erb St W in accordance with Section 7 of staff report IPPW2023-052</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "10a",
+   "item_number": "10a",
+   "item_title": "Affordable Housing Commitment Motion – Councillor Bodaly",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "WHEREAS the City of Waterloo population increased by 15.7% between 2016 and 2021, faster than the provincial average of 5.8% and the national average of 5.2% during that same time period; and WHEREAS the City of Waterloo’s population is forecasted to grow by 45% to 185,000 people by 2051; and WHEREAS the City of Waterloo has committed to supporting the creation of 16,000 new housing units by 2031 as its Housing Pledge to the Province; and WHEREAS the City of Waterloo approved an Affordable Housing Strategy in June 2023 with 81 actions, that, among other things, recommended ways to increase housing supply and the diversity of housing options, with an emphasis on areas near transit and transportation corridors. WHEREAS the City of Waterloo currently permits up to three residential units per property as-of-right on a parcel of urban residential land; and WHEREAS the Government of Canada’s Housing Accelerator Fund (HAF) grant program represents an opportunity for the City to review and accelerate actions to achieve more housing supply faster; and THEREFORE, BE IT RESOLVED: 1. That staff be directed to initiate an amendment to Zoning By-law 2018-050 to permit, as-of-right, up to four residential units and four storeys on residential parcels within low density residential zones, where appropriate (the “Amendment”) and report back to Council in Q1 2024; 2. As part of the Amendment, that staff be directed to identify appropriate zoning regulations and development criteria, considering matters such as safe access and servicing capacity, for Council’s consideration; and, 3. That Council confirm its support for the principle of intensification in transit supportive areas and near post-secondary institutions, and directs staff to identify opportunities to achieve the following planning objectives through the Official Plan Review, as recommended in the City’s Affordable Housing Strategy: a. higher density housing options in areas supported by transit and near post secondary institutions; and b. increase the supply of missing middle housing, evaluating opportunities for new missing middle corridors, modifications to the existing nodes and corridors strategy using a missing middle lens, and consideration of minimum height and density targets in specified areas to facilitate missing middle housing; 4. That Council reaffirm its commitment to our Affordable Housing Strategy, including the City of Waterloo’s goals to prioritize non- market housing, optimize existing housing, increase the supply of affordable housing, providing incentives to build new affordable housing, and enable a greater supply and mix of housing within our community. 5. That Council reaffirm its housing pledge of achieving the goal of 16,000 new homes by 2031, in partnership with the development industry. 6. That this motion be forwarded to the Hon. Sean Fraser, Minister of Housing, Infrastructure and Communities of Canada for consideration as part of our Housing Accelerator Fund (HAF) grant application.",
+   "text_html": "<p>WHEREAS the City of Waterloo population increased by 15.7% between 2016 and 2021, faster than the provincial average of 5.8% and the national average of 5.2% during that same time period; and WHEREAS the City of Waterloo’s population is forecasted to grow by 45% to 185,000 people by 2051; and WHEREAS the City of Waterloo has committed to supporting the creation of 16,000 new housing units by 2031 as its Housing Pledge to the Province; and WHEREAS the City of Waterloo approved an Affordable Housing Strategy in June 2023 with 81 actions, that, among other things, recommended ways to increase housing supply and the diversity of housing options, with an emphasis on areas near transit and transportation corridors. WHEREAS the City of Waterloo currently permits up to three residential units per property as-of-right on a parcel of urban residential land; and WHEREAS the Government of Canada’s Housing Accelerator Fund (HAF) grant program represents an opportunity for the City to review and accelerate actions to achieve more housing supply faster; and THEREFORE, BE IT RESOLVED:</p><p>1. That staff be directed to initiate an amendment to Zoning By-law 2018-050 to permit, as-of-right, up to four residential units and four storeys on residential parcels within low density residential zones, where appropriate (the “Amendment”) and report back to Council in Q1 2024; 2. As part of the Amendment, that staff be directed to identify appropriate zoning regulations and development criteria, considering matters such as safe access and servicing capacity, for Council’s consideration; and,</p><p>3. That Council confirm its support for the principle of intensification in transit supportive areas and near post-secondary institutions, and directs staff to identify opportunities to achieve the following planning objectives through the Official Plan Review, as recommended in the City’s Affordable Housing Strategy: a. higher density housing options in areas supported by transit and near post secondary institutions; and b. increase the supply of missing middle housing, evaluating opportunities for new missing middle corridors, modifications to the existing nodes and corridors strategy using a missing middle lens, and consideration of minimum height and density targets in specified areas to facilitate missing middle housing;</p><p>4. That Council reaffirm its commitment to our Affordable Housing Strategy, including the City of Waterloo’s goals to prioritize non- market housing, optimize existing housing, increase the supply of affordable housing, providing incentives to build new affordable housing, and enable a greater supply and mix of housing within our community.</p><p>5. That Council reaffirm its housing pledge of achieving the goal of 16,000 new homes by 2031, in partnership with the development industry.</p><p>6. That this motion be forwarded to the Hon. Sean Fraser, Minister of Housing, Infrastructure and Communities of Canada for consideration as part of our Housing Accelerator Fund (HAF) grant application.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m8",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Questions",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Wright",
+   "text": "To direct staff to return to Council with a report on the possibility of implementing a memorial banner program.",
+   "text_html": "<p>To direct staff to return to Council with a report on the possibility of implementing a memorial banner program.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m9",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-087 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-087 Being a By-law to Adopt an Emergency Management Program and Repeal By-law No. 2017-083. (Emergency Plan) (COM2023-029, Council October 30, 2023) b) By-law 2023-088 By-law to adopt Official Plan Amendment No. 39 creating a specific provision area and redesignating the lands known municipally as 203-207 King Street South and 10-16 John Street West. (OPA 39, IPPW2023-046, Council October 2, 2023, 2865161 Ontario Inc). c) By-law 2023-089 By-law to amend By-law No. 2018-050, being a zoning by-law controlling land use in the City of Waterloo. Amending the zoning on the lands known municipally as 203-207 King Street South and 10-16 John Street West in order to apply site specific regulations. (Zone Change Application Z-22-11, IPPW2023-046, Council October 2, 2023, 2865161 Ontario Inc). d) By-law 2023-090 A By-Law to Amend By-law 2021-065, being a by-law to delegate authority to the CAO to declare a significant weather event. (IPPW2023-050, Council October 2, 2023) e) By-law 2023-091 By-law to confirm all actions and proceedings of Council, October 30, 2023",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-087 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-087 Being a By-law to Adopt an Emergency Management Program and Repeal By-law No. 2017-083. (Emergency Plan) (COM2023-029, Council October 30, 2023) b) By-law 2023-088 By-law to adopt Official Plan Amendment No. 39 creating a specific provision area and redesignating the lands known municipally as 203-207 King Street South and 10-16 John Street West. (OPA 39, IPPW2023-046, Council October 2, 2023, 2865161 Ontario Inc). c) By-law 2023-089 By-law to amend By-law No. 2018-050, being a zoning by-law controlling land use in the City of Waterloo. Amending the zoning on the lands known municipally as 203-207 King Street South and 10-16 John Street West in order to apply site specific regulations. (Zone Change Application Z-22-11, IPPW2023-046, Council October 2, 2023, 2865161 Ontario Inc). d) By-law 2023-090 A By-Law to Amend By-law 2021-065, being a by-law to delegate authority to the CAO to declare a significant weather event. (IPPW2023-050, Council October 2, 2023) e) By-law 2023-091 By-law to confirm all actions and proceedings of Council, October 30, 2023</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m10",
+   "item": "14",
+   "item_number": "14",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Vasic",
+   "text": "That the meeting adjourn. (Time: 9:22 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 9:22 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 9
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 7:08 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 7:11 p.m.)",
+   "page": 3
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 7:27 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 7:28 p.m.)",
+   "page": 4
+  },
+  {
+   "member": "Freeman",
+   "event": "joined",
+   "text": "Councillor Freeman joined the meeting. (Time: 8:24 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 8:24 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 8:25 p.m.)",
+   "page": 5
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

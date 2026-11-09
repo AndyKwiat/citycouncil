@@ -1,0 +1,955 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 12,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright",
+  "Roach"
+ ],
+ "absent": [
+  "Roach",
+  "Roe"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:00 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 4:06 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Roe declared a conflict with respect to item 9c) Funding Request – Immigration Waterloo Region due to a conflict of interest as it relates to place of volunteer work.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "January 12, 2026 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Vasic requested that item 7a) Dedicated By-law Dispatch Operation be removed from the consent motion.</p>",
+    "<p>That consent motion item (a) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "OMERS Members of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Participation By-law</p>",
+    "<p>Report No.: CORP2026-002</p>",
+    "<p>Prepared By: Michael Burzynski</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Dedicated By-law Dispatch Operation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2026-003</p>",
+    "<p>Prepared By: Nicole Papke</p>",
+    "<p>Nicole Papke and Brad Witzel responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Inclusionary Zoning Update and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Implementation</p>",
+    "<p>Report No.: IPPW2026-001</p>",
+    "<p>Prepared By: Douglas W. Stewart</p>",
+    "<p>Douglas W. Stewart offered introductory remarks to the report and highlighted the importance of establishing a start date for this program. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Heritage Property Tax Rebates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: IPPW2026-002</p>",
+    "<p>Prepared By: Adam Zufferli</p>",
+    "<p>Philippe Elsworthy, Resident of Waterloo spoke in support of the program, and how much of an incentive it might be for other property owners to take part in the program.</p>",
+    "<p>Adam Zufferli, Adam Lauder and Brad Witzel responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9c",
+   "number": "9c",
+   "title": "City of Waterloo – Urban Design",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Manual 2.0 Launch</p>",
+    "<p>Report No.: IPPW2026-006</p>",
+    "<p>Prepared By: Max Kerrigan</p>",
+    "<p>Max Kerrigan introduced the Urban Design Manual process and the consultants working on the project. Catherine Jay, SGL Planning &amp; Design Inc. gave a presentation further outlining the manual refresh process, and provided more information on what the new Urban Design Manual will include. Max Kerrigan then responded to questions of Council. Cari Van Niekerk also responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 5:37 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:32 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman declared a conflict with respect to item 11b) Official Plan Amendment No. 73 &amp; Zoning By-Law Amendment Z-26-04, 15409471 Canada Inc. (Modern Real Estate Development) 87, 89, 91, 93 &amp; 95 Seagram Drive due to a conflict of interest as it relates to place of work.</p>",
+    "<p>11. STAFF REPORTS continued</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "10a",
+   "number": "10a",
+   "title": "Funding Request – Immigration Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Region</p>",
+    "<p>Report No.: CAO2026-002</p>",
+    "<p>Prepared By: Michelle Lee, Sanjay Govindaraj</p>",
+    "<p>Sanjay Govindaraj responded to questions of Council. Brad Witzel and Tim Anderson also responded to questions of Council.</p>",
+    "<p>Councillor Roe having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 6
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Informal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "12a",
+   "number": "12a",
+   "title": "Zoning By-Law Amendment Z-26-02,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Regional Municipality of Waterloo,</p>",
+    "<p>41 Westhill Drive</p>",
+    "<p>Prepared by: Aminu Bello</p>",
+    "<p>Ward No.: Ward No. 1 – Southwest</p>",
+    "<p>Aminu Bello gave a presentation outlining the proposed development, including the site context, the planning framework, and potential concepts for the application. He then responded to questions of Council.</p>",
+    "<p>Christian Tsimenidis, UP Consulting Ltd. gave a presentation further detailing the proposed development, including information about the Region’s plan to build more affordable homes and the surrounding area, as well as the unit breakdown and the zoning by-law amendments. Christian Tsimenidis then responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Informal Public Meeting and indicated that staff will review the issues and report back to Council at a later date.</p>",
+    "<p>Councillor Freeman left the Chair. (Time: 7:26 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair. (Time: 7:26 p.m.)</p>",
+    "<p>(Time: 7:26 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "12b",
+   "number": "12b",
+   "title": "Official Plan Amendment No. 73 &",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning By-Law Amendment Z-26-04,</p>",
+    "<p>15409471 Canada Inc.</p>",
+    "<p>(Modern Real Estate Development)</p>",
+    "<p>87, 89, 91, 93 &amp; 95 Seagram Drive</p>",
+    "<p>Prepared by: Aminu Bello</p>",
+    "<p>Ward No.: Ward No. 7 – Uptown</p>",
+    "<p>Aminu Bello gave a presentation outlining the proposed development, giving further context to the existing site as well as the existing and proposed planning framework. He then responded to questions of Council.</p>",
+    "<p>Kate Wills, MHBC Planning gave a presentation further detailing the proposed development, including information on the unit type and parking spaces, as well as renderings of the building and layouts of the potential amenity spaces. Kate Wills then responded to questions of Council.</p>",
+    "<p>Kae Elgie, Resident of Waterloo spoke about the relationship between the development and Wilfrid Laurier, especially with the existing Seagram Stadium. Kae Elgie also spoke about the sustainability measures the development plans to use, and how they could do better. Kae Elgie then responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Informal Public Meeting and indicated that staff will review the issues and report back to Council at a later date.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe left the Chair. (Time: 8:12 p.m.)</p>",
+    "<p>Councillor Roe in the Chair. (Time: 8:12 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "13a",
+   "number": "13a",
+   "title": "Mayor Dorothy McCabe – Resolution Regarding Legislative Changes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>to the OMERS Act in Bill 68</p>",
+    "<p>Motion tabled February 9, 2026 for Council consideration February 9, 2026.</p>",
+    "<p>Councillor Roe left the Chair. (Time: 8:12 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair. (Time: 8:12 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 8
+  },
+  {
+   "id": "13b",
+   "number": "13b",
+   "title": "Mayor Dorothy McCabe – Opposition to the Consolidation of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Ontario’s Conservation Authorities</p>",
+    "<p>Motion tabled February 9, 2026 for Council consideration February 23, 2026.</p>",
+    "<p>Motion:</p>",
+    "<p>WHEREAS the Conservation Authorities Act, 1990 (the “Act”), originally enacted in 1946, was established to allow municipalities to form conservation authorities equipped to deliver local, watershed-based conservation, restoration, and natural resource management programs on behalf of both the province and municipalities; and,</p>",
+    "<p>WHEREAS Ontario’s thirty-six (36) conservation authorities are each distinct, reflecting the unique environmental, geographic, and community needs of their respective watersheds; and,</p>",
+    "<p>WHEREAS municipalities have long relied on their conservation authorities to tailor programs to local watershed priorities while ensuring fair and transparent costs for ratepayers; and,</p>",
+    "<p>WHEREAS municipalities are best positioned to understand the needs of their local communities and environments, and the existing watershed- based structure enables effective, collaborative approaches to water conservation and resource management that cannot be replicated through centralized oversight; and,</p>",
+    "<p>WHEREAS Bill 68 (Schedule 3) and ERO Posting 025-1257 propose consolidating Ontario’s 36 conservation authorities into seven regional authorities and creating the Ontario Provincial Conservation Agency, a Crown agency that would assume oversight and possess the authority to levy conservation authorities for its costs; and,</p>",
+    "<p>NOW THEREFORE BE IT RESOLVED:</p>",
+    "<p>THAT the City of Waterloo formally state that it opposes the consolidation of Ontario’s conservation authorities without knowing the full financial and operational impact to municipalities and the conservation authorities; and, THAT the City of Waterloo require that the province meaningfully consult with municipalities prior to advancing any changes that could affect local control and management of the floodplain areas watersheds and natural resources which Conservation Authorities were established to manage;</p>",
+    "<p>AND THAT a copy of this motion be forwarded to The Honourable Doug Ford, Premier of Ontario; The Honourable Todd McCarthy, Minister of Environment, Conservation and Parks; local and area MPPs; the Grand River Conservation Authority (GRCA); the Association of Municipalities of Ontario (AMO); the Association of Municipal Managers, Clerks and Treasurers of Ontario (AMCTO); and to the Region of Waterloo and local area municipalities.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Hanmer gave a shoutout to Ward 1, the place to be yesterday February 8, as the Beachwood Homes Associations got together to host their annual Beechwood Winterfest. There were approximately 200-250 people that braved the cold. She offered a shoutout to the organizers and a thank you to the Neighbourhoods team that provided rentals and grants.</p>",
+    "<p>Councillor Hanmer also mentioned the Westvale Neighbourhood Association had their annual skate at Albert McCormick Community Centre. There were a lot of people out for that, and they also had an information session and discussion on climate action, trying to get a neighbourhood movement behind new initiatives.</p>",
+    "<p>Councillor Roe attended the Sanguen Health Centre’s Share the Love event last week, February 4, at the Victoria Park Pavilion. It was an incredible event with a great turnout.</p>",
+    "<p>Sanguen had their vehicles to tour, including their medical bus. It was an eye opener to see the support they offer the marginalized members of the community.</p>",
+    "<p>Councillor Roe also offered her thanks to Commissioner Ron Ormson and the transportation team for the work they’re doing this Winter and the challenges they’re facing.</p>",
+    "<p>Councillor Vasic mentioned that the Senior of the Year program is open again to nominate an exceptional senior in Waterloo. Nominations are open until March 31, and everyone who is nominated will be recognized.</p>",
+    "<p>Councillor Wright mentioned that Council for a day is coming up on April 16.</p>",
+    "<p>Councillor Roe also wanted to mention that Schlegel Village at University Gates is hosting their Olympics this Thursday, February 12 starting at 10am. All of the different Schlegel Village retirement homes are bringing in their athletes and it should be a lot of fun.</p>",
+    "<p>Councillor Roach had the opportunity to represent Waterloo this past Wednesday, February 4 in Ottawa to celebrate 30 years of Black History Month in Canada. He got to meet some great people, including Mark Carney, Marc Miller, and Greg Fergus who were all interested in the events happening in Waterloo. Mayor McCabe and Councillor Roach had attended an event a few days prior at the University of Waterloo, and Councillor Roach was able to share the entrepreneurial events he learned about there with the other representatives in Ottawa.</p>",
+    "<p>Mayor McCabe expanded on the information provided by Councillor Roach about the event at the University of Waterloo, held by BRIDGE (Black Regional Innovation Dialogue and Growth Exchange) with the Caribbean community and the University of Waterloo Engineering Society on January 30. It was a fascinating discussion, including topics such as culturally adept AI, and entrepreneurship.</p>",
+    "<p>Mayor McCabe also offered thanks to snow clearing crews, for their work with the historic snowfalls and in extreme temperatures this challenging winter.</p>",
+    "<p>Mayor McCabe also expanded on Council for a Day, and encouraged grade 5 students to submit their ideas. Eight lucky students will get to attend the State of the City on April 16, and spend the day with Council touring different facilities at the City. There is more information on waterloo.ca.</p>",
+    "<p>Mayor McCabe highlighted that the Olympics have started, and extended her best wishes to all the athletes competing for Canada.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 10
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 11
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, March 9, 2026</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 12
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roe",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (Drinking Water Infrastructure); and, b) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Drinking Water Infrastructure).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (Drinking Water Infrastructure); and, b) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Drinking Water Infrastructure).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "January 12, 2026 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on January 12, 2026 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on January 12, 2026 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "OMERS Members of Council",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve CORP2026-002. 2. That the Council of the City of Waterloo approve the By-Law to confirm and authorize participation in the OMERS Primary Pension Plan and the Retirement Compensation Arrangement for the OMERS Primary Pension Plan for Members of Council, effective starting in the next term of Council as of November 15, 2026.",
+   "text_html": "<p>1. That Council approve CORP2026-002.</p><p>2. That the Council of the City of Waterloo approve the By-Law to confirm and authorize participation in the OMERS Primary Pension Plan and the Retirement Compensation Arrangement for the OMERS Primary Pension Plan for Members of Council, effective starting in the next term of Council as of November 15, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Dedicated By-law Dispatch Operation",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve report COM2026-003. 2. That Council endorse the implementation of the Dedicated By-law Dispatch Operation model, effective July 1, 2026. 3. That Council direct staff to include the City of Waterloo’s estimated annual funding contribution of $260,000 towards the Dedicated By- law Dispatch cost as part of the 2027 operating budget for consideration. 4. That the Chief Administrative Officer be authorized to sign the Dedicated by-law Dispatch Operation Agreement between the Regional Municipality of Waterloo Police Services Board, the Corporation of the City of Waterloo, the Corporation of the City of Cambridge, the Corporation of the City of Kitchener, and the Corporation of the Township of North Dumfries and any other related documents, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2026-003.</p><p>2. That Council endorse the implementation of the Dedicated By-law Dispatch Operation model, effective July 1, 2026.</p><p>3. That Council direct staff to include the City of Waterloo’s estimated annual funding contribution of $260,000 towards the Dedicated By- law Dispatch cost as part of the 2027 operating budget for consideration.</p><p>4. That the Chief Administrative Officer be authorized to sign the Dedicated by-law Dispatch Operation Agreement between the Regional Municipality of Waterloo Police Services Board, the Corporation of the City of Waterloo, the Corporation of the City of Cambridge, the Corporation of the City of Kitchener, and the Corporation of the Township of North Dumfries and any other related documents, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Inclusionary Zoning Update and",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve the Inclusionary Zoning By-law Amendment Framework in Appendix ‘A’ of IPPW2026-001. 2. That Council direct staff to advance a Zoning By-law Amendment to implement the Inclusionary Zoning By-law Framework in Appendix ‘A’ of IPPW2026-001.",
+   "text_html": "<p>1. That Council approve the Inclusionary Zoning By-law Amendment Framework in Appendix ‘A’ of IPPW2026-001.</p><p>2. That Council direct staff to advance a Zoning By-law Amendment to implement the Inclusionary Zoning By-law Framework in Appendix ‘A’ of IPPW2026-001.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Heritage Property Tax Rebates",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Wright",
+   "text": "1. That Council receive Report IPPW2026-002 for information. 2. That Council direct staff to continue with work on the Municipal Heritage Register Review. 3. That Council direct staff to refer the implementation of Option “B”, as outlined in report IPPW2026-002, for Council consideration as part of the 2027 budget process. 4. That Council direct staff to conduct outreach to owners of properties listed on the Heritage Registry by the end of Q2 2026.",
+   "text_html": "<p>1. That Council receive Report IPPW2026-002 for information.</p><p>2. That Council direct staff to continue with work on the Municipal Heritage Register Review.</p><p>3. That Council direct staff to refer the implementation of Option “B”, as outlined in report IPPW2026-002, for Council consideration as part of the 2027 budget process.</p><p>4. That Council direct staff to conduct outreach to owners of properties listed on the Heritage Registry by the end of Q2 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "9c",
+   "item_number": "9c",
+   "item_title": "City of Waterloo – Urban Design",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "McCabe",
+   "text": "1. That Council receive staff report IPPW2026-006 for information.",
+   "text_html": "<p>1. That Council receive staff report IPPW2026-006 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "10a",
+   "item_number": "10a",
+   "item_title": "Funding Request – Immigration Waterloo",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Hanmer",
+   "text": "That Report CAO2026-002 be deferred to the February 23, 2026 meeting of Council, or to the next available Council meeting at which Immigration Waterloo Region is able to attend to provide clarification on their request.",
+   "text_html": "<p>That Report CAO2026-002 be deferred to the February 23, 2026 meeting of Council, or to the next available Council meeting at which Immigration Waterloo Region is able to attend to provide clarification on their request.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (6 to 1)",
+    "label": "6-1",
+    "for": 6,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Bodaly",
+     "Freeman",
+     "Hanmer",
+     "Roach",
+     "Vasic",
+     "Wright"
+    ],
+    "against": [
+     "Mayor McCabe"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "for_inferred": true,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "13a",
+   "item_number": "13a",
+   "item_title": "Mayor Dorothy McCabe – Resolution Regarding Legislative Changes",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Hanmer",
+   "text": "WHEREAS the Ontario Municipal Employees Retirement System (OMERS) Pension Fund serves over 1,000 employers and over half a million employees and retirees from diverse groups including: municipal governments, school boards, libraries, police and fire departments, children’s aid societies, and electricity distribution companies; and, WHEREAS the long-standing jointly-sponsored governance model with two corporate boards has provided stability, accountability, and fairness for both plan members and employers for more than two decades; and, WHEREAS the Government of Ontario has passed legislative changes to OMERS’ governance structure through Bill 68; and, WHEREAS these changes would replace the current OMERS Sponsors Corporation with a new Sponsors Council that would lose its corporate status and independent resources; and, WHEREAS the proposed model could allow pension decisions affecting municipal employers and employees to be made without meaningful municipal oversight, increasing financial risk for municipalities and local taxpayers; and, WHEREAS municipalities are already under significant financial strain and cannot absorb additional pension costs without consequences for property taxes or local services; NOW THEREFORE BE IT RESOLVED: THAT the City of Waterloo does not support the legislative changes to the OMERS Act contained in Bill 68 and requests that the Government of Ontario reconsider the advisability of proceeding with these changes; and, THAT the City of Waterloo Council supports the Association of Municipalities of Ontario (AMO) in calling on the Government of Ontario to maintain the current OMERS governance model, with two corporate Boards, as the structure that would best deliver on the long-term interests of municipalities, taxpayers, and employees; AND THAT a copy of this motion be forwarded to The Honourable Doug Ford, Premier of Ontario; The Honourable Rob Flack, Minister of Housing and Municipal Affairs; The Honourable Peter Bethlenfalvy, Minister of Finance; local and area MPPs; the Association of Municipalities of Ontario (AMO); the Association of Municipal Managers, Clerks and Treasurers of Ontario (AMCTO); and to the Region of Waterloo and local area municipalities.",
+   "text_html": "<p>WHEREAS the Ontario Municipal Employees Retirement System (OMERS) Pension Fund serves over 1,000 employers and over half a million employees and retirees from diverse groups including: municipal governments, school boards, libraries, police and fire departments, children’s aid societies, and electricity distribution companies; and, WHEREAS the long-standing jointly-sponsored governance model with two corporate boards has provided stability, accountability, and fairness for both plan members and employers for more than two decades; and, WHEREAS the Government of Ontario has passed legislative changes to OMERS’ governance structure through Bill 68; and, WHEREAS these changes would replace the current OMERS Sponsors Corporation with a new Sponsors Council that would lose its corporate status and independent resources; and, WHEREAS the proposed model could allow pension decisions affecting municipal employers and employees to be made without meaningful municipal oversight, increasing financial risk for municipalities and local taxpayers; and, WHEREAS municipalities are already under significant financial strain and cannot absorb additional pension costs without consequences for property taxes or local services; NOW THEREFORE BE IT RESOLVED: THAT the City of Waterloo does not support the legislative changes to the OMERS Act contained in Bill 68 and requests that the Government of Ontario reconsider the advisability of proceeding with these changes; and, THAT the City of Waterloo Council supports the Association of Municipalities of Ontario (AMO) in calling on the Government of Ontario to maintain the current OMERS governance model, with two corporate Boards, as the structure that would best deliver on the long-term interests of municipalities, taxpayers, and employees; AND THAT a copy of this motion be forwarded to The Honourable Doug Ford, Premier of Ontario; The Honourable Rob Flack, Minister of Housing and Municipal Affairs; The Honourable Peter Bethlenfalvy, Minister of Finance; local and area MPPs; the Association of Municipalities of Ontario (AMO); the Association of Municipal Managers, Clerks and Treasurers of Ontario (AMCTO); and to the Region of Waterloo and local area municipalities.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m10",
+   "item": "15",
+   "item_number": "15",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Hanmer",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2026-005 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2026-005 By-law to Confirm and Authorize Participation in the OMERS Primary Pension Plan (“Primary Plan”) and Retirement Compensation Arrangement for the OMERS Primary Pension Plan (“RCA”), each as Amended from Time to Time, of the Employees of the Corporation of the City of Waterloo (“Employer”) Identified Herein (CORP2026-002, Council February 9, 2026) b) By-law 2026-006 By-law to confirm all actions and proceedings of Council, February 9, 2026",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2026-005 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2026-005 By-law to Confirm and Authorize Participation in the OMERS Primary Pension Plan (“Primary Plan”) and Retirement Compensation Arrangement for the OMERS Primary Pension Plan (“RCA”), each as Amended from Time to Time, of the Employees of the Corporation of the City of Waterloo (“Employer”) Identified Herein (CORP2026-002, Council February 9, 2026) b) By-law 2026-006 By-law to confirm all actions and proceedings of Council, February 9, 2026</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m11",
+   "item": "16",
+   "item_number": "16",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Wright",
+   "text": "That the meeting adjourn. (Time: 8:19 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 8:19 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 12
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Roe",
+   "item_number": "9c",
+   "text": ""
+  },
+  {
+   "member": "Freeman",
+   "item_number": "11b",
+   "text": ""
+  }
+ ],
+ "attendance_events": [
+  {
+   "member": "Bodaly",
+   "event": "left",
+   "text": "Councillor Bodaly left the meeting. (Time: 5:15 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 5:17 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Roe",
+   "event": "joined",
+   "text": "Councillor Roe joined the meeting. (Time: 6:52 p.m.)",
+   "page": 6
+  },
+  {
+   "member": "Freeman",
+   "event": "left",
+   "text": "Having previously declared a conflict of interest, Councillor Freeman left the meeting.",
+   "page": 7
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

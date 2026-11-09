@@ -1,0 +1,878 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 11,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 1:02 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 4:05 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (d) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "Boundary Road Maintenance and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Improvement Agreement Between the</p>",
+    "<p>City of Waterloo and Township of Woolwich</p>",
+    "<p>Report No.: IPPW2025-047</p>",
+    "<p>Prepared By: Bob Henderson</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "Compensation & Benefits Policy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2025-029</p>",
+    "<p>Prepared By: Michael Burzynski</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6c",
+   "number": "6c",
+   "title": "Proposed Demolition of Residential",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Dwellings – 215 King Street South and</p>",
+    "<p>176, 180 &amp; 182 Caroline Street South</p>",
+    "<p>Report No.: IPPW2025-029</p>",
+    "<p>Prepared By: Madison Headrick</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6d",
+   "number": "6d",
+   "title": "Proposed Demolition of Residential",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Dwellings – 142, 144, 146, 150, 152</p>",
+    "<p>and 154 Erb Street West &amp; 5 Dunbar</p>",
+    "<p>Road North</p>",
+    "<p>Report No.: IPPW2025-059</p>",
+    "<p>Prepared By: Madison Headrick</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Province of Ontario Trade-Impacted",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Communities Program (TICP) Grant</p>",
+    "<p>Application</p>",
+    "<p>Report No.: CAO2025-027</p>",
+    "<p>Prepared By: Justin McFadden</p>",
+    "<p>Justin McFadden offered introductory remarks to the report and mentioned that the Waterloo Economic Development Advisory Committee was supportive of the motion.</p>",
+    "<p>Ruth Casselman, CEO, Accelerator Centre gave a presentation offering further information on the Accelerator Centre and further context to the grant application. She then responded to questions of Council. Justin McFadden also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8b",
+   "number": "8b",
+   "title": "RFQ25-33 Supply & Delivery of Treated",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>&amp; Coarse Highway Salt</p>",
+    "<p>Report No.: IPPW2025-054</p>",
+    "<p>Prepared By: Bob Henderson</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8c",
+   "number": "8c",
+   "title": "2026 Parking Rates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CAO2025-023</p>",
+    "<p>Prepared By: Christine Tettman, Julie Koppeser</p>",
+    "<p>Christine Tettman responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 4:27 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>",
+    "<p>10. STAFF REPORTS continued</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Special Service/Area Levy Vote",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Update – Upper Beechwood Homes</p>",
+    "<p>Association Inc.</p>",
+    "<p>Report No.: CORP2025-031</p>",
+    "<p>Prepared By: Natalia Chebel</p>",
+    "<p>Natalia Chebel gave a presentation providing history on the Homes Association and giving an update on Special Service/Area Levy (SSAL) process.</p>",
+    "<p>Steve Bienkowski, Treasurer, Upper Beechwood Home Association 1 (UBHA1) gave a presentation highlighting the process that brought the Homes Association Board of Directors to the SSAL decision. Natalia Chebel and Steve Bienkowski responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Informal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11a",
+   "number": "11a",
+   "title": "Official Plan Amendment No. 64 &",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning By-law Amendment Z-25-17</p>",
+    "<p>Atrium Waterloo Limited Partnership</p>",
+    "<p>9-47 Erb Street West</p>",
+    "<p>Prepared by: Aminu Bello</p>",
+    "<p>Ward No.: Ward No. 7 – Uptown Ward</p>",
+    "<p>Aminu Bello gave a presentation outlining the proposed development, including the site context and the planning amendments being requested. He then responded to questions of Council.</p>",
+    "<p>Heather Price, Vice President, GSP Group gave presentation offering further details for the proposal, including the unit breakdown and building renderings. She then responded to questions of Council. Aminu Bello also responded to questions of Council.</p>",
+    "<p>Phil Elsworthy, Resident of Waterloo gave a presentation describing some of the historical importance of the site, including the Indigenous significance of the Public Square. Aminu Bello responded to questions of Council.</p>",
+    "<p>Ashwin Annamalai, Resident of Waterloo spoke about the importance of leveraging the location of the ION light rail, and things to keep in mind with a tall building, such as the number of elevators and whether the fire department is equipped to handle it. Aminu Bello responded to questions of Council.</p>",
+    "<p>June Canete, Resident of Waterloo spoke about the shadow studies submitted, and how the lack of sunlight will impact residents, as well as the reflections from the building. June Canete also spoke about the traffic studies, and the general size of the building. June Canete then responded to questions of Council. Aminu Bello also responded to questions of Council.</p>",
+    "<p>Nabil Fahel, Resident of Waterloo spoke in support of the proposal, citing the vibrancy it will bring to the Public Square, and the need for more housing. Nabil Fahel then responded to questions of Council.</p>",
+    "<p>Craig Sloss, Resident of Waterloo spoke about living in the area, and in support of the development, especially during the housing crisis.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Informal Public Meeting and indicated that staff will review the issues and report back to Council at a later date.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Notice of Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe – Ontario Regulation 391/2, Blue Box Motion Motion to be tabled September 22, 2025 for Council consideration September 29, 2025.</p>",
+    "<p>WHEREAS under Ontario Regulation 391/2, Blue Box producers are fully accountable and financially responsible for their products and packaging once they reach their end of life and are disposed of for ‘eligible’ sources only; and</p>",
+    "<p>WHEREAS ‘ineligible’ sources, which producers are not responsible for, include business improvement areas, places of worship, daycares, camp grounds, public facing and internal areas of municipal-owned buildings, and not-for-profit organizations, such as shelters and food banks; and WHEREAS should a municipality continue to provide services to the ‘ineligible’ sources, the municipality will be required to oversee the collection, transportation, and processing of the recycling, assuming 100% of the costs; and</p>",
+    "<p>THEREFORE BE IT RESOLVED THAT City of Waterloo Council request that the province amend Ontario Regulation 391/21, Blue Box so that producers are responsible for the end-of-life management of recycling products from all sources as stated above;</p>",
+    "<p>AND THAT Council request the support of all Ontario Municipalities;</p>",
+    "<p>AND THAT this resolution be forwarded to the Honourable Doug Ford, Premier of Ontario, the Honourable Todd McCarthy, Minister of the Environment, Conservation and Parks, the Honourable Mike Harris, Minister of Natural Resources, the Honourable Rob Flack, Minister of Municipal Affairs and Housing, to local and area MPPs, the Association of Municipalities of Ontario (AMO), the Association of Municipal Managers, Clerks and Treasurers of Ontario (AMCTO), and to the Region of Waterloo and local area municipalities.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Questions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman asked a question for staff to take away regarding the status of the Wissler Road reconstruction. In the Old Abbey subdivision, there are only two roads in and out: Old Abbey Road and Wissler Road. Wissler Road has been closed for two months now, when it was supposed to be closed for two weeks. Councillor Freeman asked staff to follow up with the developer.</p>",
+    "<p>Councillor Freeman was also wondering how staff allocate how many picnic tables are available in public parks. There are 88 new units on Kingscourt Drive, and the City has made investments in the park, including paving the walkways, but there is only one picnic table. The park is being used as a gathering place for the community, and the neighbourhood association is also trying to make space and has asked for more picnic tables. Councillor Freeman asked if staff could take this away.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright wanted to acknowledge Lumen on Saturday, September 20. She offered her thanks to City staff and sponsors that help make Lumen possible. There were a lot of people enjoying it, and it was a clear night with perfect weather. It was really fun to navigate the different stations. There were activities set up in Waterloo Park, the Public Square, the Museum Lot, and outside City Hall.</p>",
+    "<p>Councillor Vasic mentioned that the City’s Neighbourhood Team has been helping neighbourhoods name their areas, which is a great way to build cohesion and a sense of community. She wanted to thank the Team for doing two of these events in Ward 5 at Lexington and Auburn Parks with movies. A lot of people came out, including the Mayor.</p>",
+    "<p>Councillor Vasic also mentioned that Princess Cinemas had their 40th Anniversary Block Party last Thursday, September 18. Jane Bond had their patio open, which was great.</p>",
+    "<p>The theatre showed Casablanca in the morning inside the theatre, and Stop Making Sense later in the day. She congratulated Princess for 40 years, and to the BIA and City staff for helping to make it happen with the closure of Princess Street.</p>",
+    "<p>Councillor Freeman also wanted to highlight the Neighbourhoods team for the amazing job they did supporting the Foxhunt Neighbourhood Association. They held the party in the park on Sunday, September 21 and lucked out on the weather, as the event was held before the storm and flooding Sunday night. The Kid Chocolatier was there, and orders can be placed now for Halloween chocolates.</p>",
+    "<p>Councillor Roach mentioned that this Thursday, September 25, the Lakeshore South Community Association is hosting an open house at the Albert McCormick Community Centre at 6:30 p.m. It’s to give the community an opportunity to get more information about the new hospital being built near the University of Waterloo. They’re looking for how it’s going to affect the community regarding transportation, noise, housing, and community character. Councillor Roach wanted to thank Adam Lauder for helping him get some information pulled together ahead of the open house.</p>",
+    "<p>Mayor McCabe mentioned that yesterday afternoon, September 21, was the 2025 Awards of Excellence held by the Congress of Black Women of Canada and the Caribbean Canadian Association of Waterloo Region. They celebrated 22 students at different points in their educational career for their achievements in the community.</p>",
+    "<p>Mayor McCabe wanted to congratulate all the recipients, and thanked the organizations and their volunteers for continuing to find ways to support Black youth in our community.</p>",
+    "<p>Councillor Freeman invited Council and the Corporate Management Team to do a brief round table to introduce themselves to the University of Waterloo students that came out.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 10
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, October 27, 2025</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 10
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Hanmer",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (READI training).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (READI training).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "Boundary Road Maintenance and",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "1. That IPPW2025-047 be approved. 2. That the Council of the City of Waterloo authorize the Mayor and Clerk to execute the Boundary Road Maintenance and Improvement Agreement between the City of Waterloo and the Township of Woolwich subject to the Agreement being to the satisfaction of the City Solicitor and the Commissioner of Integrated Planning and Public Works.",
+   "text_html": "<p>1. That IPPW2025-047 be approved.</p><p>2. That the Council of the City of Waterloo authorize the Mayor and Clerk to execute the Boundary Road Maintenance and Improvement Agreement between the City of Waterloo and the Township of Woolwich subject to the Agreement being to the satisfaction of the City Solicitor and the Commissioner of Integrated Planning and Public Works.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "Compensation & Benefits Policy",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approves the attached Compensation and Benefits Policy.",
+   "text_html": "<p>1. That Council approves the attached Compensation and Benefits Policy.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "6c",
+   "item_number": "6c",
+   "item_title": "Proposed Demolition of Residential",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report IPPW2025-029. 2. That Council grant relief from the following requirements of Demolition Control Area By-law No. 2013-014 (“By-law 2013-014”) with respect to the existing dwellings at 215 King Street South and 176, 180 & 182 Caroline Street South (collectively the “Lands”): a. Section 7.b., such that the requirement for site plan approval prior to the issuance of a demolition permit has been waived; and b. Section 6.a., such that the owner shall commence construction of the Replacement Development on the Lands in compliance with approved building permit plans no later than six (6) years from the date that the demolition permit is issued, or such other date as agreed upon by the City’s Director of Planning, pursuant to Section 33(7) of the Planning Act.",
+   "text_html": "<p>1. That Council approve report IPPW2025-029.</p><p>2. That Council grant relief from the following requirements of Demolition Control Area By-law No. 2013-014 (“By-law 2013-014”) with respect to the existing dwellings at 215 King Street South and 176, 180 &amp; 182 Caroline Street South (collectively the “Lands”): a. Section 7.b., such that the requirement for site plan approval prior to the issuance of a demolition permit has been waived; and b. Section 6.a., such that the owner shall commence construction of the Replacement Development on the Lands in compliance with approved building permit plans no later than six (6) years from the date that the demolition permit is issued, or such other date as agreed upon by the City’s Director of Planning, pursuant to Section 33(7) of the Planning Act.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "6d",
+   "item_number": "6d",
+   "item_title": "Proposed Demolition of Residential",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report IPPW2025-059. 2. That Council grant relief from the following requirements of Demolition Control Area By-law No. 2013-014 (“By-law No. 2013- 014”) with respect to the existing dwellings at 142, 144, 146, 150, 152 and 154 Erb Street West & 5 Dunbar Road North (collectively the “Lands”): a. Section 7.b., such that the requirement for site plan approval prior to the issuance of a demolition permit has been waived; and b. Section 6.a., such that the owner shall commence construction of the Replacement Development in compliance with approved building permit plans no later than five (5) years from the date that the demolition permit is issued.",
+   "text_html": "<p>1. That Council approve report IPPW2025-059.</p><p>2. That Council grant relief from the following requirements of Demolition Control Area By-law No. 2013-014 (“By-law No. 2013- 014”) with respect to the existing dwellings at 142, 144, 146, 150, 152 and 154 Erb Street West &amp; 5 Dunbar Road North (collectively the “Lands”): a. Section 7.b., such that the requirement for site plan approval prior to the issuance of a demolition permit has been waived; and b. Section 6.a., such that the owner shall commence construction of the Replacement Development in compliance with approved building permit plans no later than five (5) years from the date that the demolition permit is issued.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Province of Ontario Trade-Impacted",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report CAO2025-027. 2. That Council formally approve the City of Waterloo’s grant submission to the Province of Ontario, Trade-Impacted Communities Program (TICP). 3. That Council approve the City’s total contribution to the Province of Ontario’s Trade-Impacted Communities grant application in the amount of up to $540,000 from the Economic Development Reserve to fund 3 years of the program. 4. That should the City’s TICP application be successful, Council authorize the Mayor and Clerk to sign the grant transfer payment agreement and any other related documents.",
+   "text_html": "<p>1. That Council approve report CAO2025-027.</p><p>2. That Council formally approve the City of Waterloo’s grant submission to the Province of Ontario, Trade-Impacted Communities Program (TICP).</p><p>3. That Council approve the City’s total contribution to the Province of Ontario’s Trade-Impacted Communities grant application in the amount of up to $540,000 from the Economic Development Reserve to fund 3 years of the program.</p><p>4. That should the City’s TICP application be successful, Council authorize the Mayor and Clerk to sign the grant transfer payment agreement and any other related documents.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "8b",
+   "item_number": "8b",
+   "item_title": "RFQ25-33 Supply & Delivery of Treated",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Wright",
+   "text": "1. That IPPW2025-054 be approved. 2. That Council approve the award of RFQ25-33 (Ref # 25-061) Supply & Delivery of Treated & Coarse Highway Salt to Compass Minerals Canada Corp. for the submitted yearly price of $1,153,530.49 plus unrecoverable HST in the amount of $20,302.14, for a total award value of $1,173,832.63. 3. That the Mayor and Clerk be authorized to sign the Agreement between the Corporation of the City of Waterloo and Compass Minerals Canada Corp., and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That IPPW2025-054 be approved.</p><p>2. That Council approve the award of RFQ25-33 (Ref # 25-061) Supply &amp; Delivery of Treated &amp; Coarse Highway Salt to Compass Minerals Canada Corp. for the submitted yearly price of $1,153,530.49 plus unrecoverable HST in the amount of $20,302.14, for a total award value of $1,173,832.63.</p><p>3. That the Mayor and Clerk be authorized to sign the Agreement between the Corporation of the City of Waterloo and Compass Minerals Canada Corp., and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "8c",
+   "item_number": "8c",
+   "item_title": "2026 Parking Rates",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Bodaly",
+   "text": "1. That CAO2025-023 be approved. 2. That Council approve a 3.5% monthly parking permit rate increase for 2026 as set out in Table #1 of report CAO2025-023. 3. That Council approve in principle the 2027-2035 monthly parking permit rate forecast as set out in Table #1 of report CAO2025-023. 4. That Council approve no hourly parking rate increase for 2026 (0%) as set out in Table #2 of report CAO2025-023. 5. That Council approve in principle the 2027-2035 hourly parking rate forecast as set out in Table #2 of report CAO2025-023. 6. That Council approve the Parking Fees and Charges By-law updates, as attached as Appendix A to CAO2025-023, effective as of the dates noted, and that the Fees and Charges By-law is updated accordingly.",
+   "text_html": "<p>1. That CAO2025-023 be approved.</p><p>2. That Council approve a 3.5% monthly parking permit rate increase for 2026 as set out in Table #1 of report CAO2025-023.</p><p>3. That Council approve in principle the 2027-2035 monthly parking permit rate forecast as set out in Table #1 of report CAO2025-023.</p><p>4. That Council approve no hourly parking rate increase for 2026 (0%) as set out in Table #2 of report CAO2025-023.</p><p>5. That Council approve in principle the 2027-2035 hourly parking rate forecast as set out in Table #2 of report CAO2025-023.</p><p>6. That Council approve the Parking Fees and Charges By-law updates, as attached as Appendix A to CAO2025-023, effective as of the dates noted, and that the Fees and Charges By-law is updated accordingly.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Special Service/Area Levy Vote",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roach",
+   "text": "1. That Council receive CORP2025-031 as information.",
+   "text_html": "<p>1. That Council receive CORP2025-031 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m10",
+   "item": "15",
+   "item_number": "15",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-059 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-059 By-law to Amend By-law No. 2018-050. Being a Zoning By-law Controlling Land Use Development within the City of Waterloo, 380 Hagey Boulevard (IPPW2025-053, Council September 8, 2025) b) By-law 2025-060 By-law to confirm all actions and proceedings of Council, September 22, 2025",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-059 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-059 By-law to Amend By-law No. 2018-050. Being a Zoning By-law Controlling Land Use Development within the City of Waterloo, 380 Hagey Boulevard (IPPW2025-053, Council September 8, 2025) b) By-law 2025-060 By-law to confirm all actions and proceedings of Council, September 22, 2025</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m11",
+   "item": "16",
+   "item_number": "16",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "That the meeting adjourn. (Time: 8:30 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 8:30 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 11
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

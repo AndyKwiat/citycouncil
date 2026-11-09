@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "2023-09-11-1400-Council-Meeting",
+ "city": "waterloo",
+ "key": "2023-09-11",
+ "type": "Council Meeting",
+ "body": "council",
+ "body_name": "City Council",
+ "title": "Council Meeting",
+ "start": "2023-09-11T14:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://events.waterloo.ca/meetings/Detail/2023-09-11-1400-Council-Meeting/74a5fd00-d587-4de6-9bd9-b09300f1dd86",
+  "minutes_pdf": "https://events.waterloo.ca/meetings/Detail/2023-09-11-1400-Council-Meeting/74a5fd00-d587-4de6-9bd9-b09300f1dd86",
+  "agenda": "https://events.waterloo.ca/meetings/Detail/2023-09-11-1400-Council-Meeting/bfa656b1-0fb2-4613-a898-b07700f65947",
+  "meeting_page": "https://events.waterloo.ca/meetings/Detail/2023-09-11-1400-Council-Meeting",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "6f8f8f9c2408e6b910d64c494857b18dfc0516c5252a6e2d29edfcc2ddbd18e1"
+ }
+}

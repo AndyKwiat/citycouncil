@@ -1,0 +1,843 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 10,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Roe",
+  "Wright",
+  "Vasic"
+ ],
+ "absent": [
+  "Vasic",
+  "Hanmer",
+  "Roach"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:00 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 4:15 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "September 22, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "September 29, 2025 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Staff Report CORP2025-034 Special Service/Area Levy Vote results – Upper Beechwood Home Association Inc. has been deferred until November 3, 2025.</p>",
+    "<p>Councillor Wright requested that item 7a) Drinking Water Management Review and Operational Plan Update be removed from the consent motion.</p>",
+    "<p>That consent motion items (a) through (b) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Water and Sanitary Financial Plans",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: IPPW2025-046</p>",
+    "<p>Prepared By: Dean Vieira and Natasha Glauser</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "2025 Surplus-Deficit Projection - August",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2025-027</p>",
+    "<p>Prepared By: Brad Witzel and Michael Pugliese</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Drinking Water Management Review",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>and Operational Plan Update</p>",
+    "<p>Report No.: IPPW2025-043</p>",
+    "<p>Prepared By: Lori McKenzie</p>",
+    "<p>Leigh McDermott responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Release of Funding - Columbia Street",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Watermain Replacement – (King Street</p>",
+    "<p>North to Old Post Road)</p>",
+    "<p>Report No.: IPPW2025-060</p>",
+    "<p>Prepared By: Jakub Cyperling</p>",
+    "<p>Christopher Hodgson responded to questions of Council. Chris Dedman, Bob Henderson, Kyle Bossie and Jakub Cyperling also responded to questions of Council.</p>",
+    "<p>Council meeting recessed: (Time: 4:33 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman declared a conflict with respect to item 12c) Official Plan Amendment 60 and Zoning By-law Amendment Z-24-18, 2744668 Ontario Inc., for 1 Dunbar Road North due to a conflict as it relates to place of employment.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Informal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "11a",
+   "number": "11a",
+   "title": "Official Plan Amendment No. 71 &",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning By-law Amendment Z-25-22</p>",
+    "<p>Black Door Development Company</p>",
+    "<p>36 Westhill Drive</p>",
+    "<p>Prepared by: Aminu Bello</p>",
+    "<p>Ward No.: Ward No. 1 – Southwest Ward</p>",
+    "<p>Aminu Bello gave a presentation outlining the proposed development, including the site location, the current Official Plan and Zoning framework in place, the amendments being requested, and the site plan and landscape concepts. He then responded to questions of Council.</p>",
+    "<p>Kristen Barisdale, Vice President, Planning, GSP Group gave a presentation further detailing the proposed development, giving further context to the site and how the developer plans to use Canada Mortgage and Housing Corporation (CMHC) funding to provide affordable and/or attainable housing. She then responded to questions of Council. Noah Geist, BlackDoor Development Company also responded to questions of Council.</p>",
+    "<p>Nigel Henriques, Resident of Waterloo spoke about the traffic and parking issues, and drainage issues that will need to be taken into consideration for the development. Nigel Henriques also spoke about the submitted studies, and how they seem to be taken out of context of the two towers being developed in the area. Nigel Henriques responded to questions of Council. Aminu Bello also responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Informal Public Meeting and indicated that staff will review the issues and report back to Council at a later date.</p>",
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "11b",
+   "number": "11b",
+   "title": "Official Plan Amendment No. 53,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zone Change Application Z-24-04</p>",
+    "<p>and Draft Plan of Subdivision 30T-23401,</p>",
+    "<p>Activa Holdings Inc., 400 Millennium Blvd</p>",
+    "<p>Report No.: IPPW2025-061</p>",
+    "<p>Prepared By: Rita Szilock</p>",
+    "<p>Ward No.: Ward 4, Northeast</p>",
+    "<p>Rita Szilock gave a presentation outlining the proposed development, including the site context and adjacent lands, the conceptual plan, the projected stages of the subdivision development, the current planning framework for the subject site, and the amendments being requested. She then responded to questions of Council. Bob Henderson and Jenny Renaud also responded to questions of Council.</p>",
+    "<p>Trevor Hawkins, Partner, MHBC Planning gave a presentation further detailing the proposed development, answering questions Council had asked of staff and offering further context to the neighbourhood. He then responded to questions of Council.</p>",
+    "<p>Les Bergman, Resident of Waterloo spoke about the concerns of the residents living in the Grey Silo area, largely surrounding the traffic, parking and congestion in the area that would be made worse by the number of homes being proposed by the development. Les Bergman also spoke about the wildlife that would be lost if this development goes ahead. Rita Szilock and Jillian Fleming responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>",
+    "<p>Councillor Freeman left the Chair. (Time: 8:27 p.m.)</p>",
+    "<p>Mayor McCabe in the Chair. (Time: 8:27 p.m.)</p>",
+    "<p>(Time: 8:28 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 6
+  },
+  {
+   "id": "11c",
+   "number": "11c",
+   "title": "Official Plan Amendment 60 and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Zoning By-law Amendment Z-24-18,</p>",
+    "<p>2744668 Ontario Inc., for 1 Dunbar Road North</p>",
+    "<p>Report No.: IPPW2025-056</p>",
+    "<p>Prepared By: Aminu Bello</p>",
+    "<p>Ward No.: Ward 7 - Uptown</p>",
+    "<p>Aminu Bello gave a presentation outlining the proposed development, including the site context, the current and proposed planning framework, and the differences between the original concept and the proposal ahead of Council tonight. He then responded to questions of Council.</p>",
+    "<p>Trevor Hawkins, Partner, MHBC Planning gave a presentation further detailing the proposal, including the site context, the changes to the development over the last year, and the landscaping. He then responded to questions of Council.</p>",
+    "<p>Thom Bartleman, Resident of Waterloo spoke about the lack of updated shadow study on the EngageWR website, as well as the issues with the applicant’s Urban Design Manual submission. Aminu Bello also responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>",
+    "<p>Councillor Freeman having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 8
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Hanmer gave a shoutout to the Hockey Helps the Homeless group who held their annual tournament at RIM Park on Friday, October 24. They raised over $350,000 for six local charities who serve the homeless population. It was a tremendous effort, and she offered her thanks to everyone.</p>",
+    "<p>Councillor Bodaly highlighted that the Vista Hills community rented the Forbes Hall at RIM Park for Diwali. There were 100 people or more celebrating Diwali just from that one community and he said that it’s always wonderful to see so many people come out and celebrate their culture. Happy Diwali.</p>",
+    "<p>Mayor McCabe mentioned that her, Councillor Wright and Councillor Roe attended the Spectrum Dance Party in the Waterloo Public Square with One Big Gay Disco today at about 5:30 p.m. It was a wonderful celebration and she offered congratulations to Spectrum for pulling it off so quickly. She finished with saying that hate has no place in the Waterloo Region, and that Council supports and stands behind the 2SLGBTQIA+ community.</p>",
+    "<p>Mayor McCabe highlighted that Game 4 of the Major League Baseball World Series would be broadcast tomorrow, October 28, in the Waterloo Public Square in partnership with the City’s Economic Development team and the Uptown BIA.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 9
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, November 24, 2025</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 10
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Roach",
+   "seconded_by": "Roe",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (READI training); and b) acquisition/disposition of land (acquisition of land); and c) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (acquisition of land); and d) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (potential disposition of city owned-lands).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) educating or training the members and discussion will not deal with any matter in a way that materially advances the business or decision-making of the council, local board or committee (READI training); and b) acquisition/disposition of land (acquisition of land); and c) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (acquisition of land); and d) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (potential disposition of city owned-lands).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "September 22, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on September 22, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on September 22, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "September 29, 2025 – Council Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on September 29, 2025 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on September 29, 2025 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "Water and Sanitary Financial Plans",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Bodaly",
+   "text": "1. That IPPW2025-046 be approved. 2. That Council directs staff to submit the City of Waterloo’s Water Distribution System and Sanitary System Financial Plans as provided in Appendix A to the Ministry of Municipal Affairs and Housing in support of the City’s drinking water license renewal by December 4, 2025.",
+   "text_html": "<p>1. That IPPW2025-046 be approved.</p><p>2. That Council directs staff to submit the City of Waterloo’s Water Distribution System and Sanitary System Financial Plans as provided in Appendix A to the Ministry of Municipal Affairs and Housing in support of the City’s drinking water license renewal by December 4, 2025.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "2025 Surplus-Deficit Projection - August",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report CORP2025-027. 2. That as part of report CORP2025-027 Council acknowledges the projected 2025 net tax base surplus of $586,000. 3. That as part of report CORP2025-027 Council acknowledges the projected 2025 net Enterprise surplus of approximately $628,000. 4. That Council directs staff to provide a final 2025 surplus-deficit allocation report by May 2026.",
+   "text_html": "<p>1. That Council approve report CORP2025-027.</p><p>2. That as part of report CORP2025-027 Council acknowledges the projected 2025 net tax base surplus of $586,000.</p><p>3. That as part of report CORP2025-027 Council acknowledges the projected 2025 net Enterprise surplus of approximately $628,000.</p><p>4. That Council directs staff to provide a final 2025 surplus-deficit allocation report by May 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Drinking Water Management Review",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "McCabe",
+   "text": "1. That Council receive IPPW2025-043 for information.",
+   "text_html": "<p>1. That Council receive IPPW2025-043 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Release of Funding - Columbia Street",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "McCabe",
+   "text": "1. That report IPPW2025-060 be approved. 2. That Council approve the release of 2025 non-routine capital funding in the amount of $2,258,000 for the Columbia Street Watermain (King Street North to Old Post Road) project 250020, as approved in the 2024-2026 Capital Budget (Ref: #670). 3. That Council approve the release of 2026 capital funding on January 1, 2026, in the amount of $2,398,000 for the Columbia Street Watermain (King Street North to Old Post Road) project 250020, as approved in the 2024-2026 Capital Budget (Ref: #670).",
+   "text_html": "<p>1. That report IPPW2025-060 be approved.</p><p>2. That Council approve the release of 2025 non-routine capital funding in the amount of $2,258,000 for the Columbia Street Watermain (King Street North to Old Post Road) project 250020, as approved in the 2024-2026 Capital Budget (Ref: #670).</p><p>3. That Council approve the release of 2026 capital funding on January 1, 2026, in the amount of $2,398,000 for the Columbia Street Watermain (King Street North to Old Post Road) project 250020, as approved in the 2024-2026 Capital Budget (Ref: #670).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m8",
+   "item": "11b",
+   "item_number": "11b",
+   "item_title": "Official Plan Amendment No. 53,",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "McCabe",
+   "text": "1. That Council approve IPPW2025-061. 2. That Council approve Official Plan Amendment No. 53 (OPA 53), Activa Holdings Inc. for 400 Millennium Blvd, as set out in Section 8 of report IPPW2025-061. 3. That Council approve Zoning By-law Amendment Z-24-04, Activa Holdings Inc. for 400 Millennium Blvd, as set out in Section 8 of report IPPW2025-061. 4. That Council approve Draft Plan of Subdivision 30T-23401, Activa Holdings Inc., for 400 Millennium Blvd, as set out in Section 8 of report IPPW2025-061. 5. That Council delegate authority to the City’s Director of Planning to make administrative and minor modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision Approval in relation to Draft Plan of Subdivision 30T- 23401, and minor redline revisions to Draft Plan of Subdivision 30T- 23401. 6. That Council delegate authority to the City’s Director of Planning to determine if the conditions of draft approval are satisfied, and to approve final registration, in relation to Draft Plan of Subdivision 30T-23401.",
+   "text_html": "<p>1. That Council approve IPPW2025-061.</p><p>2. That Council approve Official Plan Amendment No. 53 (OPA 53), Activa Holdings Inc. for 400 Millennium Blvd, as set out in Section 8 of report IPPW2025-061.</p><p>3. That Council approve Zoning By-law Amendment Z-24-04, Activa Holdings Inc. for 400 Millennium Blvd, as set out in Section 8 of report IPPW2025-061.</p><p>4. That Council approve Draft Plan of Subdivision 30T-23401, Activa Holdings Inc., for 400 Millennium Blvd, as set out in Section 8 of report IPPW2025-061.</p><p>5. That Council delegate authority to the City’s Director of Planning to make administrative and minor modifications to any Standard Condition of Subdivision Approval and/or Site Specific Condition of Subdivision Approval in relation to Draft Plan of Subdivision 30T- 23401, and minor redline revisions to Draft Plan of Subdivision 30T- 23401.</p><p>6. That Council delegate authority to the City’s Director of Planning to determine if the conditions of draft approval are satisfied, and to approve final registration, in relation to Draft Plan of Subdivision 30T-23401.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 6,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m9",
+   "item": "11c",
+   "item_number": "11c",
+   "item_title": "Official Plan Amendment 60 and",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Bodaly",
+   "text": "1. That Council approve report IPPW2025-056. 2. That Council approve Official Plan Amendment No. 60 (OPA 60), 2744668 Ontario Inc., for the lands municipally known as 1 Dunbar Road North in accordance with Section 7 of IPPW2025-056. 3. That Council approve Zoning By-law Amendment Z-24-18, 2744668 Ontario Inc., for the lands municipally known as 1 Dunbar Road North in accordance with Section 7 of IPPW2025-056.",
+   "text_html": "<p>1. That Council approve report IPPW2025-056.</p><p>2. That Council approve Official Plan Amendment No. 60 (OPA 60), 2744668 Ontario Inc., for the lands municipally known as 1 Dunbar Road North in accordance with Section 7 of IPPW2025-056.</p><p>3. That Council approve Zoning By-law Amendment Z-24-18, 2744668 Ontario Inc., for the lands municipally known as 1 Dunbar Road North in accordance with Section 7 of IPPW2025-056.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m10",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-063 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-063 By-Law to amend the City of Waterloo Official Plan for 177-179 Albert Street, 14688210 Canada Inc., IPPW2025-025 (Official Plan Amendment Application OPA No. 52, IPPW2025-025, Council September 8, 2025, 14688210 Canada Inc.) b) By-law 2025-064 By-law to amend By-law No. 2018-050, being a Zoning By-law Controlling Land Use within the City of Waterloo, 177-179 Albert Street. (Zone Change Application Z-24-03, IPPW2025-025, Council September 8, 2025, 14688210 Canada Inc.) c) By-law 2025-065 By-law to Provide for the Appointment of Presiding Officers for Regularly Scheduled Meetings of Council between January 1st and December 31st, 2026 (CORP2025-035, Council October 6, 2025) d) By-law 2025-066 By-law to Amend the City of Waterloo Official Plan, 1 Dunbar Road North, 1000686403 Ontario Ltd. (IPPW2025-056, Council October 27, 2025) e) By-law 2025-067 By-law to Amend By-law No. 2018-050, being a Zoning By-law Controlling Land Use Development within the City of Waterloo, 1 Dunbar Road North (IPPW2025-056, Council October 27, 2025) f) By-law 2025-068 A By-law to Dedicate Certain Lands being part of 1 Foot Reserve C on Registered Plan 1405, Designated as Part 1 on Plan 58R- 22314, City of Waterloo, as Public Highway Known as Colby Drive g) By-law 2025-069 By-law to confirm all actions and proceedings of Council, October 27, 2025",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2025-063 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2025-063 By-Law to amend the City of Waterloo Official Plan for 177-179 Albert Street, 14688210 Canada Inc., IPPW2025-025 (Official Plan Amendment Application OPA No. 52, IPPW2025-025, Council September 8, 2025, 14688210 Canada Inc.) b) By-law 2025-064 By-law to amend By-law No. 2018-050, being a Zoning By-law Controlling Land Use within the City of Waterloo, 177-179 Albert Street. (Zone Change Application Z-24-03, IPPW2025-025, Council September 8, 2025, 14688210 Canada Inc.) c) By-law 2025-065 By-law to Provide for the Appointment of Presiding Officers for Regularly Scheduled Meetings of Council between January 1st and December 31st, 2026 (CORP2025-035, Council October 6, 2025) d) By-law 2025-066 By-law to Amend the City of Waterloo Official Plan, 1 Dunbar Road North, 1000686403 Ontario Ltd. (IPPW2025-056, Council October 27, 2025) e) By-law 2025-067 By-law to Amend By-law No. 2018-050, being a Zoning By-law Controlling Land Use Development within the City of Waterloo, 1 Dunbar Road North (IPPW2025-056, Council October 27, 2025) f) By-law 2025-068 A By-law to Dedicate Certain Lands being part of 1 Foot Reserve C on Registered Plan 1405, Designated as Part 1 on Plan 58R- 22314, City of Waterloo, as Public Highway Known as Colby Drive g) By-law 2025-069 By-law to confirm all actions and proceedings of Council, October 27, 2025</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m11",
+   "item": "14",
+   "item_number": "14",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Hanmer",
+   "text": "That the meeting adjourn. (Time: 9:06 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 9:06 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 5,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roe",
+    "Wright"
+   ],
+   "page": 10
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Freeman",
+   "item_number": "12c",
+   "text": ""
+  }
+ ],
+ "attendance_events": [
+  {
+   "member": "Freeman",
+   "event": "left",
+   "text": "Having previously declared a pecuniary interest, Councillor Freeman left the meeting.",
+   "page": 7
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

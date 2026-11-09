@@ -1,0 +1,878 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 9,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which many of us are gathered today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral peoples. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous people with whom we share this land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>",
+    "<p>Councillor Freeman noted that this invocation was first used by Lynne Woolstencroft, former Mayor of Waterloo, and it was great to recognize her a few weeks ago and to continue to do so.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4a",
+   "number": "4a",
+   "title": "April 15, 2024 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5a",
+   "number": "5a",
+   "title": "City of Waterloo Cycling Infrastructure",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Bob Henderson, Director, Transportation Services offered introductory remarks about the video. Chris Hodgson, Manager, Active Transportation offered further remarks and thanked everyone for their work during the Ontario Bike Summit. He shared a video with Council showing the City of Waterloo’s Cycling Infrastructure.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (d) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "Commissioner Special Projects",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Update - 2023</p>",
+    "<p>Report No.: CORP2024-025</p>",
+    "<p>Prepared By: Dean Vieira</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "2023 Annual Statement of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Development Charges</p>",
+    "<p>Report No.: CORP2024-023</p>",
+    "<p>Prepared By: Mirela Oltean</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6c",
+   "number": "6c",
+   "title": "2023 Annual Statement of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Community Benefits Charges and</p>",
+    "<p>Parkland Dedication</p>",
+    "<p>Report No.: CORP2024-024</p>",
+    "<p>Prepared By: Mirela Oltean</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6d",
+   "number": "6d",
+   "title": "2023 Year End Investment Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-026</p>",
+    "<p>Prepared By: Kim Reger</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8a",
+   "number": "8a",
+   "title": "Waterloo Park – Eby Farmstead",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2024-022</p>",
+    "<p>Prepared By: Robin Milne</p>",
+    "<p>Robin Milne gave a brief overview of the staff report and the recommendations to Council. He spoke about the Waterloo Park plan update and the need for additional engagement. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8b",
+   "number": "8b",
+   "title": "Allocation of 2023 Surplus",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2024-007</p>",
+    "<p>Prepared By: Paul Hettinga</p>",
+    "<p>Paul Hettinga offered introductory remarks to the staff report. Ron Ormson responded to questions of Council. Brad Witzel also responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8c",
+   "number": "8c",
+   "title": "Award of RFP24-01 – Consulting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Services for AMCC Sportsplex &amp;</p>",
+    "<p>WPL McCormick Branch Library</p>",
+    "<p>Renovation Project</p>",
+    "<p>Report No.: COM2024-021</p>",
+    "<p>Prepared By: Heather Liddycoat</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8d",
+   "number": "8d",
+   "title": "Generation Park (West Side Employment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Lands) Administration – Delegation of</p>",
+    "<p>Authority Amendment and Amending</p>",
+    "<p>Subdivision Agreement</p>",
+    "<p>Report No.: CAO2024-016</p>",
+    "<p>Prepared By: Kristin Sainsbury</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8e",
+   "number": "8e",
+   "title": "Waterloo Town Square: North Parking",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Lot Land Matters and Commencement</p>",
+    "<p>of Expropriation Proceedings</p>",
+    "<p>Report No.: CAO2024-019</p>",
+    "<p>Prepared By: Christina Marina</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 5
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Questions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman had a question:</p>",
+    "<p>Can the City take a leadership role at AMO to put together a joint delegation of municipalities who have crossings of MTO highways breaking up their cities, in order to encourage the ministry to update their design guidelines? Tim Anderson responded saying that they would add that to their list of delegation requests for AMO.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Vasic thanked the staff who organized the Health and Safety BBQ on Wednesday, May 8. She noted that it is always nice to connect with people around something important like creating a healthy and safe workplace.</p>",
+    "<p>Councillor Wright thanked the City team that coordinated Emergency Preparedness Week.</p>",
+    "<p>Councillor Hanmer mentioned that KidsAbility was opening new space that was nearly 20,000 sq ft in Kitchener. The grand opening was planned for May 14.</p>",
+    "<p>Councillor Roe mentioned that Words Worth Books celebrated their 40th anniversary on Saturday, May 11. She also gave a shout out to the BIA who worked hard to support local businesses.</p>",
+    "<p>Mayor McCabe attended the Building Black Communities Conference with Councillor Roach on Thursday May 9, which was jointly co-hosted by the University of Waterloo and Wilfrid Laurier. The event had excellent speakers and discussion. The conference also held an event in the evening at the Community Pavilion at the WMRC. She thanked staff for working in partnership with the universities to put these events on.</p>",
+    "<p>Councillor Freeman spoke about Parkwood Mennonite and their official ribbon cutting on their affordable housing units.</p>",
+    "<p>Councillor Freeman also mentioned that she was speaking at the Air and Waste Management Association Internation Conference this week. She was speaking on planning matters as they relate to air quality and providing the lens of an engineer and as a decision maker.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 8
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, June 17, 2024</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 8
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4a",
+   "item_number": "4a",
+   "item_title": "April 15, 2024 – Council Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on April 15, 2024 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on April 15, 2024 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "Commissioner Special Projects",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "1. That Council receives CORP2024-025 as information.",
+   "text_html": "<p>1. That Council receives CORP2024-025 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "2023 Annual Statement of",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "1. That Council receives CORP2024-023, regarding the 2023 Treasurer’s Statement on Development Charges, as information.",
+   "text_html": "<p>1. That Council receives CORP2024-023, regarding the 2023 Treasurer’s Statement on Development Charges, as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m4",
+   "item": "6c",
+   "item_number": "6c",
+   "item_title": "2023 Annual Statement of",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "1. That Council receives CORP2024-024 as information.",
+   "text_html": "<p>1. That Council receives CORP2024-024 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "6d",
+   "item_number": "6d",
+   "item_title": "2023 Year End Investment Report",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roe",
+   "text": "1. That Council receive report CORP2024-026 as information.",
+   "text_html": "<p>1. That Council receive report CORP2024-026 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "8a",
+   "item_number": "8a",
+   "item_title": "Waterloo Park – Eby Farmstead",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report COM2024-022. 2. That Council direct staff to move forward with a community engagement campaign that gauges the public’s interest in alternative options for the Eby Farmstead operation.",
+   "text_html": "<p>1. That Council approve report COM2024-022.</p><p>2. That Council direct staff to move forward with a community engagement campaign that gauges the public’s interest in alternative options for the Eby Farmstead operation.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m7",
+   "item": "8b",
+   "item_number": "8b",
+   "item_title": "Allocation of 2023 Surplus",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "McCabe",
+   "text": "1. That Council approve report CORP2024-007. 2. That as part of report CORP2024-007 Council acknowledges a 2023 property-tax base surplus of $1,865,330. 3. That Council approve the 2023 year-end property-tax base surplus of $1,865,330 to be allocated to the following reserves as per the Surplus Allocation Policy (Appendix A): 1) $466,333 to the Tax Rate Stabilization Reserve (TRS) 2) $466,333 to the Capital Infrastructure Reinvestment Reserve Fund (CIRRF) 3) $466,332 to the Climate Action Reserve Fund (CARF) 4) $466,332 to the Library Expansion and Rehabilitation Reserve Fund (LXPR) 4. That Council approve that any adjustments as a result of the year- end audit to the final surplus figure be transferred to the TRS (25%), CIRRF (25%), CARF (25%) and the LXPR (25%) in compliance with the Surplus Allocation Policy (FC-003).",
+   "text_html": "<p>1. That Council approve report CORP2024-007.</p><p>2. That as part of report CORP2024-007 Council acknowledges a 2023 property-tax base surplus of $1,865,330.</p><p>3. That Council approve the 2023 year-end property-tax base surplus of $1,865,330 to be allocated to the following reserves as per the Surplus Allocation Policy (Appendix A): 1) $466,333 to the Tax Rate Stabilization Reserve (TRS) 2) $466,333 to the Capital Infrastructure Reinvestment Reserve Fund (CIRRF) 3) $466,332 to the Climate Action Reserve Fund (CARF) 4) $466,332 to the Library Expansion and Rehabilitation Reserve Fund (LXPR)</p><p>4. That Council approve that any adjustments as a result of the year- end audit to the final surplus figure be transferred to the TRS (25%), CIRRF (25%), CARF (25%) and the LXPR (25%) in compliance with the Surplus Allocation Policy (FC-003).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m8",
+   "item": "8c",
+   "item_number": "8c",
+   "item_title": "Award of RFP24-01 – Consulting",
+   "name": "",
+   "moved_by": "Roach",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2024-021. 2. That Council approve the award of RFP24-01 – Consulting Services - Albert McCormick Community Centre Renovation and Expansion Project and Energy and Accessibility Retrofit to ward99 architects inc. for the submitted price of$733,716.00 plus unrecoverable HST in the amount of $12,913.40 for a total award value of $746,629.40. 3. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and ward99 architects inc., and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2024-021.</p><p>2. That Council approve the award of RFP24-01 – Consulting Services - Albert McCormick Community Centre Renovation and Expansion Project and Energy and Accessibility Retrofit to ward99 architects inc. for the submitted price of$733,716.00 plus unrecoverable HST in the amount of $12,913.40 for a total award value of $746,629.40.</p><p>3. That the Mayor and Clerk be authorized to sign the Agreement between The Corporation of the City of Waterloo and ward99 architects inc., and any other documents related to this project, subject to the satisfaction of the City’s Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m9",
+   "item": "8d",
+   "item_number": "8d",
+   "item_title": "Generation Park (West Side Employment",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report CAO2024-016. 2. That Council authorize the Mayor and Clerk to execute and register on title the amending Subdivision Agreement in the substantial form and content as shown in Appendix B, and any other related document. 3. That Council approve the Sustainability Standards Administrative Procedure (Appendix C) to form part of the Sustainability Standards and direct staff to bring to council for consideration an amendment to the delegation by-law2017-082, as amended to enact such changes as required in the Procedure.",
+   "text_html": "<p>1. That Council approve report CAO2024-016.</p><p>2. That Council authorize the Mayor and Clerk to execute and register on title the amending Subdivision Agreement in the substantial form and content as shown in Appendix B, and any other related document.</p><p>3. That Council approve the Sustainability Standards Administrative Procedure (Appendix C) to form part of the Sustainability Standards and direct staff to bring to council for consideration an amendment to the delegation by-law2017-082, as amended to enact such changes as required in the Procedure.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m10",
+   "item": "8e",
+   "item_number": "8e",
+   "item_title": "Waterloo Town Square: North Parking",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Vasic",
+   "text": "1. That CAO2024-019 report be approved: (a) That Council direct and authorize the City Solicitor to commence expropriation proceedings and make Application for Approval to Expropriate Land to Council for all right, title and interest in and to the lands legally described as: PT MILL SQUARE AND PART OF ERB STREET PL 385 CITY OF WATERLOO being Part of PIN 22411-0263 (LT) designated as Parts 1 and 2 on the draft Reference Plan prepared by James M. Laws of Van Harten Surveying Inc., Project No. 29240-21 dated March 13, 2024 and bearing revision date March 20, 2024 attached as Schedule “A” hereto (the “Lands”) for the municipal purpose(s) of: the advancement of a master plan for the short-term, medium-term and long-term use and development of lands at and in the vicinity of 45 Erb Street, in the City of Waterloo in furtherance of the economic and social well-being and parking rationalization of the City, implementation of community improvement objectives, realization of the Uptown Public Realm Strategy (March 19, 2019), promotion of good land use planning principles and Official Plan policies, implementation of Provincial Policy Statement policies, facilitation of required housing and considerations under Royal Assent of Bill 23 (More Homes Built Faster Act), together with completion of any future acquisitions and/or dispositions of land including transactions involving any or all of the Lands in furtherance of the foregoing municipal purposes and objectives. (b) Serve Notice of Application for Approval to Expropriate Land in connection with the application as described in paragraph (a) above in accordance with the Expropriations Act, R.S.O. 1990, c. E.26 (the “Act”); (c) Forward any request for a hearing that may be received within the time prescribed under Section 6(2) of the Act to the Ontario Land Tribunal (“Tribunal”); (d) Attend, with appropriate City Staff or legal counsel, any hearing to be held under Section 7 of the Act that may be scheduled, including filing and serving of Notice of Grounds and associated materials; (e) THAT arrangements be made for any report issued by the Tribunal pursuant to Section 7(6) of the Act to be brought to City Council for consideration; (f) THAT the City Solicitor is authorized to retain any professional advisor or expert deemed necessary or expedient in connection with the expropriation proceedings herein; (g) Discontinue expropriation proceedings, or any part thereof, upon registration on title of the required documentation to complete a transaction whereby the required interests in the Lands are secured or if otherwise deemed appropriate in the opinion of the City Solicitor; and (h) That the City Solicitor, and/or designate be authorized to do all things necessary and proper to be done in the furtherance of the above and to report thereon to Council in due course.",
+   "text_html": "<p>1. That CAO2024-019 report be approved: (a) That Council direct and authorize the City Solicitor to commence expropriation proceedings and make Application for Approval to Expropriate Land to Council for all right, title and interest in and to the lands legally described as: PT MILL SQUARE AND PART OF ERB STREET PL 385 CITY OF WATERLOO being Part of PIN 22411-0263 (LT) designated as Parts 1 and 2 on the draft Reference Plan prepared by James M. Laws of Van Harten Surveying Inc., Project No. 29240-21 dated March 13, 2024 and bearing revision date March 20, 2024 attached as Schedule “A” hereto (the “Lands”) for the municipal purpose(s) of: the advancement of a master plan for the short-term, medium-term and long-term use and development of lands at and in the vicinity of 45 Erb Street, in the City of Waterloo in furtherance of the economic and social well-being and parking rationalization of the City, implementation of community improvement objectives, realization of the Uptown Public Realm Strategy (March 19, 2019), promotion of good land use planning principles and Official Plan policies, implementation of Provincial Policy Statement policies, facilitation of required housing and considerations under Royal Assent of Bill 23 (More Homes Built Faster Act), together with completion of any future acquisitions and/or dispositions of land including transactions involving any or all of the Lands in furtherance of the foregoing municipal purposes and objectives. (b) Serve Notice of Application for Approval to Expropriate Land in connection with the application as described in paragraph (a) above in accordance with the Expropriations Act, R.S.O. 1990, c. E.26 (the “Act”); (c) Forward any request for a hearing that may be received within the time prescribed under Section 6(2) of the Act to the Ontario Land Tribunal (“Tribunal”); (d) Attend, with appropriate City Staff or legal counsel, any hearing to be held under Section 7 of the Act that may be scheduled, including filing and serving of Notice of Grounds and associated materials; (e) THAT arrangements be made for any report issued by the Tribunal pursuant to Section 7(6) of the Act to be brought to City Council for consideration; (f) THAT the City Solicitor is authorized to retain any professional advisor or expert deemed necessary or expedient in connection with the expropriation proceedings herein; (g) Discontinue expropriation proceedings, or any part thereof, upon registration on title of the required documentation to complete a transaction whereby the required interests in the Lands are secured or if otherwise deemed appropriate in the opinion of the City Solicitor; and (h) That the City Solicitor, and/or designate be authorized to do all things necessary and proper to be done in the furtherance of the above and to report thereon to Council in due course.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m11",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Vasic",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-045 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-045 By-law to appoint the Chief Building Official and Acting Chief Building Official(s) b) By-law 2024-046 By-law to amend By-law 2017-082, as amended, to delegate authority to administer Generation Park Sustainability Standards (CAO2024-016, Council May 13, 2024) c) By-law 2024-047 By-law to confirm all actions and proceedings of Council, May 13, 2024",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2024-045 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2024-045 By-law to appoint the Chief Building Official and Acting Chief Building Official(s) b) By-law 2024-046 By-law to amend By-law 2017-082, as amended, to delegate authority to administer Generation Park Sustainability Standards (CAO2024-016, Council May 13, 2024) c) By-law 2024-047 By-law to confirm all actions and proceedings of Council, May 13, 2024</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m12",
+   "item": "12",
+   "item_number": "12",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Wright",
+   "text": "That the meeting adjourn. (Time: 2:49 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 2:49 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 8
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

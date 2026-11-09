@@ -1,0 +1,746 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 10,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Roe",
+  "Wright",
+  "Vasic"
+ ],
+ "absent": [
+  "Vasic"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:01 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 4:13 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we are gathering from today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share their land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wright provided Council with a moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>The City Clerk declared a conflict on behalf of Councillor Freeman with respect to an item in the closed meeting as it relates to their place of employment.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "May 8, 2023 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6b",
+   "number": "6b",
+   "title": "May 15, 2023 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (c) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Animal Control By-law Amendment –",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Dog Licensing</p>",
+    "<p>Report No.: COM2023-018</p>",
+    "<p>Prepared By: Grant Curlew</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "Administrative Corporate Policies: A-039",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Privacy Protection Program Framework.</p>",
+    "<p>A-040 Routine Disclosure and Active</p>",
+    "<p>Dissemination of City Records.</p>",
+    "<p>Report No.: CORP2023-031</p>",
+    "<p>Prepared By: Kevin Gerlach, Natalia Chebel, Justice Marfo</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7c",
+   "number": "7c",
+   "title": "Annual Health and Safety Policies Review",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-035</p>",
+    "<p>Prepared By: Lisa Dunlop</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "Administrative Monetary Penalty System",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2023-014</p>",
+    "<p>Prepared By: Grant Curlew</p>",
+    "<p>Grant Curlew gave a presentation explaining the Administrative Monetary Penalty System (AMPS), the current system, and how the AMPS program will be used going forward. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Digital Services Strategy Implementation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-034</p>",
+    "<p>Prepared By: Brandon Currie and Cari Van Niekerk</p>",
+    "<p>Brandon Currie gave a presentation with an overview of the strategy itself, and how they plan to implement it over the next few years. He then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman talked about the Service Centre Open House and offered kudos to all the team members and organizers that put on the event, including retired team members who came back to help out. She also mentioned the Community Partners who were there, including Reep Green Solutions and Supportive Housing of Waterloo Region.</p>",
+    "<p>Councillor Wright talked about the Grand Porch Party that took place on Sunday, June 11.</p>",
+    "<p>Councillor Roe wanted to thank Mayor McCabe and Councillor Bodaly for attending the World Refugee Day Community Launch on June 4, 2023, and bring attention to the Walk with Refugees happening on June 24, 2023. More information can be found at ccoric.ca.</p>",
+    "<p>Councillor Vasic talked about the Drag Storytime that occurred at the Kitchener Public Library Central branch, and the counter-protest to communicate that hate has no place here. She also attended Tri-Pride in Victoria Park. She also mentioned that Toronto author Lindsay Zier-Vogel attended Roselea Park on June 10, 2023 and read her book, “Dear Street”. Words Worth Books was there, and it was a community building event.</p>",
+    "<p>Councillor Bodaly talked about the Open Streets Festival, which also happened on June 10 on Willis Way. He also mentioned the trees that the Uptown BIA has put out along King Street, which was great to see. He thanked everyone who is responsible for all the events.</p>",
+    "<p>Mayor McCabe participated in the Belongathon organized by Christian Horizons, which raised $90,000. She also briefly mentioned Greek Food Fest. Both events also happened on June 10th.</p>",
+    "<p>Mayor McCabe also wanted to bring attention to CAO Tim Anderson’s milestone of working 20 years in municipal management. She talked about his history in the municipal field, and</p>",
+    "<p>Tim Anderson spoke about his career, and how great it is to work with everyone to build the great City of Waterloo.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, September 11, 2023</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 10
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Bodaly",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) personal matters about an identifiable individual, including municipal or local board employees (committee appointments); b) a proposed or pending acquisition or disposition of land by the municipality or local board (potential acquisition or disposition of city-owned land); c) labour relations or employee negotiations (staffing workload impacts, labour relations); d) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (OLT Appeal, potential acquisition or disposition of city-owned land); and, e) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (OLT Appeal, potential disposition of land).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) personal matters about an identifiable individual, including municipal or local board employees (committee appointments); b) a proposed or pending acquisition or disposition of land by the municipality or local board (potential acquisition or disposition of city-owned land); c) labour relations or employee negotiations (staffing workload impacts, labour relations); d) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (OLT Appeal, potential acquisition or disposition of city-owned land); and, e) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (OLT Appeal, potential disposition of land).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "May 8, 2023 – Council Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on May 8, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on May 8, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m3",
+   "item": "6b",
+   "item_number": "6b",
+   "item_title": "May 15, 2023 – Council Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Roach",
+   "text": "That the minutes of the Council meeting held on May 15, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on May 15, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "Animal Control By-law Amendment –",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report COM2023-018. 2. That Council approve amendments to the Animal Control By-law #09-047.",
+   "text_html": "<p>1. That Council approve report COM2023-018.</p><p>2. That Council approve amendments to the Animal Control By-law #09-047.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "Administrative Corporate Policies: A-039",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve staff report CORP2023-031. 2. That Council approve A-039 Privacy Protection Framework Program Policy attached to staff report CORP2023-031. 3. That Council approve A-040 Routine Disclosure and Active Dissemination of City Records Policy, attached to staff report CORP2023-031.",
+   "text_html": "<p>1. That Council approve staff report CORP2023-031.</p><p>2. That Council approve A-039 Privacy Protection Framework Program Policy attached to staff report CORP2023-031.</p><p>3. That Council approve A-040 Routine Disclosure and Active Dissemination of City Records Policy, attached to staff report CORP2023-031.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "7c",
+   "item_number": "7c",
+   "item_title": "Annual Health and Safety Policies Review",
+   "name": "",
+   "moved_by": "Vasic",
+   "seconded_by": "Roe",
+   "text": "1. That Council approve report CORP2023-035. 2. That Council approves the attached Respectful Workplace Policy and Program (H-002) and authorizes the Mayor and Chief Administrative Officer to sign the policy. 3. That Council approves the attached Workplace Violence Policy and Program (H-003) and authorizes the Mayor and Chief Administrative Officer to sign the policy. 4. That Council approves the attached Health and Safety Policy Statement (H-010) and authorizes the Mayor and Chief Administrative Officer to sign the policy.",
+   "text_html": "<p>1. That Council approve report CORP2023-035.</p><p>2. That Council approves the attached Respectful Workplace Policy and Program (H-002) and authorizes the Mayor and Chief Administrative Officer to sign the policy.</p><p>3. That Council approves the attached Workplace Violence Policy and Program (H-003) and authorizes the Mayor and Chief Administrative Officer to sign the policy.</p><p>4. That Council approves the attached Health and Safety Policy Statement (H-010) and authorizes the Mayor and Chief Administrative Officer to sign the policy.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "Administrative Monetary Penalty System",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve report COM2023-014. 2. That Council approve the General Administrative Penalty By-law. 3. That Council approve amendments to the Screening and Hearing Officer By-law and any other by-law necessary to define and implement the AMPS program. 4. That Council approve the revised AMPS Corporate Policies: • AMPS-001 - Preventing Political Interference in Relation to the Administration of the Administrative Monetary Penalty System (AMPS) • AMPS-002 - Conflict of Interest and Code of Conduct in Relation to the Administration of the Administrative Monetary Penalty System (AMPS) • AMPS-003 - Financial Management and Reporting for the Administrative Monetary Penalty System (AMPS) • AMPS-004 - Undue Hardship in Relation to the Administration of the Administrative Monetary Penalty System (AMPS) • AMPS-005 - Public Complaints Respecting the Administration of the Administrative Monetary Penalty System (AMPS) • AMPS-006 - Screening and Hearing Officer Policy 5. That Council direct staff to report any required budget adjustments as part of the 2024-2026 Operating Budget process.",
+   "text_html": "<p>1. That Council approve report COM2023-014.</p><p>2. That Council approve the General Administrative Penalty By-law.</p><p>3. That Council approve amendments to the Screening and Hearing Officer By-law and any other by-law necessary to define and implement the AMPS program.</p><p>4. That Council approve the revised AMPS Corporate Policies: • AMPS-001 - Preventing Political Interference in Relation to the Administration of the Administrative Monetary Penalty System (AMPS) • AMPS-002 - Conflict of Interest and Code of Conduct in Relation to the Administration of the Administrative Monetary Penalty System (AMPS) • AMPS-003 - Financial Management and Reporting for the Administrative Monetary Penalty System (AMPS) • AMPS-004 - Undue Hardship in Relation to the Administration of the Administrative Monetary Penalty System (AMPS) • AMPS-005 - Public Complaints Respecting the Administration of the Administrative Monetary Penalty System (AMPS) • AMPS-006 - Screening and Hearing Officer Policy</p><p>5. That Council direct staff to report any required budget adjustments as part of the 2024-2026 Operating Budget process.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Digital Services Strategy Implementation",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Roach",
+   "text": "1. That Council receive CORP2023-034 as information.",
+   "text_html": "<p>1. That Council receive CORP2023-034 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m9",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Freeman",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-036 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-036 By-law to amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2023-001, Council February 27, 2023) b) By-law 2023-037 A By-law to Amend By-law Number 09-047, being a By-law to Regulate Animals in the City of Waterloo (COM2023-018, Council June 12, 2023) c) By-law 2023-038 By-law to Establish an Administrative Penalty System for Violations of By-laws within the City of Waterloo (COM2023-014, Council June 12, 2023) d) By-law 2023-039 By-law to amend the City of Waterloo Screening and Hearing Officer By-law 2019- 011 (COM2023-014, Council June 12, 2023) e) By-law 2023-040 By-law to amend City of Waterloo By-law #2009-047 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) f) By-law 2023-041 By-law to amend City of Waterloo By-law #2018-026 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) g) By-law 2023-042 By-law to amend City of Waterloo By-law #2014-085 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) h) By-law 2023-043 By-law to amend City of Waterloo By-law #1998-092 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) i) By-law 2023-044 By-law to amend City of Waterloo By-law #2013-017 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) j) By-law 2023-045 By-law to amend City of Waterloo By-law #06-030 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) k) By-law 2023-046 By-law to amend City of Waterloo By-law #2010-094 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) l) By-law 2023-047 By-law to amend City of Waterloo By-law #2017-001 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) m) By-law 2023-048 By-law to amend City of Waterloo By-law #2014-054 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) n) By-law 2023-049 By-law to amend City of Waterloo By-law #2011-123 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) o) By-law 2023-050 By-law to amend City of Waterloo By-law #2010-073 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) p) By-law 2023-051 By-law to amend City of Waterloo By-law #2011-125 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) q) By-law 2023-052 By-law to amend City of Waterloo By-law #2011-124 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) r) By-law 2023-053 By-law to amend City of Waterloo By-law #2014-077 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) s) By-law 2023-054 By-law to amend City of Waterloo By-law #2013-018 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) t) By-law 2023-055 By-law to amend City of Waterloo By-law #2011-122 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) u) By-law 2023-056 By-law to amend City of Waterloo By-law #2011-047 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) v) By-law 2023-057 By-law to amend City of Waterloo By-law #2016-050 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) w) By-law 2023-058 By-law to amend City of Waterloo By-law #09-156 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) x) By-law 2023-059 By-law to amend City of Waterloo By-law #08-077 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) y) By-law 2023-060 By-law to amend City of Waterloo By-law #2014-078 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) z) By-law 2023-061 By-law to amend City of Waterloo By-law #2016-031 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) aa) By-law 2023-062 By-law to confirm all actions and proceedings of Council, June 12, 2023",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-036 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-036 By-law to amend No. 08-077, a By-law to Regulate Traffic and Parking on Highways under the Jurisdiction of the City of Waterloo (IPPW2023-001, Council February 27, 2023) b) By-law 2023-037 A By-law to Amend By-law Number 09-047, being a By-law to Regulate Animals in the City of Waterloo (COM2023-018, Council June 12, 2023) c) By-law 2023-038 By-law to Establish an Administrative Penalty System for Violations of By-laws within the City of Waterloo (COM2023-014, Council June 12, 2023) d) By-law 2023-039 By-law to amend the City of Waterloo Screening and Hearing Officer By-law 2019- 011 (COM2023-014, Council June 12, 2023) e) By-law 2023-040 By-law to amend City of Waterloo By-law #2009-047 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) f) By-law 2023-041 By-law to amend City of Waterloo By-law #2018-026 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) g) By-law 2023-042 By-law to amend City of Waterloo By-law #2014-085 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) h) By-law 2023-043 By-law to amend City of Waterloo By-law #1998-092 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) i) By-law 2023-044 By-law to amend City of Waterloo By-law #2013-017 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) j) By-law 2023-045 By-law to amend City of Waterloo By-law #06-030 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) k) By-law 2023-046 By-law to amend City of Waterloo By-law #2010-094 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) l) By-law 2023-047 By-law to amend City of Waterloo By-law #2017-001 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) m) By-law 2023-048 By-law to amend City of Waterloo By-law #2014-054 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) n) By-law 2023-049 By-law to amend City of Waterloo By-law #2011-123 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) o) By-law 2023-050 By-law to amend City of Waterloo By-law #2010-073 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) p) By-law 2023-051 By-law to amend City of Waterloo By-law #2011-125 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) q) By-law 2023-052 By-law to amend City of Waterloo By-law #2011-124 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) r) By-law 2023-053 By-law to amend City of Waterloo By-law #2014-077 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) s) By-law 2023-054 By-law to amend City of Waterloo By-law #2013-018 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) t) By-law 2023-055 By-law to amend City of Waterloo By-law #2011-122 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) u) By-law 2023-056 By-law to amend City of Waterloo By-law #2011-047 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) v) By-law 2023-057 By-law to amend City of Waterloo By-law #2016-050 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) w) By-law 2023-058 By-law to amend City of Waterloo By-law #09-156 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) x) By-law 2023-059 By-law to amend City of Waterloo By-law #08-077 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) y) By-law 2023-060 By-law to amend City of Waterloo By-law #2014-078 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) z) By-law 2023-061 By-law to amend City of Waterloo By-law #2016-031 to Provide for the Administrative Monetary Penalty System within the City of Waterloo (COM2023-014, Council June 12, 2023) aa) By-law 2023-062 By-law to confirm all actions and proceedings of Council, June 12, 2023</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m10",
+   "item": "12",
+   "item_number": "12",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Vasic",
+   "text": "That the meeting adjourn. (Time: 5:16 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 5:16 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 10
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Bodaly",
+   "event": "joined",
+   "text": "Councillor Bodaly joined the meeting. (Time: 4:15 p.m.)",
+   "page": 2
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 4:15 p.m.)",
+   "page": 2
+  },
+  {
+   "member": "Freeman",
+   "event": "joined",
+   "text": "Councillor Freeman joined the meeting. (Time: 4:15 p.m.)",
+   "page": 3
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

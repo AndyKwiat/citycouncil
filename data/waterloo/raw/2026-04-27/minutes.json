@@ -1,0 +1,627 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 7,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Roe",
+  "Wright",
+  "Vasic"
+ ],
+ "absent": [
+  "Vasic"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:01 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 3:43 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe provided Council with a moment of reflection.</p>",
+    "<p>Each year on April 28th we pause at 11:00 a.m. to remember workers who have died, were injured or became ill from their jobs. At the City of Waterloo, we honour the memory of Don Klassen, a Building Inspector, who passed from a work-related injury in 1990; Grant Bettke, a Fire Fighter who passed from work-related cancer in 2015; and Donald Schmitt, a Fire Fighter who passed from work-related cancer in 2025. We also take this time to reflect on all former and current City employees who have been, and continue to be, impacted by workplace injuries and illnesses. This day serves as an opportunity for all workers to collectively renew our commitment to improving health and safety, so we can prevent workplace injuries, illnesses, and fatalities.</p>",
+    "<p>Please join us in observing the Day of Mourning to remember those impacted by workplace tragedy and to re-commit to improving physical and psychological health and safety at the City. All flags at City facilities will be half-masted tomorrow from sunrise to sunset.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor McCabe opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we gather (land on which we are broadcasting from) today is the land traditionally cared for by the Haudenosaunee, Anishinaabe and Chonnontan People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share this land today.</p>",
+    "<p>5. MOMENT OF REFLECTION continued</p>",
+    "<p>Mayor McCabe provided Council with a further moment of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Presentations/delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "University of Waterloo",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Nick Manning, Associate Vice-President, Communications and Institutional Relations, University of Waterloo gave a presentation emphasizing the University’s strong partnership with the City, its role in creating jobs and innovation, and its success in attracting and retaining talent in the City of Waterloo. Nick Manning then responded to questions from Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion items (a) through (b) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Antenna Licence Agreement Amendment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>for Rogers Communications Service Centre</p>",
+    "<p>Report No.: COM2026-010</p>",
+    "<p>Prepared By: Liz Badley</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7b",
+   "number": "7b",
+   "title": "License Renewal Agreement- Button Factory",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: COM2026-011</p>",
+    "<p>Prepared By: Liz Badley</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "2026 Business Improvement Area Levy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2026-012</p>",
+    "<p>Prepared By: Mary Zubert</p>",
+    "<p>Jeyas Balaskanthan, Executive Director, Uptown Waterloo Business Improvement Area gave a presentation highlighting the strong growth in Uptown, including growth in events, business participation and local economic impact. He also emphasized Uptown’s continued expansion through new businesses, festivals and partnerships, focusing on safety, cleanliness and community vibrancy. He then responded to questions from Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Enova Shareholder Nominees",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2026-018</p>",
+    "<p>Prepared By: Julie Finley-Swaren</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Consideration of Notice of Motion Given at Previous Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "10a",
+   "number": "10a",
+   "title": "Councillor Roe – Heritage Helping Housing Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Motion tabled April 20, 2026 for Council consideration April 27, 2026.</p>",
+    "<p>Kae Elgie, Government and Community Relations Committee Member, Architectural Conservancy Ontario gave a presentation on proposed provincial grant programs to help convert heritage properties into affordable housing units, which would fund a portion of renovation costs for adaptive reuse projects. Kae Elgie then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 5
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 6
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, May 25, 2026</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 7
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Hanmer",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Drinking Water Infrastructure); b) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (Drinking Water Infrastructure); and, c) information explicitly supplied in confidence to the municipality or local board by Canada, a province or territory or a Crown agency of any of them (Drinking Water Infrastructure).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (Drinking Water Infrastructure); b) litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board (Drinking Water Infrastructure); and, c) information explicitly supplied in confidence to the municipality or local board by Canada, a province or territory or a Crown agency of any of them (Drinking Water Infrastructure).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "Antenna Licence Agreement Amendment",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report COM2026-010. 2. That Council approve the Antenna Licence Agreement Amendment for Rogers Communications at 265 Lexington Court, Waterloo, according to the Terms and Conditions as outlined in this report. 3. That the Mayor and Clerk be authorized to sign the Licence Agreement Amendment and any other necessary documents, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2026-010.</p><p>2. That Council approve the Antenna Licence Agreement Amendment for Rogers Communications at 265 Lexington Court, Waterloo, according to the Terms and Conditions as outlined in this report.</p><p>3. That the Mayor and Clerk be authorized to sign the Licence Agreement Amendment and any other necessary documents, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m3",
+   "item": "7b",
+   "item_number": "7b",
+   "item_title": "License Renewal Agreement- Button Factory",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Vasic",
+   "text": "1. That Council approve report COM2026-011. 2. That Council approve the License Agreement with the Button Factory Arts for the use of the Button Factory building, located at 25 Regina St, S, Waterloo. 3. That the Mayor and Clerk be authorized to sign the Licence Agreement and any other necessary documents, subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve report COM2026-011.</p><p>2. That Council approve the License Agreement with the Button Factory Arts for the use of the Button Factory building, located at 25 Regina St, S, Waterloo.</p><p>3. That the Mayor and Clerk be authorized to sign the Licence Agreement and any other necessary documents, subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "2026 Business Improvement Area Levy",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve Staff Report CORP2026-012. 2. That Council adopt the By-Law attached as Appendix A to this report for imposition of a Special Levy on the rateable properties prescribed within the Uptown Waterloo Business Improvement Area (BIA) Area Map Schedule “A”. 3. That Council approve the Uptown Waterloo BIA 2026 levy of $806,195 to fund the operating and capital costs of the Board of Management for Uptown Waterloo Business Improvement Area.",
+   "text_html": "<p>1. That Council approve Staff Report CORP2026-012.</p><p>2. That Council adopt the By-Law attached as Appendix A to this report for imposition of a Special Levy on the rateable properties prescribed within the Uptown Waterloo Business Improvement Area (BIA) Area Map Schedule “A”.</p><p>3. That Council approve the Uptown Waterloo BIA 2026 levy of $806,195 to fund the operating and capital costs of the Board of Management for Uptown Waterloo Business Improvement Area.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m5",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Enova Shareholder Nominees",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Hanmer",
+   "text": "1. That Staff Report CORP2026-018 be approved. 2. That Council approve the nomination of City of Waterloo independent directors on the Enova Energy Corporation Board to successive terms following the expiry of their initial terms with David Petras appointed until the Enova AGM 2028 and Tim Martin until the Enova AGM 2027.",
+   "text_html": "<p>1. That Staff Report CORP2026-018 be approved.</p><p>2. That Council approve the nomination of City of Waterloo independent directors on the Enova Energy Corporation Board to successive terms following the expiry of their initial terms with David Petras appointed until the Enova AGM 2028 and Tim Martin until the Enova AGM 2027.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "10a",
+   "item_number": "10a",
+   "item_title": "Councillor Roe – Heritage Helping Housing Motion",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Vasic",
+   "text": "WHEREAS Architectural Conservancy Ontario (ACO) is the province’s leading non-governmental organization dedicated to the conservation and reuse of Ontario’s built and cultural heritage; through education and advocacy ACO encourages the prevention and adaptive reuse of buildings and landscapes of architectural, historic and cultural significance; WHEREAS ACO has emphasized that strong heritage protections are compatible with and supportive of efforts to address Ontario’s housing crisis, particularly through the retention, rehabilitation and repurposing of older building for new residential uses; WHEREAS heritage buildings can help solve Ontario’s housing crisis by offering solutions that are affordable, equitable, sustainable and uniquely Canadian; including the repair and reuse of existing buildings which provides faster, cheaper and a more sustainable path to creating affordable housing and by enabling the delivery of homes faster than new construction while also supporting a stronger jobs market; WHEREAS older and heritage buildings represent an important and often underutilized opportunity to create additional housing units, provided that appropriate financial incentives exist to support renovation and code- compliance upgrades; WHEREAS ACO has proposed that the Province of Ontario implement a new housing-focused “Heritage Helping Housing Building Grant” of $10 million per year to encourage property owners and developers to rehabilitate and make adaptive reuse of heritage buildings that creates new housing units; WHEREAS such a provincial grant program would support municipal housing objectives, help revitalize main streets, encourage private investment, reduce demolition waste, and strengthen the economic and cultural vitality of Ontario communities; NOW THEREFORE BE IT RESOLVED that this Council request the Mayor send a letter to the Hon. Doug Ford, Premier of Ontario, with copies to the Minister of Municipal Affairs and Housing, The Hon. Rob Flack, the Minister of Finance, the Hon. Peter Bethlenfalvy, the Minister of Citizenship and Multiculturalism, the Hon. Graham McGregor and John Ecker, Chair, Ontario Heritage Trust, requesting that the Province of Ontario establish the Heritage Helping Housing Building Grant as proposed by the ACO, and that a copy of this resolution be circulated to local and area MPPs and heads of council.",
+   "text_html": "<p>WHEREAS Architectural Conservancy Ontario (ACO) is the province’s leading non-governmental organization dedicated to the conservation and reuse of Ontario’s built and cultural heritage; through education and advocacy ACO encourages the prevention and adaptive reuse of buildings and landscapes of architectural, historic and cultural significance; WHEREAS ACO has emphasized that strong heritage protections are compatible with and supportive of efforts to address Ontario’s housing crisis, particularly through the retention, rehabilitation and repurposing of older building for new residential uses; WHEREAS heritage buildings can help solve Ontario’s housing crisis by offering solutions that are affordable, equitable, sustainable and uniquely Canadian; including the repair and reuse of existing buildings which provides faster, cheaper and a more sustainable path to creating affordable housing and by enabling the delivery of homes faster than new construction while also supporting a stronger jobs market; WHEREAS older and heritage buildings represent an important and often underutilized opportunity to create additional housing units, provided that appropriate financial incentives exist to support renovation and code- compliance upgrades; WHEREAS ACO has proposed that the Province of Ontario implement a new housing-focused “Heritage Helping Housing Building Grant” of $10 million per year to encourage property owners and developers to rehabilitate and make adaptive reuse of heritage buildings that creates new housing units; WHEREAS such a provincial grant program would support municipal housing objectives, help revitalize main streets, encourage private investment, reduce demolition waste, and strengthen the economic and cultural vitality of Ontario communities; NOW THEREFORE BE IT RESOLVED that this Council request the Mayor send a letter to the Hon. Doug Ford, Premier of Ontario, with copies to the Minister of Municipal Affairs and Housing, The Hon. Rob Flack, the Minister of Finance, the Hon. Peter Bethlenfalvy, the Minister of Citizenship and Multiculturalism, the Hon. Graham McGregor and John Ecker, Chair, Ontario Heritage Trust, requesting that the Province of Ontario establish the Heritage Helping Housing Building Grant as proposed by the ACO, and that a copy of this resolution be circulated to local and area MPPs and heads of council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Freeman",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2026-030 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2026-030 By-law to Determine how the BIA Collects Levies from Properties within its Boundaries (CORP2026-012, Council April 27, 2026) b) By-law 2026-031 By-law to Amend the City of Waterloo Official Plan for 651, 655, 659 and 663 Erb St West and Regional Lands. (OPA 62, IPPW2026-012, Council March 23, 2026, Waterloo Commons JV Inc.) c) By-law 2026-032 By-law to amend By-law No. 2018-050, being a Zoning By-law controlling land use in the City of Waterloo for 651, 655, 659 and 663 Erb St West and Regional Lands. (Zoning By-law Amendment Z-24-21, IPPW2026-012, Council March 23, 2026, Waterloo Commons JV Inc.) d) By-law 2026-033 By-law to confirm all actions and proceedings of Council, April 27, 2026",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2026-030 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2026-030 By-law to Determine how the BIA Collects Levies from Properties within its Boundaries (CORP2026-012, Council April 27, 2026) b) By-law 2026-031 By-law to Amend the City of Waterloo Official Plan for 651, 655, 659 and 663 Erb St West and Regional Lands. (OPA 62, IPPW2026-012, Council March 23, 2026, Waterloo Commons JV Inc.) c) By-law 2026-032 By-law to amend By-law No. 2018-050, being a Zoning By-law controlling land use in the City of Waterloo for 651, 655, 659 and 663 Erb St West and Regional Lands. (Zoning By-law Amendment Z-24-21, IPPW2026-012, Council March 23, 2026, Waterloo Commons JV Inc.) d) By-law 2026-033 By-law to confirm all actions and proceedings of Council, April 27, 2026</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m8",
+   "item": "12",
+   "item_number": "12",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roach",
+   "text": "That the meeting adjourn. (Time: 4:38 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 4:38 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 3:46 p.m.)",
+   "page": 2
+  },
+  {
+   "member": "Vasic",
+   "event": "left",
+   "text": "Councillor Vasic left the meeting. (Time: 4:25 p.m.)",
+   "page": 5
+  },
+  {
+   "member": "Vasic",
+   "event": "joined",
+   "text": "Councillor Vasic joined the meeting. (Time: 4:26 p.m.)",
+   "page": 5
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

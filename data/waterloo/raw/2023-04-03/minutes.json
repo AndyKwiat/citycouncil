@@ -1,0 +1,732 @@
+{
+ "title": "Council Meeting",
+ "source_format": "pdf",
+ "pages": 7,
+ "roster": [
+  "Mayor McCabe",
+  "Hanmer",
+  "Bodaly",
+  "Roach",
+  "Freeman",
+  "Vasic",
+  "Roe",
+  "Wright"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>No disclosure of pecuniary interest was declared by any member of Council at this point in the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Closed Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Council meeting recessed: (Time: 2:01 p.m.)</p>",
+    "<p>Council meeting reconvened: (Time: 6:30 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Freeman declared a conflict with respect to item 10a) due to a conflict of interest as it relates to place of employment.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Territorial Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Vasic opened the meeting with the following Territorial Acknowledgement:</p>",
+    "<p>We would like to begin by acknowledging that the land on which we are gathering from today is the land traditionally cared for by the Haudenosaunee, Anishnaabe and Neutral People. We also acknowledge the enduring presence and deep traditional knowledge and philosophies of the Indigenous People with whom we share their land today.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Moment of Reflection",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Vasic provided Council with moments of reflection.</p>",
+    "<p>At the beginning of this Council meeting, we pause to think about the needs of our community. May we show wisdom and compassion in all our decisions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5a",
+   "number": "5a",
+   "title": "I wanted to recognize that last Friday was Trans Day of Visibility and also",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>World Indigenous Languages Day. As a Council, I think we recognize the devastating, systemic reasons behind why these days exist and how much better we all are when we recognize the strengths and contributions of these communities to our society.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5b",
+   "number": "5b",
+   "title": "Canada is home to one of the largest Sikh diasporas in the world, we",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>recognize this significance through Sikh Heritage Month in April each year.</p>",
+    "<p>This month is an important opportunity for us to celebrate the many economic, political, social and cultural contributions of Sikhs in our community and across the country.</p>",
+    "<p>Later this month, on April 14, our Sikh neighbours will celebrate Vaisakhi.</p>",
+    "<p>Communities and families will come together to celebrate faith, heritage and culture with services at the Gurdwara, shared meals, music and dancing.</p>",
+    "<p>This month is an opportunity to reaffirm our commitment to equality, inclusivity and generosity, learning from our neighbours about how to live out these important values. Our city is enriched by the presence and contributions of Sikhs. We strive to be a community that fully embraces and celebrates Sikh contributions.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Approval of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That the previous meeting minutes be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "6a",
+   "number": "6a",
+   "title": "March 6, 2023 – Council Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>That consent motion item (a) be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7a",
+   "number": "7a",
+   "title": "Dog Designation Appeal Committee",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Appointment</p>",
+    "<p>Report No.: CORP2023-019</p>",
+    "<p>Prepared By: Kevin Gerlach</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Items Removed From the Consent Motion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Staff Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9a",
+   "number": "9a",
+   "title": "2023-2026 Strategic Plan – Draft Scan Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CAO2023-015</p>",
+    "<p>Prepared By: Sandy Little</p>",
+    "<p>Sandy Little gave a presentation outlining the results of the scan and engagement completed from November 2022-February 2023. Some of the themes that appeared in the scan include climate change, transportation, recreation, housing, and reconciliation.</p>",
+    "<p>The key findings from the Engage Waterloo surveys included being walkable and accessible, affordable housing, and public transit and pedestrian infrastructure. These findings were reflected in the Community Engagement Workshops.</p>",
+    "<p>Sandy Little detailed the recent and next steps for the Strategic Planning process, including the public skate that occurred on the weekend, and the draft Strategic Plan coming out on May 8th. She then responded to questions of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9b",
+   "number": "9b",
+   "title": "Microsoft Enterprise Enrollment Agreement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report No.: CORP2023-014</p>",
+    "<p>Prepared By: Teresa Soulliere</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "9c",
+   "number": "9c",
+   "title": "Waterloo City Centre – Lease Renewal",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>with Catherine Fife, Member of Provincial</p>",
+    "<p>Parliament</p>",
+    "<p>Report No.: COM2023-008</p>",
+    "<p>Prepared By: Liz Badley</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Public Meetings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Formal Public Meeting</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "10a",
+   "number": "10a",
+   "title": "Zoning By-law Amendment Z-23-02,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Waterloo Infant Toddler Daycare</p>",
+    "<p>Association, 372 Erb Street West</p>",
+    "<p>Report No.: IPPW2023-017</p>",
+    "<p>Prepared By: John Vos</p>",
+    "<p>Ward No.: Ward 6 – Central-Columbia</p>",
+    "<p>(Time: 7:16 p.m.)</p>",
+    "<p>John Vos gave a brief presentation outlining the application, including the existing zoning, the proposed development, and the zoning amendment requested. He then responded to questions of Council.</p>",
+    "<p>Trevor Hawkins, Partner, MHBC Planning gave a presentation further detailing the proposed application. He then responded to questions of Council.</p>",
+    "<p>As no one else was present to speak to the application, the Chair concluded the Formal Public Meeting and advised the application is now open to Council for a motion and debate.</p>",
+    "<p>Councillor Freeman having previously declared a pecuniary interest was absent for the taking of the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "New Business",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Hanmer wanted to shout out the Home and Neighbourhood Associations in Ward 1 for the Easter Bunny Hunts they held this past weekend.</p>",
+    "<p>Councillor Bodaly mentioned that the Clair Hills Community Association held its first event post-COVID with a free skate at Albert McCormick on Sunday, April 2nd. He is also looking forward to upcoming Easter egg hunts this coming weekend.</p>",
+    "<p>Mayor McCabe attended the KW Skating Club’s Ice Show on Saturday April 1st and wanted to give a shout out to volunteers who help run that. As well, she wanted to shout out staff at the WMRC for their hard work changing the ice over from the ice show Saturday, to the Siskins hockey game on Sunday.</p>",
+    "<p>Councillor Vasic and Councillor Roe discussed the Elmira Maple Syrup Festival that occurred on April 1st, and how great it was to see the community out at an event.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Enactment of By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 6
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>READ AND APPROVED, May 8, 2023</p>",
+    "<p>Mayor</p>",
+    "<p>City Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 7
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Closed Meeting",
+   "name": "",
+   "moved_by": "Wright",
+   "seconded_by": "Bodaly",
+   "text": "That Council hold a closed meeting for the purposes of considering the following subject matter: a) personal matters about an identifiable individual, including municipal or local board employees (Council Committees appointments, WPFFA); b) a proposed or pending acquisition or disposition of land by the municipality or local board (potential disposition of land); c) a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board (potential disposition of land); d) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (potential disposition of land); and, e) labour relations or employee negotiations (WPFFA).",
+   "text_html": "<p>That Council hold a closed meeting for the purposes of considering the following subject matter: a) personal matters about an identifiable individual, including municipal or local board employees (Council Committees appointments, WPFFA); b) a proposed or pending acquisition or disposition of land by the municipality or local board (potential disposition of land); c) a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board (potential disposition of land); d) advice that is subject to solicitor-client privilege, including communications necessary for that purpose (potential disposition of land); and, e) labour relations or employee negotiations (WPFFA).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6a",
+   "item_number": "6a",
+   "item_title": "March 6, 2023 – Council Meeting",
+   "name": "",
+   "moved_by": "Hanmer",
+   "seconded_by": "Freeman",
+   "text": "That the minutes of the Council meeting held on March 6, 2023 be approved as printed.",
+   "text_html": "<p>That the minutes of the Council meeting held on March 6, 2023 be approved as printed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m3",
+   "item": "7a",
+   "item_number": "7a",
+   "item_title": "Dog Designation Appeal Committee",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Hanmer",
+   "text": "1. That staff report CORP2023-019 be approved. 2. That Council enact the appropriate by-law to appoint Christopher Mallick to the Dog Designation Appeal Committee.",
+   "text_html": "<p>1. That staff report CORP2023-019 be approved.</p><p>2. That Council enact the appropriate by-law to appoint Christopher Mallick to the Dog Designation Appeal Committee.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "9a",
+   "item_number": "9a",
+   "item_title": "2023-2026 Strategic Plan – Draft Scan Report",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "McCabe",
+   "text": "1. That Council receives CAO2023-015 as information.",
+   "text_html": "<p>1. That Council receives CAO2023-015 as information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m5",
+   "item": "9b",
+   "item_number": "9b",
+   "item_title": "Microsoft Enterprise Enrollment Agreement",
+   "name": "",
+   "moved_by": "Freeman",
+   "seconded_by": "Hanmer",
+   "text": "1. That Council approve staff report CORP2023-014. 2. That Council approve entering into a new three year agreement between Microsoft, CDW Canada and the City of Waterloo for the provision of the Enterprise Enrollment Agreement. 3. That Council authorize the Mayor and City Clerk to sign the Microsoft Enterprise Enrollment Agreement and any related documents subject to the satisfaction of the City Solicitor.",
+   "text_html": "<p>1. That Council approve staff report CORP2023-014.</p><p>2. That Council approve entering into a new three year agreement between Microsoft, CDW Canada and the City of Waterloo for the provision of the Enterprise Enrollment Agreement.</p><p>3. That Council authorize the Mayor and City Clerk to sign the Microsoft Enterprise Enrollment Agreement and any related documents subject to the satisfaction of the City Solicitor.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "9c",
+   "item_number": "9c",
+   "item_title": "Waterloo City Centre – Lease Renewal",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Freeman",
+   "text": "1. That Council approve report COM2023-008 2. That Council approve the Lease Renewal with Catherine Fife, Member of Provincial Parliament for space at the Waterloo City Centre according to the terms and conditions as outlined in report 3. That the Mayor and Clerk be authorized to sign the necessary documents.",
+   "text_html": "<p>1. That Council approve report COM2023-008</p><p>2. That Council approve the Lease Renewal with Catherine Fife, Member of Provincial Parliament for space at the Waterloo City Centre according to the terms and conditions as outlined in report</p><p>3. That the Mayor and Clerk be authorized to sign the necessary documents.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 8,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Freeman",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "10a",
+   "item_number": "10a",
+   "item_title": "Zoning By-law Amendment Z-23-02,",
+   "name": "",
+   "moved_by": "Roe",
+   "seconded_by": "Roach",
+   "text": "1. That Council approve staff report IPPW2023-017. 2. That Council approve Zoning By-law Amendment Z-23-02, Waterloo Infant Toddler Daycare Association, 372 Erb Street West in accordance with Section 7 of staff report IPPW2023-017.",
+   "text_html": "<p>1. That Council approve staff report IPPW2023-017.</p><p>2. That Council approve Zoning By-law Amendment Z-23-02, Waterloo Infant Toddler Daycare Association, 372 Erb Street West in accordance with Section 7 of staff report IPPW2023-017.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "12",
+   "item_number": "12",
+   "item_title": "Enactment of By-laws",
+   "name": "",
+   "moved_by": "McCabe",
+   "seconded_by": "Roe",
+   "text": "That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-019 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-019 By-law to amend By-law 2023-004 to provide for the Appointment of Community Representatives of The City of Waterloo on Various Committees for the Term Ending November 14, 2024 (CORP2023-019, Council April 3, 2023) b) By-law 2023-020 By-law Establishing Public Highways in The City of Waterloo known as Ladyslipper Drive, Mayapple Street, Autumn Willow Drive, Balsam Poplar Street and Canada Plum Street (DS-06- 16, July 17, 2006) c) By-law 2023-021 By-law to confirm all actions and proceedings of Council, April 3, 2023",
+   "text_html": "<p>That the By-laws listed below be read a first, second and third time and finally passed, numbered sequentially commencing with By-law Number 2023-019 and that the Mayor and Clerk be authorized to sign them accordingly. a) By-law 2023-019 By-law to amend By-law 2023-004 to provide for the Appointment of Community Representatives of The City of Waterloo on Various Committees for the Term Ending November 14, 2024 (CORP2023-019, Council April 3, 2023) b) By-law 2023-020 By-law Establishing Public Highways in The City of Waterloo known as Ladyslipper Drive, Mayapple Street, Autumn Willow Drive, Balsam Poplar Street and Canada Plum Street (DS-06- 16, July 17, 2006) c) By-law 2023-021 By-law to confirm all actions and proceedings of Council, April 3, 2023</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Bodaly",
+   "seconded_by": "Roe",
+   "text": "That the meeting adjourn. (Time: 7:36 p.m.)",
+   "text_html": "<p>That the meeting adjourn. (Time: 7:36 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried Unanimously",
+    "label": "Carried unanimously",
+    "for": 7,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": true
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unanimous",
+   "for_inferred": false,
+   "requested_recorded_vote": false,
+   "present": [
+    "Bodaly",
+    "Hanmer",
+    "Mayor McCabe",
+    "Roach",
+    "Roe",
+    "Vasic",
+    "Wright"
+   ],
+   "page": 7
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Freeman",
+   "item_number": "10a",
+   "text": ""
+  }
+ ],
+ "attendance_events": [
+  {
+   "member": "Freeman",
+   "event": "left",
+   "text": "Having previously declared a pecuniary interest, Councillor Freeman left the meeting.",
+   "page": 5
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}
