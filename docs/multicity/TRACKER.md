@@ -50,17 +50,17 @@ summarized and so on); this file tracks *build* progress.
 | Stage | Kitchener | Region of Waterloo | Waterloo | Centre Wellington |
 |---|---|---|---|---|
 | Sources documented (`SOURCES.md`) | done | done | done | done |
-| `city.json` and theme photo | todo | todo | todo | todo |
-| Adapter: meeting list | todo (eSCRIBE) | todo (eSCRIBE) | todo (GovStack) | todo (CivicWeb) |
-| Adapter: documents | todo | todo | todo | todo |
-| Adapter: minutes parse and audit, with fixtures | todo | todo | todo (PDF) | todo (PDF) |
-| Video and transcripts | todo (Whisper) | todo (ISI captions) | todo (YouTube) | todo (YouTube) |
-| Backfill from 2022-11-15: documents and parse | todo | todo | todo | todo |
-| Backfill: transcripts | todo | todo | todo | todo |
-| Backfill: summaries (council meetings) | todo | todo | todo | todo |
-| Backfill: summaries (committees) | todo | todo | todo | todo |
-| Zero unexplained vote problems | todo | todo | todo | todo |
-| Councillors page (full or recorded-votes page) | todo | todo | todo | todo |
+| `city.json` and theme photo | done (K1) | done (R2) | done (W1) | done (C1) |
+| Adapter: meeting list | done (eSCRIBE, month by month) | done (eSCRIBE) | done (GovStack form POST) | done (CivicWeb portal + JSON) |
+| Adapter: documents | done | doing (fetch running) | done | done |
+| Adapter: minutes parse and audit, with fixtures | done; prose votes parsed (43) | done; ballots skipped; tally-only before Aug 2023 are notes | done (PDF); yes side from attendance only when it matches the tally | done (PDF) |
+| Video and transcripts | Whisper running (names matched to roster) | ISI captions, todo | YouTube captions, code done | YouTube captions, code done |
+| Backfill from 2022-11-15: documents and parse | done (288 minutes) | done (250 minutes) | done (109) | done (98) |
+| Backfill: transcripts | doing (council first) | todo | todo | todo |
+| Backfill: summaries (council meetings) | doing | todo | todo | todo |
+| Backfill: summaries (committees) | todo | todo | n/a (none in term) | todo |
+| Zero unexplained vote problems | done (0; 1 meeting explained) | done (0; 1 explained, 13 tally-only notes) | done (0; 4 notes) | done (0) |
+| Councillors page (full or recorded-votes page) | full (81 split votes) | full (465) | full (60) | recorded-votes page (12) |
 | Sub-site live | todo | todo | todo | todo |
 | In search and on the landing page | todo | todo | todo | todo |
 | Included in nightly update | todo | todo | todo | todo |
@@ -85,16 +85,22 @@ summarized and so on); this file tracks *build* progress.
 
 | Task | Status |
 |---|---|
-| `pipeline.py update --city all` with publish gates | todo |
-| Minutes re-check window (90 days, source hashes) | todo |
-| Lock shared with the admin job queue | todo |
-| `update_report.json` and notification | todo |
-| Admin panel: council switcher and coverage table | todo |
-| `launchd` agent plus `caffeinate`; one week of manual runs first | todo |
+| `pipeline.py update --city all` with publish gates | done (`pipeline.py update [--publish]`; vote problems hold a meeting back; failing tests block deploys) |
+| Minutes re-check window (90 days, source hashes) | done |
+| Lock shared with the admin job queue | partial: the update has its own lock; the panel's queue doesn't take it yet |
+| `update_report.json` and notification | done (macOS notification) |
+| Admin panel: council switcher and coverage table | done |
+| `launchd` agent plus `caffeinate`; one week of manual runs first | waiting: `tools/launchd/ca.cityhallvotes.update.plist` written, not loaded (turning on a schedule is the user's call) |
 
 ## Log
 
 Newest first. One line per notable event: what changed, what broke, what was decided.
+
+- 2026-11-09: Decision (extends D4): Waterloo split votes name only dissenters; the yes side is everyone present minus dissenters and declared conflicts, used only when it equals the minutes' tally (54 of 60). Otherwise only the dissenters are listed. "Carried Unanimously" keeps who was present but invents no individual votes.
+- 2026-11-09: Decision: Region splits before Aug 2023 that the minutes give only as counts are notes, not problems (`names_recorded_from`). One-off oddities go in `cities/<slug>/explained.json`.
+- 2026-11-09: Decision: Kitchener's Whisper names are matched to the roster after transcription (the prompt covers only the first 30 s); "Onitis"-style misses stay as heard rather than guessed.
+- 2026-11-09: Phases 2-4 parsers done: Kitchener 288, Region 250, Waterloo 109, Centre Wellington 98 minutes, all with 0 unexplained vote problems. Data seeded from the Phase 0 caches.
+- 2026-11-09: Phase 6 code done: `pipeline.py update`, publish gate, admin council switcher and coverage. launchd file written, not loaded.
 
 - 2026-11-09: Deployed front end and search API; first 22 Guelph committee/other summaries live. Councillors page now has All / Council only / Committees only (64 / 57 / 7 meetings).
 
