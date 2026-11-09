@@ -1,0 +1,160 @@
+{
+ "title": "Committee of the Whole",
+ "source_format": "pdf",
+ "pages": 2,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Workshop - Councillor 101",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Members of Council were provided with iPads and training on iCompass, the electronic agenda software.</p>",
+    "<p>Kerri O&#x27;Kane, Municipal Clerk and Lisa Miller, Deputy Municipal Clerk provided an overview of the procedure by-law and parliamentary procedures, common terminology, community delegations, the flow of information between Members of Council, the public and staff and how to file service requests and by-law enforcement complaints.</p>",
+    "<p>Staff from Legislative Services and the Senior Management Team participated in a Mock Council meeting.</p>",
+    "<p>Members of Council and staff recessed for lunch.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "New Council Orientation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>John Mascarin, Aird &amp; Berlis provided new Council orientation that included the following subject matter:</p>",
+    "<p>- Roles and Responsibilities</p>",
+    "<p>- Council/Head of Council/Councillor</p>",
+    "<p>- Administrative Staff</p>",
+    "<p>- Municipal Powers</p>",
+    "<p>- Procedure By-law</p>",
+    "<p>- By-laws and Resolutions</p>",
+    "<p>- Meetings</p>",
+    "<p>- Municipal Accountability</p>",
+    "<p>- Municipal Conflict of Interest</p>",
+    "<p>- Municipal Freedom of Information &amp; Protection of Privacy Act - Bias</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the meeting be adjourned.",
+   "text_html": "<p>THAT the meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

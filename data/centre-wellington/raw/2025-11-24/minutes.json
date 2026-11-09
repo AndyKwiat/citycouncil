@@ -1,0 +1,845 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 9,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor MacDonald read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>Councillor Jefferson indicated, in the past, she has declared a conflict of interest regarding the parking strategy, however, given the report on the agenda is for information purposes and specific to paid parking in Elora she will not be declaring a conflict.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "County Council Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Mary Lloyd provided an update regarding the ongoing activities at the Wellington County Museum, the progress on the creation of new daycare opportunities, changes to the solid waste and recycling program and the delay to the reopening of the Elora Transfer station, and the renewed commitment to physician recruitment.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.2",
+   "number": "5.2",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Members of Council provided updates on the ongoing initiatives of the Elora BIA and the Senior’s Centre.</p>",
+    "<p>Mayor Watters indicated he would have a report at the next meeting regarding the Province’s proposal to amalgamate the 26 conservation authorities.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated Consent Agenda Items are considered routine in nature and are voted on collectively. He noted any Member of Council may request one or more items be removed from the Consent Agenda for separate discussion and/or action.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "Approval and Receipt of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>THAT the Council of the Township of Centre Wellington approve the minutes of the Committee of the Whole meeting held October 29, 2025, the Council meeting held June 16, 2025, the Healthy Communities Advisory Committee meeting held October 1, 2025 and the Diversity, Equity &amp; Inclusion Advisory Committee meeting held October 2, 2025.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7.2",
+   "number": "7.2",
+   "title": "Designation By-law - 219 Farley Road, Fergus",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Maiden, Senior Development Planner</p>",
+    "<p>THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 219 Farley Road, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law be given three readings.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7.3",
+   "number": "7.3",
+   "title": "Designation By-law - 298 Union Street E., Fergus",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Maiden, Senior Development Planner</p>",
+    "<p>THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 298 Union Street East, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law be given three readings.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7.4",
+   "number": "7.4",
+   "title": "Designation By-law - Melville United Church, 300 St. Andrew Street",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>West, Fergus</p>",
+    "<p>Report from D. Maiden, Senior Development Planner</p>",
+    "<p>THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 300 St. Andrew Street West, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law be given three readings.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7.5",
+   "number": "7.5",
+   "title": "Intent to Demolish - Listed Property, 511 James Street, Salem",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Maiden, Senior Development Planner</p>",
+    "<p>THAT the Council of the Township of Centre Wellington approves the demolition request for a 1.5 storey dwelling and accessory structure, at the listed property known as 511 James Street, Salem, in the Township of Centre Wellington;</p>",
+    "<p>AND THAT the owner provide to Heritage Centre Wellington complete photo documentation of the entire structure prior to its demolition and be encouraged to salvage for re-use as much material as possible in order to divert it from landfill.</p>",
+    "<p>AND THAT the property be removed from the Municipal Heritage Register.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7.6",
+   "number": "7.6",
+   "title": "Appointments to the Elora Business Improvement Area Board of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Management</p>",
+    "<p>Report from K. O&#x27;Kane, Manager of Legislative Services &amp; Municipal Clerk</p>",
+    "<p>THAT the Council of the Township of Centre Wellington confirm the appointments of the following members to the Board of Management for the Elora Business Improvement Area (BIA):</p>",
+    "<p>Maclean Hann, President</p>",
+    "<p>John Laurencic, Secretary-Treasurer</p>",
+    "<p>Aileen Jenkins, Vice-President</p>",
+    "<p>Teal Parkinson</p>",
+    "<p>Laura Demers</p>",
+    "<p>Jim Muzyka</p>",
+    "<p>Councillor Kim Jefferson</p>",
+    "<p>AND THAT the Mayor and Clerk execute a By-law to reflect the new executive to the Board of Management for the Elora Business Improvement Areas, pursuant to s. 204(2) of the Municipal Act 2001, as amended;</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7.7",
+   "number": "7.7",
+   "title": "Part Lot Control Exemption By-Law, Block 19 & Part Blocks 16, 21,22,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Registered Plan 61M-227</p>",
+    "<p>Report from C. Perez, Planning Technician</p>",
+    "<p>THAT the Council of the Township of Centre Wellington approves application EX001-2025 and gives three reading to a By-law to exempt Block 19 and Part of Blocks 16, 21, 22 of Registered Plan 61M-227 from the Part Lot Control provisions of the Planning Act.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "7.8",
+   "number": "7.8",
+   "title": "Capital Project Status - September 30, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Osburn, Supervisor of Accounting and Capital</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "7.9",
+   "number": "7.9",
+   "title": "Operating Results - September 30, 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Bradey, Manager of Finance &amp; Deputy Treasurer Councillor Wilton questioned the future use of the building at 219 Farley Road, Fergus. In response, Brett Salmon, Managing Director of Planning and Development indicated the zoning allows for mixed uses to permit a wide range of potential uses.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Transit Feasibility Study - Progress Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from C. Baker, Managing Director of Infrastructure Services C. Baker, Managing Director of Infrastructure Services introduced Dennis Kar from Dillon Consulting and provided highlights of recent consultation activities.</p>",
+    "<p>Dennis Kar indicated the Township has commenced a Transit Feasibility Study (TFS) to identify a preferred transit solution that considers population and employment growth in the Township to the 2051 timeframe. He outlined the study objectives, the community engagement conducted to date, a progress report and the next steps in the project.</p>",
+    "<p>D. Kar responded to questions regarding the on-demand services and alignment with local services, opportunities to integrate with existing services such as Ride Well, phase II of the community engagement, expansion of the shuttle program, and future funding opportunities.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "2025 Water and Wastewater Rate Study and Financial Plans",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Wilson, Chief Administrative Officer</p>",
+    "<p>D. Wilson, Chief Administrative Officer introduced Daryl Abs, Managing Partner, Watson &amp; Associates Economists Ltd.</p>",
+    "<p>Daryl Abs, Managing Partner, Watson &amp; Associates Economists Ltd., provided an overview of the report and outlined the following recommendations:</p>",
+    "<p>· Minor increases to other rates (base charges, sprinkler systems, bulk water, etc.);</p>",
+    "<p>· Removing water and wastewater connection charges as of 2026; and · Requiring properties to connect to both water and wastewater systems.</p>",
+    "<p>Volume Rates</p>",
+    "<p>· Water Rates - 3.0% annual increase</p>",
+    "<p>· Wastewater Rates - 2.0% annual increase</p>",
+    "<p>· Blended Rate - 2.5% annual increase</p>",
+    "<p>Daryl Abs and Colin Baker responded to questions regarding requiring properties to connect to both water and wastewater systems, the ground water collection system in some neighbourhoods, and provided clarification regarding water rates average of 2% and sprinkler rates of 3%.</p>",
+    "<p>Councillor MacDonald requested consideration to reducing the wastewater rates from 2% to 1%.</p>",
+    "<p>Mayor Watters indicated there would be an opportunity during the budget deliberations to consider a reduction in the wastewater rates.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "Community Engagement Charter and Strategy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Martin, Manager of Strategic Initiatives and Communications</p>",
+    "<p>K. Martin, Manager of Strategic Initiatives and Communications provided an overview of the report and introduced Tannis Topolnisky, Topent Ltd.</p>",
+    "<p>T. Topolnisky provided an outline of the project deliverables, including the Community Engagement Charter and Strategy, the action plan, the staff toolkit and templates. She outlined the engagement overview and the next steps in the process.</p>",
+    "<p>T. Topolnisky responded to questions regarding utilization of the feedback received rom the various advisory committees, mechanisms on providing follow up on the engagement, the use of exit surveys to gauge the engagement process, and staff time required to incorporate engagement into projects.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8.4",
+   "number": "8.4",
+   "title": "2026 Draft Budget Debt Requirements and Capacity",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report and responded to questions regarding consideration for future transportation costs, and assumptions built in related to the Multi-use Recreational Facility.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.5",
+   "number": "8.5",
+   "title": "Paid Parking Program Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report and responded to questions.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 7
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "2025-74 A By-law to appoint Members to the Board of Management of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>the Elora Business Improvement Area Pursuant to s.204(3) of the Municipal Act, as amended and to Repeal By-law 2025-52</p>",
+    "<p>2025-75 A By-law to exempt Block 19 and Part of Blocks 16, 21, 22 of Registered Plan 61M-227 from the Part Lot Control provisions of the Planning Act.</p>",
+    "<p>2025-76 A By-law to designate the property municipally known as 300 St. Andrew Street West, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act</p>",
+    "<p>2025-77 A By-law to designate the property municipally known as 298 Union Street East, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act</p>",
+    "<p>2025-78 A By-law to designate the property municipally known as 219 Farley Road, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 7
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 8
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 9
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "7",
+   "item_title": "Consent Items",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.9.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.9.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "Transit Feasibility Study - Progress Report",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington receive for information a progress report on the Transit Feasibility Study.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive for information a progress report on the Transit Feasibility Study.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m3",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "2025 Water and Wastewater Rate Study and Financial Plans",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington approve the 2025 Water and Wastewater Rate Study prepared by Watson & Associates Economists Ltd; AND THAT the proposed water and wastewater rates be incorporated into future draft budgets for consideration; AND THAT the Council of the Township of Centre Wellington approve the 2025 Water and Wastewater Financial Plans prepared by Watson & Associates Economists Ltd; AND THAT the Water and Wastewater Financial Plans be submitted to the Ministry of the Environment, Conservation, and Parks.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the 2025 Water and Wastewater Rate Study prepared by Watson &amp; Associates Economists Ltd; AND THAT the proposed water and wastewater rates be incorporated into future draft budgets for consideration; AND THAT the Council of the Township of Centre Wellington approve the 2025 Water and Wastewater Financial Plans prepared by Watson &amp; Associates Economists Ltd; AND THAT the Water and Wastewater Financial Plans be submitted to the Ministry of the Environment, Conservation, and Parks.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m4",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "Community Engagement Charter and Strategy",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington receive report CAO2025-22, Community Engagement Charter and Strategy for information. AND THAT Council directs staff to receive community feedback on the draft strategy through Connect CW, and return to Council at the December 15, 2025, meeting with the Final Report for Council’s consideration.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report CAO2025-22, Community Engagement Charter and Strategy for information. AND THAT Council directs staff to receive community feedback on the draft strategy through Connect CW, and return to Council at the December 15, 2025, meeting with the Final Report for Council’s consideration.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m5",
+   "item": "8.4",
+   "item_number": "8.4",
+   "item_title": "2026 Draft Budget Debt Requirements and Capacity",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington approve the inclusion of the 2026 Draft Budget Debt Requirements and Capacity as outlined in report COR2025-67 dated November 24, 2025 in the 2026 Staff Draft Budget.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the inclusion of the 2026 Draft Budget Debt Requirements and Capacity as outlined in report COR2025-67 dated November 24, 2025 in the 2026 Staff Draft Budget.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m6",
+   "item": "8.5",
+   "item_number": "8.5",
+   "item_title": "Paid Parking Program Update",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington receive report COR2025-72 for information.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report COR2025-72 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m7",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2025-74 A By-law to appoint Members to the Board of Management of",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Wilton",
+   "text": "THAT By-laws 2025-74 through/and 2025-78 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2025-74 through/and 2025-78 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m8",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-law 2025-79 to Confirm the Proceedings of Council at its meeting held November 24, 2025 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2025-79 to Confirm the Proceedings of Council at its meeting held November 24, 2025 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m9",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Craddock",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

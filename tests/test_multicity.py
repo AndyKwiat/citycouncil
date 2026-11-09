@@ -250,6 +250,56 @@ class Waterloo(unittest.TestCase):
         self.assertEqual(sorted(titles, key=youtube.order_key), titles[::-1])
 
 
+CW_TEXT = """PRESENT: Mayor Shawn Watters
+Councillor Lisa MacDonald
+Councillor Barbara Lustgarten-Evoy
+Councillor Bronwynne Wilton
+REGRETS: Councillor Denis Craddock
+STAFF: Chief Administrative Officer, Dan Wilson
+1. Call to Order
+Mayor Watters called the meeting to order.
+2. Consent Items
+Moved by Councillor Bronwynne Wilton, Seconded by Councillor Lisa
+MacDonald.
+THAT the Council approve consent agenda items 2.1 through 2.2.
+2.1
+THAT the minutes be approved.
+2.2 Appointments
+THAT the following be appointed:
+1. Jane Doe
+CARRIED
+3. Zoning
+Councillor Wilton requested a recorded vote.
+3.1 Moved by Councillor Barbara Lustgarten-Evoy, Seconded by Councillor
+Lisa MacDonald.
+THAT the zoning amendment be approved.
+CARRIED
+Mayor Shawn Watters For
+Councillor Lisa MacDonald For
+Councillor Barbara Lustgarten- For
+Evoy
+Councillor Wilton Against
+"""
+
+
+class CentreWellington(unittest.TestCase):
+    def test_pdf_minutes(self):
+        from sources import civicweb
+        c = cities.load("centre-wellington")
+        with tempfile.TemporaryDirectory() as tmp, contextlib.redirect_stdout(io.StringIO()):
+            d = pathlib.Path(tmp)
+            (d / "minutes.txt").write_text("".join(f"1\t{l}\n" for l in CW_TEXT.splitlines()))
+            p.write_json(d / "meeting.json", {"term": "2022-2026"})
+            out = civicweb.parse_minutes(c, d)
+        self.assertEqual(out["roster"], ["Mayor Watters", "MacDonald", "Lustgarten-Evoy", "Wilton", "Craddock"])
+        consent, zoning = out["motions"]
+        self.assertIn("THAT the following be appointed", consent["text"])  # sub-items stay inside the consent motion
+        self.assertEqual((consent["moved_by"], consent["seconded_by"], consent["recording"]), ("Wilton", "MacDonald", "unrecorded"))
+        self.assertEqual((zoning["item_number"], zoning["result"]["label"], zoning["votes"]["for"], zoning["votes"]["against"]),
+                         ("3.1", "3-1", ["Mayor Watters", "MacDonald", "Lustgarten-Evoy"], ["Wilton"]))
+        self.assertEqual(out["vote_problems"], [])
+
+
 class Cycles(unittest.TestCase):
     def test_other_meetings_fold_under_the_next_council_meeting(self):
         def it(day, kind):

@@ -1,0 +1,1453 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 15,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Lustgarten-Evoy read the Land Acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>There were no addendums or corrections to the agenda.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>Councillor Wilton declared a conflict of interest with respect to agenda items 8.1 - Official Plan and Zoning Amendment (OP02/23 and RZ05/23) - Status Update, 19/19A East Mill Street, Elora and 8.7, Decision Report - South Fergus Secondary Plan (OPA 14) as her spouse is a partner at MHBC Planning who provides planning/consulting services for these projects. Councillor Wilton also declared a conflict with respect to item 7.3 on the Consent Agenda – Wellington Ari-Food Systems (deferred from April 29, 2024) as her team authored the report.</p>",
+    "<p>Mayor Watters declared a conflict of interest with respect to agenda item 7.10 Riverfest in Bissell Park 2024, due to his relationship with the Riverfest organization.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Courtney O'Neill, Centre Wellington Community Foundation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Re: Smart Cities Report</p>",
+    "<p>C. O’Neill, Nutritious Food Coordinator outlined her role to increasing community food access, with a focus on bringing multi-sector stakeholders together to shape how our community can best respond to the increased food needs through knowledge sharing, collective learning and system thinking. She explained household food insecurity, indicating 24% of Ontario households experienced food insecurity in 2023 and 30% of children lived in a food-insecure household in Ontario in 2023.</p>",
+    "<p>C. O’Neill outlined the community impact various programs such as summer student nutrition support, community food outreach program, free safe food handler certification and multi-partner projects and resource sharing have on the community. She outlined the next steps to increased food access are to secure funding, measure the impact and establish new pathways for distribution and program delivery.</p>",
+    "<p>C. O’Neill responded to questions regarding healthy food vending machines and innovative ways to distribute healthy and affordable food.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.2",
+   "number": "5.2",
+   "title": "County Council Report - Councillor Mary Lloyd, County Ward 5",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Mary Lloyd provided highlights of the OPP annual report, Housing services and activity report, mental health training in the daycare centres, the volunteer appreciation video, and the various ongoing activities at the museum. She outlined ongoing activities at the various library branches, shared comments submitted by the County regarding Bill 185, informed Council of a public meeting regarding the reallocation of employment lands upcoming in June and spoke about the increase to the cost of garbage bags and waste diversion measures.</p>",
+    "<p>Councillor MacDonald asked if a representative of the Police Services Board would provide an update to Council.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.3",
+   "number": "5.3",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Members of Council provided updates on the current initiatives of the advisory committees.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wilton, having declared a conflict of interest, left the meeting prior to the next item.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Pierre Chauvin, MHBC Planning re: item 8.1 - Official Plan and Zoning",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Amendment (OP02/23 and RZ05/23) - Status Update, 19/19A East Mill Street, Elora</p>",
+    "<p>P. Chauvin indicated the revised design now proposes a 4-storey mixed use building, extending along the East Mill Street frontage. He highlighted the details of Building A, including:</p>",
+    "<p>• 3 ground floor commercial units (252m²)</p>",
+    "<p>• 18 accessible dwelling units</p>",
+    "<p>• 22 residential parking spaces provided in a basement parking garage • 4-storey building height (14.5m) in order to maintain 18 units above flood elevation</p>",
+    "<p>and the Building B to the rear of the property:</p>",
+    "<p>• 2 storey stone building will be converted from a casket manufacturing facility to a restaurant and/or retail</p>",
+    "<p>• Addition is proposed along with outdoor patio area</p>",
+    "<p>• 11 outdoor parking spaces to serve all commercial use on the property, including buildings A and B</p>",
+    "<p>P, Chauvin Design highlighted the design changes and rationale, presented various artist renderings and noted the heritage mitigation &amp; conservation efforts. He responded to questions of clarification.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "6.2",
+   "number": "6.2",
+   "title": "Rich Wigmore & Jason Castellan, Elora Rocks Hockey Club",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>re: item 8.2 Elora Rocks Agreement</p>",
+    "<p>Rich Wigmore &amp; Jason Castellan provided an update regarding the ongoing action of the Hockey Club, including reinstatement of a Board of Directors, a petition of support with over 250 signatures from the community, stronger relationship with staff in Parks &amp; Recreation, and not-for profit status in good standing.</p>",
+    "<p>Jason Castellan, Chairman of the Board and former Rocks Player, indicated after working with staff they have a good understanding of the terms of the deferral agreement and introduced a slight change asking that the remittance of the payment be at the end of the season rather than at the beginning. He noted management is trying to reorganize and seek corporate sponsorship in order to meet the payment schedule.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "6.3",
+   "number": "6.3",
+   "title": "John Scott, Gentre Wellington Greenlanes re Agenda Item 8.7 -",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Decision Report - South Fergus Secondary Plan (OPA 14)</p>",
+    "<p>John Scott noted his support for Council’s direction to set the height limit at 6 storeys over 8 storeys in the Secondary Plan and suggested looking at Europe for development trends related to density. He suggested defining what liveability looks like and providing secured bike storage in multi unit developments as well as safe passage over or under Highway 6.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated Consent Agenda Items are considered routine in nature and are voted on collectively. However, any Member of Council may request one or more items be removed from the Consent Agenda for separate discussion and/or action.</p>",
+    "<p>Councillor Evoy asked that item 7.3 from the consent agenda be pulled for discussion.</p>",
+    "<p>Councillor Wilton asked that item 7.3 be pulled due to her conflict and item 7.9 from the consent agenda be pulled for discussion.</p>",
+    "<p>Mayor Watters indicated Council will now consider items 7.1, 7.2 and</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "7.4",
+   "number": "7.4",
+   "title": "through 7.9 from the Consent Agenda.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Adams requested an update on the status of the replacement of the stairs into the gorge. In response, P. Newson, Managing Director of Community Services indicated the Township was not successful in obtaining the grant funding and will consider other options and report back to Council.</p>",
+    "<p>Councillor Wilton requested an update on the status of the Belwood Hall renovations and the work to date at Confederation Park. P. Newson, Managing Director of Community Services outlined the Request for Proposal process and indicated public engagement will be conducted with the Belwood Community Development Committee. She further highlighted the survey work undertaken to date, plans to engage a landscape architect and conduct public consultation, including the local neighbourhood.</p>",
+    "<p>Councillor Wilton indicated she would like a presentation on Item 7.9, given the importance of the project. C. Baker, Managing Director of Infrastructure Services indicated staff intend to bring forward a complete update at the June 10th Council meeting.</p>",
+    "<p>B. Buehler, Operation Centre Project Manager provided an overview of the recommended hybrid of construction management/design build approach and responded to additional questions.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "Approval and Receipt of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>THAT the minutes of the Council Meeting held April 15, 2024 be approved as circulated;</p>",
+    "<p>AND THAT the Advisory Committee minutes be received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "7.2",
+   "number": "7.2",
+   "title": "Council Schedule of Work in Progress",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Received for Information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "7.4",
+   "number": "7.4",
+   "title": "Capital Projects Status - March 31, 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Osburn, Supervisor of Accounting and Capital Received for Information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "7.5",
+   "number": "7.5",
+   "title": "Toll Booth - Elora Firefighters",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from L. Miller, Deputy Municipal Clerk</p>",
+    "<p>THAT the Council of the Township of Centre Wellington authorizes the Mayor and Clerk to execute a by-law authorizing a fundraising activity in the form of soliciting by a toll booth on Metcalfe Street in Elora, on Saturday, September 7, 2024 from 8:00 a.m. to 3:00 p.m. by the Elora Firefighters Association on behalf of Muscular Dystrophy Canada.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "7.6",
+   "number": "7.6",
+   "title": "Multi Year Accessibility Plan 2024-2028",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. O’Kane, Manager of Legislative Services &amp; Municipal Clerk</p>",
+    "<p>THAT the Council of the Township of Centre Wellington receive the Multi Year Accessibility Plan 2024-2028 for information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "7.7",
+   "number": "7.7",
+   "title": "2024 Tax Rates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>THAT the Council of the Township of Centre Wellington adopt a By-law to set the Township tax rates for 2024.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "7.8",
+   "number": "7.8",
+   "title": "Fee for Service Agreement between the Township of Centre Wellington",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>and the Township of Mapleton for the Services of a Climate Change Coordinator</p>",
+    "<p>Report from D. Masiero, Manager of Water Services and Environmental Sustainability</p>",
+    "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute an agreement for a Fee for Services Agreement with the Township of Mapleton for the services of a Climate Change Coordinator as outlined in Report IS2024-19 dated May 27, 2024.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "7.9",
+   "number": "7.9",
+   "title": "New Township Operations Centre Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Buehler, Engineering Technologist – Water/Wastewater THAT the Council of the Township of Centre Wellington receives for information Report No. IS2024-24: New Township Operations Centre Update.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "7.3",
+   "number": "7.3",
+   "title": "Councillor Wilton, having declared a conflict of interest, left the room and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>therefore did not participate in the discussion or voting on the next item.</p>",
+    "<p>Wellington Agri-Food Systems (deferred from April 29, 2024) Report from the Wellington Federation of Agriculture</p>",
+    "<p>Mayor Lustgarten-Evoy assumed the Chair.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 6
+  },
+  {
+   "id": "7.10",
+   "number": "7.10",
+   "title": "Riverfest in Bissell Park 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Bettiol, Manager of Community Development K. Bettiol, Manager of Community Development provided an overview of the report and responded to questions regarding active monitoring of negative impacts and past measures taken in response to concerns raised due to the operation of Riverfest.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Councillor Wilton, having declared a conflict of interest with the next",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>item, left the room and therefore did not participate in the discussion or the debate.</p>",
+    "<p>Official Plan and Zoning Amendment (OP02/23 and RZ05/23) - Status Update, 19/19A East Mill Street, Elora</p>",
+    "<p>Report from M. Iglesias, Manager of Planning Services</p>",
+    "<p>M. Iglesias, Manager of Planning Services provided an overview of the report.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Elora Rocks Agreement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Tucker, Manager of Facilities Operations M. Tucker, Manager of Facilities Operations provided an overview of the report and responded to questions.</p>",
+    "<p>After a lengthy discussion, Councillor Adams put forward a proposed amendment to the staff recommendation.</p>",
+    "<p>Mayor Watters called for a 5 minute recess, the meeting resumed at 8:27 pm.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5",
+    "m6",
+    "m7"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "Retail Cannabis Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from G. Borovilos, Manager of Economic Development G. Borovilos, Manager of Economic Development provided an overview of the report. An invitation was extended to the original delegation, indicating the subject of Cannabis would be under consideration at the May 27th meeting.</p>",
+    "<p>After a lengthy discussion, the following resolution was put forward:</p>",
+    "<p>to include the following “And that staff report back to Council if the Province changes any of the implementation regulations.” Councillors Craddock and MacDonald agreed to the friendly amendment.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8",
+    "m9"
+   ],
+   "page": 9
+  },
+  {
+   "id": "8.4",
+   "number": "8.4",
+   "title": "Recreation Program Priority Registration",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Parkin, Manager of Recreation Programs</p>",
+    "<p>B. Parkin, Manager of Recreation Programs provided an overview of the report and responded to questions</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 11
+  },
+  {
+   "id": "8.5",
+   "number": "8.5",
+   "title": "Municipally Owned Industrial Business Park Pricing",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from G. Borovilos, Manager of Economic Development G. Borovilos, Manager of Economic Development provided an overview of the report and responded to questions related to the status of sales and retention of a real estate agent.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 11
+  },
+  {
+   "id": "8.6",
+   "number": "8.6",
+   "title": "Development Charge Deferral Agreement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from G. Borovilos, Manager of Economic Development G. Borovilos, Manager of Economic Development provided an overview of the report.</p>",
+    "<p>Councillor Wilton, having declared a conflict of interest, left the Council Chamber and therefore did not participate in the discussion or vote on the next item.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 11
+  },
+  {
+   "id": "8.7",
+   "number": "8.7",
+   "title": "Decision Report - South Fergus Secondary Plan (OPA 14)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Salmon, Managing Director of Planning and Development</p>",
+    "<p>B. Salmon, Managing Director of Planning and Development provided an overview of the report and outlined the various adjustments made based on the discussion with Council.</p>",
+    "<p>Councillor Adams asked staff to identify the crossing of Highway 6 as a priority area of study in the Active Transportation Mobility Master Plan.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 12
+  },
+  {
+   "id": "8.8",
+   "number": "8.8",
+   "title": "Tourism Washrooms Agreement to Build",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from P. Newson, Managing Director of Community Services P. Newson, Managing Director of Community Services provided an overview of the report and responded to questions regarding the cost impact to operations, inclusion of solar panels or rain catchment, the availability of infrastructure services, and accessibility.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 12
+  },
+  {
+   "id": "8.9",
+   "number": "8.9",
+   "title": "Request for Tender #18-24: Asphalting of Various Roads - 2024",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Wiles, Purchasing &amp; Risk Supervisor</p>",
+    "<p>A. McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report and responded to questions.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 13
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 13
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "2024-23 A By-law to authorize the Mayor and Clerk to execute a Fee for",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Service Agreement between the Corporation of the Township of Centre Wellington and Township of Mapleton to provide the Services of a Climate Change Coordinator</p>",
+    "<p>2024-24 A By-law to set tax rates for 2024</p>",
+    "<p>2024-25A By-law to authorize the Mayor and Clerk to execute a Donation Agreement between the Corporation of the Township of Centre Wellington and Kat Florence Canada Company Limited (Public Washroom-10 East Mill Street, Elora)</p>",
+    "<p>2024-26 A By-law to authorize a fund raising activity in the form of soliciting by a toll booth on the Metcalfe Street Bridge in Elora 2024-27 A By-law to adopt Amendment No. 14 to the Official Plan for the Township of Centre Wellington (South Fergus Secondary Plan)</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16",
+    "m17"
+   ],
+   "page": 13
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 14
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 14
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 14
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m18"
+   ],
+   "page": 14
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "ADJOURNMENT – 9:51 pm",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ],
+   "page": 14
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7.4",
+   "item_number": "7.4",
+   "item_title": "through 7.9 from the Consent Agenda.",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 and 7.2, 7.4 through 7.9 as follows:",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 and 7.2, 7.4 through 7.9 as follows:</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m2",
+   "item": "7.3",
+   "item_number": "7.3",
+   "item_title": "Councillor Wilton, having declared a conflict of interest, left the room and",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington receives for information the Wellington County Agri-Food System Study and directs staff to have regard for the document when making Agri-related.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receives for information the Wellington County Agri-Food System Study and directs staff to have regard for the document when making Agri-related.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m3",
+   "item": "7.10",
+   "item_number": "7.10",
+   "item_title": "Riverfest in Bissell Park 2024",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington authorizes Riverfest Elora to be held in Bissell Park with amplification of music between 3:00 pm and 11:45 pm on Friday August 16 and between 12:00 pm and 11:45 pm on Saturday August 17 and between 12:00 pm and 11:00 pm on Sunday August 18, subject to the organizers planning and implementing the requirements to ensure Public Safety as required by the Alcohol Gaming Commission of Ontario, Ontario Provincial Police and the Centre Wellington Municipal Alcohol Policy; AND THAT the Council of the Township of Centre Wellington approves Riverfest Elora scheduled for the third weekend in August for exclusive use of Bissell Park, as a Municipally Significant Event in order to a acquire a Public Special Occasions Permit for Alcohol Service at Bissel Park from the Alcohol Gaming Commission of Ontario (AGCO).",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorizes Riverfest Elora to be held in Bissell Park with amplification of music between 3:00 pm and 11:45 pm on Friday August 16 and between 12:00 pm and 11:45 pm on Saturday August 17 and between 12:00 pm and 11:00 pm on Sunday August 18, subject to the organizers planning and implementing the requirements to ensure Public Safety as required by the Alcohol Gaming Commission of Ontario, Ontario Provincial Police and the Centre Wellington Municipal Alcohol Policy; AND THAT the Council of the Township of Centre Wellington approves Riverfest Elora scheduled for the third weekend in August for exclusive use of Bissell Park, as a Municipally Significant Event in order to a acquire a Public Special Occasions Permit for Alcohol Service at Bissel Park from the Alcohol Gaming Commission of Ontario (AGCO).</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m4",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "Councillor Wilton, having declared a conflict of interest with the next",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington receives staff report PLN2024-17 for information; AND THAT the Council of the Township of Centre Wellington deems that the modifications to application RZ05/23 do not require further public notice.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receives staff report PLN2024-17 for information; AND THAT the Council of the Township of Centre Wellington deems that the modifications to application RZ05/23 do not require further public notice.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m5",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Elora Rocks Agreement",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Jefferson",
+   "text": "THAT the following phrase be added to the staff recommendation, “including provisions to allow for the 2024 payment to be remitted by December 31, 2024.",
+   "text_html": "<p>THAT the following phrase be added to the staff recommendation, “including provisions to allow for the 2024 payment to be remitted by December 31, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "6-1",
+    "for": 6,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Watters",
+     "MacDonald",
+     "Jefferson",
+     "Lustgarten-Evoy",
+     "Adams",
+     "Craddock"
+    ],
+    "against": [
+     "Wilton"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "requested_recorded_vote": true,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m6",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Elora Rocks Agreement",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington delegates authority to the Managing Director of Corporate Services and Treasurer to enact changes to the agreement between the Elora Rocks and the Township authorized through Bylaw Number 2021-42, as per the details in Report CS2024-19 dated May 27, 2024, including provisions to allow for the 2024 payment to be remitted by December 31, 2024.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington delegates authority to the Managing Director of Corporate Services and Treasurer to enact changes to the agreement between the Elora Rocks and the Township authorized through Bylaw Number 2021-42, as per the details in Report CS2024-19 dated May 27, 2024, including provisions to allow for the 2024 payment to be remitted by December 31, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "6-1",
+    "for": 6,
+    "against": 1,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Watters",
+     "MacDonald",
+     "Jefferson",
+     "Lustgarten-Evoy",
+     "Adams",
+     "Craddock"
+    ],
+    "against": [
+     "Wilton"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "requested_recorded_vote": true,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m7",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Elora Rocks Agreement",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington, in accordance with Section 7.7 (a) of Procedure By-law 2021-31, having reached the 4 hour maximum for a Committee meeting, hereby extends the meeting curfew by an hour to 10 pm.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington, in accordance with Section 7.7</p><p>(a) of Procedure By-law 2021-31, having reached the 4 hour maximum for a Committee meeting, hereby extends the meeting curfew by an hour to 10 pm.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m8",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "Retail Cannabis Update",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Township of Centre Wellington opt-in to permit the retail sale of cannabis within the municipal boundary; AND FURTHER THAT Council direct staff to inform the Alcohol and Gaming Commission of Ontario (AGCO) that Centre Wellington now supports retail cannabis storefronts within the Township.",
+   "text_html": "<p>THAT the Township of Centre Wellington opt-in to permit the retail sale of cannabis within the municipal boundary; AND FURTHER THAT Council direct staff to inform the Alcohol and Gaming Commission of Ontario (AGCO) that Centre Wellington now supports retail cannabis storefronts within the Township.</p>",
+   "post_html": "",
+   "result": {
+    "text": "DEFEATED",
+    "label": "Defeated 2-5",
+    "for": 2,
+    "against": 5,
+    "outcome": "Defeated",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Adams",
+     "Wilton"
+    ],
+    "against": [
+     "Mayor Watters",
+     "MacDonald",
+     "Jefferson",
+     "Lustgarten-Evoy",
+     "Craddock"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "requested_recorded_vote": true,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m9",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "Retail Cannabis Update",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Township of Centre Wellington continue to opt-out of permitting the retail sale of cannabis within the municipal boundary; AND THAT staff report back to Council if the Province changes any of the implementation regulations.",
+   "text_html": "<p>THAT the Township of Centre Wellington continue to opt-out of permitting the retail sale of cannabis within the municipal boundary; AND THAT staff report back to Council if the Province changes any of the implementation regulations.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "5-2",
+    "for": 5,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Watters",
+     "MacDonald",
+     "Jefferson",
+     "Lustgarten-Evoy",
+     "Craddock"
+    ],
+    "against": [
+     "Adams",
+     "Wilton"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m10",
+   "item": "8.4",
+   "item_number": "8.4",
+   "item_title": "Recreation Program Priority Registration",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington direct staff to develop and implement a Priority Registration Policy and Procedure to the benefit of Centre Wellington residents, for Recreation Programs where waitlists or registration complaints exist; AND THAT Council directs staff to return to Council for approval of the Policy at a future meeting.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington direct staff to develop and implement a Priority Registration Policy and Procedure to the benefit of Centre Wellington residents, for Recreation Programs where waitlists or registration complaints exist; AND THAT Council directs staff to return to Council for approval of the Policy at a future meeting.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m11",
+   "item": "8.5",
+   "item_number": "8.5",
+   "item_title": "Municipally Owned Industrial Business Park Pricing",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington maintain the sale price of Municipal Industrial Land at $450,000 per acre in the Centre Wellington Business Park and other industrial land sites owned by the Township of Centre Wellington.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington maintain the sale price of Municipal Industrial Land at $450,000 per acre in the Centre Wellington Business Park and other industrial land sites owned by the Township of Centre Wellington.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m12",
+   "item": "8.6",
+   "item_number": "8.6",
+   "item_title": "Development Charge Deferral Agreement",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Managing Director of Corporate Services and Treasurer to execute a Development Charge Deferral Payment Agreement between the Corporation and Twin Rail Corporation.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Managing Director of Corporate Services and Treasurer to execute a Development Charge Deferral Payment Agreement between the Corporation and Twin Rail Corporation.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m13",
+   "item": "8.7",
+   "item_number": "8.7",
+   "item_title": "Decision Report - South Fergus Secondary Plan (OPA 14)",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington approves application OP04/2023; AND THAT Official Plan Amendment No. 14 be adopted and submitted to the County of Wellington for approval; AND THAT the corresponding by-law be given three readings.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves application OP04/2023; AND THAT Official Plan Amendment No. 14 be adopted and submitted to the County of Wellington for approval; AND THAT the corresponding by-law be given three readings.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m14",
+   "item": "8.8",
+   "item_number": "8.8",
+   "item_title": "Tourism Washrooms Agreement to Build",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to sign an Agreement between the Township and Kat Florence Canada Company Limited, for the design and construction of public washrooms, adjacent to the Elora Fergus Tourism Centre located at 10 East Mill Street, Elora under the conditions outlined in report CS2024-20 dated May 27, 2024; AND THAT Council delegate authority to the Managing Director of Community Services or their designate to approve the final construction drawings, budget, construction schedule, change orders, and change directives, to ensure that the project can be completed in 2024; AND THAT Council authorize the Managing Director of Corporate Services and Treasurer to issue a donation receipt for the total cost of design and construction to Kat Florence Canada Company Limited; AND THAT Council approve a $25,000 budget to be funded from the General Capital Reserve for Township expenses associated with the project.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to sign an Agreement between the Township and Kat Florence Canada Company Limited, for the design and construction of public washrooms, adjacent to the Elora Fergus Tourism Centre located at 10 East Mill Street, Elora under the conditions outlined in report CS2024-20 dated May 27, 2024; AND THAT Council delegate authority to the Managing Director of Community Services or their designate to approve the final construction drawings, budget, construction schedule, change orders, and change directives, to ensure that the project can be completed in 2024; AND THAT Council authorize the Managing Director of Corporate Services and Treasurer to issue a donation receipt for the total cost of design and construction to Kat Florence Canada Company Limited; AND THAT Council approve a $25,000 budget to be funded from the General Capital Reserve for Township expenses associated with the project.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m15",
+   "item": "8.9",
+   "item_number": "8.9",
+   "item_title": "Request for Tender #18-24: Asphalting of Various Roads - 2024",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington award Request For Tender #18-24 regarding the Asphalting of Various Roads - 2024, to Cox Construction Limited at a contract price of $1,961,641.11, including contingency and excluding HST. AND THAT the funding for the applicable projects be revised as outlined in report COR2024-31 dated 27 May 2024.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington award Request For Tender #18-24 regarding the Asphalting of Various Roads - 2024, to Cox Construction Limited at a contract price of $1,961,641.11, including contingency and excluding HST. AND THAT the funding for the applicable projects be revised as outlined in report COR2024-31 dated 27 May 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m16",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2024-23 A By-law to authorize the Mayor and Clerk to execute a Fee for",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT By-laws 2024-23 through 2024-26 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2024-23 through 2024-26 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 14
+  },
+  {
+   "id": "m17",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2024-23 A By-law to authorize the Mayor and Clerk to execute a Fee for",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-law 2024-27 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-law 2024-27 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 14
+  },
+  {
+   "id": "m18",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-law 2024-28 to Confirm the Proceedings of Council at its meeting held May 27, 2024 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2024-28 to Confirm the Proceedings of Council at its meeting held May 27, 2024 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 14
+  },
+  {
+   "id": "m19",
+   "item": "13",
+   "item_number": "13",
+   "item_title": "ADJOURNMENT – 9:51 pm",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 14
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 6
+  },
+  {
+   "member": "Mayor Watters",
+   "event": "left",
+   "text": "Due to a conflict of interest, Mayor Watters left the meeting and Deputy",
+   "page": 6
+  },
+  {
+   "member": "Mayor Watters",
+   "event": "joined",
+   "text": "Mayor Watters returned to the meeting and assumed the Chair.",
+   "page": 7
+  },
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 8
+  },
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 12
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

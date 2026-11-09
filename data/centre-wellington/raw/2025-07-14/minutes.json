@@ -1,0 +1,1342 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 12,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock",
+  "Jefferson"
+ ],
+ "absent": [
+  "Jefferson"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor MacDonald read the Land Acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated item 8.15, Parks and Recreation Plan - Final Approval is to be moved to 8.3 and item 8.9 Municipal Approval of Cemetery Alteration (36 Henderson Street) moved to 8.2 to accommodate individuals in the audience.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Mayor's County Council Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.2",
+   "number": "5.2",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor MacDonald provided details regarding the Senior Centre’s Peach social in August.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated Consent Agenda Items are considered routine in nature and are voted on collectively. However, any Member of Council may request one or more items be removed from the Consent Agenda for separate action.</p>",
+    "<p>In response to a question from Councillor MacDonald, Adam McNabb, Managing Director of Corporate Services &amp; Treasurer highlighted the provisions in the procurement by-law permitting emergency repairs.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "Emergency Grader Repairs",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from C. Baker, Managing Director of Infrastructure Services THAT the Council of the Township of Centre Wellington receive for information, Report IS2025-27: Emergency Grader Repairs.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7.2",
+   "number": "7.2",
+   "title": "Quarterly Procurement Report (January 1 - March 31, 2025)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Lloyd-Smith, Manager of Purchasing and Risk Management</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7.3",
+   "number": "7.3",
+   "title": "Approval and Adoption of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.3.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Housing Needs Assessment Report Findings",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Salmon, Managing Director of Planning and Development</p>",
+    "<p>Erik Karvinen, Watson &amp; Associates indicated the Housing Needs Assessment provides an assessment of current and future housing needs and strategic recommendations for the Township. He noted the study analyzes economic, demographic and real estate trends to inform future housing demand and policy for the next few decades.</p>",
+    "<p>E. Karvinen outlined the population and housing growth trends, suggesting population growth in Centre Wellington has accelerated post 2021, growing by 7% to 34,300 in 2024. He also outlined the existing and future housing needs and provided the study conclusions and recommendations.</p>",
+    "<p>E. Karvinen and staff responded to questions regarding temporary agriculture housing, additional residential lots on serviced lands, the need to update the definition of affordable housing in accordance with the new P.P.S., 2024 and update affordable housing targets to align with affordable housing needs, and the next steps.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Municipal Approval of Cemetery Alteration (36 Henderson Street)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from L. Rogerson, Manager of Parks</p>",
+    "<p>L. Rogerson, Manager of Parks provided an overview of the report, indicating the approval is for a new 180 niche columbarium, not 160 niche as previously noted.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "House Demolition - Business Park",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from G. Borovilos, Manager of Economic Development G. Borovilos, Manager of Economic Development provided an overview of the report, indicating staff and the Economic Prosperity &amp; Growth Advisory Committee are recommending the dwelling be demolished now that it is vacant.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8.4",
+   "number": "8.4",
+   "title": "Corporate Climate Action Plan Terms of Reference",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Tamlyn, Climate Change Coordinator</p>",
+    "<p>M. Tamlyn, Climate Change Coordinator outlined the primary objectives of the corporate climate action plan, including:</p>",
+    "<p>- Establishing a baseline of current GHG emissions</p>",
+    "<p>- Conducting a climate risk assessment for key infrastructure and services</p>",
+    "<p>- Identifying priorities, pathways, and timelines for implementing effective mitigation and adaptation strategies</p>",
+    "<p>- Setting ambitious but achievable targets</p>",
+    "<p>- Integrating climate considerations into municipal business processes;</p>",
+    "<p>and</p>",
+    "<p>- Identifying and secure climate budget allocation and funding sources He outlined the pathways, priorities and targets, the deliverables and the expected project completion by Q2 of 2026.</p>",
+    "<p>Mayor Watters called for a 7 minute break.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8.5",
+   "number": "8.5",
+   "title": "Operations Centre - Solar Panel Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Tamlyn, Climate Change Coordinator</p>",
+    "<p>M. Tamlyn, Climate Change Coordinator provided an overview of the report, including the environmental and financial benefits of solar. He indicated after review, a net-metered rooftop system is considered the preferred choice. He suggested this design utilizes existing infrastructure, can accommodate energy needs throughout the year, and provides the most significant net return and GHG reduction.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.6",
+   "number": "8.6",
+   "title": "Intersection Improvement Recommendations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. Gilmore, Manager of Engineering</p>",
+    "<p>Adam Gilmore, Manager of Engineering provided an overview of the report, indicating the Township&#x27;s Active Transportation and Mobility Plan has identified needs for safety and crossing improvements at several intersections, noting that intersections located along school routes should be prioritized.</p>",
+    "<p>The four locations noted as high priority for improvement are:</p>",
+    "<p>1. The intersection of Beatty Line, Sideroad 18, and Farley Road in Fergus;</p>",
+    "<p>2. The intersection of Beatty Line, Millage Lane, and Elliot Avenue East in Fergus;</p>",
+    "<p>3. The intersection of Gartshore Street, Middleton Avenue, and Forfar Street East in Fergus; and,</p>",
+    "<p>4. The intersection of David Street and Irvine Street in Elora.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.7",
+   "number": "8.7",
+   "title": "Posted Speed Limit By-law Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. Gilmore, Manager of Engineering</p>",
+    "<p>Adam Gilmore, Manager of Engineering provided an overview of the report, indicating staff is seeking Council approval of a By-law to Regulate Speed in the Township of Centre Wellington to bring new speed reduction recommendations into legal effect and responded to questions.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8.8",
+   "number": "8.8",
+   "title": "Active Transportation and Mobility Plan - Notice of Study Completion",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. Gilmore, Manager of Engineering</p>",
+    "<p>Adam Gilmore, Manager of Engineering provided an overview of the report, noting the Township has prepared an Active Transportation and Mobility Plan (ATMP) to inventory and evaluate the existing active transportation and mobility network, and to provide a framework for future enhancement of the network. He noted the main objective of the ATMP is to identify current and future opportunities to enhance active transportation and mobility in the Township.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8.9",
+   "number": "8.9",
+   "title": "Winter Activities Risk Management Program",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from L. Rogerson, Manager of Parks</p>",
+    "<p>L. Rogerson, Manager of Parks provided an overview of the report, noting staff is seeking Council approval to move forward with the finalized Winter Activities Program, ensuring the community can safely participate in winter activities while effectively managing associated risks.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.10",
+   "number": "8.10",
+   "title": "Ontario Enhancing Access to Spaces for Everyone (EASE) Grant for the",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Belwood Hall Renovation Project</p>",
+    "<p>Report from K. Beirnes, Manager of Buildings &amp; Property K. Beirnes, Manager of Buildings &amp; Property provided an overview of the “Enhancing Access to Spaces for Everyone Grant”, illustrated how the Belwood Hall project aligns with the grant&#x27;s criteria, and outlined the proposed use of the funding.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.11",
+   "number": "8.11",
+   "title": "2025 Corporate Business Plan Progress Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Wilson, Chief Administrative Officer</p>",
+    "<p>D. Wilson, Chief Administrative Officer provided an overview of the report and responded to questions regarding the unforeseen items and the impact.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.12",
+   "number": "8.12",
+   "title": "RFQ#54-25 / 2 Supply Fans - Clyde Street Wastewater Pumping Station",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Wiles, Purchasing &amp; Risk Supervisor</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.13",
+   "number": "8.13",
+   "title": "Request for Tenders #50-25 & #51-25 / MCEA - Wells 3 & 7",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Wiles, Purchasing &amp; Risk Supervisor</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report.</p>",
+    "<p>In response to a question from Councillor Adams, Adam Gilmore, Manager of Engineering spoke of the highly specialized work to be undertaken.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.14",
+   "number": "8.14",
+   "title": "2026 Budget Recommendations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 9
+  },
+  {
+   "id": "8.15",
+   "number": "8.15",
+   "title": "Parks and Recreation Plan - Final Approval",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from P. Newson, Managing Director of Community Services P. Newson, Managing Director of Community Services provided an overview of the report, indicating the final report includes the following:</p>",
+    "<p>- Engagement Report: A summary of community input received, highlighting themes and key concerns raised by participants.</p>",
+    "<p>- Needs Assessment: An extensive review identifying the existing opportunities and needs regarding parks and recreation across the Township, projecting future requirements.</p>",
+    "<p>- Parks Plan: A framework categorizing parks and providing a roadmap for future parkland dedication and development, including a draft Parkland Dedication Bylaw for Council’s future consideration.</p>",
+    "<p>- Parks and Recreation Plan: Defined themes with actionable recommendations focusing on partnerships, facility development, programming, and outdoor spaces.</p>",
+    "<p>Staff responded to questions regarding the next steps and budget implications.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 9
+  },
+  {
+   "id": "8.16",
+   "number": "8.16",
+   "title": "Administrative Monetary Penalty System",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. O&#x27;Kane, Manager of Legislative Services &amp; Municipal Clerk</p>",
+    "<p>K. O&#x27;Kane, Manager of Legislative Services &amp; Municipal Clerk provided an overview of the report.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m17"
+   ],
+   "page": 10
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "2025-44, A By-law to authorize a fund raising activity in the form of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>soliciting by a toll booth on the Metcalfe Street Bridge in Elora 2025-45, A By-law to authorize a fund raising activity in the form of soliciting by a toll booth on the Tower Street Bridge in Fergus 2025-46, A By-law to Regulate Speed in the Township of Centre Wellington and to Repeal By-law 2024-67</p>",
+    "<p>2025-47, A By-law to Establish a System of Administrative Monetary Penalties - Parking</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m18"
+   ],
+   "page": 11
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ],
+   "page": 11
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "13.1",
+   "number": "13.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m20"
+   ],
+   "page": 11
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "7",
+   "item_title": "Consent Items",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.3.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.3.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "Housing Needs Assessment Report Findings",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington receive the Housing Needs Assessment report prepared by Watson and Associates Economists; and, THAT staff be directed to report to Council on future housing related initiatives based on the Housing Needs Assessment on or before September 29, 2025.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive the Housing Needs Assessment report prepared by Watson and Associates Economists; and, THAT staff be directed to report to Council on future housing related initiatives based on the Housing Needs Assessment on or before September 29, 2025.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m3",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Municipal Approval of Cemetery Alteration (36 Henderson Street)",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington provide municipal approval of cemetery alteration to allow the construction of a new 180-niche unit columbarium to replace the existing 150-niche columbarium located at 36 Henderson St, Elora. AND THAT the Notice of Decision be published in a local newspaper and a copy of the Approval Notice be forwarded to the applicant and Registrar of the Bereavement Authority of Ontario.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington provide municipal approval of cemetery alteration to allow the construction of a new 180-niche unit columbarium to replace the existing 150-niche columbarium located at 36 Henderson St, Elora. AND THAT the Notice of Decision be published in a local newspaper and a copy of the Approval Notice be forwarded to the applicant and Registrar of the Bereavement Authority of Ontario.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "House Demolition - Business Park",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington approve the recommendation of the Economic Prosperity & Growth Committee to demolish the house and adjacent shed in the Business Park. AND THAT Council directs staff to complete a Designated Substance Audit (DSA) on the house and adjacent shed located in the Business Park. AND THAT Council directs staff to return with a full project update and budget for Council's consideration.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the recommendation of the Economic Prosperity &amp; Growth Committee to demolish the house and adjacent shed in the Business Park. AND THAT Council directs staff to complete a Designated Substance Audit (DSA) on the house and adjacent shed located in the Business Park. AND THAT Council directs staff to return with a full project update and budget for Council&#x27;s consideration.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m5",
+   "item": "8.4",
+   "item_number": "8.4",
+   "item_title": "Corporate Climate Action Plan Terms of Reference",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington receive report IS2025-17 for information.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report IS2025-17 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m6",
+   "item": "8.5",
+   "item_number": "8.5",
+   "item_title": "Operations Centre - Solar Panel Update",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington endorses the recommended solar panel system at the new Operations Centre, described as Option 1 and outlined in Report No. IS2025-26. AND THAT Council authorizes Township staff to receive competitive bids, through the General Contractor for the project, for the inclusion of a solar panel system to an upset limit of $1.2 million as outlined in Report No. IS2025-15.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorses the recommended solar panel system at the new Operations Centre, described as Option 1 and outlined in Report No. IS2025-26. AND THAT Council authorizes Township staff to receive competitive bids, through the General Contractor for the project, for the inclusion of a solar panel system to an upset limit of $1.2 million as outlined in Report No. IS2025-15.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "8.6",
+   "item_number": "8.6",
+   "item_title": "Intersection Improvement Recommendations",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington endorses intersection improvement recommendations as outlined in Report No. IS2025-24; AND THAT Council approves an expenditure of $17,500 to hire four new crossing guards starting in September 2025 through to December 2025 as per the recommendations outlined in Report No. IS2025-24; AND THAT Council directs Township staff to bring forward operating and capital budgets needed to implement proposed 2026 intersection improvements through the 2026 Budget development process.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorses intersection improvement recommendations as outlined in Report No. IS2025-24; AND THAT Council approves an expenditure of $17,500 to hire four new crossing guards starting in September 2025 through to December 2025 as per the recommendations outlined in Report No. IS2025-24; AND THAT Council directs Township staff to bring forward operating and capital budgets needed to implement proposed 2026 intersection improvements through the 2026 Budget development process.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m8",
+   "item": "8.7",
+   "item_number": "8.7",
+   "item_title": "Posted Speed Limit By-law Update",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a By-law to Regulate Speed in the Township of Centre Wellington and to repeal By-law 2024-67 as outlined in Report No. IS2025-19.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a By-law to Regulate Speed in the Township of Centre Wellington and to repeal By-law 2024-67 as outlined in Report No. IS2025-19.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "8.8",
+   "item_number": "8.8",
+   "item_title": "Active Transportation and Mobility Plan - Notice of Study Completion",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington endorses the Active Transportation and Mobility Plan and directs staff to publish a Notice of Study Completion for the Study, as outlined in Report No. IS2025-25; AND THAT Council directs staff to bring forward programs, studies, projects, and policies included in the Active Transportation and Mobility Plan for consideration in capital and operating budget deliberations.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorses the Active Transportation and Mobility Plan and directs staff to publish a Notice of Study Completion for the Study, as outlined in Report No. IS2025-25; AND THAT Council directs staff to bring forward programs, studies, projects, and policies included in the Active Transportation and Mobility Plan for consideration in capital and operating budget deliberations.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m10",
+   "item": "8.9",
+   "item_number": "8.9",
+   "item_title": "Winter Activities Risk Management Program",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve the Winter Activities Risk Management Program as outlined in report CS2025-20.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the Winter Activities Risk Management Program as outlined in report CS2025-20.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m11",
+   "item": "8.10",
+   "item_number": "8.10",
+   "item_title": "Ontario Enhancing Access to Spaces for Everyone (EASE) Grant for the",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington supports an application to the Ontario Enhancing Access to Spaces for Everyone (EASE) Grant, under the Ministry for Seniors and Accessibility, for the Belwood Hall Renovation Project.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington supports an application to the Ontario Enhancing Access to Spaces for Everyone (EASE) Grant, under the Ministry for Seniors and Accessibility, for the Belwood Hall Renovation Project.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m12",
+   "item": "8.11",
+   "item_number": "8.11",
+   "item_title": "2025 Corporate Business Plan Progress Report",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington receive report CAO2025-14: 2025 Corporate Business Plan Progress Report for information. AND THAT the Council of the Township of Centre Wellington direct staff to prepare a 2026 Corporate Business Plan in conjunction with the 2026 Budget process.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report CAO2025-14: 2025 Corporate Business Plan Progress Report for information. AND THAT the Council of the Township of Centre Wellington direct staff to prepare a 2026 Corporate Business Plan in conjunction with the 2026 Budget process.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m13",
+   "item": "8.12",
+   "item_number": "8.12",
+   "item_title": "RFQ#54-25 / 2 Supply Fans - Clyde Street Wastewater Pumping Station",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington award Request For Quotation #54-25 / 2 Supply Fans - Clyde Street Wastewater Pumping Station to Belwood Electric Ltd. at a contract price of $54,349.18, excluding HST. AND THAT project funding be updated as shown in report COR2025-39 dated 14 July 2025.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington award Request For Quotation #54-25 / 2 Supply Fans - Clyde Street Wastewater Pumping Station to Belwood Electric Ltd. at a contract price of $54,349.18, excluding HST. AND THAT project funding be updated as shown in report COR2025-39 dated 14 July 2025.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m14",
+   "item": "8.13",
+   "item_number": "8.13",
+   "item_title": "Request for Tenders #50-25 & #51-25 / MCEA - Wells 3 & 7",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington award Request For Tender #50-25 / MCEA - Wells 3 & 7 / Monitoring Well Drilling to Aardvark Drilling Inc., at a contract price of $1,188,850.00 including contingency and excluding HST AND THAT the Council of the Township of Centre Wellington award Request For Tender #51-25 / MCEA - Wells 3 & 7 / Production Well Drilling to Lotowater Technical Services Inc., at a contract price of $2,499,601.24, including contingency and excluding HST, AND THAT the funding for this project be revised as outlined in report COR2025-42 dated 14 July 2025.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington award Request For Tender #50-25 / MCEA - Wells 3 &amp; 7 / Monitoring Well Drilling to Aardvark Drilling Inc., at a contract price of $1,188,850.00 including contingency and excluding HST AND THAT the Council of the Township of Centre Wellington award Request For Tender #51-25 / MCEA - Wells 3 &amp; 7 / Production Well Drilling to Lotowater Technical Services Inc., at a contract price of $2,499,601.24, including contingency and excluding HST, AND THAT the funding for this project be revised as outlined in report COR2025-42 dated 14 July 2025.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m15",
+   "item": "8.14",
+   "item_number": "8.14",
+   "item_title": "2026 Budget Recommendations",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington receive report COR2025-40 for information.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report COR2025-40 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m16",
+   "item": "8.15",
+   "item_number": "8.15",
+   "item_title": "Parks and Recreation Plan - Final Approval",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington approve the 2025 Parks and Recreation Plan, inclusive of the Parks Plan, and Needs Assessment.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the 2025 Parks and Recreation Plan, inclusive of the Parks Plan, and Needs Assessment.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m17",
+   "item": "8.16",
+   "item_number": "8.16",
+   "item_title": "Administrative Monetary Penalty System",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington receive Report COR2025-38 regarding Administrative Monetary Penalty System for information; AND FURTHER THAT by-laws be adopted to establish an Administrative Monetary Penalty System (AMPS) and establish the positions of Screening Officers and Hearing Officers; AND FURTHER THAT the Municipal Clerk be authorized to execute an agreement with the Ministry of Transportation (MTO) for access to the MTO ARIS database for registered vehicle owner information to administer the AMPS program, with the agreement based on content and in a form approved by the Municipal Clerk.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive Report COR2025-38 regarding Administrative Monetary Penalty System for information; AND FURTHER THAT by-laws be adopted to establish an Administrative Monetary Penalty System (AMPS) and establish the positions of Screening Officers and Hearing Officers; AND FURTHER THAT the Municipal Clerk be authorized to execute an agreement with the Ministry of Transportation (MTO) for access to the MTO ARIS database for registered vehicle owner information to administer the AMPS program, with the agreement based on content and in a form approved by the Municipal Clerk.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m18",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2025-44, A By-law to authorize a fund raising activity in the form of",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Craddock",
+   "text": "THAT By-laws 2025-44 through 2025-47 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2025-44 through 2025-47 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m19",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Craddock",
+   "text": "THAT By-law 2025-48 to Confirm the Proceedings of Council at its meeting held July 14, 2025 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2025-48 to Confirm the Proceedings of Council at its meeting held July 14, 2025 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m20",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

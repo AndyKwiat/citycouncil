@@ -1,0 +1,192 @@
+{
+ "title": "Committee of the Whole",
+ "source_format": "pdf",
+ "pages": 2,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "WELCOME AND INTRODUCTIONS",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters introduced Terry Alman and Tracey McQueen from MGA-McQueen Galloway and representatives from MJMA Architecture &amp; Design.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Presentation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4.1",
+   "number": "4.1",
+   "title": "Terry Alyman from MGA-McQueen Galloway and Marc Downing from",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>MJMA Architecture &amp; Design outlined the various topics for discussion, including:</p>",
+    "<p>• Project Reference</p>",
+    "<p>• Indoor Facility Needs</p>",
+    "<p>• JECC Twinning/Table Exercise</p>",
+    "<p>• MURF/Supporting Rationale</p>",
+    "<p>• MURF Overview/Discussions</p>",
+    "<p>• Table Exercise</p>",
+    "<p>• Summary and Next Steps</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "WORKSHOP BREAKOUT SESSIONS",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Members of Council were divided into smaller groups and lead through",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>a series of exercises providing an opportunity for Council Members to provide feedback and discussion ensued.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,338 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 2,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Wilton",
+  "Craddock",
+  "Adams"
+ ],
+ "absent": [
+  "Adams",
+  "Wilton"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "1.1",
+   "number": "1.1",
+   "title": "Mayor Watters welcomed everyone and called the meeting to order.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2.1",
+   "number": "2.1",
+   "title": "Mayor Watters read the Land Acknowledgement.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3.1",
+   "number": "3.1",
+   "title": "There were no addendums or corrections to the agenda.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4.1",
+   "number": "4.1",
+   "title": "None declared.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Matters Arising from Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "Mayor Watters indicated the purpose of the meeting was for educational",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>purposes/training and therefore there would be nothing coming forward from the meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 2
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "Closed Session",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(3.1) of The Municipal Act 2001, as amended, to educate or train the members.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(3.1) of The Municipal Act 2001, as amended, to educate or train the members.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "Reconvene in Open Session",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington reconvene in open session.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington reconvene in open session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Jefferson",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

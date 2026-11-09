@@ -1,0 +1,1386 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 12,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [
+  "Craddock"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor MacDonald read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>Councillor Wilton declared a conflict of pecuniary interest with respect to Agenda Item 11.7 - RZ05/24 Zoning By-law Enactment - 6235 Guelph Street, Nichol (Aypa Power BESS Facility) as her spouse is a partner at MHBC Planning Consultants and they are providing planning services to the applicant.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Matters Arising from Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "Mayor Watters indicated an item was discussed earlier in closed session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>regarding surplus properties and the following was put forward:</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 2
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "County Council Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Diane Ballantyne provided highlights on the Green Legacy tree program, the children’s museum space, various road projects, the improvements to the Elora transfer station and the success of the recent diversion program. She indicated the County of Wellington has provided $1 million in funding to each member municipality to support locally focused affordable housing projects and responded to questions regarding the recycling changes and collection dates.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Members of Council provided updates on activities related to truth and reconciliation, Safe Communities and the Elora Business Improvement Area.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "Victoria Nagy, Chair, Heritage Centre Wellington re: 219 Farley Road,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Fergus appeared in support of heritage designation of 219 Farley Road in Fergus. She indicated Heritage Centre Wellington values the property’s cultural heritage value and attributes and wants to protect it was demolition and prevent it from falling into further disrepair.</p>",
+    "<p>V. Nagy responded to questions regarding potential future uses for the farmhouse, and the Committee’s interest in collaboration with the developer/owner on a designation by-law that offers a variety of future uses.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "9.2",
+   "number": "9.2",
+   "title": "Staci Barron, resident spoke regarding the necessity for the regulation of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>short term rentals (STRs) and supported the implementation of a municipal accommodate tax that would provide revenue and leverage with the regulation.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated the Consent Agenda Items are considered routine in nature and are voted on collectively. However, any Member of Council may request one or more items be removed from the Consent Agenda for separate discussion and/or action.</p>",
+    "<p>Councillors Lustgarten-Evoy and Adams suggested the three heritage designation recommendations be pulled from the Consent Agenda and voted on separately.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "10.1",
+   "number": "10.1",
+   "title": "Approval and Receipt of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Minutes from closed meetings held January 27th February 24th, April 2nd, April 14th, April 28th, May 12th, June 16th, and August 13th, 2025 THAT the minutes of the closed meetings held January 27th February 24th, April 2nd, April 14th, April 28th, May 12th, June 16th, and August 13th, 2025, the minutes of the August 25, 2025 Council meeting, the Economic Prosperity &amp; Growth Advisory Committee and the Diversity, Equity &amp; Inclusion Advisory Committee be approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10.5",
+   "number": "10.5",
+   "title": "Appointment of Municipal Law Enforcement Officers - Parking By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. O&#x27;Kane, Manager of Legislative Services &amp; Municipal Clerk</p>",
+    "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a by-law to appoint various employees of Alpha Technology Systems, o/a Alpha Parking Solutions as Municipal Law Enforcement Officers for the purpose of enforcing the Township&#x27;s Parking By-law.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10.6",
+   "number": "10.6",
+   "title": "Elora Rocks - Alcohol Pilot Extension",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Tucker, Manager of Recreation Facilities THAT the Council of the Township of Centre Wellington approve the extension of the Elora Rocks Sr. Hockey Club’s pilot project permitting the service of alcohol in a designated section of the tiered seating area at the Jefferson Elora Community Centre for the 2025/2026 ice season, subject to the provisions outlined in the Township’s Alcohol Risk Management Policy and in compliance with the safe service plan as approved by the Alcohol and Gaming Commission of Ontario (AGCO);</p>",
+    "<p>AND THAT staff continue to monitor the implementation of the safe service plan on a game-by-game basis, with authority to discontinue or require adjustments delegated to the Managing Director of Community Services.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10.7",
+   "number": "10.7",
+   "title": "Tourism Winter Experience Recipient Recommendation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Bettiol, Manager of Community Development THAT the Council of the Township of Centre Wellington approves the Winter Experience Program funding allocations as recommended by the Economic Prosperity and Growth Advisory Committee and in report CS2025-28.</p>",
+    "<p>Councillor Jefferson requested staff provided an overview of the report regarding 219 Farley Road, Fergus.</p>",
+    "<p>D. Maiden, Senior Development Planner provided an overview of the report, indicating 219 Farley Road currently supports a historic stone farmhouse circa 1880 which was redeveloped into the Storeybrook subdivision. She noted the developer retained the farmhouse on a newly configured lot with the subdivision and it was zoned accordingly. D.</p>",
+    "<p>Maiden explained the property has been vacant for sometime and designation would prevent it from falling into further disrepair.</p>",
+    "<p>B. Salmon, Managing Director of Planning &amp; Development explained the mixed use zoning applied to the property to allow some commercial uses, a doctor’s office, etc., and responded to questions regarding other historical features associated with the property and the proximity of the parkette.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10.2",
+   "number": "10.2",
+   "title": "Heritage Designation Recommendation - 219 Farley Road, Fergus",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Maiden, Senior Development Planner</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 5
+  },
+  {
+   "id": "10.3",
+   "number": "10.3",
+   "title": "Heritage Designation Recommendation - 298 Union Street East, Fergus",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Maiden, Senior Development Planner</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 5
+  },
+  {
+   "id": "10.4",
+   "number": "10.4",
+   "title": "Heritage Designation Recommendation - Melville United Church, 300 St",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Andrew Street W., Fergus</p>",
+    "<p>Report from D. Maiden, Senior Development Planner</p>",
+    "<p>D. Maiden, Senior Development Planner responded to questions regarding Melville Church as the first church in Fergus to be designated and the impact to the works on the adjacent stone wall.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "11.1",
+   "number": "11.1",
+   "title": "Municipal Accommodation Tax Implementation Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Wilson, Chief Administrative Officer</p>",
+    "<p>Presentation from K. Linton, Linton Consulting</p>",
+    "<p>D. Wilson, Chief Administrative Officer provided background on the Municipal Accommodation Tax Implementation, noting Council approved a 4 step approach as follows:</p>",
+    "<p> Step 1 – Determine the appropriate structure for the MSC  Step 2 – Prepare the legislated required case study to establish the MSC</p>",
+    "<p> Step 3 – Community engagement</p>",
+    "<p> Step 4 – Preparation of necessary corporation, by-laws, and agreements</p>",
+    "<p>K. Linton, Linton Consulting provided background on the context and project objectives, the collaborative approach, the current state organizational model, municipal comparative practices, input from Council, the design principles and the preferred model. He outlined the next steps and responded to questions regarding the role of the Executive Director, the reporting structure back to Council and operational oversight, the goal of a well balanced, skill-based Board of Directors, regular communication and the establishment of a sustainable revenue stream for the MSC through MAT revenues, percentage of paid parking revenues and Ontario Lottery and Gaming revenues.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8",
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "11.2",
+   "number": "11.2",
+   "title": "Elora Farmers Market Exemption",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Bettiol, Manager of Community Development K. Bettiol, Manager of Community Development provided an overview of the report and responded to questions regarding the sampling of products and the review of the alcohol risk management policy.</p>",
+    "<p>Mayor Watters called for a 5 minute recess.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 7
+  },
+  {
+   "id": "11.3",
+   "number": "11.3",
+   "title": "Zoning Amendment RZ05-2025 Decision Report - 6949 Wellington",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Road 7, Nichol</p>",
+    "<p>Report from D. Maiden, Senior Development Planner</p>",
+    "<p>D. Maiden, Senior Development Planner provided an overview of the report and Dwayne Martin, Project Manager responded to questions regarding fuel storage and use of County roads with the heavy equipment.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 8
+  },
+  {
+   "id": "11.4",
+   "number": "11.4",
+   "title": "Business Park House Demolition - 6518 First Line, Fergus",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from G. Borovilos, Manager of Economic Development G. Borovilos, Manager of Economic Development provided an overview and background of the report, indicating staff is recommending demolition of the house and adjacent shed.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 8
+  },
+  {
+   "id": "11.5",
+   "number": "11.5",
+   "title": "2026 Equipment Order - Articulated Sidewalk Tractor",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from C. Baker, Managing Director of Infrastructure Services C. Baker, Managing Director of Infrastructure Services provided an overview of the report.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 8
+  },
+  {
+   "id": "11.6",
+   "number": "11.6",
+   "title": "Housing Needs Assessment Follow Up Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report B. Salmon, Managing Director of Planning and Development B. Salmon, Managing Director of Planning and Development provided an overview of the report, indicating staff is seeking Council direction to include housing initiatives outlined in the 2026 Budget and Business Plan, in particular, a) prepare a Township Housing Action Plan, b) investigate the creation of a Township Housing Advisory Committee c) investigate potential applications to Wellington County for housing funding, and d) consider staffing implications of a Township housing mandate going forward.</p>",
+    "<p>B. Salmon responded to questions regarding the establishment of a housing advisory committee, polices or incentives for developers to build attainable housing.</p>",
+    "<p>Councillor Wilton having declared a conflict of interest left the Chamber and therefore did not participate in the discussions nor did she vote on the next agenda item.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 9
+  },
+  {
+   "id": "11.7",
+   "number": "11.7",
+   "title": "RZ05/24 Zoning By-law Enactment - 6235 Guelph Street, Nichol (Aypa",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Power BESS Facility)</p>",
+    "<p>Report from M. Iglesias, Manager of Planning Services</p>",
+    "<p>M. Iglesias, Manager of Planning Services provided an overview of the report, indicating County Official Plan Amendment No. 130 for the Elora BESS (Aypa Power) facility at 6235 Guelph Street, Nichol adopted by County Council on September 25, 2025. She noted the Township may now pass the amending by-law, but it will not come into effect until after OPA 130 (By-law 5937-25) is in full effect.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 10
+  },
+  {
+   "id": "11.8",
+   "number": "11.8",
+   "title": "By-law to Regulate Sight Triangles within the Township",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. O&#x27;Kane, Manager of Legislative Services &amp; Municipal Clerk</p>",
+    "<p>K. O&#x27;Kane, Manager of Legislative Services &amp; Municipal Clerk provided an overview of the by-law and responded to questions.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 10
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "2025-56, A By-law to appoint various employees of Alpha Technology",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Systems, o/a Alpha Parking Solutions as Municipal Law Enforcement Officers for the purpose of enforcing the Township&#x27;s Parking By-law.</p>",
+    "<p>2025-57, A By-law to authorize the Mayor and Clerk to execute a by-law to regulate site triangles with the Township of Centre Wellington.</p>",
+    "<p>2025-58, A By-law to amend the Township of Centre Wellington Zoning By-law 2009-045, as amended, to change the zoning of certain lands from “A” to “A.11.5” (6949 Wellington Road 7, Nichol)</p>",
+    "<p>Councillor Wilton having declared a conflict of interest did not participate in the discussions nor did she vote on the next agenda item.</p>",
+    "<p>2025-59, A By-law to amend the Township of Centre Wellington Zoning By-law 2009-045, as amended, to change the zoning of certain lands from “A.19.3” to “A.19.6” ((Aypa Power BESS Facility) - only required if 11.7 approved above</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m17",
+    "m18"
+   ],
+   "page": 11
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "15.1",
+   "number": "15.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ],
+   "page": 11
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 12
+  },
+  {
+   "id": "16.1",
+   "number": "16.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m20"
+   ],
+   "page": 12
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "Closed Session",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(2)(c) of the Municipal Act 2001, as amended to consider proposed or pending disposition of land(s) by the municipality.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(2)(c) of the Municipal Act 2001, as amended to consider proposed or pending disposition of land(s) by the municipality.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "Reconvene in Open Session",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT Council convene in open session.",
+   "text_html": "<p>THAT Council convene in open session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "7.1",
+   "item_number": "7.1",
+   "item_title": "Mayor Watters indicated an item was discussed earlier in closed session",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington approves the categorization of Township properties and directs staff to commence the process of identifying and declaring surplus properties; AND THAT Council authorizes staff to prepare and issue a Request for Proposal for professional realtor services, to assist in appraising, marketing, and facilitating the sale of the surplus properties as well as the Fergus business park lands; AND THAT Council directs staff to establish a dedicated Housing Reserve Fund; AND THAT Council delegates authority to sell the identified surplus land included to the Chief Administrative Officer.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves the categorization of Township properties and directs staff to commence the process of identifying and declaring surplus properties; AND THAT Council authorizes staff to prepare and issue a Request for Proposal for professional realtor services, to assist in appraising, marketing, and facilitating the sale of the surplus properties as well as the Fergus business park lands; AND THAT Council directs staff to establish a dedicated Housing Reserve Fund; AND THAT Council delegates authority to sell the identified surplus land included to the Chief Administrative Officer.</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m4",
+   "item": "10",
+   "item_number": "10",
+   "item_title": "Consent Items",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 10.1, and items 10.5 through 10.7.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 10.1, and items 10.5 through 10.7.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "10.2",
+   "item_number": "10.2",
+   "item_title": "Heritage Designation Recommendation - 219 Farley Road, Fergus",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington states its Notice of Intent to Designate the property municipally known as 219 Farley Road, Fergus, as a property of cultural heritage value or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington states its Notice of Intent to Designate the property municipally known as 219 Farley Road, Fergus, as a property of cultural heritage value or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m6",
+   "item": "10.3",
+   "item_number": "10.3",
+   "item_title": "Heritage Designation Recommendation - 298 Union Street East, Fergus",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington states its Notice of Intent to Designate the property municipally known as 298 Union Street East, Fergus, as a property of cultural heritage value or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington states its Notice of Intent to Designate the property municipally known as 298 Union Street East, Fergus, as a property of cultural heritage value or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "10.4",
+   "item_number": "10.4",
+   "item_title": "Heritage Designation Recommendation - Melville United Church, 300 St",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington states its Notice of Intent to Designate the property municipally known as 300 St. Andrew Street West, Fergus, as a property of cultural heritage value or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington states its Notice of Intent to Designate the property municipally known as 300 St. Andrew Street West, Fergus, as a property of cultural heritage value or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m8",
+   "item": "11.1",
+   "item_number": "11.1",
+   "item_title": "Municipal Accommodation Tax Implementation Update",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve the Municipal Service Corporation Structure for Economic Development and Tourism services, outlined in the Linton Consulting Services Inc. report included in report CAO2025-18; AND THAT Council approve proceeding to community engagement, preparing the required case study to establish a municipal service corporation, and to begin preparation of the necessary articles of incorporation, by-laws, and agreements; AND THAT Council approve the funding increase for the Municipal Accommodation Tax Implementation Project outlined in report CAO2025-18; AND THAT Council direct staff to report back to Council with engagement results, a draft case study, draft by-laws, and draft agreements prior to formally establishing a municipal service corporation.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the Municipal Service Corporation Structure for Economic Development and Tourism services, outlined in the Linton Consulting Services Inc. report included in report CAO2025-18; AND THAT Council approve proceeding to community engagement, preparing the required case study to establish a municipal service corporation, and to begin preparation of the necessary articles of incorporation, by-laws, and agreements; AND THAT Council approve the funding increase for the Municipal Accommodation Tax Implementation Project outlined in report CAO2025-18; AND THAT Council direct staff to report back to Council with engagement results, a draft case study, draft by-laws, and draft agreements prior to formally establishing a municipal service corporation.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "11.1",
+   "item_number": "11.1",
+   "item_title": "Municipal Accommodation Tax Implementation Update",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington in accordance with Section 7.7(a) of Procedure By-law 2024-65, having reached the 3 hour maximum for a Council meeting, hereby extends the meeting curfew by an hour to 9 pm.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington in accordance with Section 7.7(a) of Procedure By-law 2024-65, having reached the 3 hour maximum for a Council meeting, hereby extends the meeting curfew by an hour to 9 pm.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m10",
+   "item": "11.2",
+   "item_number": "11.2",
+   "item_title": "Elora Farmers Market Exemption",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approves the request from the Elora Farmers' Market to permit alcohol sampling at Bissell Park in Elora, subject to the provisions from the Alcohol and Gaming Commission of Ontario (AGCO), the Township's Alcohol Risk Management Policy, and compliance with the safe service plan outlined in CS2025-31; AND THAT the Council of the Township of Centre Wellington delegates authority to the Managing Director of Community Services to annually review and approve future requests from the Elora Farmers' Market for vendor alcohol sampling in Bissell Park.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves the request from the Elora Farmers&#x27; Market to permit alcohol sampling at Bissell Park in Elora, subject to the provisions from the Alcohol and Gaming Commission of Ontario (AGCO), the Township&#x27;s Alcohol Risk Management Policy, and compliance with the safe service plan outlined in CS2025-31; AND THAT the Council of the Township of Centre Wellington delegates authority to the Managing Director of Community Services to annually review and approve future requests from the Elora Farmers&#x27; Market for vendor alcohol sampling in Bissell Park.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m11",
+   "item": "11.3",
+   "item_number": "11.3",
+   "item_title": "Zoning Amendment RZ05-2025 Decision Report - 6949 Wellington",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington approves application RZ05/25 for a Zoning By-law amendment and gives three readings to the necessary by-law.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves application RZ05/25 for a Zoning By-law amendment and gives three readings to the necessary by-law.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m12",
+   "item": "11.4",
+   "item_number": "11.4",
+   "item_title": "Business Park House Demolition - 6518 First Line, Fergus",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington confirms that it does not oppose the demolition of the structures located at 6518 First Line, Fergus, listed on the Township's Municipal Heritage Register; AND THAT the property municipally known as 6518 First Line, Fergus, be removed from the Township's Municipal Heritage Register prior to demolition.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington confirms that it does not oppose the demolition of the structures located at 6518 First Line, Fergus, listed on the Township&#x27;s Municipal Heritage Register; AND THAT the property municipally known as 6518 First Line, Fergus, be removed from the Township&#x27;s Municipal Heritage Register prior to demolition.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m13",
+   "item": "11.5",
+   "item_number": "11.5",
+   "item_title": "2026 Equipment Order - Articulated Sidewalk Tractor",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington authorize award for the purchase of 1 (one) new articulated sidewalk tractor to Maclean Engineering and Manufacturing Co. of Owen Sound, Ontario at an upset limit of $186,173.74 inclusive of non-rebate HST; AND THAT Council authorizes funding from the 2026 vehicle and equipment replacement reserve to facilitate the purchase in 2025; AND THAT Council directs staff to update the 2026 capital budget accordingly.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize award for the purchase of 1 (one) new articulated sidewalk tractor to Maclean Engineering and Manufacturing Co. of Owen Sound, Ontario at an upset limit of $186,173.74 inclusive of non-rebate HST; AND THAT Council authorizes funding from the 2026 vehicle and equipment replacement reserve to facilitate the purchase in 2025; AND THAT Council directs staff to update the 2026 capital budget accordingly.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m14",
+   "item": "11.6",
+   "item_number": "11.6",
+   "item_title": "Housing Needs Assessment Follow Up Report",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington acknowledges the housing supply and affordability crisis in Ontario and supports the Township having a defined role in addressing this crisis going forward. AND THAT the Township's 2026 Budget and Business Plan incorporate the following in order to affirm the Township's future role in addressing the housing supply and affordability crisis: 1. Prepare a Township Housing Action Plan 2. Investigate the creation of a Township Housing Advisory Committee 3. Investigate potential applications to Wellington County for housing funding 4. Consider staffing implications of a Township housing mandate going forward",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington acknowledges the housing supply and affordability crisis in Ontario and supports the Township having a defined role in addressing this crisis going forward. AND THAT the Township&#x27;s 2026 Budget and Business Plan incorporate the following in order to affirm the Township&#x27;s future role in addressing the housing supply and affordability crisis: 1. Prepare a Township Housing Action Plan 2. Investigate the creation of a Township Housing Advisory Committee 3. Investigate potential applications to Wellington County for housing funding 4. Consider staffing implications of a Township housing mandate going forward</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m15",
+   "item": "11.7",
+   "item_number": "11.7",
+   "item_title": "RZ05/24 Zoning By-law Enactment - 6235 Guelph Street, Nichol (Aypa",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington give three readings to a by-law to amend Zoning By-law 2009-045, to change the zoning on a portion of the property at 6235 Guelph Street, Nichol, to A.19.6 to allow a Battery Energy Storage System facility.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington give three readings to a by-law to amend Zoning By-law 2009-045, to change the zoning on a portion of the property at 6235 Guelph Street, Nichol, to A.19.6 to allow a Battery Energy Storage System facility.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m16",
+   "item": "11.8",
+   "item_number": "11.8",
+   "item_title": "By-law to Regulate Sight Triangles within the Township",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a by-law to regulate site triangles with the Township of Centre Wellington.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a by-law to regulate site triangles with the Township of Centre Wellington.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m17",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "2025-56, A By-law to appoint various employees of Alpha Technology",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-laws 2025-56 through 2025-58 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2025-56 through 2025-58 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m18",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "2025-56, A By-law to appoint various employees of Alpha Technology",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-laws 2025-59 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2025-59 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m19",
+   "item": "15.1",
+   "item_number": "15.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT By-law 2025-60 to Confirm the Proceedings of Council at its meeting held September 29, 2025 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2025-60 to Confirm the Proceedings of Council at its meeting held September 29, 2025 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m20",
+   "item": "16.1",
+   "item_number": "16.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 12
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 10
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

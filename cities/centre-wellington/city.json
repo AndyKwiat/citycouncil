@@ -1,0 +1,136 @@
+{
+ "slug": "centre-wellington",
+ "name": "Centre Wellington",
+ "display_name": "Centre Wellington (Fergus & Elora)",
+ "place": "Fergus and Elora, Ontario",
+ "council_name": "Centre Wellington Township Council",
+ "council_short": "Township Council",
+ "municipality": "Township of Centre Wellington",
+ "adapter": "civicweb",
+ "start_date": "2022-11-15",
+ "records_votes": "on request",
+ "urls": {
+  "records": "https://centrewellington.civicweb.net/Portal/",
+  "records_name": "Township of Centre Wellington CivicWeb",
+  "council_page": "https://www.centrewellington.ca/township-services/mayor-and-council/"
+ },
+ "civicweb": {
+  "base": "https://centrewellington.civicweb.net",
+  "types": [
+   18,
+   10
+  ],
+  "header": "^(Council|Special Council|Committee of the Whole)( \\(Budget\\))? Minutes [A-Z][a-z]+ \\d{1,2}, \\d{4}$"
+ },
+ "youtube": {
+  "channel": "UCNtoKR8bjPIx9giRQXnK50A",
+  "tabs": [
+   "streams"
+  ],
+  "types": {
+   "Council": {
+    "words": [
+     "council"
+    ],
+    "not": [
+     "special",
+     "committee",
+     "budget",
+     "orientation"
+    ]
+   },
+   "Special Council": {
+    "words": [
+     "special council"
+    ]
+   },
+   "Council (Budget)": {
+    "words": [
+     "council (budget)"
+    ]
+   },
+   "Committee of the Whole": {
+    "words": [
+     "committee of the whole"
+    ],
+    "not": [
+     "budget"
+    ]
+   },
+   "Committee of the Whole (Budget)": {
+    "words": [
+     "committee of the whole (budget)"
+    ]
+   }
+  }
+ },
+ "meeting_types": {
+  "Council": {
+   "body": "council",
+   "slug": "",
+   "label": "Township Council"
+  },
+  "Special Council": {
+   "body": "council",
+   "slug": "special-council",
+   "label": "Special Council"
+  },
+  "Council (Budget)": {
+   "body": "council",
+   "slug": "budget",
+   "label": "Budget"
+  },
+  "Committee of the Whole": {
+   "body": "committee",
+   "slug": "committee-of-the-whole",
+   "label": "Committee of the Whole"
+  },
+  "Committee of the Whole (Budget)": {
+   "body": "committee",
+   "slug": "committee-of-the-whole",
+   "label": "Committee of the Whole"
+  },
+  "Budget Committee of the Whole": {
+   "body": "committee",
+   "slug": "committee-of-the-whole",
+   "label": "Committee of the Whole"
+  }
+ },
+ "main_type": "Council",
+ "terms": [
+  {
+   "id": "2022-2026",
+   "label": "2022–2026",
+   "start": "2022-11-15",
+   "end": "2026-11-14",
+   "seats": 7
+  },
+  {
+   "id": "2026-2030",
+   "label": "2026–2030",
+   "start": "2026-11-15",
+   "end": "2030-11-14",
+   "seats": 7
+  }
+ ],
+ "redirect_from": [
+  "fergus",
+  "elora"
+ ],
+ "theme": {
+  "accent": "#2f5e57",
+  "accent_soft": "#e0ece9",
+  "duotone_dark": "#23463f",
+  "duotone_light": "#f7f5ef",
+  "photo": "source.jpg",
+  "photo_title": "Elora Mill",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Elora_Mill_2014.jpg",
+  "photo_artist": "JustSomePics",
+  "photo_licence": "CC BY-SA 4.0",
+  "photo_licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "focal_point": [
+   0.5,
+   0.5
+  ]
+ }
+}

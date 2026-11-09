@@ -1,0 +1,896 @@
+{
+ "title": "Committee of the Whole",
+ "source_format": "pdf",
+ "pages": 7,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [
+  "Craddock"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "1.1",
+   "number": "1.1",
+   "title": "Deputy Mayor Jefferson called the meeting to order.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2.1",
+   "number": "2.1",
+   "title": "Deputy Mayor Jefferson read the land acknowledgement.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3.1",
+   "number": "3.1",
+   "title": "None.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4.1",
+   "number": "4.1",
+   "title": "Mayor Watters declared a conflict regarding on item 8.6 New Township",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Operations Centre Project Update, due to a working relationship with the engineering firm involved in the project.</p>",
+    "<p>Councillor Wilton declared a conflict regarding item 9.4 –Minutes from Heritage Centre Wellington – 10 Jan 2023, as there is a report from a company which she has a family relationship.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Approval and Adoption of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Councillor Wilton indicated a correction to item 7.2 where the minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>refer to farm capacity in the second paragraph indicating it should read firm capacity.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Carl Gray, South Wellington Community Lions Branch has created a new",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>event, Trade Tracks, which will take place in Fergus on the fairground.</p>",
+    "<p>Trade Tracks is intended to introduce young people to the trades. The event includes participants from colleges, government organizations and school boards. The event will offer students and the public an opportunity to see what a career in the trades looks like. They are requesting Council waive the rental charges for the facility in Fergus where the event is to be held.</p>",
+    "<p>Mr. Gray responded to questions regarding the attendance of the Armed Forces.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6.2",
+   "number": "6.2",
+   "title": "Sally Litchfield, CEO Centre Wellington Chamber of Commerce gave a",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>presentation regarding the Chamber’s role in the community. She indicated the Chamber is the largest business association in Centre Wellington and she encouraged the Township to reach out to the Chamber to foster on going communication.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "None.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Grand River Conservation Authority re Lake Erie Region Source",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Protection Committee Municipal Member Nomination</p>",
+    "<p>Council posed questions regarding communication between Council and the Committee, how the nomination is put forward and if there is a per diem associated with the position.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3",
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Holding Zone Removal - Walser Building, 6523 Wellington Road 7, Elora",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Iglesias, Senior Planner</p>",
+    "<p>M. Iglesias, Senior Planner indicated the Holding Zone is for the Elora Mill property located on the south side of the river, known as the Walser Building ruins. She further outlined the purpose of a holding provision.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "Stormwater Management Master Plan - Notice of Study Commencement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from R. Maiden, Water and Wastewater Capital Project Manager R. Maiden, Water and Wastewater Capital Project Manager outlined the report, indicating future reports will come forward to Council as part of the study. He indicated the completion of the master plan is expected in Q1 of 2024.</p>",
+    "<p>In response to a question from Council, he indicated part of the study will include innovation in stormwater practices.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8.4",
+   "number": "8.4",
+   "title": "By-law to Restrict the Weight of Vehicles",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. Dickieson, Engineering Service Coordinator Adam Gilmore, Manager of Engineering outlined the bridges contained in the by-law and he explained the multiple unit load posting to accommodate tractors pulling trailers for agriculture purposes.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8.5",
+   "number": "8.5",
+   "title": "Proposed Collaboration with BioDiffusion Technologies Inc. for Innovative",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Road Construction Project</p>",
+    "<p>Report from A. Gilmore, Manager of Engineering</p>",
+    "<p>A. Gilmore, Manager of Engineering reviewed the condition of the Eighth Line West (Wellington Rd 18 to Sideroad 5) and outlined the re-paving process proposed to be undertaken in collaboration with BioDiffusion Technologies.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8.6",
+   "number": "8.6",
+   "title": "Mayor Watters, having declared a conflict of interest left the meeting.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>New Township Operations Centre Project Update</p>",
+    "<p>Report from A. Gilmore, Manager of Engineering</p>",
+    "<p>C. Baker, Managing Director of Infrastructure gave a presentation with Adam Gilmore, Adam McNabb, and Dan Wilson outlining the background of the project, the findings of the space needs assessment, the site selection process, an overview of the site development, including conceptual design options, heritage findings and sustainable and “green” building opportunities. They further outlined the next steps including the rational for the relocation for the Planning and Development department.</p>",
+    "<p>Staff responded to questions regarding partnership with the County, use of the centre by the public, the number of staff relocated to the new centre, timing of the heritage impact assessment, expansion of the work from home program, use of 205 Queen Street in Fergus, additional administrative spaces, and use of the existing farmhouse.</p>",
+    "<p>Councillor Wilton proposed a friendly amendment to have staff report back on options / alternatives discussed, including future uses of the farmhouse.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.7",
+   "number": "8.7",
+   "title": "Council recessed from 4:38pm to 4:49pm",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Temporary Extension of Liquor Licence - Grand River Raceway Report from L. Miller, Deputy Municipal Clerk</p>",
+    "<p>L. Miller, Deputy Municipal Clerk outlined the report, indicating this is a requirement of the Alcohol Gaming Commission of Ontario to extend the licenced area.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 6
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Information Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "Water Supply Master Plan Overview (Verbal Report)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Colin Baker, Managing Director of Infrastructure gave a presentation outlining the Water Supply Master Plan which was completed in 2019, including the background with the Tier 3 water assessment, the physical characterization of the ground and ground water flow modelling. He reviewed the components of the Water Supply Master Plan, including the future demand requirement.</p>",
+    "<p>Adam Gilmore, Manager of Engineering provided project updates on Well F2 and Well F5 replacement, new Well Exploration and the Wellfield Capacity Assessment.</p>",
+    "<p>C. Baker outlined the current Township Water Supply and Wastewater treatment capacities.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "9.2",
+   "number": "9.2",
+   "title": "Treasurer's Annual Statement: 2022 Investments",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Received for Information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "9.3",
+   "number": "9.3",
+   "title": "Treasurer's Annual Statement: 2022 Interest Free Loans",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "9.4",
+   "number": "9.4",
+   "title": "Having declared a conflict, Councillor Wilton left the meeting.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Minutes from Heritage Centre Wellington</p>",
+    "<p>Received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "10.1",
+   "number": "10.1",
+   "title": "Adjourn",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 7
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "Councillor Wilton indicated a correction to item 7.2 where the minutes",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT the minutes of the Committee of the Whole meeting held February 13, 2023 be adopted, as amended.",
+   "text_html": "<p>THAT the minutes of the Committee of the Whole meeting held February 13, 2023 be adopted, as amended.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "Carl Gray, South Wellington Community Lions Branch has created a new",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington refer the request from the South Wellington Community Lions to waive the rental fee for the Trade Track event to staff for a report.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington refer the request from the South Wellington Community Lions to waive the rental fee for the Trade Track event to staff for a report.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "Grand River Conservation Authority re Lake Erie Region Source",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington approve the appointment of John Sepulis as the municipal representative for the geographic area of Grey, Dufferin, Wellington and Halton to the Lake Erie Source Protection Committee for the 2022-2026 term.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the appointment of John Sepulis as the municipal representative for the geographic area of Grey, Dufferin, Wellington and Halton to the Lake Erie Source Protection Committee for the 2022-2026 term.</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "Grand River Conservation Authority re Lake Erie Region Source",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington defer the selection of the municipal representative to the Lake Erie Region Source Protection Committee to the March meeting of Council or April Committee of the Whole meeting for a report from staff.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington defer the selection of the municipal representative to the Lake Erie Region Source Protection Committee to the March meeting of Council or April Committee of the Whole meeting for a report from staff.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Holding Zone Removal - Walser Building, 6523 Wellington Road 7, Elora",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington approve application HZ01/2023 to remove a holding zone symbol and give three readings to the corresponding by-law. (Walser Building)",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve application HZ01/2023 to remove a holding zone symbol and give three readings to the corresponding by-law. (Walser Building)</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m6",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "Stormwater Management Master Plan - Notice of Study Commencement",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington receives for information Report No. IS2023-07 : Stormwater Management Master Plan – Notice of Municipal Class Environmental Assessment Study Commencement.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receives for information Report No. IS2023-07 : Stormwater Management Master Plan – Notice of Municipal Class Environmental Assessment Study Commencement.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "8.4",
+   "item_number": "8.4",
+   "item_title": "By-law to Restrict the Weight of Vehicles",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington adopt a by-law to restrict the weight of vehicles passing over certain bridges in the Township of Centre Wellington, as outlined in Report No. IS2023-04.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington adopt a by-law to restrict the weight of vehicles passing over certain bridges in the Township of Centre Wellington, as outlined in Report No. IS2023-04.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m8",
+   "item": "8.5",
+   "item_number": "8.5",
+   "item_title": "Proposed Collaboration with BioDiffusion Technologies Inc. for Innovative",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington endorses the proposed collaboration with BioDiffusion Technologies Inc. for the re- paving of Eighth Line West - Wellington Road 18 to Sideroad 5, as outlined in Report No. IS2023-06. AND THAT Township Council delegates authority to the Managing Director of Infrastructure Services for authorization of a Memorandum of Understanding between the Township and BioDiffusion Technologies Inc. to define the terms and conditions of the proposed collaboration described in Report No. IS2023-06.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorses the proposed collaboration with BioDiffusion Technologies Inc. for the re- paving of Eighth Line West - Wellington Road 18 to Sideroad 5, as outlined in Report No. IS2023-06. AND THAT Township Council delegates authority to the Managing Director of Infrastructure Services for authorization of a Memorandum of Understanding between the Township and BioDiffusion Technologies Inc. to define the terms and conditions of the proposed collaboration described in Report No. IS2023-06.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m9",
+   "item": "8.6",
+   "item_number": "8.6",
+   "item_title": "Mayor Watters, having declared a conflict of interest left the meeting.",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington receive as information an update on the New Township Operations Centre project, as outlined in Report No. IS2023-05; AND THAT the Council of the Township of Centre Wellington endorses conceptual design Option 2 to add the Planning & Development Department to the New Township Operations Centre. AND THAT staff report back on options / alternatives discussed at the Committee of the Whole meeting held March 13, 2023 including future use of the farmhouse.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive as information an update on the New Township Operations Centre project, as outlined in Report No. IS2023-05; AND THAT the Council of the Township of Centre Wellington endorses conceptual design Option 2 to add the Planning &amp; Development Department to the New Township Operations Centre. AND THAT staff report back on options / alternatives discussed at the Committee of the Whole meeting held March 13, 2023 including future use of the farmhouse.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m10",
+   "item": "8.7",
+   "item_number": "8.7",
+   "item_title": "Council recessed from 4:38pm to 4:49pm",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington has no objection to the extension of the proposed extended licensed area at the Grand River Raceway, as outlined in their letter dated February 16, 2023 with respect to the Industry Day event scheduled for Monday, August 7, 2023.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington has no objection to the extension of the proposed extended licensed area at the Grand River Raceway, as outlined in their letter dated February 16, 2023 with respect to the Industry Day event scheduled for Monday, August 7, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m11",
+   "item": "10.1",
+   "item_number": "10.1",
+   "item_title": "Adjourn",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Mayor Watters",
+   "item_number": "8.6",
+   "text": ""
+  },
+  {
+   "member": "Wilton",
+   "item_number": "9.4",
+   "text": ""
+  }
+ ],
+ "attendance_events": [
+  {
+   "member": "Mayor Watters",
+   "event": "joined",
+   "text": "Mayor Watters rejoined the meeting.",
+   "page": 6
+  },
+  {
+   "member": "Wilton",
+   "event": "left",
+   "text": "9.4 Having declared a conflict, Councillor Wilton left the meeting.",
+   "page": 7
+  },
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 7
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

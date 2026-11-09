@@ -1,0 +1,1055 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 11,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Adams",
+  "Wilton",
+  "Craddock",
+  "Lustgarten-Evoy"
+ ],
+ "absent": [
+  "Lustgarten-Evoy"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wilton read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>There were no addendums or corrections to the agenda.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>Councillor Wilton declared a conflict of pecuniary interest with respect to agenda items 7.5, Amending Agreement – 43 West Mill Street Encroachment, 8.3, Zoning Amendment RZ15/22 Decision Report, 961 St. David Street, North, 8.6, South Fergus Master Environmental Servicing Plan and 8.7, Housing Enabling Water Systems Fund Application for the Extension of Municipal Services to the South Fergus Secondary Plan Area, as her spouse is a partner with MHBC who is providing planning consulting services on these files.</p>",
+    "<p>Councillor Jefferson declared a conflict of pecuniary interest with respect to agenda item 8.2, Parking – Software Provision and Enforcement connected to a previous conflict declared regarding the Parking Strategy as she is a Fergus downtown business owner.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Mayor's County Council Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters outlined details regarding the Trail Workplan 2024, in particular, the Kissing Bridge Trail, including exploration with the Region of Waterloo for a potential crossing of the Conestoga River, and tree planting on the Tressel Bridge Trail by Neighbourwoods. He circulated the Climate Change and Sustainability annual report and provided updates on waste management, including potential upgrades to the Rothsay and Elora transfer stations.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.2",
+   "number": "5.2",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wilton provided an update on discussions held with the Fergus BIA regarding the St. David Street road reconstruction.</p>",
+    "<p>Councillor Jefferson indicated the Elora BIA executive meeting is scheduled for this evening to discuss preparations for Canada Food Day, beautification projects and public sculpture submissions.</p>",
+    "<p>Councillor MacDonald highlighted the Safe Communities’ Drayton farm day.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Luisa Vacondio, MHBC Planning Consultants Re:8.3 Zoning",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Amendment RZ015/22 Decision Report - 961 St. David St. N.</p>",
+    "<p>Luisa Vacondio, MHBC Planning Consultants appeared in support of the staff recommendation to approve an application for a zoning amendment to permit a residential infill development within the Fergus Urban Centre at 961 St. David Street, North.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated Consent Agenda Items are considered routine in nature and are voted on collectively. Any Member of Council may request one or more items be removed from the Consent Agenda for separate discussion and/or action.</p>",
+    "<p>Councillor Wilton requested item 7.5 be pulled from the Consent Agenda for a separate vote due to a declared conflict of interest.</p>",
+    "<p>Councillor MacDonald requested item 7.4 be pulled from the Consent Agenda for a separate discussion.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7.4",
+   "number": "7.4",
+   "title": "Amendment to Open Air Burn By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from L. Miller, Deputy Municipal Clerk</p>",
+    "<p>Staff responded to a question regarding clarification provided in the amendment regarding the prohibition of open air fires in front yards.</p>",
+    "<p>Councillor Wilton, having declared a conflict of interest left the room and therefore did not participate or note on the next item.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7.5",
+   "number": "7.5",
+   "title": "Amending Agreement - 43 West Mill Street Encroachment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from C. Baker, Managing Director of Infrastructure Services C. Baker, Managing Director of Infrastructure Services responded to questions regarding safety concerns with items or people on balconies over public property.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Stormwater Management Master Plan - Preliminary Preferred",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Alternative</p>",
+    "<p>Report from R. Maiden, Water and Wastewater Capital Project Manager R. Maiden, Project Manager indicated the purpose is to present the preliminary preferred alternatives for the Storm Water Master Plan. He provided background on the project and introduced Matt Senior &amp; Ron Scheckenberger, WSP Global Inc.</p>",
+    "<p>Matt Senior &amp; Ron Scheckenberger provided an overview of the study, reported the summary of findings, outlined the alternative assessment and preferred approach, the recommended storm sewer upgrades and financing strategy and the next steps in the process. They noted confirmation of the preferred alternative and approval of the Notice of Study Completion will be presented at the April 29th Council meeting.</p>",
+    "<p>The consultants and staff responded to questions on the overall ranking of the options, opportunities for swim ponds, enhancing habitat and biodiversity, use of development manual/guidelines for design, utility user fees and credits, and potential use of wet ponds for firefighting.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Parking - Software Provision and Enforcement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Lloyd-Smith, Manager of Purchasing and Risk Management</p>",
+    "<p>A. McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report and responded to questions regarding staff resources required, administration for parking services for the County and area municipalities, potential cost savings and return on investment, no impact to operating budget and financial implications to be offset by revenue, and the time frame for implementation.</p>",
+    "<p>K. O’Kane, Manager of Legislative Services &amp; Municipal Clerk provided an overview of the work staff is undertaking for Council approval on a comprehensive parking enforcement strategy for the entire Township.</p>",
+    "<p>declared a conflict of interest left the meeting and did not participate or vote on the next item.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "Zoning Amendment RZ015/22 Decision Report - 961 St. David St. N.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Iglesias, Manager of Planning Services</p>",
+    "<p>M. Iglesias, Manager of Planning Services indicated the property is a 1.4 hectare (3.4 acre) site, on the west side of St. David Street North (Hwy 6), mid-way between Sideroad 19 and 18 in the Fergus Urban Centre, currently containing a residential dwelling and outbuildings to be removed. She indicated the property is designated “Residential” in the Official Plan and adjacent to the “Highway Commercial” designation to the north, noting the purpose of the zoning amendment is to change the zoning from R1A residential exception to higher density residential zones, facilitating an infill development of 49 residential units.</p>",
+    "<p>M. Iglesias noted a public meeting was held on August 30, 2023 with concerns raised by neighbours related to potential traffic, noise, wildlife and vegetation impacts, and compatibility. She noted most of the concerns raised have been addressed through recommendations in the technical studies and will become conditions of draft approval of the plan of condominium. In addition, other matters such as detailed grading/drainage, tree removals, landscaping, fencing and noise mitigation measures will be addressed through a future detailed design.</p>",
+    "<p>M. Iglesias indicated staff is recommending approval of the zoning amendment to facilitate a 49 unit infill residential development proposal</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8.4",
+   "number": "8.4",
+   "title": "Annual Speed Limit and Traffic Calming Review and Recommendations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. Gilmore, Manager of Engineering</p>",
+    "<p>A. Gilmore, Manager of Engineering provided an overview of the report, indicating part of this process includes reviewing posted speed limits and speeding concerns on an annual basis and preparing a Speed Limit and Traffic Calming Review and Recommendations Report.</p>",
+    "<p>A. Gilmore responded to questions regarding safety for pedestrians and cyclists, evaluation criteria used for assessing road segments, the 40km pilot program, continued monitoring of York Street for future traffic calming measures, the Report It website tool, and a suggestion for consistent speed limit on South River Road.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.5",
+   "number": "8.5",
+   "title": "Rural Transit Solutions Fund: Planning and Design Projects Stream",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from C. Baker, Managing Director of Infrastructure Services C. Baker, Managing Director of Infrastructure Service provided an overview of the report.</p>",
+    "<p>Councillor Wilton, having declared a conflict of interest left the meeting and did not participate in the discussion nor did she vote on the next item.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.6",
+   "number": "8.6",
+   "title": "South Fergus Master Environmental Servicing Plan",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Salmon, Managing Director of Planning and Development</p>",
+    "<p>B. Salmon, Managing Director of Planning and Development provided an overview of the report and responded to questions.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.7",
+   "number": "8.7",
+   "title": "Housing-Enabling Water Systems Fund Application for the Extension of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Municipal Services to the South Fergus Secondary Plan Area Report from C. Baker, Managing Director of Infrastructure Services C. Baker, Managing Director of Infrastructure Services provided an overview of the report.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.8",
+   "number": "8.8",
+   "title": "Request for Tender #12-24 / Reconstruction of St. David Street North",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Wiles, Purchasing &amp; Risk Supervisor</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 9
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "2024-11 A By-law to amend the Township of Centre Wellington Zoning",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>By-law 2009-045, as amended, to change the zoning of certain lands from “A” to “A.24.3” and “A” to A.24.4” (8196 Wellington Road 19, West Garafraxa)</p>",
+    "<p>2024-12 A By-law to amend the Township of Centre Wellington Zoning By-law 2009-045, as amended, to change the zoning of the subject land from “R1A.70.1” to “R2” and from “R1A.70.1” to “R3.70.7” (961 St. David St. N., Fergus)</p>",
+    "<p>2024-13 A By-law to authorize the Mayor and Clerk to execute a Horticultural Services Agreement between the Corporation of the Township of Centre Wellington and Groves Memorial Community Hospital</p>",
+    "<p>2024-14 A By-law to amend By-law 2019-35 being a By-law to Regulate the Setting of Open-Air Fires in the Township of Centre Wellington Councillor Wilton have declared a conflict did not vote regarding By-law 2024-12.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12",
+    "m13"
+   ],
+   "page": 9
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 10
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 10
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 10
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 10
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 10
+  },
+  {
+   "id": "13.1",
+   "number": "13.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 10
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "7",
+   "item_title": "Consent Items",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.3, 7.6 and 7.7. 7.1 Approval and Receipt of Minutes from the February 26th and March 26, 2024 meetings. THAT Council approve the minutes from the meetings held February 26 and March 26, 2024 as circulated. 7.2 Appointments to the Diversity, Equity, and Inclusion Advisory Committee Report from D. Schellenberger, Legislative Coordinator THAT the Council of the Township of Centre Wellington appoint Patricia Brown, and Fanosie Wolde to fill vacancies on the Diversity, Equity, and Inclusion Advisory Committee. 7.3 Zoning Amendment RZ01-2024 Decision Report - 8196 Wellington Road 19, West Garafraxa Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington approves rezoning application RZ01/24 for the property at 8196 Wellington Road 19, West Garafraxa, and that the corresponding Zoning By-law amendment be given three readings. 7.6 Demolition - Listed Property, 60 John Street, Elora Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington approves the demolition request for a 1.5 storey dwelling, at the listed property known as 60 John Street, Elora, in the Township of Centre Wellington; AND THAT the property be removed from the Municipal Heritage Register. 7.7 GMCH Horticultural Services Agreement Report from L. Rogerson, Manager of Parks THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a shared services agreement with Groves Memorial Community Hospital to provide Horticultural Services for the 2024 season.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.3, 7.6 and 7.7. 7.1 Approval and Receipt of Minutes from the February 26th and March 26, 2024 meetings. THAT Council approve the minutes from the meetings held February 26 and March 26, 2024 as circulated. 7.2 Appointments to the Diversity, Equity, and Inclusion Advisory Committee Report from D. Schellenberger, Legislative Coordinator THAT the Council of the Township of Centre Wellington appoint Patricia Brown, and Fanosie Wolde to fill vacancies on the Diversity, Equity, and Inclusion Advisory Committee. 7.3 Zoning Amendment RZ01-2024 Decision Report - 8196 Wellington Road 19, West Garafraxa Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington approves rezoning application RZ01/24 for the property at 8196 Wellington Road 19, West Garafraxa, and that the corresponding Zoning By-law amendment be given three readings. 7.6 Demolition - Listed Property, 60 John Street, Elora Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington approves the demolition request for a 1.5 storey dwelling, at the listed property known as 60 John Street, Elora, in the Township of Centre Wellington; AND THAT the property be removed from the Municipal Heritage Register. 7.7 GMCH Horticultural Services Agreement Report from L. Rogerson, Manager of Parks THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a shared services agreement with Groves Memorial Community Hospital to provide Horticultural Services for the 2024 season.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m2",
+   "item": "7.4",
+   "item_number": "7.4",
+   "item_title": "Amendment to Open Air Burn By-law",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a By-law to amend By-law 2019-35, being a By-law to regulate the setting of open air fires in the Township of Centre Wellington",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a By-law to amend By-law 2019-35, being a By-law to regulate the setting of open air fires in the Township of Centre Wellington</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m3",
+   "item": "7.5",
+   "item_number": "7.5",
+   "item_title": "Amending Agreement - 43 West Mill Street Encroachment",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington authorizes the Managing Director of Infrastructure Services to execute an amending agreement related to the encroachment at 43 West Mill Street in Elora and authorized through By-law 2024-08.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorizes the Managing Director of Infrastructure Services to execute an amending agreement related to the encroachment at 43 West Mill Street in Elora and authorized through By-law 2024-08.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m4",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "Stormwater Management Master Plan - Preliminary Preferred",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington receive for information Report No. IS2024-07 : Centre Wellington Stormwater Management Master Plan Preliminary Preferred Alternative.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive for information Report No. IS2024-07 : Centre Wellington Stormwater Management Master Plan Preliminary Preferred Alternative.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m5",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Parking - Software Provision and Enforcement",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington establishes Alpha Technology Systems Inc O/A Alpha Parking solutions as the vendor of record providing Municipal Law Enforcement Services and the ParkSmart software to automate parking operations in Centre Wellington, AND THAT the Council of the Township of Centre Wellington authorize staff to provide parking administration services across the County, and delegate authority to the Managing Director of Corporate Services and Treasurer to execute the necessary agreements if required.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington establishes Alpha Technology Systems Inc O/A Alpha Parking solutions as the vendor of record providing Municipal Law Enforcement Services and the ParkSmart software to automate parking operations in Centre Wellington, AND THAT the Council of the Township of Centre Wellington authorize staff to provide parking administration services across the County, and delegate authority to the Managing Director of Corporate Services and Treasurer to execute the necessary agreements if required.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m6",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "Zoning Amendment RZ015/22 Decision Report - 961 St. David St. N.",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington approves application RZ015/22 and a by-law to amend the zoning by-law be given three readings.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves application RZ015/22 and a by-law to amend the zoning by-law be given three readings.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m7",
+   "item": "8.4",
+   "item_number": "8.4",
+   "item_title": "Annual Speed Limit and Traffic Calming Review and Recommendations",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington endorses recommendations outlined in Report No. IS2024-18 related to proposed speed limit reductions on Township roads, to be implemented through an upcoming amendment to the Township's Consolidated Speed Bylaw, AND THAT Council directs staff to proceed with implementing speed reduction measures as outlined in Report No. IS2024-18.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorses recommendations outlined in Report No. IS2024-18 related to proposed speed limit reductions on Township roads, to be implemented through an upcoming amendment to the Township&#x27;s Consolidated Speed Bylaw, AND THAT Council directs staff to proceed with implementing speed reduction measures as outlined in Report No. IS2024-18.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m8",
+   "item": "8.5",
+   "item_number": "8.5",
+   "item_title": "Rural Transit Solutions Fund: Planning and Design Projects Stream",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington direct staff to apply for grant funding for a Transit Service Study under the Rural Transit Solutions Fund - Planning and Design Projects Stream; AND THAT Council delegate authority to Chief Administrative Officer and the Managing Director of Corporate Services / Treasurer to execute the funding agreement and related documents associated with the grant; AND THAT Council approve the Township's share of project funding in the amount of $70,000 should the Township grant application be successful as outlined in Report No. IS2024-16 dated April 15, 2024.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington direct staff to apply for grant funding for a Transit Service Study under the Rural Transit Solutions Fund - Planning and Design Projects Stream; AND THAT Council delegate authority to Chief Administrative Officer and the Managing Director of Corporate Services / Treasurer to execute the funding agreement and related documents associated with the grant; AND THAT Council approve the Township&#x27;s share of project funding in the amount of $70,000 should the Township grant application be successful as outlined in Report No. IS2024-16 dated April 15, 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m9",
+   "item": "8.6",
+   "item_number": "8.6",
+   "item_title": "South Fergus Master Environmental Servicing Plan",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington endorse the South Fergus Master Environmental Servicing Plan.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorse the South Fergus Master Environmental Servicing Plan.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m10",
+   "item": "8.7",
+   "item_number": "8.7",
+   "item_title": "Housing-Enabling Water Systems Fund Application for the Extension of",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington supports the extension of municipal services to the South Fergus Secondary Plan Area as outlined in Report No. IS2024-15 dated April 15, 2024; AND THAT Council directs staff to submit an application under the Housing-Enabling Water Systems Fund for the design and construction of external works required to service the South Fergus Secondary Plan Area; AND THAT Council delegates authority to the Chief Administrative Officer and Managing Director of Corporate Services/Treasurer to execute the funding agreement and any documents related to securing the funding should the Township's grant application be successful.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington supports the extension of municipal services to the South Fergus Secondary Plan Area as outlined in Report No. IS2024-15 dated April 15, 2024; AND THAT Council directs staff to submit an application under the Housing-Enabling Water Systems Fund for the design and construction of external works required to service the South Fergus Secondary Plan Area; AND THAT Council delegates authority to the Chief Administrative Officer and Managing Director of Corporate Services/Treasurer to execute the funding agreement and any documents related to securing the funding should the Township&#x27;s grant application be successful.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m11",
+   "item": "8.8",
+   "item_number": "8.8",
+   "item_title": "Request for Tender #12-24 / Reconstruction of St. David Street North",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington award Request For Tender #12-24 regarding the Reconstruction of St. David Street North (Highway No. 6), to Drexler Construction Limited at a contract price of $6,965,000.00, including contingency and excluding HST. AND THAT project funding be updated as shown in report COR2024-16 dated 15 April 2024.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington award Request For Tender #12-24 regarding the Reconstruction of St. David Street North (Highway No. 6), to Drexler Construction Limited at a contract price of $6,965,000.00, including contingency and excluding HST. AND THAT project funding be updated as shown in report COR2024-16 dated 15 April 2024.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m12",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2024-11 A By-law to amend the Township of Centre Wellington Zoning",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Adams",
+   "text": "THAT By-law 2024-12 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-law 2024-12 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m13",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2024-11 A By-law to amend the Township of Centre Wellington Zoning",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT By-laws 2024-11, 2024-13 and 2024-14 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2024-11, 2024-13 and 2024-14 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m14",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-law 2024-15 to Confirm the Proceedings of Council at its meeting held April 15, 2024 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2024-15 to Confirm the Proceedings of Council at its meeting held April 15, 2024 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m15",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 5
+  },
+  {
+   "member": "Craddock",
+   "event": "joined",
+   "text": "Councillor Craddock joined the meeting at 2:27 pm.",
+   "page": 5
+  },
+  {
+   "member": "Jefferson",
+   "event": "joined",
+   "text": "Councillor Jefferson rejoined the meeting. Councillor Wilton, having",
+   "page": 6
+  },
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 7
+  },
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 9
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,2037 @@
+{
+ "d": [
+  {
+   "id": 1003,
+   "date": "2026-09-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 1002,
+   "date": "2026-08-24",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 83103
+  },
+  {
+   "id": 1038,
+   "date": "2026-07-30",
+   "name": "Special Council",
+   "type": 18,
+   "minutes_doc": 82811
+  },
+  {
+   "id": 1001,
+   "date": "2026-07-13",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 82810
+  },
+  {
+   "id": 1000,
+   "date": "2026-06-29",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 82192
+  },
+  {
+   "id": 999,
+   "date": "2026-06-15",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 81956
+  },
+  {
+   "id": 997,
+   "date": "2026-05-25",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 81605
+  },
+  {
+   "id": 1031,
+   "date": "2026-05-21",
+   "name": "Special Council",
+   "type": 18,
+   "minutes_doc": 81604
+  },
+  {
+   "id": 998,
+   "date": "2026-05-11",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 81186
+  },
+  {
+   "id": 996,
+   "date": "2026-04-27",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 80838
+  },
+  {
+   "id": 995,
+   "date": "2026-04-13",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 81185
+  },
+  {
+   "id": 994,
+   "date": "2026-03-23",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 80591
+  },
+  {
+   "id": 993,
+   "date": "2026-02-23",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 80791
+  },
+  {
+   "id": 992,
+   "date": "2026-02-09",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 80592
+  },
+  {
+   "id": 1017,
+   "date": "2026-02-05",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 80291
+  },
+  {
+   "id": 991,
+   "date": "2026-01-26",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 80790
+  },
+  {
+   "id": 919,
+   "date": "2025-12-15",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 79304
+  },
+  {
+   "id": 923,
+   "date": "2025-12-02",
+   "name": "Council (Budget)",
+   "type": 18,
+   "minutes_doc": 79305
+  },
+  {
+   "id": 912,
+   "date": "2025-11-24",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 78191
+  },
+  {
+   "id": 960,
+   "date": "2025-11-10",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 78190
+  },
+  {
+   "id": 922,
+   "date": "2025-10-27",
+   "name": "Council (Budget)",
+   "type": 18,
+   "minutes_doc": 78189
+  },
+  {
+   "id": 917,
+   "date": "2025-10-14",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 78188
+  },
+  {
+   "id": 911,
+   "date": "2025-09-29",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 78187
+  },
+  {
+   "id": 937,
+   "date": "2025-09-15",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77673
+  },
+  {
+   "id": 910,
+   "date": "2025-08-25",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77672
+  },
+  {
+   "id": 952,
+   "date": "2025-08-13",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77671
+  },
+  {
+   "id": 949,
+   "date": "2025-07-14",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77670
+  },
+  {
+   "id": 909,
+   "date": "2025-06-30",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77665
+  },
+  {
+   "id": 920,
+   "date": "2025-06-16",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77664
+  },
+  {
+   "id": 908,
+   "date": "2025-05-26",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77663
+  },
+  {
+   "id": 915,
+   "date": "2025-05-12",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77669
+  },
+  {
+   "id": 907,
+   "date": "2025-04-28",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77668
+  },
+  {
+   "id": 914,
+   "date": "2025-04-14",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77667
+  },
+  {
+   "id": 943,
+   "date": "2025-04-02",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 72714
+  },
+  {
+   "id": 906,
+   "date": "2025-03-24",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 77666
+  },
+  {
+   "id": 940,
+   "date": "2025-03-03",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 72078
+  },
+  {
+   "id": 905,
+   "date": "2025-02-24",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 72077
+  },
+  {
+   "id": 913,
+   "date": "2025-02-10",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 71392
+  },
+  {
+   "id": 904,
+   "date": "2025-01-27",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 71391
+  },
+  {
+   "id": 830,
+   "date": "2024-12-16",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 70828
+  },
+  {
+   "id": 829,
+   "date": "2024-11-25",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 68935
+  },
+  {
+   "id": 828,
+   "date": "2024-11-12",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 68414
+  },
+  {
+   "id": 827,
+   "date": "2024-10-28",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 68415
+  },
+  {
+   "id": 826,
+   "date": "2024-10-15",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 68037
+  },
+  {
+   "id": 862,
+   "date": "2024-10-08",
+   "name": "Special Council",
+   "type": 18,
+   "minutes_doc": 67483
+  },
+  {
+   "id": 825,
+   "date": "2024-09-30",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 67172
+  },
+  {
+   "id": 824,
+   "date": "2024-09-16",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 67171
+  },
+  {
+   "id": 822,
+   "date": "2024-07-15",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 66295
+  },
+  {
+   "id": 821,
+   "date": "2024-06-24",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 66294
+  },
+  {
+   "id": 820,
+   "date": "2024-06-10",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 63359
+  },
+  {
+   "id": 819,
+   "date": "2024-05-27",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 66633
+  },
+  {
+   "id": 818,
+   "date": "2024-05-13",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 62689
+  },
+  {
+   "id": 817,
+   "date": "2024-04-29",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 62688
+  },
+  {
+   "id": 816,
+   "date": "2024-04-15",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 62367
+  },
+  {
+   "id": 815,
+   "date": "2024-03-25",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 61219
+  },
+  {
+   "id": 813,
+   "date": "2024-02-26",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 61218
+  },
+  {
+   "id": 812,
+   "date": "2024-02-12",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 60360
+  },
+  {
+   "id": 811,
+   "date": "2024-01-29",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 60656
+  },
+  {
+   "id": 810,
+   "date": "2024-01-15",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 59305
+  },
+  {
+   "id": 845,
+   "date": "2024-01-11",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 60016
+  },
+  {
+   "id": 704,
+   "date": "2023-12-18",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 59303
+  },
+  {
+   "id": 703,
+   "date": "2023-11-27",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 59302
+  },
+  {
+   "id": 702,
+   "date": "2023-10-30",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 57581
+  },
+  {
+   "id": 701,
+   "date": "2023-09-25",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 56633
+  },
+  {
+   "id": 700,
+   "date": "2023-08-28",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 55972
+  },
+  {
+   "id": 699,
+   "date": "2023-07-31",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 55973
+  },
+  {
+   "id": 740,
+   "date": "2023-07-17",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 55971
+  },
+  {
+   "id": 742,
+   "date": "2023-06-26",
+   "name": "Council - 26 Jun 2023 - Part 2",
+   "type": 18
+  },
+  {
+   "id": 698,
+   "date": "2023-06-26",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 57583
+  },
+  {
+   "id": 697,
+   "date": "2023-05-29",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 55029
+  },
+  {
+   "id": 732,
+   "date": "2023-05-15",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 57582
+  },
+  {
+   "id": 696,
+   "date": "2023-04-24",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 55970
+  },
+  {
+   "id": 726,
+   "date": "2023-04-11",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 55969
+  },
+  {
+   "id": 694,
+   "date": "2023-03-27",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 55097
+  },
+  {
+   "id": 692,
+   "date": "2023-02-27",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 52506
+  },
+  {
+   "id": 687,
+   "date": "2023-01-30",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 52505
+  },
+  {
+   "id": 670,
+   "date": "2023-01-05",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 56863
+  },
+  {
+   "id": 594,
+   "date": "2022-12-12",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 51348
+  },
+  {
+   "id": 667,
+   "date": "2022-11-30",
+   "name": "Council Orientation",
+   "type": 18,
+   "minutes_doc": 51343
+  },
+  {
+   "id": 593,
+   "date": "2022-11-21",
+   "name": "Council",
+   "type": 18,
+   "minutes_doc": 51347
+  },
+  {
+   "id": 591,
+   "date": "2022-09-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 664,
+   "date": "2022-08-31",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 590,
+   "date": "2022-08-22",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 662,
+   "date": "2022-08-11",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 589,
+   "date": "2022-07-18",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 588,
+   "date": "2022-06-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 656,
+   "date": "2022-06-15",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 587,
+   "date": "2022-05-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 653,
+   "date": "2022-05-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 648,
+   "date": "2022-04-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 586,
+   "date": "2022-04-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 585,
+   "date": "2022-03-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 646,
+   "date": "2022-03-02",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 584,
+   "date": "2022-02-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 583,
+   "date": "2022-01-31",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 495,
+   "date": "2021-12-20",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 582,
+   "date": "2021-12-07",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 581,
+   "date": "2021-12-01",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 494,
+   "date": "2021-11-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 579,
+   "date": "2021-11-08",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 493,
+   "date": "2021-10-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 578,
+   "date": "2021-10-20",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 492,
+   "date": "2021-09-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 491,
+   "date": "2021-08-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 490,
+   "date": "2021-07-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 489,
+   "date": "2021-06-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 568,
+   "date": "2021-06-15",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 488,
+   "date": "2021-05-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 487,
+   "date": "2021-04-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 486,
+   "date": "2021-03-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 485,
+   "date": "2021-02-22",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 484,
+   "date": "2021-01-18",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 376,
+   "date": "2020-12-14",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 375,
+   "date": "2020-11-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 374,
+   "date": "2020-10-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 373,
+   "date": "2020-09-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 372,
+   "date": "2020-08-24",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 371,
+   "date": "2020-07-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 370,
+   "date": "2020-06-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 369,
+   "date": "2020-05-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 450,
+   "date": "2020-05-04",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 447,
+   "date": "2020-04-06",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 366,
+   "date": "2020-02-24",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 441,
+   "date": "2020-01-27",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 365,
+   "date": "2020-01-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 256,
+   "date": "2019-12-16",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 255,
+   "date": "2019-11-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 254,
+   "date": "2019-10-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 253,
+   "date": "2019-09-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 252,
+   "date": "2019-08-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 343,
+   "date": "2019-08-22",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 251,
+   "date": "2019-07-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 250,
+   "date": "2019-06-24",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 249,
+   "date": "2019-05-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 248,
+   "date": "2019-04-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 247,
+   "date": "2019-03-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 246,
+   "date": "2019-02-27",
+   "name": "Council -27 Feb 2019 - rescheduled from 25 Feb 2019",
+   "type": 18
+  },
+  {
+   "id": 313,
+   "date": "2019-02-27",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 245,
+   "date": "2019-01-21",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 240,
+   "date": "2018-12-17",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 241,
+   "date": "2018-12-03",
+   "name": "Inaugural Council",
+   "type": 18
+  },
+  {
+   "id": 201,
+   "date": "2018-09-24",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 200,
+   "date": "2018-08-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 226,
+   "date": "2018-07-23",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 227,
+   "date": "2018-07-03",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 198,
+   "date": "2018-06-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 197,
+   "date": "2018-05-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 223,
+   "date": "2018-05-14",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 196,
+   "date": "2018-04-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 222,
+   "date": "2018-04-03",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 195,
+   "date": "2018-03-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 194,
+   "date": "2018-02-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 193,
+   "date": "2018-01-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 219,
+   "date": "2018-01-23",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 149,
+   "date": "2017-12-18",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 217,
+   "date": "2017-11-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 148,
+   "date": "2017-11-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 170,
+   "date": "2017-11-22",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 147,
+   "date": "2017-10-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 166,
+   "date": "2017-10-12",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 146,
+   "date": "2017-09-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 164,
+   "date": "2017-09-07",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 145,
+   "date": "2017-08-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 123,
+   "date": "2017-07-24",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 162,
+   "date": "2017-07-12",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 159,
+   "date": "2017-06-26",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 121,
+   "date": "2017-06-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 158,
+   "date": "2017-06-06",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 118,
+   "date": "2017-05-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 115,
+   "date": "2017-04-24",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 112,
+   "date": "2017-03-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 144,
+   "date": "2017-03-07",
+   "name": "Special Council",
+   "type": 18
+  },
+  {
+   "id": 109,
+   "date": "2017-02-21",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 106,
+   "date": "2017-01-23",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 79,
+   "date": "2016-12-12",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 78,
+   "date": "2016-11-28",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 142,
+   "date": "2016-11-08",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 76,
+   "date": "2016-10-31",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 139,
+   "date": "2016-10-17",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 74,
+   "date": "2016-09-26",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 97,
+   "date": "2016-09-12",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 72,
+   "date": "2016-08-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 71,
+   "date": "2016-07-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 70,
+   "date": "2016-06-27",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 92,
+   "date": "2016-06-13",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 68,
+   "date": "2016-05-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 66,
+   "date": "2016-04-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 64,
+   "date": "2016-03-29",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 91,
+   "date": "2016-03-22",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 61,
+   "date": "2016-02-16",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 60,
+   "date": "2016-01-25",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 57,
+   "date": "2015-12-14",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 54,
+   "date": "2015-11-30",
+   "name": "Council",
+   "type": 18
+  },
+  {
+   "id": 955,
+   "date": "2025-11-10",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 78192
+  },
+  {
+   "id": 957,
+   "date": "2025-10-29",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 951,
+   "date": "2025-08-13",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 77689
+  },
+  {
+   "id": 948,
+   "date": "2025-07-14",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 77688
+  },
+  {
+   "id": 860,
+   "date": "2024-12-03",
+   "name": "Budget Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 68936
+  },
+  {
+   "id": 865,
+   "date": "2024-11-05",
+   "name": "Committee of the Whole (Budget)",
+   "type": 10
+  },
+  {
+   "id": 863,
+   "date": "2024-10-15",
+   "name": "Committee of the Whole Economic Development and Tourism Strategy Workshop",
+   "type": 10
+  },
+  {
+   "id": 859,
+   "date": "2024-09-19",
+   "name": "Committee of the Whole (Budget)",
+   "type": 10,
+   "minutes_doc": 67482
+  },
+  {
+   "id": 852,
+   "date": "2024-04-15",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 61944
+  },
+  {
+   "id": 748,
+   "date": "2023-12-08",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 747,
+   "date": "2023-12-07",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 59735
+  },
+  {
+   "id": 712,
+   "date": "2023-11-14",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 59301
+  },
+  {
+   "id": 711,
+   "date": "2023-10-16",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 57305
+  },
+  {
+   "id": 744,
+   "date": "2023-09-14",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 56480
+  },
+  {
+   "id": 710,
+   "date": "2023-09-11",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 58438
+  },
+  {
+   "id": 709,
+   "date": "2023-08-14",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 55698
+  },
+  {
+   "id": 733,
+   "date": "2023-05-10",
+   "name": "Committee of the Whole (Strategic Planning Workshop)",
+   "type": 10,
+   "minutes_doc": 54364
+  },
+  {
+   "id": 731,
+   "date": "2023-04-20",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 54363
+  },
+  {
+   "id": 730,
+   "date": "2023-04-19",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 54362
+  },
+  {
+   "id": 693,
+   "date": "2023-03-13",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 55697
+  },
+  {
+   "id": 723,
+   "date": "2023-03-01",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 59300
+  },
+  {
+   "id": 690,
+   "date": "2023-02-13",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 51867
+  },
+  {
+   "id": 689,
+   "date": "2023-02-08",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 721,
+   "date": "2023-02-06",
+   "name": "Committee of the Whole (continued)",
+   "type": 10
+  },
+  {
+   "id": 688,
+   "date": "2023-02-06",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 58985
+  },
+  {
+   "id": 601,
+   "date": "2022-12-08",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 51345
+  },
+  {
+   "id": 600,
+   "date": "2022-12-07",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 51344
+  },
+  {
+   "id": 603,
+   "date": "2022-11-29",
+   "name": "Committee of the Whole",
+   "type": 10,
+   "minutes_doc": 51342
+  },
+  {
+   "id": 599,
+   "date": "2022-06-20",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 598,
+   "date": "2022-05-24",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 597,
+   "date": "2022-04-19",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 596,
+   "date": "2022-03-21",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 595,
+   "date": "2022-02-22",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 496,
+   "date": "2021-11-30",
+   "name": "Committee of the Whole (Budget)",
+   "type": 10
+  },
+  {
+   "id": 483,
+   "date": "2021-11-22",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 482,
+   "date": "2021-10-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 501,
+   "date": "2021-10-04",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 481,
+   "date": "2021-09-20",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 500,
+   "date": "2021-09-07",
+   "name": "Committee of the Whole (Budget)",
+   "type": 10
+  },
+  {
+   "id": 480,
+   "date": "2021-07-19",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 479,
+   "date": "2021-06-21",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 499,
+   "date": "2021-06-21",
+   "name": "Committee of the Whole (Budget)",
+   "type": 10
+  },
+  {
+   "id": 563,
+   "date": "2021-06-14",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 478,
+   "date": "2021-05-17",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 559,
+   "date": "2021-05-10",
+   "name": "Special Committee of the Whole - 10 May 2021 (Procedure By-law Educational Workshop)",
+   "type": 10
+  },
+  {
+   "id": 558,
+   "date": "2021-04-28",
+   "name": "Special Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 477,
+   "date": "2021-04-19",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 476,
+   "date": "2021-03-22",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 552,
+   "date": "2021-02-18",
+   "name": "Public Meeting - Development Charges - Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 475,
+   "date": "2021-02-16",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 363,
+   "date": "2021-01-05",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 362,
+   "date": "2020-12-01",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 474,
+   "date": "2020-11-30",
+   "name": "Special Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 355,
+   "date": "2020-11-23",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 354,
+   "date": "2020-10-19",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 361,
+   "date": "2020-10-05",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 353,
+   "date": "2020-09-21",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 360,
+   "date": "2020-09-08",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 359,
+   "date": "2020-06-15",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 347,
+   "date": "2020-02-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 438,
+   "date": "2019-12-05",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 328,
+   "date": "2019-12-03",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 267,
+   "date": "2019-11-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 324,
+   "date": "2019-11-04",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 266,
+   "date": "2019-10-21",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 346,
+   "date": "2019-10-08",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 323,
+   "date": "2019-10-07",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 265,
+   "date": "2019-09-23",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 342,
+   "date": "2019-09-09",
+   "name": "Public Input Meeting - Draft Animal Control By",
+   "type": 10
+  },
+  {
+   "id": 322,
+   "date": "2019-09-09",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 344,
+   "date": "2019-08-14",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 264,
+   "date": "2019-07-22",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 263,
+   "date": "2019-06-17",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 321,
+   "date": "2019-06-10",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 320,
+   "date": "2019-06-03",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 262,
+   "date": "2019-05-21",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 319,
+   "date": "2019-05-13",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 261,
+   "date": "2019-04-23",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 327,
+   "date": "2019-04-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 325,
+   "date": "2019-04-15",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 318,
+   "date": "2019-04-08",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 317,
+   "date": "2019-03-27",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 316,
+   "date": "2019-03-25",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 260,
+   "date": "2019-03-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 312,
+   "date": "2019-02-25",
+   "name": "Committee of the Whole - 25 Feb 2019 - cancelled",
+   "type": 10
+  },
+  {
+   "id": 259,
+   "date": "2019-02-19",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 302,
+   "date": "2019-02-13",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 301,
+   "date": "2019-02-07",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 304,
+   "date": "2019-02-06",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 308,
+   "date": "2019-01-24",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 258,
+   "date": "2019-01-10",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 257,
+   "date": "2019-01-09",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 244,
+   "date": "2018-12-14",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 243,
+   "date": "2018-12-06",
+   "name": "Committee of the Whole (Orientation)",
+   "type": 10
+  },
+  {
+   "id": 242,
+   "date": "2018-12-05",
+   "name": "Committee of the Whole (Orientation)",
+   "type": 10
+  },
+  {
+   "id": 206,
+   "date": "2018-06-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 224,
+   "date": "2018-06-14",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 205,
+   "date": "2018-05-22",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 204,
+   "date": "2018-04-23",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 203,
+   "date": "2018-03-19",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 202,
+   "date": "2018-02-20",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 167,
+   "date": "2017-12-05",
+   "name": "Budget Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 152,
+   "date": "2017-11-20",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 151,
+   "date": "2017-10-23",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 150,
+   "date": "2017-09-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 163,
+   "date": "2017-09-07",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 119,
+   "date": "2017-06-19",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 160,
+   "date": "2017-06-08",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 117,
+   "date": "2017-05-23",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 114,
+   "date": "2017-04-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 110,
+   "date": "2017-03-20",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 102,
+   "date": "2017-01-24",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 105,
+   "date": "2017-01-16",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 101,
+   "date": "2016-11-21",
+   "name": "Committee of the Whole (Budget)",
+   "type": 10
+  },
+  {
+   "id": 77,
+   "date": "2016-11-21",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 100,
+   "date": "2016-11-07",
+   "name": "Committee of the Whole (Pre-Budget)",
+   "type": 10
+  },
+  {
+   "id": 140,
+   "date": "2016-10-27",
+   "name": "Special Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 75,
+   "date": "2016-10-24",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 99,
+   "date": "2016-10-03",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 73,
+   "date": "2016-09-19",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 98,
+   "date": "2016-09-08",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 69,
+   "date": "2016-06-20",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 67,
+   "date": "2016-05-24",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 65,
+   "date": "2016-04-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 63,
+   "date": "2016-03-21",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 87,
+   "date": "2016-02-02",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 85,
+   "date": "2016-01-26",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 59,
+   "date": "2016-01-18",
+   "name": "Committee of the Whole",
+   "type": 10
+  },
+  {
+   "id": 53,
+   "date": "2015-11-23",
+   "name": "Committee of The Whole",
+   "type": 10
+  }
+ ],
+ "checked_at": null
+}

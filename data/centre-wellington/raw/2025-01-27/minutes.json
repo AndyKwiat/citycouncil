@@ -1,0 +1,921 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 11,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Lustgarten-Evoy read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters acknowledged an Addendum to Item 11.2, Code of Conduct Complaint 2024-01 and MCIA Application 2024-01 – January 23, 2025.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>Councillor Wilton declared a conflict of pecuniary interest with respect to Item 12.2, Zoning Amendment RZ04-2024 Decision Report – 750 St.</p>",
+    "<p>David Street North, Fergus as her spouse is a partner at MHBC and they are the consultants on this application.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Matters Arising from Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated a closed session was held with no information coming forward at this time.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Public Meetings to Consider Zoning Amendments",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "RZ007-24 6518 First Line, Fergus",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated the public meeting is to present and receive public input regarding a proposed zoning by-law amendment on land within the Centre Wellington Business Park in Fergus.</p>",
+    "<p>He noted the purpose of the proposed zoning by-law amendment is to modify the zoning regulations for the Centre Wellington Business Park – North Fergus, including changes to the permitted uses and the lot regulations.</p>",
+    "<p>The effect of the proposed zoning by-law amendment is to implement the recommendations of the Centre Wellington Business Park Strategy.</p>",
+    "<p>He indicated if a person or public body would otherwise have an ability to appeal the decision of the Township of Centre Wellington to the Ontario Land Tribunal (OLT) but the person or public body does not make oral submissions at a public meeting or make written submissions to the Township of Centre Wellington before the by-law is passed, the person or public body is not entitled to appeal the decision.</p>",
+    "<p>Mayor Watters stated if a person or public body does not make oral submissions at a public meeting, or make written submissions to the Township of Centre Wellington before the by-law is passed, the person or public body may not be added as a party to the hearing of an appeal before the Ontario Land Tribunal (OLT) unless, in the opinion of the Tribunal, there are reasonable grounds to do so.</p>",
+    "<p>Mayor Watters advised if anyone wishes to be notified of the decision of the Township of Centre Wellington in respect of the proposed zoning by- law amendment, a written request must be made to the Municipal Clerk of the Township of Centre Wellington, 1 MacDonald Square, Elora, Ontario, N0B 1S0.</p>",
+    "<p>The Municipal Clerk advised notice was provided to prescribed persons, agencies and public bodies on or before December 19, 2024. A copy was also placed in the Wellington Advertiser on December 19, 2024.</p>",
+    "<p>The Municipal Clerk confirmed the requirement for giving notice was completed on December 19, 2024.</p>",
+    "<p>Mayor Watters asked Brett Salmon, Managing Director of Planning and Development, to present the application.</p>",
+    "<p>Brett Salmon, Managing Director of Planning provided an overview of the proposal, including the scope of the new M2.BP zone and the new uses to be added as well as the permitted uses to be deleted. He indicated the permitted uses to be added include the following: artisan studio, communication and broadcasting establishment, emergency service facility, laboratory, and business or professional office excluding a medical clinic.</p>",
+    "<p>B. Salmon outlined additional lot and building regulations relief sought, including the outdoor storage area, minimum lot frontage, side, front and rear yard set backs, minimum landscaped area and buffer strip.</p>",
+    "<p>B. Salmon responded to questions regarding the restriction on outdoor display, rationale for excluding medical office/clinic, inclusion of shared space and/or multi-tenant units.</p>",
+    "<p>Mayor Watters indicated there are no delegations registered and asked if there was anyone present who wished to speak to the application.</p>",
+    "<p>There being none, Mayor Watters thanked everyone for attending and indicated the application will be considered later in the meeting. He declared the public meeting adjourned.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "Sports Team Recognition",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Highland Rugby U18 - Provincial Champions</p>",
+    "<p>Mayor Watters congratulated and presented representatives from the Highland Rugby U18 - Provincial Champions with a cheque.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9.2",
+   "number": "9.2",
+   "title": "Fergus Scottish Festival, Matthew Bennett-Monty & Elizabeth Bender",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Matthew Bennett-Monty, President of the Fergus Scottish Festival noted the 80th anniversary of the festival and highlighted activities from last year. He also outlined some of the exciting new programs and activities planned for this special year, including the appearance of Outlander Star Charles Vandervaart, the Bay City Rollers and the Red Hot Chilli Pipers.</p>",
+    "<p>Matthew Bennett-Monty acknowledged the hard and dedicated work of the many volunteers and the continued support from Members of Council and the Township.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9.3",
+   "number": "9.3",
+   "title": "Mayor Watters indicated Barb Lee from the Elora Fergus Arts Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>was in attendance and with Council’s permission he would ask her to step forward to introduce local artist Megan Cleland.</p>",
+    "<p>Megan Cleland shared her techniques with wool, her experimentation with two and three dimensional art and her ability to do most of her own dying of the locally sourced wool.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9.4",
+   "number": "9.4",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillors Craddock and MacDonald provided updates on the activities of the Water/Wastewater Quality Management System Committee, the Safe Communities Committee and the Senior’s Centre.</p>",
+    "<p>Councillor Wilton having declared a conflict of interest on the next item, left the room.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Pierre Chavin appeared in support of the staff report, indicating many of the concerns raised have been addressed and outlined in a detailed response to staff.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Consent Agenda Items are considered routine in nature and are voted on collectively. However, any Member of Council may request one or more items be removed from the Consent Agenda for separate discussion and/or action.</p>",
+    "<p>Councillor Wilton expressed her disagreement with delegated authority to staff to extend the lighting schedule.</p>",
+    "<p>Staff responded to questions regarding the impact the extension would have on the trees, consultation with the neighbourhood, and provided clarification on the extended hours being Friday, Saturday and Sunday 6pm to 8pm.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 5
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "OFM Fire Protection Grant Transfer Payment Agreement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Dan Wilson, CAO provided an overview of the report, indicating the Fire Chief in collaboration with staff have applied for the grant money to purchase particulate blocking hoods that will offer increased protection by blocking more than 99.8% of toxic particles absorbed into the skin from burning materials during a fire.</p>",
+    "<p>Fire Chief Tom Mulvey responded to a question regarding the hoods, indicating replacing the current hoods for all staff, including 66 volunteer firefighters and 4 management staff.</p>",
+    "<p>Councillor Wilton, having declared a conflict of interest left the room and therefore did not participate in the discussion nor did she vote on the next item.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 7
+  },
+  {
+   "id": "12.2",
+   "number": "12.2",
+   "title": "Zoning Amendment RZ04-2024 Decision Report - 750 St David Street",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>N., Fergus</p>",
+    "<p>Report from D. Maiden, Senior Development Planner</p>",
+    "<p>D. Maiden, Senior Development Planner provided an overview of the report, including the scope of the amendment. She noted the property currently contains a single detached bungalow and detached garage that will be removed to facilitate redevelopment. The application seeks to amend the zoning from R1C - Residential to R4 – Residential with exemptions, as outlined in the staff report. The redevelopment proposes 12, 2-bedroom purpose built rental units, with 18 parking spaces, along with secure, exterior bicycle lockers.</p>",
+    "<p>D. Maiden indicated concerns raised related primarily to street parking, traffic, location of a new access on Parkside Drive East, snow removal, light pollution, servicing (water pressure) and retention of trees. She noted staff are of the opinion most of the concerns raised have been adequately addressed or can be addressed through a future site plan process.</p>",
+    "<p>D. Maiden responded to questions regarding the location of the driveway, and the various technical studies submitted in support of the application.</p>",
+    "<p>Pierre Chauvin, MHBC responded to questions related to the functionality of St. David Street as an arterial road, the intention to rent the units, and the location of multi-residential and commercial uses across the street.</p>",
+    "<p>Colin Baker, Managing Director of Infrastructure Services noted future plans for bike lanes, traffic calming, improved signage and safety measures.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 7
+  },
+  {
+   "id": "12.3",
+   "number": "12.3",
+   "title": "Zoning Amendment RZ07/24 Decision Report - Centre Wellington",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Business Park</p>",
+    "<p>Report from B. Salmon, Managing Director of Planning and Development</p>",
+    "<p>B. Salmon, Managing Director of Planning and Development provided an overview of the report and responded to questions.</p>",
+    "<p>Councillor MacDonald suggested including a medical office/clinic in the permitted uses. Discussion ensued and Council directed staff to review the M2 zoning with a view to expand the permitted uses to include a medical office/clinic.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 8
+  },
+  {
+   "id": "12.4",
+   "number": "12.4",
+   "title": "Affordable Residential Unit Development Charge Exemption",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Agreements</p>",
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Dan Wilson, CAO provided an overview of the report, indicating the purpose of the report is to provide an update on a newly enacted affordable residential unit development charge exemption that is now contained in the Development Charges Act (DCA), 1997. He responded to questions regarding the affordability thresholds, and the requirement to enter into agreements before the exemption is applied.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 9
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "13.1",
+   "number": "13.1",
+   "title": "2025-01 A By-law to authorize the Mayor and Clerk to execute an",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Agreement between The Corporation of the Township of Centre Wellington and the Firefighters of the Centre Wellington Volunteer Fire &amp; Rescue Services (approved December 16, 2024)</p>",
+    "<p>2025-02 A By-law to amend Part Lot Control Exemption By-law 2019-04 to extend the time period specified for the expiration of the By-law (Cutting Drive, Elora)</p>",
+    "<p>2025-03 A By-law to designate the lands at 6717 Sixth Line to be of cultural heritage value or interest.</p>",
+    "<p>2025-04 A By-law to designate the lands at 177 Chalmers Street to be of cultural heritage value or interest.</p>",
+    "<p>2025-05 A By-law to designate the lands at 250 Union Street East to be of cultural heritage value or interest.</p>",
+    "<p>2025-06 A By-law to designate the lands at 101 St. Andrew Street West to be of cultural heritage value or interest.</p>",
+    "<p>2025-07 A By-law to amend the Township of Centre Wellington Zoning By-law 2009-045, as amended, to change the zoning of certain lands from “M2” to “M2.BP” and “EP” (Centre Wellington Business Park) 2025-08 A By-law to approve two (2) template agreements for Affordable Residential Unit Development Charge Exemptions and authorize the Managing Director of Corporate Services and Treasurer to execute and amend same</p>",
+    "<p>2025-09 A By-law to amend the Township of Centre Wellington Zoning By-law 2009-045, as amended, to change the zoning of the subject land from “R1C” to “R4.76.5” (750 St David Street N., Fergus) 2025-10 A By-law to authorize the Mayor and Clerk to execute a Transfer Payment Agreement between the Corporation of the Township of Centre Wellington and His Majesty the King in right of Ontario as represented by the Office of the Fire Marshal</p>",
+    "<p>Councillor Wilton, having declared a conflict of interest on matters related to 750 St. David Street, North Fergus, did not participate in any discussion or vote on the next item.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8",
+    "m9"
+   ],
+   "page": 9
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "16.1",
+   "number": "16.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 11
+  },
+  {
+   "id": "17",
+   "number": "17",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "17.1",
+   "number": "17.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 11
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "Closed Session",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(2)(c) & (f) of the Municipal Act 2001, as amended to consider a proposed or pending acquisition or disposition of land by the municipality and advice that is subject to solicitor-client privilege, including communications necessary for that purpose.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(2)(c) &amp;</p><p>(f) of the Municipal Act 2001, as amended to consider a proposed or pending acquisition or disposition of land by the municipality and advice that is subject to solicitor-client privilege, including communications necessary for that purpose.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "Reconvene in Open Session",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT Council reconvene in open session.",
+   "text_html": "<p>THAT Council reconvene in open session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "11",
+   "item_number": "11",
+   "item_title": "Consent Items",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 11.1 through 11.8 as follows: 11.1 Approval and Receipt of Minutes That the minutes of the Council Meeting held December 16, 2024 be approved as circulated; AND the advisory committee minutes be received for information. 11.2 Code of Conduct Complaint 2024-01 and MCIA Application 2024- 01 THAT the Council of the Township of Centre Wellington receive Integrity Commissioner Report Code of Conduct Complaint 2021-01 and MCIA Application 2024-01 for information. 11.3 Designation By-law - 101 St Andrew Street West, Fergus Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 101 St. Andrew Street West, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law by given three readings. 11.4 Designation By-law - 250 Union Street East, Fergus Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 250 Union Street East, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law by given three readings. 11.5 Designation By-law - 6717 Sixth Line, Belwood Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 6717 Sixth Line, Belwood, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law by given three readings. 11.6 Designation By-law - 177 Chalmers Street, Elora Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 177 Chalmers Street, Elora, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law by given three readings. 11.7 Extension of Part Lot Control Bylaw 2019-04 Report from B. Salmon, Managing Director of Planning and Development THAT the Council of the Township of Centre Wellington give three readings to a By-law to extend Part Lot Control Exemption By-law 2019- 04 pursuant to Section 50(7.4) of the Planning Act. 11.8 Greenspace Lighting Extension Update Report from L. Rogerson, Manager of Parks THAT the Council of the Township of Centre Wellington receive for information the Greenspace Lighting extension update report.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 11.1 through 11.8 as follows: 11.1 Approval and Receipt of Minutes That the minutes of the Council Meeting held December 16, 2024 be approved as circulated; AND the advisory committee minutes be received for information. 11.2 Code of Conduct Complaint 2024-01 and MCIA Application 2024- 01 THAT the Council of the Township of Centre Wellington receive Integrity Commissioner Report Code of Conduct Complaint 2021-01 and MCIA Application 2024-01 for information. 11.3 Designation By-law - 101 St Andrew Street West, Fergus Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 101 St. Andrew Street West, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law by given three readings. 11.4 Designation By-law - 250 Union Street East, Fergus Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 250 Union Street East, Fergus, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law by given three readings. 11.5 Designation By-law - 6717 Sixth Line, Belwood Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 6717 Sixth Line, Belwood, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law by given three readings. 11.6 Designation By-law - 177 Chalmers Street, Elora Report from D. Maiden, Senior Development Planner THAT the Council of the Township of Centre Wellington confirms the intention to designate the property municipally known as 177 Chalmers Street, Elora, in the Township of Centre Wellington, to be a property of cultural heritage value and/or interest pursuant to Section 29 (Part 4) of the Ontario Heritage Act and that the corresponding by-law by given three readings. 11.7 Extension of Part Lot Control Bylaw 2019-04 Report from B. Salmon, Managing Director of Planning and Development THAT the Council of the Township of Centre Wellington give three readings to a By-law to extend Part Lot Control Exemption By-law 2019- 04 pursuant to Section 50(7.4) of the Planning Act. 11.8 Greenspace Lighting Extension Update Report from L. Rogerson, Manager of Parks THAT the Council of the Township of Centre Wellington receive for information the Greenspace Lighting extension update report.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m4",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "OFM Fire Protection Grant Transfer Payment Agreement",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington pass a by-law to authorize the Mayor and Municipal Clerk to execute the OFM Fire Protection Grant Transfer Payment Agreement; AND THAT Council approves the expenditure of funding in the amount of $16,340 for the purchase of upgraded personal protective equipment to include particulate blocking hoods.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington pass a by-law to authorize the Mayor and Municipal Clerk to execute the OFM Fire Protection Grant Transfer Payment Agreement; AND THAT Council approves the expenditure of funding in the amount of $16,340 for the purchase of upgraded personal protective equipment to include particulate blocking hoods.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m5",
+   "item": "12.2",
+   "item_number": "12.2",
+   "item_title": "Zoning Amendment RZ04-2024 Decision Report - 750 St David Street",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington approves application RZ04/24 for a Zoning By-law amendment and gives three readings to the necessary by-law.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves application RZ04/24 for a Zoning By-law amendment and gives three readings to the necessary by-law.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m6",
+   "item": "12.3",
+   "item_number": "12.3",
+   "item_title": "Zoning Amendment RZ07/24 Decision Report - Centre Wellington",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington give three readings to a zoning amendment affecting the remaining Township Business Park lands.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington give three readings to a zoning amendment affecting the remaining Township Business Park lands.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m7",
+   "item": "12.4",
+   "item_number": "12.4",
+   "item_title": "Affordable Residential Unit Development Charge Exemption",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington pass a by-law to approve two (2) template agreements for Affordable Residential Unit Development Charge Exemptions and authorize the Managing Director of Corporate Services and Treasurer to execute and make minor amendments to the agreements as required; AND FURTHER THAT the Council of the Township of Centre Wellington direct staff to update the Delegated Authority By-law to include this provision.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington pass a by-law to approve two (2) template agreements for Affordable Residential Unit Development Charge Exemptions and authorize the Managing Director of Corporate Services and Treasurer to execute and make minor amendments to the agreements as required; AND FURTHER THAT the Council of the Township of Centre Wellington direct staff to update the Delegated Authority By-law to include this provision.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m8",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "2025-01 A By-law to authorize the Mayor and Clerk to execute an",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-laws 2025-01 through 2025-08 and 2025-10 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2025-01 through 2025-08 and 2025-10 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m9",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "2025-01 A By-law to authorize the Mayor and Clerk to execute an",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT By-law 2025-09 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-law 2025-09 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m10",
+   "item": "16.1",
+   "item_number": "16.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT By-law 2025-11 to Confirm the Proceedings of Council at its meeting held January 27, 2025 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2025-11 to Confirm the Proceedings of Council at its meeting held January 27, 2025 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m11",
+   "item": "17.1",
+   "item_number": "17.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Adams",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting.",
+   "page": 5
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

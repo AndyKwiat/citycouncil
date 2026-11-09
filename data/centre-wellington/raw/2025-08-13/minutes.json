@@ -1,0 +1,264 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 2,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Wilton",
+  "Craddock",
+  "Adams"
+ ],
+ "absent": [
+  "Adams"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "LAND ACKNOWLEDGEMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor MacDonald read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>None declared.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4.1",
+   "number": "4.1",
+   "title": "Endorsement of Councillor Wilton to the Federation of Canadian",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Municipalities</p>",
+    "<p>Report from D. Schellenberger, Legislative Coordinator</p>",
+    "<p>Councillor Wilton provided an overview of the advocacy work undertaken by the Federation of Canadian Municipalities and her interest in participating on committees that may benefit from her skills and expertise.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 2
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "4.1",
+   "item_number": "4.1",
+   "item_title": "Endorsement of Councillor Wilton to the Federation of Canadian",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Craddock",
+   "text": "WHEREAS the Federation of Canadian Municipalities (FCM) represents the interests of member municipalities on policy and program matters that fall within federal jurisdiction; and WHEREAS FCM’s Board of Directors is comprised of elected municipal officials from all regions and sizes of communities to form a broad base of support and provide FCM with the united voice required to carry the municipal message to the federal government; BE IT RESOLVED that Council of the Township of Centre Wellington endorse Councillor Bronwynne Wilton to serve as a committee member on committees of FCM’s Board of Directors, for the period starting in June 2025 and ending with the term of Council, November 2026; and BE IT FURTHER RESOLVED that Council assumes all costs associated with Councillor Bronwynne Wilton attending FCM meetings.",
+   "text_html": "<p>WHEREAS the Federation of Canadian Municipalities (FCM) represents the interests of member municipalities on policy and program matters that fall within federal jurisdiction; and WHEREAS FCM’s Board of Directors is comprised of elected municipal officials from all regions and sizes of communities to form a broad base of support and provide FCM with the united voice required to carry the municipal message to the federal government; BE IT RESOLVED that Council of the Township of Centre Wellington endorse Councillor Bronwynne Wilton to serve as a committee member on committees of FCM’s Board of Directors, for the period starting in June 2025 and ending with the term of Council, November 2026; and BE IT FURTHER RESOLVED that Council assumes all costs associated with Councillor Bronwynne Wilton attending FCM meetings.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-law 2025-50 to Confirm the Proceedings of Council at its meeting held August 13, 2025, be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2025-50 to Confirm the Proceedings of Council at its meeting held August 13, 2025, be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Jefferson",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

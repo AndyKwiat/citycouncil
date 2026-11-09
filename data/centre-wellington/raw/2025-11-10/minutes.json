@@ -1,0 +1,898 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 7,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Jefferson read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 1
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Matters Arising from Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "Mayor Watters indicated a closed session was held earlier today and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>there is nothing to report at this time.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Introduction of Local Artist - Judy Eckkhadt",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Barb Lee, Elora Fergus Arts Council introduced the work of quilter, embroiderer, and teacher Judy Eckkhadt. J. Eckkhadt expressed her passion for textile art, indicating she has been quilting since she was 13 years old.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Mayor's County Council Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed Adam Gilmore to his first meeting in his new role as the Managing Director of Community Services.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Members of Council provide highlights of the ongoing activities of the external boards and advisory committees.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated the Consent Agenda Items are considered routine in nature and are voted on collectively. He noted any Member of Council may request one or more items be removed from the Consent Agenda for separate action.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 2
+  },
+  {
+   "id": "10.1",
+   "number": "10.1",
+   "title": "Approval and Receipt of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>THAT the minutes of the Closed Council Meetings held September 29, 2025 and October 14, 2025 be approved;</p>",
+    "<p>AND THAT the minutes of the Council Meeting held September 29, 2025 be approved as circulated.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "10.2",
+   "number": "10.2",
+   "title": "2026 Budget Public Engagement Survey Results",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "10.3",
+   "number": "10.3",
+   "title": "Appointment to Wellington County Joint Accessibility Advisory",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Committee</p>",
+    "<p>Report from D. Schellenberger, Legislative Coordinator</p>",
+    "<p>THAT the Council of the Township of Centre Wellington confirms the appointment of Scott Wylde to the Wellington County Joint Accessibility Advisory Committee.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "11.1",
+   "number": "11.1",
+   "title": "Guelph Owen Sound Transportation (GOST) License Amendment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Agreement</p>",
+    "<p>G. Borovilos, Manager of Economic Development</p>",
+    "<p>G. Borovilos, Manager of Economic Development provided an overview of the report and responded to questions regarding improved marketing and promotion of the service.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 3
+  },
+  {
+   "id": "11.2",
+   "number": "11.2",
+   "title": "Additional Residential Unit (ARU) Zoning Regulation Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Salmon, Managing Director of Planning &amp; Development B. Salmon, Managing Director of Planning &amp; Development provided an overview of the report, indicating the addition of one or more dwelling unit to existing residences is a form of gentle residential intensification that has been permitted by municipal planning regulations for several years. He outlined the changes to the final draft noting staff are of the opinion the proposed amendment is in accordance with the provisions of the Planning Act and its regulations.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "11.3",
+   "number": "11.3",
+   "title": "Annual Termite Report - 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Lloyd-Smith, Manager of Purchasing and Risk Management</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report and responded to questions regarding improved education, marking and promotion within the community.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 4
+  },
+  {
+   "id": "11.4",
+   "number": "11.4",
+   "title": "OLG Funding Allocation Policy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report and outlined the proposed amendment to the Township’s allocation policy as follows:</p>",
+    "<p>92% to Township Capital</p>",
+    "<p>4% to Community Impact Grants</p>",
+    "<p>2% to Heritage and</p>",
+    "<p>2% to Economic Development.</p>",
+    "<p>Councillor Wilton suggested allocating the 2% heritage transfer to the housing reserve as seed money to facilitate projects related to stainable housing.</p>",
+    "<p>D. Wilson, CAO responded to questions regarding future funding of housing initiatives and the establishment of a housing advisory committee.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7",
+    "m8"
+   ],
+   "page": 5
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "2025-70 A By-law to amend the Township of Centre Wellington Zoning",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>By-law 2009-045, as amended, to authorize the creation of additional residential units in accordance with the provisions of the Planning Act 2025-71 A By-law to establish a policy with respect to the allocation and use of Ontario Lottery &amp; Gaming Funding by the Municipality and to Repeal By-law 2024-69</p>",
+    "<p>2025-72 A By-law to authorize the Mayor and Clerk to execute the licensing amending agreement between The Corporation of the City of Owen Sound and The Corporation of the Township of Centre Wellington regarding the operation of Guelph Owen Sound Transportation service within the Township.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "15.1",
+   "number": "15.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 6
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 6
+  },
+  {
+   "id": "16.1",
+   "number": "16.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 6
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "Closed Session",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(2)(e) and (f) of the Municipal Act 2001, as amended concerning litigation or potential litigation, including matters before administrative tribunals, affecting the municipality and advice that is subject to solicitor-client privilege, including communications necessary for that purpose.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(2)(e) and</p><p>(f) of the Municipal Act 2001, as amended concerning litigation or potential litigation, including matters before administrative tribunals, affecting the municipality and advice that is subject to solicitor-client privilege, including communications necessary for that purpose.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 1
+  },
+  {
+   "id": "m2",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "Reconvene in Open Session",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Jefferson",
+   "text": "THAT Council convene in open session.",
+   "text_html": "<p>THAT Council convene in open session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "10",
+   "item_number": "10",
+   "item_title": "Consent Items",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 10.1 through 10.3.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 10.1 through 10.3.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "11.1",
+   "item_number": "11.1",
+   "item_title": "Guelph Owen Sound Transportation (GOST) License Amendment",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington authorizes the Mayor and Clerk to execute the licensing amending agreement between The Corporation of the City of Owen Sound and The Corporation of the Township of Centre Wellington regarding the operation of Guelph Owen Sound Transportation service within the Township.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorizes the Mayor and Clerk to execute the licensing amending agreement between The Corporation of the City of Owen Sound and The Corporation of the Township of Centre Wellington regarding the operation of Guelph Owen Sound Transportation service within the Township.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m5",
+   "item": "11.2",
+   "item_number": "11.2",
+   "item_title": "Additional Residential Unit (ARU) Zoning Regulation Update",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington adopt a zoning by-law amendment to regulate Additional Residential Units in Centre Wellington; AND THAT the Council of the Township of Centre Wellington confirms that further public notice is not required; AND THAT the corresponding by-law be given three readings and passed.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington adopt a zoning by-law amendment to regulate Additional Residential Units in Centre Wellington; AND THAT the Council of the Township of Centre Wellington confirms that further public notice is not required; AND THAT the corresponding by-law be given three readings and passed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m6",
+   "item": "11.3",
+   "item_number": "11.3",
+   "item_title": "Annual Termite Report - 2025",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington receive report PLN2025-45, Annual Termite Report for information; AND THAT the Council of the Township of Centre Wellington approves the removal of Aetna Pest Control as one of the preferred contractors installing the Sentricon product in the Township of Centre Wellington; AND THAT consideration be given to amending the OLG allocation policy and 2026 staff draft budget direction to coincide with the financial analysis detailed in Report PLN2025-45.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report PLN2025-45, Annual Termite Report for information; AND THAT the Council of the Township of Centre Wellington approves the removal of Aetna Pest Control as one of the preferred contractors installing the Sentricon product in the Township of Centre Wellington; AND THAT consideration be given to amending the OLG allocation policy and 2026 staff draft budget direction to coincide with the financial analysis detailed in Report PLN2025-45.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m7",
+   "item": "11.4",
+   "item_number": "11.4",
+   "item_title": "OLG Funding Allocation Policy",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington directs staff to redirect the 2% heritage allocation to the housing reserve for 2026.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington directs staff to redirect the 2% heritage allocation to the housing reserve for 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m8",
+   "item": "11.4",
+   "item_number": "11.4",
+   "item_title": "OLG Funding Allocation Policy",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a by-law to amend the OLG Funding Allocation Policy as amended; AND THAT the Council of the Township of Centre Wellington directs staff to use the Council amended policy in the 2026 Budget, with the policy to be reviewed as part of the 2027 Budget.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a by-law to amend the OLG Funding Allocation Policy as amended; AND THAT the Council of the Township of Centre Wellington directs staff to use the Council amended policy in the 2026 Budget, with the policy to be reviewed as part of the 2027 Budget.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED, as amended",
+    "label": "Carried as amended",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m9",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "2025-70 A By-law to amend the Township of Centre Wellington Zoning",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Jefferson",
+   "text": "THAT By-laws 2025-70 through 2025-72 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2025-70 through 2025-72 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m10",
+   "item": "15.1",
+   "item_number": "15.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Adams",
+   "text": "THAT By-law 2025-73 to Confirm the Proceedings of Council at its meeting held November 10, 2025 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2025-73 to Confirm the Proceedings of Council at its meeting held November 10, 2025 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m11",
+   "item": "16.1",
+   "item_number": "16.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

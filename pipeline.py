@@ -17,14 +17,14 @@ from core.summarize import SUMMARY_MODEL, check_summary, closed_only, formatted_
 from core.transcribe import GAP_SECONDS, clean_segments, find_gaps, parse_vtt  # noqa: F401
 from core.votes import export_votes, meeting_dirs  # noqa: F401
 from core import summarize as summarize_step, transcribe as transcribe_step
-from sources import escribe, govstack
+from sources import civicweb, escribe, govstack
 from sources.escribe import audit_votes, parse_result, split_names, surname, vote_side  # noqa: F401
 
 APP = "citycouncil"
 RADIFY = pathlib.Path.home() / "radify/bin/radify"
 OWNER = "you@example.com"
 STEPS = ["docs", "parse", "transcribe", "summarize"]
-ADAPTERS = {"escribe": escribe, "govstack": govstack}
+ADAPTERS = {"civicweb": civicweb, "escribe": escribe, "govstack": govstack}
 
 
 def adapter(city):

@@ -1,0 +1,1745 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 13,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "1.1",
+   "number": "1.1",
+   "title": "Mayor Watters called the meeting to order.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2.1",
+   "number": "2.1",
+   "title": "Mayor Watters read the land acknowledgement.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3.1",
+   "number": "3.1",
+   "title": "Mayor Watters indicated his desire to move agenda item 8.15, Health",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Care Professional Recruitment to the first report under Consideration of Reports in order to accommodate Angela Stanley, President and CAO of the Wellington Health Care Alliance.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4.1",
+   "number": "4.1",
+   "title": "Councillor Jefferson declared a conflict regarding an item from the",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Committee of the Whole report dated February 6 &amp; 8, 2003 pertaining to the Fergus BIA budget.</p>",
+    "<p>Councillor Craddock declared a conflict regarding an item from the Committee of the Whole report dated February 6 &amp; 8, 2003 regarding CW Black Committee funding.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Mayor's County Council Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated the County of Wellington growth forecast was adopted as part of the County Official Plan.</p>",
+    "<p>Council requested Council Committee Updates be added back to the agenda to receive updates on external boards.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Report from the Committee of the Whole – February 6 & 8, 2023 and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>February 13, 2023</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Having declared a conflict of interest, Councilllor Craddock left the",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>meeting and did not participate in the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6.2",
+   "number": "6.2",
+   "title": "Councillor Craddock rejoined the meeting.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>and did not participate in the vote.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 2
+  },
+  {
+   "id": "6.3",
+   "number": "6.3",
+   "title": "Councillor Jefferson rejoined the meeting.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6.4",
+   "number": "6.4",
+   "title": "Councillor Jefferson rejoined the meeting.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "None.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Health Care Professional Recruitment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Wilson, Chief Administrative Officer</p>",
+    "<p>D. Wilson, Chief Administrative Officer introduced Angela Stanley, President and CAO of the Wellington Health Care Alliance.</p>",
+    "<p>Angela Stanley discussed the current challenges with health care recruitment and changes to the delivery of the care model. She further provided suggestions on how to improve recruitment by offering accommodations to physicians temporary servicing the community and when visiting to consider this location as well as providing offices and/or office space for clinicians.</p>",
+    "<p>Dan Wilson, Chief Administrative Officer updated the Council on the history of assisting with health care recruitment which traditionally has been $20 000 a year and providing subsidized office space. In response to questions from Council, he indicated staff is requesting Council’s approval to establish a working group to bring recommendations back to Council to assist with the issues in health care.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Zoning Amendment RZ016/22 - 7197 Wellington Road 21, Pilkington",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Iglesias, Senior Planner</p>",
+    "<p>M. Iglesias, Senior Planner outlined the report, indicating the rezoning application is for 7197 Wellington Road 21 in the former Township of Pilkington. The application seeks to rezone the 26 ha retained farm parcel to add an exception to the Agricultural zoning to prohibit residential uses as required by Provincial and County policies for farm dwelling surplus severances. She further indicated no objections were received from the public or agencies on this application.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "Zoning Amendment RZ018/22 - 7158 Third Line, West Garafraxa",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Iglesias, Senior Planner</p>",
+    "<p>M. Iglesias, Senior Planner outlined the report, indicating the subject property is located at 7158 Third Line, in the former Township of West Garafraxa which currently supports an active farming operation and residential dwelling. The zoning amendment would add an exception to the Agricultural zoning to prohibit residential uses as required by Provincial and County policies for farm dwelling surplus severances. The severed parcel with the dwelling also requires an exception to recognize a reduced rear yard setback for the existing barn. She further indicated no objections were received from the public or agencies.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.4",
+   "number": "8.4",
+   "title": "Partial Demolition at Listed Property - 170 Johnston Street North, Fergus",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(Rear Addition)</p>",
+    "<p>Report from M. Iglesias, Senior Planner</p>",
+    "<p>M. Iglesias, Senior Planner indicated the application is to remove the rear one storey addition which is in poor condition and the owner intends to rebuild a new two storey addition. She indicated Heritage Centre Wellington had no objections to the proposed demolition.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8.5",
+   "number": "8.5",
+   "title": "Heritage Permit Application HP2023-002 - 19 George Street, Salem",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Iglesias, Senior Planner</p>",
+    "<p>M. Iglesias, Senior Planner indicated this is a protected heritage property.</p>",
+    "<p>A heritage permit was approved by Council in June of 2022, however, the owner is requesting a change to the approved plans to reinstate an attic and provide flexibility to allow the use of board and batten as an additional option to stone for the restoration fronting on Washington Street.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8.6",
+   "number": "8.6",
+   "title": "Part Lot Control Exemption By-law, Block 16, Plan 61M-227",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Salmon, Managing Director of Planning and Development B. Salmon, Managing Director of Planning and Development indicated this part lot control exemption by-law is to permit a block of 6 townhomes on Rea Drive in Fergus.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.7",
+   "number": "8.7",
+   "title": "Part Lot Control Exemption By-law, Block 278, Plan 61M-245",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Salmon, Managing Director of Planning and Development B. Salmon, Managing Director of Planning and Development indicated this part lot control exemption by-law in for a block of townhouses in the Storybrook subdivision, totaling 56 townhouse units.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.8",
+   "number": "8.8",
+   "title": "DEI Terms of Reference",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Drexler, Manager of Community Development K. Drexler, Manager of Community Development indicated the Diversity, Equity and Inclusion Committee (DEI) Terms of Reference were developed with assistance from the community and KOJO Institute with the expectation of Council forming a DEI advisory committee.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8.9",
+   "number": "8.9",
+   "title": "Fire Vehicle Lights and Decals Purchase",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from T. Mulvey, Fire Chief</p>",
+    "<p>T. Mulvey, Fire Chief outlined the report, indicating the truck was ordered in January 2022 and was delayed to December of 2022. Due to cost increases, there is an additional cost for lighting and decals to ensure it is compliant as an emergency response vehicle.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.10",
+   "number": "8.10",
+   "title": "Amendment to License Agreement for 965 Gartshore Street",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Rossi, Asset Management and Capital Project Manager C. Baker outlined the report indicating the agreement allows the property to be used for agricultural purposes for 2023.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.11",
+   "number": "8.11",
+   "title": "Appointment of an Integrity Commissioner",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. O’Kane, Manager of Legislative Services &amp; Municipal Clerk</p>",
+    "<p>K. O’Kane, Manager of Legislative Services &amp; Municipal Clerk indicating staff is recommending John Mascarin, Aird and Berlis LLP be appointed as the Integrity Commissioner.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 8
+  },
+  {
+   "id": "8.12",
+   "number": "8.12",
+   "title": "RFP#01-23 Corporate Strategic Plan",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Lloyd-Smith, Manager of Purchasing and Risk Management</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer reviewed the report. He indicated there were 16 plan takers, 7 responses received and the recommendation from staff is to award to the bid with the highest score by the selection committee. He reviewed the selection team and the evaluation tool.</p>",
+    "<p>In response to Council questions, staff explained the RFP process and how a project is scored and awarded.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 9
+  },
+  {
+   "id": "8.13",
+   "number": "8.13",
+   "title": "Request for Tenders RFT#05-22 and RFT#03-23",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Wiles, Purchasing &amp; Risk Supervisor</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services outlined the reports, indicated the request for tenders for the purchase of vehicles and provided background on the conditions for the purchase due to current market conditions.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m17"
+   ],
+   "page": 9
+  },
+  {
+   "id": "8.14",
+   "number": "8.14",
+   "title": "2023 Budget By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer outlined the report, explained the by-law is required to enact the 2023 budget, calculate and set tax rates, and enable staff to carry out the capital items which have not been pre-approved.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m18"
+   ],
+   "page": 10
+  },
+  {
+   "id": "8.15",
+   "number": "8.15",
+   "title": "Surety Bond Policy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer indicated staff is recommending the Township accept Surety Bonds as an acceptable form of security to replace letters of credit from active developers. He explained previous to letters of credit municipalities required performance bonds.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ],
+   "page": 10
+  },
+  {
+   "id": "8.16",
+   "number": "8.16",
+   "title": "Performance Planning - CAO",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from R. Hasan, Chief Human Resources Officer</p>",
+    "<p>R. Hasan, Chief Human Resources Officer gave a presentation outing the performance planning and evaluation process for the Chief Administrative Officer of the Township. He reviewed the principles to guide the performance evaluation and how Council will provide feedback as part of the process. Finally, he reviewed the proposed CAO Performance Evaluation template.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m20"
+   ],
+   "page": 11
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 11
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "2023-14 A By-law to authorize an Agreement for Integrity Commissioner",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Services with Aird &amp; Berlis LLP</p>",
+    "<p>2023-15 A By-law to exempt Part of Block 16, Plan 61M-227, Township of Centre Wellington, from the Part Lot Control provisions of the Planning Act (Rea Drive, Beatty Hollow Subdivision)</p>",
+    "<p>2023-16 A By-law to exempt Part of Block 278, Plan 61M-245, Township of Centre Wellington, from the Part Lot Control provisions of the Planning Act (Edminston Drive and Farley Road, Storybrook Subdivision) 2023-17 A By-law to adopt the estimates for the Corporation of the Township of Centre Wellington for the Year 2023.</p>",
+    "<p>2023-18 A By-law to amend the Township of Centre Wellington Zoning By-law 2009-045, as amended, to change the zoning of certain lands from “A” to “A.4.4”. (7197 Wellington Road 21, Pilkington)</p>",
+    "<p>2023-19 A By-law to amend the Township of Centre Wellington Zoning By-law 2009-045, as amended, to change the zoning of certain lands from “A” to “A.27.3” and from “A” to “A.27.4” (7158 Third Line, West Garafraxa) 2023-20 A By-law to authorize the Mayor and Clerk to execute an Amending License Agreement between the Corporation of the Township of Centre Wellington and 2156598 Ontario Limiters &amp; Rec Farms Inc.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m21"
+   ],
+   "page": 11
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 12
+  },
+  {
+   "id": "10.1",
+   "number": "10.1",
+   "title": "None.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 12
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 12
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 12
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m22"
+   ],
+   "page": 12
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 12
+  },
+  {
+   "id": "13.1",
+   "number": "13.1",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m23"
+   ],
+   "page": 12
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Matters Arising from Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 13
+  },
+  {
+   "id": "14.1",
+   "number": "14.1",
+   "title": "Mayor Watters indicated Council met in closed session to discuss two",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>items with one action coming forward to open session.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m24"
+   ],
+   "page": 13
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 13
+  },
+  {
+   "id": "15.1",
+   "number": "15.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m25"
+   ],
+   "page": 13
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 13
+  },
+  {
+   "id": "16.1",
+   "number": "16.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m26"
+   ],
+   "page": 13
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "Having declared a conflict of interest, Councilllor Craddock left the",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of Township of Centre Wellington approve funding to the CW Black Committee in the amount of $3000 to be funded from the Diversity, Equity and Inclusion Implementation capital project.",
+   "text_html": "<p>THAT the Council of Township of Centre Wellington approve funding to the CW Black Committee in the amount of $3000 to be funded from the Diversity, Equity and Inclusion Implementation capital project.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "6.2",
+   "item_number": "6.2",
+   "item_title": "Councillor Craddock rejoined the meeting.",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington accept the 2023 Fergus BIA Budget, as presented.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington accept the 2023 Fergus BIA Budget, as presented.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m3",
+   "item": "6.3",
+   "item_number": "6.3",
+   "item_title": "Councillor Jefferson rejoined the meeting.",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve the report from the Committee of the Whole dated February 6 & 8, 2023 as follows: 1. THAT the Council of the Township of Centre Wellington increase the budget by $10,400 to extend the Co-op student position for the CAO’s Office. 2. THAT the Council of the Township of Centre Wellington defer consideration of changes to the Neighbourhood Wellness grant to staff for a report at the February Committee of the Whole meeting. 3. THAT the Council of Township of Centre Wellington defer an increase to the General Capital Reserve as outlined in the asset management plan to the 2024 Budget Deliberations. 4. THAT the Council of the Township of Centre Wellington defer consideration of an increase to the budget for traffic calming measures to staff for a report in April 2023. 5. THAT the Council of the Township of Centre Wellington defer discussion regarding a Business Licensing Review capital project until after the Strategic Planning process. 6. THAT the Council of the Township of Centre Wellington defer assistance with Health Care Professional Recruitment to staff for a report in February 2023. 7. THAT the Council of the Township of Centre Wellington request staff and Mayor Watters initiate garbage collection discussions regarding the downtown cores with Wellington County. 8. THAT the Council of the Township of Centre Wellington adopt Report COR2023-16 regarding additional financial disclosure requirements for the 2023 budget year pursuant to Ontario Regulation 284/09. 9. THAT the Council of the Township of Centre Wellington approve the 2023 Budget, as amended.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the report from the Committee of the Whole dated February 6 &amp; 8, 2023 as follows: 1. THAT the Council of the Township of Centre Wellington increase the budget by $10,400 to extend the Co-op student position for the CAO’s Office. 2. THAT the Council of the Township of Centre Wellington defer consideration of changes to the Neighbourhood Wellness grant to staff for a report at the February Committee of the Whole meeting. 3. THAT the Council of Township of Centre Wellington defer an increase to the General Capital Reserve as outlined in the asset management plan to the 2024 Budget Deliberations. 4. THAT the Council of the Township of Centre Wellington defer consideration of an increase to the budget for traffic calming measures to staff for a report in April 2023. 5. THAT the Council of the Township of Centre Wellington defer discussion regarding a Business Licensing Review capital project until after the Strategic Planning process. 6. THAT the Council of the Township of Centre Wellington defer assistance with Health Care Professional Recruitment to staff for a report in February 2023. 7. THAT the Council of the Township of Centre Wellington request staff and Mayor Watters initiate garbage collection discussions regarding the downtown cores with Wellington County. 8. THAT the Council of the Township of Centre Wellington adopt Report COR2023-16 regarding additional financial disclosure requirements for the 2023 budget year pursuant to Ontario Regulation 284/09. 9. THAT the Council of the Township of Centre Wellington approve the 2023 Budget, as amended.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m4",
+   "item": "6.4",
+   "item_number": "6.4",
+   "item_title": "Councillor Jefferson rejoined the meeting.",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington approve the report from the Committee of the Whole dated February 13, 2023 as follows: 1. That the Council of the Township of Centre Wellington provides municipal concurrence for a proposed 22 m monopole telecommunication tower by Bell Mobility at 810 St. David Street North, Fergus; and, That the Managing Director of Planning and Development be authorized to prepare the necessary concurrence letter. 2. THAT the Council of the Township of Centre Wellington direct staff to proceed with Neighbourhood Grant option 1 for 2023 as outlined in report CAO2023-02 dated February 13, 2023; AND THAT Council direct staff to investigate the future of this program in the 2024 Budget. 3. THAT the Council of the Township of Centre Wellington receive as information the following 2022 Water and Wastewater Reports: · Township of Centre Wellington - Drinking Water System Annual Report; · Township of Centre Wellington - Drinking Water System Summary Report; · Elora Wastewater Treatment Plant - Annual Performance Report; · Fergus Wastewater Treatment Plant - Annual Performance Report; and · Township of Centre Wellington - Risk Management Official and Municipal Annual Report.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the report from the Committee of the Whole dated February 13, 2023 as follows: 1. That the Council of the Township of Centre Wellington provides municipal concurrence for a proposed 22 m monopole telecommunication tower by Bell Mobility at 810 St. David Street North, Fergus; and, That the Managing Director of Planning and Development be authorized to prepare the necessary concurrence letter. 2. THAT the Council of the Township of Centre Wellington direct staff to proceed with Neighbourhood Grant option 1 for 2023 as outlined in report CAO2023-02 dated February 13, 2023; AND THAT Council direct staff to investigate the future of this program in the 2024 Budget. 3. THAT the Council of the Township of Centre Wellington receive as information the following 2022 Water and Wastewater Reports: · Township of Centre Wellington - Drinking Water System Annual Report; · Township of Centre Wellington - Drinking Water System Summary Report; · Elora Wastewater Treatment Plant - Annual Performance Report; · Fergus Wastewater Treatment Plant - Annual Performance Report; and · Township of Centre Wellington - Risk Management Official and Municipal Annual Report.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m5",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "Health Care Professional Recruitment",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington identifies health care professional recruitment as a priority; AND THAT the Council of the Township of Centre Wellington direct staff to work with relevant stakeholders to propose health care professional recruitment approaches that could involve the Township.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington identifies health care professional recruitment as a priority; AND THAT the Council of the Township of Centre Wellington direct staff to work with relevant stakeholders to propose health care professional recruitment approaches that could involve the Township.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m6",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Zoning Amendment RZ016/22 - 7197 Wellington Road 21, Pilkington",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approves rezoning application RZ16/22 for the property at 7197 Wellington Road 21, Pilkington, and that the appropriate zoning by-law amendment be given three readings.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves rezoning application RZ16/22 for the property at 7197 Wellington Road 21, Pilkington, and that the appropriate zoning by-law amendment be given three readings.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m7",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "Zoning Amendment RZ018/22 - 7158 Third Line, West Garafraxa",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington approves rezoning application RZ18/22 for the property at 7158 Third Line, West Garafraxa, and that the corresponding zoning by-law amendment be given three readings.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves rezoning application RZ18/22 for the property at 7158 Third Line, West Garafraxa, and that the corresponding zoning by-law amendment be given three readings.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m8",
+   "item": "8.4",
+   "item_number": "8.4",
+   "item_title": "Partial Demolition at Listed Property - 170 Johnston Street North, Fergus",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington approves the partial demolition request for the one storey rear addition at the listed property known as 170 Johnston Street North, Fergus, in the Township of Centre Wellington; AND THAT the property remains on the Municipal Heritage Register as a non-designated (listed) property.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves the partial demolition request for the one storey rear addition at the listed property known as 170 Johnston Street North, Fergus, in the Township of Centre Wellington; AND THAT the property remains on the Municipal Heritage Register as a non-designated (listed) property.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m9",
+   "item": "8.5",
+   "item_number": "8.5",
+   "item_title": "Heritage Permit Application HP2023-002 - 19 George Street, Salem",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington approves Heritage Permit Application HP-2023-002 for alterations to the designated property municipally known as 19 George Street, Salem, pursuant to Section 33 of the Ontario Heritage Act, R.S.O. 1990, c. O.18, as outlined in staff report PLN2023-10.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves Heritage Permit Application HP-2023-002 for alterations to the designated property municipally known as 19 George Street, Salem, pursuant to Section 33 of the Ontario Heritage Act, R.S.O. 1990, c. O.18, as outlined in staff report PLN2023-10.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m10",
+   "item": "8.6",
+   "item_number": "8.6",
+   "item_title": "Part Lot Control Exemption By-law, Block 16, Plan 61M-227",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Jefferson",
+   "text": "That part lot control exemption application EX02/23 be approved and a by-law to exempt part of Block 16 of Plan 61M-227 be given three readings and submitted to the County of Wellington for approval.",
+   "text_html": "<p>That part lot control exemption application EX02/23 be approved and a by-law to exempt part of Block 16 of Plan 61M-227 be given three readings and submitted to the County of Wellington for approval.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m11",
+   "item": "8.7",
+   "item_number": "8.7",
+   "item_title": "Part Lot Control Exemption By-law, Block 278, Plan 61M-245",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT part lot control exemption application EX01/23 be approved and a by-law to exempt part of Block 278 of Plan 61M-245 be given three readings and submitted to the County of Wellington for approval.",
+   "text_html": "<p>THAT part lot control exemption application EX01/23 be approved and a by-law to exempt part of Block 278 of Plan 61M-245 be given three readings and submitted to the County of Wellington for approval.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m12",
+   "item": "8.8",
+   "item_number": "8.8",
+   "item_title": "DEI Terms of Reference",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington approve the Terms of Reference for the Diversity, Equity and Inclusion Advisory Committee and direct staff to initiate the self nomination process.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the Terms of Reference for the Diversity, Equity and Inclusion Advisory Committee and direct staff to initiate the self nomination process.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m13",
+   "item": "8.9",
+   "item_number": "8.9",
+   "item_title": "Fire Vehicle Lights and Decals Purchase",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington authorizes additional funding of $30,205 to be transferred from the Vehicle Replacement Reserve to pay for the increase cost for Emergency Lighting and Decals for the CWFR Utility Vehicles purchased in 2022.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorizes additional funding of $30,205 to be transferred from the Vehicle Replacement Reserve to pay for the increase cost for Emergency Lighting and Decals for the CWFR Utility Vehicles purchased in 2022.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m14",
+   "item": "8.10",
+   "item_number": "8.10",
+   "item_title": "Amendment to License Agreement for 965 Gartshore Street",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute the First Amendment to the License Agreement between the Corporation of the Township of Centre Wellington and the former owner of the property located at 965 Gartshore Street, Fergus, as outlined in Report No. IS2023-03 dated February 27, 2023.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute the First Amendment to the License Agreement between the Corporation of the Township of Centre Wellington and the former owner of the property located at 965 Gartshore Street, Fergus, as outlined in Report No. IS2023-03 dated February 27, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m15",
+   "item": "8.11",
+   "item_number": "8.11",
+   "item_title": "Appointment of an Integrity Commissioner",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington appoint John Mascarin, Partner, Aird & Berlis LLP as the Integrity Commissioner for the Township for a 5 year term, effective March 1, 2023; AND THAT the Mayor and Municipal Clerk be authorized to execute an agreement for Integrity Commissioner Services with Aird & Berlis LLP.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington appoint John Mascarin, Partner, Aird &amp; Berlis LLP as the Integrity Commissioner for the Township for a 5 year term, effective March 1, 2023; AND THAT the Mayor and Municipal Clerk be authorized to execute an agreement for Integrity Commissioner Services with Aird &amp; Berlis LLP.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m16",
+   "item": "8.12",
+   "item_number": "8.12",
+   "item_title": "RFP#01-23 Corporate Strategic Plan",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington award Request for Proposal #01-23 regarding the development of the Corporate Strategic Plan to Augustyn Enterprises Inc, at an upset limit of $37,500 including disbursements, excluding HST.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington award Request for Proposal #01-23 regarding the development of the Corporate Strategic Plan to Augustyn Enterprises Inc, at an upset limit of $37,500 including disbursements, excluding HST.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m17",
+   "item": "8.13",
+   "item_number": "8.13",
+   "item_title": "Request for Tenders RFT#05-22 and RFT#03-23",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approves a revised total contract price of $294,872.00, excluding HST to Winegard Motors for vehicles noted on RFT#05-2022. AND THAT the Council of the Township of Centre Wellington provides a conditional award for Request For Tender #03-23: Two Single Axle Cab & Chassis Trucks, each with Viking Cives plow equipment in the amount of $695,720.00, excluding HST to Premier Truck Group and delegates authority to staff to approve the final award to Premier Truck Group upon confirmation that their 2 build spots available in 2023 have been assigned to the Township of Centre Wellington. AND THAT the funding for the procurements be revised as outlined in report COR2023-22 dated 27 February 2023.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves a revised total contract price of $294,872.00, excluding HST to Winegard Motors for vehicles noted on RFT#05-2022. AND THAT the Council of the Township of Centre Wellington provides a conditional award for Request For Tender #03-23: Two Single Axle Cab &amp; Chassis Trucks, each with Viking Cives plow equipment in the amount of $695,720.00, excluding HST to Premier Truck Group and delegates authority to staff to approve the final award to Premier Truck Group upon confirmation that their 2 build spots available in 2023 have been assigned to the Township of Centre Wellington. AND THAT the funding for the procurements be revised as outlined in report COR2023-22 dated 27 February 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m18",
+   "item": "8.14",
+   "item_number": "8.14",
+   "item_title": "2023 Budget By-law",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute the By-law to enact the 2023 Budget.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute the By-law to enact the 2023 Budget.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m19",
+   "item": "8.15",
+   "item_number": "8.15",
+   "item_title": "Surety Bond Policy",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington adopt the Development Agreement Surety Bond Policy and accompanied Development Agreement Surety Bond Language Template, substantially in the form attached as Appendix “A” to Report COR2023-19; AND THAT staff be directed to update the language used in the Development Agreement templates to permit surety bonds as an acceptable form of security.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington adopt the Development Agreement Surety Bond Policy and accompanied Development Agreement Surety Bond Language Template, substantially in the form attached as Appendix “A” to Report COR2023-19; AND THAT staff be directed to update the language used in the Development Agreement templates to permit surety bonds as an acceptable form of security.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m20",
+   "item": "8.16",
+   "item_number": "8.16",
+   "item_title": "Performance Planning - CAO",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve the Chief Administrative Officer's performance planning process as presented in report HR2023-01.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the Chief Administrative Officer&#x27;s performance planning process as presented in report HR2023-01.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m21",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2023-14 A By-law to authorize an Agreement for Integrity Commissioner",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-laws 2023-14 through 2023-20 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2023-14 through 2023-20 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m22",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "Closed Session",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(2)(b)&(c) of the Municipal Act 2001, as amended to consider personal matters about an identifiable individual, including municipal employees; and a proposed or pending acquisition or disposition of land by the municipality.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington convene in closed session in accordance with section 239(2)(b)&amp;(c) of the Municipal Act 2001, as amended to consider personal matters about an identifiable individual, including municipal employees; and a proposed or pending acquisition or disposition of land by the municipality.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m23",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "Reconvene in Open Session",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT Council reconvene in open session.",
+   "text_html": "<p>THAT Council reconvene in open session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m24",
+   "item": "14.1",
+   "item_number": "14.1",
+   "item_title": "Mayor Watters indicated Council met in closed session to discuss two",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "MacDonald",
+   "text": "THAT Council of the Township of Centre Wellington approve the sale of 0.40 acres of land behind 151 Gregson Court at a price of $60,000; AND THAT the CAO be authorized to execute an agreement to sign the purchase and sale for the subject property.",
+   "text_html": "<p>THAT Council of the Township of Centre Wellington approve the sale of 0.40 acres of land behind 151 Gregson Court at a price of $60,000; AND THAT the CAO be authorized to execute an agreement to sign the purchase and sale for the subject property.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m25",
+   "item": "15.1",
+   "item_number": "15.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Craddock",
+   "text": "THAT By-law 2023-21 to Confirm the Proceedings of Council at its meeting held February 27, 2023 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2023-21 to Confirm the Proceedings of Council at its meeting held February 27, 2023 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m26",
+   "item": "16.1",
+   "item_number": "16.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 13
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Craddock",
+   "event": "joined",
+   "text": "6.2 Councillor Craddock rejoined the meeting.",
+   "page": 2
+  },
+  {
+   "member": "Jefferson",
+   "event": "left",
+   "text": "Having declared a conflict of interest, Councillor Jefferson left the meeting",
+   "page": 2
+  },
+  {
+   "member": "Jefferson",
+   "event": "joined",
+   "text": "6.3 Councillor Jefferson rejoined the meeting.",
+   "page": 3
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

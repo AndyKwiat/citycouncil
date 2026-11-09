@@ -1,0 +1,311 @@
+{
+ "title": "Special Council",
+ "source_format": "pdf",
+ "pages": 3,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor MacDonald read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Motion to Relax the Rules",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "5.2",
+   "number": "5.2",
+   "title": "Road Tour",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>9:30 am – Pickup at 1 MacDonald Square, Elora ON</p>",
+    "<p>1st Stop – 495 Union St W, Fergus ON (Craighead House – Ribbon Cutting Ceremony)</p>",
+    "<p>10:23 a.m.</p>",
+    "<p>Mayor Watters vacated the Chair at 10:23 a.m.</p>",
+    "<p>Deputy Mayor Jefferson assumed the Chair.</p>",
+    "<p>2nd Stop – 965 Gartshore St, Fergus ON (Centre Wellington Operations Centre)</p>",
+    "<p>3rd Stop – 550 Belsyde Ave, Fergus ON (Centre Wellington Sportsplex) 4th Stop – 23 Melville St, Elora ON (Bissell Park)</p>",
+    "<p>Mayor Watters resumed the Chair at 11:55 a.m.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 3
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "Motion to Relax the Rules",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of Township of Centre Wellington relax the rules of council during the facilities and road tour.",
+   "text_html": "<p>THAT the Council of Township of Centre Wellington relax the rules of council during the facilities and road tour.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "6.1",
+   "item_number": "6.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-law 2026-34 to Confirm the Proceedings of Council at its meeting held May 21, 2026 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2026-34 to Confirm the Proceedings of Council at its meeting held May 21, 2026 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m3",
+   "item": "7",
+   "item_number": "7",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Craddock",
+   "event": "joined",
+   "text": "Councillor Craddock joined the meeting at approximately 9:28 a.m.",
+   "page": 2
+  },
+  {
+   "member": "Craddock",
+   "event": "left",
+   "text": "Councillor Craddock left the meeting at approximately 9:31 a.m.",
+   "page": 2
+  },
+  {
+   "member": "Adams",
+   "event": "joined",
+   "text": "Councillor Adams joined the meeting at approximately 9:44 a.m.",
+   "page": 2
+  },
+  {
+   "member": "Adams",
+   "event": "left",
+   "text": "Mayor Watters and Councillor Adams left the meeting at approximately",
+   "page": 2
+  },
+  {
+   "member": "Mayor Watters",
+   "event": "joined",
+   "text": "Mayor Watters joined the meeting at approximately 11:55 a.m.",
+   "page": 2
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

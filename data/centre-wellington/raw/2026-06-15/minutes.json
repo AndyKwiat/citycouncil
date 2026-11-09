@@ -1,0 +1,1555 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 19,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wilton read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "3.1",
+   "number": "3.1",
+   "title": "Reorder",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Move Agenda Item 12.1 - 2025 Audited Financial Statements to 12.11.</p>",
+    "<p>Move Agenda Item 12.7 - Stormwater Rate Study to 12.1 and reorder all other reports accordingly.</p>",
+    "<p>Additions:</p>",
+    "<p>Item 5.1 - Closed Session - a matter pertaining to the security of the property of the municipality [s. 239(2)(a)]</p>",
+    "<p>Item 10.2 - Delegation: Hugh Handy, Vice President of GSP Group, re:</p>",
+    "<p>Agenda Item 12.4, Zoning Amendment RZ07-2025 Decision Report - 191 Wellington Road 7 &amp; 290 South Street, Salem</p>",
+    "<p>Item 10.3 - Delegation: Randall Howard, re: Agenda Item 12.4, Zoning Amendment RZ07-2025 Decision Report - 191 Wellington Road 7 &amp; 290 South Street, Salem</p>",
+    "<p>Item 10.4 - Delegation: Bob Jackson, re: Agenda Item 12.4, Zoning Amendment RZ07-2025 Decision Report - 191 Wellington Road 7 &amp; 290 South Street, Salem</p>",
+    "<p>Removal:</p>",
+    "<p>Item 9.1 - Update on Groves Memorial Community Hospital and Physician Recruitment</p>",
+    "<p>Item 13.1 - 2026-48 A By-law to regulate and prohibit activity in and around stormwater management facilities</p>",
+    "<p>Renumber:</p>",
+    "<p>Item 16.1 - A By-law to confirm the actions of Council - 2026-48 T. Sager, Managing Director of Legislative Services &amp; Municipal Clerk responded to a question from Council regarding the removal of item 13.1 noting that the by-law had been brought forward at an earlier meeting.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 3
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Reconvene in Open Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Matters Arising from Closed Session",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>7.1 THAT direction was provided to the Chief Administrative Officer with respect to the matters considered in closed session; and THAT the matters shall remain confidential pending execution of the agreements/the lifting of confidentiality obligations, at which time staff are directed to report back to Council in open session.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Public Meetings to Consider Zoning Amendments",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "Removed from the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Update on Groves Memorial Community Hospital and Physician Recruitment</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9.2",
+   "number": "9.2",
+   "title": "Mayor's County Council Report",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters expressed condolences to the families involved in the Mapleton accident.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "9.3",
+   "number": "9.3",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor MacDonald provided an update that the Victoria Seniors Committee met last week and advised that they are currently working on updates to their constitution, in time for the upcoming Annual General Meeting (AGM). She congratulated the Elora Lawn Bowling Club on its 120th anniversary and thanked Mayor Watters for attending.</p>",
+    "<p>Councillor Wilton shared that she recently attended the Federation of Canadian Municipalities (FCM) conference in Edmonton, which brought together close to 3,000 delegates and elected officials from across the country. The conference offered some excellent presentations, workshops, and study groups, providing valuable learning and networking opportunities.</p>",
+    "<p>Councillor Lustgarten-Evoy noted that most Committees are not meeting at this time leading up to the election.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "10.1",
+   "number": "10.1",
+   "title": "Mackenzie Meek, Elora Mill Hotel and Spa re: Agenda Item 12.8, Elora",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>South TIEG Phase Order Update Information Report</p>",
+    "<p>M. Meek provided a brief overview of the building phases that have been completed to date and detailed the timeline of the overall project under the existing Elora Mill South TIEG agreement, between the Elora Mill, Township of Centre Wellington and the County of Wellington.</p>",
+    "<p>She noted that the intent of the TIEG program is to support development on priority sites identified in the Township’s Community Improvement Plan (CIP) by providing partial property tax relief for a defined period following the completion of eligible projects. The Elora Mill agreement was structured to include all planned phases within the Elora Mill South property. Prepared in 2022, the agreement included an anticipated order of building phases along with estimated construction start and completion timelines for each phase. Flexibility was incorporated into the agreement to allow for adjustments to the phasing order, subject to Council approval through a formal report.</p>",
+    "<p>M. Meek stated that there is now a clearer understanding of how the remaining phases are expected to proceed and respectfully requested Council’s support for the proposed update to the phasing order within the existing Elora Mill South TIEG agreement.</p>",
+    "<p>M. Meek responded to questions from Council regarding the public access trail on the south side of the Grand River, the timelines within the TIEG agreement, the proposed parking structure and the Carlton Place reconstruction.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 4
+  },
+  {
+   "id": "10.2",
+   "number": "10.2",
+   "title": "Hugh Handy, Vice President of GSP Group re: Agenda Item 12.4, Zoning",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Amendment RZ07-2025 Decision Report - 191 Wellington Road 7 &amp; 290 South Street, Salem</p>",
+    "<p>H. Handy spoke on behalf of Tom Keating, a representative of Keating Construction. He thanked Council for the opportunity to address them and expressed support for the staff recommendation regarding the application at South Street and Wellington Road. He noted that the proposed development is appropriate for the site and represents a reasonable density, highlighting that revisions were made to reduce the number of front-facing units from 25 to 23.</p>",
+    "<p>H. Handy responded to comments and questions from Council regarding the front facing units on South Street.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 5
+  },
+  {
+   "id": "10.3",
+   "number": "10.3",
+   "title": "Randall Howard, re: Agenda Item 12.4, Zoning Amendment RZ07-2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Decision Report - 191 Wellington Road 7 &amp; 290 South Street, Salem R. Howard expressed concerns with the proposed development, noting that the level of intensification does not align with the existing character of the neighbourhood and the surrounding heritage area. While he acknowledged that some degree of urban development is necessary, he noted that the alternative proposal put forward by residents was not meaningfully considered.</p>",
+    "<p>He highlighted concerns about the overall process, describing it as lacking transparency, with an incomplete public record and insufficient responses to citizen feedback. He asked that Council defer this decision.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 6
+  },
+  {
+   "id": "10.4",
+   "number": "10.4",
+   "title": "Bob Jackson, re: Agenda Item 12.4, Zoning Amendment RZ07-2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Decision Report - 191 Wellington Road 7 &amp; 290 South Street, Salem B. Jackson thanked Council and staff for the opportunity to speak and requested that this planning matter be deferred with specific requirements and direction.</p>",
+    "<p>He noted that residents support appropriate, compatible growth and modest-density infill in stable residential areas. However, Council’s decision should be based on consistent application of planning policy and precedent, particularly providing the example of the Sideroad 19 approval on January 26, where 7–8 units per acre was deemed appropriate. The current proposal at approximately 11 units per acre exceeds that benchmark, raising concerns of over-intensification that is not supported by the Official Plan or by past Council decisions.</p>",
+    "<p>B. Jackson stated the request is that Council ensure its decision reflects a consistent application of planning policy and well-supported planning analysis. He urged Council to consider whether the proposed density is compatible with the character of the existing stable residential area and aligned with prior planning approvals such as Sideroad 19.</p>",
+    "<p>Councillor Wilton clarified that the information regarding Agenda Item 12.4 is publicly available.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 6
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated Consent Agenda Items are considered routine in nature and are voted on collectively. However, any Member of Council may request one or more items be removed from the Consent Agenda for separate action.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11.1",
+   "number": "11.1",
+   "title": "Approval and Receipt of Minutes",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>THAT the minutes of the Special Council Meeting held May 21, 2026, and the Council Meeting held May 25, 2026, be approved as circulated;</p>",
+    "<p>AND that the Healthy Communities Advisory Committee minutes from May 6, 2026, the Diversity, Equity and Inclusion Advisory Committee Minutes from April 9, 2026, and the Heritage Centre Wellington Minutes from May 12, 2026, be received for information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11.2",
+   "number": "11.2",
+   "title": "Restricted Acts - The \"Lame Duck\" Period",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Natalia Teplicki, Elections Coordinator</p>",
+    "<p>THAT Council receives the &quot;Restricted Acts - The &#x27;Lame Duck&#x27; Period&quot; report for information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11.3",
+   "number": "11.3",
+   "title": "Toll Booth - Fergus Fire Fighters",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Devlin Schellenberger, Legislative Coordinator THAT the Council of the Township of Centre Wellington authorizes the Mayor and Clerk to execute a by-law authorizing a fundraising activity in the form of soliciting by a toll booth on the Tower Street Bridge in Fergus, on Saturday, September 19, 2026 from 8:00 a.m. to 4:00 p.m. by the Fergus Firefighters Association on behalf of Muscular Dystrophy Canada.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11.4",
+   "number": "11.4",
+   "title": "Consolidated Delegation of Authority Report for 2025",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Adam McNabb, Chief Financial Officer &amp; Treasurer</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 7
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "Item 12.7 Stormwater Rate Study",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Adam McNabb, Chief Financial Officer and Treasurer A. McNabb, Chief Financial Officer and Treasurer introduced the report, he stated that the Draft Stormwater Rate Study responds to recommendations from the Stormwater Management Master Plan. The Rate Study has been facilitated through the Township’s Capital Plan via the water, wastewater, stormwater rate study project as part of the 2025 budget process.</p>",
+    "<p>Daryl Abbs, Managing Partner of Watson &amp; Associates Economists Ltd.</p>",
+    "<p>presented the Draft Stormwater Rate Study outlining stormwater management, progress of the Stormwater Rate Study, the costs involved in providing stormwater service and funding sources, stormwater polices, public engagement strategies and implementation.</p>",
+    "<p>D. Abbs responded to comments and questions from Council regarding water usage, benefit programs and public engagement, the Infrastructure for Jobs and Prosperity Act, low impact development, and how green infrastructure factors into the study and rural property exemptions.</p>",
+    "<p>A. McNabb responded to a question from Council regarding the 2027 budget.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 8
+  },
+  {
+   "id": "12.2",
+   "number": "12.2",
+   "title": "Centre Wellington Hydro Annual General Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Dan Wilson, CAO</p>",
+    "<p>Wayne Dyce, President of Centre Wellington Hydro gave a presentation reviewing the Energies Company structure, Centre Wellington Hydro’s overall performance &amp; rates, capital project investment, customer engagement, reviewed the financials and he noted the requirements of the Annual General Meeting.</p>",
+    "<p>W. Dyce responded to comments and questions from Council regarding servicing areas of Centre Wellington experiencing substantial growth.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 9
+  },
+  {
+   "id": "12.3",
+   "number": "12.3",
+   "title": "Water Softener Rebate Program",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Ian Duncan, Water Conservation Coordinator</p>",
+    "<p>Ian Duncan, Water Conservation Coordinator provided a brief overview of the water softener rebate program, outlined the 10-year cost comparison, impact on sodium and chloride usage areas, and the application process for residents.</p>",
+    "<p>I. Duncan responded to comments and questions from Council regarding the NAC/TAC systems relating to water hardness levels.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 9
+  },
+  {
+   "id": "12.4",
+   "number": "12.4",
+   "title": "Zoning Amendment RZ07-2025 Decision Report - 191 Wellington Road",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>7 &amp; 290 South Street, Salem</p>",
+    "<p>Report from Deanna Maiden, Senior Development Planner</p>",
+    "<p>Deanna Maiden, Senior Development Planner provided a summary of the application to rezone lands from R1A to R3.49.2 Residential Exception to permit 23 residential units, 4 street townhouses and 19 cluster townhouses with private road access from South St. She noted that the existing dwelling at 290 South Street will remain (garage removed) and that the property of 191 Wellington Rd 7 is vacant.</p>",
+    "<p>D. Maiden highlighted that the existing proposal supports housing supply and maintains neighbourhood compatibility with the detailed design to be addressed through site plan approval.</p>",
+    "<p>D. Maiden responded to comments and questions from Council regarding Wellington County, road access, density, design, and Planning Act timelines; confirmed that all required information had been received.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 10
+  },
+  {
+   "id": "12.5",
+   "number": "12.5",
+   "title": "Amendment to By-law 2025-81, Administrative Monetary Penalty System",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>(AMPS) By-law</p>",
+    "<p>Report from Satnam Chauhan, Supervisor of Bylaw and Licensing Satnam Chauhan, Supervisor of Bylaw and Licensing outlined the proposed amendments to the AMPS By-law, including restructuring operational provisions and general housekeeping updates such as the removal of duplicated information, renumbering, and reflecting expanded service methods.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m12"
+   ],
+   "page": 10
+  },
+  {
+   "id": "12.6",
+   "number": "12.6",
+   "title": "RFT#17-26 Compact Pickup Truck (By-law Enforcement)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Samoya Smith, Manager of Purchasing and Risk Adam McNabb, Chief Financial Officer and Treasurer provided an overview of the report, noting that the RFT was issued in accordance with the Township’s Procurement By-law. The report proposes awarding the tender to Trillium Ford Lincoln Ltd as the lowest bid, requiring a budget top-up of $2,535.54 beyond what has been approved to date.</p>",
+    "<p>A. McNabb responded to comments and questions from council regarding hybrid vehicle use in other municipalities and any associated fuel cost savings.</p>",
+    "<p>Mayor Watters called for a brief recess at approximately 3:51 p.m.</p>",
+    "<p>Council resumed at approximately 4:00 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m13"
+   ],
+   "page": 11
+  },
+  {
+   "id": "12.7",
+   "number": "12.7",
+   "title": "Speed Limit Bylaw Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Emily Alessio, Engineering Technologist, Transportation Emily Alessio, Engineering Technologist provided a brief overview of the report recommending reducing speed limits on Middlebrook Rd., Noah Rd., Parkside Dr. W., Woodside St., and St. Andrew St. E. to improve safety, with new signs to be installed this summer and fall.</p>",
+    "<p>E. Alessio responded to comments and questions from Council regarding speed reduction in other areas of the Township.</p>",
+    "<p>C. Baker responded to a question regarding the overall blanket approach to speed reduction, as seen in neighbouring municipalities.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m14"
+   ],
+   "page": 11
+  },
+  {
+   "id": "12.8",
+   "number": "12.8",
+   "title": "Elora South Inc. Tax Increment Equivalent Grant Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Dan Wilson, CAO</p>",
+    "<p>Dan Wilson, CAO stated that the report pertains to the TIEG Agreement between the Township and Elora South Inc., who have requested a change to the sequencing of the development phasing. In accordance with the agreement, this change requires a written report to Council outlining the proposed changes.</p>",
+    "<p>He noted that the request has been reviewed and that six phases remain to be completed within the 15-year timeframe. Under the existing TIEG Agreement, the Township provides annual grant payments equivalent of up to 80% of the municipal tax increment resulting from increased assessment following the completion of each phase, over a period of 10 years. He further clarified that this amendment pertains only to the timing of the development and does not alter any other terms of the agreement.</p>",
+    "<p>D. Wilson responded to comments and questions from Council regarding the development including affordable housing, parking garage, water and wastewater and 10-year capital forecast.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m15"
+   ],
+   "page": 12
+  },
+  {
+   "id": "12.9",
+   "number": "12.9",
+   "title": "Item 12.10 - Review of Township Road Salt Management Programs",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Colin Baker, Managing Director of Infrastructure Colin Baker, Managing Director of Infrastructure provided an overview of the Salt Management Programs, noting Environment and Climate Change Canada’s mandate to manage road salt use while ensuring effective winter maintenance to protect public safety, in accordance with provincial legislation, with an emphasis on minimizing the adverse environmental impacts associated with road salt.</p>",
+    "<p>Kyle Davis, Risk Management Official for Wellington Source Water Protection gave a presentation outlining the risk management plans required under the Clean Water Act to protect municipal drinking water sources. He also noted the importance of implementing voluntary salt management plans in areas subject to Planning Act approvals, along with ongoing public education initiatives.</p>",
+    "<p>K. Davis responded to comments and questions from Council regarding requirements risk management plans for private properties.</p>",
+    "<p>C. Baker responded to questions from Council regarding snow removal in municipally owned properties and training.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m16"
+   ],
+   "page": 13
+  },
+  {
+   "id": "12.10",
+   "number": "12.10",
+   "title": "Item 12.11 - Development Charge Reduction Program",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Adam McNabb, Chief Financial Officer and Treasurer Adam McNabb, Chief Financial Officer and Treasurer provided an overview of the report outlining the Ontario Development Charge Reduction Program (DCRP). The program is a one-time, competitive intake that provides up to 90% funding for eligible housing-enabling municipal infrastructure projects, conditional upon the municipality reducing residential development charges (DCs) by at least 30% and maintaining the reduction for three years.</p>",
+    "<p>He stated that, for an application to be considered, projects must support the creation of new housing units, be included in the Township’s most recent Development Charges Background Study, align with the capital plan, commence no later than July 31, 2030, and be completed by October 31, 2035.</p>",
+    "<p>Dan Wilson, CAO advised that staff are proposing new calculations based on additional information received from the Ministry regarding the Development Charge Reduction Program (DCRP). Noting that, based on Ministry guidelines, eligible costs are limited to growth-related construction expenses.</p>",
+    "<p>He advised that some projects are already underway and that soft costs are ineligible toward the Township’s required 10% contribution, placing additional pressure on municipal funding for growth-related costs. He further noted that the post-period benefit component of the wastewater treatment plant is ineligible and identified significant growth-related capital project that directly supports new housing construction.</p>",
+    "<p>D. Wilson responded to comments and questions from Council regarding DC rates beyond the 3 year reduction period, funding and 30% reduction in DC rates.</p>",
+    "<p>Mayor Watters called for a brief recess at approximately 5:20 p.m.</p>",
+    "<p>Council resumed at approximately 5:23 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m17",
+    "m18"
+   ],
+   "page": 15
+  },
+  {
+   "id": "12.11",
+   "number": "12.11",
+   "title": "Item 12.1 2025 Audited Financial Statements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from Mark Bradey, Manager of Finance and Deputy Treasurer Adam McNabb, Chief Financial Officer and Treasurer introduced Brendan Hall, KPMG LLP Chartered Professional Accountants.</p>",
+    "<p>Brendan Hall, KPMG re Audited Financial Statements provided an overview of the audited financial statements. He indicated that as of June 3, 2026, they have completed the audit of the financial statements, with the exception of certain remaining procedures. He indicated no significant control deficiencies were identified throughout the audit.</p>",
+    "<p>Mark Bradey, Manager of Finance and Deputy Treasurer provided a brief update with regard to the report and associated financials.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m19"
+   ],
+   "page": 17
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 17
+  },
+  {
+   "id": "13.1",
+   "number": "13.1",
+   "title": "2026-44 a Bylaw to authorize a fund raising activity in the form of soliciting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>by toll booth on the Tower Street Bridge in Fergus</p>",
+    "<p>2026-45 a Bylaw to Amend By-law 2025-81 being a By-law to establish an Administrative Monetary Penalty System (AMPS)</p>",
+    "<p>2026-46 a Bylaw to amend the Township of Centre Wellington Zoning Bylaw 2009-045, as amended to change the zoning of certain lands from &quot;R1A&quot; to &quot;R3.49.Z&quot;</p>",
+    "<p>2026-47 a Bylaw to regulate speed in the Township of Centre Wellington and to repeal Bylaw 2024-67</p>",
+    "<p>Removed from the Agenda:</p>",
+    "<p>2026-48 a Bylaw to regulate and prohibit activity in and around stormwater management facilities</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m20"
+   ],
+   "page": 17
+  },
+  {
+   "id": "14",
+   "number": "14",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 18
+  },
+  {
+   "id": "15",
+   "number": "15",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 18
+  },
+  {
+   "id": "16",
+   "number": "16",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 18
+  },
+  {
+   "id": "16.1",
+   "number": "16.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m21"
+   ],
+   "page": 18
+  },
+  {
+   "id": "17",
+   "number": "17",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 18
+  },
+  {
+   "id": "17.1",
+   "number": "17.1",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m22"
+   ],
+   "page": 18
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "5.1",
+   "item_number": "5.1",
+   "item_title": "Closed Session",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington convene in closed session in accordance with sections 239(2)(a),(c),(i) and (k) of the Municipal Act 2001, as amended to consider: (a) the security of the property of the municipality (c) a proposed or pending acquisition or disposition of land by the municipality (i) a trade secret or scientific, technical, commercial, financial or labour relations information, supplied in confidence to the municipality or local board, which, if disclosed, could reasonably be expected to prejudice significantly the competitive position or interfere significantly with the contractual or other negotiations of a person, group of persons, or organization; (k) a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board. 2001, c. 25, s. 239 (2); 2017, c. 10, Sched. 1, s. 26.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington convene in closed session in accordance with sections 239(2)(a),(c),(i) and</p><p>(k) of the Municipal Act 2001, as amended to consider:</p><p>(a) the security of the property of the municipality</p><p>(c) a proposed or pending acquisition or disposition of land by the municipality</p><p>(i) a trade secret or scientific, technical, commercial, financial or labour relations information, supplied in confidence to the municipality or local board, which, if disclosed, could reasonably be expected to prejudice significantly the competitive position or interfere significantly with the contractual or other negotiations of a person, group of persons, or organization;</p><p>(k) a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board. 2001, c. 25, s. 239 (2); 2017, c. 10, Sched. 1, s. 26.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m2",
+   "item": "6",
+   "item_number": "6",
+   "item_title": "Reconvene in Open Session",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington reconvene in open session.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington reconvene in open session.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m3",
+   "item": "10.1",
+   "item_number": "10.1",
+   "item_title": "Mackenzie Meek, Elora Mill Hotel and Spa re: Agenda Item 12.8, Elora",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT Council receives the delegation from Mackenzie Meek regarding Agenda Item 12.8 for information.",
+   "text_html": "<p>THAT Council receives the delegation from Mackenzie Meek regarding Agenda Item 12.8 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m4",
+   "item": "10.2",
+   "item_number": "10.2",
+   "item_title": "Hugh Handy, Vice President of GSP Group re: Agenda Item 12.4, Zoning",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT Council receives the delegation from Hugh Handy, Vice President of GSP Group, regarding Agenda Item 12.4 for information.",
+   "text_html": "<p>THAT Council receives the delegation from Hugh Handy, Vice President of GSP Group, regarding Agenda Item 12.4 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m5",
+   "item": "10.3",
+   "item_number": "10.3",
+   "item_title": "Randall Howard, re: Agenda Item 12.4, Zoning Amendment RZ07-2025",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "",
+   "text": "THAT Council receives the delegation from Randall Howard regarding Agenda Item 12.4 for information.",
+   "text_html": "<p>THAT Council receives the delegation from Randall Howard regarding Agenda Item 12.4 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m6",
+   "item": "10.4",
+   "item_number": "10.4",
+   "item_title": "Bob Jackson, re: Agenda Item 12.4, Zoning Amendment RZ07-2025",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT Council receives the delegation from Bob Jackson regarding Agenda Item 12.4 for information.",
+   "text_html": "<p>THAT Council receives the delegation from Bob Jackson regarding Agenda Item 12.4 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m7",
+   "item": "11.4",
+   "item_number": "11.4",
+   "item_title": "Consolidated Delegation of Authority Report for 2025",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington approves consent items 11.1 to 11.4",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves consent items 11.1 to 11.4</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m8",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "Item 12.7 Stormwater Rate Study",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington receive report FIN2026-09 and associated Draft Stormwater Rate Study for Information; AND THAT the Council of the Township of Centre Wellington direct staff to post the Draft Stormwater Rate Study on ConnectCW for input and defer any future public information sessions related to this topic until the next term of Council.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report FIN2026-09 and associated Draft Stormwater Rate Study for Information; AND THAT the Council of the Township of Centre Wellington direct staff to post the Draft Stormwater Rate Study on ConnectCW for input and defer any future public information sessions related to this topic until the next term of Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m9",
+   "item": "12.2",
+   "item_number": "12.2",
+   "item_title": "Centre Wellington Hydro Annual General Meeting",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT Council receives Report CAO2026-14 Centre Wellington Hydro Annual General Meeting; and THAT Council approves the 2025 Shareholder Direction as outlined in the \"Resolution of the Shareholder\" and \"Resolution of the Sole Shareholder\" for Centre Wellington Energy Inc; and THAT Council approves the 2025 Annual Report and Approved Audited Financial Statements for Centre Wellington Hydro, Centre Wellington Energy Innovations and Centre Wellington Energy Inc.",
+   "text_html": "<p>THAT Council receives Report CAO2026-14 Centre Wellington Hydro Annual General Meeting; and THAT Council approves the 2025 Shareholder Direction as outlined in the &quot;Resolution of the Shareholder&quot; and &quot;Resolution of the Sole Shareholder&quot; for Centre Wellington Energy Inc; and THAT Council approves the 2025 Annual Report and Approved Audited Financial Statements for Centre Wellington Hydro, Centre Wellington Energy Innovations and Centre Wellington Energy Inc.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m10",
+   "item": "12.3",
+   "item_number": "12.3",
+   "item_title": "Water Softener Rebate Program",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington endorse the Water Softener Rebate Program.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorse the Water Softener Rebate Program.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m11",
+   "item": "12.4",
+   "item_number": "12.4",
+   "item_title": "Zoning Amendment RZ07-2025 Decision Report - 191 Wellington Road",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington approves application RZ07/25 for a zoning amendment and gives three readings to the necessary by-law.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves application RZ07/25 for a zoning amendment and gives three readings to the necessary by-law.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 10
+  },
+  {
+   "id": "m12",
+   "item": "12.5",
+   "item_number": "12.5",
+   "item_title": "Amendment to By-law 2025-81, Administrative Monetary Penalty System",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Craddock",
+   "text": "THAT Council receives report COR2026-30 respecting amendments to By-law 2025-81, being a by-law to establish an Administrative Monetary Penalty System (AMPS); and THAT Council enacts the amending by-law to update and expand the Township’s AMPS framework.",
+   "text_html": "<p>THAT Council receives report COR2026-30 respecting amendments to By-law 2025-81, being a by-law to establish an Administrative Monetary Penalty System (AMPS); and THAT Council enacts the amending by-law to update and expand the Township’s AMPS framework.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m13",
+   "item": "12.6",
+   "item_number": "12.6",
+   "item_title": "RFT#17-26 Compact Pickup Truck (By-law Enforcement)",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the award of Request for Tender #17-26 for One (1) compact Pickup Truck to Trillium Ford Lincoln Ltd for a total upset limit of $43,695.00 exclusive of HST. AND That the funding for this procurement be revised as outlined in report FIN2026-11 dated June 15, 2026.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the award of Request for Tender #17-26 for One (1) compact Pickup Truck to Trillium Ford Lincoln Ltd for a total upset limit of $43,695.00 exclusive of HST. AND That the funding for this procurement be revised as outlined in report FIN2026-11 dated June 15, 2026.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 11
+  },
+  {
+   "id": "m14",
+   "item": "12.7",
+   "item_number": "12.7",
+   "item_title": "Speed Limit Bylaw Update",
+   "name": "",
+   "moved_by": "Lustgarten-Evoy",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a By-law to Regulate Speed in the Township of Centre Wellington and to repeal By-law 2025-46 as outlined in Report No. IS2026-16.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the Mayor and Clerk to execute a By-law to Regulate Speed in the Township of Centre Wellington and to repeal By-law 2025-46 as outlined in Report No. IS2026-16.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 12
+  },
+  {
+   "id": "m15",
+   "item": "12.8",
+   "item_number": "12.8",
+   "item_title": "Elora South Inc. Tax Increment Equivalent Grant Update",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington receive report CAO2026-17 relating to the \"Elora South Inc. Tax Increment Equivalent Grant Update\" for information. AND THAT Council delegates authority to the Township Chief Administrative Officer and Chief Financial Officer / Treasurer to sign an amendment to the Elora South Inc. Tax Increment Equivalent Grant Agreement reflecting the proposed changes to the development phasing.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report CAO2026-17 relating to the &quot;Elora South Inc. Tax Increment Equivalent Grant Update&quot; for information. AND THAT Council delegates authority to the Township Chief Administrative Officer and Chief Financial Officer / Treasurer to sign an amendment to the Elora South Inc. Tax Increment Equivalent Grant Agreement reflecting the proposed changes to the development phasing.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m16",
+   "item": "12.9",
+   "item_number": "12.9",
+   "item_title": "Item 12.10 - Review of Township Road Salt Management Programs",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington receive the 2026 Township of Centre Wellington Salt Management Plan for information AND; Whereas road salt is a known toxic substance designated under the Canadian Environmental Protection Act because of tangible threats of serious or irreversible environmental and health damage from road salt; and Whereas salt levels in Ontario’s groundwater aquifers, creeks, rivers, and lakes have increasingly worsened since the 1970s, seriously affecting municipal drinking water sources and aquatic life; and Whereas the Township of Centre Wellington takes actions to minimize salt impacts, local salt concerns and economic damages from salt, etc., and Whereas the Ontario and Canadian governments have taken many actions over the past 25 years including setting water quality guidelines, developing voluntary codes of practice, signing the Canada-Ontario Great Lakes Agreement, and holding workshops, yet still the salt problem continues to grow; and Whereas numerous situation analyses have recommended salt solutions liability protection, contractor certification, government-approved Best Management Practices (BMPs) and salt management plans; and Whereas increased numbers of slips and falls claims, and other injury/collision claims related to snow and ice, are resulting in salt applicators overusing salt beyond levels considered best practices; and Whereas unlimited contractor liability is making it difficult or expensive for snow and ice management contractors to obtain insurance coverage, resulting in contractors leaving the business, thereby making it difficult for municipalities and private owners to find contractors; and Whereas the Snow and Ice Management Sector (SMS) of Landscape Ontario is working with the Ontario government to institute a limited liability regime for snow and ice management, including enforceable contractor training/certification and government-approved BMPs for salt application; and Whereas many Ontario municipalities have Salt Management Plans, but these often require updating in light of improved science and better salt management practices now available; and Whereas environmentally friendly and pet friendly alternatives to road salt and sidewalk have been widely available for decades and are used successfully world wide; Therefore Be It Resolved That: 1. The Township of Centre Wellington urges the Province of Ontario to work urgently with key stakeholders to develop limited liability legislation, including enforceable contractor training and a single set of provincially- endorsed standard Best Management Practices (BMPs) for snow and ice management including incorporating the enforcement and BMPs into Risk Management Plans and Source Protection Plans pursuant to the Clean Water Act where applicable; and 2. The Township of Centre Wellington urges the province of Ontario to create and fund an expert stakeholder advisory committee to advise the province and municipalities on the best courses of action to protect freshwater ecosystems and drinking water from the impacts of salt pollution; and 3. The Township of Centre Wellington investigate and implement, where feasible and cost-effective, measures to reduce the use and impacts of winter maintenance materials on the environment, infrastructure, pets, and the community, while maintaining safe and accessible roads, sidewalks, and parking lots; and 4. This resolution be sent to all municipalities within the County of Wellington, the City of Guelph, the Regional Municipality of Waterloo, the Association of Municipalities of Ontario (AMO), local MPPs, Conservation Ontario, Minister Todd McCarthy (MECP), Attorney General Doug Downey, and Premier Doug Ford.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive the 2026 Township of Centre Wellington Salt Management Plan for information AND; Whereas road salt is a known toxic substance designated under the Canadian Environmental Protection Act because of tangible threats of serious or irreversible environmental and health damage from road salt; and Whereas salt levels in Ontario’s groundwater aquifers, creeks, rivers, and lakes have increasingly worsened since the 1970s, seriously affecting municipal drinking water sources and aquatic life; and Whereas the Township of Centre Wellington takes actions to minimize salt impacts, local salt concerns and economic damages from salt, etc., and Whereas the Ontario and Canadian governments have taken many actions over the past 25 years including setting water quality guidelines, developing voluntary codes of practice, signing the Canada-Ontario Great Lakes Agreement, and holding workshops, yet still the salt problem continues to grow; and Whereas numerous situation analyses have recommended salt solutions liability protection, contractor certification, government-approved Best Management Practices (BMPs) and salt management plans; and Whereas increased numbers of slips and falls claims, and other injury/collision claims related to snow and ice, are resulting in salt applicators overusing salt beyond levels considered best practices; and Whereas unlimited contractor liability is making it difficult or expensive for snow and ice management contractors to obtain insurance coverage, resulting in contractors leaving the business, thereby making it difficult for municipalities and private owners to find contractors; and Whereas the Snow and Ice Management Sector (SMS) of Landscape Ontario is working with the Ontario government to institute a limited liability regime for snow and ice management, including enforceable contractor training/certification and government-approved BMPs for salt application; and Whereas many Ontario municipalities have Salt Management Plans, but these often require updating in light of improved science and better salt management practices now available; and Whereas environmentally friendly and pet friendly alternatives to road salt and sidewalk have been widely available for decades and are used successfully world wide; Therefore Be It Resolved That: 1. The Township of Centre Wellington urges the Province of Ontario to work urgently with key stakeholders to develop limited liability legislation, including enforceable contractor training and a single set of provincially- endorsed standard Best Management Practices (BMPs) for snow and ice management including incorporating the enforcement and BMPs into Risk Management Plans and Source Protection Plans pursuant to the Clean Water Act where applicable; and 2. The Township of Centre Wellington urges the province of Ontario to create and fund an expert stakeholder advisory committee to advise the province and municipalities on the best courses of action to protect freshwater ecosystems and drinking water from the impacts of salt pollution; and 3. The Township of Centre Wellington investigate and implement, where feasible and cost-effective, measures to reduce the use and impacts of winter maintenance materials on the environment, infrastructure, pets, and the community, while maintaining safe and accessible roads, sidewalks, and parking lots; and 4. This resolution be sent to all municipalities within the County of Wellington, the City of Guelph, the Regional Municipality of Waterloo, the Association of Municipalities of Ontario (AMO), local MPPs, Conservation Ontario, Minister Todd McCarthy (MECP), Attorney General Doug Downey, and Premier Doug Ford.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 13
+  },
+  {
+   "id": "m17",
+   "item": "12.10",
+   "item_number": "12.10",
+   "item_title": "Item 12.11 - Development Charge Reduction Program",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington extends the council meeting for one (1) hour.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington extends the council meeting for one (1) hour.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 16
+  },
+  {
+   "id": "m18",
+   "item": "12.10",
+   "item_number": "12.10",
+   "item_title": "Item 12.11 - Development Charge Reduction Program",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington receives report FIN2026-12 for information; AND THAT the Council of the Township of Centre Wellington directs staff to submit an application to Ontario’s Development Charge Reduction Program (DCRP), including identifying eligible projects, quantifying the financial impact of a residential development charge reduction; AND THAT the Council of the Township of Centre Wellington delegates authority to the Chief Administrative Officer and Chief Financial Officer and Treasurer to execute any associated agreements if successful with the application process.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receives report FIN2026-12 for information; AND THAT the Council of the Township of Centre Wellington directs staff to submit an application to Ontario’s Development Charge Reduction Program (DCRP), including identifying eligible projects, quantifying the financial impact of a residential development charge reduction; AND THAT the Council of the Township of Centre Wellington delegates authority to the Chief Administrative Officer and Chief Financial Officer and Treasurer to execute any associated agreements if successful with the application process.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 16
+  },
+  {
+   "id": "m19",
+   "item": "12.11",
+   "item_number": "12.11",
+   "item_title": "Item 12.1 2025 Audited Financial Statements",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve the December 31, 2025 audited draft consolidated financial statements as presented by KPMG LLP Chartered Professional Accountants.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the December 31, 2025 audited draft consolidated financial statements as presented by KPMG LLP Chartered Professional Accountants.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 17
+  },
+  {
+   "id": "m20",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "2026-44 a Bylaw to authorize a fund raising activity in the form of soliciting",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "Craddock",
+   "text": "THAT By-laws 2026-44 through 2026-47 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2026-44 through 2026-47 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 18
+  },
+  {
+   "id": "m21",
+   "item": "16.1",
+   "item_number": "16.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT By-law 2026-48 to Confirm the Proceedings of Council at its meeting held June 15, 2026, be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2026-48 to Confirm the Proceedings of Council at its meeting held June 15, 2026, be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 18
+  },
+  {
+   "id": "m22",
+   "item": "17.1",
+   "item_number": "17.1",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Adams",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 18
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

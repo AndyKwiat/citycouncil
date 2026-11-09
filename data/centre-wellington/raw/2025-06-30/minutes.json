@@ -1,0 +1,695 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 8,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Wilton",
+  "Craddock",
+  "Adams"
+ ],
+ "absent": [
+  "Adams"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Lustgarten-Evoy read the land acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated item 7.5, Zoning By-law Amendment RZ05/24 - 6235 Guelph Street, Nichol (Aypa Power) on the Consent Agenda is to be deferred and item 8.3, Financial Statements is to be moved up to 8.1.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>Mayor Watters declared a conflict of pecuniary interest with respect to agenda item 7.6, Riverfest Elora 2025 By-law Exemption due to his affiliation with the organization over the last 15 years.</p>",
+    "<p>Councillor Wilton declared a conflict of pecuniary interest with respect to agenda item 12.3, Decisions Report RZ05/24, 6235 Guelph Street (Aypa Power) from the May 12, 2025 Council meeting as her spouse is a partner at MHBC Planning who provides planning/consulting services to the applicant.</p>",
+    "<p>Councillor Wilton also declared a conflict of interest with respect to agenda item 7.5, Zoning By-law Amendment RZ05/24 - 6235 Guelph Street, Nichol (Aypa Power) which has been deferred, as her spouse is a partner at MHBC Planning who provides planning/consulting services to the applicant.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "County Council Report - Councillor Mary Lloyd provided an overview of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>the various County road projects underway and other initiatives related to</p>",
+    "<p>Safe Communities, expansion of Wellington Place daycare, new exhibits at the museum, and solid waste. M. Lloyd responded to questions regarding on-line County Council meetings, and changes to the recycling system.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.2",
+   "number": "5.2",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillors provided updates on the activities of the Fergus BIA, Farm Safety, and Safe Communities.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.3",
+   "number": "5.3",
+   "title": "Matthew Betik, KPMG re Audited Financial Statements provided an",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>overview of the audited financial statements. He indicated as of June 20, 2025, they have completed the audit of the financial statements, with the exception of certain remaining procedures, which include:</p>",
+    "<p>• Completing our discussions with the Council</p>",
+    "<p>• Completion of subsequent events procedures, up to the date of approval of the financial statements or completion of the audit • Obtaining evidence of Council’s approval of the financial statements;</p>",
+    "<p>and</p>",
+    "<p>• Receipt of the signed management representation letter.</p>",
+    "<p>He indicated no significant control deficiencies were identified throughout the audit.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Marty Van Vliet, on behalf of the Stephanie Minarovich Greenspace",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Fund re Elora Green Space Sculpture Addition appeared in support of the replacement of the pond in the Green Space in Elora with a sculpture titled, “Mo, the Moose Fawn” by Frank Ripley of Orillia. He indicated the sculpture, which stands at 5 feet tall, is made from repurposed metal and found objects.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.2",
+   "number": "6.2",
+   "title": "Juliane von Westerholt, MHBC Planning re Item 8.4 Water and",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Wastewater Servicing Plan – Notice of Study Completion appeared on behalf of Elora Greens Inc., owners of 127 First Line in the newly expanded areas of OPA 126. She indicated her clients are seeking the following confirmation:</p>",
+    "<p>A) That the timing of infrastructure improvements is development driven.</p>",
+    "<p>B) That the Township is willing to consider alternatives to water servicing should they be necessary and would do so once an application is submitted and before them for review.</p>",
+    "<p>C) That Water supply upgrades (i.e. the water storage and watermain to interconnect the Elora and Fergus water distribution systems) are not required to permit the development of the ER1 lands in Elora. In other words, these works will not impede a property owner within the ER1 area from making a development application and having it considered by the municipality for approval; and</p>",
+    "<p>D) That the Township consider and accept alternative wastewater servicing strategies (or modified servicing strategies) to permit the development of 127 First Line in advance of any employment land development.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated Consent Agenda Items are considered routine in nature and are voted on collectively. However, any Member of Council may request one or more items be removed from the Consent Agenda for separate discussion and/or action.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 3
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 5
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "2024 Audited Financial Statements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Bradey, Manager of Finance &amp; Deputy Treasurer Mark Bradey, Manager of Finance &amp; Deputy Treasurer provided an overview of the audited financial statements, including the statement of financial position, the statement of operations, statement of changes in net financial assets, statement of cash flows, and the notes to the financial statements.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Use of Indigenous-Themed Names, Logos and Imagery Within or on",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Township Facilities and Properties Update</p>",
+    "<p>Report from K. Bettiol, Manager of Community Development Presentation by K. Bettiol, Manager of Community Development and Kevin Sandy, CEO of Haudenosaunee Lacrosse</p>",
+    "<p>K. Bettiol, Manager of Community Development provided an overview of the background and developments, indicating the purpose of the report is to: a) present a draft policy for the use of Indigenous-themed names, logos, and imagery within or on Township facilities and properties, b) outline the reconciliation-focused policy pathway to respectful Indigenous representation, c) hear from Indigenous Leader, Kevin Sandy regarding the process and impacts on youth; and d) review engagement and consultation plan and request approval for the allocation of $20,000 from the DEI Capital Project.</p>",
+    "<p>Kevin Sandy, Cayuga Nation Wolf Clan, Six Nations shared insight on the journey of education and awareness.</p>",
+    "<p>K. Bettiol responded to questions regarding collaboration efforts with the local school boards, the plan to reinstate the banners in their original locations at the Jefferson Elora Community Centre, along with a permanent contextual display that shares the significance of the banners and the community’s thoughtful journey toward respectful representation in local lacrosse, and expansion of the financial allocation.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3",
+    "m4"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "Elora Greenspace Sculpture Addition",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Bettiol, Manager of Community Development K. Bettiol, Manager of Community Development provided an overview of the report and responded to questions regarding the state of the pond and the risk of damage to the sculpture.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8.4",
+   "number": "8.4",
+   "title": "Water and Wastewater Servicing Master Plan - Notice of Study",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Completion</p>",
+    "<p>Report from R. Maiden, Water and Wastewater Capital Project Manager R. Maiden, Water and Wastewater Capital Project Manager provided an overview of the report, indicating the Township has prepared its first Water and Wastewater Servicing Master Plan (WWSMP). The WWSMP identifies the preferred water and wastewater servicing strategy to service population and employment growth to the 2051 planning horizon.</p>",
+    "<p>Staff responded to questions regarding the request from the delegation and the staging plan for development.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 7
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "2025-43, A By-law to amend the Township of Centre Wellington Zoning",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>By-law 2009-045, as amended, to change the zoning of certain lands from “A.19.3” to “A.19.6” (6235 Guelph Street, Nichol (Aypa Power) TO BE DEFERRED</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 8
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "ADJOURNMENT - 7:38",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "13.1",
+   "number": "13.1",
+   "title": "ADJOURNMENT - 7:38",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 8
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "7",
+   "item_title": "Consent Items",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.4. 7.1 Approval and Receipt of Minutes 7.2 Appointments to Heritage Centre Wellington Report from D. Schellenberger, Legislative Coordinator THAT the Council of the Township of Centre Wellington appoint the following individuals to Heritage Centre Wellington: · Kristy Coles · Karen Rennie · Lindsay Benjamin AND THAT the Council of The Township of Centre Wellington appoint the following individual as a Youth Representative to Heritage Centre Wellington: · Breanna McDonald 7.3 Toll Booth - Elora Firefighters Report from K. O'Kane, Manager of Legislative Services & Municipal Clerk THAT the Council of the Township of Centre Wellington authorizes the Mayor and Clerk to execute a by-law authorizing a fundraising activity in the form of soliciting by a toll booth on Metcalfe Street in Elora, on Saturday, September 6, 2025 from 8:00 a.m. to 3:00 p.m. by the Elora Firefighters Association on behalf of Muscular Dystrophy Canada. 7.4 Toll Booth-Fergus Firefighters Report from K. O'Kane, Manager of Legislative Services & Municipal Clerk THAT the Council of the Township of Centre Wellington authorizes the Mayor and Clerk to execute a by-law authorizing a fundraising activity in the form of soliciting by a toll booth on Tower Street in Fergus, on Saturday, September 13, 2025 from 8:00 a.m. to 4:00 p.m. by the Fergus Firefighters Association on behalf of Muscular Dystrophy Canada. 7.5 Zoning By-law Amendment RZ05/24 - 6235 Guelph Street, Nichol (Aypa Power) DEFERRED Report from M. Iglesias, Manager of Planning Services Mayor Watters having declared a conflict of interest with the next item left the room and Councillor MacDonald assumed the Chair. 7.6 Riverfest Elora 2025 By-Law Exemption Report from K. Bettiol, Manager of Community Development THAT the Council of the Township of Centre Wellington authorizes Riverfest Elora to have exclusive use of Bissell Park from Wednesday August 13 through to Tuesday August 19, 2025 to accommodate the set up, the festival itself and tear down of the event; AND THAT the Council of the Township of Centre Wellington approves Riverfest Elora from August 15-17, 2025 as a Municipally Significant Event in order to a acquire a Public Special Occasions Permit for Alcohol Service at Bissel Park from the Alcohol Gaming Commission of Ontario (AGCO).",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.4. 7.1 Approval and Receipt of Minutes 7.2 Appointments to Heritage Centre Wellington Report from D. Schellenberger, Legislative Coordinator THAT the Council of the Township of Centre Wellington appoint the following individuals to Heritage Centre Wellington: · Kristy Coles · Karen Rennie · Lindsay Benjamin AND THAT the Council of The Township of Centre Wellington appoint the following individual as a Youth Representative to Heritage Centre Wellington: · Breanna McDonald 7.3 Toll Booth - Elora Firefighters Report from K. O&#x27;Kane, Manager of Legislative Services &amp; Municipal Clerk THAT the Council of the Township of Centre Wellington authorizes the Mayor and Clerk to execute a by-law authorizing a fundraising activity in the form of soliciting by a toll booth on Metcalfe Street in Elora, on Saturday, September 6, 2025 from 8:00 a.m. to 3:00 p.m. by the Elora Firefighters Association on behalf of Muscular Dystrophy Canada. 7.4 Toll Booth-Fergus Firefighters Report from K. O&#x27;Kane, Manager of Legislative Services &amp; Municipal Clerk THAT the Council of the Township of Centre Wellington authorizes the Mayor and Clerk to execute a by-law authorizing a fundraising activity in the form of soliciting by a toll booth on Tower Street in Fergus, on Saturday, September 13, 2025 from 8:00 a.m. to 4:00 p.m. by the Fergus Firefighters Association on behalf of Muscular Dystrophy Canada. 7.5 Zoning By-law Amendment RZ05/24 - 6235 Guelph Street, Nichol (Aypa Power) DEFERRED Report from M. Iglesias, Manager of Planning Services Mayor Watters having declared a conflict of interest with the next item left the room and Councillor MacDonald assumed the Chair. 7.6 Riverfest Elora 2025 By-Law Exemption Report from K. Bettiol, Manager of Community Development THAT the Council of the Township of Centre Wellington authorizes Riverfest Elora to have exclusive use of Bissell Park from Wednesday August 13 through to Tuesday August 19, 2025 to accommodate the set up, the festival itself and tear down of the event; AND THAT the Council of the Township of Centre Wellington approves Riverfest Elora from August 15-17, 2025 as a Municipally Significant Event in order to a acquire a Public Special Occasions Permit for Alcohol Service at Bissel Park from the Alcohol Gaming Commission of Ontario (AGCO).</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m2",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "2024 Audited Financial Statements",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve the December 31, 2024 audited draft consolidated financial statements as presented by KPMG LLP Chartered Professional Accountants.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the December 31, 2024 audited draft consolidated financial statements as presented by KPMG LLP Chartered Professional Accountants.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m3",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Use of Indigenous-Themed Names, Logos and Imagery Within or on",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "",
+   "text": "That the funding allocated be raised from $20,000 to $40,000. Councillor Wilton withdrew her amendment.",
+   "text_html": "<p>That the funding allocated be raised from $20,000 to $40,000. Councillor Wilton withdrew her amendment.</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m4",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Use of Indigenous-Themed Names, Logos and Imagery Within or on",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington receive the Draft Use of Indigenous-Themed Logos and Imagery Within or on Township Facilities and Properties Policy for information, and directs staff to return to Council with a final draft Policy for a future Council meeting; AND THAT Council directs staff to execute a communication plan to share the draft policy for feedback; AND THAT Council directs staff to collaborate with the Diversity, Equity and Inclusion (DEI) Working Group, Indigenous Partners and the local lacrosse organizations to finalize the permanent contextual display for the Jefferson Elora Community Centre, and return to Council at the same time as the final policy for consideration of approval; AND THAT Council directs staff to execute the Reconciliation-Focused Policy Pathway to Respectful Indigenous Representation, outlined in Report CS2025-15; AND THAT Council allocate $20,000 from the DEI Capital Project to execute the Reconciliation-Focused Policy Pathway to Respectful Indigenous Representation.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive the Draft Use of Indigenous-Themed Logos and Imagery Within or on Township Facilities and Properties Policy for information, and directs staff to return to Council with a final draft Policy for a future Council meeting; AND THAT Council directs staff to execute a communication plan to share the draft policy for feedback; AND THAT Council directs staff to collaborate with the Diversity, Equity and Inclusion (DEI) Working Group, Indigenous Partners and the local lacrosse organizations to finalize the permanent contextual display for the Jefferson Elora Community Centre, and return to Council at the same time as the final policy for consideration of approval; AND THAT Council directs staff to execute the Reconciliation-Focused Policy Pathway to Respectful Indigenous Representation, outlined in Report CS2025-15; AND THAT Council allocate $20,000 from the DEI Capital Project to execute the Reconciliation-Focused Policy Pathway to Respectful Indigenous Representation.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m5",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "Elora Greenspace Sculpture Addition",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington approve the installation of a new sculpture, \"Mo, the Moose Fawn\", in the Elora Green Space and a plaque recognizing the sculpture in memory of Stephanie Minarovich; AND THAT Council authorize a $6,000 contribution in support of this project, funded from the General Capital Reserve; AND THAT Council delegate authority to the Managing Director of Community Services to execute the required agreements to facilitate the project.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the installation of a new sculpture, &quot;Mo, the Moose Fawn&quot;, in the Elora Green Space and a plaque recognizing the sculpture in memory of Stephanie Minarovich; AND THAT Council authorize a $6,000 contribution in support of this project, funded from the General Capital Reserve; AND THAT Council delegate authority to the Managing Director of Community Services to execute the required agreements to facilitate the project.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m6",
+   "item": "8.4",
+   "item_number": "8.4",
+   "item_title": "Water and Wastewater Servicing Master Plan - Notice of Study",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington endorses the Water and Wastewater Servicing Master Plan and directs staff to publish a Notice of Study Completion for the Study, as outlined in Report IS2025-21; AND THAT Council directs staff to bring forward programs, studies and projects included in the Water and Wastewater Servicing Master Plan for consideration in capital and operating budget deliberations.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorses the Water and Wastewater Servicing Master Plan and directs staff to publish a Notice of Study Completion for the Study, as outlined in Report IS2025-21; AND THAT Council directs staff to bring forward programs, studies and projects included in the Water and Wastewater Servicing Master Plan for consideration in capital and operating budget deliberations.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m7",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Wilton",
+   "text": "THAT By-law 2025-44 to Confirm the Proceedings of Council at its meeting held June 30, 2025 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2025-44 to Confirm the Proceedings of Council at its meeting held June 30, 2025 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m8",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "ADJOURNMENT - 7:38",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Mayor Watters",
+   "event": "joined",
+   "text": "Mayor Watters rejoined the meeting.",
+   "page": 5
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

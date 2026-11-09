@@ -1,0 +1,975 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 9,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Wilton",
+  "Craddock",
+  "Lustgarten-Evoy",
+  "Adams"
+ ],
+ "absent": [
+  "Lustgarten-Evoy",
+  "Adams"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "1.1",
+   "number": "1.1",
+   "title": "Mayor Watters called the meeting to order.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2.1",
+   "number": "2.1",
+   "title": "Mayor Watters read the land acknowledgement.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3.1",
+   "number": "3.1",
+   "title": "None.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4.1",
+   "number": "4.1",
+   "title": "None declared.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Community Improvement Plan (CIP)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Luciano Piccioi, President, RCI Consulting, indicated he is currently working with both the Township and the County to coordinate efforts in the Community Improvement Plan (CIP). He updated Council on the CIP Basics, purpose of the review, current CIP and incentive programs, key findings to date and presented the draft CIP goals and incentive programs. He indicated there will be further opportunity for Council to provide input at the Statutory Public Meeting.</p>",
+    "<p>The consultant responded to questions regarding the façade and property improvement grants, the next steps in the process, and long term rental / affordable housing incentives.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5.2",
+   "number": "5.2",
+   "title": "James Scott re Disc Golf",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>James Scott indicated he is an advocate for disc golf in Centre Wellington.</p>",
+    "<p>His is requesting Parks and Recreation staff consider creating a pocket sized 9 hole disc golf course at the Centre Wellington Community Sportsplex. He indicated it is accessible, equitable and has a positive impact with disc golf tourism. He indicated the estimated cost is $10 000.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.1",
+   "number": "6.1",
+   "title": "Linda Williamson spoke to item 7.3 2023 Parking Strategy. She indicated",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>she is a resident of Elora with concerns with proper parking and noise enforcement in the downtown. She believes the needs and wishes of residents and merchants need to all be considered equally and the business community is divided. She would like to see the parking return to pre-covid ways if a solution can not be found to accommodate everyone.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.2",
+   "number": "6.2",
+   "title": "Cathi Bastien addressed Council regarding Item 7.3 2023 Parking",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Strategy. She indicated she is a resident and business owner and has concerns with extended patios and the lack of fairness for local businesses. She believes some are no longer feeling welcome in the downtown and the inequities in the number of seats allocated to each restaurant, the size of the extended business space and the use of sidewalks for businesses. She would like to see all businesses treated equally.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.3",
+   "number": "6.3",
+   "title": "Wayne Bridgman spoke to Council regarding Item 7.3 2023 Parking",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Strategy. He indicated the patio season is too long, believes it creates an unsafe walking environment, has concerns with accessibility and safety and the ability for quick pick up at all downtown businesses. He believes the Township should support all businesses.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.4",
+   "number": "6.4",
+   "title": "Staci Barron addressed the Strategic Plan and requested a time",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>extension to allow residents more time to complete the survey. She spoke to her concerns regarding patios and the policy content. She indicated patios should be a privilege not a right and violations should effect the issuance of permits in future years.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6.5",
+   "number": "6.5",
+   "title": "Mary Anne Neville addressed Item 7.3 2023 Parking Strategy indicated",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>she agrees with previous delegations; however, she is not a business owner, but a downtown resident. She raised safety concerns and parking concerns for residents.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "6.6",
+   "number": "6.6",
+   "title": "Maclean Hann spoke to Item 7.3 2023 Parking Strategy, indicating he is",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>representing owners and operators of patios on Township property. He stated the economic recovery is far from over and they are happy to work with Council to address the complaints; however, he is in support of the policy. He explained the costs to business owner cost of building a patio and outlined how they provide more employment and service area for individuals.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 3
+  },
+  {
+   "id": "7.1",
+   "number": "7.1",
+   "title": "Nomination of Lake Erie Source Protection Committee Representative",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Davis, Risk Management Official</p>",
+    "<p>K. Davis, Risk Management Official introduced John Sepulis and outlined the responsibility of the Committee.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7.2",
+   "number": "7.2",
+   "title": "Pierpoint Research Project Update",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from M. Iglesias, Senior Planner</p>",
+    "<p>M. Iglesias, Senior Planner outlined the history of project and introduced the consultant.</p>",
+    "<p>Annie Veilleux, Archaeological Services Inc. gave a presentation regarding the Pierpoint Settlement Research Project. She indicated the settlement is the earliest known non-indigenous settlement in Centre Wellington with ties to black Canadians. She further explained Richard Pierpoint was designated a national historic person by Parks Canada in 2020. She outlined what a Cultural Heritage Landscape is and how they work and reviewed the recommendations for the Pierpoint Settlement area.</p>",
+    "<p>M. Iglesias, Senior Planner reviewed the recommendations before council including the request that the flyfishing reserve be added as the 19th Cultural Heritage Landscape, be included in the Official Plan amendment project and that Council pursue designation of the subject property.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 3
+  },
+  {
+   "id": "7.3",
+   "number": "7.3",
+   "title": "2023 Parking Strategy",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from D. Wilson, Chief Administrative Officer</p>",
+    "<p>D. Wilson, Chief Administrative Officer reviewed the report, he indicated a long term parking strategy is planned for 2024. He highlighted staff are not recommending street closures in Elora due to the closure of East Mill for construction; however in Fergus it is recommended to continue with the closure of Provost Lane. Further, staff recommends continuation of parking enforcement with Alpha for another year at the same service level of services as 2022. In addition, staff is recommending continuation of an improved shuttle service between Fergus and Elora.</p>",
+    "<p>Staff responded to questions regarding accessible parking spots, shuttle bus ridership, the long-term parking strategy including a parking permit system and the patio by-law.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 4
+  },
+  {
+   "id": "7.4",
+   "number": "7.4",
+   "title": "Council recessed from 4:00pm to 4:10pm.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Annual Speed Limit and Traffic Calming Review and Recommendations Report from A. Gilmore, Manager of Engineering</p>",
+    "<p>Adam Gilmore, Manager of Engineering reviewed the report, indicating this review and recommendation is a requirement of the Speed Limit Policy approved in 2021 which includes the monitoring and review of speed limits and traffic calming measures.</p>",
+    "<p>Staff responded to questions regarding the reason for the increased funding and the methodology behind the recommended changes.</p>",
+    "<p>Richard Wright, delegation, addressed speed concerns on the Second Line in West Garafraxa. He is in support of the four way stop on the Second Line and Sideroad 20 due to visibility and raised concerns with the speed reduction on Second Line, a lack of enforcement and ongoing construction during the speed observation. He believes a solution is additional signage and enforcement as opposed to speed reduction.</p>",
+    "<p>Staff responded to further questions regarding public consultation and circulation of the proposed changes to the public and follow up on the effectiveness of the change.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 5
+  },
+  {
+   "id": "7.5",
+   "number": "7.5",
+   "title": "Request for Tender #06-23: Reconstruction of Beatty Line",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Wiles, Purchasing &amp; Risk Supervisor</p>",
+    "<p>C. Baker, Managing Director of Infrastructure Services indicated this project is a full reconstruction of Beatty Line from Hill Street to North of Colborne, which includes the addition of storm sewers, a new roundabout, traffic calming (narrow lanes), streetlights, landscaping and additional servicing.</p>",
+    "<p>D. Wilson, Chief Administrative Officer reviewed the request for tender, indicated there were 37 plan takers and 9 submitted proposals received.</p>",
+    "<p>He reviewed the project funding, indicated the project is under budget and noted staff is recommending awards to Cox Construction Limited.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 6
+  },
+  {
+   "id": "7.6",
+   "number": "7.6",
+   "title": "Request for Tender #12-23: Centre Wellington Business Park - Phase 2",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from S. Wiles, Purchasing &amp; Risk Supervisor</p>",
+    "<p>C. Baker, Managing Director of Infrastructure Services indicated the project is for phase 2 of the business park, including the extension of Dickson Drive to First Line, construction of the cul-de-sac, extension of water and stormwater systems, and the construction of a multi use path.</p>",
+    "<p>D. Wilson, Chief Administrative Officer indicated staff received 12 responses and is recommending award to Ersman Construction Inc. He further indicated the project is under budget and to be funded from the economic development reserve fund.</p>",
+    "<p>Staff responded to questions regarding street lighting, trail signage and timing of the sale of the lots in the business park.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 6
+  },
+  {
+   "id": "7.7",
+   "number": "7.7",
+   "title": "Request for Tender #07-23 / Sport Utility Vehicles, Pick-up Trucks,",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Electric Passenger Vehicle</p>",
+    "<p>Report from S. Wiles, Purchasing &amp; Risk Supervisor</p>",
+    "<p>D. Wilson, Chief Administrative Officer provided an overview of the report and indicated due to delays with production and deliver, the number of vehicles has been scaled back. He further informed staff is looking at new branding for all Township vehicles.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 7
+  },
+  {
+   "id": "7.8",
+   "number": "7.8",
+   "title": "Fees & Charges Amendments",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>D. Wilson, Chief Administrative Officer indicated the changes to the Fees and Charges By-law are resultant from recommendations from the Watson and Associates for planning and development, to include the Municipal Road Occupancy Permits fee structure as well as a house keeping matter to correct an error in cemetery fees.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 7
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Information Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Naming Rights Agreement Template",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from P. Newson, Managing Director of Community Services Received for Information.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "2023-28 A By-law to Amend Schedules ‘A’, ‘C’, ‘E’, and ‘G’ to By-law No.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>2023-01 being a By-law to establish the fees and charges for various services provided by the municipality.</p>",
+    "<p>2023-29 A By-law to authorize the Managing Director of Corporate Services &amp; Treasurer to execute a Service Agreement between the Corporation of the Township of Centre Wellington and Alpha Technology Systems Inc.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 8
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "10.1",
+   "number": "10.1",
+   "title": "None.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "11.1",
+   "number": "11.1",
+   "title": "None.",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m10"
+   ],
+   "page": 9
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 9
+  },
+  {
+   "id": "13.1",
+   "number": "13.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m11"
+   ],
+   "page": 9
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7.1",
+   "item_number": "7.1",
+   "item_title": "Nomination of Lake Erie Source Protection Committee Representative",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington nominate John Sepulis as the Municipal Representative for the Wellington County, Halton Region, Dufferin County and Grey County Municipal Grouping Number 1 for the Lake Erie Source Protection Committee.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington nominate John Sepulis as the Municipal Representative for the Wellington County, Halton Region, Dufferin County and Grey County Municipal Grouping Number 1 for the Lake Erie Source Protection Committee.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 3
+  },
+  {
+   "id": "m2",
+   "item": "7.2",
+   "item_number": "7.2",
+   "item_title": "Pierpoint Research Project Update",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington receives for information the \"Pierpoint Settlement Research Project: Interpretation Framework\" report prepared by Archaeological Services Inc., provided as Attachment 1 to staff report PLN2023-17; and THAT the Pierpoint Fly Fishing Nature Reserve be added to the Centre Wellington Cultural Heritage Landscape Inventory and the Cultural Heritage Landscapes Official Plan Amendment Project as an identified significant cultural heritage landscape; and THAT staff be directed to bring forward a report concerning heritage designation of the Pierpoint Fly Fishing Nature Reserve as a significant cultural heritage landscape under Part IV of the Ontario Heritage Act; AND THAT staff be directed to report back on the development of a Pierpoint Community Working Group to advance work associated with the Pierpoint Research Project.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receives for information the &quot;Pierpoint Settlement Research Project: Interpretation Framework&quot; report prepared by Archaeological Services Inc., provided as Attachment 1 to staff report PLN2023-17; and THAT the Pierpoint Fly Fishing Nature Reserve be added to the Centre Wellington Cultural Heritage Landscape Inventory and the Cultural Heritage Landscapes Official Plan Amendment Project as an identified significant cultural heritage landscape; and THAT staff be directed to bring forward a report concerning heritage designation of the Pierpoint Fly Fishing Nature Reserve as a significant cultural heritage landscape under Part IV of the Ontario Heritage Act; AND THAT staff be directed to report back on the development of a Pierpoint Community Working Group to advance work associated with the Pierpoint Research Project.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m3",
+   "item": "7.3",
+   "item_number": "7.3",
+   "item_title": "2023 Parking Strategy",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington approve the 2023 parking strategy outlined in Report CAO2023-05 dated April 11, 2023. AND THAT the Managing Director of Corporate Services & Treasurer be authorized to sign: a. A 2023 service agreement with Alpha Technology Systems Inc. b. An 2023 Access and Use Agreement with the owner of the parking lot located at 739 St Andrew St W, Fergus. c. 2023 Service Agreements for the use of a bus and taxi as a shuttle.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve the 2023 parking strategy outlined in Report CAO2023-05 dated April 11, 2023. AND THAT the Managing Director of Corporate Services &amp; Treasurer be authorized to sign: a. A 2023 service agreement with Alpha Technology Systems Inc. b. An 2023 Access and Use Agreement with the owner of the parking lot located at 739 St Andrew St W, Fergus. c. 2023 Service Agreements for the use of a bus and taxi as a shuttle.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 4
+  },
+  {
+   "id": "m4",
+   "item": "7.4",
+   "item_number": "7.4",
+   "item_title": "Council recessed from 4:00pm to 4:10pm.",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington endorses recommendations outlined in Report No. IS2023-09 related to proposed speed limit reductions on Township roads, to be implemented through an upcoming amendment to the Township's Consolidated Speed Bylaw, AND THAT Council directs staff to proceed with implementing speed reduction measures as outlined in Report No. IS2023-09, AND THAT Council approves increasing the budget for capital project 2023-042: Traffic Calming Measures 2023 from $125,000 to $250,000.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorses recommendations outlined in Report No. IS2023-09 related to proposed speed limit reductions on Township roads, to be implemented through an upcoming amendment to the Township&#x27;s Consolidated Speed Bylaw, AND THAT Council directs staff to proceed with implementing speed reduction measures as outlined in Report No. IS2023-09, AND THAT Council approves increasing the budget for capital project 2023-042: Traffic Calming Measures 2023 from $125,000 to $250,000.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m5",
+   "item": "7.5",
+   "item_number": "7.5",
+   "item_title": "Request for Tender #06-23: Reconstruction of Beatty Line",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT the Council of the Township of Centre Wellington award Request For Tender #06-23 regarding the Reconstruction of Beatty Line, to Cox Construction Limited at a contract price of $4,606,609.10, including contingency and excluding HST. AND THAT project funding be updated as shown in report COR2023-32 dated April 11, 2023.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington award Request For Tender #06-23 regarding the Reconstruction of Beatty Line, to Cox Construction Limited at a contract price of $4,606,609.10, including contingency and excluding HST. AND THAT project funding be updated as shown in report COR2023-32 dated April 11, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m6",
+   "item": "7.6",
+   "item_number": "7.6",
+   "item_title": "Request for Tender #12-23: Centre Wellington Business Park - Phase 2",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington award Request For Tender #12-23 regarding the construction of the Centre Wellington Business Park - Phase 2, to Ersman Construction Inc. at a contract price of $2,109,862.49, including contingency and excluding HST.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington award Request For Tender #12-23 regarding the construction of the Centre Wellington Business Park - Phase 2, to Ersman Construction Inc. at a contract price of $2,109,862.49, including contingency and excluding HST.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m7",
+   "item": "7.7",
+   "item_number": "7.7",
+   "item_title": "Request for Tender #07-23 / Sport Utility Vehicles, Pick-up Trucks,",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington authorize the award of Request for Tender #07-23: Sport Utility Vehicles, Pick-up Trucks and Electric Passenger Vehicle including optional equipment and excluding HST as follows: a. Two Sport Utility Vehicles at a total price of $72,082.00, from Winegard Motors. b. Five Half Ton Pick-up Trucks at a total price of $280,094.75, from Barry Cullen Chevrolet Cadillac Ltd. c. One Electric Vehicle at a total price of $38,326.72, from Barry Cullen Chevrolet Cadillac Ltd. AND THAT the funding for the outfitting and procurements be revised as outlined in report COR2023-33 dated April 11, 2023.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington authorize the award of Request for Tender #07-23: Sport Utility Vehicles, Pick-up Trucks and Electric Passenger Vehicle including optional equipment and excluding HST as follows: a. Two Sport Utility Vehicles at a total price of $72,082.00, from Winegard Motors. b. Five Half Ton Pick-up Trucks at a total price of $280,094.75, from Barry Cullen Chevrolet Cadillac Ltd. c. One Electric Vehicle at a total price of $38,326.72, from Barry Cullen Chevrolet Cadillac Ltd. AND THAT the funding for the outfitting and procurements be revised as outlined in report COR2023-33 dated April 11, 2023.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m8",
+   "item": "7.8",
+   "item_number": "7.8",
+   "item_title": "Fees & Charges Amendments",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Wilton",
+   "text": "THAT the Council of the Township of Centre Wellington endorse an amendment to By-law 2023-01, the Township's 2023 Fees & Charges By- Law, pursuant to recommendations coming from Report PLN2023-07 regarding the Planning and Development Fee Study. AND THAT the Council of the Township of Centre Wellington endorse various amendments to By-law 2023-01 to facilitate further changes related to Municipal Road Occupancy Permits, and other housekeeping items.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorse an amendment to By-law 2023-01, the Township&#x27;s 2023 Fees &amp; Charges By- Law, pursuant to recommendations coming from Report PLN2023-07 regarding the Planning and Development Fee Study. AND THAT the Council of the Township of Centre Wellington endorse various amendments to By-law 2023-01 to facilitate further changes related to Municipal Road Occupancy Permits, and other housekeeping items.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m9",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2023-28 A By-law to Amend Schedules ‘A’, ‘C’, ‘E’, and ‘G’ to By-law No.",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-laws 2023-28 and 2023-29 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-laws 2023-28 and 2023-29 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  },
+  {
+   "id": "m10",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Jefferson",
+   "text": "THAT By-law 2023-30 to Confirm the Proceedings of Council at its meeting held April 11, 2023 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2023-30 to Confirm the Proceedings of Council at its meeting held April 11, 2023 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  },
+  {
+   "id": "m11",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Jefferson",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Craddock",
+    "Jefferson",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 9
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

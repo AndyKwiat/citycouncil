@@ -1,0 +1,725 @@
+{
+ "title": "Council",
+ "source_format": "pdf",
+ "pages": 8,
+ "roster": [
+  "Mayor Watters",
+  "MacDonald",
+  "Jefferson",
+  "Lustgarten-Evoy",
+  "Adams",
+  "Wilton",
+  "Craddock"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters welcomed everyone and called the meeting to order.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Land Acknowledgement",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Wilton read the Land Acknowledgement.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Addendums and Corrections to the Agenda",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "4",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest Under the Municipal Conflict of Interest",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Act</p>",
+    "<p>Councillor Wilton declared a conflict of interest with respect to agenda item 8.3 OPA 126, as her spouse, a partner at MHBC, represents various subject properties.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 1
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Presentations and Announcements",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.1",
+   "number": "5.1",
+   "title": "Angela Stanley President and CEO of Groves Memorial Community",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Hospital and Alison Armstrong, Manager, Communications, Stakeholder Relations and Physician Recruitment, Groves Memorial Community Hospital</p>",
+    "<p>re: Groves Memorial Community Hospital - Year in Review Angela Stanley outlined the growth and increased activity in the three communities, Wellington North, Minto-Mapleton and Centre Wellington.</p>",
+    "<p>She highlighted the 174 new staff hired since April, 2024, including 72 nurses and the new installation of the CT scanner on March 4, 2025.</p>",
+    "<p>Alison Armstrong provided an overview of the physician recruitment initiatives and thanked staff and Council for their continued partnership and support for the hospital and healthcare professional recruitment efforts.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.2",
+   "number": "5.2",
+   "title": "County Councillor Mary Lloyd provided an update on the closing of the",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Elora transfer station on April 5th for renovations, the success of the automated speed enforcement, the highway 109 road improvements that will impact traffic flow and the farming community, the continuation of the winter response program for the homeless, successful March break programs at the various libraries, and the potential regulation of Escooters.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "5.3",
+   "number": "5.3",
+   "title": "Councillor's Committee Updates",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Members of Council provided updates on the activities of Safe Communities, the Economic Prosperity &amp; Growth Committee and Farm Safety.</p>"
+   ],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "6",
+   "number": "6",
+   "title": "Delegations",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 2
+  },
+  {
+   "id": "7",
+   "number": "7",
+   "title": "Consent Items",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Watters indicated the Consent Agenda Items are considered routine in nature and are voted on collectively. However, any Member of Council may request one or more items be removed from the Consent Agenda for separate action.</p>",
+    "<p>Gerry Atkinson, Manager of Waste Water Services provided additional details on the bypass issues and mechanical upgrades implemented.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ],
+   "page": 2
+  },
+  {
+   "id": "8",
+   "number": "8",
+   "title": "Consideration of Reports",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 4
+  },
+  {
+   "id": "8.1",
+   "number": "8.1",
+   "title": "Community Investment Fund Recipient Recommendation",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from K. Bettiol, Manager of Community Development K. Bettiol, Manager of Community Development provided an overview of the report, indicating the community investment fund is to provide financial assistance to enhance the quality of life by fostering, strengthening and stimulating wider community appreciation and participation in the community. She outlined the process undertaken, including the scoring tool used. She highlighted the recipients of the annual specific stream funding in the amount of $23,150 and outlined the eligible recipients for the community impact totalling $56,500.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ],
+   "page": 4
+  },
+  {
+   "id": "8.2",
+   "number": "8.2",
+   "title": "Asset Management Levels of Service Framework",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer provided an overview of the report, indicating staff have been working in concert with SLBC to develop a Levels of Service (LOS) framework that would be compliant with legislation and facilitate the long-term service delivery target setting for Centre Wellington.</p>",
+    "<p>Eric Goforth, Senior Associate, Advisory Services, SLBC Inc., provided an overview of the proposed framework and outlined the three phases of the project; Phase 1 develop the Levels of Service framework, Phase 2 Community Engagement Strategy and Phase 3 Proposed LOS and Implementation Plan. He outlined the Levels of Service Approach, the project outcomes, and the next steps in the project.</p>",
+    "<p>E. Goforth responded to questions regarding the historical performance of the measures tracked, adjustment of the long-term metrix within the framework, staff resources required to maintain, and use of the marketing framework and graphics for community engagement.</p>",
+    "<p>Councillor Wilton, having declared a conflict of interest left the meeting and did not participate in any discussions nor did she vote on the matter.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.3",
+   "number": "8.3",
+   "title": "Municipal Endorsement of County of Wellington OPA 126",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from B. Salmon, Managing Director of Planning and Development</p>",
+    "<p>B. Salmon, Managing Director of Planning and Development provided an overview of the report and highlighted the modifications, the requested commentary on policy modifications and ongoing requests to add additional parcels to the settlement area.</p>",
+    "<p>He responded to questions regarding the solution for the landlocked parcels, the Minimum Distance Separation (MDS) impact, and the minor rounding out of lands within Elora.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ],
+   "page": 5
+  },
+  {
+   "id": "8.4",
+   "number": "8.4",
+   "title": "Response to September 16th Community Delegation From Segal",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Construction Regarding Attainable Housing</p>",
+    "<p>Report from B. Salmon, Managing Director of Planning and Development</p>",
+    "<p>B. Salmon, Managing Director of Planning and Development provided an overview of the report, indicating the delegation from Segal Construction suggested a model for attainable housing using municipal financing which is not feasible. He did, however, provide additional information regarding use of Minister’s Orders. He explained the use of the Minister’s Order as a tool to expedite planning approvals and streamline development.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m5"
+   ],
+   "page": 6
+  },
+  {
+   "id": "8.5",
+   "number": "8.5",
+   "title": "2025 Debt Issue",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+    "<p>Adam McNabb, Managing Director of Corporate Services &amp; Treasurer noted staff is anticipating the need for marketing a debt issue to satisfy the Township’s long-term borrowing needs for 2025. He indicated staff has investigated three opportunities and is seeking Council direction to proceed with formalizing one of the options outlined in the report.</p>",
+    "<p>Adam McNabb responded to a question regarding the impact and potential risk in the event of a reduction or elimination of development charges.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m6"
+   ],
+   "page": 6
+  },
+  {
+   "id": "9",
+   "number": "9",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "9.1",
+   "number": "9.1",
+   "title": "2025-20 A By-law to Appoint Members to the Board of Management of",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>the Fergus and Elora Business Improvement Areas Pursuant to s.</p>",
+    "<p>204(3) of the Municipal Act, as amended and to Repeal By-law 2024-02</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m7"
+   ],
+   "page": 7
+  },
+  {
+   "id": "10",
+   "number": "10",
+   "title": "Notice of Motions",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "11",
+   "number": "11",
+   "title": "Motions (where Notice had been given)",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12",
+   "number": "12",
+   "title": "Confirmatory By-law",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 7
+  },
+  {
+   "id": "12.1",
+   "number": "12.1",
+   "title": "A By-law to confirm the actions of Council",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m8"
+   ],
+   "page": 7
+  },
+  {
+   "id": "13",
+   "number": "13",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [],
+   "page": 8
+  },
+  {
+   "id": "13.1",
+   "number": "13.1",
+   "title": "ADJOURNMENT",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Municipal Clerk</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m9"
+   ],
+   "page": 8
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "7",
+   "item_number": "7",
+   "item_title": "Consent Items",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.7. 7.1 Approval and Receipt of Minutes That the minutes of the Council Meeting held February 24, 2025 and Special Council Meeting held March 3, 2025 meeting be approved as circulated; AND that the advisory committee minutes be received for information. 7.2 Code of Conduct Complaint 2024-03 and MCIA Application 2024- 02 THAT the Council of the Township of Centre Wellington receive Integrity Commissioner Report Code of Conduct Complaint 2024-03 and MCIA Application 2024-02 for information. 7.3 Appointments to the Fergus and Elora Business Improvement Area Boards of Management Report from K. O’Kane, Manager of Legislative Services & Municipal Clerk THAT the Council of the Township of Centre Wellington confirm the appointment of the following members to the Board of Management for the Fergus Business Improvement Area: Melinda Croft, Chair Miranda Holmes, Vice Chair Tammy Wrice, Treasurer Graham Wilkin Charlene Stacken Bonnie Shortill Ellen Wilson AND THAT Council confirm the appointment of the following members to the Board of Management for the Elora Business Improvement Area: Erika Montero, Chair Cathi Bastien, Vice Chair Robin Gow, Treasurer Cathy Daultrey Kathy Sullivan Aileen Jenkins AND THAT the Mayor and Clerk execute a By-law to reflect the new executive to the Board of Management for the Fergus and Elora Business Improvement Areas, pursuant to s. 204(2) of the Municipal Act 2001, as amended. 7.4 Fergus and Elora WWTP Performance Reports and Consolidated Linear Infrastructure Annual Reports Report from G. Atkinson, Manager of Wastewater Services THAT the Council of the Township of Centre Wellington receive as information the following 2024 Wastewater Reports: - Fergus Wastewater Treatment Plant - Annual Performance Report; - Elora Wastewater Treatment Plant - Annual Performance Report; - Sewage Collection System – Annual Performance Report; and - Stormwater Management System - Annual Performance Report. 7.5 Treasurer's Statement of 2024 Council and Committee Remuneration & Expenses Report from A. McNabb, Managing Director of Corporate Services & Treasurer 7.6 Treasurer's Annual Statement: 2024 Investments Report from A. McNabb, Managing Director of Corporate Services & Treasurer 7.7 Treasurer's Annual Statement: 2024 Interest Free Loans Report from A. McNabb, Managing Director of Corporate Services & Treasurer",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approve consent agenda items 7.1 through 7.7. 7.1 Approval and Receipt of Minutes That the minutes of the Council Meeting held February 24, 2025 and Special Council Meeting held March 3, 2025 meeting be approved as circulated; AND that the advisory committee minutes be received for information. 7.2 Code of Conduct Complaint 2024-03 and MCIA Application 2024- 02 THAT the Council of the Township of Centre Wellington receive Integrity Commissioner Report Code of Conduct Complaint 2024-03 and MCIA Application 2024-02 for information. 7.3 Appointments to the Fergus and Elora Business Improvement Area Boards of Management Report from K. O’Kane, Manager of Legislative Services &amp; Municipal Clerk THAT the Council of the Township of Centre Wellington confirm the appointment of the following members to the Board of Management for the Fergus Business Improvement Area: Melinda Croft, Chair Miranda Holmes, Vice Chair Tammy Wrice, Treasurer Graham Wilkin Charlene Stacken Bonnie Shortill Ellen Wilson AND THAT Council confirm the appointment of the following members to the Board of Management for the Elora Business Improvement Area: Erika Montero, Chair Cathi Bastien, Vice Chair Robin Gow, Treasurer Cathy Daultrey Kathy Sullivan Aileen Jenkins AND THAT the Mayor and Clerk execute a By-law to reflect the new executive to the Board of Management for the Fergus and Elora Business Improvement Areas, pursuant to s. 204(2) of the Municipal Act 2001, as amended. 7.4 Fergus and Elora WWTP Performance Reports and Consolidated Linear Infrastructure Annual Reports Report from G. Atkinson, Manager of Wastewater Services THAT the Council of the Township of Centre Wellington receive as information the following 2024 Wastewater Reports: - Fergus Wastewater Treatment Plant - Annual Performance Report; - Elora Wastewater Treatment Plant - Annual Performance Report; - Sewage Collection System – Annual Performance Report; and - Stormwater Management System - Annual Performance Report. 7.5 Treasurer&#x27;s Statement of 2024 Council and Committee Remuneration &amp; Expenses Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer 7.6 Treasurer&#x27;s Annual Statement: 2024 Investments Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer 7.7 Treasurer&#x27;s Annual Statement: 2024 Interest Free Loans Report from A. McNabb, Managing Director of Corporate Services &amp; Treasurer</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 2
+  },
+  {
+   "id": "m2",
+   "item": "8.1",
+   "item_number": "8.1",
+   "item_title": "Community Investment Fund Recipient Recommendation",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Lustgarten-Evoy",
+   "text": "THAT the Council of the Township of Centre Wellington approves the Community Investment Fund allocations as recommended by the Healthy Communities Advisory Committee as attached in the Recipient Recommendations 2025, to Report CS2025-02.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington approves the Community Investment Fund allocations as recommended by the Healthy Communities Advisory Committee as attached in the Recipient Recommendations 2025, to Report CS2025-02.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m3",
+   "item": "8.2",
+   "item_number": "8.2",
+   "item_title": "Asset Management Levels of Service Framework",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "Craddock",
+   "text": "THAT the Council of the Township of Centre Wellington endorse the draft levels of service framework as presented in Report COR2025-10 and direct staff to utilize the framework for the purposes of drafting the 2025 asset management plan update.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorse the draft levels of service framework as presented in Report COR2025-10 and direct staff to utilize the framework for the purposes of drafting the 2025 asset management plan update.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 5
+  },
+  {
+   "id": "m4",
+   "item": "8.3",
+   "item_number": "8.3",
+   "item_title": "Municipal Endorsement of County of Wellington OPA 126",
+   "name": "",
+   "moved_by": "Jefferson",
+   "seconded_by": "Adams",
+   "text": "THAT the Council of the Township of Centre Wellington endorse Report PLN2025-19 regarding County of Wellington OPA 126 and authorize the Managing Director of Planning and Development to submit the comments outlined in Report PLN2025-19 to the County of Wellington.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington endorse Report PLN2025-19 regarding County of Wellington OPA 126 and authorize the Managing Director of Planning and Development to submit the comments outlined in Report PLN2025-19 to the County of Wellington.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m5",
+   "item": "8.4",
+   "item_number": "8.4",
+   "item_title": "Response to September 16th Community Delegation From Segal",
+   "name": "",
+   "moved_by": "Wilton",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington receive report PLN2025-21 for information.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington receive report PLN2025-21 for information.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 6
+  },
+  {
+   "id": "m6",
+   "item": "8.5",
+   "item_number": "8.5",
+   "item_title": "2025 Debt Issue",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT the Council of the Township of Centre Wellington direct staff to work with Toronto Dominion Bank to formalize a debt issuance in the form of a fixed rate borrowing with an interest rate swap up to $27.7 Million Dollars for the purposes of satisfying the long term borrowing requirements of the 2025 calendar year for the Township.",
+   "text_html": "<p>THAT the Council of the Township of Centre Wellington direct staff to work with Toronto Dominion Bank to formalize a debt issuance in the form of a fixed rate borrowing with an interest rate swap up to $27.7 Million Dollars for the purposes of satisfying the long term borrowing requirements of the 2025 calendar year for the Township.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m7",
+   "item": "9.1",
+   "item_number": "9.1",
+   "item_title": "2025-20 A By-law to Appoint Members to the Board of Management of",
+   "name": "",
+   "moved_by": "Adams",
+   "seconded_by": "MacDonald",
+   "text": "THAT By-law 2025-20 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.",
+   "text_html": "<p>THAT By-law 2025-20 be read a first, second and third time and passed, signed by the Mayor and Clerk and the Corporate Seal affixed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m8",
+   "item": "12.1",
+   "item_number": "12.1",
+   "item_title": "A By-law to confirm the actions of Council",
+   "name": "",
+   "moved_by": "Craddock",
+   "seconded_by": "Jefferson",
+   "text": "THAT By-law 2025-21 to Confirm the Proceedings of Council at its meeting held March 24, 2025 be introduced a first, second and third time and passed in open Council.",
+   "text_html": "<p>THAT By-law 2025-21 to Confirm the Proceedings of Council at its meeting held March 24, 2025 be introduced a first, second and third time and passed in open Council.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 7
+  },
+  {
+   "id": "m9",
+   "item": "13.1",
+   "item_number": "13.1",
+   "item_title": "ADJOURNMENT",
+   "name": "",
+   "moved_by": "MacDonald",
+   "seconded_by": "Wilton",
+   "text": "THAT this meeting be adjourned.",
+   "text_html": "<p>THAT this meeting be adjourned.</p>",
+   "post_html": "",
+   "result": {
+    "text": "CARRIED",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded",
+   "requested_recorded_vote": false,
+   "present": [
+    "Adams",
+    "Craddock",
+    "Jefferson",
+    "Lustgarten-Evoy",
+    "MacDonald",
+    "Mayor Watters",
+    "Wilton"
+   ],
+   "page": 8
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [
+  {
+   "member": "Wilton",
+   "event": "joined",
+   "text": "Councillor Wilton rejoined the meeting at 7:45pm.",
+   "page": 6
+  }
+ ],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

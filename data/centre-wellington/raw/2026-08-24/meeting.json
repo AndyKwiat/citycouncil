@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "1002",
+ "city": "centre-wellington",
+ "key": "2026-08-24",
+ "type": "Council",
+ "body": "council",
+ "body_name": "Township Council",
+ "title": "Council",
+ "start": "2026-08-24T17:00:00",
+ "end": null,
+ "location": "",
+ "links": {
+  "official_minutes": "https://centrewellington.civicweb.net/document/83103",
+  "minutes_pdf": "https://centrewellington.civicweb.net/document/83103",
+  "agenda": null,
+  "meeting_page": "https://centrewellington.civicweb.net/Portal/MeetingInformation.aspx?Id=1002",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.pdf": "4ce2a677966ab8e5dceb1b267f14b607f2b5ea31a2cfa06093436473d1638cf7"
+ }
+}
