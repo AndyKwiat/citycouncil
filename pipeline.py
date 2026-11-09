@@ -163,7 +163,10 @@ def select(args, city=None):
         wanted = set(args.dates.split(","))
         return [m for m in ms if m["key"] in wanted]
     if args.latest:
-        missing = [m for m in past if not (raw / m["key"] / "summary.json").exists() and m["minutes_posted"]]
+        def closed(m):
+            minutes = read_json(raw / m["key"] / "minutes.json")
+            return bool(minutes and closed_only(minutes))
+        missing = [m for m in past if not (raw / m["key"] / "summary.json").exists() and m["minutes_posted"] and not closed(m)]
         return missing[:args.latest]
     if args.new:
         newest = max((m["start"] for m in past if (raw / m["key"] / "summary.json").exists()), default="")

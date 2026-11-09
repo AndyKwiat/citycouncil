@@ -40,7 +40,9 @@ Rules:
 COMMITTEE_RULE = """
 - This is a meeting of the {body}, a standing committee, not of Council itself. Its decisions are recommendations that Council adopts or changes later, so write "the committee recommended" rather than "approved" or "decided", except for matters the committee settles itself (such as receiving a report for information)."""
 
-PROCEDURAL = r"closed (meeting|session)|confirmation of|adjourn|by-?laws?$"
+# Routine motions a summary's decisions must not point at. "Closed Meeting Investigator" is not one of them.
+PROCEDURAL = (r"(authority|motion|resolution) to (move|go|hold|meet|proceed)[^.]{0,30}closed|^closed (meeting|session)( summary)?$"
+              r"|return to open|confirmation of|adjourn|by-?laws?$")
 
 
 def transcript_text(segs):

@@ -103,6 +103,7 @@ class KeysAndTerms(unittest.TestCase):
         self.assertTrue(closed_only({"motions": [{"id": "m1", "item_title": "Authority to move into closed meeting"},
                                                  {"id": "m2", "item_title": "Adjournment"}]}))
         self.assertFalse(closed_only({"motions": [{"id": "m1", "item_title": "Budget"}]}))
+        self.assertFalse(closed_only({"motions": [{"id": "m1", "item_title": "Appointment of Closed Meeting Investigator - 2026-250"}]}))
 
 
 class GuelphData(unittest.TestCase):
