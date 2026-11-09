@@ -145,12 +145,26 @@ class SiteText(unittest.TestCase):
             self.assertIn('class="site"', page.read_text(), page)
 
     def test_filter_chips_only_with_several_kinds(self):
-        one = {"a": {"body": "council", "body_name": "City Council"}}
+        one = {"a": {"body": "council", "body_name": "City Council", "type": "City Council"}}
         self.assertEqual(build.filter_chips(GUELPH, one), "")
-        two = {**one, "b": {"body": "committee", "body_name": "Committee of the Whole"}}
+        two = {**one, "b": {"body": "committee", "body_name": "Committee of the Whole", "type": "Committee of the Whole"}}
         chips = build.filter_chips(GUELPH, two)
         self.assertIn('href="#show=committee-of-the-whole"', chips)
-        self.assertIn('data-show="council"', chips)
+        self.assertTrue(chips.index("City Council") < chips.index("Committee of the Whole"))  # main meetings first
+
+
+class Cycles(unittest.TestCase):
+    def test_other_meetings_fold_under_the_next_council_meeting(self):
+        def it(day, kind):
+            return (__import__("datetime").datetime.fromisoformat(day), {"type": kind, "body_name": kind}, day)
+        items = [it("2026-01-05", "Committee of the Whole"), it("2026-01-27", "City Council"), it("2026-02-02", "Council Planning"),
+                 it("2026-02-10", "Committee of the Whole"), it("2026-02-24", "City Council"), it("2026-03-02", "Committee of the Whole")]
+        groups = build.cycles(GUELPH, items)
+        self.assertEqual([(a[2] if a else None, [x[2] for x in subs]) for a, subs in groups],
+                         [(None, ["2026-03-02"]), ("2026-02-24", ["2026-02-02", "2026-02-10"]), ("2026-01-27", ["2026-01-05"])])
+        html = build.listing_html(GUELPH, items)
+        self.assertIn("Since the last council meeting", html)
+        self.assertIn("2 other meetings (Council Planning, Committee of the Whole)", html)
 
 
 if __name__ == "__main__":

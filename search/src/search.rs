@@ -25,6 +25,7 @@ pub struct Row {
     pub city: String,
     pub meeting: String,
     pub date: String,
+    pub body: String,
     pub title: String,
     pub text: String,
     pub url: String,
@@ -45,6 +46,8 @@ pub struct Params {
     pub kinds: Vec<String>,
     /// Councils to search; empty means all of them.
     pub cities: Vec<String>,
+    /// "council" and/or "committee"; empty means both.
+    pub bodies: Vec<String>,
     pub from: String,
     pub to: String,
     pub limit: usize,
@@ -52,7 +55,7 @@ pub struct Params {
 
 impl Params {
     pub fn new(q: &str) -> Self {
-        Self { q: q.to_string(), kinds: KINDS.iter().map(|s| s.to_string()).collect(), cities: vec![], from: String::new(), to: String::new(), limit: 20 }
+        Self { q: q.to_string(), kinds: KINDS.iter().map(|s| s.to_string()).collect(), cities: vec![], bodies: vec![], from: String::new(), to: String::new(), limit: 20 }
     }
 }
 
@@ -62,6 +65,7 @@ pub struct Hit {
     pub city: String,
     pub meeting: String,
     pub date: String,
+    pub body: String,
     pub title: String,
     pub snippet: String,
     pub url: String,
@@ -87,15 +91,15 @@ impl Store {
         let conn = Connection::open_with_flags(db, OpenFlags::SQLITE_OPEN_READ_ONLY | OpenFlags::SQLITE_OPEN_NO_MUTEX)?;
         let (mut rows, mut ids, mut vecs, mut dims) = (vec![], vec![], vec![], 0);
         {
-            let mut st = conn.prepare("SELECT id, kind, city, meeting, date, title, text, url, label, vec FROM chunks ORDER BY id")?;
+            let mut st = conn.prepare("SELECT id, kind, city, meeting, date, body, title, text, url, label, vec FROM chunks ORDER BY id")?;
             let mut q = st.query([])?;
             while let Some(r) = q.next()? {
-                let v = from_blob(&r.get::<_, Vec<u8>>(9)?);
+                let v = from_blob(&r.get::<_, Vec<u8>>(10)?);
                 dims = v.len();
                 vecs.extend(v);
                 ids.push(r.get(0)?);
-                rows.push(Row { kind: r.get(1)?, city: r.get(2)?, meeting: r.get(3)?, date: r.get(4)?, title: r.get(5)?, text: r.get(6)?,
-                                url: r.get(7)?, label: r.get(8)? });
+                rows.push(Row { kind: r.get(1)?, city: r.get(2)?, meeting: r.get(3)?, date: r.get(4)?, body: r.get(5)?, title: r.get(6)?,
+                                text: r.get(7)?, url: r.get(8)?, label: r.get(9)? });
             }
         }
         Ok(Self { rows, ids, vecs, dims, conn: Mutex::new(conn) })
@@ -109,6 +113,7 @@ impl Store {
         let r = &self.rows[i];
         p.kinds.iter().any(|k| k == &r.kind)
             && (p.cities.is_empty() || p.cities.iter().any(|c| c == &r.city))
+            && (p.bodies.is_empty() || p.bodies.iter().any(|b| b == &r.body))
             && (p.from.is_empty() || r.date.as_str() >= p.from.as_str())
             && (p.to.is_empty() || r.date.as_str() <= p.to.as_str())
     }
@@ -159,7 +164,7 @@ impl Store {
             .into_iter()
             .map(|(i, score)| {
                 let r = &self.rows[i];
-                Hit { kind: r.kind.clone(), city: r.city.clone(), meeting: r.meeting.clone(), date: r.date.clone(), title: r.title.clone(), snippet: snippet(&r.text, &p.q),
+                Hit { kind: r.kind.clone(), city: r.city.clone(), meeting: r.meeting.clone(), date: r.date.clone(), body: r.body.clone(), title: r.title.clone(), snippet: snippet(&r.text, &p.q),
                       url: r.url.clone(), label: r.label.clone(), score, similarity: sims[i], exact: exact.contains(&i) }
             })
             .collect();
@@ -230,8 +235,9 @@ mod tests {
         let conn = Connection::open(&db).unwrap();
         conn.execute_batch(SCHEMA).unwrap();
         for (kind, city, meeting, text, v) in rows {
-            conn.execute("INSERT INTO chunks (kind, city, meeting, date, title, text, url, label, hash, vec) VALUES (?,?,?,?,?,?,?,?,?,?)",
-                         rusqlite::params![kind, city, meeting, &meeting[..10], "t", text, "u", "", "h", to_blob(&crate::embed::normalize(v.to_vec()))]).unwrap();
+            let body = if meeting.len() > 10 { "committee" } else { "council" };
+            conn.execute("INSERT INTO chunks (kind, city, meeting, date, body, title, text, url, label, hash, vec) VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+                         rusqlite::params![kind, city, meeting, &meeting[..10], body, "t", text, "u", "", "h", to_blob(&crate::embed::normalize(v.to_vec()))]).unwrap();
         }
         conn.execute("INSERT INTO chunks_fts (chunks_fts) VALUES ('rebuild')", []).unwrap();
         drop(conn);
@@ -338,6 +344,12 @@ mod tests {
         // Committee keys sort after their date, so dates (not keys) decide the range.
         p.to = "2025-03-01".into();
         assert_eq!(s.search(&p, &q).unwrap().searched, 1);
+        // Committees can be left out.
+        p.to = String::new();
+        p.bodies = vec!["council".into()];
+        let r = s.search(&p, &q).unwrap();
+        assert_eq!(r.searched, 1);
+        assert_eq!(r.results[0].body, "council");
     }
 
     #[test]

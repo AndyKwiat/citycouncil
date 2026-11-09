@@ -19,6 +19,9 @@ pub struct Chunk {
     /// The meeting's date (YYYY-MM-DD); the meeting key starts with it.
     #[serde(default)]
     pub date: String,
+    /// "council" or "committee".
+    #[serde(default = "default_body")]
+    pub body: String,
     pub title: String,
     pub text: String,
     pub url: String,
@@ -32,9 +35,13 @@ fn default_city() -> String {
     "guelph".into()
 }
 
+fn default_body() -> String {
+    "council".into()
+}
+
 pub const SCHEMA: &str = "
 CREATE TABLE chunks (id INTEGER PRIMARY KEY, kind TEXT NOT NULL, city TEXT NOT NULL, meeting TEXT NOT NULL, date TEXT NOT NULL,
-                     title TEXT NOT NULL, text TEXT NOT NULL, url TEXT NOT NULL, label TEXT NOT NULL, hash TEXT NOT NULL, vec BLOB NOT NULL);
+                     body TEXT NOT NULL, title TEXT NOT NULL, text TEXT NOT NULL, url TEXT NOT NULL, label TEXT NOT NULL, hash TEXT NOT NULL, vec BLOB NOT NULL);
 CREATE INDEX chunks_city_date ON chunks (city, date);
 CREATE VIRTUAL TABLE chunks_fts USING fts5(title, text, content='chunks', content_rowid='id', tokenize='porter unicode61');
 CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);
@@ -97,10 +104,10 @@ pub fn build(chunks_path: &Path, db: &Path, model_dir: &Path, dtype: DType) -> R
     conn.execute_batch(SCHEMA)?;
     let tx = conn.transaction()?;
     {
-        let mut ins = tx.prepare("INSERT INTO chunks (kind, city, meeting, date, title, text, url, label, hash, vec) VALUES (?,?,?,?,?,?,?,?,?,?)")?;
+        let mut ins = tx.prepare("INSERT INTO chunks (kind, city, meeting, date, body, title, text, url, label, hash, vec) VALUES (?,?,?,?,?,?,?,?,?,?,?)")?;
         for (c, h) in chunks.iter().zip(&hashes) {
             let date = if c.date.is_empty() { c.meeting.chars().take(10).collect() } else { c.date.clone() };
-            ins.execute(params![c.kind, c.city, c.meeting, date, c.title, c.text, c.url, c.label, h, cached[h]])?;
+            ins.execute(params![c.kind, c.city, c.meeting, date, c.body, c.title, c.text, c.url, c.label, h, cached[h]])?;
         }
         tx.execute("INSERT INTO chunks_fts (chunks_fts) VALUES ('rebuild')", [])?;
         let mut meta = tx.prepare("INSERT INTO meta (key, value) VALUES (?, ?)")?;

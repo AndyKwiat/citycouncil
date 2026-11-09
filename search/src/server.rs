@@ -82,6 +82,7 @@ pub struct SearchQuery {
     q: Option<String>,
     kinds: Option<String>,
     cities: Option<String>,
+    bodies: Option<String>,
     from: Option<String>,
     to: Option<String>,
     limit: Option<usize>,
@@ -107,6 +108,12 @@ pub fn params(q: &SearchQuery) -> Result<Params, String> {
         // Council slugs only: lower-case letters and hyphens. An unknown one simply matches nothing.
         p.cities = c.split(',').map(str::trim).filter(|c| !c.is_empty() && c.len() <= 40 && c.chars().all(|x| x.is_ascii_lowercase() || x == '-'))
             .take(20).map(String::from).collect();
+    }
+    if let Some(b) = &q.bodies {
+        p.bodies = b.split(',').map(str::trim).filter(|b| ["council", "committee"].contains(b)).map(String::from).collect();
+        if p.bodies.is_empty() && !b.trim().is_empty() {
+            return Err("bodies must be council, committee or both.".into());
+        }
     }
     for (value, slot) in [(&q.from, &mut p.from), (&q.to, &mut p.to)] {
         if let Some(v) = value.as_deref().filter(|v| !v.is_empty()) {
@@ -158,8 +165,8 @@ pub async fn search(State(app): State<Arc<App>>, headers: HeaderMap, Query(q): Q
         let embed_ms = t.elapsed().as_millis();
         let found = worker.store.search(&p, &v)?;
         // One line per search for `radify logs`; the visitor is a short hash, not the IP address.
-        eprintln!("search q={:?} kinds={} cities={} from={} to={} results={} weak={} ms={} visitor={who}", p.q, p.kinds.join(","),
-                  p.cities.join(","), p.from, p.to, found.results.len(), found.weak, t.elapsed().as_millis());
+        eprintln!("search q={:?} kinds={} cities={} bodies={} from={} to={} results={} weak={} ms={} visitor={who}", p.q, p.kinds.join(","),
+                  p.cities.join(","), p.bodies.join(","), p.from, p.to, found.results.len(), found.weak, t.elapsed().as_millis());
         Ok::<_, anyhow::Error>(json!({ "query": p.q, "results": found.results, "searched": found.searched,
                                        "keyword_matches": found.keyword_matches, "weak": found.weak,
                                        "embed_ms": embed_ms, "total_ms": t.elapsed().as_millis() }))
@@ -265,5 +272,8 @@ mod tests {
         let cities = |c: &str| params(&SearchQuery { q: Some("x".into()), cities: Some(c.into()), ..Default::default() }).unwrap().cities;
         assert_eq!(cities("guelph, kitchener,,Bad;DROP"), vec!["guelph", "kitchener"]);
         assert!(cities("").is_empty());
+        let bodies = |b: &str| params(&SearchQuery { q: Some("x".into()), bodies: Some(b.into()), ..Default::default() });
+        assert_eq!(bodies("council").unwrap().bodies, vec!["council"]);
+        assert!(bodies("board").is_err());
     }
 }

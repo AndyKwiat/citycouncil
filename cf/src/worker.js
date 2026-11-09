@@ -1,6 +1,6 @@
 // Static files (every page, plus _redirects for /) are served without running this. It only runs for
 // www and /api/search, which forwards searches to the private API with the site's secret key.
-const PARAMS = ['q', 'kinds', 'cities', 'from', 'to', 'limit'];
+const PARAMS = ['q', 'kinds', 'cities', 'bodies', 'from', 'to', 'limit'];
 const CACHE_SECONDS = 3600;
 
 export default {

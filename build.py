@@ -37,7 +37,7 @@ summary:hover h2{color:var(--accent)}
 summary h2{font:600 20px/1.3 var(--serif);margin:0 0 3px;transition:color .12s}
 summary p{margin:0;color:var(--muted);font-size:14.5px;line-height:1.45}
 .chev{color:var(--muted);transition:transform .15s;margin-top:4px;font-size:13px}
-details[open] .chev{transform:rotate(90deg)}
+details[open]>summary>.chev{transform:rotate(90deg)}
 .body{padding:2px 20px 22px;border-top:1px solid var(--line)}
 .body h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:22px 0 8px;font-weight:600}
 .body p{margin:0 0 10px}
@@ -141,13 +141,24 @@ footer.site p{margin:0 0 8px}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin:18px 0 0}
 .chips a{font-size:13.5px;text-decoration:none;padding:3px 11px;border-radius:99px;border:1px solid var(--line);background:var(--panel);color:var(--ink)}
 .chips a[aria-current=true]{background:var(--accent);border-color:var(--accent);color:var(--panel)}
-.date .b{display:block;margin-top:4px;font-size:11.5px;line-height:1.3;color:var(--accent);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
-details.meeting[hidden],h2.year[hidden]{display:none}
+details.meeting[hidden],details.sub[hidden],.cycle[hidden],section.yr[hidden]{display:none}
+.cycle{margin-bottom:12px}.cycle>details.meeting{margin-bottom:0}
+details.sub{margin:0 0 0 26px;padding:2px 0 0 14px;border-left:2px solid var(--line)}
+details.sub>summary{display:block;padding:7px 0;font-size:14px;color:var(--muted);border-radius:6px}
+details.sub>summary::before{content:"\\25B8\\00a0";color:var(--accent)}details.sub[open]>summary::before{content:"\\25BE\\00a0"}
+details.sub>summary b{color:var(--ink);font-weight:600}details.sub>summary:hover b{color:var(--accent)}
+details.sub>details.meeting{margin:0 0 8px}
+details.sub.flat{margin:0;padding:0;border:0}details.sub.flat>summary{display:none}details.sub.flat>details.meeting{margin-bottom:12px}
+details.meeting.minor{background:color-mix(in srgb,var(--panel) 55%,var(--bg))}
+details.meeting.minor>summary{grid-template-columns:80px 1fr 18px;padding:12px 16px}
+details.meeting.minor .date .d{font-size:18px}details.meeting.minor summary h2{font-size:17px}details.meeting.minor summary p{font-size:13.5px}
+.kind{display:block;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--accent);margin-bottom:2px}
 .councils{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-top:22px}
 .council{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--ink)}
 .council:hover{box-shadow:0 2px 14px rgba(0,0,0,.08)}.council img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
 .council div{padding:12px 16px 14px}.council h2{font:600 21px/1.25 var(--serif);margin:0 0 4px;color:var(--accent)}.council p{margin:0;color:var(--muted);font-size:14px;line-height:1.45}
-@media (max-width:560px){.date .b{display:inline;margin:0}.brand img{width:44px;height:44px}}
+@media (max-width:560px){.brand img{width:44px;height:44px}details.sub{margin-left:10px;padding-left:10px}
+details.meeting.minor>summary{grid-template-columns:1fr 18px;padding:12px 14px}}
 """
 
 JS = """
@@ -172,14 +183,18 @@ document.addEventListener('click',function(ev){var b=ev.target.closest&&ev.targe
  if(!(ev.target.closest&&ev.target.closest('#pop')))hide();});
 document.addEventListener('keydown',function(ev){if(ev.key==='Escape')hide();});
 addEventListener('scroll',function(){if(!pop.hidden&&!pinned)pop.hidden=true},true);
-function openHash(){if(location.hash.indexOf('#m-')!==0)return;var m=document.getElementById(location.hash.slice(1));if(m&&m.tagName==='DETAILS'){m.open=true;m.scrollIntoView()}}
+function openHash(){if(location.hash.indexOf('#m-')!==0)return;var m=document.getElementById(location.hash.slice(1));if(m&&m.tagName==='DETAILS'){var s=m.parentElement&&m.parentElement.closest('details.sub');if(s)s.open=true;m.open=true;m.scrollIntoView()}}
 openHash();addEventListener('hashchange',openHash);
-// The meeting list's filter (All, Council, each committee) lives in the hash, e.g. #show=committee-of-the-whole.
+// The meeting list's filter lives in the hash, e.g. #show=committee-of-the-whole. "All" keeps the council cycles
+// with their other meetings folded underneath; one kind shows just those meetings as a flat list.
 function filter(){var chips=document.querySelectorAll('.chips[data-filter] a');if(!chips.length)return;
- var h=location.hash.indexOf('#show=')===0?decodeURIComponent(location.hash.slice(6)):'all';
- [].forEach.call(chips,function(a){a.setAttribute('aria-current',a.dataset.show===h?'true':'false')});
- [].forEach.call(document.querySelectorAll('details.meeting'),function(d){d.hidden=!(h==='all'||d.dataset.body===h||d.dataset.type===h)});
- [].forEach.call(document.querySelectorAll('h2.year'),function(y){var n=y.nextElementSibling,any=false;while(n&&n.tagName==='DETAILS'){if(!n.hidden)any=true;n=n.nextElementSibling}y.hidden=!any});}
+ var h=location.hash.indexOf('#show=')===0?decodeURIComponent(location.hash.slice(6)):'all',all=h==='all';
+ function each(sel,f){[].forEach.call(document.querySelectorAll(sel),f)}
+ each('.chips[data-filter] a',function(a){a.setAttribute('aria-current',a.dataset.show===h?'true':'false')});
+ each('details.meeting',function(d){d.hidden=!(all||d.dataset.type===h)});
+ each('details.sub',function(s){var any=!!s.querySelector('details.meeting:not([hidden])');s.hidden=!any;s.classList.toggle('flat',!all);s.open=all?s.dataset.open==='1':any});
+ each('.cycle',function(c){c.hidden=!c.querySelector('details.meeting:not([hidden])')});
+ each('section.yr',function(y){y.hidden=!y.querySelector('.cycle:not([hidden])')});}
 filter();addEventListener('hashchange',filter);
 })();
 """
@@ -758,7 +773,8 @@ differences easier to see. Votes come from the city's minutes. Names and photos 
     return True
 
 
-def meeting_card(city, key, m, sumr, minutes, starts, multi):
+def meeting_card(city, key, m, sumr, minutes, starts, minor=False):
+    """One meeting's card. Minor cards (committees, planning, budget and special meetings) are lighter and labelled."""
     start = dt.datetime.fromisoformat(m["start"])
     clock = f"{start:%I:%M %p}".lstrip("0")
     links = m["links"]
@@ -781,14 +797,12 @@ def meeting_card(city, key, m, sumr, minutes, starts, multi):
     transcript_link = f'<a class="btn" href="transcripts/{key}.html">Read full transcript</a>' if starts else ""
     video_link = f'<a href="{links["video"]}">Video</a>' if links.get("video") else ""
     agenda_link = f'<a href="{links["agenda"]}">Agenda</a>' if links.get("agenda") else ""
-    # The body shows on every card once a council has more than one kind of meeting on its site.
-    body_label = f'<span class="b">{e(m["body_name"])}</span>' if multi else ""
-    data = f' data-body="{m["body"]}" data-type="{e(cities.slugify(m["body_name"]), quote=True)}"' if multi else ""
+    kind = f'<span class="kind">{e(m["body_name"])}</span>' if minor else ""
     return f"""
-<details class="meeting" id="m-{key}"{data}>
+<details class="meeting{' minor' if minor else ''}" id="m-{key}" data-type="{e(cities.slugify(m["body_name"]), quote=True)}">
 <summary>
-<div class="date"><span class="d">{start:%b} {start.day}</span><span class="y">{start.year}</span><span class="t">{clock}</span>{body_label}</div>
-<div class="head"><h2>{e(sumr['title'])}</h2><p>{e(sumr['subtitle'])}</p></div>
+<div class="date"><span class="d">{start:%b} {start.day}</span><span class="y">{start.year}</span><span class="t">{clock}</span></div>
+<div class="head">{kind}<h2>{e(sumr['title'])}</h2><p>{e(sumr['subtitle'])}</p></div>
 <span class="chev" aria-hidden="true">&#9654;</span>
 </summary>
 <div class="body">
@@ -803,13 +817,61 @@ def meeting_card(city, key, m, sumr, minutes, starts, multi):
 
 
 def filter_chips(city, metas):
-    """All · Council · each committee, when the site has more than one kind of meeting."""
-    types = {m["body_name"]: m["body"] for m in metas.values()}
-    if len(types) < 2:
+    """All, then each kind of meeting (main council meetings first), when the site has more than one kind."""
+    counts = collections.Counter(m["body_name"] for m in metas.values())
+    if len(counts) < 2:
         return ""
-    chips = [("all", "All"), ("council", "Council")] + [(cities.slugify(n), n) for n, b in sorted(types.items()) if b == "committee"]
-    return ('<nav class="chips" data-filter aria-label="Show meetings of">'
+    main = (city.meeting_type(city.get("main_type")) or {}).get("label")
+    names = sorted(counts, key=lambda n: (n != main, -counts[n], n))
+    chips = [("all", "All")] + [(cities.slugify(n), n) for n in names]
+    return ('<nav class="chips" data-filter aria-label="Show only">'
             + "".join(f'<a href="#show={k}" data-show="{k}" aria-current="{str(k == "all").lower()}">{e(n)}</a>' for k, n in chips) + "</nav>")
+
+
+def cycles(city, items):
+    """Group meetings into council cycles, newest first: each main council meeting (e.g. Guelph's City Council) with
+    the other meetings held since the previous one, which mostly feed into it. items: [(start, meeting, card html)]."""
+    main = city.get("main_type")
+    items = sorted(items, key=lambda c: c[0])
+    if not any(m["type"] == main for _, m, _ in items):
+        return [(it, []) for it in reversed(items)]
+    groups, pending = [], []
+    for it in items:
+        if it[1]["type"] == main:
+            groups.append((it, pending))
+            pending = []
+        else:
+            pending.append(it)
+    if pending:
+        groups.append((None, pending))
+    return list(reversed(groups))
+
+
+def plural(n, word, many=None):
+    return f"{n} {word if n == 1 else many or word + 's'}"
+
+
+def listing_html(city, items):
+    """Years, then council cycles: the main meeting's card, with the meetings before it tucked underneath."""
+    out, year_now, year_html = "", None, ""
+    for anchor, subs in cycles(city, items):
+        year = (anchor or subs[-1])[0].year
+        if year != year_now:
+            if year_now is not None:
+                out += f'<section class="yr"><h2 class="sec year">{year_now}</h2>{year_html}</section>'
+            year_now, year_html = year, ""
+        sub = ""
+        if subs:
+            kinds = collections.Counter(m["body_name"] for _, m, _ in subs)
+            what = ", ".join(f"{n} {k}" if n > 1 else k for k, n in kinds.most_common())
+            head = "Before this council meeting" if anchor else "Since the last council meeting"
+            sub = (f'<details class="sub"{"" if anchor else " open"} data-open="{"" if anchor else "1"}"><summary><b>{head}:</b> '
+                   f'{plural(len(subs), "other meeting")} ({e(what)})</summary>'
+                   + "".join(card for _, _, card in reversed(subs)) + "</details>")
+        year_html += f'<div class="cycle">{anchor[2] if anchor else ""}{sub}</div>'
+    if year_now is not None:
+        out += f'<section class="yr"><h2 class="sec year">{year_now}</h2>{year_html}</section>'
+    return out
 
 
 def build_city(city, out):
@@ -824,7 +886,8 @@ def build_city(city, out):
         if m and sumr and minutes:
             found.append((d, m, sumr, minutes))
             metas[d.name] = m
-    multi = len({m["body_name"] for m in metas.values()}) > 1
+    main = city.get("main_type")
+    multi = len({m["type"] for m in metas.values()}) > 1
     cards = []
     for d, m, sumr, minutes in found:
         key = d.name
@@ -833,11 +896,9 @@ def build_city(city, out):
         meta, segs = p.read_json(d / "transcript_meta.json"), p.read_json(d / "transcript.json")
         starts = build_transcript(out, city, key, sumr, m, meta, segs, long_date) if meta and segs else []
         build_minutes(out, city, key, sumr, minutes, m, m["links"]["official_minutes"], long_date)
-        cards.append((start, meeting_card(city, key, m, sumr, minutes, starts, multi)))
+        cards.append((start, m, meeting_card(city, key, m, sumr, minutes, starts, minor=multi and m["type"] != main)))
         stamps[key] = p.content_stamp(d)
         all_minutes[key] = minutes
-    # Cards newest first; a committee and a council meeting on the same day keep the order of their start times.
-    cards.sort(key=lambda c: c[0], reverse=True)
     pages = councillor_pages(city, all_minutes)
     for i, (term, body, name) in enumerate(pages):
         build_councillors(out, city, all_minutes, metas, term, body, name, councillors_nav(city, pages, term, body),
@@ -845,16 +906,17 @@ def build_city(city, out):
     has_chart = bool(pages)
     years = sorted({m["start"][:4] for m in metas.values()})
     (out / "search.html").write_text(page("Search council records", search_page.page_body(years, city), extra_js=search_page.script(city), city=city))
-    dates = [when for when, _ in cards]
-    what = f"{city.get('council_short', 'Council')} meeting" if not multi else "meeting"
-    span = (f"{len(cards)} {what}{'s' if len(cards) != 1 else ''}, {min(dates):%B %Y} to {max(dates):%B %Y}" if dates else "No meetings yet")
-    listing = ""
-    for year, group in itertools.groupby(cards, key=lambda c: c[0].year):
-        listing += f'<h2 class="sec year">{year}</h2>' + "".join(body for _, body in group)
+    dates = [when for when, _, _ in cards]
+    n_main = sum(1 for _, m, _ in cards if m["type"] == main) if multi else len(cards)
+    short = city.get("council_short", "Council")
+    span = (f"{plural(n_main, short + ' meeting')}, {min(dates):%B %Y} to {max(dates):%B %Y}" if dates else "No meetings yet")
+    if multi and len(cards) > n_main:
+        span += ". Committee and other meetings sit under the council meeting they led up to"
+    listing = listing_html(city, cards)
     emblem = '<img src="theme/emblem.png" alt="" width="56" height="56">' if THEMED[city.slug] else ""
     (out / "index.html").write_text(page(city.council_name, f"""
 <header class="top"><div class="brand">{emblem}<div><div class="eyebrow">{e(city.get('place', city.name))}</div><h1>{e(city.get('council_short', 'Council'))}, in brief</h1></div></div>
-<p class="lede">{span}. Select one for a summary, decisions and the full transcript. Select a vote to see who voted which way.</p>
+<p class="lede">{span}. Select a meeting for a summary, decisions and the full transcript, and a vote to see who voted which way.</p>
 {'<a class="cn-nav" href="councillors.html">See who votes with whom &rarr;</a>' if has_chart else ''}
 {search_page.mini_form()}{filter_chips(city, metas)}</header>
 {listing}

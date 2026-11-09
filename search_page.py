@@ -26,6 +26,7 @@ CSS = """
 .sr-mini{display:flex;gap:6px;margin-top:14px;max-width:460px}
 .sr-mini input{flex:1;min-width:0;font:inherit;font-size:15px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}
 .sr-mini button{padding:7px 14px}
+.sr-body{font-size:11.5px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);border:1px solid var(--line);border-radius:99px;padding:0 7px}
 .sr-where{display:inline-flex;flex-wrap:wrap;gap:8px 16px}.sr-council{font-weight:600;color:var(--accent)}
 """
 
@@ -35,7 +36,7 @@ var CFG = %s, API = CFG.api, HERE = CFG.here, COUNCILS = CFG.councils, SLUGS = O
 var ALL = ['summary','vote','minutes','transcript'], NAMES = {summary:'Summary', vote:'Vote', minutes:'Minutes', transcript:'Transcript'};
 function el(tag, cls, text, parent){ var n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; if (parent) parent.appendChild(n); return n; }
 function kinds(){ return ALL.filter(function(k){ return document.getElementById('sr-k-' + k).checked; }); }
-var allBox = document.getElementById('sr-all');
+var allBox = document.getElementById('sr-all'), comBox = document.getElementById('sr-com');
 // Which councils to search: this one unless "All councils" is ticked, or the ticked ones on the all-councils page.
 function councils(){
   if (HERE) return allBox && allBox.checked ? SLUGS : [HERE];
@@ -59,6 +60,7 @@ function readUrl(){
   document.getElementById('sr-from').value = u.get('from') || '';
   document.getElementById('sr-to').value = u.get('to') || '';
   if (allBox) allBox.checked = u.get('all') === '1';
+  comBox.checked = u.get('bodies') !== 'council';
   if (!HERE) { var want2 = (u.get('cities') || SLUGS.join(',')).split(','); SLUGS.forEach(function(c){ var b = document.getElementById('sr-c-' + c); if (b) b.checked = want2.indexOf(c) >= 0; }); }
 }
 function query(){
@@ -67,6 +69,7 @@ function query(){
   var k = kinds(); if (k.length < ALL.length) u.set('kinds', k.join(','));
   ['from','to'].forEach(function(f){ var v = document.getElementById('sr-' + f).value; if (v) u.set(f, v); });
   if (HERE && allBox && allBox.checked) u.set('all', '1');
+  if (!comBox.checked) u.set('bodies', 'council');
   if (!HERE && councils().length < SLUGS.length) u.set('cities', councils().join(','));
   return u;
 }
@@ -98,6 +101,7 @@ function run(push){
       el('span', 'sr-kind ' + h.kind, NAMES[h.kind] || h.kind, meta);
       if (h.city && (!HERE || h.city !== HERE)) el('span', 'sr-council', COUNCILS[h.city] || h.city, meta);
       el('span', '', when(h.date || h.meeting.slice(0, 10)), meta);
+      if (h.body === 'committee') el('span', 'sr-body', 'Committee', meta);
       if (h.label) el('span', 'sr-label', h.label, meta);
       if (h.exact) el('span', 'sr-exact', 'uses your words', meta);
       var a = el('a', 't', h.title, item); a.href = link(h);
@@ -150,7 +154,8 @@ def page_body(years, city=None):
 <button type="submit">Search</button></form>
 <div class="sr-filters" id="sr-filters">{boxes}
 <label>From <select id="sr-from" aria-label="From year">{options("Any start")}</select></label>
-<label>to <select id="sr-to" aria-label="To year">{options("Any end")}</select></label>{f'<span class="sr-where">{where}</span>' if where else ''}</div>
+<label>to <select id="sr-to" aria-label="To year">{options("Any end")}</select></label>
+<label title="Standing committees make recommendations that Council then decides on"><input type="checkbox" id="sr-com" checked> Include committee meetings</label>{f'<span class="sr-where">{where}</span>' if where else ''}</div>
 <p class="sr-status" id="sr-status" aria-live="polite"></p>
 <div id="sr-results"></div>
 <footer>Results come from the councils' minutes, the automated summaries on this site and machine transcripts of the recordings,
