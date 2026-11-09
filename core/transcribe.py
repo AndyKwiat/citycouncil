@@ -1,7 +1,7 @@
 """Transcripts: closed captions first, Whisper on gaps of 5+ minutes or on the whole recording if captions are thin."""
 import pathlib, re, subprocess, tempfile, time, wave
 from core.common import log, read_json, write_json
-from video import isilive
+from video import isilive, youtube
 
 WHISPER_MODEL = "mlx-community/whisper-large-v3-turbo"
 MIN_WORDS_PER_MIN = 10   # below this over a whole recording, the captions are effectively missing
@@ -101,6 +101,8 @@ def transcribe(city, m, force=False, whisper=False):
     if out.exists() and meta_path.exists() and not force and not whisper:
         log("  transcript already done")
         return True
+    if (m.get("video") or {}).get("provider") == "youtube":
+        return transcribe_youtube(city, m, d, out, meta_path)
     parts = [x for x in ((m.get("video") or {}).get("parts") or []) if x.get("hls")]
     if not parts:
         log("  skipped transcript: no video for this meeting")
@@ -144,4 +146,25 @@ def transcribe(city, m, force=False, whisper=False):
     write_json(out, segs)
     write_json(meta_path, meta)
     log(f"  transcript saved: {meta['method']}, {meta['words']:,} words")
+    return True
+
+
+def transcribe_youtube(city, m, d, out, meta_path):
+    """YouTube's automatic captions, one video after another; a later part's times continue from the earlier ones."""
+    segs, offset, parts = [], 0.0, []
+    for part in m["video"]["parts"]:
+        f = youtube.captions(part["youtube_id"], d / "source" / "captions")
+        found = youtube.parse_json3(f, offset) if f else []
+        parts.append({"youtube_id": part["youtube_id"], "offset": round(offset), "captions": bool(found)})
+        segs += found
+        offset += part.get("duration") or (found[-1]["end"] - offset if found else 0)
+    if not segs:
+        log("  no YouTube captions for this meeting")
+        return False
+    words = sum(len(s["text"].split()) for s in segs)
+    meta = {"method": "youtube-auto", "source": "youtube-auto", "recording_seconds": round(offset), "caption_words": words,
+            "caption_wpm": round(words / max(offset / 60, 1), 1), "gaps": [], "words": words, "parts": parts}
+    write_json(out, segs)
+    write_json(meta_path, meta)
+    log(f"  transcript saved from YouTube captions: {len(parts)} part(s), {words:,} words")
     return True

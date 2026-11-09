@@ -410,6 +410,7 @@ SOURCE_NOTE = {
     "captions": "From the closed captions on the city's video.",
     "captions+whisper": "From the closed captions on the city's video, with Whisper speech recognition filling stretches the captions missed (labelled below).",
     "whisper": "Generated from the meeting audio with Whisper speech recognition instead of the city's captions.",
+    "youtube-auto": "From YouTube's automatic captions of the council's video stream, which are machine generated.",
 }
 
 

@@ -92,7 +92,7 @@ def parse_json3(path, offset=0.0):
     data = json.loads(path.read_text())
     segs = []
     for ev in data.get("events", []):
-        text = "".join(s.get("utf8", "") for s in ev.get("segs") or []).replace("\n", " ").strip()
+        text = "".join(s.get("utf8", "") for s in ev.get("segs") or []).replace("\n", " ").replace(">>", " ").strip()
         if not text or "tStartMs" not in ev:
             continue
         start = ev["tStartMs"] / 1000 + offset
