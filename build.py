@@ -153,6 +153,11 @@ details.meeting.minor{background:color-mix(in srgb,var(--panel) 55%,var(--bg))}
 details.meeting.minor>summary{grid-template-columns:80px 1fr 18px;padding:12px 16px}
 details.meeting.minor .date .d{font-size:18px}details.meeting.minor summary h2{font-size:17px}details.meeting.minor summary p{font-size:13.5px}
 .kind{display:block;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--accent);margin-bottom:2px}
+table.rv{border-collapse:collapse;font-size:14px;font-variant-numeric:tabular-nums;width:100%}
+table.rv th,table.rv td{padding:6px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+table.rv th:first-child,table.rv td:nth-child(2),table.rv thead th:nth-child(2){text-align:left}
+table.rv thead th{font-weight:600;font-size:12.5px;color:var(--muted);vertical-align:bottom;white-space:normal}
+.hint{color:var(--muted);font-size:14px}
 .councils{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-top:22px}
 .council{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--ink)}
 .council:hover{box-shadow:0 2px 14px rgba(0,0,0,.08)}.council img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
@@ -648,6 +653,64 @@ def councillors_nav(city, pages, term, body):
             + (f'<nav class="chips" aria-label="Which meetings">{bodies}</nav>' if bodies else ""))
 
 
+def build_recorded_votes(out, city, all_minutes, metas, term, filename="councillors.html"):
+    """The councillors page for a council that names voters only when a member asks: each named vote, and what
+    the minutes do record for everyone (attendance, motions moved and seconded, conflicts, the losing side)."""
+    keys = sorted(k for k in all_minutes if metas[k].get("term") == term)
+    roster = city.members(term)
+    full = lambda n: roster.get(n, {}).get("name", n)
+    stats = collections.defaultdict(collections.Counter)
+    named = []
+    for k in keys:
+        mins = all_minutes[k]
+        for n in mins["roster"]:
+            stats[n]["meetings"] += 1
+            stats[n]["attended"] += n not in mins["absent"]
+        for c in mins.get("conflicts", []):
+            stats[c["member"]]["conflicts"] += 1
+        for x in mins["motions"]:
+            if x.get("inherited") and not x.get("consent_source"):
+                continue
+            for role in ("moved_by", "seconded_by"):
+                if x[role]:
+                    stats[x[role]][role] += 1
+            v, outcome = x["votes"], x["result"]["outcome"]
+            if v["for"] or v["against"]:
+                named.append((k, x))
+                losers = v["against"] if outcome == "Carried" else v["for"] if outcome in ("Defeated", "Lost") else []
+                for n in v["for"] + v["against"]:
+                    stats[n]["named"] += 1
+                for n in losers:
+                    stats[n]["lost"] += 1
+    if not named and not stats:
+        return False
+    people = [n for n in roster if stats[n]["meetings"]] + sorted(n for n in stats if n not in roster and stats[n]["meetings"])
+    rows = "".join(f'<tr><th scope="row">{e(full(n))}</th><td>{e(roster.get(n, {}).get("ward", ""))}</td>'
+                   f'<td>{stats[n]["attended"]} of {stats[n]["meetings"]}</td><td>{stats[n]["moved_by"]}</td><td>{stats[n]["seconded_by"]}</td>'
+                   f'<td>{stats[n]["conflicts"]}</td><td>{stats[n]["named"]}</td><td>{stats[n]["lost"]}</td></tr>' for n in people)
+    vote_rows = ""
+    for k, x in sorted(named, key=lambda t: (metas[t[0]]["start"], t[1]["id"]), reverse=True):
+        day = dt.date.fromisoformat(metas[k]["start"][:10])
+        vote_rows += (f'<div class="cn-vote"><span class="when">{day:%b} {day.day}, {day.year}</span>'
+                      f'<a href="minutes/{k}.html#{x["id"]}">{e(x["name"] or x["item_title"])}</a>{vote_badge(x, all_minutes[k], k)}</div>')
+    split = sum(1 for _, x in named if x["votes"]["for"] and x["votes"]["against"])
+    t = city.term(term) or {}
+    (out / filename).write_text(page("How members voted", f"""
+<header class="top"><div class="eyebrow"><a href="index.html">&larr; All meetings</a></div>
+<h1>How members voted</h1>
+<p class="lede">{e(city.council_name)} records individual votes only when a member asks, so most decisions show only the
+outcome. In the {e(t.get("label", term))} term, {len(named)} votes on this site name who voted which way ({split} of them
+divided), from {len(keys)} meetings. That is too few to say who tends to vote with whom, so this page lists them instead.</p></header>
+<h2 class="sec">Members</h2>
+<div class="scroll"><table class="rv"><thead><tr><th>Member</th><th>Ward</th><th>Attended</th><th>Moved</th><th>Seconded</th>
+<th>Conflicts declared</th><th>Named votes</th><th>On the losing side</th></tr></thead><tbody>{rows}</tbody></table></div>
+<p class="hint">Attendance counts the meetings on this site where the minutes list the member. Motions moved and seconded
+come from every motion in those minutes, recorded or not.</p>
+<h2 class="sec">Every named vote</h2>
+<div>{vote_rows or '<p>None yet.</p>'}</div>""", extra_js="", city=city))
+    return True
+
+
 def build_councillors(out, city, all_minutes, metas, term=None, body="all", filename="councillors.html", nav="", save=None):
     votes, names, agreed, shared = agreement(city, set(all_minutes), term, body)
     body_filter = body  # `body` is reused below for the table's rows
@@ -906,10 +969,17 @@ def build_city(city, out):
         stamps[key] = p.content_stamp(d)
         all_minutes[key] = minutes
     pages = councillor_pages(city, all_minutes)
-    for i, (term, body, name) in enumerate(pages):
-        build_councillors(out, city, all_minutes, metas, term, body, name, councillors_nav(city, pages, term, body),
-                          save=city.votes / "clusters.json" if i == 0 else None)
-    has_chart = bool(pages)
+    enough = any(len(split_votes(city, set(all_minutes), t)) >= ENOUGH_SPLIT_VOTES for t, _, _ in pages)
+    if pages and not enough:
+        # Too few split votes for agreement figures to mean anything (PLAN 4.7): list the votes instead.
+        has_chart = build_recorded_votes(out, city, all_minutes, metas, pages[0][0])
+        chart_link = "See how members voted"
+    else:
+        for i, (term, body, name) in enumerate(pages):
+            build_councillors(out, city, all_minutes, metas, term, body, name, councillors_nav(city, pages, term, body),
+                              save=city.votes / "clusters.json" if i == 0 else None)
+        has_chart = bool(pages)
+        chart_link = "See who votes with whom"
     years = sorted({m["start"][:4] for m in metas.values()})
     (out / "search.html").write_text(page("Search council records", search_page.page_body(years, city), extra_js=search_page.script(city), city=city))
     dates = [when for when, _, _ in cards]
@@ -923,7 +993,7 @@ def build_city(city, out):
     (out / "index.html").write_text(page(city.council_name, f"""
 <header class="top"><div class="brand">{emblem}<div><div class="eyebrow">{e(city.get('place', city.name))}</div><h1>{e(city.get('council_short', 'Council'))}, in brief</h1></div></div>
 <p class="lede">{span}. Select a meeting for a summary, decisions and the full transcript, and a vote to see who voted which way.</p>
-{'<a class="cn-nav" href="councillors.html">See who votes with whom &rarr;</a>' if has_chart else ''}
+{f'<a class="cn-nav" href="councillors.html">{chart_link} &rarr;</a>' if has_chart else ''}
 {search_page.mini_form()}{filter_chips(city, metas)}</header>
 {listing}
 <footer>Source: <a href="{e(city.records_url, quote=True)}">{e(city.cfg['urls'].get('records_name', city.records_url))}</a>.
