@@ -5,7 +5,7 @@ Static site of council meeting summaries, driven from a local admin panel.
     ./admin
 
 Opens http://127.0.0.1:8750/. Everything runs from there: checking for meetings, processing them,
-updating the website, and deploying it to citycouncil.akwiat.com (private to you@example.com).
+updating the website, and publishing it to https://cityhallvotes.ca/guelph/ (public, hosted on Cloudflare).
 
 - `pipeline.py` does the work: calendar, documents, minutes parsing, transcripts, summaries, deploy.
 - `build.py` renders `raw/<date>/` into `site/`.
@@ -42,10 +42,23 @@ The top of the councillors page. `alliance_network.py` prepares the data and mar
 - Positions use every known pair, so the slider never moves anyone. Layout starts from fixed positions, so it is the same on every visit.
 - Communities come from Louvain (`analysis.communities`) on agreement above the council's average, on the full network regardless of the slider. They can differ from the voting groups on the map, which use hierarchical clustering.
 
+## Hosting on Cloudflare
+
+The site is public at https://cityhallvotes.ca/guelph/; `/` redirects there. `pipeline.py deploy` (the panel's
+Deploy button) copies `site/` to `state/cf/dist/guelph/` and runs `wrangler deploy` with `cf/wrangler.jsonc`.
+
+- **Static:** every page, image and stylesheet is a Cloudflare static asset, served free with no code running.
+  The `/` redirect is a static `_redirects` file.
+- **Worker** (`cf/src/worker.js`): runs only for `www.` and `/api/search`. It caches identical searches for an hour,
+  limits each visitor to about 15 new searches a minute, and forwards the rest to the search API with a secret key.
+- **Token:** deploys use `CLOUDFLARE_WORKERS_TOKEN` in `~/.config/akwiat/secrets.env`, made from Cloudflare's
+  *Edit Cloudflare Workers* template for the account, plus Zone DNS Edit on cityhallvotes.ca. Radify's own
+  `CLOUDFLARE_API_TOKEN` only manages DNS.
+
 ## Search
 
-`site/search.html` (and the box on the home page) searches summaries, votes, minutes and transcripts by meaning.
-It calls a separate API at https://api-citycouncil.akwiat.com, so the static site could move elsewhere.
+`search.html` (and the box on the home page) searches summaries, votes, minutes and transcripts by meaning. The page
+calls `/api/search` on its own domain; the Worker passes that to https://api-citycouncil.akwiat.com.
 
 - **Model:** Snowflake's `snowflake-arctic-embed-m-v1.5` (Apache-2.0), one of the strongest free retrieval models
   of its size. The `search/` Rust crate runs it with candle, so the laptop (documents) and server (queries) use
@@ -54,10 +67,17 @@ It calls a separate API at https://api-citycouncil.akwiat.com, so the static sit
   them into SQLite (`state/search/search.sqlite`): vectors plus an FTS5 keyword index. Unchanged passages keep their
   vectors, so re-indexing after a new meeting takes seconds. The first full run takes 10 to 20 minutes.
 - **Ranking:** cosine similarity over every passage, merged with keyword (BM25) matches by reciprocal rank fusion,
-  so related meaning and exact names both count.
-- **Access:** the API is a radify app with the `allowlist` policy, so it needs the same Google sign-in as the site,
-  and it also refuses any request whose `Origin` isn't the site. If the site moves off `akwiat.com`, the sign-in
-  cookie won't reach the API; that move needs a different scheme, such as a signed token.
+  so related meaning and exact names both count. At most two results per meeting and kind come first. When no
+  passage uses the words and nothing is close in meaning, the page says the results are probably unrelated.
+- **Access:** the API is a public radify app, but it answers only requests with the `APP_KEY` shared with the
+  Worker (a radify env var on one side, a Worker secret on the other). To rotate it, set the same new value with
+  `radify env-set api-citycouncil APP_KEY=...` (then `radify restart api-citycouncil`) and
+  `npx wrangler@4 secret put APP_KEY --config cf/wrangler.jsonc`.
+- **Limits:** about 15 new searches a minute per visitor at Cloudflare, then 30 a minute per visitor and 300 a minute
+  in total at the server (`SEARCHES_PER_MINUTE`, `ALL_SEARCHES_PER_MINUTE`), with one search computed at a time.
+- **Logs:** the server logs one line per search, with a short hashed visitor id instead of the IP address:
+  `radify logs api-citycouncil --since -1d --grep "search q="`. Searches answered from Cloudflare's cache never
+  reach the server; those appear in the Cloudflare dashboard under Workers & Pages, cityhallvotes, Logs (kept 3 days).
 - **Memory:** the model needs about 450 MB, so the app has a systemd override raising its limit to 900 MB
   (`/etc/systemd/system/app@api-citycouncil.service.d/override.conf` on step1, kept by radify's backups).
 - **Running it:** in the panel, *Update search index*, then *Deploy search API*. Or `pipeline.py search-index` and

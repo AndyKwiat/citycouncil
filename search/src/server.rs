@@ -32,6 +32,8 @@ pub struct App {
     /// The shared secret the site's Worker sends. With none configured, every search is refused.
     pub app_key: Option<String>,
     pub limits: RateLimit,
+    /// A ceiling for everyone together, in case a bot spreads its requests over many addresses.
+    pub total: RateLimit,
     /// One embedding at a time keeps memory flat on a small server.
     pub gate: Semaphore,
 }
@@ -61,6 +63,13 @@ impl RateLimit {
         entry.1 += 1;
         entry.1 <= self.per_window
     }
+}
+
+/// A short, stable stand-in for an IP address, so logs can show repeat visitors without storing addresses.
+pub fn visitor(ip: &str) -> String {
+    use sha2::{Digest, Sha256};
+    let salt = env::var("APP_KEY").unwrap_or_default();
+    Sha256::digest(format!("{salt}{ip}").as_bytes())[..4].iter().map(|b| format!("{b:02x}")).collect()
 }
 
 /// Compares in constant time, so the key can't be guessed byte by byte from response timing.
@@ -120,9 +129,11 @@ pub async fn search(State(app): State<Arc<App>>, headers: HeaderMap, Query(q): Q
         return no_store(fail(StatusCode::FORBIDDEN, "This API only answers the council site."));
     }
     let client = headers.get("x-client-ip").and_then(|v| v.to_str().ok()).unwrap_or("unknown").to_string();
-    if !app.limits.allow(&client, Instant::now()) {
+    if !app.limits.allow(&client, Instant::now()) || !app.total.allow("everyone", Instant::now()) {
+        eprintln!("search refused: rate limit, visitor {}", visitor(&client));
         return no_store(fail(StatusCode::TOO_MANY_REQUESTS, "Too many searches in a short time. Wait a minute and try again."));
     }
+    let who = visitor(&client);
     let p = match params(&q) {
         Ok(p) => p,
         Err(e) => return no_store(fail(StatusCode::BAD_REQUEST, &e)),
@@ -140,6 +151,9 @@ pub async fn search(State(app): State<Arc<App>>, headers: HeaderMap, Query(q): Q
         let v = worker.model.get().expect("loaded").embed_query(&p.q)?;
         let embed_ms = t.elapsed().as_millis();
         let found = worker.store.search(&p, &v)?;
+        // One line per search for `radify logs`; the visitor is a short hash, not the IP address.
+        eprintln!("search q={:?} kinds={} from={} to={} results={} weak={} ms={} visitor={who}", p.q, p.kinds.join(","),
+                  p.from, p.to, found.results.len(), found.weak, t.elapsed().as_millis());
         Ok::<_, anyhow::Error>(json!({ "query": p.q, "results": found.results, "searched": found.searched,
                                        "keyword_matches": found.keyword_matches, "weak": found.weak,
                                        "embed_ms": embed_ms, "total_ms": t.elapsed().as_millis() }))
@@ -181,6 +195,7 @@ pub fn run() -> Result<()> {
         failed: OnceLock::new(),
         app_key,
         limits: RateLimit::new(env::var("SEARCHES_PER_MINUTE").ok().and_then(|v| v.parse().ok()).unwrap_or(30), Duration::from_secs(60)),
+        total: RateLimit::new(env::var("ALL_SEARCHES_PER_MINUTE").ok().and_then(|v| v.parse().ok()).unwrap_or(300), Duration::from_secs(60)),
         gate: Semaphore::new(1),
     });
     let loader = app.clone();

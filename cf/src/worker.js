@@ -27,11 +27,21 @@ async function search(request, env, ctx, url) {
   const cacheKey = new Request('https://cache.cityhallvotes.ca' + upstream.pathname + upstream.search);
   const cache = caches.default;
   const hit = await cache.match(cacheKey);
-  if (hit) return hit;
+  if (hit) {
+    console.log('search (cached)', url.searchParams.get('q'));
+    return hit;
+  }
+  // Repeats are served from the cache above for free; only new searches count against the limit.
+  const ip = request.headers.get('CF-Connecting-IP') || 'unknown';
+  if (env.SEARCH_LIMIT) {
+    const { success } = await env.SEARCH_LIMIT.limit({ key: ip });
+    if (!success) return json({ error: 'Too many searches in a short time. Wait a minute and try again.' }, 429);
+  }
+  console.log('search', url.searchParams.get('q'));
   let answer;
   try {
     answer = await fetch(upstream, {
-      headers: { 'X-App-Key': env.APP_KEY, 'X-Client-IP': request.headers.get('CF-Connecting-IP') || 'unknown' },
+      headers: { 'X-App-Key': env.APP_KEY, 'X-Client-IP': ip },
     });
   } catch (err) {
     return json({ error: "Couldn't reach the search service. Try again shortly." }, 502);
