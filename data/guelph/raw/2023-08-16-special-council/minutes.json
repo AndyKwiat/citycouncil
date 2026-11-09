@@ -1,0 +1,209 @@
+{
+ "title": "Special Council Meeting - August 16, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Chew",
+  "Downer",
+  "Gibson",
+  "Goller",
+  "Klassen",
+  "O'Rourke",
+  "Richardson"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "4",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 49.402,
+   "video_end": 176.215,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order. (6:00 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "1.4",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": 176.215,
+   "video_end": 203.512,
+   "notes": [
+    "<p>There were no disclosures.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "2",
+   "title": "Funding Support for Kindle Communities Supportive Housing - 2023-325",
+   "closed": false,
+   "video_start": 203.512,
+   "video_end": 1280.548,
+   "notes": [
+    "<p>Colleen Clack-Bush, Deputy Chief Administrative Officer, Public Services, provided opening remarks.</p>\n<p>The following delegate spoke on the item:<br/>Susan Watson</p>\n<p>The following registered delegate did not speak on the item:<br/>Morgan Dandie</p>"
+   ],
+   "attachments": [
+    {
+     "name": "Funding Support for Kindle Communities Supportive Housing - 2023-325.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=41287"
+    }
+   ],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "3",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": 1280.548,
+   "video_end": 1329.533,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "4",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 1329.533,
+   "video_end": 1373.72,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "11",
+   "item_number": "2",
+   "item_title": "Funding Support for Kindle Communities Supportive Housing - 2023-325",
+   "name": "",
+   "moved_by": "Richardson",
+   "seconded_by": "Allt",
+   "text": "That an additional $500,000 be awarded to Kindle Communities for the supportive housing project at 10 Shelldale Crescent from the Affordable Housing Reserve (#119) That to the satisfaction and authority of the City Solicitor and Deputy Chief Administrative Officer of Public Services, the necessary agreements be updated and executed with Kindle Communities to fund, outline, and monitor project criteria for the supportive housing project at 10 Shelldale Crescent.",
+   "text_html": "<ol>\n<li>That an additional $500,000 be awarded to Kindle Communities for the supportive housing project at 10 Shelldale Crescent from the Affordable Housing Reserve (#119)</li>\n<li>That to the satisfaction and authority of the City Solicitor and Deputy Chief Administrative Officer of Public Services, the necessary agreements be updated and executed with Kindle Communities to fund, outline, and monitor project criteria for the supportive housing project at 10 Shelldale Crescent.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "12",
+   "item_number": "3",
+   "item_title": "By-laws",
+   "name": "",
+   "moved_by": "Downer",
+   "seconded_by": "Caron",
+   "text": "That By-law numbered (2023)-20822, is hereby passed.",
+   "text_html": "<p>That By-law numbered (2023)-20822, is hereby passed.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "9",
+   "item_number": "4",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Billings",
+   "seconded_by": "Goller",
+   "text": "That the meeting be adjourned. (6:22 p.m.)",
+   "text_html": "<p>That the meeting be adjourned. (6:22 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}

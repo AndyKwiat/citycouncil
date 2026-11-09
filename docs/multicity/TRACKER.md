@@ -17,15 +17,15 @@ summarized and so on); this file tracks *build* progress.
 | Task | Status | Notes |
 |---|---|---|
 | Move plan docs into `docs/multicity/` | done | 2026-11-09, branch `multicity` |
-| Waterloo: meeting enumeration spike | todo | |
-| Centre Wellington: CivicWeb crawl spike | todo | |
-| YouTube auto-caption spike (Waterloo, CW) | todo | |
-| Kitchener: Whisper timing on one meeting; confirm no captions in older years | todo | Sep 2026 and Nov 2025: no `.vtt` (404); HLS answers |
-| Region: captions and bookmarks across 2023–26 | todo | Sep 2026: `.vtt` OK under client `waterloo` |
-| Split-recorded-vote counts per council, 2022–26 term | todo | Kitchener 2026: 1 split vote in 9 meetings |
-| In-scope meeting types per council, 2022–26 (including committee renames) | todo | |
-| Rosters for both terms, for all 4 new councils | todo | |
-| Portraits with attribution | todo | |
+| Waterloo: meeting enumeration spike | done | `/meetings/Index` POST with session cookie and anti-forgery token works; 113 Council-calendar meetings in the term. Recipe in SOURCES.md |
+| Centre Wellington: CivicWeb crawl spike | done | `MeetingInformation.aspx?type=18|10` lists meetings; `meetingDocuments` DocumentType 10 is the minutes PDF; `/api/videolink/{id}` gives the YouTube id |
+| YouTube auto-caption spike (Waterloo, CW) | done | `en-orig` auto-captions on both (about 160 wpm, `>>` speaker turns, names mangled). Requesting a second track gave HTTP 429: fetch `en-orig` only, with `--sleep-subtitles` |
+| Kitchener: Whisper timing on one meeting; confirm no captions in older years | done | No captions 2022–25 (10 samples). 2h20 meeting: 373 s audio pull + 257 s Whisper ≈ 10.5 min. Names poor: the roster prompt is dropped after the first window with `condition_on_previous_text=False` |
+| Region: captions and bookmarks across 2023–26 | done | Captions 15/15 samples (two early-2023 files lack timestamps); bookmarks in 252 of 265 meetings. Named votes only from Aug 2023 |
+| Split-recorded-vote counts per council, 2022–26 term | done | Region 470 (247 in budget committee), Guelph 73 at council (committees: see log), Waterloo 60 (dissenters always named), Kitchener 38 in tables + ~42 in prose, CW 9 |
+| In-scope meeting types per council, 2022–26 (including committee renames) | done | PLAN 4.12 table updated. Region: Planning and Works → SID in Aug 2024. Waterloo has no standing committee this term |
+| Rosters for both terms, for all 4 new councils | done | In SOURCES.md, from the 2026-10-27 certificates. Region chair for 2026–30 unknown (provincially appointed). Guelph 2026–30: partial, unofficial (see Guelph section) |
+| Portraits with attribution | blocked: licences | Every council's headshots carry no reuse licence (the Region's terms forbid commercial use without consent). Ask each Clerk |
 
 ## Phase 1: Multi-council core (Guelph only)
 
@@ -88,6 +88,12 @@ summarized and so on); this file tracks *build* progress.
 ## Log
 
 Newest first. One line per notable event: what changed, what broke, what was decided.
+
+- 2026-11-09: Phase 1 search: city/date/body on every chunk; all 4,347 vectors reused; 10 saved searches identical.
+- 2026-11-09: Phase 1 restructure landed; golden diff shows only the emblem, footer wording and theme images.
+- 2026-11-09: Bug found by the new tests: Kitchener's "Carried, on a recorded vote (7 to 4)" had no count; fixed.
+- 2026-11-09: Phase 0 done. Surprises: Kitchener writes about half its split votes as prose; Waterloo names dissenters on every split vote; Region names only from Aug 2023; Waterloo has no standing committee.
+- 2026-11-09: Golden snapshot of the Guelph site and 10 saved searches taken before any code change.
 
 - 2026-11-09: D7 decided: photos chosen (all CC BY-SA, from Wikimedia Commons).
 - 2026-11-09: D2 decided: council plus standing committees, for every council including Guelph.

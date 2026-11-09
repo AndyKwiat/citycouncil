@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "8bd8c942-04b7-4643-847d-8ba53bed255f",
+ "city": "guelph",
+ "key": "2023-08-16-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2023-08-16T18:00:00",
+ "end": "2023-08-16T21:00:00",
+ "location": "Remote meeting via Cisco Webex",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=8bd8c942-04b7-4643-847d-8ba53bed255f&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=41291",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=8bd8c942-04b7-4643-847d-8ba53bed255f&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=8bd8c942-04b7-4643-847d-8ba53bed255f&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=8bd8c942-04b7-4643-847d-8ba53bed255f"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=8bd8c942-04b7-4643-847d-8ba53bed255f",
+    "file": "Council Encoder_SCM_2023-08-16-05-59.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_SCM_2023-08-16-05-59.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_SCM_2023-08-16-05-59.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "0f73295a22327b09be5e7246fa8b00fab5559fb9a360736210df661caa9f880e"
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "title": "Special Council Meeting - January 14, 2025",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Chew",
+  "Gibson",
+  "Goller",
+  "O'Rourke",
+  "Richardson",
+  "Downer",
+  "Klassen"
+ ],
+ "absent": [
+  "Downer",
+  "Klassen"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 212.263,
+   "video_end": 226.966,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (12:00 p.m.).</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "1.1",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": 226.966,
+   "video_end": 264.435,
+   "notes": [
+    "<p>There were no disclosures.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Authority to move into closed meeting",
+   "closed": false,
+   "video_start": 232.028,
+   "video_end": 3303.947,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": null,
+   "number": "2.1",
+   "title": "Call to Order (closed meeting)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.2",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof (closed items)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.3",
+   "title": "384 Crawley Road - Ontario Land Tribunal Update - 2025-19",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": 3384.401,
+   "video_end": 3600.637,
+   "notes": [
+    "<p>Mayor Guthrie called the open meeting to order (12:54 p.m.).<br/>Mayor Guthrie spoke regarding the matters discussed in closed session and identified the following:<br/><strong>384 Crawley Road - Ontario Land Tribunal Update</strong></p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "4",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 3600.637,
+   "video_end": 3710.124,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Authority to move into closed meeting",
+   "name": "",
+   "moved_by": "Allt",
+   "seconded_by": "Busuttil",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act section 239(2)(e) and (f) of the Municipal Act, regarding litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board; and advice that is subject to solicitor-client privilege, including communications necessary for that purpose.",
+   "text_html": "<ol>\n<li>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act section 239(2)(e) and (f) of the Municipal Act, regarding litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board; and advice that is subject to solicitor-client privilege, including communications necessary for that purpose.</li>\n</ol>",
+   "post_html": "<p>The following items were considered:</p>",
+   "result": {
+    "text": "Carried (10 to 0)",
+    "label": "10-0",
+    "for": 10,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Busuttil",
+     "Chew"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "3",
+   "item_number": "3",
+   "item_title": "Closed Meeting Summary",
+   "name": "",
+   "moved_by": "O'Rourke",
+   "seconded_by": "Chew",
+   "text": "That Council authorizes and directs the General Manager of Planning and Building Services, in consultation with the General Manager of Engineering and Transportation Services and the City Solicitor, to approve a conditional site plan for Phase 0 of an industrial development at 384 Crawley Road, and to authorize tree removal on the site as part of conditional approval.",
+   "text_html": "<ol>\n<li>That Council authorizes and directs the General Manager of Planning and Building Services, in consultation with the General Manager of Engineering and Transportation Services and the City Solicitor, to approve a conditional site plan for Phase 0 of an industrial development at 384 Crawley Road, and to authorize tree removal on the site as part of conditional approval.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (9 to 2)",
+    "label": "9-2",
+    "for": 9,
+    "against": 2,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Richardson",
+     "Busuttil",
+     "Chew"
+    ],
+    "against": [
+     "Allt",
+     "Caton"
+    ],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "9",
+   "item_number": "4",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Richardson",
+   "seconded_by": "Allt",
+   "text": "That the meeting be adjourned (12:56 p.m.).",
+   "text_html": "<ol>\n<li>That the meeting be adjourned (12:56 p.m.).</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}

@@ -1,0 +1,247 @@
+{
+ "title": "Special Council Meeting - January 13, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Downer",
+  "Gibson",
+  "Goller",
+  "Hauser",
+  "Klassen",
+  "Richardson",
+  "Chew"
+ ],
+ "absent": [
+  "Chew"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 650.779,
+   "video_end": 677.872,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (5:00 p.m.).</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "1.1",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": 677.872,
+   "video_end": 705.917,
+   "notes": [
+    "<p>There were no disclosures.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Authority to move into closed meeting",
+   "closed": false,
+   "video_start": 705.917,
+   "video_end": 6423.545,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": null,
+   "number": "2.1",
+   "title": "Call to Order (closed meeting)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.2",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof (closed items)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.3",
+   "title": "Daytime Drop-in Space Procurement",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": 7719.835,
+   "video_end": 7892.419,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (6:58 p.m.).</p>\n<p>Mayor Guthrie noted the following:</p>\n<p><strong>Daytime Drop-in Space Procurement</strong></p>\n<p>Council gave direction to staff to contract Stepping Stone for daytime drop-in services, on or about March 1, 2026.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "4",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": 7892.419,
+   "video_end": 7923.138,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "5",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 7923.138,
+   "video_end": 8072.545,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Authority to move into closed meeting",
+   "name": "",
+   "moved_by": "Allt",
+   "seconded_by": "Caron",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act, to consider: Daytime Drop-in Space Procurement As per section 239(2)(f) and (k) of the Municipal Act, regarding advice that is subject to solicitor-client privilege, including communications necessary for that purpose and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board.",
+   "text_html": "<ol>\n<li>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act, to consider:</li>\n</ol>\n<p><strong>Daytime Drop-in Space Procurement        </strong></p>\n<p>As per section 239(2)(f) and (k) of the Municipal Act, regarding advice that is subject to solicitor-client privilege, including communications necessary for that purpose and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board.</p>",
+   "post_html": "<p>The following items were considered:</p>",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "12",
+   "item_number": "4",
+   "item_title": "By-laws",
+   "name": "",
+   "moved_by": "Goller",
+   "seconded_by": "Richardson",
+   "text": "That by-law (2026) - 21196 be approved subject to Section 284.11 (4) of the Municipal Act.",
+   "text_html": "<ol>\n<li>That by-law (2026) - 21196 be approved subject to Section 284.11 (4) of the Municipal Act.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Hauser"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "9",
+   "item_number": "5",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Richardson",
+   "seconded_by": "Caton",
+   "text": "That the meeting be adjourned (7:01 p.m).",
+   "text_html": "<ol>\n<li>That the meeting be adjourned (7:01 p.m).</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}

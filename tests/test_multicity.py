@@ -29,7 +29,7 @@ def parse(city, page):
         return escribe.parse_minutes(city, d)
 
 
-KITCHENER_PAGE = """<html><body><div>Present: Mayor B. Vrbanovic Councillor S. Davey Councillor D. Chapman Councillor A. Owodunni
+KITCHENER_PAGE = """<html><body><div>Present: Mayor B. Vrbanovic Councillor S. Davey Councillor D. Chapman Councilor A. Owodunni
 Absent: Councillor P. Singh Staff: D. Chapman</div>
 <div class="AgendaItem AgendaItem5"><div class="AgendaItemCounter">5.</div><div class="AgendaItemTitle">Bylaw</div>
 <ul><li class="AgendaItemMotion"><div class="MotionText">That it pass.</div>

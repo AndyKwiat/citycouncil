@@ -214,7 +214,7 @@ def parse_attendance(soup, markers=None):
     block = text[start:end]
     cut = min((block.find(a) for a in markers["absent"] if block.find(a) >= 0), default=-1)
     present_part, absent_part = (block[:cut], block[cut:]) if cut >= 0 else (block, "")
-    who = r"(Mayor|Councillor)\s+(?:[A-Z]\.\s*)?([A-Z][A-Za-z'’-]+)"
+    who = r"(Mayor|Councill?or)\s+(?:[A-Z]\.\s*)?([A-Z][A-Za-z'’-]+)"  # the minutes sometimes spell it "Councilor"
     fmt = lambda t: [f"Mayor {n}" if r == "Mayor" else n for r, n in re.findall(who, t)]
     present, absent = fmt(present_part), fmt(absent_part)
     return present + absent, absent

@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "096fdf8f-75f5-4475-917a-f534a3bc2b61",
+ "city": "guelph",
+ "key": "2022-11-22-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2022-11-22T10:00:00",
+ "end": "2022-11-22T16:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=096fdf8f-75f5-4475-917a-f534a3bc2b61&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=32484",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=096fdf8f-75f5-4475-917a-f534a3bc2b61&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=096fdf8f-75f5-4475-917a-f534a3bc2b61&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=096fdf8f-75f5-4475-917a-f534a3bc2b61"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=096fdf8f-75f5-4475-917a-f534a3bc2b61",
+    "file": "Council Encoder_SCM_2022-11-22-10-13.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_SCM_2022-11-22-10-13.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_SCM_2022-11-22-10-13.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "4b9a67ca515de7257d10a7dbf58275e4a9bd0e897e925efcf1288c0faf149107"
+ }
+}

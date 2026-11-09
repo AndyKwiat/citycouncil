@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "72b28228-bae8-4b8f-a943-1a4a1d876c05",
+ "city": "guelph",
+ "key": "2024-11-27-budget",
+ "type": "Special Council Meeting - Budget",
+ "body": "council",
+ "body_name": "Budget",
+ "title": "Special Council Meeting - Budget",
+ "start": "2024-11-27T09:00:00",
+ "end": "2024-11-27T17:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=72b28228-bae8-4b8f-a943-1a4a1d876c05&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=55865",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=72b28228-bae8-4b8f-a943-1a4a1d876c05&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=72b28228-bae8-4b8f-a943-1a4a1d876c05&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=72b28228-bae8-4b8f-a943-1a4a1d876c05"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=72b28228-bae8-4b8f-a943-1a4a1d876c05",
+    "file": "November 27, 2024 - Special Council Meeting - Budget.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/November%2027%2C%202024%20-%20Special%20Council%20Meeting%20-%20Budget.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/November%2027%2C%202024%20-%20Special%20Council%20Meeting%20-%20Budget.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "c8a58efe33bc85bc40dcc330e0b8f806be9a99a8a1c0d207e2f738869ac67d37"
+ }
+}

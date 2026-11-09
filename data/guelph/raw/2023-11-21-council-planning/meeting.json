@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "92595f2b-a786-4f31-882c-e50b32f7a7c3",
+ "city": "guelph",
+ "key": "2023-11-21-council-planning",
+ "type": "Council Planning",
+ "body": "council",
+ "body_name": "Council Planning",
+ "title": "Council Planning",
+ "start": "2023-11-21T18:00:00",
+ "end": "2023-11-21T22:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=92595f2b-a786-4f31-882c-e50b32f7a7c3&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=42829",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=92595f2b-a786-4f31-882c-e50b32f7a7c3&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=92595f2b-a786-4f31-882c-e50b32f7a7c3&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=92595f2b-a786-4f31-882c-e50b32f7a7c3"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=92595f2b-a786-4f31-882c-e50b32f7a7c3",
+    "file": "Council Encoder_CPM_2023-11-21-06-01.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_CPM_2023-11-21-06-01.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_CPM_2023-11-21-06-01.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "b72ca09639bffad57f9065fdc2bd711db797799b06e3a0176626ec01bb8d4d19"
+ }
+}

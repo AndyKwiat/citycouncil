@@ -1,0 +1,179 @@
+{
+ "title": "Special Council Meeting - June 14, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Chew",
+  "Downer",
+  "Gibson",
+  "Goller",
+  "Klassen",
+  "O'Rourke",
+  "Richardson"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "4",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 36.949,
+   "video_end": 205.606,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order. (5:32 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "1.4",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": 205.606,
+   "video_end": 215.169,
+   "notes": [
+    "<p>There were no disclosures.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "2",
+   "title": "2022 Audited Consolidated Financial Statements - 2023-225",
+   "closed": false,
+   "video_start": 215.169,
+   "video_end": 2252.553,
+   "notes": [
+    "<p>Shanna O'Dwyer, Manager, Financial Reporting and Accounting, presented the 2022 Audited Consolidated Financial Statements.</p>\n<p>Matt Betik, Partner, KPMG, outlined findings and results from the audit conducted of the 2022 Consolidated Financial Statements.</p>"
+   ],
+   "attachments": [
+    {
+     "name": "2022 Consolidated Financial Statements and External Audit Findings Report - 2023-225.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=37971"
+    },
+    {
+     "name": "Attachment-1 Consolidated Financial Statements and Treasurer’s Report for the Year Ended December 31, 2022.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=37972"
+    },
+    {
+     "name": "Attachment-2 The Elliott Community 2022 Audited Financial Statements.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=37973"
+    },
+    {
+     "name": "Attachment-3 Draft- Downtown Guelph Business Association 2022 Audited Financial Statements.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=37974"
+    },
+    {
+     "name": "Attachment-4 Wellington-Dufferin-Guelph Public Health 2022 Audited Financial Statements.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=37975"
+    },
+    {
+     "name": "Attachment-5 City of Guelph 2022 External Audit Findings Report.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=37976"
+    },
+    {
+     "name": "Attachment-6 Staff Presentation.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=37977"
+    }
+   ],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "3",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 2252.553,
+   "video_end": 2271.022,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "10",
+   "item_number": "2",
+   "item_title": "2022 Audited Consolidated Financial Statements - 2023-225",
+   "name": "",
+   "moved_by": "Allt",
+   "seconded_by": "Richardson",
+   "text": "That the City of Guelph 2022 Consolidated Financial Statements and External Audit Findings Report, dated June 14, 2023, be approved.",
+   "text_html": "<p>That the City of Guelph 2022 Consolidated Financial Statements and External Audit Findings Report, dated June 14, 2023, be approved.</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (13 to 0)",
+    "label": "13-0",
+    "for": 13,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Allt",
+     "Billings",
+     "Busuttil",
+     "Caron",
+     "Caton",
+     "Downer",
+     "Gibson",
+     "Chew",
+     "Goller",
+     "Klassen",
+     "O'Rourke",
+     "Richardson"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "9",
+   "item_number": "3",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "O'Rourke",
+   "seconded_by": "Billings",
+   "text": "That the meeting be adjourned. (6:08 p.m.)",
+   "text_html": "<p>That the meeting be adjourned. (6:08 p.m.)</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}

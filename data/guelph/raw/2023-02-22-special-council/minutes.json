@@ -1,0 +1,205 @@
+{
+ "title": "Special Council Meeting - February 22, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Chew",
+  "Gibson",
+  "Goller",
+  "O'Rourke",
+  "Downer",
+  "Klassen",
+  "Richardson"
+ ],
+ "absent": [
+  "Downer",
+  "Klassen",
+  "Richardson"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 151.343,
+   "video_end": 253.677,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order 4:45 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Authority to move into closed meeting",
+   "closed": false,
+   "video_start": 253.677,
+   "video_end": 468.643,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": null,
+   "number": "2.1",
+   "title": "Call to Order (closed meeting)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.2",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof (closed items)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.3",
+   "title": "CN Rail Operations in the City of Guelph",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Open Meeting",
+   "closed": false,
+   "video_start": 2001.974,
+   "video_end": 2144.214,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order at 5:17 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "3.1",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": 2144.214,
+   "video_end": 2168.246,
+   "notes": [
+    "<p>Mayor Guthrie summarized the direction given to staff regarding CN Rails operations within City limits. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "4",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 2168.246,
+   "video_end": 2203.452,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Authority to move into closed meeting",
+   "name": "",
+   "moved_by": "Goller",
+   "seconded_by": "Caton",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to section 239(2) (f) of the Municipal Act relating to advice that is subject to solicitor-client privilege, including communications necessary for that purpose.",
+   "text_html": "<p>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to section 239(2) (f) of the Municipal Act relating to advice that is subject to solicitor-client privilege, including communications necessary for that purpose.</p>\n<p> </p>",
+   "post_html": "<p>The following items were considered:</p>",
+   "result": {
+    "text": "Carried (9 to 0)",
+    "label": "9-0",
+    "for": 9,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Chew"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "9",
+   "item_number": "4",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Allt",
+   "seconded_by": "Goller",
+   "text": "That the meeting be adjourned. (5:19 p.m.)",
+   "text_html": "<p>That the meeting be adjourned. (5:19 p.m.)</p>\n<p> </p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (10 to 0)",
+    "label": "10-0",
+    "for": 10,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Busuttil",
+     "Chew"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}

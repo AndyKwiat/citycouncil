@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "6c25e320-3f40-4998-8ac7-719f7b69ad97",
+ "city": "guelph",
+ "key": "2023-11-15-budget",
+ "type": "Special Council Meeting - Budget",
+ "body": "council",
+ "body_name": "Budget",
+ "title": "Special Council Meeting - Budget",
+ "start": "2023-11-15T18:00:00",
+ "end": "2023-11-15T22:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=6c25e320-3f40-4998-8ac7-719f7b69ad97&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=42565",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=6c25e320-3f40-4998-8ac7-719f7b69ad97&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=6c25e320-3f40-4998-8ac7-719f7b69ad97&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=6c25e320-3f40-4998-8ac7-719f7b69ad97"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=6c25e320-3f40-4998-8ac7-719f7b69ad97",
+    "file": "Council Encoder_Special Council Meeting - Budget_2023-11-15-05-59.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_Special%20Council%20Meeting%20-%20Budget_2023-11-15-05-59.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_Special%20Council%20Meeting%20-%20Budget_2023-11-15-05-59.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "1583140b66c2ff5f28086e846185bd26740d150e26a637598519402039cba7bb"
+ }
+}

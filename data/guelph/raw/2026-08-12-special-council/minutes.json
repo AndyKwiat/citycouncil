@@ -1,0 +1,331 @@
+{
+ "title": "Special Council Meeting - August 12, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Downer",
+  "Goller",
+  "Klassen",
+  "Richardson",
+  "Chew",
+  "Gibson",
+  "Hauser"
+ ],
+ "absent": [
+  "Chew",
+  "Gibson",
+  "Hauser"
+ ],
+ "items": [
+  {
+   "id": "4",
+   "number": "2",
+   "title": "Call to Order - 2:00 p.m.",
+   "closed": false,
+   "video_start": 840.94,
+   "video_end": 1069.673,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (2:03 p.m.).</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "2.4",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": 1069.673,
+   "video_end": 1085.454,
+   "notes": [
+    "<p>There were no disclosures.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "3",
+   "title": "Items for Discussion",
+   "closed": false,
+   "video_start": 1085.454,
+   "video_end": 1086.876,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "14",
+   "number": "3.1",
+   "title": "Development Charge Reduction Program - 2026-425",
+   "closed": false,
+   "video_start": 1086.876,
+   "video_end": 3983.994,
+   "notes": [
+    "<p>Jodie Sales, General Manager, Strategic Initiatives and Intergovernmental Services, and Shanna O'Dwyer, General Manager, Finance/City<br/>Treasurer/Chief Financial Officer, presented on the Development Charge Reduction Program.</p>"
+   ],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "2",
+   "number": "4",
+   "title": "Authority to move into closed meeting",
+   "closed": false,
+   "video_start": 3983.994,
+   "video_end": 7646.375,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": null,
+   "number": "4.1",
+   "title": "Call to Order (closed meeting)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "4.2",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof (closed items)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "4.3",
+   "title": "Development Charge Reduction Program Negotiation Parameters - 2026-426",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "4.4",
+   "title": "Grant Agreement - 2026-423",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "4.5",
+   "title": "Habitat for Humanity Development Charges Receivable",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "5",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": 7733.343,
+   "video_end": 7778.827,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (3:58 p.m.) and noted the following:</p>\n<p><strong>Development Charge Reduction Program Negotiation </strong><strong>Parameters - 2026-426<br/></strong>Council provided direction to staff.</p>\n<p><strong>Grant Agreement - 2026-423</strong><br/>Council provided direction to staff.</p>\n<p><strong>Habitat for Humanity Development Charges Receivable<br/></strong>Council provided direction to staff.<strong><br/></strong></p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "13",
+   "number": "6",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": 7778.827,
+   "video_end": 7831.093,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "7",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 7831.093,
+   "video_end": 7886.936,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "14",
+   "item_number": "3.1",
+   "item_title": "Development Charge Reduction Program - 2026-425",
+   "name": "",
+   "moved_by": "Busuttil",
+   "seconded_by": "Klassen",
+   "text": "That the Staff Report dated August 12, 2026, entitled Development Charge Reduction Program be received. That Council endorse the City of Guelph’s grant application to the Development Charge Reduction Program offered through the Ministry of Housing and Municipal Affairs as outlined in the report entitled Development Charge Reduction Program report dated August 12, 2026. That subject to a successful application for funding through the Development Charge Reduction Program and contingent on the execution of a transfer payment agreement, Council approve the establishment of a Residential Development Charge Reduction Grant, as described in the report dated August 12, 2026.",
+   "text_html": "<ol>\n<li>That the Staff Report dated August 12, 2026, entitled Development Charge Reduction Program be received.</li>\n<li>That Council endorse the City of Guelph’s grant application to the Development Charge Reduction Program offered through the Ministry of Housing and Municipal Affairs as outlined in the report entitled Development Charge Reduction Program report dated August 12, 2026.</li>\n<li>That subject to a successful application for funding through the Development Charge Reduction Program and contingent on the execution of a transfer payment agreement, Council approve the establishment of a Residential Development Charge Reduction Grant, as described in the report dated August 12, 2026.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (10 to 0)",
+    "label": "10-0",
+    "for": 10,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "2",
+   "item_number": "4",
+   "item_title": "Authority to move into closed meeting",
+   "name": "",
+   "moved_by": "Richardson",
+   "seconded_by": "Klassen",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act, to consider: Development Charge Reduction Program Negotiation Parameters - 2026-426 As per section 239(2)(k) of the Municipal Act, regarding a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board. Grant Agreement - 2026-423 As per section 239(2)(h) and (k) of the Municipal Act, regarding information explicitly supplied in confidence to the municipality or local board by Canada, a province or territory or a Crown agency of any of them and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board. Habitat for Humanity Development Charges Receivable As per section 239(2)(k) of the Municipal Act, regarding a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board.",
+   "text_html": "<p>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to the Municipal Act, to consider:</p>\n<p><strong>Development Charge Reduction Program Negotiation Parameters - 2026-426<br/></strong>As per section 239(2)(k) of the Municipal Act, regarding a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board.</p>\n<p><strong>Grant Agreement - 2026-423</strong><br/>As per section 239(2)(h) and (k) of the Municipal Act, regarding information explicitly supplied in confidence to the municipality or local board by Canada, a province or territory or a Crown agency of any of them and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board.</p>\n<p><strong>Habitat for Humanity Development Charges Receivable</strong><br/>As per section 239(2)(k) of the Municipal Act, regarding a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board.</p>",
+   "post_html": "<p>The following items were considered:</p>",
+   "result": {
+    "text": "Carried (10 to 0)",
+    "label": "10-0",
+    "for": 10,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "13",
+   "item_number": "6",
+   "item_title": "By-laws",
+   "name": "",
+   "moved_by": "Richardson",
+   "seconded_by": "Busuttil",
+   "text": "That by-law (2026) - 21288 be approved subject to Section 284.11 (4) of the Municipal Act.",
+   "text_html": "<ol>\n<li>That by-law (2026) - 21288 be approved subject to Section 284.11 (4) of the Municipal Act.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (9 to 0)",
+    "label": "9-0",
+    "for": 9,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "9",
+   "item_number": "7",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Downer",
+   "seconded_by": "Richardson",
+   "text": "That the meeting be adjourned (4:00 p.m.).",
+   "text_html": "<ol>\n<li>That the meeting be adjourned (4:00 p.m.).</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}

@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "b80efa30-3e50-4014-997b-9295ad189d35",
+ "city": "guelph",
+ "key": "2024-09-04-committee-of-the-whole",
+ "type": "Committee of the Whole",
+ "body": "committee",
+ "body_name": "Committee of the Whole",
+ "title": "Committee of the Whole",
+ "start": "2024-09-04T13:30:00",
+ "end": "2024-09-04T22:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=b80efa30-3e50-4014-997b-9295ad189d35&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=51913",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=b80efa30-3e50-4014-997b-9295ad189d35&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=b80efa30-3e50-4014-997b-9295ad189d35&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=b80efa30-3e50-4014-997b-9295ad189d35"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=b80efa30-3e50-4014-997b-9295ad189d35",
+    "file": "Council Encoder_Committee of the Whole_2024-09-04-01-25.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_Committee%20of%20the%20Whole_2024-09-04-01-25.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_Committee%20of%20the%20Whole_2024-09-04-01-25.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "30888f43f0f0bffbcc454f0956d3193a5c64cba50e0c6e82fd5f0b0b1abb736a"
+ }
+}

@@ -198,7 +198,7 @@ chart highlights. No dark mode, as now. Check at phone width.
 
 The page works out its own data level for the selected term:
 
-- **Enough split recorded votes** (threshold set in Phase 0, around 30 or more): today's page, with the alliance
+- **Enough split recorded votes** (30 or more in the term, `ENOUGH_SPLIT_VOTES` in `build.py`. Phase 0, 2022–26: Region 470, Guelph 73 at council alone, Waterloo 60, Kitchener 38 in tables or about 80 with prose votes, Centre Wellington 9): today's page, with the alliance
   network, voting-groups map and agreement circle.
 - **Too few:** a "Recorded votes" page instead, with:
   - every named vote, showing who was for and against
@@ -283,11 +283,11 @@ committees were renamed between terms.
 
 | Council | Council meetings | Standing committees (in scope) |
 |---|---|---|
-| Guelph | City Council, Special City Council (open part) | Committee of the Whole, Council Planning, budget meetings |
-| Kitchener | Council Meeting, Special Council Meeting (open part) | Finance and Corporate Services; Planning and Strategic Initiatives; Community and Infrastructure Services |
-| Region | Council Meeting, Special Council | Administration and Finance; Community and Health Services; Sustainability, Infrastructure, and Development (and their 2022–26 names) |
-| Waterloo | Council Meeting | Committee of the Whole (if used in the term) |
-| Centre Wellington | Council, Special Council | Committee of the Whole (`/filepro/documents/5551`) |
+| Guelph | City Council, Special Council Meeting (open part), Special Council Meeting - Budget, Council Planning (a meeting of Council, so `body: council`) | Committee of the Whole |
+| Kitchener | Council Meeting, Special Council Meeting (open part) | Finance and Corporate Services; Planning and Strategic Initiatives; Community and Infrastructure Services (no renames). Audit Committee optional; Climate Change and Environment is advisory (out) |
+| Region | Council Meeting, Special Council, Emergency Special, Inaugural, Board of Health | Administration and Finance; Community and Health Services; Planning and Works (to 2024-06) → Sustainability, Infrastructure, and Development (from 2024-08); **Strategic Planning and Budget** (247 of the Region's 470 split votes). Audit and Library optional |
+| Waterloo | Council Calendar: Council Meeting, Special Council Meeting, Inaugural, All Council | **None in 2022–26** (CoW and Finance & Strategic Planning ended with the 2018–22 term) |
+| Centre Wellington | Council, Special Council, Council (Budget) (type 18) | Committee of the Whole incl. (Budget) variants (type 10); workshops and orientation have no motions |
 
 **Out of scope:**
 - advisory committees, which have citizen members

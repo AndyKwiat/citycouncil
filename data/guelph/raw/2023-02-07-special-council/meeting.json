@@ -1,0 +1,26 @@
+{
+ "version": 2,
+ "id": "e378daba-4eaf-4d94-85c5-d3f9a01f2004",
+ "city": "guelph",
+ "key": "2023-02-07-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2023-02-07T13:30:00",
+ "end": "2023-02-07T14:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=e378daba-4eaf-4d94-85c5-d3f9a01f2004&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=33914",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=e378daba-4eaf-4d94-85c5-d3f9a01f2004&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=e378daba-4eaf-4d94-85c5-d3f9a01f2004&Agenda=PostMinutes&lang=English",
+  "video": null
+ },
+ "video": null,
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "d01d3b3e4d3697c4b124b0afdef14a58068d34d3a26e01aa1e305c925b7db3db"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "3c9933c1-688e-4505-b1e7-e38ce553b554",
+ "city": "guelph",
+ "key": "2023-09-12-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2023-09-12T17:00:00",
+ "end": "2023-09-12T22:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=3c9933c1-688e-4505-b1e7-e38ce553b554&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=40650",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=3c9933c1-688e-4505-b1e7-e38ce553b554&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=3c9933c1-688e-4505-b1e7-e38ce553b554&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=3c9933c1-688e-4505-b1e7-e38ce553b554"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=3c9933c1-688e-4505-b1e7-e38ce553b554",
+    "file": "Council Encoder_SCM_2023-09-12-04-48.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_SCM_2023-09-12-04-48.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_SCM_2023-09-12-04-48.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "3c7021d539dcbf5db2e4124587b9feb7dc8555276f9a944d78a7416fe1094838"
+ }
+}

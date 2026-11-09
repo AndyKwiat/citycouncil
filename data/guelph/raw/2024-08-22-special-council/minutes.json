@@ -1,0 +1,277 @@
+{
+ "title": "Special Council Meeting - August 22, 2024",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Chew",
+  "Downer",
+  "Gibson",
+  "Goller",
+  "Klassen",
+  "O'Rourke",
+  "Richardson"
+ ],
+ "absent": [],
+ "items": [
+  {
+   "id": "4",
+   "number": "2",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": 233.498,
+   "video_end": 362.641,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (10:01 a.m.).</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "2.4",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": 362.641,
+   "video_end": 444.392,
+   "notes": [
+    "<p>There were no disclosures. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "3",
+   "title": "Authority to move into closed meeting",
+   "closed": false,
+   "video_start": 444.392,
+   "video_end": 3902.004,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": null,
+   "number": "3.1",
+   "title": "Call to Order (closed meeting)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "3.2",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof (closed items)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "3.3",
+   "title": "Chief Administrative Officer Recruitment Update and Appointment Discussion - 2024-351",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "12",
+   "number": "4",
+   "title": "Open Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Guthrie called the open meeting to order (11:04 a.m.). </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "5",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": 3999.006,
+   "video_end": 4079.335,
+   "notes": [
+    "<p>Mayor Guthrie Provided the following update: <br/><strong>Chief Administrative Officer Recruitment Update and Appointment Discussion <br/></strong>Staff direction was given. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "6",
+   "title": "Chief Administrative Officer Recruitment Update - 2024-352",
+   "closed": false,
+   "video_start": 4079.335,
+   "video_end": 4115.226,
+   "notes": [],
+   "attachments": [
+    {
+     "name": "Chief Administrative Officer Recruitment Update - 2024-352.pdf",
+     "url": "https://pub-guelph.escribemeetings.com/filestream.ashx?DocumentId=51180"
+    }
+   ],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "7",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 4115.226,
+   "video_end": 4133.367,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m3"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "3",
+   "item_title": "Authority to move into closed meeting",
+   "name": "",
+   "moved_by": "O'Rourke",
+   "seconded_by": "Klassen",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to section 239(2)(b)(d) of the Municipal Act, personal matters about an identifiable individual, including municipal or local board employees; labour relations or employee negotiations.",
+   "text_html": "<p>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to section 239(2)(b)(d) of the Municipal Act, personal matters about an identifiable individual, including municipal or local board employees; labour relations or employee negotiations.</p>",
+   "post_html": "<p>The following items were considered:</p>",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Chew"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "10",
+   "item_number": "6",
+   "item_title": "Chief Administrative Officer Recruitment Update - 2024-352",
+   "name": "",
+   "moved_by": "Klassen",
+   "seconded_by": "Downer",
+   "text": "That the report titled Chief Administrative Officer Recruitment Update, dated August 22, 2024, be received.",
+   "text_html": "<ol>\n<li>That the report titled Chief Administrative Officer Recruitment Update, dated August 22, 2024, be received.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "9",
+   "item_number": "7",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "O'Rourke",
+   "seconded_by": "Billings",
+   "text": "That the meeting be adjourned (11:06 a.m.).",
+   "text_html": "<p>That the meeting be adjourned (11:06 a.m.).</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil",
+     "Chew"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}

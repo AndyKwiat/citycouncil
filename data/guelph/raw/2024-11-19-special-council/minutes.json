@@ -1,0 +1,304 @@
+{
+ "title": "Special Council Meeting - November 19, 2024",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Caton",
+  "Downer",
+  "Gibson",
+  "Goller",
+  "Klassen",
+  "O'Rourke",
+  "Richardson",
+  "Chew"
+ ],
+ "absent": [
+  "Chew"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order (5:01 p.m.).</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Authority to move into closed meeting",
+   "closed": false,
+   "video_start": 244.142,
+   "video_end": 890.617,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": null,
+   "number": "2.1",
+   "title": "Call to Order (closed meeting)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.2",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof (closed items)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.3",
+   "title": "Memorandum of Agreement between City of Guelph and the Amalgamated Transit Union Local 1189 - 2024-500",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": 964.211,
+   "video_end": 964.805,
+   "notes": [
+    "<p>Mayor Guthrie called the open meeting to order (5:09 p.m.).<br/>Mayor Guthrie spoke regarding the matters discussed in closed session and identified the following:<br/><strong>Memorandum of Agreement between City of Guelph and the Amalgamated Transit Union Local 1189<br/></strong>Staff direction was given.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "15",
+   "number": "4",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Councillor Caron declared a conflict of pecuniary interest with item 4.1 and 4.2, bylaws (2024)-21008 and (2024)-21009, as her employer owns these properties. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "5",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": 964.805,
+   "video_end": 1067.837,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2",
+    "m3"
+   ]
+  },
+  {
+   "id": "9",
+   "number": "6",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 1067.837,
+   "video_end": 1160.15,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m4"
+   ]
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Authority to move into closed meeting",
+   "name": "",
+   "moved_by": "Goller",
+   "seconded_by": "Allt",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to section 239(2)(d) of the Municipal Act, labour relations or employee negotiations.",
+   "text_html": "<ol>\n<li>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to section 239(2)(d) of the Municipal Act, labour relations or employee negotiations.</li>\n</ol>",
+   "post_html": "<p>The following items were considered: </p>",
+   "result": {
+    "text": "Carried (10 to 0)",
+    "label": "10-0",
+    "for": 10,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Goller",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m2",
+   "item": "10",
+   "item_number": "5",
+   "item_title": "By-laws",
+   "name": "",
+   "moved_by": "Downer",
+   "seconded_by": "Klassen",
+   "text": "That by-laws (2024) – 21008 and (2024) - 21009 be approved subject to Section 284.11 (4) of the Municipal Act.",
+   "text_html": "<ol>\n<li>That by-laws (2024) – 21008 and (2024) - 21009 be approved subject to Section 284.11 (4) of the Municipal Act.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m3",
+   "item": "10",
+   "item_number": "5",
+   "item_title": "By-laws",
+   "name": "",
+   "moved_by": "Downer",
+   "seconded_by": "Klassen",
+   "text": "That by-law (2024) - 21013 be approved subject to Section 284.11 (4) of the Municipal Act.",
+   "text_html": "<ol>\n<li>That by-law (2024) - 21013 be approved subject to Section 284.11 (4) of the Municipal Act.</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (12 to 0)",
+    "label": "12-0",
+    "for": 12,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  },
+  {
+   "id": "m4",
+   "item": "9",
+   "item_number": "6",
+   "item_title": "Adjournment",
+   "name": "",
+   "moved_by": "Billings",
+   "seconded_by": "Goller",
+   "text": "That the meeting be adjourned (5:15 p.m.)",
+   "text_html": "<ol>\n<li>That the meeting be adjourned (5:15 p.m.)</li>\n</ol>",
+   "post_html": "",
+   "result": {
+    "text": "Carried (11 to 0)",
+    "label": "11-0",
+    "for": 11,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Goller",
+     "Allt",
+     "Downer",
+     "O'Rourke",
+     "Billings",
+     "Caron",
+     "Caton",
+     "Klassen",
+     "Richardson",
+     "Busuttil"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [
+  {
+   "member": "Caron",
+   "item_number": "4.1",
+   "text": "Councillor Caron declared a conflict of pecuniary interest with item 4.1 and 4.2, bylaws (2024)-21008 and (2024)-21009, as her employer owns these properties."
+  }
+ ],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}

@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "id": "ef70d09b-0004-4df5-82e0-aa808b192d49",
+ "city": "guelph",
+ "key": "2026-07-22-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2026-07-22T18:00:00",
+ "end": "2026-07-22T22:00:00",
+ "location": "Council Chambers",
+ "links": {
+  "official_minutes": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=ef70d09b-0004-4df5-82e0-aa808b192d49&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-guelph.escribemeetings.com/FileStream.ashx?DocumentId=75575",
+  "agenda": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=ef70d09b-0004-4df5-82e0-aa808b192d49&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-guelph.escribemeetings.com/Meeting.aspx?Id=ef70d09b-0004-4df5-82e0-aa808b192d49&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=ef70d09b-0004-4df5-82e0-aa808b192d49"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-guelph.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=ef70d09b-0004-4df5-82e0-aa808b192d49",
+    "file": "Council Encoder_SCM_2026-07-22-06-01.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/guelph/Council%20Encoder_SCM_2026-07-22-06-01.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/guelph/Council%20Encoder_SCM_2026-07-22-06-01.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "4853467323556e9c9d7b6b2f6d8fd3ac9d3b8135ae3b4c1748db20d811f13708"
+ }
+}

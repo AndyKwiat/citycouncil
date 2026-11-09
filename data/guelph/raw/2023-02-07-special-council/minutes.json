@@ -1,0 +1,168 @@
+{
+ "title": "Special Council Meeting - February 07, 2023",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Guthrie",
+  "Allt",
+  "Billings",
+  "Busuttil",
+  "Caron",
+  "Downer",
+  "Gibson",
+  "Goller",
+  "Klassen",
+  "Richardson",
+  "Caton",
+  "Chew",
+  "O'Rourke"
+ ],
+ "absent": [
+  "Caton",
+  "Chew",
+  "O'Rourke"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Call to Order",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Authority to move into closed meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": null,
+   "number": "2.1",
+   "title": "Call to Order (closed meeting)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.2",
+   "title": "Disclosure of Pecuniary Interest and General Nature Thereof (closed items)",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": null,
+   "number": "2.3",
+   "title": "2019 York Trunk Phase 2B Sewer By-Pass Spill - Update - 2023-58",
+   "closed": true,
+   "video_start": null,
+   "video_end": null,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "3",
+   "number": "3",
+   "title": "Open Meeting",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Guthrie called the meeting to order. (2:01 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "4",
+   "number": "3.1",
+   "title": "Closed Meeting Summary",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>Mayor Guthrie summarized that Council met in closed session to discuss the 2019 York Trunk Phase 2B Sewer By-Pass Spill - Update and that direction was given to staff and more information will be provided publicly in the future. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "4",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": null,
+   "video_end": null,
+   "notes": [
+    "<p>The meeting was adjourned. (2:01 p.m.)</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "2",
+   "item_number": "2",
+   "item_title": "Authority to move into closed meeting",
+   "name": "",
+   "moved_by": "Billings",
+   "seconded_by": "Klassen",
+   "text": "That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to section 239(2) (e) and (f) of the Municipal Act relating to litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board and advice that is subject to solicitor-client privilege, including communications necessary for that purpose.",
+   "text_html": "<p>That the Council of the City of Guelph now hold a meeting that is closed to the public, pursuant to section 239(2) (e) and (f) of the Municipal Act relating to litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board and advice that is subject to solicitor-client privilege, including communications necessary for that purpose. </p>",
+   "post_html": "<p>The following matters were discussed:</p>",
+   "result": {
+    "text": "Carried (10 to 0)",
+    "label": "10-0",
+    "for": 10,
+    "against": 0,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [
+     "Mayor Guthrie",
+     "Gibson",
+     "Goller",
+     "Allt",
+     "Downer",
+     "Billings",
+     "Caron",
+     "Klassen",
+     "Richardson",
+     "Busuttil"
+    ],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "recorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": []
+}
