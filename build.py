@@ -952,7 +952,8 @@ def build_city(city, out):
     for d in sorted((x for x in city.raw.iterdir() if x.is_dir()), reverse=True) if city.raw.exists() else []:
         m = p.read_json(d / "meeting.json")
         sumr, minutes = p.read_json(d / "summary.json"), p.read_json(d / "minutes.json")
-        if m and sumr and minutes:
+        # Publish gate: a meeting whose votes don't reconcile with its minutes stays off the site until fixed or explained.
+        if m and sumr and minutes and not minutes.get("vote_problems"):
             found.append((d, m, sumr, minutes))
             metas[d.name] = m
     main = city.get("main_type")

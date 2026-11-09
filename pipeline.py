@@ -9,7 +9,7 @@ The admin panel runs this file as a subprocess, but it also works by hand:
   pipeline.py process --city guelph --dates 2026-09-15 --steps summarize --force
   pipeline.py build            (every council plus the landing page)
 """
-import argparse, datetime as dt, hashlib, os, pathlib, re, shutil, signal, subprocess, sys
+import argparse, datetime as dt, hashlib, json, os, pathlib, re, shutil, signal, subprocess, sys
 
 from core.common import ROOT, STATE, SITE, UA, file_hash, get, log, read_json, write_json  # noqa: F401 (re-exported)
 from core import city as cities
@@ -264,6 +264,88 @@ def search_status():
             "deployed_at": live.get("deployed_at"), "current": bool(built and live.get("db") == file_hash(search_index.DB))}
 
 
+# ---------------------------------------------------------------- nightly update (PLAN 4.10)
+
+LOCK = STATE / "update.lock"
+RECHECK_DAYS = 90     # minutes are revised after posting, so recent ones are fetched again and compared
+LOOKBACK_DAYS = 120   # meetings this recent are looked at every run
+
+
+def update_city(city, report):
+    """Refresh one council: new meetings, revised minutes, then transcripts and summaries for what changed."""
+    r = report.setdefault(city.slug, {"new": [], "revised": [], "summarized": [], "held": {}, "failed": {}})
+    try:
+        refresh_calendar(city)
+    except Exception as e:
+        r["failed"]["calendar"] = str(e)[:300]
+        return
+    today = dt.date.today()
+    recent = [m for m in council_meetings(city) if is_past(m) and (today - dt.date.fromisoformat(m["start"][:10])).days <= LOOKBACK_DAYS]
+    for m in sorted(recent, key=lambda m: m["start"]):
+        d = city.raw / m["key"]
+        had = (d / "summary.json").exists()
+        before = dict(m.get("source_hashes") or {})
+        recheck = (today - dt.date.fromisoformat(m["start"][:10])).days <= RECHECK_DAYS
+        try:
+            step_docs(city, m, force=recheck and had)
+            after = (read_json(d / "meeting.json") or {}).get("source_hashes") or {}
+            revised = had and before and after != before
+            if revised:
+                r["revised"].append(m["key"])
+            if revised or not (d / "minutes.json").exists() or not had:
+                step_parse(city, m)
+            minutes = read_json(d / "minutes.json")
+            if minutes and minutes.get("vote_problems"):
+                r["held"][m["key"]] = minutes["vote_problems"][:3]
+                continue
+            if minutes and (not had or revised):
+                step_transcribe(city, m)
+                if step_summarize(city, m, force=revised):
+                    (r["summarized"] if had else r["new"]).append(m["key"])
+        except Exception as e:
+            r["failed"][m["key"]] = str(e)[:300]
+    export_votes(city)
+
+
+def notify(title, text):
+    subprocess.run(["osascript", "-e", f'display notification {json.dumps(text)} with title {json.dumps(title)}'], check=False)
+
+
+def update(slugs, publish=False):
+    """Every council, then tests, build and (with publish) both deploys. Writes state/update_report.json."""
+    import fcntl
+    STATE.mkdir(exist_ok=True)
+    lock = open(LOCK, "w")
+    try:
+        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        raise SystemExit("Another update is running.")
+    report = {"started": dt.datetime.now().isoformat(timespec="seconds"), "cities": {}}
+    for slug in slugs:
+        update_city(load(slug), report["cities"])
+    tests = subprocess.run([sys.executable, "-m", "unittest", "discover", "tests"], cwd=ROOT, capture_output=True, text=True)
+    report["tests_passed"] = tests.returncode == 0
+    import build, search_index
+    build.main()
+    report["built"] = True
+    if publish and report["tests_passed"]:
+        before = file_hash(search_index.DB) if search_index.DB.exists() else None
+        search_index.index()
+        if file_hash(search_index.DB) != before:
+            deploy_search()
+            report["search_deployed"] = True
+        deploy()
+        report["deployed"] = True
+    report["finished"] = dt.datetime.now().isoformat(timespec="seconds")
+    write_json(STATE / "update_report.json", report)
+    new = sum(len(c["new"]) for c in report["cities"].values())
+    held = sum(len(c["held"]) for c in report["cities"].values())
+    failed = sum(len(c["failed"]) for c in report["cities"].values())
+    notify("cityhallvotes update", f"{new} new meetings, {held} held back, {failed} failures"
+           + ("" if report["tests_passed"] else "; TESTS FAILED, nothing deployed"))
+    log(json.dumps(report, indent=1))
+
+
 def chosen(slug):
     return [load(s) for s in cities.all_slugs()] if slug == "all" else [load(slug)]
 
@@ -293,6 +375,9 @@ def main():
     sub.add_parser("search-index")
     sub.add_parser("search-deploy")
     sub.add_parser("export-votes").add_argument("--city", default=cities.DEFAULT)
+    u = sub.add_parser("update", help="nightly: every council's new and revised meetings, tests, build, and with --publish both deploys")
+    u.add_argument("--city", default="all")
+    u.add_argument("--publish", action="store_true")
     a = p.parse_args()
     if a.cmd == "calendar":
         for city in chosen(a.city):
@@ -316,6 +401,8 @@ def main():
         search_index.index()
     elif a.cmd == "search-deploy":
         deploy_search()
+    elif a.cmd == "update":
+        update([c.slug for c in chosen(a.city)], a.publish)
     elif a.cmd == "export-votes":
         for city in chosen(a.city):
             export_votes(city)
