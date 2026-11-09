@@ -336,6 +336,7 @@ def page(title, body, script=True, extra_js="", city=None, up="", themed=True):
 
 
 THEMED = {}  # slug -> True once the council's theme images are in the site being built
+UNRECORDED_BADGE = {}  # {"on": True} while building a council that records names only on request
 
 
 def hms(s):
@@ -365,6 +366,9 @@ def vote_badge(x, minutes, key, prefix=""):
     if not r["label"]:
         return ""
     voted = x["votes"]["for"] + x["votes"]["against"] + x["votes"]["other"]
+    # Where names are recorded only on request, say so on the badge rather than let "Carried" look like a full record.
+    if UNRECORDED_BADGE.get("on") and not voted and r["for"] is None and r["outcome"] in ("Carried", "Lost", "Defeated"):
+        label = f"{r['outcome']} · not recorded"
     absent = [n for n in minutes["roster"] if n not in voted] if voted else []
     title = x["name"] or x["item_title"]
     note = ""
@@ -879,6 +883,7 @@ def build_city(city, out):
     (out / "transcripts").mkdir(parents=True)
     (out / "minutes").mkdir()
     THEMED[city.slug] = theme.copy_to(city, out)
+    UNRECORDED_BADGE["on"] = city.get("records_votes") == "on request"
     found, stamps, all_minutes, metas = [], {}, {}, {}
     for d in sorted((x for x in city.raw.iterdir() if x.is_dir()), reverse=True) if city.raw.exists() else []:
         m = p.read_json(d / "meeting.json")
