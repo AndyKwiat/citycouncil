@@ -58,13 +58,13 @@ pre{margin:0;background:var(--bg);border:1px solid var(--line);border-radius:7px
  <div class="card"><h2>Website</h2>
   <div class="row"><button class="primary" data-act="build">Update website</button><a href="/site/" target="_blank" rel="noopener">Preview</a></div>
   <div class="hint" id="buildinfo"></div>
-  <div class="row" style="margin-top:10px"><button data-act="deploy" id="deploy">Deploy to citycouncil.akwiat.com</button><a href="https://citycouncil.akwiat.com" target="_blank" rel="noopener">Open live site</a></div>
+  <div class="row" style="margin-top:10px"><button data-act="deploy" id="deploy">Deploy to cityhallvotes.ca</button><a href="https://cityhallvotes.ca/guelph/" target="_blank" rel="noopener">Open live site</a></div>
   <div class="hint" id="deployinfo"></div>
  </div>
  <div class="card"><h2>Search</h2>
   <div class="row"><button class="primary" data-act="search_index">Update search index</button></div>
   <div class="hint" id="searchinfo"></div>
-  <div class="row" style="margin-top:10px"><button data-act="search_deploy" id="searchdeploy">Deploy search API</button><a href="https://citycouncil.akwiat.com/search.html" target="_blank" rel="noopener">Open search</a></div>
+  <div class="row" style="margin-top:10px"><button data-act="search_deploy" id="searchdeploy">Deploy search API</button><a href="https://cityhallvotes.ca/guelph/search.html" target="_blank" rel="noopener">Open search</a></div>
   <div class="hint" id="searchdeployinfo"></div>
  </div>
 </div>
@@ -117,7 +117,7 @@ function renderSearch(x){if(!x)return;$('searchinfo').textContent=x.indexed_at?`
  $('searchdeployinfo').textContent=x.deployed_at?(x.current?`Live index matches (deployed ${ago(x.deployed_at)}).`:`Deployed ${ago(x.deployed_at)}. This index isn't live yet.`):'Not deployed yet.';$('searchdeploy').disabled=!x.indexed_at}
 function renderInfo(s){renderSearch(s.search);$('checked').textContent=`Last checked the city's calendar ${ago(s.checked_at)}.`;
  const b=s.build;const stale=b.stale.length;$('buildinfo').textContent=b.at?`Built ${ago(b.at)} with ${b.count} meetings.`+(stale?` ${stale} meeting${stale>1?'s':''} changed since then.`:' Up to date.'):'Not built yet.';
- const d=s.deploy;$('deployinfo').textContent=d.at?(d.current?`Live version matches this build (deployed ${ago(d.at)}).`:`Deployed ${ago(d.at)}. This build isn't live yet.`):'Not deployed yet. It will be private to you@example.com.';$('deploy').disabled=!b.at}
+ const d=s.deploy;$('deployinfo').textContent=d.at?(d.current?`Live version matches this build (deployed ${ago(d.at)}).`:`Deployed ${ago(d.at)}. This build isn't live yet.`):'Not deployed yet. It will be public at cityhallvotes.ca/guelph.';$('deploy').disabled=!b.at}
 async function refresh(){try{const s=await(await fetch('/api/state')).json();lastState=s;renderRows(s);renderJobs(s);renderInfo(s);await renderLog(s)}catch(e){$('err').textContent='The admin server isn\'t responding.';$('err').hidden=false}}
 document.addEventListener('click',e=>{const t=e.target;
  if(t.dataset.act)run({action:t.dataset.act});

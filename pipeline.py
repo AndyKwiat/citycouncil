@@ -694,21 +694,52 @@ def select(args):
     return []
 
 
+SITE_DOMAIN = "cityhallvotes.ca"
+SITE_PATH = "guelph"   # the site lives at cityhallvotes.ca/guelph/; the root redirects there
+CF = ROOT / "cf"
+CF_DIST = STATE / "cf" / "dist"
+SECRETS = pathlib.Path.home() / ".config/akwiat/secrets.env"
+
+
+def cloudflare_env():
+    """wrangler needs the API token (kept with radify's secrets) and the account that owns the domain."""
+    env = dict(os.environ)
+    found = dict(line.split("=", 1) for line in SECRETS.read_text().splitlines() if "=" in line and not line.startswith("#"))
+    # A separate token with Workers permissions; radify's own token only manages DNS.
+    token = (found.get("CLOUDFLARE_WORKERS_TOKEN") or "").strip().strip('"')
+    if not token:
+        raise SystemExit(f"Add CLOUDFLARE_WORKERS_TOKEN to {SECRETS} (see README: Hosting on Cloudflare)")
+    env["CLOUDFLARE_API_TOKEN"] = token
+    req = urllib.request.Request(f"https://api.cloudflare.com/client/v4/zones?name={SITE_DOMAIN}",
+                                 headers={"Authorization": f"Bearer {env['CLOUDFLARE_API_TOKEN']}"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        zones = json.load(r)["result"]
+    if not zones:
+        raise SystemExit(f"The Cloudflare token can't see {SITE_DOMAIN}")
+    env["CLOUDFLARE_ACCOUNT_ID"] = zones[0]["account"]["id"]
+    return env
+
+
+def wrangler(args, env, **kw):
+    return subprocess.run(["npx", "--yes", "wrangler@4", *args, "--config", str(CF / "wrangler.jsonc")], env=env, **kw)
+
+
 def deploy():
+    """Publish the site to Cloudflare at https://cityhallvotes.ca/guelph/ (public)."""
     if not (SITE / "index.html").exists():
         raise SystemExit("Nothing to deploy: build the website first.")
-    apps = subprocess.run([str(RADIFY), "apps"], capture_output=True, text=True, check=True).stdout
-    if not re.search(rf"^{APP}\s", apps, re.M):
-        log(f"Creating private static app {APP} for {OWNER}")
-        subprocess.run([str(RADIFY), "create", APP, "--kind", "static", "--policy", "allowlist", "--emails", OWNER], check=True)
-    log(f"Deploying {SITE} to {APP}.akwiat.com")
-    subprocess.run([str(RADIFY), "deploy", APP, str(SITE)], check=True)
+    shutil.rmtree(CF_DIST, ignore_errors=True)
+    shutil.copytree(SITE, CF_DIST / SITE_PATH)
+    (CF_DIST / "robots.txt").write_text("User-agent: *\nAllow: /\n")
+    # Served by Cloudflare's static assets, so the redirect needs no Worker code.
+    (CF_DIST / "_redirects").write_text(f"/ /{SITE_PATH}/ 302\n/index.html /{SITE_PATH}/ 302\n")
+    log(f"Deploying {SITE} to https://{SITE_DOMAIN}/{SITE_PATH}/")
+    wrangler(["deploy"], cloudflare_env(), check=True)
     write_json(STATE / "deploy.json", {"deployed_at": dt.datetime.now().isoformat(timespec="seconds"), "fingerprint": site_fingerprint()})
-    log(f"Deployed: https://{APP}.akwiat.com (private to {OWNER})")
+    log(f"Deployed: https://{SITE_DOMAIN}/{SITE_PATH}/ (public)")
 
 
 SEARCH_APP = "api-citycouncil"
-SITE_ORIGIN = f"https://{APP}.akwiat.com"
 SEARCH_MEMORY = "900M"  # the embedding model alone needs about 450 MB, over radify's 512 MB default
 
 
@@ -735,16 +766,15 @@ def deploy_search():
     shutil.copy(search_index.DB, dist / "static/search.sqlite")
     apps = subprocess.run([str(RADIFY), "apps"], capture_output=True, text=True, check=True).stdout
     if not re.search(rf"^{SEARCH_APP}\s", apps, re.M):
-        log(f"Creating private app {SEARCH_APP} for {OWNER}")
-        subprocess.run([str(RADIFY), "create", SEARCH_APP, "--policy", "allowlist", "--emails", OWNER], check=True)
-    subprocess.run([str(RADIFY), "env-set", SEARCH_APP, f"ALLOWED_ORIGINS={SITE_ORIGIN}"], check=True, capture_output=True)
+        log(f"Creating app {SEARCH_APP}; it answers only requests carrying the site's key")
+        subprocess.run([str(RADIFY), "create", SEARCH_APP, "--policy", "public"], check=True)
     limit = subprocess.run(["ssh", "step1-deploy", f"systemctl show app@{SEARCH_APP} -p MemoryMax --value"], capture_output=True, text=True).stdout.strip()
     if limit.isdigit() and int(limit) < 800 * 2 ** 20:
         log(f"WARNING: app@{SEARCH_APP} may run out of memory (limit {int(limit) // 2 ** 20} MB). See README: Search.")
     log(f"Deploying to {SEARCH_APP}.akwiat.com")
     subprocess.run([str(RADIFY), "deploy", SEARCH_APP, str(dist)], check=True)
     write_json(STATE / "search_deploy.json", {"deployed_at": dt.datetime.now().isoformat(timespec="seconds"), "db": file_hash(search_index.DB)})
-    log(f"Search API live at https://{SEARCH_APP}.akwiat.com (private to {OWNER}; answers only {SITE_ORIGIN})")
+    log(f"Search API live at https://{SEARCH_APP}.akwiat.com (answers only the site's Worker)")
 
 
 def search_status():

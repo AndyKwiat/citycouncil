@@ -42,7 +42,7 @@ def describe(body):
     if action == "build":
         return "Update website", ["build"], []
     if action == "deploy":
-        return "Deploy to citycouncil.akwiat.com", ["deploy"], []
+        return f"Deploy to {p.SITE_DOMAIN}/{p.SITE_PATH}", ["deploy"], []
     if action == "search_index":
         return "Update search index", ["search-index"], []
     if action == "search_deploy":

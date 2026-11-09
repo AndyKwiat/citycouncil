@@ -1,6 +1,6 @@
-//! The HTTP API. Radify's gate (Google login, allowlist) sits in front and adds X-Auth-Email; this server
-//! also refuses any request that doesn't come from the council site's own pages (the Origin check),
-//! so only the app, used by a signed-in person, can query it.
+//! The HTTP API. The public site never calls it directly: its Cloudflare Worker forwards searches here with a
+//! secret key (X-App-Key), so only the site can use it. Each visitor (by IP, which the Worker passes on) also
+//! has a rate limit, since every search costs CPU on a small server.
 
 use crate::{
     embed::Embedder,
@@ -17,10 +17,11 @@ use axum::{
 use serde::Deserialize;
 use serde_json::json;
 use std::{
+    collections::HashMap,
     env,
     path::PathBuf,
-    sync::{Arc, OnceLock},
-    time::Instant,
+    sync::{Arc, Mutex, OnceLock},
+    time::{Duration, Instant},
 };
 use tokio::sync::Semaphore;
 
@@ -28,10 +29,43 @@ pub struct App {
     pub store: Store,
     pub model: OnceLock<Embedder>,
     pub failed: OnceLock<String>,
-    pub origins: Vec<String>,
-    pub require_login: bool,
+    /// The shared secret the site's Worker sends. With none configured, every search is refused.
+    pub app_key: Option<String>,
+    pub limits: RateLimit,
     /// One embedding at a time keeps memory flat on a small server.
     pub gate: Semaphore,
+}
+
+/// At most `per_window` searches per client in each window.
+pub struct RateLimit {
+    pub per_window: u32,
+    pub window: Duration,
+    seen: Mutex<HashMap<String, (Instant, u32)>>,
+}
+
+impl RateLimit {
+    pub fn new(per_window: u32, window: Duration) -> Self {
+        Self { per_window, window, seen: Mutex::new(HashMap::new()) }
+    }
+
+    pub fn allow(&self, client: &str, now: Instant) -> bool {
+        let mut seen = self.seen.lock().unwrap();
+        if seen.len() > 10_000 {
+            let window = self.window;
+            seen.retain(|_, (start, _)| now.duration_since(*start) < window);
+        }
+        let entry = seen.entry(client.to_string()).or_insert((now, 0));
+        if now.duration_since(entry.0) >= self.window {
+            *entry = (now, 0);
+        }
+        entry.1 += 1;
+        entry.1 <= self.per_window
+    }
+}
+
+/// Compares in constant time, so the key can't be guessed byte by byte from response timing.
+pub fn same_key(given: &[u8], expected: &[u8]) -> bool {
+    given.len() == expected.len() && given.iter().zip(expected).fold(0u8, |acc, (a, b)| acc | (a ^ b)) == 0
 }
 
 #[derive(Deserialize, Default)]
@@ -71,13 +105,7 @@ pub fn params(q: &SearchQuery) -> Result<Params, String> {
     Ok(p)
 }
 
-fn cors(origin: Option<&str>, mut r: Response) -> Response {
-    if let Some(o) = origin.and_then(|o| HeaderValue::from_str(o).ok()) {
-        let h = r.headers_mut();
-        h.insert(header::ACCESS_CONTROL_ALLOW_ORIGIN, o);
-        h.insert(header::ACCESS_CONTROL_ALLOW_CREDENTIALS, HeaderValue::from_static("true"));
-        h.insert(header::VARY, HeaderValue::from_static("Origin"));
-    }
+fn no_store(mut r: Response) -> Response {
     r.headers_mut().insert(header::CACHE_CONTROL, HeaderValue::from_static("no-store"));
     r
 }
@@ -87,23 +115,23 @@ fn fail(code: StatusCode, msg: &str) -> Response {
 }
 
 pub async fn search(State(app): State<Arc<App>>, headers: HeaderMap, Query(q): Query<SearchQuery>) -> Response {
-    let origin = headers.get(header::ORIGIN).and_then(|v| v.to_str().ok()).filter(|o| app.origins.iter().any(|a| a == o));
-    if origin.is_none() {
-        return fail(StatusCode::FORBIDDEN, "This API only answers the council site.");
+    let given = headers.get("x-app-key").map(|v| v.as_bytes()).unwrap_or_default();
+    if !app.app_key.as_deref().is_some_and(|k| same_key(given, k.as_bytes())) {
+        return no_store(fail(StatusCode::FORBIDDEN, "This API only answers the council site."));
     }
-    let origin = origin.map(String::from);
-    if app.require_login && headers.get("x-auth-email").is_none() {
-        return cors(origin.as_deref(), fail(StatusCode::UNAUTHORIZED, "Sign in first."));
+    let client = headers.get("x-client-ip").and_then(|v| v.to_str().ok()).unwrap_or("unknown").to_string();
+    if !app.limits.allow(&client, Instant::now()) {
+        return no_store(fail(StatusCode::TOO_MANY_REQUESTS, "Too many searches in a short time. Wait a minute and try again."));
     }
     let p = match params(&q) {
         Ok(p) => p,
-        Err(e) => return cors(origin.as_deref(), fail(StatusCode::BAD_REQUEST, &e)),
+        Err(e) => return no_store(fail(StatusCode::BAD_REQUEST, &e)),
     };
     if let Some(e) = app.failed.get() {
-        return cors(origin.as_deref(), fail(StatusCode::SERVICE_UNAVAILABLE, &format!("The search model failed to load: {e}")));
+        return no_store(fail(StatusCode::SERVICE_UNAVAILABLE, &format!("The search model failed to load: {e}")));
     }
     if app.model.get().is_none() {
-        return cors(origin.as_deref(), fail(StatusCode::SERVICE_UNAVAILABLE, "Search is starting up. Try again in a minute."));
+        return no_store(fail(StatusCode::SERVICE_UNAVAILABLE, "Search is starting up. Try again in a minute."));
     }
     let _permit = app.gate.acquire().await.expect("semaphore");
     let worker = app.clone();
@@ -118,9 +146,9 @@ pub async fn search(State(app): State<Arc<App>>, headers: HeaderMap, Query(q): Q
     })
     .await;
     match result {
-        Ok(Ok(body)) => cors(origin.as_deref(), Json(body).into_response()),
-        Ok(Err(e)) => cors(origin.as_deref(), fail(StatusCode::INTERNAL_SERVER_ERROR, &e.to_string())),
-        Err(e) => cors(origin.as_deref(), fail(StatusCode::INTERNAL_SERVER_ERROR, &e.to_string())),
+        Ok(Ok(body)) => no_store(Json(body).into_response()),
+        Ok(Err(e)) => no_store(fail(StatusCode::INTERNAL_SERVER_ERROR, &e.to_string())),
+        Err(e) => no_store(fail(StatusCode::INTERNAL_SERVER_ERROR, &e.to_string())),
     }
 }
 
@@ -143,13 +171,16 @@ pub fn run() -> Result<()> {
     let model_dir = env::var("MODEL_DIR").map(PathBuf::from).unwrap_or_else(|_| data_dir.join("model"));
     let store = Store::open(&db).with_context(|| format!("opening {}", db.display()))?;
     eprintln!("loaded {} chunks from {}", store.len(), db.display());
-    let origins = env::var("ALLOWED_ORIGINS").unwrap_or_else(|_| "https://citycouncil.akwiat.com".into());
+    let app_key = env::var("APP_KEY").ok().filter(|k| k.len() >= 32);
+    if app_key.is_none() {
+        eprintln!("APP_KEY is missing or shorter than 32 characters, so every search will be refused");
+    }
     let app = Arc::new(App {
         store,
         model: OnceLock::new(),
         failed: OnceLock::new(),
-        origins: origins.split(',').map(|s| s.trim().trim_end_matches('/').to_string()).filter(|s| !s.is_empty()).collect(),
-        require_login: env::var("REQUIRE_LOGIN").map(|v| v != "0").unwrap_or(true),
+        app_key,
+        limits: RateLimit::new(env::var("SEARCHES_PER_MINUTE").ok().and_then(|v| v.parse().ok()).unwrap_or(30), Duration::from_secs(60)),
         gate: Semaphore::new(1),
     });
     let loader = app.clone();
@@ -181,6 +212,24 @@ mod tests {
 
     fn q(text: &str, kinds: Option<&str>, from: Option<&str>) -> SearchQuery {
         SearchQuery { q: Some(text.into()), kinds: kinds.map(Into::into), from: from.map(Into::into), ..Default::default() }
+    }
+
+    #[test]
+    fn rate_limit_resets_each_window() {
+        let limit = RateLimit::new(2, Duration::from_secs(60));
+        let t = Instant::now();
+        assert!(limit.allow("a", t) && limit.allow("a", t));
+        assert!(!limit.allow("a", t));
+        assert!(limit.allow("b", t), "other visitors are unaffected");
+        assert!(limit.allow("a", t + Duration::from_secs(61)));
+    }
+
+    #[test]
+    fn keys_must_match_exactly() {
+        assert!(same_key(b"secret-key", b"secret-key"));
+        assert!(!same_key(b"secret-kez", b"secret-key"));
+        assert!(!same_key(b"secret", b"secret-key"));
+        assert!(!same_key(b"", b"secret-key"));
     }
 
     #[test]

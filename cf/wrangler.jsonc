@@ -1,0 +1,20 @@
+// The public site at cityhallvotes.ca: Cloudflare serves the static files for free, and this Worker handles
+// the two things files can't: redirecting www, and forwarding searches to the private API with its secret key.
+{
+  "name": "cityhallvotes",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "../state/cf/dist",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "none"
+  },
+  "routes": [
+    { "pattern": "cityhallvotes.ca", "custom_domain": true },
+    { "pattern": "www.cityhallvotes.ca", "custom_domain": true }
+  ],
+  "vars": { "API_ORIGIN": "https://api-citycouncil.akwiat.com" },
+  "workers_dev": false,
+  "preview_urls": false
+}

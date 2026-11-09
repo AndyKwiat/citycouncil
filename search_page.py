@@ -1,8 +1,9 @@
-"""The site's search page. It calls the separate search API, so the static site can live anywhere."""
+"""The site's search page. It calls /api/search on its own domain; the site's Cloudflare Worker passes that on to
+the private search API with a secret key."""
 import html
 
 e = html.escape
-SEARCH_API = "https://api-citycouncil.akwiat.com"
+SEARCH_API = "/api"  # same site: the Cloudflare Worker forwards searches to the API
 KINDS = [("summary", "Summaries"), ("vote", "Votes"), ("minutes", "Minutes"), ("transcript", "Transcripts")]
 
 CSS = """
@@ -65,7 +66,7 @@ function run(push){
   var mine = ++seq;
   status.textContent = 'Searching…';
   u.set('limit', '40');
-  fetch(API + '/search?' + u.toString(), {credentials: 'include'}).then(function(r){
+  fetch(API + '/search?' + u.toString()).then(function(r){
     return r.json().catch(function(){ return {}; }).then(function(body){ if (!r.ok) throw new Error(body.error || ('The search service answered ' + r.status)); return body; });
   }).then(function(body){
     if (mine !== seq) return;
@@ -89,9 +90,7 @@ function run(push){
     if (mine !== seq) return;
     list.textContent = '';
     status.textContent = '';
-    status.appendChild(document.createTextNode((err && err.message && err.message.indexOf('fetch') < 0 ? err.message : "Couldn't reach the search service.") + ' If you were signed out, '));
-    var a = el('a', '', 'sign in to it', status); a.href = API + '/healthz'; a.target = '_blank'; a.rel = 'noopener';
-    status.appendChild(document.createTextNode(', then search again.'));
+    status.textContent = (err && err.message && err.message.indexOf('fetch') < 0 ? err.message : "Couldn't reach the search service.") + ' Try again in a moment.';
   });
 }
 form.addEventListener('submit', function(ev){ ev.preventDefault(); run(true); });
@@ -125,7 +124,7 @@ def page_body(years):
 <p class="sr-status" id="sr-status" aria-live="polite"></p>
 <div id="sr-results"></div>
 <footer>Results come from the city's minutes, the AI summaries on this site and machine transcripts of the recordings,
-so transcript passages can contain misheard words. Search runs on a separate service at {e(SEARCH_API)}.</footer>"""
+so transcript passages can contain misheard words.</footer>"""
 
 
 def script():
