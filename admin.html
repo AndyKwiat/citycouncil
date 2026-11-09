@@ -46,7 +46,8 @@ pre{margin:0;background:var(--bg);border:1px solid var(--line);border-radius:7px
 .side{position:sticky;top:12px}
 </style></head>
 <body><div class="page">
-<h1>Council Admin</h1><p class="sub">Guelph City Council meetings on your laptop. Videos stay on the city's site; only their audio is pulled, temporarily, if Whisper is needed.</p>
+<h1>Council Admin</h1><p class="sub"><label for="city">Council</label> <select id="city"></select> Meetings on your laptop. Videos stay on the councils' sites; only their audio is pulled, temporarily, if Whisper is needed.</p>
+<div class="card"><h2>All councils</h2><div class="tablewrap"><table id="coverage"></table></div></div>
 <p class="err" id="err" hidden></p>
 <div class="cards">
  <div class="card"><h2>Get meetings</h2>
@@ -83,7 +84,7 @@ let selected=null,follow=true,lastRows='',lastJobs='',lastLog='',lastState=null;
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const chip=(cls,t,d)=>`<span class="chip ${cls}">${esc(t)}</span>${d?`<span class="detail">${esc(d)}</span>`:''}`;
 const ago=t=>{if(!t)return'never';const s=(Date.now()-new Date(t))/1000;if(s<90)return'just now';if(s<5400)return Math.round(s/60)+' min ago';if(s<129600)return Math.round(s/3600)+' h ago';return Math.round(s/86400)+' days ago'};
-async function post(url,body){const r=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body||{})});const d=await r.json();
+async function post(url,body){const r=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(Object.assign({city:city},body||{}))});const d=await r.json();
  if(!r.ok){$('err').textContent=d.error||'That didn\'t work';$('err').hidden=false;throw d}$('err').hidden=true;return d}
 async function run(body){const j=await post('/api/jobs',body);selected=j.id;follow=true;refresh()}
 function docs(m){if(!m.past)return chip('idle','Upcoming');if(!m.downloaded)return m.minutes_posted?chip('idle','Not downloaded'):chip('warn','Waiting for minutes','city hasn\'t posted them');
@@ -118,7 +119,11 @@ function renderSearch(x){if(!x)return;$('searchinfo').textContent=x.indexed_at?`
 function renderInfo(s){renderSearch(s.search);$('checked').textContent=`Last checked the city's calendar ${ago(s.checked_at)}.`;
  const b=s.build;const stale=b.stale.length;$('buildinfo').textContent=b.at?`Built ${ago(b.at)} with ${b.count} meetings.`+(stale?` ${stale} meeting${stale>1?'s':''} changed since then.`:' Up to date.'):'Not built yet.';
  const d=s.deploy;$('deployinfo').textContent=d.at?(d.current?`Live version matches this build (deployed ${ago(d.at)}).`:`Deployed ${ago(d.at)}. This build isn't live yet.`):'Not deployed yet. It will be public at cityhallvotes.ca/guelph.';$('deploy').disabled=!b.at}
-async function refresh(){try{const s=await(await fetch('/api/state')).json();lastState=s;renderRows(s);renderJobs(s);renderInfo(s);await renderLog(s)}catch(e){$('err').textContent='The admin server isn\'t responding.';$('err').hidden=false}}
+let city=new URLSearchParams(location.search).get('city')||'';
+function renderCoverage(s){const sel=$('city');if(!sel.options.length){sel.innerHTML=s.cities.map(c=>`<option value="${c.slug}">${esc(c.name)}</option>`).join('');sel.onchange=()=>{city=sel.value;history.replaceState(null,'','?city='+city);refresh()}}sel.value=s.city;city=s.city;
+ const cols=[['found','Found'],['minutes','With minutes'],['parsed','Parsed'],['transcribed','Transcribed'],['summarized','Summarized'],['on_site','On the site'],['held','Held back']];
+ $('coverage').innerHTML='<tr><th>Council</th>'+cols.map(c=>`<th>${c[1]}</th>`).join('')+'</tr>'+s.coverage.map(r=>`<tr><td>${esc(r.name)}</td>`+cols.map(c=>`<td>${r[c[0]]}</td>`).join('')+'</tr>').join('')}
+async function refresh(){try{const s=await(await fetch('/api/state'+(city?'?city='+city:''))).json();renderCoverage(s);lastState=s;renderRows(s);renderJobs(s);renderInfo(s);await renderLog(s)}catch(e){$('err').textContent='The admin server isn\'t responding.';$('err').hidden=false}}
 document.addEventListener('click',e=>{const t=e.target;
  if(t.dataset.act)run({action:t.dataset.act});
  if(t.dataset.key){t.closest('details')?.removeAttribute('open');run({action:'meeting',key:t.dataset.key,mode:t.dataset.mode})}

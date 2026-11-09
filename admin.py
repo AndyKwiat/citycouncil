@@ -25,6 +25,17 @@ def save_jobs():
 
 def describe(body):
     """Turn a request from the page into a job. Only these fixed commands can ever run."""
+    title, args, keys = describe_one(body)
+    slug = body.get("city") or p.cities.DEFAULT
+    if slug not in p.cities.all_slugs():
+        raise ValueError("Unknown council")
+    if args[0] in ("calendar", "process"):
+        args = args + ["--city", slug]
+        title = f"{p.load(slug).name}: {title}"
+    return title, args, keys
+
+
+def describe_one(body):
     action = body.get("action")
     if action == "check":
         return "Check for new meetings", ["calendar"], []
@@ -69,8 +80,29 @@ def meetings_in(args):
     if args[0] != "process" or "--dates" in args:
         return []
     get = lambda flag: args[args.index(flag) + 1] if flag in args else None
-    ns = argparse.Namespace(dates=None, latest=int(get("--latest") or 0), new="--new" in args, from_=get("--from"), to=get("--to"))
+    ns = argparse.Namespace(dates=None, latest=int(get("--latest") or 0), new="--new" in args, from_=get("--from"), to=get("--to"),
+                            city=get("--city"), bodies=None)
     return [p.key_of(m) for m in p.select(ns)]
+
+
+def coverage(built):
+    """Per council: meetings found, with minutes, parsed, transcribed, summarized, on the site and held back."""
+    rows = []
+    for slug in p.cities.all_slugs():
+        city = p.load(slug)
+        ms = [m for m in p.council_meetings(city) if p.is_past(m)]
+        c = {"slug": slug, "name": city.name, "found": len(ms), "minutes": 0, "parsed": 0, "transcribed": 0, "summarized": 0,
+             "on_site": len(p.built_meetings(built, city)), "held": 0}
+        for m in ms:
+            d = city.raw / m["key"]
+            c["minutes"] += (d / "minutes.html").exists() or (d / "minutes.txt").exists()
+            minutes = p.read_json(d / "minutes.json")
+            c["parsed"] += bool(minutes)
+            c["held"] += bool(minutes and minutes.get("vote_problems"))
+            c["transcribed"] += (d / "transcript.json").exists()
+            c["summarized"] += (d / "summary.json").exists()
+        rows.append(c)
+    return rows
 
 
 def add_job(body):
@@ -113,10 +145,10 @@ def worker():
             save_jobs()
 
 
-def state():
+def state(slug=None):
     built = p.read_json(p.STATE / "build.json") or {}
     deployed = p.read_json(p.STATE / "deploy.json") or {}
-    city = p.load()
+    city = p.load(slug if slug in p.cities.all_slugs() else None)
     meetings = [p.meeting_status(m, built, city) for m in p.council_meetings(city)]
     with lock:
         active = {k: j["status"] for j in jobs if j["status"] in ("queued", "running") for k in j["keys"]}
@@ -131,7 +163,8 @@ def state():
                       "stale": sorted((ready - built_keys) | {m["key"] for m in meetings if m["stale"]}),
                       "removed": sorted(built_keys - ready)},
             "deploy": {"at": deployed.get("deployed_at"), "current": bool(fingerprint and deployed.get("fingerprint") == fingerprint)},
-            "search": p.search_status()}
+            "search": p.search_status(), "city": city.slug,
+            "cities": [{"slug": s, "name": p.load(s).name} for s in p.cities.all_slugs()], "coverage": coverage(built)}
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -164,7 +197,7 @@ class Handler(BaseHTTPRequestHandler):
         if path == "/":
             return self.send(200, (p.ROOT / "admin.html").read_bytes(), "text/html; charset=utf-8")
         if path == "/api/state":
-            return self.send(200, state())
+            return self.send(200, state(urllib.parse.parse_qs(url.query).get("city", [None])[0]))
         found = re.fullmatch(r"/api/jobs/(\d+)/log", path)
         if found:
             log = JOBS_DIR / f"{int(found.group(1))}.log"
