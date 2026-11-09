@@ -42,7 +42,7 @@ summarized and so on); this file tracks *build* progress.
 | Theme pipeline (duotone, emblem, card, OG image) | done | `core/theme.py` (Pillow) from `cities/<slug>/theme/source.jpg`; images generated into `state/theme/` |
 | Disclaimer footer; check for "AI" in user-facing text | done | Footer on every page; tests check sources and built pages (transcripts quote speakers, so their text is exempt) |
 | Landing page `/` and `_redirects` | todo | |
-| Search: `city`/`date` columns, `cities=` parameter, Worker | todo | |
+| Search: `city`/`date` columns, `cities=` parameter, Worker | done | Chunks carry `city`, `date`, `body`; SQLite gets `city`/`date` columns and an index; dates filter on `date`; results diversified by (council, meeting, kind); Worker passes `cities`. Re-index reused all 4,347 vectors; the 10 saved searches return identical results. Not deployed |
 | Golden diff shows only intended changes; deploy | todo | |
 
 ## Councils

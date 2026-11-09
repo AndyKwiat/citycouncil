@@ -254,7 +254,8 @@ class SearchChunks(unittest.TestCase):
                         "debate": ["Delegates spoke."]}
         self.transcript = [{"start": 120.0 + 10 * i, "end": 125.0 + 10 * i, "text": "we discuss the shelter plan now", "source": "captions"}
                            for i in range(80)]
-        self.rows = search_index.meeting_chunks("2026-07-21", self.summary, self.minutes, self.transcript)
+        m = {"key": "2026-07-21", "start": "2026-07-21T18:00:00", "type": "City Council", "body": "council", "body_name": "City Council"}
+        self.rows = search_index.meeting_chunks(search_index.meeting_info(GUELPH, m), self.summary, self.minutes, self.transcript)
 
     def kinds(self, kind):
         return [r for r in self.rows if r["kind"] == kind]
@@ -284,6 +285,12 @@ class SearchChunks(unittest.TestCase):
 
     def test_embedded_text_carries_context(self):
         self.assertTrue(self.kinds("vote")[0]["embed"].startswith("Council vote, Guelph City Council, July 21, 2026."))
+        self.assertEqual({(r["city"], r["date"], r["body"]) for r in self.rows}, {("guelph", "2026-07-21", "council")})
+        m = {"key": "2026-07-20-committee-of-the-whole", "start": "2026-07-20T09:00:00", "type": "Committee of the Whole",
+             "body": "committee", "body_name": "Committee of the Whole"}
+        rows = search_index.meeting_chunks(search_index.meeting_info(GUELPH, m), self.summary, self.minutes, [])
+        self.assertTrue(rows[0]["embed"].startswith("Meeting summary, Guelph Committee of the Whole, July 20, 2026."))
+        self.assertEqual(rows[0]["url"], "index.html#m-2026-07-20-committee-of-the-whole")
 
 
 class RealData(unittest.TestCase):

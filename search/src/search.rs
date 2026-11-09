@@ -22,7 +22,9 @@ pub const RELATED: f32 = 0.36;
 
 pub struct Row {
     pub kind: String,
+    pub city: String,
     pub meeting: String,
+    pub date: String,
     pub title: String,
     pub text: String,
     pub url: String,
@@ -41,6 +43,8 @@ pub struct Store {
 pub struct Params {
     pub q: String,
     pub kinds: Vec<String>,
+    /// Councils to search; empty means all of them.
+    pub cities: Vec<String>,
     pub from: String,
     pub to: String,
     pub limit: usize,
@@ -48,14 +52,16 @@ pub struct Params {
 
 impl Params {
     pub fn new(q: &str) -> Self {
-        Self { q: q.to_string(), kinds: KINDS.iter().map(|s| s.to_string()).collect(), from: String::new(), to: String::new(), limit: 20 }
+        Self { q: q.to_string(), kinds: KINDS.iter().map(|s| s.to_string()).collect(), cities: vec![], from: String::new(), to: String::new(), limit: 20 }
     }
 }
 
 #[derive(Serialize, Debug)]
 pub struct Hit {
     pub kind: String,
+    pub city: String,
     pub meeting: String,
+    pub date: String,
     pub title: String,
     pub snippet: String,
     pub url: String,
@@ -81,14 +87,15 @@ impl Store {
         let conn = Connection::open_with_flags(db, OpenFlags::SQLITE_OPEN_READ_ONLY | OpenFlags::SQLITE_OPEN_NO_MUTEX)?;
         let (mut rows, mut ids, mut vecs, mut dims) = (vec![], vec![], vec![], 0);
         {
-            let mut st = conn.prepare("SELECT id, kind, meeting, title, text, url, label, vec FROM chunks ORDER BY id")?;
+            let mut st = conn.prepare("SELECT id, kind, city, meeting, date, title, text, url, label, vec FROM chunks ORDER BY id")?;
             let mut q = st.query([])?;
             while let Some(r) = q.next()? {
-                let v = from_blob(&r.get::<_, Vec<u8>>(7)?);
+                let v = from_blob(&r.get::<_, Vec<u8>>(9)?);
                 dims = v.len();
                 vecs.extend(v);
                 ids.push(r.get(0)?);
-                rows.push(Row { kind: r.get(1)?, meeting: r.get(2)?, title: r.get(3)?, text: r.get(4)?, url: r.get(5)?, label: r.get(6)? });
+                rows.push(Row { kind: r.get(1)?, city: r.get(2)?, meeting: r.get(3)?, date: r.get(4)?, title: r.get(5)?, text: r.get(6)?,
+                                url: r.get(7)?, label: r.get(8)? });
             }
         }
         Ok(Self { rows, ids, vecs, dims, conn: Mutex::new(conn) })
@@ -101,8 +108,9 @@ impl Store {
     fn allowed(&self, i: usize, p: &Params) -> bool {
         let r = &self.rows[i];
         p.kinds.iter().any(|k| k == &r.kind)
-            && (p.from.is_empty() || r.meeting.as_str() >= p.from.as_str())
-            && (p.to.is_empty() || r.meeting.as_str() <= p.to.as_str())
+            && (p.cities.is_empty() || p.cities.iter().any(|c| c == &r.city))
+            && (p.from.is_empty() || r.date.as_str() >= p.from.as_str())
+            && (p.to.is_empty() || r.date.as_str() <= p.to.as_str())
     }
 
     fn similarities(&self, q: &[f32]) -> Vec<f32> {
@@ -147,11 +155,11 @@ impl Store {
         }
         let mut order: Vec<(usize, f32)> = fused.into_iter().collect();
         order.sort_by(|a, b| b.1.total_cmp(&a.1).then(a.0.cmp(&b.0)));
-        let results = diversify(&order, |i| (self.rows[i].meeting.as_str(), self.rows[i].kind.as_str()), p.limit)
+        let results = diversify(&order, |i| (self.rows[i].city.as_str(), self.rows[i].meeting.as_str(), self.rows[i].kind.as_str()), p.limit)
             .into_iter()
             .map(|(i, score)| {
                 let r = &self.rows[i];
-                Hit { kind: r.kind.clone(), meeting: r.meeting.clone(), title: r.title.clone(), snippet: snippet(&r.text, &p.q),
+                Hit { kind: r.kind.clone(), city: r.city.clone(), meeting: r.meeting.clone(), date: r.date.clone(), title: r.title.clone(), snippet: snippet(&r.text, &p.q),
                       url: r.url.clone(), label: r.label.clone(), score, similarity: sims[i], exact: exact.contains(&i) }
             })
             .collect();
@@ -159,10 +167,10 @@ impl Store {
     }
 }
 
-/// Best first, but at most PER_MEETING_KIND results per meeting and kind until the list would run short;
+/// Best first, but at most PER_MEETING_KIND results per (council, meeting, kind) until the list would run short;
 /// then the held-back ones fill the remaining places in their original order.
-pub fn diversify<'a, F: Fn(usize) -> (&'a str, &'a str)>(order: &[(usize, f32)], group: F, limit: usize) -> Vec<(usize, f32)> {
-    let mut seen: HashMap<(&str, &str), usize> = HashMap::new();
+pub fn diversify<K: std::hash::Hash + Eq, F: Fn(usize) -> K>(order: &[(usize, f32)], group: F, limit: usize) -> Vec<(usize, f32)> {
+    let mut seen: HashMap<K, usize> = HashMap::new();
     let (mut picked, mut held) = (vec![], vec![]);
     for &(i, s) in order {
         let n = seen.entry(group(i)).or_default();
@@ -212,13 +220,18 @@ mod tests {
     use crate::index::{to_blob, SCHEMA};
 
     fn store(rows: &[(&str, &str, &str, [f32; 3])]) -> (tempdir::Dir, Store) {
+        let rows: Vec<(&str, &str, &str, &str, [f32; 3])> = rows.iter().map(|(k, m, t, v)| (*k, "guelph", *m, *t, *v)).collect();
+        store_in(&rows)
+    }
+
+    fn store_in(rows: &[(&str, &str, &str, &str, [f32; 3])]) -> (tempdir::Dir, Store) {
         let dir = tempdir::Dir::new();
         let db = dir.path.join("t.sqlite");
         let conn = Connection::open(&db).unwrap();
         conn.execute_batch(SCHEMA).unwrap();
-        for (kind, meeting, text, v) in rows {
-            conn.execute("INSERT INTO chunks (kind, meeting, title, text, url, label, hash, vec) VALUES (?,?,?,?,?,?,?,?)",
-                         rusqlite::params![kind, meeting, "t", text, "u", "", "h", to_blob(&crate::embed::normalize(v.to_vec()))]).unwrap();
+        for (kind, city, meeting, text, v) in rows {
+            conn.execute("INSERT INTO chunks (kind, city, meeting, date, title, text, url, label, hash, vec) VALUES (?,?,?,?,?,?,?,?,?,?)",
+                         rusqlite::params![kind, city, meeting, &meeting[..10], "t", text, "u", "", "h", to_blob(&crate::embed::normalize(v.to_vec()))]).unwrap();
         }
         conn.execute("INSERT INTO chunks_fts (chunks_fts) VALUES ('rebuild')", []).unwrap();
         drop(conn);
@@ -298,10 +311,33 @@ mod tests {
     fn diversify_caps_each_meeting_then_backfills() {
         let groups = ["a", "a", "a", "b", "a", "c"];
         let order: Vec<(usize, f32)> = (0..6).map(|i| (i, 1.0 - i as f32 / 10.0)).collect();
-        let picked: Vec<usize> = diversify(&order, |i| (groups[i], "vote"), 4).into_iter().map(|x| x.0).collect();
+        let picked: Vec<usize> = diversify(&order, |i| ("guelph", groups[i], "vote"), 4).into_iter().map(|x| x.0).collect();
         assert_eq!(picked, vec![0, 1, 3, 5]);
-        let all: Vec<usize> = diversify(&order, |i| (groups[i], "vote"), 6).into_iter().map(|x| x.0).collect();
+        let all: Vec<usize> = diversify(&order, |i| ("guelph", groups[i], "vote"), 6).into_iter().map(|x| x.0).collect();
         assert_eq!(all, vec![0, 1, 3, 5, 2, 4]);
+        // The same meeting key in two councils is two meetings.
+        let cities = ["guelph", "guelph", "kitchener", "kitchener"];
+        let mixed: Vec<usize> = diversify(&order[..4], |i| (cities[i], "a", "vote"), 4).into_iter().map(|x| x.0).collect();
+        assert_eq!(mixed, vec![0, 1, 2, 3]);
+    }
+
+    #[test]
+    fn cities_and_dates_filter() {
+        let (_d, s) = store_in(&[
+            ("vote", "guelph", "2024-01-01", "encampment response", [1.0, 0.0, 0.0]),
+            ("vote", "kitchener", "2025-03-01-finance-and-corporate-services", "shelter funding", [0.9, 0.1, 0.0]),
+            ("vote", "kitchener", "2026-01-01", "parking", [0.0, 1.0, 0.0]),
+        ]);
+        let q = crate::embed::normalize(vec![1.0, 0.05, 0.0]);
+        let mut p = Params::new("housing");
+        assert_eq!(s.search(&p, &q).unwrap().searched, 3);
+        p.cities = vec!["kitchener".into()];
+        let r = s.search(&p, &q).unwrap();
+        assert_eq!(r.searched, 2);
+        assert_eq!((r.results[0].city.as_str(), r.results[0].date.as_str()), ("kitchener", "2025-03-01"));
+        // Committee keys sort after their date, so dates (not keys) decide the range.
+        p.to = "2025-03-01".into();
+        assert_eq!(s.search(&p, &q).unwrap().searched, 1);
     }
 
     #[test]

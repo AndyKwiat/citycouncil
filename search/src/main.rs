@@ -40,9 +40,12 @@ fn main() -> Result<()> {
             if let Ok(k) = std::env::var("KINDS") {
                 p.kinds = k.split(',').map(String::from).collect();
             }
+            if let Ok(c) = std::env::var("CITIES") {
+                p.cities = c.split(',').map(String::from).collect();
+            }
             let found = store.search(&p, &v)?;
             for r in &found.results {
-                println!("{:.4} {:.3} {:10} {} {} | {}", r.score, r.similarity, r.kind, r.meeting, r.title, r.url);
+                println!("{:.4} {:.3} {:10} {}/{} {} | {}", r.score, r.similarity, r.kind, r.city, r.meeting, r.title, r.url);
             }
             eprintln!("{} results in {:?}", found.results.len(), t.elapsed());
             Ok(())
