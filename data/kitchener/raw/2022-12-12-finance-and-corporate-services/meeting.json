@@ -22,9 +22,9 @@
   "parts": [
    {
     "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=3ce9d408-1ecf-401d-a378-c761764cb600",
-    "file": null,
-    "hls": null,
-    "captions": null
+    "file": "FCS_2022-12-12.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/kitchener/FCS_2022-12-12.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/kitchener/FCS_2022-12-12.mp4.vtt"
    }
   ]
  },

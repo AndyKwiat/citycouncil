@@ -11,3 +11,5 @@ state/
 data/*/raw/*/source/*.pdf
 data/*/raw/*/source/*.json3
 data/*/raw/*/source/captions/
+# Whisper works in a temporary folder inside the meeting folder
+data/*/raw/*/tmp*/

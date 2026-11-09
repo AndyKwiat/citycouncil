@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "id": "71a9a160-65e5-4c8c-b99c-5d26da87e1c5",
+ "city": "kitchener",
+ "key": "2026-11-06-special-council",
+ "type": "Special Council Meeting",
+ "body": "council",
+ "body_name": "Special Council",
+ "title": "Special Council Meeting",
+ "start": "2026-11-06T13:15:00",
+ "end": "2026-11-06T14:00:00",
+ "location": "Council Chambers - Hybrid",
+ "links": {
+  "official_minutes": null,
+  "minutes_pdf": null,
+  "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=71a9a160-65e5-4c8c-b99c-5d26da87e1c5&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=71a9a160-65e5-4c8c-b99c-5d26da87e1c5&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=71a9a160-65e5-4c8c-b99c-5d26da87e1c5"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=71a9a160-65e5-4c8c-b99c-5d26da87e1c5",
+    "file": "Compact Encoder_SC_2026-11-06-01-19.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/kitchener/Compact%20Encoder_SC_2026-11-06-01-19.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/kitchener/Compact%20Encoder_SC_2026-11-06-01-19.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": false,
+ "source_hashes": {}
+}

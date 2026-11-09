@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "id": "1cbd0f8d-59e7-4bfc-865e-a8de92534168",
+ "city": "region-of-waterloo",
+ "key": "2026-11-03-administration-and-finance",
+ "type": "Administration and Finance",
+ "body": "committee",
+ "body_name": "Administration and Finance",
+ "title": "Administration and Finance",
+ "start": "2026-11-03T09:45:00",
+ "end": "2026-11-03T10:45:00",
+ "location": "Council Chambers/Electronic",
+ "links": {
+  "official_minutes": null,
+  "minutes_pdf": null,
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=1cbd0f8d-59e7-4bfc-865e-a8de92534168&Agenda=Agenda&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=1cbd0f8d-59e7-4bfc-865e-a8de92534168&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=1cbd0f8d-59e7-4bfc-865e-a8de92534168"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=1cbd0f8d-59e7-4bfc-865e-a8de92534168",
+    "file": "iSi Live Encoder 619_AF_2026-11-03-09-12.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/waterloo/iSi%20Live%20Encoder%20619_AF_2026-11-03-09-12.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/waterloo/iSi%20Live%20Encoder%20619_AF_2026-11-03-09-12.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": false,
+ "source_hashes": {}
+}

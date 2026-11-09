@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "id": "8db45c35-d042-42f0-a734-cdeaaa0ab1e7",
+ "city": "region-of-waterloo",
+ "key": "2026-10-06-sustainability-infrastructure-and-development",
+ "type": "Sustainability, Infrastructure, and Development",
+ "body": "committee",
+ "body_name": "Sustainability, Infrastructure, and Development",
+ "title": "Sustainability, Infrastructure, and Development",
+ "start": "2026-10-06T09:00:00",
+ "end": "2026-10-06T10:00:00",
+ "location": "Council Chambers/Electronic",
+ "links": {
+  "official_minutes": null,
+  "minutes_pdf": null,
+  "agenda": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=8db45c35-d042-42f0-a734-cdeaaa0ab1e7&Agenda=Merged&lang=English",
+  "meeting_page": "https://pub-regionofwaterloo.escribemeetings.com/Meeting.aspx?Id=8db45c35-d042-42f0-a734-cdeaaa0ab1e7&Agenda=PostMinutes&lang=English",
+  "video": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=8db45c35-d042-42f0-a734-cdeaaa0ab1e7"
+ },
+ "video": {
+  "provider": "isilive",
+  "parts": [
+   {
+    "url": "https://pub-regionofwaterloo.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=8db45c35-d042-42f0-a734-cdeaaa0ab1e7",
+    "file": "iSi Live Encoder 619_SID_2026-10-06-08-48.mp4",
+    "hls": "https://sp2hls.isilive.ca/hls/file/waterloo/iSi%20Live%20Encoder%20619_SID_2026-10-06-08-48.mp4/index.m3u8",
+    "captions": "https://video.isilive.ca/waterloo/iSi%20Live%20Encoder%20619_SID_2026-10-06-08-48.mp4.vtt"
+   }
+  ]
+ },
+ "term": "2022-2026",
+ "minutes_posted": false,
+ "source_hashes": {}
+}
