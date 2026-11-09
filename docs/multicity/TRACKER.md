@@ -37,13 +37,13 @@ summarized and so on); this file tracks *build* progress.
 | eSCRIBE adapter extracted from `pipeline.py` | done | `sources/escribe.py` + `video/isilive.py`; shared steps in `core/` |
 | Terms: per-term councillors and analysis, term selector | done | `terms` in city.json; councillors.json per term; one councillors page per term with data, linked by chips (hidden while only one term has data). Guelph 2026–30 roster still empty |
 | Committees: keys, `body`, per-meeting roster, filters, summary wording | done | Keys `YYYY-MM-DD-<type>`; `body`/`body_name` in meeting.json; roster from each meeting's attendance; meeting-list chips (`#show=`) checked in the browser with a placeholder; council/committee councillors pages appear once a term has split votes in both (not yet seen with real data); committee prompt says 'recommended'; closed-only meetings skipped |
-| Guelph committee backfill | doing | Documents and minutes done for 125 meetings (0 vote problems). Summaries approved 2026-11-09: batches of 25 a day, newest first, with `pipeline.py process --city guelph --latest 25`; batch 1 running |
+| Guelph committee backfill | doing | Documents and minutes done for 125 meetings (0 vote problems). Batch 1: 22 summaries, 2 closed-only skipped, 2026-06-02 CoW failed the procedural-motion check (retry next batch). About 100 left: run `pipeline.py process --city guelph --latest 25` a day, then `search-index`, `search-deploy`, `build`, `deploy` |
 | Vote-label maps, attendance per adapter, council-size check | done | Labels in `city.json` plus defaults (Contra, In Favor, Opposed…); unknown labels are vote problems. Also fixed: Kitchener's "Carried, on a recorded vote (7 to 4)" had no count. Council size from term `seats` |
 | Theme pipeline (duotone, emblem, card, OG image) | done | `core/theme.py` (Pillow) from `cities/<slug>/theme/source.jpg`; images generated into `state/theme/` |
 | Disclaimer footer; check for "AI" in user-facing text | done | Footer on every page; tests check sources and built pages (transcripts quote speakers, so their text is exempt) |
 | Landing page `/` and `_redirects` | done | `build_root.py`: council cards, search box, all-councils `search.html`; `_redirects` from `redirect_from` (empty for Guelph, so the old `/ → /guelph/` is gone) |
 | Search: `city`/`date` columns, `cities=` parameter, Worker | done | Chunks carry `city`, `date`, `body`; SQLite gets `city`/`date` columns and an index; dates filter on `date`; results diversified by (council, meeting, kind); Worker passes `cities`. Re-index reused all 4,347 vectors; the 10 saved searches return identical results. Not deployed |
-| Golden diff shows only intended changes; deploy | blocked: deploy needs approval in this session | Golden diff clean before the meeting-list reorganization (that page now differs on purpose). Branch pushed. `search-deploy` was refused by this session's permission check: the go-ahead came through another session |
+| Golden diff shows only intended changes; deploy | done | Deployed 2026-11-09: front end at https://cityhallvotes.ca/ and search API (7,310 passages). Checked live: landing, /guelph/, councillors (All/Council/Committees), search with and without committees, phone width |
 
 ## Councils
 
@@ -95,6 +95,8 @@ summarized and so on); this file tracks *build* progress.
 ## Log
 
 Newest first. One line per notable event: what changed, what broke, what was decided.
+
+- 2026-11-09: Deployed front end and search API; first 22 Guelph committee/other summaries live. Councillors page now has All / Council only / Committees only (64 / 57 / 7 meetings).
 
 - 2026-11-09: User approved committee summaries, deploy and push (relayed by the planning session). Branch pushed; summaries started (25/day); deploy refused by this session's permission check, so it waits for the user.
 - 2026-11-09: Meeting list grouped into council cycles; search can leave out committees.
