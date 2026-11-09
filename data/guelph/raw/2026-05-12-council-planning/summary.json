@@ -1,0 +1,50 @@
+{
+ "title": "Council pauses five-plus unit corner lot work",
+ "subtitle": "Also: Watson Parkway development approved, Guelph Innovation District deferral, heritage designations and a new housing grant.",
+ "overview": [
+  "Council rejected staff's recommendation to keep studying homes with five or more units on certain corner lots {{vote:m11}}. It then directed staff to take no further action for now and to watch uptake of four-unit homes through the annual growth report {{vote:m12}}. Leftover Housing Accelerator Fund money for the project will go to other funded projects. The wording leaves the idea open for a future council.",
+  "Council approved a Multi-Unit Accelerator Grant {{vote:m15}}. It is meant to bring forward building permits for projects of five or more units, to help the city meet its federal housing targets. Council also approved zoning and a draft plan of subdivision for 115 Watson Parkway North, which allows mixed-use buildings and townhouses, through the consent agenda {{vote:m8}}.",
+  "At the applicant's request, council deferred the Guelph Innovation District decision to September 9, 2026. The first deferral motion had the wrong wording, so council reconsidered it and passed corrected wording {{vote:m14}}. The consent agenda also started heritage designation notices and approved a demolition. After a closed session, the mayor said council gave direction to staff on a legal claim and on 170 Stephenie Drive. No details were released."
+ ],
+ "decisions": [
+  {
+   "motion": "m12",
+   "item": "Five-plus units on corner lots",
+   "detail": "Council directed staff to take no further action on five-plus units on low density lots at this time, to monitor four-unit uptake through the annual growth report, and to redirect the remaining project budget to other Housing Accelerator Fund projects."
+  },
+  {
+   "motion": "m11",
+   "item": "Staff recommendation on five-plus units",
+   "detail": "Council defeated the motion to continue studying five or more units on suitable corner lots and report back in 2027 {{vote:m11}}."
+  },
+  {
+   "motion": "m15",
+   "item": "Multi-Unit Accelerator Grant",
+   "detail": "Council approved a grant under section 107 of the Municipal Act to encourage earlier building permits for multi-unit residential projects."
+  },
+  {
+   "motion": "m14",
+   "item": "Guelph Innovation District deferral",
+   "detail": "Council deferred its decision on the Official Plan and zoning applications for 328 Victoria Road South and 588 Stone Road East until September 9, 2026, if the applicant provides updated material by June 15, 2026."
+  },
+  {
+   "motion": "m8",
+   "item": "115 Watson Parkway North",
+   "detail": "Council approved the zoning amendment and a three-year draft plan of subdivision for mixed-use buildings, townhouses and a neighbourhood park."
+  },
+  {
+   "motion": "m7",
+   "item": "221 Arthur Street North",
+   "detail": "Council found the property does not meet the criteria for heritage designation, approved its demolition and removed it from the heritage register."
+  }
+ ],
+ "debate": [
+  "A delegate from a poverty elimination group supported continuing the work. The delegate said it would affect a small share of lots, add housing variety and give builders predictable rules. The delegate also said zoning change alone will not deliver deeply affordable housing.",
+  "Councillors opposed to continuing said the three- and four-unit changes are too new to show evidence of their effects. They raised neighbourhood impacts, traffic, and water and wastewater capacity. Some said the new units mostly go to investors and student rentals that are not affordable.",
+  "Some councillors said staff time and Housing Accelerator Fund money might do more for housing supply elsewhere. Others said that without allowing the units, no data on them can be gathered. One councillor feared a pause would effectively end the work.",
+  "Staff said no traffic studies had been done yet and that this report fulfils the funding commitment. Staff also said an applicant could still seek a rezoning for a corner lot and rely on the report.",
+  "On the grant, staff said it has no affordability conditions and is meant to speed up permits. They cited risk to the fourth federal funding installment if the city misses its unit targets. No councillor spoke against it."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T16:49:55"
+}

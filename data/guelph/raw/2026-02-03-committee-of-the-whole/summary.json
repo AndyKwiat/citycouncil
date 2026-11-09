@@ -1,0 +1,50 @@
+{
+ "title": "Council salaries held at current rate",
+ "subtitle": "Also: winter maintenance review, water and wastewater allocation policy, citywide parking strategy, internal audit plan, staff recognitions.",
+ "overview": [
+  "The committee recommended keeping the salaries of the Mayor and city councillors at the current rate for the 2026-2030 term, with yearly increases matching the non-union municipal employee economic increase {{vote:m6}}. It first rejected the staff-proposed increases for the Mayor {{vote:m4}} and for councillors {{vote:m5}}. It also recommended a ward boundary and council composition review before the 2030 election, including pay and benefits, subject to funding in the 2028 budget {{vote:m7}}.",
+  "The committee recommended a Water and Wastewater Servicing Allocation Policy and bylaw. They let the city track capacity and reclaim it from long-stalled approvals for projects ready to build {{vote:m8}}. It also recommended terms of reference for a citywide parking strategy, which will not itself decide on paid on-street parking {{vote:m9}}. It recommended the 2026-2028 internal audit work plan and asked staff to report on winter maintenance service levels {{vote:m1}} {{vote:m2}}.",
+  "These are committee recommendations, so Council must still confirm them. The meeting also recognized staff achievements, including a team that responded to a cardiac arrest at an arena, and heard the CAO's 2026 objectives."
+ ],
+ "decisions": [
+  {
+   "motion": "m6",
+   "item": "Council remuneration",
+   "detail": "The committee recommended holding Mayor and councillor salaries at the current rate for 2026-2030, with annual increases equal to the non-union municipal employee economic increase {{vote:m6}}."
+  },
+  {
+   "motion": "m7",
+   "item": "Ward boundary and composition review",
+   "detail": "The committee recommended directing the City Clerk to review ward boundaries, council composition and elected officials' pay and benefits before the 2030 election, subject to 2028 budget funding."
+  },
+  {
+   "motion": "m8",
+   "item": "Water and wastewater servicing allocation",
+   "detail": "The committee recommended approving the allocation policy and bylaw and delegating its administration to the Deputy CAO of Infrastructure Development and Environment."
+  },
+  {
+   "motion": "m9",
+   "item": "Citywide parking strategy",
+   "detail": "The committee recommended approving the scope of work for the citywide parking strategy terms of reference."
+  },
+  {
+   "motion": "m2",
+   "item": "Winter maintenance review",
+   "detail": "The committee recommended directing Operations Services staff to report back on winter control and maintenance service levels, including possible added services, costs, resourcing and community engagement."
+  },
+  {
+   "motion": "m1",
+   "item": "Internal audit work plan",
+   "detail": "The committee recommended approving the Internal Audit Work Plan 2026-2028."
+  }
+ ],
+ "debate": [
+  "Supporters of an increase said the role has grown more complex and time-consuming. One councillor argued that low pay limits who can serve, especially people with family responsibilities or disabilities. Another said the Mayor's role in particular has become more demanding.",
+  "Opponents of an increase pointed to the economy and to comparisons with similar single-tier municipalities, saying current pay is already in line. A delegate raised concerns about rising taxes, food bank use and the cumulative increase over two terms, and said council should lead by example. Another councillor said the role should be seen as service.",
+  "Several councillors said the process was a problem: some wanted an independent citizens committee to set pay, and others did not want councillors to appear to set their own raises. Staff said the current policy and its comparator list set the recommendation.",
+  "On water allocation, one councillor asked why the vote should not wait for the growth management report. Staff said the capacity information is the same. Councillors also asked whether phased projects and hospitals or schools could keep capacity. Staff said extensions are available and the delegated authority is meant to keep approvals moving.",
+  "On parking, a delegate said paid parking during downtown construction could hurt nearby businesses. Councillors asked staff to cover winter on-street parking, shared use of private lots, and reinvesting any revenue locally. Staff said no decision on paid parking is being made now and future policy would return to council."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T17:26:09"
+}
