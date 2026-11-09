@@ -300,7 +300,7 @@ PROSE_VOTE = re.compile(
     r"(?P<outcome>Carried|Lost|LOST|Defeated|DEFEATED|CARRIED)\b[^;]{0,60}?on a (?:tied )?recorded vote\s*,?\s*with\s+"
     rf"(?P<a>{NAMES})\s+voting in (?P<side_a>favou?r|opposition)"
     rf"(?:[;,]?\s*(?:and,?\s*)?(?P<b>{NAMES})\s+voting in (?P<side_b>favou?r|opposition)"
-    rf"|;\s*and,?\s*(?P<c>(?:[A-Za-z'’ ,-]|(?<=\b[A-Z])\.)+?)(?<!\b[A-Z])(?=\.))?")
+    rf"|;\s*and,?\s*(?P<c>(?:(?!declined|vote|voting|abstain)[A-Za-z'’ ,-]|(?<=\b[A-Z])\.)+?)(?<!\b[A-Z])(?=\.))?")
 # "Councillor D. Chapman declined to vote and … the refusal is recorded as a vote in opposition" (procedure by-law)
 DECLINED = re.compile(r"((?:Mayor|Councill?or)\s+(?:[A-Z]\.\s*)?[A-Z][A-Za-z'’-]+)\s+declined to vote.{0,250}?vote in opposition")  # the minutes sometimes drop the second "voting in …"
 
