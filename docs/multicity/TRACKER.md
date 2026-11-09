@@ -37,13 +37,13 @@ summarized and so on); this file tracks *build* progress.
 | eSCRIBE adapter extracted from `pipeline.py` | done | `sources/escribe.py` + `video/isilive.py`; shared steps in `core/` |
 | Terms: per-term councillors and analysis, term selector | done | `terms` in city.json; councillors.json per term; one councillors page per term with data, linked by chips (hidden while only one term has data). Guelph 2026–30 roster still empty |
 | Committees: keys, `body`, per-meeting roster, filters, summary wording | done | Keys `YYYY-MM-DD-<type>`; `body`/`body_name` in meeting.json; roster from each meeting's attendance; meeting-list chips (`#show=`) checked in the browser with a placeholder; council/committee councillors pages appear once a term has split votes in both (not yet seen with real data); committee prompt says 'recommended'; closed-only meetings skipped |
-| Guelph committee backfill | doing | Documents and minutes done for 125 meetings (0 vote problems). Transcripts and summaries (`claude -p`, about 125 calls) wait for the go-ahead |
+| Guelph committee backfill | doing | Documents and minutes done for 125 meetings (0 vote problems). Summaries approved 2026-11-09: batches of 25 a day, newest first, with `pipeline.py process --city guelph --latest 25`; batch 1 running |
 | Vote-label maps, attendance per adapter, council-size check | done | Labels in `city.json` plus defaults (Contra, In Favor, Opposed…); unknown labels are vote problems. Also fixed: Kitchener's "Carried, on a recorded vote (7 to 4)" had no count. Council size from term `seats` |
 | Theme pipeline (duotone, emblem, card, OG image) | done | `core/theme.py` (Pillow) from `cities/<slug>/theme/source.jpg`; images generated into `state/theme/` |
 | Disclaimer footer; check for "AI" in user-facing text | done | Footer on every page; tests check sources and built pages (transcripts quote speakers, so their text is exempt) |
 | Landing page `/` and `_redirects` | done | `build_root.py`: council cards, search box, all-councils `search.html`; `_redirects` from `redirect_from` (empty for Guelph, so the old `/ → /guelph/` is gone) |
 | Search: `city`/`date` columns, `cities=` parameter, Worker | done | Chunks carry `city`, `date`, `body`; SQLite gets `city`/`date` columns and an index; dates filter on `date`; results diversified by (council, meeting, kind); Worker passes `cities`. Re-index reused all 4,347 vectors; the 10 saved searches return identical results. Not deployed |
-| Golden diff shows only intended changes; deploy | doing | `tools/golden_diff.py`: 99 of 101 pages identical apart from style, theme, footer and scripts; the other 2 differ only by dropping 'AI' from footers; 4 theme images added. Not deployed: needs approval |
+| Golden diff shows only intended changes; deploy | blocked: deploy needs approval in this session | Golden diff clean before the meeting-list reorganization (that page now differs on purpose). Branch pushed. `search-deploy` was refused by this session's permission check: the go-ahead came through another session |
 
 ## Councils
 
@@ -65,13 +65,20 @@ summarized and so on); this file tracks *build* progress.
 | In search and on the landing page | todo | todo | todo | todo |
 | Included in nightly update | todo | todo | todo | todo |
 
+## Phase 1 extras (asked for 2026-11-09)
+
+| Task | Status | Notes |
+|---|---|---|
+| Committees can be left out of search | done | `bodies=council\|committee` in the API and Worker cache key; 'Include committee meetings' box on search pages |
+| Calmer meeting list | done | Each City Council meeting is a cycle; the committee, planning, budget and special meetings since the previous one fold underneath it in lighter cards; chips show one kind as a flat list. Checked at desktop and phone width |
+
 ## Phase 5: Search across councils
 
 | Task | Status |
 |---|---|
 | All-councils search page with checkboxes | todo |
 | "All councils" toggle on council search | todo |
-| Landing page search box | todo |
+| Landing page search box | done (Phase 1) |
 | Ranking check with saved queries per council | todo |
 
 ## Phase 6: Automation
@@ -88,6 +95,9 @@ summarized and so on); this file tracks *build* progress.
 ## Log
 
 Newest first. One line per notable event: what changed, what broke, what was decided.
+
+- 2026-11-09: User approved committee summaries, deploy and push (relayed by the planning session). Branch pushed; summaries started (25/day); deploy refused by this session's permission check, so it waits for the user.
+- 2026-11-09: Meeting list grouped into council cycles; search can leave out committees.
 
 - 2026-11-09: Phase 1 search: city/date/body on every chunk; all 4,347 vectors reused; 10 saved searches identical.
 - 2026-11-09: Phase 1 restructure landed; golden diff shows only the emblem, footer wording and theme images.
