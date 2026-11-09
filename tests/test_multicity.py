@@ -120,7 +120,7 @@ class GuelphData(unittest.TestCase):
 
 
 class SiteText(unittest.TestCase):
-    """The site describes itself as automated and never uses the word "AI" (people quoted in transcripts aside)."""
+    """The site describes itself as automated and never uses the word "AI" about itself (meeting content aside)."""
 
     def test_sources_never_say_ai(self):
         for name in ("build.py", "build_root.py", "search_page.py", "alliance_network.py", "alliance_network.js"):
@@ -139,8 +139,10 @@ class SiteText(unittest.TestCase):
         if not (site / "index.html").exists():
             self.skipTest("site not built")
         for page in site.rglob("*.html"):
-            text = re.sub(r'<div class="tr">.*?</div></div></div>', "", page.read_text(), flags=re.S)  # transcripts quote people
-            text = re.sub(r'<div class="tr">.*', "", text, flags=re.S)
+            # Meeting content (summaries, minutes, transcripts, vote titles) may quote people talking about AI.
+            text = re.sub(r'<details class="meeting.*?</details>', "", page.read_text(), flags=re.S)
+            text = re.sub(r'<div class="(tr|mins)">.*', "", text, flags=re.S)
+            text = re.sub(r'<div class="cn-vote">.*?</div>', "", text, flags=re.S)
             self.assertIsNone(re.search(r"\bAI\b", text), page)
             self.assertIn('class="site"', page.read_text(), page)
 
