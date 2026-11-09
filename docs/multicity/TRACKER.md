@@ -35,21 +35,21 @@ summarized and so on); this file tracks *build* progress.
 | Repo restructure (`cities/`, `data/`, `core/`, `sources/`, `video/`) | done | `git mv` of raw, votes, councillors, portraits; `pipeline.py` is the CLI and re-exports helpers for tests and the panel |
 | `meeting.json` v2 plus Guelph migration | done | `tools/migrate_v2.py`; eSCRIBE record kept in `source/meeting_source.json`; `video_file.txt` folded into `video.parts`. Re-parse of all 42 meetings identical to before |
 | eSCRIBE adapter extracted from `pipeline.py` | done | `sources/escribe.py` + `video/isilive.py`; shared steps in `core/` |
-| Terms: per-term councillors and analysis, term selector | todo | |
-| Committees: keys, `body`, per-meeting roster, filters, summary wording | todo | |
-| Guelph committee backfill | todo | |
+| Terms: per-term councillors and analysis, term selector | done | `terms` in city.json; councillors.json per term; one councillors page per term with data, linked by chips (hidden while only one term has data). Guelph 2026–30 roster still empty |
+| Committees: keys, `body`, per-meeting roster, filters, summary wording | done | Keys `YYYY-MM-DD-<type>`; `body`/`body_name` in meeting.json; roster from each meeting's attendance; meeting-list chips (`#show=`) checked in the browser with a placeholder; council/committee councillors pages appear once a term has split votes in both (not yet seen with real data); committee prompt says 'recommended'; closed-only meetings skipped |
+| Guelph committee backfill | doing | Documents and minutes done for 125 meetings (0 vote problems). Transcripts and summaries (`claude -p`, about 125 calls) wait for the go-ahead |
 | Vote-label maps, attendance per adapter, council-size check | done | Labels in `city.json` plus defaults (Contra, In Favor, Opposed…); unknown labels are vote problems. Also fixed: Kitchener's "Carried, on a recorded vote (7 to 4)" had no count. Council size from term `seats` |
 | Theme pipeline (duotone, emblem, card, OG image) | done | `core/theme.py` (Pillow) from `cities/<slug>/theme/source.jpg`; images generated into `state/theme/` |
 | Disclaimer footer; check for "AI" in user-facing text | done | Footer on every page; tests check sources and built pages (transcripts quote speakers, so their text is exempt) |
-| Landing page `/` and `_redirects` | todo | |
+| Landing page `/` and `_redirects` | done | `build_root.py`: council cards, search box, all-councils `search.html`; `_redirects` from `redirect_from` (empty for Guelph, so the old `/ → /guelph/` is gone) |
 | Search: `city`/`date` columns, `cities=` parameter, Worker | done | Chunks carry `city`, `date`, `body`; SQLite gets `city`/`date` columns and an index; dates filter on `date`; results diversified by (council, meeting, kind); Worker passes `cities`. Re-index reused all 4,347 vectors; the 10 saved searches return identical results. Not deployed |
-| Golden diff shows only intended changes; deploy | todo | |
+| Golden diff shows only intended changes; deploy | doing | `tools/golden_diff.py`: 99 of 101 pages identical apart from style, theme, footer and scripts; the other 2 differ only by dropping 'AI' from footers; 4 theme images added. Not deployed: needs approval |
 
 ## Councils
 
 | Stage | Kitchener | Region of Waterloo | Waterloo | Centre Wellington |
 |---|---|---|---|---|
-| Sources documented (`SOURCES.md`) | partial | partial | partial | partial |
+| Sources documented (`SOURCES.md`) | done | done | done | done |
 | `city.json` and theme photo | todo | todo | todo | todo |
 | Adapter: meeting list | todo (eSCRIBE) | todo (eSCRIBE) | todo (GovStack) | todo (CivicWeb) |
 | Adapter: documents | todo | todo | todo | todo |

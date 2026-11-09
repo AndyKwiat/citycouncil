@@ -13,6 +13,25 @@ bare HTTP clients; a normal browser User-Agent works.
 - ✅ ISI video, client `guelph`; captions at `https://video.isilive.ca/guelph/<file>.vtt`; HLS at
   `https://sp2hls.isilive.ca/hls/file/guelph/<file>/index.m3u8`. Agenda item to video times come from the `Bookmarks`
   in the minutes page.
+- ✅ In scope (Phase 0, from the cached calendar, 2022-11-15 → 2026-11-09), with minutes and split recorded votes:
+
+  | Type | Body | Meetings with minutes | Split recorded votes |
+  |---|---|---|---|
+  | City Council | council | 42 | 73 |
+  | Council Planning | council | 42 | 65 |
+  | Special Council Meeting | council | 28 | 19 |
+  | Special Council Meeting - Budget | council | 12 | 38 |
+  | Committee of the Whole | committee | 40 | 41 |
+
+  All 167 parse with no vote problems. Out of scope: advisory committees, Committee of Adjustment, Information
+  Items, workshops, the inaugural meeting and "City Council as Shareholder" meetings.
+- ✅ One set of minutes (2024-07-16 special) spells "Councilor"; the parser accepts both.
+- 2026–30 council (election 2026-10-26), ❓ **unofficial and incomplete**: Mayor **Leanne Caron** (Ward 5
+  councillor 2022–26), about 54% of the vote over Ken Yee Chew. A local outlet headlines "7 new councillors". Reported
+  ward winners so far: Rodrigo Goller (Ward 2, returning), Brendan Clark (Ward 4, over Linda Busuttil), Rebecca Adam
+  (Ward 6). Sources: [Guelph Politico](https://guelphpolitico.ca/2026/10/27/election-results-carons-the-new-mayor-with-7-new-councillors/),
+  [CTV Kitchener](https://www.ctvnews.ca/kitchener/article/election-results-heres-who-voters-picked-for-mayor-and-council/).
+  Fill `cities/guelph/councillors.json` from the City's certified results before the first 2026–30 meeting.
 
 ---
 
