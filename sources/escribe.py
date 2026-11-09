@@ -3,7 +3,7 @@
 The four adapter functions (PLAN 4.2) are list_meetings, fetch_documents, parse_minutes and video_for. Everything
 after them (transcripts, summaries, votes, the site, search) works on the shared files and never on eSCRIBE fields.
 """
-import datetime as dt, hashlib, json, re, urllib.error, urllib.parse
+import datetime as dt, hashlib, html, json, re, urllib.error, urllib.parse
 from core.common import get, log, read_json, request, write_json
 from video import isilive
 
@@ -26,13 +26,29 @@ def base(city):
 
 # ---------------------------------------------------------------- meeting list
 
-def refresh_calendar(city, start=None, end=None):
-    start = start or city.get("start_date")
-    end = end or (dt.date.today() + dt.timedelta(days=60)).isoformat()
+def calendar_range(city, start, end):
     body = json.dumps({"calendarStartDate": start, "calendarEndDate": end}).encode()
     with request(f"{base(city)}/MeetingsCalendarView.aspx/GetCalendarMeetings", data=body,
                  headers={"Content-Type": "application/json"}) as r:
-        fetched = json.load(r)["d"]
+        return json.load(r)["d"]
+
+
+def months(start, end):
+    d = dt.date.fromisoformat(start).replace(day=1)
+    last = dt.date.fromisoformat(end)
+    while d <= last:
+        nxt = (d + dt.timedelta(days=32)).replace(day=1)
+        yield d.isoformat(), min(nxt - dt.timedelta(days=1), last).isoformat()
+        d = nxt
+
+
+def refresh_calendar(city, start=None, end=None):
+    start = start or city.get("start_date")
+    end = end or (dt.date.today() + dt.timedelta(days=60)).isoformat()
+    if cfg(city).get("calendar_by_month"):  # some eSCRIBE sites answer only a month at a time
+        fetched = [m for a, b in months(start, end) for m in calendar_range(city, a, b)]
+    else:
+        fetched = calendar_range(city, start, end)
     known = {m["ID"]: m for m in (read_json(city.calendar) or {"d": []})["d"]}
     before = {m["ID"] for m in known.values() if city.meeting_type(m["MeetingName"])}
     known.update({m["ID"]: m for m in fetched})
@@ -144,6 +160,7 @@ def video_for(city, m, force=False):
 # ---------------------------------------------------------------- minutes
 
 def surname(name):
+    name = re.sub(r"\((?:virtually|electronically|remote|in person)\)", "", name, flags=re.I)  # Kitchener's "(virtually)"
     name = re.sub(r"\s+", " ", name).strip()
     name = re.sub(r"^(and\s+)", "", name).strip()
     mayor = name.startswith("Mayor")
@@ -157,10 +174,11 @@ def split_names(text):
 
 def parse_result(text):
     text = " ".join(text.split())
-    # "Carried (8 to 5)", "(7 to 6)", or Kitchener's "Carried, on a recorded vote (7 to 4)".
-    found = re.match(r"(?:(\w+)(?:,? on a recorded vote)?\s*)?\((\d+) to (\d+)\)", text)
+    # "Carried (8 to 5)", "(7 to 6)", and Kitchener's "Carried, as amended, on a recorded vote (7 to 4)" or "LOST (3 to 7)".
+    found = re.match(r"(?:(\w+)(?:,[^()]*?|\s+(?:as amended|unanimously|on a recorded vote)[^()]*?)?\s*)?\((\d+) to (\d+)\)", text)
     if found:
         word, a, b = found.groups()
+        word = word.capitalize() if word and word.isupper() else word
         # The minutes occasionally give only a count. A majority in favour carries; anything else fails.
         inferred = not word
         word = word or ("Carried" if int(a) > int(b) else "Defeated")
@@ -214,6 +232,9 @@ def parse_attendance(soup, markers=None):
     block = text[start:end]
     cut = min((block.find(a) for a in markers["absent"] if block.find(a) >= 0), default=-1)
     present_part, absent_part = (block[:cut], block[cut:]) if cut >= 0 else (block, "")
+    if markers.get("names") == "initials":  # the Region: "K. Redman, B. Vrbanovic, … and S. Shantz", no titles
+        found_names = lambda t: [surname(n) for n in re.findall(r"\b[A-Z]\.(?:\s*[A-Z]\.)*\s*[A-Z][A-Za-z'’-]+(?:-[A-Z][A-Za-z'’-]+)?", t)]
+        return found_names(present_part) + found_names(absent_part), found_names(absent_part)
     who = r"(Mayor|Councill?or)\s+(?:[A-Z]\.\s*)?([A-Z][A-Za-z'’-]+)"  # the minutes sometimes spell it "Councilor"
     fmt = lambda t: [f"Mayor {n}" if r == "Mayor" else n for r, n in re.findall(who, t)]
     present, absent = fmt(present_part), fmt(absent_part)
@@ -265,6 +286,22 @@ def audit_votes(raw, soup, motions, roster, pattern=r"Voting in Favour"):
     return problems
 
 
+PROSE_VOTE = re.compile(
+    r"(?P<outcome>Carried|Lost|LOST|Defeated|DEFEATED|CARRIED)\b[^;]{0,60}?on a recorded vote,?\s*with\s+(?P<yes>.+?)\s+voting in favou?r"
+    r"(?:[;,]?\s*(?:and,?\s*)?(?P<no>[^;]+?)\s+voting in opposition)?(?=[.;]|\s*$)")
+
+
+def prose_votes(text):
+    """Votes the minutes narrate instead of tabulating (Kitchener): "…was LOST on a recorded vote, with Councillors
+    D. Chapman and J. Deneault voting in favour; and, Mayor B. Vrbanovic and Councillors … voting in opposition."""
+    out = []
+    for m in PROSE_VOTE.finditer(text):
+        lead = text[:m.start()].rsplit(". ", 1)[-1] if ". " in text[:m.start()] else text[:m.start()]
+        out.append({"outcome": m.group("outcome").capitalize(), "for": split_names(m.group("yes")),
+                    "against": split_names(m.group("no")) if m.group("no") else [], "sentence": (lead + m.group(0)).strip()})
+    return out
+
+
 def parse_minutes(city, d):
     """Read d/minutes.html and write d/minutes.json. Returns the parsed minutes, or None when there are none yet."""
     from bs4 import BeautifulSoup
@@ -279,7 +316,11 @@ def parse_minutes(city, d):
         for b in json.loads(found.group(1)):
             bookmarks.setdefault(str(b["AgendaItemId"]), []).append((b["TimeStart"] / 1000, b["TimeEnd"] / 1000))
     soup = BeautifulSoup(raw, "html.parser")
+    meeting = read_json(d / "meeting.json") or {}
+    term = meeting.get("term")
+    canon = lambda names: [city.canonical(n, term) for n in names]
     roster, absent = parse_attendance(soup, cfg(city).get("attendance"))
+    roster, absent = canon(roster), canon(absent)
     items, motions, tally_problems, other_labels = [], [], [], {}
     for it in soup.select(".AgendaItem"):
         cls = [c for c in it.get("class", []) if re.fullmatch(r"AgendaItem\d+", c)]
@@ -298,15 +339,19 @@ def parse_minutes(city, d):
         for li in it.select(".AgendaItemMotion"):
             mid = f"m{len(motions) + 1}"
             votes = {"for": [], "against": [], "other": []}
+            ballot = False
             for row in li.select(".MotionVoters tr"):
                 label, names = text_of(row.select_one(".VoterVote")), row.select_one(".VotesUsers")
                 if not label or not names:
+                    continue
+                if re.search(r"\d+(?:\.\d+)?\s*%", label):  # an appointment ballot: candidates, not for and against
+                    ballot = True
                     continue
                 side = vote_side(label, city)
                 if side is None:
                     tally_problems.append(f"{mid}: unknown vote label '{label}' (add it to vote_labels in city.json)")
                 bucket = side or "other"
-                people = split_names(text_of(names))
+                people = canon(split_names(text_of(names)))
                 votes[bucket] += people
                 stated = re.search(r"\((\d+)\)", label)
                 if stated and int(stated.group(1)) != len(people):
@@ -315,15 +360,32 @@ def parse_minutes(city, d):
                     other_labels[mid] = label.lower()
             motion = {"id": mid, "item": item_id, "item_number": counter, "item_title": title,
                       "name": text_of(li.select_one(".Number .Value")),
-                      "moved_by": surname(text_of(li.select_one(".MovedBy .Value"))) if li.select_one(".MovedBy .Value") else "",
-                      "seconded_by": surname(text_of(li.select_one(".SecondedBy .Value"))) if li.select_one(".SecondedBy .Value") else "",
+                      "moved_by": city.canonical(surname(text_of(li.select_one(".MovedBy .Value"))), term) if li.select_one(".MovedBy .Value") else "",
+                      "seconded_by": city.canonical(surname(text_of(li.select_one(".SecondedBy .Value"))), term) if li.select_one(".SecondedBy .Value") else "",
                       "text": text_of(li.select_one(".MotionText")),
                       "text_html": clean_rich(li.select_one(".MotionText"), root) if li.select_one(".MotionText") else "",
                       "post_html": clean_rich(li.select_one(".PostMotionText"), root) if text_of(li.select_one(".PostMotionText")) else "",
                       "result": parse_result(text_of(li.select_one(".MotionResult"))),
                       "votes": votes, "inherited": False}
+            if ballot:
+                motion["ballot"] = True
             motions.append(motion)
             item["motions"].append(mid)
+        if cfg(city).get("prose_votes"):
+            for n in item["notes"]:
+                for v in prose_votes(" ".join(re.sub(r"<[^>]+>", " ", html.unescape(n)).split())):
+                    mid = f"m{len(motions) + 1}"
+                    yes, no = canon(v["for"]), canon(v["against"])
+                    word = v["outcome"] if v["outcome"] != "Defeated" else "Defeated"
+                    result = {"text": f"{word} on a recorded vote ({len(yes)} to {len(no)})",
+                              "label": f"{len(yes)}-{len(no)}" if word == "Carried" else f"{word} {len(yes)}-{len(no)}",
+                              "for": len(yes), "against": len(no), "outcome": word, "inferred": False}
+                    motions.append({"id": mid, "item": item_id, "item_number": counter, "item_title": title,
+                                    "name": "Recorded vote described in the minutes", "moved_by": "", "seconded_by": "",
+                                    "text": v["sentence"], "text_html": f"<p>{html.escape(v['sentence'])}</p>", "post_html": "",
+                                    "result": result, "votes": {"for": yes, "against": no, "other": []}, "inherited": False,
+                                    "prose": True})
+                    item["motions"].append(mid)
         items.append(item)
     # A consent report's items (7, 7.1, 7.2...) pass together: the city records the result on only one of them.
     for parent in items:
@@ -352,10 +414,23 @@ def parse_minutes(city, d):
         x["recording"] = "recorded" if v["for"] or v["against"] or v["other"] else "unrecorded"
     if not roster:
         roster = sorted({n for x in motions for n in x["votes"]["for"] + x["votes"]["against"]})
-    problems = tally_problems + audit_votes(raw, soup, motions, roster, cfg(city).get("audit_for_pattern", r"Voting in Favour"))
+    table_motions = [x for x in motions if not x.get("prose")]
+    problems = tally_problems + audit_votes(raw, soup, table_motions, roster, cfg(city).get("audit_for_pattern", r"Voting in Favour"))
+    prose = [x for x in motions if x.get("prose")]
+    problems += [p for x in prose for p in audit_votes("", BeautifulSoup("", "html.parser"), [x], roster, r"(?!)") if "lists but" not in p]
+    if cfg(city).get("prose_votes"):
+        said = len(re.findall(r"voting in favou?r", text_of(soup), re.I))
+        if said != len(prose):
+            problems.append(f"page has {said} 'voting in favour' phrases but {len(prose)} prose votes were parsed")
+    # Before a council started naming voters, a split shown only as a count is how the minutes were kept, not a gap.
+    notes = []
+    named_from = city.get("names_recorded_from")
+    if named_from and meeting.get("start", "9999") < named_from:
+        notes = [p for p in problems if "but no names" in p]
+        problems = [p for p in problems if "but no names" not in p]
     minutes = {"title": text_of(soup.select_one("title")), "source_format": "escribe-html", "roster": roster, "absent": absent,
                "items": items, "motions": motions, "conflicts": parse_conflicts(soup), "attendance_events": [],
-               "other_vote_labels": other_labels, "vote_problems": problems}
+               "other_vote_labels": other_labels, "vote_problems": problems, "vote_notes": notes}
     write_json(d / "minutes.json", minutes)
     for problem in problems:
         log(f"  VOTE PROBLEM: {problem}")

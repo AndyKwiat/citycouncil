@@ -34,6 +34,28 @@ def clean_segments(segs):
     return out
 
 
+TITLE = r"(?:Councill?ors?|Counsell?ors?|Counci?lor|Mayor|Chair|Regional Chair)"
+
+
+def fix_names(segs, roster):
+    """Whisper mishears members' names ("Chaplin" for Chapman). Its name prompt only covers the first 30 seconds, so
+    names right after a title are matched to the meeting's roster instead, when they are close."""
+    import difflib
+    names = sorted({n.replace("Mayor ", "") for n in roster})
+    if not names:
+        return segs
+
+    def swap(m):
+        word = m.group(2)
+        if word in names:
+            return m.group(0)
+        close = difflib.get_close_matches(word, names, n=1, cutoff=0.6)
+        return f"{m.group(1)} {close[0]}" if close else m.group(0)
+    for s in segs:
+        s["text"] = re.sub(rf"\b({TITLE})\s+([A-Z][A-Za-z'’-]+)", swap, s["text"])
+    return segs
+
+
 def whisper_range(city, d, hls, roster, start=None, length=None):
     """Transcribe all or part of a recording's audio; returns segments with recording-relative times."""
     import imageio_ffmpeg, mlx_whisper, numpy as np
@@ -55,9 +77,9 @@ def whisper_range(city, d, hls, roster, start=None, length=None):
                                condition_on_previous_text=False, verbose=None)
     log(f"    Whisper finished in {time.time() - t0:.0f}s")
     offset = start or 0
-    return clean_segments([{"start": round(s["start"] + offset, 1), "end": round(s["end"] + offset, 1),
+    return fix_names(clean_segments([{"start": round(s["start"] + offset, 1), "end": round(s["end"] + offset, 1),
                             "text": s["text"].strip(), "no_speech": round(s["no_speech_prob"], 3),
-                            "logprob": round(s["avg_logprob"], 3), "source": "whisper"} for s in r["segments"]])
+                            "logprob": round(s["avg_logprob"], 3), "source": "whisper"} for s in r["segments"]]), roster)
 
 
 def find_gaps(segs, lo, hi):

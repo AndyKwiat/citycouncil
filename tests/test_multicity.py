@@ -156,6 +156,32 @@ class SiteText(unittest.TestCase):
         self.assertTrue(chips.index("City Council") < chips.index("Committee of the Whole"))  # main meetings first
 
 
+class Whisper(unittest.TestCase):
+    def test_names_after_titles_are_matched_to_the_roster(self):
+        from core.transcribe import fix_names
+        segs = [{"text": "Thank you Councillor Chaplin. Councilor Onitis, then Mayor Verbanovic and Councillor Smith."}]
+        out = fix_names(segs, ["Mayor Vrbanovic", "Chapman", "Ioannidis", "Davey"])[0]["text"]
+        self.assertEqual(out, "Thank you Councillor Chapman. Councilor Onitis, then Mayor Vrbanovic and Councillor Smith.")  # too far to guess safely
+
+
+class ProseVotes(unittest.TestCase):
+    def test_kitchener_narrated_votes(self):
+        text = ("Councillor S. Davey's amendment was then voted on and was LOST on a tie , on a recorded vote with Councillors "
+                "S. Davey, B. Ioannidis, C. Michaud and D. Schinder voting in favour, and Mayor B. Vrbanovic and Councillors "
+                "D. Chapman, J. Deneault and M. Johnston voting in opposition.")
+        v = escribe.prose_votes(text)[0]
+        self.assertEqual((v["outcome"], v["for"], v["against"]),
+                         ("Lost", ["Davey", "Ioannidis", "Michaud", "Schinder"], ["Mayor Vrbanovic", "Chapman", "Deneault", "Johnston"]))
+        one_side = escribe.prose_votes("The motion was Carried, on a recorded vote, with Mayor B. Vrbanovic and Councillors S. Davey voting in favour.")[0]
+        self.assertEqual((one_side["for"], one_side["against"]), (["Mayor Vrbanovic", "Davey"], []))
+
+    def test_results(self):
+        r = escribe.parse_result("Carried, as amended, on a recorded vote (7 to 4)")
+        self.assertEqual((r["outcome"], r["label"], r["for"]), ("Carried", "7-4", 7))
+        self.assertEqual(escribe.parse_result("LOST (3 to 7)")["label"], "Lost 3-7")
+        self.assertEqual(escribe.parse_result("Carried, unanimously on a recorded vote (11 to 0)")["label"], "11-0")
+
+
 class Cycles(unittest.TestCase):
     def test_other_meetings_fold_under_the_next_council_meeting(self):
         def it(day, kind):
