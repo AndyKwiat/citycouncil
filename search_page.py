@@ -20,7 +20,8 @@ CSS = """
 .sr-kind.vote{background:var(--warn-soft);color:var(--warn)}
 .sr-hit a.t{font:600 18px/1.35 var(--serif);text-decoration:none}.sr-hit a.t:hover{text-decoration:underline}
 .sr-hit p{margin:4px 0 0;font-size:15px;line-height:1.55}.sr-hit mark{background:var(--mark);color:inherit;border-radius:2px}
-.sr-label{font-weight:600;color:var(--ink)}
+.sr-label{font-weight:600;color:var(--ink)}.sr-exact{font-size:12px}
+.sr-weak{background:var(--warn-soft);border-radius:8px;padding:10px 14px;font-size:14.5px;margin-bottom:6px}
 .sr-mini{display:flex;gap:6px;margin-top:14px;max-width:460px}
 .sr-mini input{flex:1;min-width:0;font:inherit;font-size:15px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}
 .sr-mini button{padding:7px 14px}
@@ -70,11 +71,17 @@ function run(push){
     if (mine !== seq) return;
     list.textContent = '';
     status.textContent = body.results.length ? body.results.length + ' best matches from ' + body.searched.toLocaleString() + ' passages.' : 'Nothing found.';
+    if (body.weak) {
+      var note = el('div', 'sr-weak', null, list);
+      el('b', '', 'Nothing in these records closely matches “' + body.query + '”.', note);
+      el('span', '', ' No passage uses those words, and none is close in meaning, so the results below are only the nearest and are probably unrelated. Council may not have discussed it at a City Council meeting.', note);
+    }
     body.results.forEach(function(h){
       var item = el('div', 'sr-hit', null, list), meta = el('div', 'sr-meta', null, item);
       el('span', 'sr-kind ' + h.kind, NAMES[h.kind] || h.kind, meta);
       el('span', '', when(h.meeting), meta);
       if (h.label) el('span', 'sr-label', h.label, meta);
+      if (h.exact) el('span', 'sr-exact', 'uses your words', meta);
       var a = el('a', 't', h.title, item); a.href = h.url;
       highlight(el('p', '', null, item), h.snippet, body.query);
     });

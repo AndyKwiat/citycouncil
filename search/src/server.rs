@@ -113,6 +113,7 @@ pub async fn search(State(app): State<Arc<App>>, headers: HeaderMap, Query(q): Q
         let embed_ms = t.elapsed().as_millis();
         let found = worker.store.search(&p, &v)?;
         Ok::<_, anyhow::Error>(json!({ "query": p.q, "results": found.results, "searched": found.searched,
+                                       "keyword_matches": found.keyword_matches, "weak": found.weak,
                                        "embed_ms": embed_ms, "total_ms": t.elapsed().as_millis() }))
     })
     .await;

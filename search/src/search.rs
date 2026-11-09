@@ -16,6 +16,9 @@ const VECTOR_WEIGHT: f32 = 1.0;
 const KEYWORD_WEIGHT: f32 = 0.6;
 /// Without a cap, one long debate fills the page with near-identical passages from a single meeting.
 const PER_MEETING_KIND: usize = 2;
+/// Below this cosine similarity, a passage is rarely about the query (measured on this council's records:
+/// on-topic searches score 0.37 to 0.6 at the top, unrelated ones such as "homecoming" 0.24 to 0.31).
+pub const RELATED: f32 = 0.36;
 
 pub struct Row {
     pub kind: String,
@@ -59,12 +62,18 @@ pub struct Hit {
     pub label: String,
     pub score: f32,
     pub similarity: f32,
+    /// Contains one of the query's words.
+    pub exact: bool,
 }
 
 #[derive(Serialize)]
 pub struct Found {
     pub results: Vec<Hit>,
     pub searched: usize,
+    /// Passages (after filters) containing a query word.
+    pub keyword_matches: usize,
+    /// True when nothing is close in meaning and no passage uses the words: the results are only the least unrelated.
+    pub weak: bool,
 }
 
 impl Store {
@@ -124,7 +133,11 @@ impl Store {
         let searched = by_vector.len();
         by_vector.sort_by(|&a, &b| sims[b].total_cmp(&sims[a]));
         by_vector.truncate(CANDIDATES);
-        let by_keyword: Vec<usize> = self.keyword_ranks(&p.q).into_iter().filter(|&i| self.allowed(i, p)).take(CANDIDATES).collect();
+        let all_keyword: Vec<usize> = self.keyword_ranks(&p.q).into_iter().filter(|&i| self.allowed(i, p)).collect();
+        let keyword_matches = all_keyword.len();
+        let exact: std::collections::HashSet<usize> = all_keyword.iter().copied().collect();
+        let by_keyword: Vec<usize> = all_keyword.into_iter().take(CANDIDATES).collect();
+        let best = by_vector.first().map(|&i| sims[i]).unwrap_or(0.0);
         let mut fused: HashMap<usize, f32> = HashMap::new();
         for (rank, &i) in by_vector.iter().enumerate() {
             *fused.entry(i).or_default() += VECTOR_WEIGHT / (RRF_K + rank as f32 + 1.0);
@@ -139,10 +152,10 @@ impl Store {
             .map(|(i, score)| {
                 let r = &self.rows[i];
                 Hit { kind: r.kind.clone(), meeting: r.meeting.clone(), title: r.title.clone(), snippet: snippet(&r.text, &p.q),
-                      url: r.url.clone(), label: r.label.clone(), score, similarity: sims[i] }
+                      url: r.url.clone(), label: r.label.clone(), score, similarity: sims[i], exact: exact.contains(&i) }
             })
             .collect();
-        Ok(Found { results, searched })
+        Ok(Found { results, searched, keyword_matches, weak: keyword_matches == 0 && best < RELATED })
     }
 }
 
@@ -257,6 +270,19 @@ mod tests {
         let q = crate::embed::normalize(vec![1.0, 0.2, 0.0]);
         let r = s.search(&Params::new("Wyndham"), &q).unwrap();
         assert_eq!(r.results[0].snippet, "Wyndham Street redesign");
+    }
+
+    #[test]
+    fn weak_when_nothing_is_close_and_no_words_match() {
+        let (_d, s) = store(&[("vote", "2024-01-01", "parking rates", [1.0, 0.0, 0.0]), ("vote", "2024-01-01", "tree bylaw", [0.0, 1.0, 0.0])]);
+        let far = crate::embed::normalize(vec![0.2, 0.2, 1.0]);
+        let r = s.search(&Params::new("homecoming"), &far).unwrap();
+        assert!(r.weak && r.keyword_matches == 0 && !r.results[0].exact);
+        let r = s.search(&Params::new("parking"), &far).unwrap();
+        assert!(!r.weak && r.keyword_matches == 1);
+        assert!(r.results.iter().any(|h| h.exact && h.snippet == "parking rates"));
+        let near = crate::embed::normalize(vec![0.0, 1.0, 0.1]);
+        assert!(!s.search(&Params::new("homecoming"), &near).unwrap().weak);
     }
 
     #[test]
