@@ -695,12 +695,18 @@ def build_recorded_votes(out, city, all_minutes, metas, term, filename="councill
                       f'<a href="minutes/{k}.html#{x["id"]}">{e(x["name"] or x["item_title"])}</a>{vote_badge(x, all_minutes[k], k)}</div>')
     split = sum(1 for _, x in named if x["votes"]["for"] and x["votes"]["against"])
     t = city.term(term) or {}
+    counted = (f"In the {e(t.get('label', term))} term, {len(named)} votes on this site name who voted which way ({split} of them "
+               f"divided), from {len(keys)} meetings.")
+    if city.get("records_votes") == "on request":
+        lede = (f"{e(city.council_name)} records individual votes only when a member asks, so most decisions show only the outcome. "
+                f"{counted} That is too few to say who tends to vote with whom, so this page lists them instead.")
+    else:
+        lede = (f"{counted} That is too few divided votes so far to say who tends to vote with whom; the comparison appears here "
+                f"once more meetings are on this site.")
     (out / filename).write_text(page("How members voted", f"""
 <header class="top"><div class="eyebrow"><a href="index.html">&larr; All meetings</a></div>
 <h1>How members voted</h1>
-<p class="lede">{e(city.council_name)} records individual votes only when a member asks, so most decisions show only the
-outcome. In the {e(t.get("label", term))} term, {len(named)} votes on this site name who voted which way ({split} of them
-divided), from {len(keys)} meetings. That is too few to say who tends to vote with whom, so this page lists them instead.</p></header>
+<p class="lede">{lede}</p></header>
 <h2 class="sec">Members</h2>
 <div class="scroll"><table class="rv"><thead><tr><th>Member</th><th>Ward</th><th>Attended</th><th>Moved</th><th>Seconded</th>
 <th>Conflicts declared</th><th>Named votes</th><th>On the losing side</th></tr></thead><tbody>{rows}</tbody></table></div>
