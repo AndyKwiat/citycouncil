@@ -725,7 +725,8 @@ def build_councillors(out, city, all_minutes, metas, term=None, body="all", file
     roster = city.members(term) if term else {}
     full = lambda n: roster.get(n, {}).get("name", n)
     ward = lambda n: roster.get(n, {}).get("ward", "")
-    photo = lambda n: f"portraits/{roster[n]['portrait']}" if n in roster and (city.portraits / roster[n]["portrait"]).exists() else ""
+    photo = lambda n: (f"portraits/{roster[n]['portrait']}" if roster.get(n, {}).get("portrait")
+                       and (city.portraits / roster[n]["portrait"]).exists() else "")
     for n in names:
         if photo(n):
             (out / "portraits").mkdir(exist_ok=True)

@@ -4,6 +4,46 @@ The live record of progress. Update this file in the same commit as the work. St
 `blocked: <why>`, `n/a`. The admin panel's "All councils" coverage table shows *data* progress (meetings parsed,
 summarized and so on); this file tracks *build* progress.
 
+## Where things stopped (2026-11-09, paused for the night)
+
+All batch jobs were stopped cleanly (no half-written files; Whisper's temporary audio removed). Counts are past
+meetings in scope; "summarized" meetings are the ones on the site.
+
+| Council | In scope | Minutes parsed | Transcribed | Summarized | Next step |
+|---|---|---|---|---|---|
+| Guelph | 167 | 164 | 96 | 94 | About 70 committee, planning, budget and special meetings left |
+| Kitchener | 323 | 288 | 6 | 6 | Whisper for every meeting (about 10 min each): council meetings first, then committees |
+| Region of Waterloo | 257 | 250 | 15 | 14 | Captions are quick: council meetings, then committees |
+| Waterloo | 111 | 109 | 77 | 77 | About 32 council meetings left (no committees this term) |
+| Centre Wellington | 104 | 98 | 35 | 34 | Remaining council meetings, then Committee of the Whole |
+
+Meetings that failed a summary check are retried by the next batch (most failures were fixed by the by-law rule).
+
+## Resume
+
+Run from `~/src/citycouncil`. Each batch takes the newest meetings without a summary; re-running is safe.
+
+```bash
+tools/summarize_batches.sh guelph 3 30
+tools/summarize_batches.sh waterloo 2 40
+tools/summarize_batches.sh centre-wellington 3 40
+tools/summarize_batches.sh region-of-waterloo 6 40
+tools/summarize_batches.sh kitchener 8 40
+```
+
+Kitchener is the slow one (Whisper). To do its council meetings before committees:
+`.venv/bin/python pipeline.py process --city kitchener --latest 40 --bodies council --steps parse,transcribe,summarize`.
+
+Then publish (both deploys):
+
+```bash
+.venv/bin/python pipeline.py search-index && .venv/bin/python pipeline.py search-deploy
+.venv/bin/python pipeline.py build && .venv/bin/python pipeline.py deploy
+```
+
+Or, once batches are caught up, `pipeline.py update --publish` does new meetings, tests, build and both deploys in one
+run (the launchd file in `tools/launchd/` would run that nightly; it is not loaded).
+
 ## Decisions
 
 | # | Decision | Status | Answer |
@@ -95,6 +135,9 @@ summarized and so on); this file tracks *build* progress.
 ## Log
 
 Newest first. One line per notable event: what changed, what broke, what was decided.
+
+- 2026-11-09: Paused for the night at the user's request: batches stopped, everything deployed and pushed. See "Where things stopped" and "Resume".
+- 2026-11-09: Summary check: substantive by-laws under a 'By-laws' heading count as decisions (only confirmatory by-laws are routine).
 
 - 2026-11-09: Decision (extends D4): Waterloo split votes name only dissenters; the yes side is everyone present minus dissenters and declared conflicts, used only when it equals the minutes' tally (54 of 60). Otherwise only the dissenters are listed. "Carried Unanimously" keeps who was present but invents no individual votes.
 - 2026-11-09: Decision: Region splits before Aug 2023 that the minutes give only as counts are notes, not problems (`names_recorded_from`). One-off oddities go in `cities/<slug>/explained.json`.
