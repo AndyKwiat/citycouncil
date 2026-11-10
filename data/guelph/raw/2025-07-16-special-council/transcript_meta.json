@@ -1,0 +1,16 @@
+{
+ "recording_seconds": 13271,
+ "caption_words": 29739,
+ "caption_wpm": 134.5,
+ "gaps": [
+  {
+   "start": 4404,
+   "end": 4751,
+   "whisper_words": 7,
+   "filled": false
+  }
+ ],
+ "method": "captions",
+ "source": "isilive-captions",
+ "words": 29739
+}

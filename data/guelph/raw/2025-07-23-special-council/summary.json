@@ -1,0 +1,50 @@
+{
+ "title": "Council appoints new Ward 6 councillor",
+ "subtitle": "Selection from 26 candidates ended in a tied vote settled by lot, then oath and by-laws.",
+ "overview": [
+  "Council held a special meeting to fill the Ward 6 seat left vacant when the previous councillor was elected as a Member of Parliament. Twenty-six certified candidates applied, and all but one spoke for up to five minutes each. Councillors could ask each candidate up to two questions. Votes were taken openly by show of hands, as the Municipal Act requires.",
+  "In the first round, most candidates received no support. Rebecca Adam, Jessica Ferlaino and Katherine Hauser each received votes. Ferlaino was then dropped as the lowest vote-getter. The second round between Adam and Hauser ended in a tie. Under the process council had adopted, the City Clerk settled the tie by drawing a name from a box in front of the room, and Hauser's name was drawn.",
+  "Council then formally appointed Hauser to the seat until the term ends on November 15, 2026 {{vote:m6}}. Hauser took the declaration of office at the meeting. Council also approved two by-laws, which included confirming the appointment. For Ward 6 residents, the ward again has two councillors for the final year of this term."
+ ],
+ "decisions": [
+  {
+   "motion": "m6",
+   "item": "Appointment of Ward 6 councillor",
+   "detail": "Council appointed Katherine Hauser to fill the vacant Ward 6 seat for the term ending November 15, 2026 {{vote:m6}}."
+  },
+  {
+   "motion": "m5",
+   "item": "Round 2 vote: Katherine Hauser",
+   "detail": "Hauser was one of the two candidates left in the second round, and the votes for Hauser and Adam were tied, so the clerk settled the outcome by drawing a name."
+  },
+  {
+   "motion": "m4",
+   "item": "Round 2 vote: Rebecca Adam",
+   "detail": "Adam reached the second round with Hauser and received the same number of votes, which sent the decision to a draw by lot."
+  },
+  {
+   "motion": "m3",
+   "item": "Round 1 vote: Katherine Hauser",
+   "detail": "Hauser received the most support in the first round, but not enough to be appointed outright, so voting continued."
+  },
+  {
+   "motion": "m1",
+   "item": "Round 1 vote: Rebecca Adam",
+   "detail": "Adam received support in the first round and advanced to the second round."
+  },
+  {
+   "motion": "m2",
+   "item": "Round 1 vote: Jessica Ferlaino",
+   "detail": "Ferlaino received some support in the first round but was removed from the second ballot as the lowest remaining vote-getter."
+  }
+ ],
+ "debate": [
+  "Several candidates argued that the vacancy needed someone with governance experience who could start work right away, citing past council service, school board or university board roles, or regular attendance at council meetings. Others offered fresh perspectives and community ties.",
+  "One former councillor who applied said they would serve as a short-term caretaker and not run in the next election. They said appointing someone planning to run would give that person an incumbency advantage. They also suggested the vacancy might have been better filled by a by-election.",
+  "Questions to candidates focused on local concerns in Ward 6, including traffic around the new high school, growth in the south end, and housing affordability. Councillors also asked several candidates about living outside the ward and about overlap with other roles. For the school trustee, that included how the school board would fill the seat she would leave.",
+  "Many candidates raised housing affordability, transit, health care access and public safety. Proposals included a second hospital, a drug treatment centre, more mixed-use housing along commercial corridors, and subsidised home security cameras.",
+  "The mayor and one councillor said the appointment process was difficult and unfamiliar for council. Council chose to vote without comment on individual candidates, though one councillor used the time to thank all the delegates."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:16:36"
+}

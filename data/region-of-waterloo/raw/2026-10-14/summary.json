@@ -1,0 +1,55 @@
+{
+ "title": "Co-op housing lease and ambulance purchases approved",
+ "subtitle": "Housing and Homelessness Plan, University Avenue expropriation, Highland Road land sale, tourism funding review, Moody's AAA rating",
+ "overview": [
+  "Regional Council approved a land lease for a co-operative housing project at 30 Lauris Avenue in Cambridge {{vote:m9}}. The building is expected to have an estimated 101 homes, 31 of them affordable. Council also endorsed the 2026–2036 Housing and Homelessness Plan {{vote:m7}}, which sets the Region's direction on housing for the next decade.",
+  "Council gave pre-budget approval to buy replacement ambulances and paramedic equipment {{vote:m4}}. Staff said long manufacturing lead times make early ordering necessary to keep the fleet reliable. Council also approved expropriating land for the University Avenue East improvements in Waterloo and asked staff to review how traffic noise is assessed along Regional roads {{vote:m5}}.",
+  "Following a closed session, Council directed staff to continue due diligence on the sale of 1388 Highland Road West in Kitchener {{vote:m8}}. Council asked for a review of tourism funding fairness across municipalities {{vote:m6}}. Staff reported that Moody's affirmed the Region's AAA credit rating. Council also thanked the interim water commissioner, whose work on the water capacity constraint was praised."
+ ],
+ "decisions": [
+  {
+   "motion": "m9",
+   "item": "30 Lauris Avenue co-op housing lease",
+   "detail": "Council authorized a land lease and related agreements with Central Ontario Co-operative Housing Federation or its affiliated co-operative for the surplus Cambridge site."
+  },
+  {
+   "motion": "m7",
+   "item": "2026–2036 Housing and Homelessness Plan",
+   "detail": "Council endorsed the plan as the Region's strategic direction for housing and homelessness planning, investment, coordination, monitoring and advocacy."
+  },
+  {
+   "motion": "m4",
+   "item": "Ambulance and equipment pre-budget approval",
+   "detail": "Council approved pre-budget procurement of replacement ambulances and paramedic equipment scheduled for replacement in 2027 and 2028."
+  },
+  {
+   "motion": "m5",
+   "item": "University Avenue East expropriation",
+   "detail": "Council approved expropriating partial lands and hydro easements near Weber Street North and Albert Street in Waterloo, and directed a 2027 staff review of traffic noise assessment methods."
+  },
+  {
+   "motion": "m8",
+   "item": "1388 Highland Road West sale",
+   "detail": "Council directed staff to continue due diligence and, once satisfied, to sign a purchase and sale agreement with Grand Valley Communities for the Kitchener property {{vote:m8}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Cultural Drivers of Tourism funding review",
+   "detail": "Council directed staff to review the program's funding formula and eligibility criteria for fairer geographic distribution and to report back before the next intake."
+  },
+  {
+   "motion": "m6",
+   "item": "Dark fibre network renewal",
+   "detail": "Council approved renewing the WREPNET dark fibre agreement with Rogers for five years starting September 1, 2026."
+  }
+ ],
+ "debate": [
+  "A delegate urged clearer written standards and review processes for ending placements in publicly funded housing, independent mediation of disputes, and use of underused institutional buildings for housing before assuming new construction.",
+  "The same delegate called for coordinated approaches to homelessness and addiction, including treatment and clear referral pathways, so that no one is discharged without a plan.",
+  "One councillor asked why the ambulance purchase came before the budget cycle. Staff said it is routine because manufacturing lead times are long and the Region must secure a production slot.",
+  "On the Moody's rating, a councillor asked what could be done about the identified risk of governance uncertainty from provincial changes. Staff said the Region is already acting prudently and saw no need to change course.",
+  "On the 30 Lauris Avenue project, councillors welcomed the Region leasing rather than selling land, and one hoped the possible future child care centre would proceed if funding becomes available."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:41:30"
+}

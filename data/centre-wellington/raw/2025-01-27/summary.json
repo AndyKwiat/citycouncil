@@ -1,0 +1,45 @@
+{
+ "title": "Rezoning for a Fergus rental development and business park",
+ "subtitle": "Also: fire protection hoods grant, affordable housing development charge exemptions, heritage designations and greenspace lighting.",
+ "overview": [
+  "Council approved a zoning change for 750 St David Street North in Fergus, allowing a 12-unit purpose-built rental development {{vote:m5}}. Neighbours had raised concerns about traffic, parking and the location of the driveway. Staff said many of these can be handled at the site plan stage.",
+  "Council also approved new zoning for the Centre Wellington Business Park {{vote:m6}}. Medical clinics stay excluded there. Council asked staff to review M2 zoning more broadly with a view to expanding permitted uses, including medical offices.",
+  "Other decisions included accepting a provincial fire grant to buy upgraded protective hoods for firefighters {{vote:m4}}, and approving template agreements for affordable housing development charge exemptions {{vote:m7}}. A consent package designated four properties as heritage sites and received an update on extended greenspace lighting {{vote:m3}}. A closed session on land and legal advice produced no public announcement."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "750 St David Street North rezoning",
+   "detail": "Council approved rezoning from R1C to R4 with exemptions to allow 12 two-bedroom rental units with 18 parking spaces, with site plan review still to come."
+  },
+  {
+   "motion": "m6",
+   "item": "Business Park rezoning",
+   "detail": "Council gave three readings to a zoning amendment creating a new M2.BP zone for the remaining Township business park lands, adding some uses and removing others."
+  },
+  {
+   "motion": "m4",
+   "item": "Fire protection grant",
+   "detail": "Council authorized the transfer payment agreement with the Office of the Fire Marshal and approved spending $16,340 on particulate-blocking hoods."
+  },
+  {
+   "motion": "m7",
+   "item": "Affordable unit development charge exemptions",
+   "detail": "Council approved two template agreements and delegated authority to the treasurer to sign them, and directed staff to update the Delegated Authority By-law."
+  },
+  {
+   "motion": "m3",
+   "item": "Consent agenda including heritage designations",
+   "detail": "Council confirmed intent to designate four properties in Fergus and Belwood and Elora under the Ontario Heritage Act, extended a part lot control exemption, and received the greenspace lighting update."
+  }
+ ],
+ "debate": [
+  "On the St David Street rezoning, one councillor said redeveloping an existing home in an established subdivision was not true intensification and was concerned the site plan stage left councillors little say. Others raised cumulative traffic and safety near a school and bike lanes.",
+  "The delegate for the applicant said moving the driveway toward a local road would reduce turning conflicts on a major arterial, and traffic studies showed low volumes. Staff said the site meets intensification targets and that multi-residential housing is directed to major roads.",
+  "On the Business Park, one councillor wanted medical clinics allowed given doctors' need for space and possible nurse practitioner expansion. Others preferred locations near the hospital and the park's employment intent. Staff noted that allowing clinics would also cover physiotherapy and similar uses.",
+  "On affordable housing exemptions, councillors asked how 25-year agreements would be monitored and enforced. Staff said agreements would be registered on title, monitored at least annually, and that the provincial formula is complex and administratively demanding.",
+  "On greenspace lighting, one councillor objected to staff having delegated authority over the extended schedule and wanted to avoid lights going up before Remembrance Day. Staff said the Urban Forester was consulted on tree impacts and that Remembrance Day would be respected."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T19:07:37"
+}

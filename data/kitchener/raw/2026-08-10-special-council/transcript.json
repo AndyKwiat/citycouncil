@@ -1,0 +1,826 @@
+[
+ {
+  "start": 0.0,
+  "end": 30.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 630.0,
+  "end": 642.5,
+  "text": "Good afternoon, everyone, and welcome back.",
+  "no_speech": 0.0,
+  "logprob": -0.257,
+  "source": "whisper"
+ },
+ {
+  "start": 642.9,
+  "end": 648.5,
+  "text": "We are beginning our special council meeting on August 10, 2026.",
+  "no_speech": 0.0,
+  "logprob": -0.257,
+  "source": "whisper"
+ },
+ {
+  "start": 649.0,
+  "end": 653.1,
+  "text": "Individuals interested in participating in today's meeting were eligible to register online",
+  "no_speech": 0.0,
+  "logprob": -0.257,
+  "source": "whisper"
+ },
+ {
+  "start": 653.1,
+  "end": 664.1,
+  "text": "using the delegation registration form at www.kitchener.ca slash delegation or via email at delegation at kitchener.ca.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 665.1,
+  "end": 672.5,
+  "text": "Any written comments received prior to the commencement of today's meeting have been circulated to members of Council and will form part of the public record.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 673.0,
+  "end": 679.3,
+  "text": "The meeting live stream and archived videos are available at www.kitchener.ca slash watch now.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 680.1,
+  "end": 684.1,
+  "text": "Before we begin this afternoon's meeting, I'd like to acknowledge that today we're gathering",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 684.1,
+  "end": 687.9,
+  "text": "on the traditional territory of the neutral Anishinaabe and Haudenosaunee peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 688.3,
+  "end": 693.2,
+  "text": "We recognize our responsibility to serve as stewards for the land and honor the original",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 693.2,
+  "end": 695.0,
+  "text": "caretakers who came before us.",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 695.0,
+  "end": 700.0,
+  "text": "Our community is enriched by the enduring knowledge and deep-rooted traditions of the",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 700.0,
+  "end": 703.0,
+  "text": "diverse First Nations, Métis and Inuit, in Kitchener today.",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 703.6,
+  "end": 705.8,
+  "text": "Are there any disclosures of pecuniary interest?",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 705.8,
+  "end": 714.3,
+  "text": "There being none, we will do a little bit of a presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.377,
+  "source": "whisper"
+ },
+ {
+  "start": 718.5,
+  "end": 720.9,
+  "text": "Just bear with me one second.",
+  "no_speech": 0.0,
+  "logprob": -0.377,
+  "source": "whisper"
+ },
+ {
+  "start": 720.9,
+  "end": 742.8,
+  "text": "So this afternoon we'd like to acknowledge one of our amazing members of our city clerk's office",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 742.8,
+  "end": 750.2,
+  "text": "who has achieved the AMCTO Executive Diploma and Municipal Management Equity Scholarship.",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 750.2,
+  "end": 754.1,
+  "text": "And we'd like to congratulate Mariah Blake on that.",
+  "no_speech": 0.0,
+  "logprob": -0.164,
+  "source": "whisper"
+ },
+ {
+  "start": 761.1,
+  "end": 769.2,
+  "text": "Mariah, as we all know, is a municipal professional with over seven years of experience across local government, federal service, and the nonprofit sector.",
+  "no_speech": 0.0,
+  "logprob": -0.164,
+  "source": "whisper"
+ },
+ {
+  "start": 769.7,
+  "end": 773.5,
+  "text": "She currently serves as one of our committee coordinators with the City of Kitchener,",
+  "no_speech": 0.0,
+  "logprob": -0.164,
+  "source": "whisper"
+ },
+ {
+  "start": 773.5,
+  "end": 780.0,
+  "text": "where she supports governance, legislative processes, and public engagement to help foster transparent and effective decision making.",
+  "no_speech": 0.0,
+  "logprob": -0.164,
+  "source": "whisper"
+ },
+ {
+  "start": 780.2,
+  "end": 785.1,
+  "text": "Throughout her career, Mariah has worked at the intersection of policy, community engagement,",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 785.1,
+  "end": 786.6,
+  "text": "and service delivery.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 786.6,
+  "end": 790.0,
+  "text": "Her experience includes supporting the Minister of Diversity, Inclusion, and Youth at the",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 790.0,
+  "end": 795.0,
+  "text": "federal level, coordinating complex municipal initiatives, and working directly with community",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 795.0,
+  "end": 798.7,
+  "text": "members in frontline and non-profit environments.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 798.7,
+  "end": 803.3,
+  "text": "This diverse background informs her collaborative approach and her commitment to connecting strategic",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 803.3,
+  "end": 805.9,
+  "text": "priorities with community needs.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 805.9,
+  "end": 810.9,
+  "text": "Mariah is also passionate about local governments, advancing equity in the workplace, and building",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 810.9,
+  "end": 813.0,
+  "text": "strong communities from the ground up.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 813.3,
+  "end": 818.8,
+  "text": "A lifelong learner, she's committed to inclusive, holistic public service and is proud to contribute",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 818.8,
+  "end": 823.6,
+  "text": "to resilient, connected communities through both her professional and volunteer work.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 824.3,
+  "end": 829.5,
+  "text": "As this year's EDMM Equity Scholarship recipient, Mariah will be enrolled in the program beginning",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 829.5,
+  "end": 834.5,
+  "text": "this fall, where she'll develop further foundational knowledge, skills, and competencies required",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 834.5,
+  "end": 836.7,
+  "text": "to be a successful local government manager.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 837.3,
+  "end": 840.7,
+  "text": "The program helps support those with three or more years",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 840.7,
+  "end": 843.2,
+  "text": "of supervisor experience, mid-level managers,",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 843.2,
+  "end": 845.8,
+  "text": "and high-level municipal employees on track",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 845.8,
+  "end": 849.4,
+  "text": "to take on senior management or leadership roles.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 850.0,
+  "end": 852.6,
+  "text": "The EDMM Equity Scholarship is an annual program",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 852.6,
+  "end": 855.7,
+  "text": "that will accept applications from eligible individuals each spring",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 855.7,
+  "end": 858.4,
+  "text": "for enrollment in the subsequent fall program,",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 858.6,
+  "end": 862.6,
+  "text": "registration for EDMM, and other AMCTO education programs",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 862.6,
+  "end": 865.8,
+  "text": "for the upcoming fall 2026 term opens.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 865.9,
+  "end": 867.7,
+  "text": "Well, it opened July the 2nd.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 868.4,
+  "end": 871.4,
+  "text": "So with that, I just want to acknowledge Mariah",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 871.4,
+  "end": 873.4,
+  "text": "and say congratulations on your achievement.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 879.4,
+  "end": 880.0,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 880.2,
+  "end": 882.3,
+  "text": "There don't appear to be any delegations here.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 883.1,
+  "end": 886.7,
+  "text": "There is a report under item 5.1,",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 887.2,
+  "end": 891.2,
+  "text": "pre-approval of funding for the 2027 Fleet Capital 3 units.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 891.2,
+  "end": 893.7,
+  "text": "Does somebody care to move that recommendation?",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 893.9,
+  "end": 894.8,
+  "text": "Moved by Councillor Ioannidis.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 894.9,
+  "end": 895.6,
+  "text": "Do I have a seconder?",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 896.0,
+  "end": 897.2,
+  "text": "Councillor Chapman, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 897.4,
+  "end": 898.2,
+  "text": "Any discussion?",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 899.7,
+  "end": 901.1,
+  "text": "All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 902.4,
+  "end": 903.6,
+  "text": "Any opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 903.8,
+  "end": 904.7,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 905.6,
+  "end": 909.3,
+  "text": "There being no mayoral business, we'll now move into in-camera.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 909.5,
+  "end": 914.2,
+  "text": "There are a number of items listed on the in-camera agenda.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 914.4,
+  "end": 920.3,
+  "text": "I'll note that under 7.3, there is an additional reason for closed session,",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 920.3,
+  "end": 926.0,
+  "text": "including information, example, a trade secret or scientific, technical, commercial, or financial",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 926.0,
+  "end": 930.7,
+  "text": "information that belongs to the municipality and has monetary value as an additional reason",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 930.7,
+  "end": 932.5,
+  "text": "for the closed session.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 933.0,
+  "end": 935.5,
+  "text": "Does someone care to move the three items on the closed agenda?",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 935.7,
+  "end": 939.5,
+  "text": "Moved by Councillor Deneault, seconded by Councillor Schnider.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 940.2,
+  "end": 941.2,
+  "text": "Any discussion?",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 942.6,
+  "end": 943.6,
+  "text": "All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 944.4,
+  "end": 945.1,
+  "text": "Opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 945.8,
+  "end": 946.7,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 946.7,
+  "end": 954.2,
+  "text": "and actually we'll leave everything else till later.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 956.6,
+  "end": 959.7,
+  "text": "We will come back, like we'll do a recess now",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 959.7,
+  "end": 965.3,
+  "text": "and we may need to come back for an additional in-camera item.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 965.7,
+  "end": 967.6,
+  "text": "Staff are still working through those details",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 967.6,
+  "end": 972.4,
+  "text": "and if we do we'll deal with that after the recess",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 972.4,
+  "end": 977.8,
+  "text": "and anything else coming out of closed as well.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 978.2,
+  "end": 979.6,
+  "text": "So we may have to recess twice.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 980.7,
+  "end": 982.0,
+  "text": "So motion to recess.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 982.4,
+  "end": 985.7,
+  "text": "Moved by Councillor Stretch, seconded by Councillor Schnider.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 985.9,
+  "end": 986.9,
+  "text": "All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 987.9,
+  "end": 988.6,
+  "text": "Any opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 988.7,
+  "end": 989.3,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 989.5,
+  "end": 989.9,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1002.4,
+  "end": 1032.4,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 1152.4,
+  "end": 1169.1,
+  "text": "Good evening everyone and welcome to the resumption of the special counsel meeting for August 10th, 2024.",
+  "no_speech": 0.0,
+  "logprob": -0.296,
+  "source": "whisper"
+ },
+ {
+  "start": 1170.1,
+  "end": 1175.2,
+  "text": "Coming out of caucus we have two recommendations for consideration by counsel.",
+  "no_speech": 0.0,
+  "logprob": -0.296,
+  "source": "whisper"
+ },
+ {
+  "start": 1175.2,
+  "end": 1179.9,
+  "text": "If I can ask Madam Clerk to please put the first one forward.",
+  "no_speech": 0.0,
+  "logprob": -0.296,
+  "source": "whisper"
+ },
+ {
+  "start": 1179.9,
+  "end": 1187.8,
+  "text": "and the first one pertains to item 7.2 city facility funding update recommendation is before",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 1187.8,
+  "end": 1195.4,
+  "text": "you can i have a mover please moved by councillor stretch seconded by councillor johnson any discussion",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 1195.4,
+  "end": 1205.3,
+  "text": "hang on i gotta switch all those in favor any opposed that's carried thank you and if i can",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 1205.3,
+  "end": 1210.6,
+  "text": "ask you to bring the second motion forward please and the second motion is",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1210.6,
+  "end": 1215.8,
+  "text": "with respect to item 7.3 water and wastewater public corporation that staff",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1215.8,
+  "end": 1220.8,
+  "text": "be authorized to provide a response to the ERO do I have a mover moved by",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1220.8,
+  "end": 1227.1,
+  "text": "Councillor Michaud seconded by Councillor Deneault any discussion all those in favor",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1227.1,
+  "end": 1234.5,
+  "text": "any opposed that's carried thank you can I have a motion for three readings of the",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1234.5,
+  "end": 1238.8,
+  "text": "bylaws moved by Councillor Schnider seconded by Councillor Johnston any",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1238.8,
+  "end": 1244.3,
+  "text": "discussion all those in favor opposed that's carried and motion to adjourn",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1244.3,
+  "end": 1248.9,
+  "text": "moved by Councillor Singh and seconded by Councillor Chapman any discussion all",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1248.9,
+  "end": 1253.5,
+  "text": "those in favor opposed that's carried",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1264.5,
+  "end": 1294.5,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.205,
+  "source": "whisper"
+ }
+]

@@ -1,208 +1,207 @@
 {
  "method": "Classical MDS on pairwise disagreement rates; average-linkage hierarchical clustering; k chosen by mean silhouette",
- "votes": 104,
+ "votes": 163,
  "groups_chosen": 2,
  "silhouette_by_k": {
-  "2": 0.424,
-  "3": 0.362,
-  "4": 0.336,
-  "5": 0.233
+  "2": 0.391,
+  "3": 0.31,
+  "4": 0.319,
+  "5": 0.273
  },
- "variance_in_2d": 0.723,
+ "variance_in_2d": 0.728,
  "unclear_below": 0.1,
  "resamples": 1000,
  "resamples_choosing": {
-  "2": 867,
-  "3": 94,
-  "4": 27,
-  "5": 12
+  "2": 993,
+  "3": 6,
+  "5": 1
  },
  "groups": {
   "A": {
    "members": [
     "Allt",
+    "Caron",
     "Caton",
     "Busuttil",
-    "Caron",
     "Downer",
     "Klassen",
-    "Hauser",
-    "O'Rourke"
+    "Hauser"
    ],
-   "agreement_within": 0.747,
-   "stays_together": 0.902
+   "agreement_within": 0.726,
+   "stays_together": 0.947
   },
   "B": {
    "members": [
     "Billings",
     "Chew",
     "Gibson",
-    "Richardson",
-    "Mayor Guthrie"
+    "Mayor Guthrie",
+    "Richardson"
    ],
-   "agreement_within": 0.766,
-   "stays_together": 0.973
+   "agreement_within": 0.78,
+   "stays_together": 0.993
   }
  },
  "unclear": [
-  "Goller"
+  "Goller",
+  "O'Rourke"
  ],
  "agreement_between": {
-  "A-B": 0.518
+  "A-B": 0.491
  },
  "members": {
   "Allt": {
-   "x": -0.3194,
-   "y": -0.1068,
+   "x": -0.365,
+   "y": -0.106,
    "nearest_group": "A",
-   "silhouette": 0.506,
+   "silhouette": 0.507,
    "group": "A",
    "with_group": {
-    "A": 0.921,
-    "B": 0.04
+    "A": 0.954,
+    "B": 0.004
    }
   },
   "Billings": {
-   "x": 0.306,
-   "y": -0.0739,
+   "x": 0.3049,
+   "y": -0.0937,
    "nearest_group": "B",
-   "silhouette": 0.551,
+   "silhouette": 0.486,
    "group": "B",
    "with_group": {
-    "A": 0.094,
-    "B": 0.981
+    "A": 0.04,
+    "B": 0.996
    }
   },
   "Busuttil": {
-   "x": -0.224,
-   "y": -0.0999,
+   "x": -0.1812,
+   "y": -0.0802,
    "nearest_group": "A",
-   "silhouette": 0.435,
+   "silhouette": 0.421,
    "group": "A",
    "with_group": {
-    "A": 0.921,
-    "B": 0.04
+    "A": 0.956,
+    "B": 0.015
    }
   },
   "Caron": {
-   "x": -0.1915,
-   "y": 0.0003,
+   "x": -0.2343,
+   "y": -0.0038,
    "nearest_group": "A",
-   "silhouette": 0.479,
+   "silhouette": 0.494,
    "group": "A",
    "with_group": {
-    "A": 0.929,
-    "B": 0.069
+    "A": 0.957,
+    "B": 0.018
    }
   },
   "Caton": {
-   "x": -0.3211,
-   "y": -0.074,
+   "x": -0.2961,
+   "y": -0.0822,
    "nearest_group": "A",
-   "silhouette": 0.505,
+   "silhouette": 0.456,
    "group": "A",
    "with_group": {
-    "A": 0.921,
-    "B": 0.04
+    "A": 0.954,
+    "B": 0.004
    }
   },
   "Chew": {
-   "x": 0.2654,
-   "y": -0.0135,
+   "x": 0.2625,
+   "y": -0.0237,
    "nearest_group": "B",
-   "silhouette": 0.572,
+   "silhouette": 0.531,
    "group": "B",
    "with_group": {
-    "A": 0.1,
-    "B": 0.981
+    "A": 0.04,
+    "B": 0.996
    }
   },
   "Downer": {
-   "x": -0.1228,
-   "y": 0.0324,
+   "x": -0.1463,
+   "y": 0.0371,
    "nearest_group": "A",
-   "silhouette": 0.447,
+   "silhouette": 0.452,
    "group": "A",
    "with_group": {
-    "A": 0.929,
-    "B": 0.098
+    "A": 0.954,
+    "B": 0.055
    }
   },
   "Gibson": {
-   "x": 0.3125,
-   "y": -0.1301,
+   "x": 0.2852,
+   "y": -0.1248,
    "nearest_group": "B",
-   "silhouette": 0.554,
+   "silhouette": 0.486,
    "group": "B",
    "with_group": {
-    "A": 0.094,
-    "B": 0.981
+    "A": 0.04,
+    "B": 0.996
    }
   },
   "Goller": {
-   "x": 0.0459,
-   "y": 0.214,
-   "nearest_group": "A",
-   "silhouette": 0.048,
+   "x": 0.0408,
+   "y": 0.1207,
+   "nearest_group": "B",
+   "silhouette": 0.013,
    "group": null,
    "with_group": {
-    "A": 0.683,
-    "B": 0.336
+    "A": 0.549,
+    "B": 0.49
    }
   },
   "Hauser": {
-   "x": -0.0696,
-   "y": 0.172,
+   "x": -0.0712,
+   "y": 0.1824,
    "nearest_group": "A",
-   "silhouette": 0.323,
+   "silhouette": 0.355,
    "group": "A",
    "with_group": {
-    "A": 0.873,
-    "B": 0.185
+    "A": 0.922,
+    "B": 0.11
    }
   },
   "Klassen": {
-   "x": -0.0632,
-   "y": 0.1326,
+   "x": -0.0789,
+   "y": 0.1218,
    "nearest_group": "A",
-   "silhouette": 0.377,
+   "silhouette": 0.351,
    "group": "A",
    "with_group": {
-    "A": 0.919,
-    "B": 0.127
+    "A": 0.933,
+    "B": 0.097
    }
   },
   "Mayor Guthrie": {
-   "x": 0.2452,
-   "y": 0.0928,
+   "x": 0.2674,
+   "y": 0.1072,
    "nearest_group": "B",
-   "silhouette": 0.416,
+   "silhouette": 0.448,
    "group": "B",
    "with_group": {
-    "A": 0.118,
-    "B": 0.966
+    "A": 0.04,
+    "B": 0.996
    }
   },
   "O'Rourke": {
-   "x": -0.0562,
-   "y": -0.0264,
+   "x": 0.0189,
+   "y": 0.0172,
    "nearest_group": "A",
-   "silhouette": 0.291,
-   "group": "A",
+   "silhouette": 0.079,
+   "group": null,
    "with_group": {
-    "A": 0.8,
-    "B": 0.269
+    "A": 0.718,
+    "B": 0.325
    }
   },
   "Richardson": {
-   "x": 0.1928,
-   "y": -0.1195,
+   "x": 0.1935,
+   "y": -0.072,
    "nearest_group": "B",
-   "silhouette": 0.434,
+   "silhouette": 0.391,
    "group": "B",
    "with_group": {
-    "A": 0.137,
-    "B": 0.954
+    "A": 0.057,
+    "B": 0.983
    }
   }
  }

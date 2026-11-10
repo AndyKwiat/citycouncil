@@ -1,0 +1,50 @@
+{
+ "title": "AI governance policy and Albert Street towers approved",
+ "subtitle": "Winter control review, childcare expansion on University Avenue East, arts grants report and sustainability added to AI policy.",
+ "overview": [
+  "Council approved the City's first corporate AI Governance Framework Policy and directed staff to add a sustainability principle to it at a future review {{vote:m4}}. The policy covers internal staff use of AI only. It sets up an AI governance subcommittee and an inventory of AI systems the City uses.",
+  "On planning, Council approved the Official Plan and zoning changes for a childcare centre expansion at 2415 University Avenue East {{vote:m7}}. It also approved the Official Plan Amendment, zoning change and draft plan of subdivision for a multi-tower, mixed-use rental development at 446 Albert Street. The plan includes a new public park, a new public street and an affordable housing requirement {{vote:m8}}. Final subdivision approval was delegated to the Director of Planning.",
+  "Council received the 2025/26 winter control review and directed staff to look at further improvements, keep up public communication on service levels, and have the Budget Committee consider winter operations in upcoming budget cycles {{vote:m6}}. Staff did not recommend a citywide driveway windrow clearing program because of cost. Council also received the 2026 Arts Grant Report for information {{vote:m3}}. Council met in closed session earlier in the day on land and labour matters. The minutes report no public decisions from it."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "AI Governance Framework Policy",
+   "detail": "Council approved staff report CORP2026-032 and the A-046 AI Governance Framework Policy, which governs internal City use of artificial intelligence."
+  },
+  {
+   "motion": "m4",
+   "item": "Sustainability in AI policy",
+   "detail": "Council directed staff to add a sustainability principle to the AI Governance Framework as part of a future policy review."
+  },
+  {
+   "motion": "m6",
+   "item": "2025/26 winter control review",
+   "detail": "Council received the report and directed staff to pursue further winter maintenance improvements, maintain a communications plan, and have the Budget Committee explore improvements in upcoming budgets."
+  },
+  {
+   "motion": "m7",
+   "item": "2415 University Avenue East childcare",
+   "detail": "Council approved Official Plan Amendment No. 75 and Zoning By-law Amendment Z-26-08 to permit a childcare centre as a primary use."
+  },
+  {
+   "motion": "m8",
+   "item": "446 Albert Street development",
+   "detail": "Council approved Official Plan Amendment No. 49, Zoning By-law Amendment Z-23-13 and Draft Plan of Subdivision 30T-25401, and delegated minor changes and final registration approval to the Director of Planning."
+  },
+  {
+   "motion": "m3",
+   "item": "2026 Arts Grant Report",
+   "detail": "Council received the arts grant report for information only."
+  }
+ ],
+ "debate": [
+  "On the AI policy, one councillor asked how the City would stay accountable to the public. Staff said an inventory of AI use is a next step and is required by provincial legislation, and agreed to consider an umbrella reporting approach.",
+  "On sustainability in the AI policy, staff said it was left out as a standalone principle because methods for measuring AI's environmental impact are still developing. A councillor wanted it captured explicitly, and staff said they would find the best place for it in the framework.",
+  "On winter control, councillors raised west-end response times, bus stop clearing, ice on side streets, snow storage capacity and the salt shortage. Staff pointed to a feasibility study for a west-side satellite service centre, better coordination among the agencies involved, and snow-melting technology for the snow facility.",
+  "On 446 Albert Street, councillors asked about traffic cut-through on nearby residential streets, contamination and geothermal limits, stormwater, and pressure on the nearby woodlot. Staff and the applicant's planner said the added cut-through traffic would be small and that the City would keep monitoring traffic and trail use.",
+  "On the childcare expansion, the mayor asked about water conservation, given the regional water constraints. Staff said childcare centres are exempt from the building permit water restrictions, and the applicant's planner said the funding timeline drove the application."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:37:17"
+}

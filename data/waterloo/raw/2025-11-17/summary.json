@@ -1,0 +1,55 @@
+{
+ "title": "Development charge update delayed one month",
+ "subtitle": "Councillor pay changes, park funding, affordable housing grants, fire station expansion and parking rule reductions.",
+ "overview": [
+  "Council agreed to add one month to the review of the city's development charge by-law, so the process can account for provincial Bill 60. Staff will now finalize the background study using a revised growth-related capital program {{vote:m11}}. Home builders, realtors and construction industry delegates asked for a longer pause and a narrower program. Councillors questioned how much the charges affect housing prices and defended parks, recreation and library projects as growth-related.",
+  "Council also released capital funding for the Margaret Avenue Park and St Moritz Community Park projects {{vote:m9}} {{vote:m10}}, approved funding to start the first phase of the Fire Station 1 and 2 expansion {{vote:m13}}, and approved parking-related zoning changes that lower parking requirements and remove minimums in major transit station areas {{vote:m14}}.",
+  "On the consent agenda, council approved a new pay and benefits framework for the next term of Council, effective in November 2026 {{vote:m3}}, along with the 2026 interim tax levy {{vote:m4}}. Council received a report on affordable rental housing grants {{vote:m12}}. Council met in closed session earlier in the day on labour budget impact and training. The minutes report no decisions from it."
+ ],
+ "decisions": [
+  {
+   "motion": "m11",
+   "item": "Development charge by-law update",
+   "detail": "Council directed staff to finalize the Development Charge background study on the revised growth-related capital program and added one month to the project schedule at the request of the Waterloo Region Home Builders' Association {{vote:m11}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Elected officials' remuneration",
+   "detail": "Council approved Audit Committee recommendations that raise the Mayor's salary to $132,538 and the part-time Councillor salary to $58,463, tie annual increases to the Staff Association agreement, and start the process to join OMERS, effective for the next term {{vote:m3}}."
+  },
+  {
+   "motion": "m4",
+   "item": "2026 interim tax levy",
+   "detail": "Council approved report CORP2025-040 and the 2026 Interim Tax Levy By-law {{vote:m4}}."
+  },
+  {
+   "motion": "m9",
+   "item": "Margaret Avenue Park funding",
+   "detail": "Council released $1,593,000 of 2025 capital funding for the Bridgeport and Margaret Park project from the 2024-2026 capital budget {{vote:m9}}."
+  },
+  {
+   "motion": "m10",
+   "item": "St Moritz Community Park funding",
+   "detail": "Council released $1,682,000 for St Moritz Community Park and $924,000 for the spray pad project, with the spray pad funds transferred to the St Moritz project {{vote:m10}}."
+  },
+  {
+   "motion": "m13",
+   "item": "Fire station expansion, phase 1",
+   "detail": "Council released $3,080,000 from the Development Charges Reserve Fund, approved a $141,000 transfer, and directed staff to tender Fire Station 1 and Fire Station 2 construction work {{vote:m13}}."
+  },
+  {
+   "motion": "m14",
+   "item": "Parking-related zoning amendments",
+   "detail": "Council approved Zoning By-law Amendment Z-25-09, which reduces parking rates and removes parking minimums in protected major transit station areas {{vote:m14}}."
+  }
+ ],
+ "debate": [
+  "Delegates from the realtors' association, the home builders' association and the construction association asked for a pause or longer review of development charges. They cited Bill 60 uncertainty, housing affordability and slow construction starts. The home builders' delegate also urged focusing the program on roads, water and sewer rather than other services.",
+  "Several councillors questioned the link between the charges and home prices. They noted that Cambridge and Kitchener charge more than Waterloo, and that a few thousand dollars per unit is small against the gap between what buyers can afford and what homes cost. One councillor described the home builders' position on recreation facilities as dismissive of west-end residents.",
+  "Staff said development charge projects are growth-related, so shifting costs to property taxes would strain the tax base and the water and sewer funds. Parkland acquisition is paid from a separate reserve. Staff described the extra month as a timeline extension, not an open-ended pause.",
+  "One councillor asked for rates showing the west-side recreation facility and Waterloo Park work at their original timing. Staff said they would bring back options showing what each change would do to the rates.",
+  "On the parking amendments, one councillor raised concern that zero required parking also means zero required accessible spaces. Staff said the Planning Act bars requiring any vehicle parking in major transit station areas, but they will ask applicants to provide accessible spaces."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T19:10:23"
+}

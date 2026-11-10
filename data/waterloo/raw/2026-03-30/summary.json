@@ -1,0 +1,40 @@
+{
+ "title": "Election voting methods, Union Street tender and two housing approvals",
+ "subtitle": "Vote at Home option, Union Street East reconstruction, Erbsville Road townhouses, Westhill Drive apartment building, WR Community Energy report",
+ "overview": [
+  "Council confirmed the voting method for the 2026 municipal election as paper ballots with electronic tabulators, with a Vote at Home option available on request {{vote:m1}}. Council later passed a by-law authorizing Vote at Home as an alternative method. Staff noted that electronic-only voter cards and a cached voters list are meant to reduce start-of-day slowdowns seen in the last election.",
+  "Council awarded the Union Street East reconstruction tender (King St. S. to Moore Ave. S.) and released $6,000,000 in partial funding {{vote:m2}}. It also approved two housing proposals: townhouses and stack townhouses at 720 Erbsville Road, with a park, trail and environmental lands going to the City {{vote:m3}}, and a six-storey rental building at 36 Westhill Drive {{vote:m4}}. The Westhill Drive site is subject to a holding provision until the Region confirms water and sanitary servicing capacity.",
+  "Council also heard the WR Community Energy annual report, which asked council to weigh long-term local value in upcoming energy decisions. Under new business, the Mayor reported on Association of Municipalities of Ontario changes to communications and procurement."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "2026 election voting method",
+   "detail": "Council approved the staff report and directed staff to bring forward a by-law confirming paper ballots with electronic tabulators, plus Vote at Home on request."
+  },
+  {
+   "motion": "m2",
+   "item": "Union Street East reconstruction tender",
+   "detail": "Council awarded tender RFT26-08 to Regional Sewer and Watermain for a total of $4,844,237.97 and released $6,000,000 in partial funding."
+  },
+  {
+   "motion": "m3",
+   "item": "720 Erbsville Road (OPA 45 and Z-22-15)",
+   "detail": "Council approved the official plan and zoning amendments for a Sunvest townhouse development, including a park, trail and conveyance of environmental lands to the City."
+  },
+  {
+   "motion": "m4",
+   "item": "36 Westhill Drive rezoning",
+   "detail": "Council approved Zoning By-law Amendment Z-25-22 for BlackDoor (Westhill) Inc., allowing a six-storey building with site-specific provisions and a servicing holding provision."
+  }
+ ],
+ "debate": [
+  "Council members asked how the Erbsville Road site would connect to the undeveloped land to the south. Staff said the stormwater pond, access and servicing are designed to allow it, secured through easements at site plan.",
+  "The Erbsville Road sidewalk and road widening drew attention. Staff said the Region sets the required width and the applicant must provide whatever widening is needed. One councillor said sidewalk connectivity depends on the Region's planned reconstruction and called it a reasonable leap of faith.",
+  "Councillors raised environmental protection at Erbsville Road: clear condo notice about City-owned lands, salt management near the aquifer recharge area and Laurel Creek, bird-friendly glass, and geothermal and EV-ready options.",
+  "At Westhill Drive, councillors asked about visitor parking, tree removal and replacement, heat and water efficiency, and heat pump noise. A resident delegate said earlier concerns about height, density, reduced setbacks and runoff had not been addressed. Staff said snow storage and drainage would be reviewed at site plan.",
+  "Councillors raised the Region's water capacity constraints, which is why the Westhill Drive holding provision stays until the Region confirms servicing."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:40:02"
+}

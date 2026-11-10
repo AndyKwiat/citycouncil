@@ -1,0 +1,60 @@
+{
+ "title": "Council finalizes 2025 budget amendments",
+ "subtitle": "Hospital funding, climate retrofits, community grants, Beaumont Park, sponsorship, bicentennial and reserve and debt pressures.",
+ "overview": [
+  "Council met on budget amendment day to finish the 2025 budget update. It paid the 2025 Guelph General Hospital installment from the operating contingency reserve {{vote:m1}}, restored climate retrofit funding through the 100RE reserve {{vote:m8}}, and raised the base community grants budget to $500,000 {{vote:m13}}. Many items were framed as requests that the Mayor consider changes in the 2026 and 2027 budgets, including affordable housing money, Beaumont Park construction and the city's bicentennial.",
+  "Not everything passed. A $100,000 transfer to the Public Art Reserve was defeated {{vote:m15}}. Council funded a one-time sponsorship resource from the contingency reserve instead of the tax levy {{vote:m18}}. Staff reminded council that this reserve is well below its target.",
+  "The Mayor said no amendments would be vetoed. Staff reported the 2025 tax levy impact in the range of six per cent once outside boards are included, to be confirmed in January. Council also approved reserve, debt and rates housekeeping and asked staff for reports on culture plan funding, master plan outcomes and capital sustainability. Residents should expect a higher levy than first proposed, more neighbourhood and community investment, and continued pressure on reserves and debt."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Guelph General Hospital installment",
+   "detail": "Council moved $750,000 from the Tax Rate Operating Contingency reserve to fund the 2025 hospital installment instead of the tax levy {{vote:m1}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Beaumont Park design",
+   "detail": "Council added $100,000 in 2025 to move Beaumont Park design work up from 2028, with a request that the Mayor reduce the 2026 growth reserve transfer to offset it {{vote:m2}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Affordable housing reserve",
+   "detail": "Council asked the Mayor to consider adding $400,000 to the Affordable Housing Reserve in the 2026 budget update {{vote:m6}}."
+  },
+  {
+   "motion": "m8",
+   "item": "100RE climate initiatives",
+   "detail": "Council added $1,150,000 to the 2025 operating budget, mostly for the 100RE reserve fund, to restore energy efficiency and climate work {{vote:m8}}."
+  },
+  {
+   "motion": "m13",
+   "item": "Community grants increase",
+   "detail": "Council raised the base community grants budget by $167,400 to $500,000 in 2025, after an attempt to delay the increase to 2026 failed {{vote:m13}}."
+  },
+  {
+   "motion": "m18",
+   "item": "Sponsorship and partnerships resource",
+   "detail": "Council allocated up to $100,000 from the operating contingency reserve for one-time help expanding corporate sponsorship, with staff to report back by the end of 2025 {{vote:m18}}."
+  },
+  {
+   "motion": "m21",
+   "item": "Bicentennial funding",
+   "detail": "Council asked the Mayor to consider $300,000 in 2026 and $200,000 in 2027 for Guelph's bicentennial, then reduce the 2028 operating budget by $500,000 {{vote:m21}}."
+  },
+  {
+   "motion": "m25",
+   "item": "Reserves, debt and rates",
+   "detail": "Council readopted 2025-2027 rates and fees, created two new reserve funds, acknowledged low reserves and high debt, and directed staff to study capital sustainability and water and wastewater rate balance {{vote:m25}}."
+  }
+ ],
+ "debate": [
+  "On Beaumont Park, councillors described an underserviced neighbourhood with no sidewalks and many children and families facing disabilities or economic hardship. Staff said it was a development-charge project but the reserve is short. Advancing it means tax-supported money goes into the growth reserve, which will be repaid with interest once development charges arrive.",
+  "On the 100RE funding, opponents said it was discretionary and could wait a year, and asked about grants. Staff said it pays for upgrades during like-for-like replacements, such as a boiler, where the chance is lost if skipped. Supporters said it pays back through efficiency savings and resilience, and could partly support community energy work.",
+  "On community grants, one councillor raised concern about affordability, given the levy was approaching six per cent, and about adding to the base without a policy review. Supporters cited demand rising from about $606,000 of requests in 2020 to $848,000 in 2024 against an envelope of $332,600. Staff said a full program review is planned for 2026.",
+  "On the affordable housing reserve, one councillor said the city already supports affordable housing through development charge and HST exemptions, which staff estimated at about $49.5 million over ten years. Others wanted a clearer policy on whether the reserve builds up or provides seed money. Staff said housing strategy and policy work will return in 2025.",
+  "On sponsorship, staff said the existing sponsorship role is full and a one-time resource could pursue naming rights and new partnerships. A councillor proposed funding it from the contingency reserve to avoid a permanent position. Staff warned that reserve is well below target, and some councillors opposed drawing on it after the hospital transfer."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:59:08"
+}

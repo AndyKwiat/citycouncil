@@ -1,0 +1,50 @@
+{
+ "title": "Parking reductions for affordable housing and homelessness advocacy",
+ "subtitle": "Neighbourhood grants, accessibility committee appointments, and an update from the Kitchener-Waterloo Symphony's new board.",
+ "overview": [
+  "Council directed staff to finish a process for reducing parking requirements on affordable housing developments {{vote:m4}}. Staff will bring a final report in about a month. The aim is to avoid the long zoning amendment process that housing providers now face, which can delay projects.",
+  "Council also endorsed the Association of Municipalities of Ontario's report on homelessness, Municipalities Under Pressure, and agreed to work with the association on its recommendations {{vote:m6}}. The motion will be sent to federal and provincial officials and other bodies. Staff said regional analysis of local data should be available toward the end of February.",
+  "On the consent agenda, Council approved updated neighbourhood-led initiatives policy {{vote:m2}}. It received reports on neighbourhood supports and the sports and recreation grant. Council appointed three people to the Grand River Accessibility Advisory Committee for terms ending in 2028 {{vote:m5}}. The new board of the Kitchener-Waterloo Symphony gave a presentation about the orchestra's bankruptcy and its plans to restart. No motion followed it."
+ ],
+ "decisions": [
+  {
+   "motion": "m4",
+   "item": "Parking reductions for affordable housing",
+   "detail": "Council received the update and directed staff to finalize the process, legal agreement template and monitoring framework for reviewing parking reduction requests for affordable housing units."
+  },
+  {
+   "motion": "m6",
+   "item": "AMO homelessness report endorsement",
+   "detail": "Council endorsed the Municipalities Under Pressure report, committed to work with AMO on its findings and the Solve the Crisis campaign, and agreed to send the motion to federal and provincial officials and others."
+  },
+  {
+   "motion": "m2",
+   "item": "Neighbourhood-led initiatives policy",
+   "detail": "Council approved report COM2025-002 and the amended Supporting Neighbourhood-Led Initiatives Policy."
+  },
+  {
+   "motion": "m5",
+   "item": "Accessibility committee appointments",
+   "detail": "Council appointed two new members and re-appointed one to the Grand River Accessibility Advisory Committee for a term ending December 31, 2028."
+  },
+  {
+   "motion": "m1",
+   "item": "Neighbourhood supports in 2024",
+   "detail": "Council received report COM2025-001 as information."
+  },
+  {
+   "motion": "m3",
+   "item": "Sports and recreation grant 2024",
+   "detail": "Council received report COM2025-003 on 2024 funding allocation as information."
+  }
+ ],
+ "debate": [
+  "On parking reductions, one councillor asked how transit access factors into the criteria. Staff said most multi-unit housing is in nodes and corridors, which are typically along transit routes.",
+  "A councillor questioned whether 25 years is long enough for units to stay affordable. Staff said the 25 years is a minimum threshold for the criteria. The length of affordability is secured through separate agreements, and if units stop being affordable the parking reduction would remain.",
+  "On the homelessness motion, the mayor said municipalities cannot bear the cost alone and need provincial and federal partnership. One councillor said the report favours prevention and long-term housing over crisis and enforcement approaches, and raised concern about proposed provincial legislation that emphasizes enforcement.",
+  "Staff said the report is being reviewed with regional staff, who are the service manager. Local analysis will draw on the fall point-in-time count.",
+  "Symphony board representatives said the orchestra had a deficit before the pandemic and that audiences were slow to return. They said they need political and city support in the interim. Councillors raised risks such as volunteer burnout and asked about youth programs and reaching diverse audiences."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T19:11:14"
+}

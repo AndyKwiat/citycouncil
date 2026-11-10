@@ -148,6 +148,7 @@ class SiteText(unittest.TestCase):
             text = re.sub(r'<details class="meeting.*?</details>', "", page.read_text(), flags=re.S)
             text = re.sub(r'<div class="(tr|mins)">.*', "", text, flags=re.S)
             text = re.sub(r'<div class="cn-vote">.*?</div>', "", text, flags=re.S)
+            text = re.sub(r'<(span|h1) class="mt">.*?</(span|h1)>', "", text, flags=re.S)  # meeting titles
             self.assertIsNone(re.search(r"\bAI\b", text), page)
             self.assertIn('class="site"', page.read_text(), page)
 

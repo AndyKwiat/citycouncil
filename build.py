@@ -436,7 +436,7 @@ def build_transcript(out, city, key, sumr, m, meta, segs, long_date):
         prev_end = pr["end"]
     (out / "transcripts" / f"{key}.html").write_text(page(f"Transcript: {long_date}", f"""
 <header class="top"><div class="eyebrow"><a href="../index.html#m-{key}">&larr; All meetings</a></div>
-<h1>{e(sumr['title'])}</h1><p class="lede">{e(body_title(city, m))}, {long_date}. {meta['words']:,} words.
+<h1 class="mt">{e(sumr['title'])}</h1><p class="lede">{e(body_title(city, m))}, {long_date}. {meta['words']:,} words.
 <a href="{video}">Watch the recording</a>.</p></header>
 <div class="note">{SOURCE_NOTE[meta['method']]} Expect misspelled names and misheard words, and there are no speaker labels.
 Timestamps are positions in the recording, not clock time. For what was officially decided, rely on the

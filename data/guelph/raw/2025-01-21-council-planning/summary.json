@@ -1,0 +1,35 @@
+{
+ "title": "Community planning permit system and Watson Parkway development",
+ "subtitle": "Also: Glasgow Street demolition approved, closed-session tribunal update, and a 1,129-unit east-end zoning proposal heard.",
+ "overview": [
+  "Council held two statutory public meetings at its January 21 planning meeting. Both were for information only, and no decisions were made on the applications themselves. Council received staff's report on a draft Official Plan amendment and draft community planning permit by-law for the Stone Road and Edinburgh area {{vote:m3}}. The new tool would combine zoning, minor variance and site plan review into one process. Staff expect the final documents to come back to Council on April 8.",
+  "Council also received the report on a proposed zoning change at 115 Watson Parkway North {{vote:m4}}. The proposal is for mixed-use buildings, townhouses, a public park and protected natural heritage lands. It would bring commercial space, which east-end residents have long asked for, along with new housing. Councillors raised questions about parking, back-to-back townhouse design, the park location and energy performance. Staff will bring a recommendation report later.",
+  "On the consent agenda, Council found that 56-58 Glasgow St. S. does not meet the criteria for heritage designation. It approved the demolition and removed the property from the heritage register {{vote:m2}}. After a closed session on a Gordon Street Ontario Land Tribunal matter, the Mayor reported that Council received information and gave direction to staff."
+ ],
+ "decisions": [
+  {
+   "motion": "m3",
+   "item": "Community planning permit system, Stone Road and Edinburgh",
+   "detail": "Council received the statutory public meeting report on the draft Official Plan amendment and draft community planning permit by-law, with feedback going back to staff {{vote:m3}}."
+  },
+  {
+   "motion": "m4",
+   "item": "115 Watson Parkway North zoning amendment",
+   "detail": "Council received the public meeting report on a proposed zoning change for 1,129 homes, commercial space, a park and natural heritage lands, with no decision yet {{vote:m4}}."
+  },
+  {
+   "motion": "m2",
+   "item": "56-58 Glasgow St. S. demolition",
+   "detail": "Council determined the property does not meet the criteria for heritage designation, approved its demolition and removed it from the heritage register {{vote:m2}}."
+  }
+ ],
+ "debate": [
+  "On the planning permit system, councillors asked how neighbours would learn about applications. Staff said the draft by-law sets notice rules beyond what the province requires. Several councillors asked for on-site signs, and staff said they would consider this.",
+  "Developer letters on the permit system raised concerns about added complexity, such as site plan control for projects of ten units or fewer, and required studies. Staff said they would look at scaling back study requirements and at making some discretionary uses permitted, and would meet with the writers individually. One councillor said any added regulation that does not apply across the road is a non-starter, and that signs should inform people without enabling delay.",
+  "Councillors raised parking in the Stone Road draft, including no visitor parking for buildings under 20 units. They also asked about bicycle parking for cargo bikes, ramps in illustrations, the financial analysis for affordable housing trade-offs and cash in lieu, and public health's comments.",
+  "On Watson Parkway, councillors asked about the many site-specific changes requested. These include 14 storeys, higher density, smaller townhouse widths and higher lot coverage. The applicant's representatives said the site is awkward and its constraints require a site-specific zone. They said the commercial space has roughly doubled since the neighbourhood meeting, and the owner reported strong interest from grocers.",
+  "Councillors raised concerns about the back-to-back townhouses: no space for barbecues, play areas, storage or community rooms, and the garage size, including room for bins. The owner said communal parking would not sell. Others asked the owner to go beyond the stated plans on energy performance, since the owner is not currently considering net zero. Councillors also discussed park location and visitor parking arrangements."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:46:24"
+}

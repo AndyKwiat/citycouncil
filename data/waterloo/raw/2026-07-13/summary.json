@@ -1,0 +1,41 @@
+{
+ "title": "Water supply allocation policy approved",
+ "subtitle": "Sunview Street sale to Laurier, two Official Plan amendments, citywide zoning changes including hospital zoning, and a delegation by-law update.",
+ "overview": [
+  "Council approved a Water Supply Allocation Policy that sets how the city will hand out water capacity released by the Region, with priority for projects such as affordable housing. It also authorized an administrative agreement with the Region and other area municipalities {{vote:m4}}. Staff said the agreement is not yet finished and will affect how quickly allocations can be made.",
+  "Council approved Official Plan and zoning amendments for a grocery store at 200 Weber Street North {{vote:m7}} and for a food store, ancillary uses and a small data centre at 388 Phillip Street {{vote:m8}}. Both sites carry holding provisions, and the Weber Street site faces flood-related building permit hurdles.",
+  "Council declared part of Sunview Street surplus and approved its sale to Wilfrid Laurier University {{vote:m5}}. One councillor declared a conflict and did not vote.",
+  "Council also amended the delegation by-law for Ontario Land Tribunal appeals {{vote:m6}} and approved citywide zoning amendments, including a new hospital zoning definition and inclusionary zoning rules {{vote:m9}}. Council met in closed session earlier in the day, and the minutes record no public announcement from it."
+ ],
+ "decisions": [
+  {
+   "motion": "m4",
+   "item": "Water Supply Allocation Policy",
+   "detail": "Council adopted the city's water supply allocation policy by by-law and authorized staff to sign an administrative agreement with the Region and other area municipalities, subject to the City Solicitor's approval {{vote:m4}}."
+  },
+  {
+   "motion": "m5",
+   "item": "Sunview Street disposition",
+   "detail": "Council declared the segment of Sunview Street south of Seagram Drive surplus, stopped up and closed it, and approved its sale to Wilfrid Laurier University for a nominal sum, with a land transfer back to the city for road widening {{vote:m5}}."
+  },
+  {
+   "motion": "m7",
+   "item": "200 Weber Street North",
+   "detail": "Council approved Official Plan Amendment 63 and Zoning By-law Amendment Z-25-05 to allow a food store with offices, with a gas station prohibited and the floodway designated open space {{vote:m7}}."
+  },
+  {
+   "motion": "m8",
+   "item": "388 Phillip Street",
+   "detail": "Council approved Official Plan Amendment 72 and Zoning By-law Amendment Z-25-26 to allow a food store and ancillary uses in the existing vacant building, with holding provisions on new construction and water capacity {{vote:m8}}."
+  }
+ ],
+ "debate": [
+  "On the water policy, councillors asked how holding provisions and funding deadlines would interact, and staff said projects with senior-government housing funding would be prioritized and worked with on timelines.",
+  "Councillors questioned how the city's data would be handed to the Region, and who would check total growth and commitments across municipalities. Staff said the contact at the Region was not yet specified and that the policy includes a validation step the other municipalities are expected to adopt.",
+  "Staff explained the five-month use-it-or-lose-it window as shorter than Kitchener's six-month rule, which also requires construction to start. They said withdrawal is discretionary, not automatic.",
+  "On 200 Weber Street North, councillors asked about flooding, noting a building permit may not be issued. Staff said a flood emergency plan is required through a holding provision and safe access must still be shown. One councillor supported the grocery store but urged caution about how the process unfolded.",
+  "On 388 Phillip Street, councillors asked about the small data centre's power and water use. Staff said it would use a separate non-potable aquifer and be a small enterprise facility, and a councillor welcomed a nearby food store."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:35:53"
+}

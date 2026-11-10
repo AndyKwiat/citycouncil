@@ -1,0 +1,50 @@
+{
+ "title": "Council funds rural health centre expansion grant",
+ "subtitle": "Also: new workforce software, Christmas tree collection ending, Cambridge bus lanes and river crossings, procedural by-law, homelessness report.",
+ "overview": [
+  "Regional Council approved a grant of $81,681.86 to the Woolwich Community Health Centre, paid from the tax stabilization reserve {{vote:m8}}. The grant matches the regional development charges on the centre's expansion. The recommendation from committee had been to defer the request to the 2027 budget, but Council removed the deferral. The expansion is nearly finished and is meant to connect more rural residents without a family doctor to care.",
+  "Council also approved a five-year contract for UKG workforce management software, with implementation costs of about $500,000 to come from the operating budget. It decided to end Region-run curbside Christmas tree collection in January 2027. A local fundraiser service and a free drop-off at waste sites will replace it. Other approvals include a Cambridge brownfield tax increment grant, new bus lanes and turn designations, an expropriation for Victoria Street North, and the 2027 paramedic response time targets. Council asked staff for a report on homelessness services in underserved municipalities such as Cambridge.",
+  "Council went into closed session on CUPE Local 1883 negotiations and staffing matters. The minutes report no decisions from it. A delegate also asked Council to help test a net for recycling bins."
+ ],
+ "decisions": [
+  {
+   "motion": "m8",
+   "item": "Woolwich Community Health Centre grant",
+   "detail": "Council approved a grant of $81,681.86 from the tax stabilization reserve to cover the Regional development charges on the centre's expansion {{vote:m8}}."
+  },
+  {
+   "motion": "m5",
+   "item": "UKG workforce management software",
+   "detail": "Council accepted UKG Canada's quote of $2,904,156 plus taxes for a five-year term starting around September 30, 2026."
+  },
+  {
+   "motion": "m11",
+   "item": "Sustainability, Infrastructure and Development recommendations",
+   "detail": "Council approved a Cambridge tax increment grant of up to $173,080 for 30 George Street South, bus lane changes, the surplus transfer of 110 Howard Avenue to Woolwich, and an expropriation on Victoria Street North. It also ended curbside Christmas tree collection from January 2027 and directed a study of Cambridge river crossings {{vote:m11}}."
+  },
+  {
+   "motion": "m10",
+   "item": "Paramedic response times and homelessness report",
+   "detail": "Council approved the 2027 Response Time Performance Plan and directed staff to report in November on improving homelessness services in underserved municipalities such as Cambridge {{vote:m10}}."
+  },
+  {
+   "motion": "m7",
+   "item": "Accessibility advisory committee terms of reference",
+   "detail": "Council adopted refreshed terms of reference for the Grand River Accessibility Advisory Committee, with language ensuring township representation {{vote:m7}}."
+  },
+  {
+   "motion": "m6",
+   "item": "New procedural by-law notice",
+   "detail": "Council directed the Clerk to give public notice that it will consider a new procedural by-law on October 14, to take effect November 15, 2026 {{vote:m6}}."
+  }
+ ],
+ "debate": [
+  "Supporters of the health centre grant said it was a small request next to past regional health investments, and that primary care prevents acute crises. They noted the centre had used up its reserves and expects a negative balance. The centre said the grant would fund over half of a nurse practitioner position, which could connect hundreds of patients to care.",
+  "Some councillors worried about precedent and about deciding outside the budget. They said setting the grant to match development charges could look like a waiver, and one suggested a smaller amount. Others said the request was a grant, not a waiver, and that the timing mattered because the building was nearly complete. An amendment to round the amount up to $82,000 was defeated {{vote:m9}}.",
+  "Staff said the tax stabilization reserve was about $16 million against a recommended minimum of $20 million, and that it is used to balance year-end books. Some councillors questioned that description and said fuel and other areas have their own reserves.",
+  "On the UKG software, a councillor questioned the five-year term and whether internal rollout costs were included. Staff said a five-year term suits fast-changing technology and that implementation costs are separate, funded from existing operating budgets.",
+  "A delegate proposed a reusable net to keep litter from open recycling bins and asked for a pilot. Councillors saw merit, but the delegate said Circular Materials and the collector had not approved it. The Region's CAO said it cannot require private firms to take part but staff would help arrange discussions."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:45:03"
+}

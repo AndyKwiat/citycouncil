@@ -1,0 +1,50 @@
+{
+ "title": "City-owned land use and housing progress update",
+ "subtitle": "Heritage designations, a new affordable housing seed fund, and a buy-Canadian procurement direction amid tariffs.",
+ "overview": [
+  "Council reviewed which city-owned properties could be used for housing. It voted down a clause to sell the Rodgers Road site {{vote:m14}}. It then directed staff to look at adding homes to the downtown surface parking lots at Neeve Street and Fountain Street and at other suitable sites, with parkland and land set aside for future greenspace excluded {{vote:m15}}.",
+  "Council received the first semi-annual housing report and approved a new Affordable Housing Seed Funding Program of up to $100K from the Affordable Housing Reserve {{vote:m16}}. Staff reported that Guelph is behind on its housing targets and that the remaining Housing Accelerator Fund payments depend on showing progress on new units.",
+  "Council also adopted a motion to avoid new procurements from US-based companies where possible, to work with local business on tariff challenges, and to seek provincial clarity {{vote:m17}}. In the consent agenda, council gave notice of intention to designate nine properties under the Ontario Heritage Act and approved a heritage permit for new construction at 33-35 James Street West {{vote:m2}}. After a closed session, the Mayor reported that council only received information."
+ ],
+ "decisions": [
+  {
+   "motion": "m14",
+   "item": "Rodgers Road site disposition",
+   "detail": "Council defeated the clause directing staff to dispose of the Rodgers Road site under the real property sale policy {{vote:m14}}."
+  },
+  {
+   "motion": "m15",
+   "item": "Residential use on city-owned land",
+   "detail": "Staff were directed to prioritize evaluating residential use on the Neeve Street and Fountain Street downtown parking lots and other suitable properties, excluding parkland and land earmarked for future greenspace {{vote:m15}}."
+  },
+  {
+   "motion": "m16",
+   "item": "Housing update and seed funding program",
+   "detail": "Council received the semi-annual housing report, approved the Affordable Housing Seed Funding Program with up to $100K from the Affordable Housing Reserve, and approved updating the reserve policy terms {{vote:m16}}."
+  },
+  {
+   "motion": "m17",
+   "item": "Supporting Guelph and Canada's economy",
+   "detail": "Council committed to work with local business on tariff challenges, avoid new US-based procurements where possible, and seek provincial clarity on countermeasures {{vote:m17}}."
+  },
+  {
+   "motion": "m8",
+   "item": "33-35 James Street West heritage permit",
+   "detail": "Council approved a heritage permit for new construction at 33-35 James Street West in the Brooklyn and College Hill Heritage Conservation District {{vote:m8}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Heritage designation notices",
+   "detail": "Council authorized notices of intention to designate properties under the Ontario Heritage Act, starting with 19 Woodycrest Drive, with by-laws to return if no objections are received in 30 days {{vote:m3}}."
+  }
+ ],
+ "debate": [
+  "A delegate living near the Rodgers Road site opposed housing there, citing limited on-street parking on a cul-de-sac used by trail users, emergency vehicle access, and a larger South Creek Trail parcel they thought better suited.",
+  "One councillor opposed selling the Rodgers Road site because it is small and sits beside a trail entrance to a park, where buildings could create an unsafe tunnel effect. The same councillor said parkland is a public trust and should be excluded from further evaluation.",
+  "Another councillor supported excluding parkland, noting that thousands of approved homes remain unbuilt, and said casting a wide net first and narrowing it later was reasonable.",
+  "On the housing report, councillors asked about the rise in additional dwelling units as a share of permits. Staff said these are more affordable to create, and that Guelph is well behind its Housing Accelerator Fund unit targets.",
+  "Councillors asked about the seed fund's size. Staff said $100,000 is the first-year amount and they would return to council for more. A councillor asked for a memo if the money runs out, and staff said grant money had not been considered for it."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:36:45"
+}

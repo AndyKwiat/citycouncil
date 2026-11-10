@@ -13,7 +13,7 @@ def card(b):
     when = ""
     if latest:
         day = dt.date.fromisoformat(latest["date"])
-        when = f'Latest: {day:%B} {day.day}, {day.year}, {e(latest["title"])}.'
+        when = f'Latest: {day:%B} {day.day}, {day.year}, <span class="mt">{e(latest["title"])}</span>.'
     count = b.get("count", 0)
     return (f'<a class="council" href="{b["slug"]}/">{image}<div><h2>{e(b["name"])}</h2>'
             f'<p>{e(b["council"])}. {count} meeting{"s" if count != 1 else ""} summarized. {when}</p></div></a>')

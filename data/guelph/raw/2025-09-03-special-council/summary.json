@@ -1,0 +1,45 @@
+{
+ "title": "Council re-votes on 343 Waterloo Avenue redevelopment",
+ "subtitle": "Repeat public meeting after a notice error, with debate on parking, affordability, process and site plan review.",
+ "overview": [
+  "Council held a special meeting to vote again on a proposal for 343 Waterloo Avenue. The mayor said an administrative mix-up with the notice timing for the earlier meeting meant the process had to be repeated. Council heard from the property owners and several neighbours before deciding.",
+  "Council approved an Official Plan amendment and a site-specific Convenience Commercial 12 zoning for a mixed-use building with rental housing {{vote:m1}}. Approval requires a full site plan application, an affordable housing agreement with the City, and payment of all planning and development fees. Site plan is not a public process, so residents will not have a further formal say, though an appeal remains possible.",
+  "Residents raised concerns about parking, garbage collection, snow removal, construction impacts and whether the affordable units go far enough. Others questioned the process that led to the first vote. Council also approved three by-laws {{vote:m2}}, and the meeting adjourned about 20 minutes after it began."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Official Plan amendment",
+   "detail": "Council changed the designation of 343 Waterloo Avenue from Low Density Residential to a site-specific Low Density Residential designation {{vote:m1}}."
+  },
+  {
+   "motion": "m1",
+   "item": "Zoning by-law amendment",
+   "detail": "The zoning moves from Convenience Commercial 3 to a site-specific Convenience Commercial 12 zone to permit the proposed development."
+  },
+  {
+   "motion": "m1",
+   "item": "Site plan requirement",
+   "detail": "A complete site plan application must satisfy the chief planner and city engineer before building permits are issued."
+  },
+  {
+   "motion": "m1",
+   "item": "Affordable housing agreement",
+   "detail": "Permit approvals depend on the applicant entering into an affordable housing agreement with the City."
+  },
+  {
+   "motion": "m1",
+   "item": "Planning and development fees",
+   "detail": "The applicant must pay all applicable planning and development fees for the project."
+  }
+ ],
+ "debate": [
+  "The applicants said the building would be environmentally focused, with nine rental units, two affordable units, solar panels, heat pumps, no gas and car-light living near transit. They said parking and stormwater would be handled through the planning process.",
+  "Several neighbours raised parking: eight spaces for nine units plus a business, concerns about tandem spaces, spillover onto nearby side streets, and one accessible space shared by residential and commercial users. One delegate supported the project and said car-free living suits the location.",
+  "Delegates also raised garbage collection, snow removal and heated pavement, construction safety on the single sidewalk and entrance, and the effect of a four-storey building on the adjacent home's sunlight and privacy.",
+  "Some delegates questioned the use of strong mayor powers and the loss of planning staff input. They said two affordable units out of nine would still be unaffordable for many households. They asked council to defer.",
+  "In response to a councillor's question, staff said parking, accessibility, waste, snow storage and stormwater details would be reviewed at site plan. The applicant's planner said any additional required accessible space would have to be added, and the decision could still be appealed. One councillor opposed approving it without staff analysis."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:15:54"
+}

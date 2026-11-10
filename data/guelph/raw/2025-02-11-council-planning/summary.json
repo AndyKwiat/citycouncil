@@ -1,0 +1,45 @@
+{
+ "title": "Downtown building heights and affordable housing grants",
+ "subtitle": "Heritage designations, Cambridge to Guelph passenger rail support, and the mayor's call to buy local",
+ "overview": [
+  "Council held a statutory public meeting on proposed downtown building height limits. It received the report {{vote:m4}}, which means no decision was made. Staff expect to bring the draft Official Plan amendment back for a decision in April. Councillors asked for the background rationale behind specific heights, and several suggested the plan could go further on height and flexibility.",
+  "Council approved the city's first Affordable Housing Community Improvement Plan {{vote:m5}}. It sets grants for converting vacant space, adding units in existing homes and building new affordable units. Applications are expected to open in early March, after a 20-day appeal period.",
+  "Council also supported a proposed Cambridge to Union passenger rail connection through Guelph {{vote:m2}}, with the Mayor to write to Metrolinx. It approved heritage designations for 22 James Street East {{vote:m1}} and the 37 Christie Lane conservatory steel {{vote:m3}}. In announcements, the Mayor encouraged residents to support local and Canadian businesses, and said staff are working on resources and policy options."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "Affordable Housing Community Improvement Plan",
+   "detail": "Council approved the plan, which offers grants for affordable units and requires annual compliance declarations, with repayment if terms are broken {{vote:m5}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Cambridge to Union passenger rail",
+   "detail": "Council received the initial business case and directed the Mayor to write to Metrolinx supporting it in principle {{vote:m2}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Downtown building heights public meeting",
+   "detail": "Council received the statutory public meeting report on the draft Official Plan amendment, with no decision taken {{vote:m4}}."
+  },
+  {
+   "motion": "m1",
+   "item": "22 James Street East designation",
+   "detail": "Council received the owner's objection and approved the heritage designation by-law {{vote:m1}}."
+  },
+  {
+   "motion": "m3",
+   "item": "37 Christie Lane designation",
+   "detail": "Council received the university's objection and approved the designation by-law, which protects salvageable steel from the conservatory {{vote:m3}}."
+  }
+ ],
+ "debate": [
+  "Developer consultants said the draft heights lacked background studies and rationale. They asked for more height, with figures of 16 and 35 storeys suggested for particular sites, and for flexibility for future community planning permit by-law heights.",
+  "A resident of a street near the northwest edge of the plan area raised concerns about parking, narrow streets, child safety and traffic if a tall building were built on a nearby vacant lot. One councillor asked staff to revisit the London to Paisley corridor.",
+  "Two callers opposed taller buildings, citing climate impact, water supply, parkland shortages, affordability and the lack of outreach to residents. One said the process needed fuller community engagement.",
+  "Councillors split on step-backs. One said they should stay mandatory to protect streetscapes and walkability, while another said they remove housing and preferred more flexibility.",
+  "On the rail connection, councillors asked about cost. Staff said the proposal assumes full provincial funding, and any future city capital cost would come to council through the budget."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T18:39:29"
+}
