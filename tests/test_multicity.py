@@ -104,6 +104,10 @@ class KeysAndTerms(unittest.TestCase):
                                                  {"id": "m2", "item_title": "Adjournment"}]}))
         self.assertFalse(closed_only({"motions": [{"id": "m1", "item_title": "Budget"}]}))
         self.assertFalse(closed_only({"motions": [{"id": "m1", "item_title": "Appointment of Closed Meeting Investigator - 2026-250"}]}))
+        from core.summarize import procedural_ids
+        motions = [{"id": "m1", "item_title": "By-laws", "text": "THAT By-law 2026-66 to Confirm the Proceedings of Council be passed."},
+                   {"id": "m2", "item_title": "By-laws", "text": "THAT the Development Charges By-law 2025-40 be passed."}]
+        self.assertEqual(procedural_ids(motions), {"m1"})
 
 
 class GuelphData(unittest.TestCase):

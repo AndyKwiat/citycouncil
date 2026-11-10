@@ -59,7 +59,18 @@ def transcript_text(segs):
 
 
 def procedural_ids(motions):
-    return {x["id"] for x in motions if re.search(PROCEDURAL, x["item_title"], re.I) and not re.search(r"summary", x["item_title"], re.I)}
+    """Routine motions. A "By-laws" item counts only when its motion confirms the proceedings: several councils pass
+    substantive by-laws (development charges, heritage designations) under that heading."""
+    out = set()
+    for x in motions:
+        title = x["item_title"]
+        if not re.search(PROCEDURAL, title, re.I) or re.search(r"summary", title, re.I):
+            continue
+        if re.search(r"by-?laws?$", title, re.I) and not re.search(PROCEDURAL.replace("|by-?laws?$", ""), title, re.I) \
+                and not re.search(r"confirm", x.get("text", "") + " " + title, re.I):
+            continue
+        out.add(x["id"])
+    return out
 
 
 def closed_only(minutes):
