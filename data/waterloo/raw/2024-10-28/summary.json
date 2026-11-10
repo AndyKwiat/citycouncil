@@ -1,0 +1,30 @@
+{
+ "title": "Council commits to combatting hate and racism",
+ "subtitle": "Drinking water system review, a 10-storey development proposed at 1 Dunbar Road North, and neighbourhood events.",
+ "overview": [
+  "Council passed a motion reaffirming its condemnation of racism and hate-motivated incidents {{vote:m2}}. It commits the City to a preventative, community-led approach, to support staff work led by the READI and Neighbourhoods teams, and to collaborate with local organizations. It also calls on Region of Waterloo residents to join the effort. The motion followed a Statistics Canada report that placed the Kitchener-Cambridge-Waterloo area highest in Canada for police-reported hate crimes. Copies go to area MPs, MPPs, heads of council, AMO and the three local post-secondary institutions.",
+  "Council received a staff report on the drinking water quality management system {{vote:m1}}. Staff reported no non-compliance findings and a 100% rating, and outstanding items are due to close in spring 2025. Staff also raised the supply risk that comes from relying on the Region for water.",
+  "At an informal public meeting, which involved no decision, council heard a proposed 10-storey building with 158 units at 1 Dunbar Road North. Residents and delegates raised shadows, public realm, stormwater, traffic and communication with neighbours. Staff will review the comments and report back at a formal public meeting later."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "Combatting hate in local communities",
+   "detail": "Council reaffirmed its condemnation of racism and hate, committed to a preventative, community-led approach with partners, and agreed to send the motion to MPs, MPPs, heads of council, AMO and area post-secondary presidents."
+  },
+  {
+   "motion": "m1",
+   "item": "Drinking water quality management system update",
+   "detail": "Council received report IPPW2024-040, the management review and operational plan for the drinking water system, for information."
+  }
+ ],
+ "debate": [
+  "On the water report, one councillor asked about two deferred action items. Staff said a flow meter on the Laurel stand pipe and better fire-department water-use data were both due in spring 2025, with minor risk, mostly a small revenue impact.",
+  "Staff said the main concern in the water system is supply. The City depends on the Region for water, and the risk rating was raised after major water main failures in other cities. A councillor also asked staff to promote tap water over bottled water, partly on affordability grounds.",
+  "At the Dunbar Road North meeting, councillors asked about affordable housing, inclusionary zoning, parking, traffic and shadow impacts. Staff said no affordable units were proposed and the shadow study showed more than the guideline amount of winter shade on northern properties. They said inclusionary zoning applies at building permit, and the phase-in starts at zero.",
+  "The applicant team said the design departs from the usual podium-and-tower form to cut building envelope and improve energy performance, and offered to unenclose the parking deck beside the northern neighbour if preferred. Delegates and residents raised the shadow study, stormwater runoff, accessible storage for mobility scooters, the pedestrian crossing, earlier notice to neighbours, and concern for existing residents and local vacancies.",
+  "In debate on the hate motion, one councillor supported it but worried it could lead to more after-the-fact responses and be used to justify a bigger police budget. That councillor's friendly amendments stressed prevention, and another councillor said these strengthened the motion."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-09T19:13:56"
+}

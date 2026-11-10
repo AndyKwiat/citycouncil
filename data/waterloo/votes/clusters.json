@@ -1,0 +1,142 @@
+{
+ "method": "Classical MDS on pairwise disagreement rates; average-linkage hierarchical clustering; k chosen by mean silhouette",
+ "votes": 47,
+ "groups_chosen": 3,
+ "silhouette_by_k": {
+  "2": 0.428,
+  "3": 0.433,
+  "4": 0.29,
+  "5": 0.213
+ },
+ "variance_in_2d": 0.925,
+ "unclear_below": 0.1,
+ "resamples": 1000,
+ "resamples_choosing": {
+  "2": 525,
+  "3": 467,
+  "4": 7,
+  "5": 1
+ },
+ "groups": {
+  "A": {
+   "members": [
+    "Freeman",
+    "Hanmer",
+    "Roe",
+    "Mayor McCabe"
+   ],
+   "agreement_within": 0.803,
+   "stays_together": 0.952
+  },
+  "B": {
+   "members": [
+    "Bodaly",
+    "Vasic",
+    "Wright"
+   ],
+   "agreement_within": 0.804,
+   "stays_together": 0.839
+  },
+  "C": {
+   "members": [],
+   "agreement_within": null,
+   "stays_together": null
+  }
+ },
+ "unclear": [
+  "Roach"
+ ],
+ "agreement_between": {
+  "A-B": 0.595
+ },
+ "members": {
+  "Bodaly": {
+   "x": 0.2648,
+   "y": 0.1348,
+   "nearest_group": "B",
+   "silhouette": 0.603,
+   "group": "B",
+   "with_group": {
+    "A": 0.036,
+    "B": 0.879
+   }
+  },
+  "Freeman": {
+   "x": -0.1253,
+   "y": -0.0672,
+   "nearest_group": "A",
+   "silhouette": 0.572,
+   "group": "A",
+   "with_group": {
+    "A": 0.964,
+    "B": 0.096
+   }
+  },
+  "Hanmer": {
+   "x": -0.0788,
+   "y": -0.0619,
+   "nearest_group": "A",
+   "silhouette": 0.571,
+   "group": "A",
+   "with_group": {
+    "A": 0.966,
+    "B": 0.105
+   }
+  },
+  "Mayor McCabe": {
+   "x": -0.1513,
+   "y": -0.1989,
+   "nearest_group": "A",
+   "silhouette": 0.526,
+   "group": "A",
+   "with_group": {
+    "A": 0.955,
+    "B": 0.082
+   }
+  },
+  "Roach": {
+   "x": -0.4895,
+   "y": 0.2156,
+   "nearest_group": "C",
+   "silhouette": 0.0,
+   "group": null,
+   "with_group": {
+    "A": 0.002,
+    "B": 0.0
+   }
+  },
+  "Roe": {
+   "x": 0.0623,
+   "y": -0.0974,
+   "nearest_group": "A",
+   "silhouette": 0.33,
+   "group": "A",
+   "with_group": {
+    "A": 0.923,
+    "B": 0.17
+   }
+  },
+  "Vasic": {
+   "x": 0.3257,
+   "y": 0.1357,
+   "nearest_group": "B",
+   "silhouette": 0.605,
+   "group": "B",
+   "with_group": {
+    "A": 0.031,
+    "B": 0.877
+   }
+  },
+  "Wright": {
+   "x": 0.1922,
+   "y": -0.0606,
+   "nearest_group": "B",
+   "silhouette": 0.255,
+   "group": "B",
+   "with_group": {
+    "A": 0.273,
+    "B": 0.76
+   }
+  }
+ }
+}

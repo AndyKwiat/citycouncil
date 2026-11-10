@@ -1,0 +1,21 @@
+{
+ "method": "youtube-auto",
+ "source": "youtube-auto",
+ "recording_seconds": 14227,
+ "caption_words": 37597,
+ "caption_wpm": 158.6,
+ "gaps": [],
+ "words": 37597,
+ "parts": [
+  {
+   "youtube_id": "4OrUkqF7MY0",
+   "offset": 0,
+   "captions": true
+  },
+  {
+   "youtube_id": "QThx0NgIxI8",
+   "offset": 3062,
+   "captions": true
+  }
+ ]
+}
