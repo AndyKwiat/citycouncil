@@ -13,6 +13,7 @@ for n in $(seq 1 "$batches"); do
     grep -E "^Done:|No meetings|no meetings" "$log" | tail -1
     grep -qiE "no meetings to process" "$log" && exit 0
     if grep -qiE "usage limit|rate limit|429|overloaded|limit reached" "$log"; then
+      [ -n "$STOP_ON_LIMIT" ] && { echo "usage limit hit; stopping"; exit 3; }
       echo "usage limit hit; waiting 30 minutes"; sleep 1800; continue
     fi
     break
