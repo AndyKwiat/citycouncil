@@ -1,0 +1,30 @@
+{
+ "title": "Public hearing on four homes per lot",
+ "subtitle": "Janefield Avenue semi-detached rezoning approved with holding provision; closed session on a housing development financial request.",
+ "overview": [
+  "Council held a statutory public meeting on a city-initiated zoning amendment that would allow up to four dwelling units on a lot in zones that permit low density residential uses. Council received the report {{vote:m2}}, and no decision was made. Staff plan to bring a recommendation back in June 2024, after hearing from delegates and councillors.",
+  "Delegates were split. Supporters pointed to the housing shortage and the added flexibility for homeowners and small builders. Opponents said the proposal is not gentle, asked for limits on bedrooms per property, and raised parking, traffic and neighbourhood impact. Councillors asked staff to return with more information on parking, lot size, building height, design guidelines and tree protection.",
+  "Council also approved a rezoning for 35 and 41 Janefield Avenue to allow four semi-detached dwellings with additional dwelling units, subject to a holding provision {{vote:m3}}. Earlier, the mayor reported that a closed session on a housing development financial request ended with direction to staff. The minutes give no further detail."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "Four units per lot zoning amendment",
+   "detail": "Council received the staff report on the proposed city-initiated amendment to allow up to four dwelling units on a lot in low density residential zones, with no decision on the amendment itself."
+  },
+  {
+   "motion": "m3",
+   "item": "35 and 41 Janefield Avenue rezoning",
+   "detail": "Council approved the rezoning to permit semi-detached dwellings with site-specific provisions at 35-41 Janefield Avenue, in line with the staff report."
+  }
+ ],
+ "debate": [
+  "Supporters, including a developer and a realtors' association representative, said four units as of right would add rental and ownership options, including larger family-sized units. They also said reduced parking requirements would make basement apartments easier to create.",
+  "Opponents said the change goes too far and is not gentle. They said units are the wrong measure and that bedroom counts and cars matter more. Several asked for a cap on bedrooms per property and for limits on how many such buildings can sit on one street.",
+  "Some delegates and councillors asked for the regular rezoning process to be kept so that council and neighbours can review each proposal. Others said as-of-right permissions save months and still have to meet setbacks, lot coverage, servicing and parking rules.",
+  "Parking and servicing capacity came up repeatedly. Staff said three parking spaces would be required for four units and that servicing must be adequate and available on each street. Councillors asked about on-street parking, transit proximity and mapping infrastructure limits.",
+  "Councillors asked staff to return with comparisons of other municipalities' rules, scale diagrams for older neighbourhoods, an option limiting the change to larger lots, a possible bedroom cap, and the tree protection and design guideline gaps."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T19:08:45"
+}

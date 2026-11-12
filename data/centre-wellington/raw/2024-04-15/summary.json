@@ -1,0 +1,59 @@
+{
+ "title": "Parking enforcement, South Fergus servicing and St. David Street tender",
+ "subtitle": "Also: speed limit reductions, rural transit study grant, stormwater master plan, 49-unit Fergus rezoning, open air burn by-law.",
+ "overview": [
+  "Council took a broad set of decisions on infrastructure, growth and road safety. It awarded the St. David Street North reconstruction tender to Drexler Construction Limited for $6,965,000 including contingency, excluding HST {{vote:m11}}. It also endorsed the South Fergus Master Environmental Servicing Plan {{vote:m9}} and directed staff to apply for provincial Housing-Enabling Water Systems Fund money to service the South Fergus Secondary Plan Area {{vote:m10}}.",
+  "On parking, Council named Alpha Parking Solutions vendor of record and authorized staff to administer parking services across the County {{vote:m5}}. Council also endorsed speed limit reductions on Township roads, to be put in place through a later amendment to the Consolidated Speed By-law {{vote:m7}}. Staff will apply for a federal grant for a transit service study, with a Township share of $70,000 if successful {{vote:m8}}.",
+  "Council approved a rezoning for a 49-unit infill development at 961 St. David Street North {{vote:m6}} and received the stormwater master plan's preliminary preferred alternative for information {{vote:m4}}. Final confirmation of that plan is expected at the April 29 meeting. Consent items, including a demolition at 60 John Street in Elora and two committee appointments, passed together {{vote:m1}}."
+ ],
+ "decisions": [
+  {
+   "motion": "m11",
+   "item": "St. David Street North reconstruction tender",
+   "detail": "Council awarded Request for Tender #12-24 to Drexler Construction Limited at $6,965,000 including contingency and excluding HST, and updated the project funding."
+  },
+  {
+   "motion": "m5",
+   "item": "Parking software and enforcement",
+   "detail": "Council made Alpha Parking Solutions vendor of record for enforcement services and ParkSmart software, and authorized staff to provide parking administration across the County."
+  },
+  {
+   "motion": "m7",
+   "item": "Speed limit and traffic calming review",
+   "detail": "Council endorsed the proposed speed limit reductions in Report IS2024-18 and directed staff to implement them through a Consolidated Speed By-law amendment."
+  },
+  {
+   "motion": "m10",
+   "item": "Housing-Enabling Water Systems Fund application",
+   "detail": "Council supported extending municipal services to the South Fergus Secondary Plan Area and directed staff to apply for provincial funding for the external works."
+  },
+  {
+   "motion": "m9",
+   "item": "South Fergus Master Environmental Servicing Plan",
+   "detail": "Council endorsed the servicing plan to support the grant application and the next steps for South Fergus."
+  },
+  {
+   "motion": "m6",
+   "item": "Zoning amendment at 961 St. David Street North",
+   "detail": "Council approved rezoning RZ015/22 to allow a residential infill development, with the zoning by-law to be given three readings."
+  },
+  {
+   "motion": "m8",
+   "item": "Rural Transit Solutions Fund application",
+   "detail": "Council directed staff to apply for grant funding for a transit service study and approved a $70,000 Township share if the application succeeds."
+  },
+  {
+   "motion": "m2",
+   "item": "Open air burn by-law amendment",
+   "detail": "Council authorized an amendment to By-law 2019-35 on open air fires, which staff said clarifies that fires in front yards are prohibited."
+  }
+ ],
+ "debate": [
+  "Parking: some councillors worried the report was short and lacked the cost analysis from the parking strategy. They asked whether the staff time estimate for County administration was accurate, and one asked to vote on the two parts separately. Staff said the County would only release parking administration if the Township took the whole program, that the season was close, and that it would be run within existing staff capacity. Staff also said this covers only the current program and that further reports on wider enforcement are coming.",
+  "Speed limits: councillors questioned whether the assessment asks if a road feels safe for drivers rather than for pedestrians and cyclists. South River Road was the main example, with calls for a pilot 40 km/h limit or at least a drop to 50. Staff said pedestrian and cyclist exposure and nearby vulnerable land uses are already part of the assessment. Staff offered to take another look at South River Road before the by-law amendment is brought forward.",
+  "Stormwater: consultants said most sewers drain well toward the Grand River and Irvine Creek. They recommended upgrading to the current five-year storm standard rather than a 100-year standard because of cost, and recommended a separate study of a stormwater user fee. Councillors asked how a fee would affect residents and how credits could offset it. They also pressed for more infiltration in new developments and for planning for more frequent severe storms.",
+  "Rezoning at 961 St. David Street North: councillors asked about neighbours' concerns over water drainage and wells, the single entrance, sidewalk connections and the removal of a hedgerow. Staff said well monitoring and a tree inventory and protection plan would be conditions, with replacement trees planted. They said the Ministry of Transportation found no road improvements were needed."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T17:55:46"
+}

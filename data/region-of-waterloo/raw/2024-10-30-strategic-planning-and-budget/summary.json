@@ -1,0 +1,49 @@
+{
+ "title": "Draft 2025 budget review and service expansions",
+ "subtitle": "Resident survey, capital delays, speed cameras, paramedic and seniors' services, and police staffing data request defeated.",
+ "overview": [
+  "The Strategic Planning and Budget Committee reviewed the draft 2025 budget. It heard Ipsos resident survey results and staff presentations on operating and capital plans, user fees and the use of the tax stabilization reserve. Reports on the draft budget and 2025 user fees were received for information.",
+  "The committee began sorting proposed service expansions for final budget day on December 11. It recommended that several expansions funded by other sources or related to paramedic services move forward {{vote:m2}}, including automated speed enforcement {{vote:m3}}. The committee deferred the remaining resilient and future-ready expansions {{vote:m1}}, along with the accessibility advisor {{vote:m4}} and added library hours {{vote:m5}}, to a later meeting. These are recommendations only. Council makes final decisions.",
+  "Councillors also asked staff for information on capital projects that might be delayed, reserve balances and staffing gapping. A request that the police service provide staffing data before its November 20 budget presentation was defeated {{vote:m6}} {{vote:m7}} {{vote:m8}}. For residents, the work aims to keep the 2025 tax increase below the roughly 12% draft figure."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "Funded and paramedic expansions",
+   "detail": "The committee recommended that childcare, homemaking and nursing, immigration partnership, personal support worker, health inspector and paramedic expansions move forward to final budget day {{vote:m2}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Automated speed enforcement",
+   "detail": "The committee recommended that the automated speed enforcement expansion move forward to final budget deliberations on December 11 {{vote:m3}}."
+  },
+  {
+   "motion": "m1",
+   "item": "Resilient and future-ready expansions",
+   "detail": "The committee deferred its decision on the resilient and future-ready service expansions to a date to be decided {{vote:m1}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Accessibility advisor deferral",
+   "detail": "The committee deferred the accessibility and equity advisor expansion to a later meeting {{vote:m4}}."
+  },
+  {
+   "motion": "m5",
+   "item": "Part-time library hours deferral",
+   "detail": "The committee deferred the additional part-time library hours expansion to a later meeting {{vote:m5}}."
+  },
+  {
+   "motion": "m7",
+   "item": "Police staffing data request",
+   "detail": "A request that the police service provide staffing and recruitment data as of September 30 before its November 20 presentation was defeated {{vote:m7}}."
+  }
+ ],
+ "debate": [
+  "Some councillors said deferring the first batch of expansions would let members read the budget book detail and see all four pillars before choosing. Others wanted to move clear-cut items forward now to avoid one overwhelming decision.",
+  "Several councillors argued the tax increase cannot come down without looking at capital. Staff cautioned that many 2025 projects are already contracted, that road, water and sewer work is tied to local municipalities, and that deferrals mainly affect later years and can widen the infrastructure gap.",
+  "Councillors debated comparisons with other municipalities. Some urged openness to ideas elsewhere, while others said upper-tier services differ and provincial funding is the underlying problem.",
+  "On the police data request, supporters said staffing figures once reported quarterly would otherwise arrive after budget approval. Opponents said the police chief will answer these questions on November 20, that the board decides deployment, and that vacancies raise overtime costs."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T17:43:04"
+}

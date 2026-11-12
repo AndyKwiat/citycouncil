@@ -1,0 +1,50 @@
+{
+ "title": "Bill 162 water comments and affordable housing tools",
+ "subtitle": "Property tax exemption for affordable housing, overdose data report, drinking water staffing, and a deferred taxi by-law.",
+ "overview": [
+  "Council voted on whether the Region should send its staff comments on provincial Bill 162 to the province. The comments warn that building on the Waterloo Moraine's recharge area could harm drinking water. A motion to withhold them failed on a tie {{vote:m7}}, so the report went ahead as the Region's submission.",
+  "Council also approved a package of housing measures {{vote:m6}}. It includes a property tax exemption program for affordable housing, work toward a multi-unit rental acquisition program, and rental protection policies, plus an added $1.5 million in federal-funded homelessness spending with no net tax levy impact. The enabling by-law was passed. Residents may see more existing rentals preserved as affordable.",
+  "On overdoses, Council directed Public Health to report on the local situation by the end of the second quarter {{vote:m11}}. A proposed addition calling on Ontario to expand consumption and treatment sites was defeated on a tie {{vote:m10}}. Council also endorsed the 2023 drinking water reports and created a new regulatory position {{vote:m5}}. The taxi licensing by-law was taken separately, and a councillor asked to refer it back to the licensing committee."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "Drinking water reports and new position",
+   "detail": "Council endorsed the 2023 drinking water summary, quality management review and infrastructure plan update, and created a new full-time Regulatory and Program Assistant position in Water Operations {{vote:m5}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Affordable housing and homelessness package",
+   "detail": "Council approved a $1,542,836 homelessness budget increase with no net levy impact, the Property Tax Exemption for Affordable Housing program, and staff work on rental acquisition and tenant protection policies {{vote:m6}}."
+  },
+  {
+   "motion": "m14",
+   "item": "Municipal housing facilities by-law",
+   "detail": "Council enacted a by-law replacing By-Law 02-035 so that regional and education property taxes can be exempted for municipal housing facilities."
+  },
+  {
+   "motion": "m7",
+   "item": "Bill 162 comments to the province",
+   "detail": "A motion to direct staff not to submit the Bill 162 drinking water report to the Environmental Registry of Ontario was defeated on a tie {{vote:m7}}."
+  },
+  {
+   "motion": "m11",
+   "item": "Overdose and addictions report",
+   "detail": "Council directed Public Health staff to report by the end of Q2 2024 on the scope of overdoses and addictions, current activities and other governments' initiatives {{vote:m11}}."
+  },
+  {
+   "motion": "m10",
+   "item": "Call for more consumption sites",
+   "detail": "An amendment asking Ontario to reopen the consumption and treatment site process, lift the 21-site cap and the inhalation ban was defeated on a tie {{vote:m10}}."
+  }
+ ],
+ "debate": [
+  "Staff said the Waterloo Moraine supplies a large share of the Region's groundwater, and that development there raises salt levels and reduces recharge. They said homes could be built elsewhere to meet housing targets. Several councillors stressed that regional councillors are responsible for protecting the water supply.",
+  "Developer and consultant delegates argued that their lands outside the protected countryside could be developed with infiltration measures and a winter bypass for salty runoff, without raising chlorides appreciably. Staff replied that private infiltration works may not be maintained over time and are not recommended for provincial water modelling.",
+  "Supporters of the motion not to submit the report said it was brought late, area municipalities were not consulted, and the Region and a city would be sending conflicting positions to the province. Opponents said the Region is responsible for source water protection and the staff are experienced experts.",
+  "On overdoses, the mover said Council needs current data to build a strategy. Others said the problem is already well understood and called for action, including more consumption sites. One councillor opposed consumption sites and said overdose deaths still occur away from them. Public Health said it could pull together the best available data but not exact figures.",
+  "Delegates supporting the housing report said buying existing apartments preserves affordable homes at a lower cost than building new ones. They also said the tax exemption would let area municipalities act."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T22:15:09"
+}

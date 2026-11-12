@@ -1,0 +1,50 @@
+{
+ "title": "Myers Road redesign and data centre report",
+ "subtitle": "Also: transit gap review, bus stop snow clearing, traffic signal contract, Wilmot crossover and road transfer",
+ "overview": [
+  "The Sustainability, Infrastructure, and Development Committee recommended the Myers Road design concept for Cambridge {{vote:m5}}. The plan replaces gravel shoulders with raised boulevards and separated multi-use paths, with construction from 2028 to 2030. A motion to refer the report to a later Council meeting so staff could speak with the school board was defeated. Councillors were divided on whether school drop-off problems should hold up the road work.",
+  "A large group of delegates spoke about AI data centres, mostly raising water, electricity, health and Indigenous consultation concerns. The committee recommended that staff prepare an information report on data centres by Q1 2027 {{vote:m9}}, with added items on environmental effects and Indigenous perspectives. No data centre is proposed in the region, and the committee does not have the power to impose a moratorium.",
+  "The committee also recommended a review of transit connectivity gaps ahead of the 2027 budget {{vote:m8}}. It recommended that staff explore penalties and incentives in the next bus stop snow clearing contract {{vote:m7}}, and a five-year traffic signal controller contract extension {{vote:m4}}. Routine items were passed on the consent agenda. Council still has to adopt these recommendations."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "Myers Road improvements, Cambridge",
+   "detail": "The committee recommended approving the design concept for Myers Road (Water Street to Branchton Road) and Branchton Road, and directing staff to proceed to detailed design and construction {{vote:m5}}."
+  },
+  {
+   "motion": "m9",
+   "item": "Data centre information report",
+   "detail": "The committee recommended that staff report back by Q1 2027 on data centre economics, infrastructure, environmental effects, costs, transparency, provincial advocacy and Indigenous perspectives {{vote:m9}}."
+  },
+  {
+   "motion": "m8",
+   "item": "Transit connectivity gaps",
+   "detail": "The committee recommended that staff identify short-term transit gaps in growing and underserved areas, assess options, costs and funding, and report before the 2027 budget {{vote:m8}}."
+  },
+  {
+   "motion": "m7",
+   "item": "Bus stop snow clearing",
+   "detail": "The committee recommended that staff explore penalties and incentives in the 2026/2027 snow clearing contract and ways to streamline public reporting of missed stops {{vote:m7}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Traffic signal controller contract",
+   "detail": "The committee recommended accepting a negotiated five-year extension with Econolite Canada at an annual maximum of about $900,000 plus taxes {{vote:m4}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Nafziger Road assumption",
+   "detail": "The committee recommended that the Region take over Nafziger Road between Bleams Road and Highway 7/8 from the Township of Wilmot, with related by-law amendments."
+  }
+ ],
+ "debate": [
+  "On Myers Road, several councillors said the design would remove front-of-school drop-offs without solving the problem, since the nearby parking lot is small and a long walk from the school. Some also noted that young children need a handoff to a teacher or parent.",
+  "Others said school drop-off operations are a school board matter, separate from the road design. They said the Region has no authority over school board policy and that delay would hold up safer walking, cycling and transit access. Staff said work with the school board could continue during detailed design.",
+  "One councillor opposed the Myers Road design because city staff reportedly supported a multi-use path on one side only. That councillor cited snow storage and later maintenance costs, and said the report did not reflect those views. Staff said they had reviewed many options and that snow storage had been addressed.",
+  "Data centre delegates asked for a framework, transparency and consultation, and several wanted the motion to put care for people and land ahead of economic benefit. They raised water use, wastewater, noise, health effects on people and livestock, and who pays for servicing. Some urged Indigenous consultation and a climate justice lens. Councillors added environmental and Indigenous items to the motion.",
+  "One councillor questioned the scope and staff resourcing for a data centre report when no proposal is before the Region. Staff said it would complement existing work and be done in-house, but would be an overview rather than an exhaustive study. Others noted that zoning is an area municipality responsibility."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T17:53:33"
+}

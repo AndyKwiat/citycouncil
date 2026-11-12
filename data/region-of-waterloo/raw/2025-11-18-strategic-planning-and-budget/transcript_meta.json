@@ -1,0 +1,34 @@
+{
+ "recording_seconds": 38576,
+ "caption_words": 73915,
+ "caption_wpm": 115.0,
+ "gaps": [
+  {
+   "start": 12340,
+   "end": 13347,
+   "whisper_words": 92,
+   "filled": false
+  },
+  {
+   "start": 16273,
+   "end": 16772,
+   "whisper_words": 80,
+   "filled": false
+  },
+  {
+   "start": 24598,
+   "end": 25386,
+   "whisper_words": 67,
+   "filled": false
+  },
+  {
+   "start": 29512,
+   "end": 32376,
+   "whisper_words": 77,
+   "filled": false
+  }
+ ],
+ "method": "captions",
+ "source": "isilive-captions",
+ "words": 73915
+}

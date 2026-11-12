@@ -1,0 +1,55 @@
+{
+ "title": "Lower speed limits in regional school zones",
+ "subtitle": "Also: winter weather declarations, asset management policy, Bill 23 update, road designations and a Reep Green Solutions presentation.",
+ "overview": [
+  "The committee recommended permanently lowering posted speed limits in school zones on regional roads, with the lower limit applying at all times rather than only during school hours {{vote:m7}}. Staff said a single, consistent limit would reduce confusion, simplify automated speed enforcement and let schoolyards work as community hubs. The change carries an estimated sign cost of about $20,000.",
+  "One exception was recommended. Snyder's Road in Wilmot would keep its current timed limit, and staff would report back on a flashing light system {{vote:m5}}. A proposal to make all school-zone limits apply only on weekdays from 7 a.m. to 5 p.m., September to June, was defeated {{vote:m6}}.",
+  "The committee also recommended letting the Commissioner of Transportation Services declare significant weather events, which relate to winter road maintenance standards, and recommended an updated Corporate Asset Management Policy. It received an update on Bill 23 and heard from Reep Green Solutions on its annual impact report. These are recommendations that Council will consider later."
+ ],
+ "decisions": [
+  {
+   "motion": "m7",
+   "item": "School zone speed limits",
+   "detail": "The committee recommended permanently lowering posted speed limits in regional school zones through changes to Traffic and Parking By-law 16-023, as set out in Attachment A {{vote:m7}}."
+  },
+  {
+   "motion": "m5",
+   "item": "Snyder's Road exemption",
+   "detail": "The committee recommended removing Snyder's Road in Wilmot from the changes, keeping its timed 40 km/h school-hours limit, and asked staff to report back on a flashing light system {{vote:m5}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Time-of-day school zone limits",
+   "detail": "A proposal to make school-zone limits enforceable only 7 a.m. to 5 p.m., Monday to Friday, September to June, was defeated {{vote:m6}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Significant weather event declarations",
+   "detail": "The committee recommended delegating authority to the Commissioner of Transportation Services to declare significant weather events, and to further delegate it to the cities of Waterloo, Kitchener and Cambridge, by amending the maintenance agreements and By-law 16-023."
+  },
+  {
+   "motion": "m8",
+   "item": "Asset management policy",
+   "detail": "The committee recommended approving the updated Corporate Asset Management Policy, which aligns with the new strategic plan and regulatory requirements {{vote:m8}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Fischer-Hallman Road closure",
+   "detail": "The committee recommended permanently closing a non-travelled part of Fischer-Hallman Road (Regional Road 58) in Kitchener and removing it from the Regional Road System."
+  },
+  {
+   "motion": "m3",
+   "item": "Eagle Street North designation",
+   "detail": "The committee recommended adding lands at 2040 Eagle Street North in Cambridge to the Regional Road System as part of Regional Road 39."
+  }
+ ],
+ "debate": [
+  "Supporters of all-times limits said consistency is the best way to change driver behaviour and that vulnerable road users, especially children, should come first. They said schools and playgrounds are used evenings, weekends and summers, and that slowing down costs only seconds.",
+  "Staff said time-of-day limits confuse drivers and navigation apps and lead to more ticket challenges. They also said a higher off-hours limit would constrain road design changes that slow traffic near schools. Area municipalities were reported to mostly use static limits.",
+  "Councillors favouring school-hours-only limits said public buy-in and trust in Vision Zero depend on the rules seeming reasonable. They raised concerns about tickets issued late at night or in summer, ticket costs set by the province, and the lack of discretion with cameras.",
+  "Some councillors questioned whether schools still serve as community hubs. One said Kitchener Council may lean toward time-of-day limits and is waiting to see what the Region decides.",
+  "On Snyder's Road, a councillor said the former secondary highway is not like a settlement area. Staff warned that flashing lights would be difficult to combine with automated speed enforcement, since it must be shown that signage was working when a ticket was issued."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T22:35:01"
+}

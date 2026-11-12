@@ -1,0 +1,22 @@
+{
+ "recording_seconds": 19235,
+ "caption_words": 74820,
+ "caption_wpm": 233.4,
+ "gaps": [
+  {
+   "start": 350782,
+   "end": 351361,
+   "whisper_words": 1013,
+   "filled": true
+  },
+  {
+   "start": 359997,
+   "end": 360930,
+   "whisper_words": 1822,
+   "filled": true
+  }
+ ],
+ "method": "captions+whisper",
+ "source": "mixed",
+ "words": 77655
+}

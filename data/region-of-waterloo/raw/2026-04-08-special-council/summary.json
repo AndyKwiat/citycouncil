@@ -1,0 +1,35 @@
+{
+ "title": "Council rescinds 1980 Wilmot water taking policy",
+ "subtitle": "Mannheim water capacity update, Wilmot well and wetland concerns, development delays, and closed session cancelled",
+ "overview": [
+  "Regional Council voted to rescind the 1980 Policy on Water Taking for Wilmot Township {{vote:m3}}. Staff said this lets the Region permanently move 30 litres per second of surplus water from the Wilmot Centre wells to the Mannheim service area, which has a water capacity constraint that is holding up development in Kitchener, Waterloo, parts of Cambridge and Woolwich. Staff also said Wilmot's planned growth to 2051 can still be supplied.",
+  "Council first defeated an amendment {{vote:m2}} and then the original motion {{vote:m1}} from Councillor Salonen. Those proposals would have kept the policy in place, treated the extra Wilmot water as a temporary bridge, and required public reporting and monitoring.",
+  "Many Wilmot residents spoke against rescinding. They described dry or failing private wells and a drying Shingletown wetland. Staff said they are open to adding Region-owned monitoring at the wetland, with landowner permission. Council also received an update on Mannheim recovery work, with a risk management framework not expected before June. The planned closed session on possible litigation was not held because of time."
+ ],
+ "decisions": [
+  {
+   "motion": "m3",
+   "item": "1980 Wilmot water taking policy",
+   "detail": "Council rescinded the 1980 policy so surplus water can be transferred to the Mannheim Service Area while protecting long-term supply for Wilmot growth, as set out in report EES-WIM-26-003."
+  },
+  {
+   "motion": "m2",
+   "item": "Amendment to suspend rather than revoke",
+   "detail": "Council defeated an amendment that would have kept the 1980 policy in place and treated extra Wilmot pumping as a temporary bridge with added reporting."
+  },
+  {
+   "motion": "m1",
+   "item": "Deferred motion to suspend policy until 2027",
+   "detail": "Council defeated the original deferred motion, which proposed suspending the policy until the Water Supply Strategy returned in 2027, with quarterly public reporting and expanded monitoring."
+  }
+ ],
+ "debate": [
+  "Delegates from Wilmot described dry or sandy private wells, ponds going dry and a declining Shingletown wetland since pumping increased in 2019. They asked Council to keep the policy, publish monitoring data and treat the pumping as unproven.",
+  "A delegate hydrogeologist said the Region's study relied on Region monitoring wells and left out private wells. The delegate also said geology in the Waterloo Moraine is uncertain, effects can take years to appear, and more field work is needed. The delegate favoured keeping the 1980 flow limit as a cap.",
+  "Staff and consultants said the aquifer has been pumped for over 50 years and water levels recover after droughts. They said the wetland is outside the pumping zone of influence and that private well failures have many causes. They also said well interference complaints are assessed individually and can be remedied, for example by deepening wells.",
+  "Supporters of rescinding, including home builder and developer delegates, said the 1980 policy predates stronger provincial water rules and that the development freeze is costly. Staff said a temporary arrangement would leave open how long the 30 litres per second could be assigned, so it could not be counted as firm capacity.",
+  "Some councillors questioned why rescinding was needed when the Region had stayed under the policy's total limit. They asked about the population figures used for Wilmot and about incomplete well interference reviews. They suggested a revised policy or new wording instead. Staff and legal advice said only rescinding gave the permanence needed to count the water."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T18:07:56"
+}

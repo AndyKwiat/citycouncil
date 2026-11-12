@@ -1,0 +1,50 @@
+{
+ "title": "Airport growth plan and right-turn-on-red pilot",
+ "subtitle": "Also: Fountain Street and University Avenue expropriations, economic strategy, street design guidelines referral, transit fares, waste strategy.",
+ "overview": [
+  "The committee recommended that Council approve the Region of Waterloo International Airport 2026 Growth Plan {{vote:m8}}. It is a 20-year plan that relies on grants, reserves and a just-in-time approach to building. It also recommended a pilot banning right turns on red at 12 signalized intersections {{vote:m10}}, with preliminary results due at the end of 2027.",
+  "The committee recommended expropriating land for Fountain Street North road improvements in Cambridge, and authorized the first step toward expropriation for University Avenue East in Waterloo {{vote:m9}}. It also recommended endorsing the 2025 Economic Development Strategy {{vote:m5}} and updating Affordable Transit Program fares.",
+  "The Street Design Guidelines were referred to the June 17 Council meeting so staff can address feedback, mainly about parking and rural roads. The committee received for information updates on township transit, the Long-Term Waste Management Strategy and GRT fares. Final decisions on all recommendations rest with Council."
+ ],
+ "decisions": [
+  {
+   "motion": "m8",
+   "item": "Airport Growth Plan",
+   "detail": "The committee recommended that Council approve the Region of Waterloo International Airport 2026 Growth Plan, a 20-year plan for the airport {{vote:m8}}."
+  },
+  {
+   "motion": "m10",
+   "item": "No right turn on red pilot",
+   "detail": "The committee recommended prohibiting right turns on red at 12 signalized intersections as a pilot, by amending Schedule 14 of the Traffic & Parking By-law {{vote:m10}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Fountain Street North expropriation",
+   "detail": "The committee recommended approving expropriation of partial takings and temporary grading easements for Fountain Street North improvements between Kossuth/Fairway Road North and Middle Block Road in Cambridge."
+  },
+  {
+   "motion": "m9",
+   "item": "University Avenue East expropriation",
+   "detail": "The committee recommended authorizing the Regional Solicitor to begin expropriation of partial takings and hydro easements for University Avenue East road improvements in Waterloo {{vote:m9}}."
+  },
+  {
+   "motion": "m5",
+   "item": "Economic Development Strategy",
+   "detail": "The committee recommended that Council endorse the 2025 Waterloo Region Economic Development Strategy {{vote:m5}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Affordable transit fare housekeeping",
+   "detail": "The committee recommended waiving the notice requirement and amending the 2026 Fees and Charges By-law to set Affordable Transit Program fares at $1.35 stored value, $47.00 monthly pass and $6.75 for five MobilityPLUS tickets."
+  }
+ ],
+ "debate": [
+  "On the airport plan, councillors raised the cost to taxpayers and noted the airport is not a legislated service. Staff said the 3% cap applies to the airport's funding requirement, not the whole Region, and that spending returns to Council annually.",
+  "One councillor questioned a sharp drop in projected airport operating costs after about 2040. Staff attributed it to lower reserve contributions and retired debt, and agreed to follow up.",
+  "On the Street Design Guidelines, councillors from rural townships asked that on-street parking on rural main streets be stated explicitly. Staff said parking is allowed but not prioritized, and some township downtown roads are classified as urban main streets. A delegate supported protected bike lanes but questioned one-way lanes on wide roads.",
+  "On right turn on red, councillors asked about added congestion, effects on transit signal priority, sign visibility and enforcement. Staff said only 12 of about 500 intersections are involved, signal timing can be adjusted during the pilot, and red-light cameras might be used later.",
+  "On township transit, committee members were concerned about delaying expansion to fall 2027. Staff said spring 2027 might be possible if provincial funding is announced by the end of this year."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T17:54:29"
+}

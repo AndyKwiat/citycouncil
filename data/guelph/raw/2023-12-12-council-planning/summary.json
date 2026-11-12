@@ -1,0 +1,40 @@
+{
+ "title": "Housing report and two rezonings approved",
+ "subtitle": "Downtown towers at Baker Street, Clair Road townhouses, Janefield semi-detached homes, and a departing reporter recognized.",
+ "overview": [
+  "Council's December planning meeting focused on housing. It received the State of Housing in Guelph report {{vote:m4}}, the first step in updating the Housing Affordability Strategy, which staff said will bring more data and public engagement through 2024.",
+  "Council approved three rezonings. On the consent report, it allowed 136 stacked townhouse units at 331 Clair Road East, and two 15-storey mixed-use towers with 353 homes at 55 Baker Street and 152 and 160 Wyndham Street North. The Baker Street approval includes an agreement on payment in lieu of parking and transportation demand management. Council also approved six semi-detached dwellings at 27 and 35 Janefield Avenue {{vote:m5}}. That approval carries holding provisions until stormwater, noise and environmental reports are satisfactory to the city engineer.",
+  "Together these approvals add several hundred homes. The Janefield decision was made at a combined public meeting and decision meeting, which staff said speeds up housing. The mayor also thanked a departing local reporter at their final council meeting. This was the last meeting before the new year."
+ ],
+ "decisions": [
+  {
+   "motion": "m4",
+   "item": "State of Housing report",
+   "detail": "Council received the State of Housing in Guelph report, part of the Housing Affordability Strategy update {{vote:m4}}."
+  },
+  {
+   "motion": "m2",
+   "item": "331 Clair Road East rezoning",
+   "detail": "Council approved rezoning to permit 8 stacked townhouse blocks with 136 units and found no further public notice was needed."
+  },
+  {
+   "motion": "m3",
+   "item": "55 Baker St. and Wyndham St. N. towers",
+   "detail": "Council approved rezoning for two 15-storey mixed-use towers with 353 homes and authorized an agreement on payment in lieu of parking and transportation demand management."
+  },
+  {
+   "motion": "m5",
+   "item": "27 and 35 Janefield Avenue rezoning",
+   "detail": "Council received the application and approved rezoning for semi-detached dwellings with site-specific provisions and holding provisions {{vote:m5}}."
+  }
+ ],
+ "debate": [
+  "On the housing report, councillors asked whether it would cover housing supply, solutions rather than just targets, and disability and accessibility. Staff said supply would be reviewed, solutions would be explored through 2024, and accessibility data is limited because Statistics Canada does not provide it.",
+  "A question from the audience asked whether rent control would be considered. Staff said they would note it, and the mayor said rent control is a provincial matter.",
+  "On Janefield, public comments raised traffic and parking concerns. Staff said the lots meet parking requirements, with three spaces each, and traffic engineers found the impact insignificant, so no traffic study was needed.",
+  "One councillor raised resident concerns about competition for permit parking on Janefield. Staff said visitor parking is not required for this housing type and promised to check whether the street is permit parking.",
+  "Supporters said the Janefield proposal is gentle density that will look like another house from the street. The applicant's agent said none of the buildings have accessible entrances."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T19:32:42"
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Internet voting recommended for 2026 municipal election",
+ "subtitle": "Free transit and parking on election day, vote by mail, tabulators, a health service agreement declaration and staff recognition.",
+ "overview": [
+  "The committee spent most of the meeting on how residents will vote in the 2026 municipal and school board election. It recommended free Guelph Transit and free parking at Market Parkade on Election Day, continued use of vote tabulators, and vote by mail and vote from home {{vote:m7}}. It also recommended that the City Clerk's Office offer internet voting {{vote:m8}}, provided security requirements and testing meet the Clerk's satisfaction.",
+  "Staff did not recommend internet voting, citing risks to reliability and verifiability and a shrinking vendor market. The Accessibility Advisory Committee argued that without it some voters with disabilities cannot vote independently. The clerk said staff may later bring a by-law to repeal the direction if the market cannot meet the requirements. These are recommendations that Council will consider later this month.",
+  "The committee also recommended that the Mayor sign the Ontario Health service accountability declaration of compliance {{vote:m2}}. In closed session it gave staff direction on a back-office service review and a Land Tribunal matter. Staff were also recognized for leadership and Lean Green Belt training."
+ ],
+ "decisions": [
+  {
+   "motion": "m8",
+   "item": "Internet voting",
+   "detail": "The committee recommended that the City Clerk's Office offer internet voting as an alternative method in 2026, subject to security and testing meeting the Clerk's satisfaction {{vote:m8}}."
+  },
+  {
+   "motion": "m7",
+   "item": "Election Day transit and parking",
+   "detail": "The committee recommended free Guelph Transit service and free parking at Market Parkade on Election Day to reduce barriers to voting {{vote:m7}}."
+  },
+  {
+   "motion": "m7",
+   "item": "Tabulators and mail/home voting",
+   "detail": "The committee recommended continued use of vote tabulators, with vote by mail and vote from home as alternative voting methods {{vote:m7}}."
+  },
+  {
+   "motion": "m5",
+   "item": "Vote from home only",
+   "detail": "A proposal to offer only vote from home, dropping vote by mail, was defeated {{vote:m5}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Ontario Health compliance declaration",
+   "detail": "The committee recommended authorizing the Mayor to sign the declaration of compliance for the Multi-Sector Service Accountability Agreement for April 2023 to March 2024 {{vote:m2}}."
+  }
+ ],
+ "debate": [
+  "Staff said internet voting is the most accessible option but carries the highest risk. They pointed to bandwidth and server failures in past elections, limited city control over vendors, difficulty recounting by another method, and two major vendors leaving or facing insolvency.",
+  "The Accessibility Advisory Committee chair said vote by mail and vote from home with in-person supports still leave some voters without a private, independent way to vote. The committee wanted internet voting and remote accessible vote by mail offered. The chair said no method is fully secure and warned of potential human rights complaints.",
+  "Delegates were divided. Some disabled residents said online voting is needed for independence and that hacking fears are overstated. Others cited security research and the lack of paper verification, urging council to follow staff.",
+  "Councillors who opposed internet voting said federal, provincial, Toronto and Ottawa elections do not use it and that digital standards are still in draft. Supporters said it helps disabled voters, seasonal residents and people away on election day, and noted the clerk's satisfaction condition.",
+  "On removing vote by mail, one councillor cited late-arriving ballots. Others said it helps people without reliable internet access. Staff said adding methods raises cost and staffing and could mean fewer in-person voting locations."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T19:07:03"
+}

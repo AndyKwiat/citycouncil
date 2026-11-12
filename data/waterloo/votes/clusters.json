@@ -1,21 +1,20 @@
 {
  "method": "Classical MDS on pairwise disagreement rates; average-linkage hierarchical clustering; k chosen by mean silhouette",
- "votes": 47,
+ "votes": 56,
  "groups_chosen": 3,
  "silhouette_by_k": {
-  "2": 0.428,
-  "3": 0.433,
-  "4": 0.29,
-  "5": 0.213
+  "2": 0.391,
+  "3": 0.455,
+  "4": 0.315,
+  "5": 0.205
  },
- "variance_in_2d": 0.925,
+ "variance_in_2d": 0.885,
  "unclear_below": 0.1,
  "resamples": 1000,
  "resamples_choosing": {
-  "2": 525,
-  "3": 467,
-  "4": 7,
-  "5": 1
+  "2": 428,
+  "3": 565,
+  "4": 7
  },
  "groups": {
   "A": {
@@ -25,8 +24,8 @@
     "Roe",
     "Mayor McCabe"
    ],
-   "agreement_within": 0.803,
-   "stays_together": 0.952
+   "agreement_within": 0.799,
+   "stays_together": 0.983
   },
   "B": {
    "members": [
@@ -34,8 +33,8 @@
     "Vasic",
     "Wright"
    ],
-   "agreement_within": 0.804,
-   "stays_together": 0.839
+   "agreement_within": 0.784,
+   "stays_together": 0.959
   },
   "C": {
    "members": [],
@@ -47,95 +46,95 @@
   "Roach"
  ],
  "agreement_between": {
-  "A-B": 0.595
+  "A-B": 0.562
  },
  "members": {
   "Bodaly": {
-   "x": 0.2648,
-   "y": 0.1348,
+   "x": 0.2542,
+   "y": 0.117,
    "nearest_group": "B",
-   "silhouette": 0.603,
+   "silhouette": 0.561,
    "group": "B",
    "with_group": {
-    "A": 0.036,
-    "B": 0.879
+    "A": 0.019,
+    "B": 0.97
    }
   },
   "Freeman": {
-   "x": -0.1253,
-   "y": -0.0672,
+   "x": -0.1255,
+   "y": -0.0905,
    "nearest_group": "A",
-   "silhouette": 0.572,
+   "silhouette": 0.582,
    "group": "A",
    "with_group": {
-    "A": 0.964,
-    "B": 0.096
+    "A": 0.988,
+    "B": 0.029
    }
   },
   "Hanmer": {
-   "x": -0.0788,
-   "y": -0.0619,
+   "x": -0.1063,
+   "y": -0.0902,
    "nearest_group": "A",
-   "silhouette": 0.571,
+   "silhouette": 0.628,
    "group": "A",
    "with_group": {
-    "A": 0.966,
-    "B": 0.105
+    "A": 0.988,
+    "B": 0.03
    }
   },
   "Mayor McCabe": {
-   "x": -0.1513,
-   "y": -0.1989,
+   "x": -0.1207,
+   "y": -0.1872,
    "nearest_group": "A",
-   "silhouette": 0.526,
+   "silhouette": 0.501,
    "group": "A",
    "with_group": {
-    "A": 0.955,
-    "B": 0.082
+    "A": 0.984,
+    "B": 0.022
    }
   },
   "Roach": {
-   "x": -0.4895,
-   "y": 0.2156,
+   "x": -0.4573,
+   "y": 0.2412,
    "nearest_group": "C",
    "silhouette": 0.0,
    "group": null,
    "with_group": {
-    "A": 0.002,
+    "A": 0.001,
     "B": 0.0
    }
   },
   "Roe": {
-   "x": 0.0623,
-   "y": -0.0974,
+   "x": 0.0048,
+   "y": -0.0994,
    "nearest_group": "A",
-   "silhouette": 0.33,
+   "silhouette": 0.436,
    "group": "A",
    "with_group": {
-    "A": 0.923,
-    "B": 0.17
+    "A": 0.971,
+    "B": 0.056
    }
   },
   "Vasic": {
-   "x": 0.3257,
-   "y": 0.1357,
+   "x": 0.353,
+   "y": 0.1026,
    "nearest_group": "B",
-   "silhouette": 0.605,
+   "silhouette": 0.574,
    "group": "B",
    "with_group": {
-    "A": 0.031,
-    "B": 0.877
+    "A": 0.012,
+    "B": 0.966
    }
   },
   "Wright": {
-   "x": 0.1922,
-   "y": -0.0606,
+   "x": 0.1978,
+   "y": 0.0065,
    "nearest_group": "B",
-   "silhouette": 0.255,
+   "silhouette": 0.355,
    "group": "B",
    "with_group": {
-    "A": 0.273,
-    "B": 0.76
+    "A": 0.072,
+    "B": 0.942
    }
   }
  }

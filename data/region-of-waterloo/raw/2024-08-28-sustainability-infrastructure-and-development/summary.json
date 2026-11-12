@@ -1,0 +1,56 @@
+{
+ "title": "Downtown waste collection overhaul and safety zones referral",
+ "subtitle": "Community safety zones sent to a working group; Cambridge-to-Union GO rail business case endorsed for Metrolinx.",
+ "overview": [
+  "The Sustainability, Infrastructure, and Development committee recommended a major change to downtown waste collection. The Region would fund and run service for businesses and institutions in designated downtowns, using automated carts for garbage and organics, keeping blue box recycling, and collecting at least four times a week in the three cities. Council still has to adopt this {{vote:m2}}. Cart collection would start in March 2026, and any budget effects would come back before the 2026 budget process.",
+  "On community safety zones, the committee did not take up the staff recommendations. It referred the matter to a working group of Regional and area municipal staff and councillors {{vote:m1}}. Debate centred on doubled fines under the Region's administrative penalties program and on how area municipalities were consulted.",
+  "The committee also recommended endorsing the Cambridge to Union passenger rail study and asking Metrolinx to carry the project forward, and to provide GO bus service between Cambridge and Guelph in the meantime {{vote:m3}}. Staff said a further report on timing is expected in December."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Community safety zones",
+   "detail": "The committee referred the community safety zones report to a working group of Regional and area municipal staff and councillors, to return at a later date {{vote:m1}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Downtown waste services",
+   "detail": "The committee recommended Option 1, with Region-funded automated cart collection for garbage and organics, continued blue box recycling and at least four collections a week in the tri-city downtowns {{vote:m2}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Downtown collection areas and frequency",
+   "detail": "The same motion would expand the tri-city collection areas to the full Business Improvement Area boundaries, set weekly collection in township downtowns and twice weekly in Belmont Village, and require a review within six months of implementation."
+  },
+  {
+   "motion": "m2",
+   "item": "Contract and by-law enforcement",
+   "detail": "Staff would amend the new Emterra residential contract to deliver the service from March 2, 2026, and area municipalities could choose to take on waste by-law enforcement."
+  },
+  {
+   "motion": "m2",
+   "item": "Public space litter containers and blue box",
+   "detail": "The committee recommended ending Region collection of downtown public space and litter containers after discussion with all impacted municipalities, and ending blue box service to non-eligible sources outside the downtowns."
+  },
+  {
+   "motion": "m3",
+   "item": "Cambridge to Union passenger rail",
+   "detail": "The committee recommended endorsing the initial business case and concept design, sharing the report with area municipal partners, and asking Metrolinx to add the project to its plan and continue design work {{vote:m3}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Interim GO bus service",
+   "detail": "The same motion asks Metrolinx to continue talks with CN about the Fergus Subdivision and to provide GO bus service between Cambridge and Guelph before rail operates."
+  }
+ ],
+ "debate": [
+  "On community safety zones, one councillor said they were surprised that the administrative penalties program means fines are doubled automatically. They said area municipal councils may limit their participation in the program if fines double.",
+  "Staff said fine amounts are set by the province and that doubling comes with the administrative penalties program, which was adopted to relieve court volume. Staff said the revenue is reinvested in road safety, not used for profit.",
+  "Some councillors worried the points-based warrant, which stresses pedestrian-generating land uses, could exclude small settlement areas that already have safety zones. Others asked for more area municipal and public input. Staff said they would gather public input through a website.",
+  "On downtown waste, councillors raised accessibility of carts on narrow sidewalks, on-street parking and pickup timing, and storage space. Staff said these would be worked out with Business Improvement Areas and area municipal staff. Staff said the two-day minimum is a starting point, and organics likely need more days.",
+  "Members raised concerns about the cost to township taxpayers, since the service is not area-rated, and about whether area municipal staff could enforce the waste by-law. Wording was changed so enforcement delegation is optional and all impacted municipalities are consulted on litter containers.",
+  "On the rail project, councillors pressed for a timeline, funding responsibilities and a direct Cambridge-to-Union service without a transfer in Guelph. Staff said Metrolinx is responsible for inter-regional rail and that a further report is expected by year end."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T21:49:58"
+}

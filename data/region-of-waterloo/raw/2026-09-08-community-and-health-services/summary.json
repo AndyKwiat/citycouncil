@@ -1,0 +1,30 @@
+{
+ "title": "Paramedic response targets and Cambridge homelessness services",
+ "subtitle": "Immigration Partnership update, women's shelter gaps, new Cambridge paramedic station, and a ministry letter praising housing progress.",
+ "overview": [
+  "The Community and Health Services Committee recommended keeping Waterloo Region's 2027 paramedic response time targets unchanged {{vote:m1}}. Staff said the system is stable: response times improved in six of seven area municipalities, ambulance offload delays are far below 2022 levels, and there were no Code Zero events in the first half of 2026. The plan must be submitted to the province by the end of October.",
+  "The committee also backed a motion from Councillor Wolf on housing and homelessness {{vote:m2}}. It directs staff to report to the November 2026 committee on how to improve service access in underserved municipalities, especially Cambridge. The report would cover assessing the geographic impact of large capital funding, and applying a gender-based analysis lens to homelessness investments. This matters to residents because Cambridge has limited shelter and drop-in capacity, particularly for women.",
+  "The committee received the Immigration Partnership update and the paramedic performance indicators for information. Members also noted a letter from the Ministry of Municipal Affairs and Housing commending the Region's housing and homelessness progress, and congratulated housing staff."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Response Time Performance Plan 2027",
+   "detail": "The committee recommended that Council approve the 2027 plan, keeping current targets, including 6 minutes or less 70% of the time for sudden cardiac arrest, as outlined in the staff report {{vote:m1}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Housing and homelessness equity motion",
+   "detail": "The committee recommended that Council direct staff to report in November 2026 on equitable distribution of homelessness funding and services, including a geographic assessment of large capital investments, options for Cambridge, and a gender-based analysis lens {{vote:m2}}."
+  }
+ ],
+ "debate": [
+  "A delegate from a Cambridge women's service provider said Cambridge lacks transitional housing, so shelter beds fill with women who are ready to move on, and that the Region's funding concentrates round-the-clock services in Kitchener-Waterloo. The delegate also said co-ed spaces are often avoided by women over safety fears.",
+  "Supporters of the housing motion argued that Cambridge providers are left running part-time stopgaps, such as an afternoon-only drop-in and a seasonal warming centre, while requests for a year-round low-barrier overnight option for women have not been funded.",
+  "One councillor asked that the November report include an overall equity framework weighing population, demonstrated need, existing services, accessibility and geographic barriers.",
+  "On paramedics, staff said Council's investment improved response times. Staff said CTAS 2 results fall short because dispatch priority is set by the province, but performance is judged on the paramedic's assessment on arrival. Staff are raising this with the Ministry.",
+  "Councillors asked about public awareness of fewer lights-and-sirens responses and about sharing data with fire and police. Staff said communications are being strengthened and that tiered response agreements were adjusted after dispatch changes. Immigration Partnership delegates said an employment program with the Food Bank is paused for lack of funding."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T17:52:02"
+}

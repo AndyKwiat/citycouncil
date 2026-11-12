@@ -96793,27 +96793,10 @@
      "Image": "<i class='las la-file-pdf fa-lg'></i>",
      "Title": "Agenda Cover Page (PDF)",
      "Type": "AgendaCover",
-     "Url": "/FileStream.ashx?DocumentId=38939",
+     "Url": "/FileStream.ashx?DocumentId=39077",
      "LanguageId": 9,
      "MeetingName": "Committee of Adjustment 11/17/2026 10:00:00 AM",
      "AriaLabel": "Agenda Cover Page (PDF) for Committee of Adjustment 17 November 2026",
-     "HasVideo": false,
-     "HasLiveVideo": false,
-     "HasLiveVideoPassed": false,
-     "Sequence": null,
-     "HiddenText": " for Committee of Adjustment 11/17/2026 10:00:00 AM",
-     "LanguageCode": "lang='en'"
-    },
-    {
-     "CssClass": "",
-     "Format": ".pdf",
-     "Image": "<i class='las la-file-pdf fa-lg'></i>",
-     "Title": "Agenda (PDF)",
-     "Type": "Agenda",
-     "Url": "/FileStream.ashx?DocumentId=38938",
-     "LanguageId": 9,
-     "MeetingName": "Committee of Adjustment 11/17/2026 10:00:00 AM",
-     "AriaLabel": "Agenda (PDF) for Committee of Adjustment 17 November 2026",
      "HasVideo": false,
      "HasLiveVideo": false,
      "HasLiveVideoPassed": false,
@@ -97403,5 +97386,5 @@
    "IsMP3": false
   }
  ],
- "checked_at": "2026-11-09T18:31:17"
+ "checked_at": "2026-11-10T17:50:47"
 }

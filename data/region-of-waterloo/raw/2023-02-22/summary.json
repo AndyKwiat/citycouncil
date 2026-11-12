@@ -1,0 +1,55 @@
+{
+ "title": "Regional Council approves 2023 budget and transit changes",
+ "subtitle": "Police budget, transit fare increase, automated speed enforcement, curbside waste collection changes, and delegations on Covid, data sharing and homelessness.",
+ "overview": [
+  "Regional Council ratified the 2023 budget on February 22 after the Strategic Planning and Budget Committee finished its work. The tax-supported budget for regional services, excluding police, passed on a recorded vote {{vote:m7}}. The police operating and capital budgets were approved as part of the earlier budget package {{vote:m6}}.",
+  "That package also approved Grand River Transit service additions, a 2.5% general fare increase from July 1, 2023, continued affordable transit fares, and removal of two low-ridership routes. Council also adopted Administration and Finance recommendations, including steps toward camera-based traffic enforcement, and Planning and Works recommendations, including a new curbside waste collection contract with automated carts and a four-day collection week.",
+  "Residents will see changes to transit fares and service, to garbage and organics pickup, and to the tax levy. Delegates also spoke about Covid-19 transmission messaging, sharing environmental data with the Survivor Secretariat, homelessness and the police budget. Council extended the meeting past 11 p.m. {{vote:m1}} and went into closed session on litigation and a proposed land disposition."
+ ],
+ "decisions": [
+  {
+   "motion": "m7",
+   "item": "2023 regional operating and capital budget",
+   "detail": "Council approved the 2023 Plan and the operating and capital budgets for regional services excluding police, on a recorded vote {{vote:m7}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Police budget and transit budget package",
+   "detail": "Council approved the Waterloo Regional Police Service 2023 operating and capital budgets and the budget committee's transit and grants recommendations {{vote:m6}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Transit fares and service",
+   "detail": "Council approved a 2.5% general fare increase from July 1, 2023, added transit service hours, removed Routes 2 and 73, and continued the affordable transit program."
+  },
+  {
+   "motion": "m5",
+   "item": "Curbside waste collection contract",
+   "detail": "Council directed that the next contract convert garbage and organics to automated carts, require alternative-fuel vehicles, and move to a four-day collection week {{vote:m5}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Automated speed enforcement and penalties system",
+   "detail": "Council directed staff to set up a regional administrative penalties system for camera offences and to study expanding speed cameras, including to all school zones {{vote:m4}}."
+  },
+  {
+   "motion": "m4",
+   "item": "King-Victoria Transit Hub and memberships",
+   "detail": "Council authorized an amended cost-sharing agreement with Metrolinx, a consulting agreement with an upset limit of $450,000, and continued FCM and AMO memberships."
+  },
+  {
+   "motion": "m5",
+   "item": "New Dundee Road speed limit",
+   "detail": "Council approved lowering the posted limit on a section of New Dundee Road in Kitchener from 80 to 60 km/h once the planned roundabout is complete."
+  }
+ ],
+ "debate": [
+  "A delegate urged public health messaging to say Covid-19 is airborne, arguing that breathing and speaking spread it and that respirators, ventilation and filtration protect workers, especially in long-term care.",
+  "Delegates from the Survivor Secretariat asked the Region to share water, air quality and other environmental data and reports, saying it would support better community decisions.",
+  "A delegate on homelessness called for changes to inclusionary zoning and more programs for affordable housing for people experiencing homelessness, citing concern about encampments this spring.",
+  "A resident questioned the increase to the police budget, noting that councils have limited ways to raise money other than property taxes.",
+  "On extending the meeting, one councillor said they could not make good decisions past midnight, while the chair asked for concise debate. When combining budget motions, one councillor said they disagreed with the 2.5% fare increase but supported other items; others said the committee votes already reflected council's will."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T23:25:21"
+}

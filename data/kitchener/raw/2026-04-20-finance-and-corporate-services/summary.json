@@ -1,0 +1,55 @@
+{
+ "title": "Council pay review and police cameras pilot",
+ "subtitle": "Also: 5 Charles Street East land sale, corporate policies, emergency management by-law, Digital Kitchener priorities.",
+ "overview": [
+  "The Finance and Corporate Services Committee recommended a council compensation increase for the 2026-2030 term, based on an outside consultant's review. The part of the increase above the 50th percentile of comparable municipalities would be funded through Kitchener Utilities, and the Mayor's increase would be held to 10.3%, matching the proposed councillor increase. The committee also asked for another compensation review before the 2030 election period. The committee noted that this recommendation was going to a Special Council meeting later that day for ratification, ahead of nominations opening on May 1.",
+  "The committee recommended supporting a one-year pilot of Waterloo Regional Police Service CCTV and licence plate reader cameras on municipal infrastructure {{vote:m8}}, with a staff report back after a year. It also recommended a land sale at 5 Charles Street East for a housing development, new and updated corporate policies including body-worn camera and CCTV policies, and an updated emergency management by-law.",
+  "The committee directed staff to start work on its 2026 Digital Kitchener priorities. It adjourned a development charges complaint to no later than June 1, 2026. Council will make the final decisions on the recommendations."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "Council compensation review",
+   "detail": "The committee recommended adopting the consultant's compensation recommendations for the 2026-2030 term, with the 50th-to-60th percentile difference funded through Kitchener Utilities, the Mayor's increase held to 10.3%, and a further review before the 2030 election {{vote:m5}}."
+  },
+  {
+   "motion": "m8",
+   "item": "Police CCTV and licence plate reader pilot",
+   "detail": "The committee recommended supporting a one-year Waterloo Regional Police Service pilot, authorizing an agreement to use municipal infrastructure and requiring a staff report back after one year {{vote:m8}}."
+  },
+  {
+   "motion": "m1",
+   "item": "5 Charles Street East land sale",
+   "detail": "The committee recommended declaring the site surplus, severing it and selling the parcel to Benton Communities LP for $2,032,746, with a 3-year purchase option and a temporary construction lease on the remnant parking lot, plus a 10-year option for the City on 14 Church Street."
+  },
+  {
+   "motion": "m2",
+   "item": "Corporate policy review",
+   "detail": "The committee recommended amending or repealing listed corporate policies and approving new Data, Body Worn Camera and Closed Circuit Television policies."
+  },
+  {
+   "motion": "m3",
+   "item": "Natural gas purchase policy",
+   "detail": "The committee recommended approving changes to fixed portfolio minimum limits and amendments to Gas Purchase Policy FIN-ACQ-560."
+  },
+  {
+   "motion": "m10",
+   "item": "Emergency Management Program By-law",
+   "detail": "The committee recommended approving the updated Emergency Management Program By-law."
+  },
+  {
+   "motion": "m11",
+   "item": "Digital Kitchener 2026 priorities",
+   "detail": "The committee directed staff to begin work on the proposed 2026 Digital Kitchener focus areas."
+  }
+ ],
+ "debate": [
+  "On council pay, several councillors said setting their own pay is a conflict of interest and hard to justify when residents are struggling. Supporters said the increase applies to a future council, base pay has not been comprehensively reviewed since 2002, and fair pay helps people of varied means run for office.",
+  "The consultant said the 60th percentile reflects Kitchener's size and its unusual responsibility for a municipally owned gas utility. Supporters of funding the difference through Kitchener Utilities said it ties the extra pay to that duty, and staff said they had no concern with it. On the Mayor's pay, the amendment to match the councillor increase passed {{vote:m7}}.",
+  "Police representatives said the cameras would be monitored passively, not live, with footage kept 30 days. They said there is no facial recognition, access is audited, public reports would come quarterly, and changes to the agreement would return to council.",
+  "Opponents of the camera pilot raised concerns about surveillance expanding over time, the use of AI in searches, limited public input, and a preference for more foot patrols. Supporters pointed to mall safety, the pilot's one-year report back and its role as an investigative tool. A motion to defer to Council lost {{vote:m9}}.",
+  "On 5 Charles Street East, one councillor asked about affordability, a possible holding provision and the loss of public parking. Staff said affordable units would follow the CMHC definition, planning would address any holding provision, and nearby businesses would get at least six months' notice before the lot closes."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T16:56:58"
+}

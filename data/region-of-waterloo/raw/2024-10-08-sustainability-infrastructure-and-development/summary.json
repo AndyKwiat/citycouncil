@@ -1,0 +1,45 @@
+{
+ "title": "Bus fleet strategy and business supports",
+ "subtitle": "Also covered: Scheifele Bridge expropriation, septic rebates, Franklin Boulevard design, water supply and wastewater capacity updates.",
+ "overview": [
+  "The committee recommended that staff plan the 2026-2030 conventional bus purchase around all viable propulsion options, including clean diesel, hybrid and battery-electric {{vote:m6}}. Staff said the electric bus pilot has shown the buses are quiet and reliable but have limited range, and that only the Northfield garage can currently charge them. The supplier of Grand River Transit's hybrids is also moving away from them.",
+  "The committee also recommended funding three business support programs from existing Strategic Investments for Business Supports money: healthcare and physician recruitment, a food bank volunteer pilot for newcomers, and a newcomer ecosystem mapping project {{vote:m5}}. On the consent agenda it recommended a septic pump-out rebate for small septic system owners, the preliminary design for Franklin Boulevard, and expropriation steps for the Scheifele Bridge replacement {{vote:m1}}.",
+  "Reports on water supply and on water and wastewater infrastructure were presented for information. Franklin Boulevard drew concerns about safety near the roundabout, and staff said they would report back to Council as design work continues."
+ ],
+ "decisions": [
+  {
+   "motion": "m6",
+   "item": "GRT bus procurement",
+   "detail": "The committee recommended that staff prepare the 2026-2030 conventional bus procurement considering all viable propulsion options for 12-metre and 18-metre vehicles {{vote:m6}}."
+  },
+  {
+   "motion": "m5",
+   "item": "Business wrap-around supports",
+   "detail": "The committee recommended approving three programs (healthcare recruitment, a food bank volunteer pilot, and a newcomer ecosystem mapping project) funded from Strategic Investments for Business Supports {{vote:m5}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Scheifele Bridge expropriation",
+   "detail": "The committee recommended authorizing the Regional Solicitor to begin expropriation of a permanent land taking and temporary easements on Northfield Drive East for the bridge replacement."
+  },
+  {
+   "motion": "m3",
+   "item": "Septic pump-out rebate",
+   "detail": "The committee recommended approving a Source Water Protection Plan incentive program for owners of small septic systems."
+  },
+  {
+   "motion": "m4",
+   "item": "Franklin Boulevard improvements",
+   "detail": "The committee recommended approving the preferred preliminary design alternative for Franklin Boulevard from Bishop Street to Avenue Road."
+  }
+ ],
+ "debate": [
+  "On buses, staff said electric buses can currently be used for only about 200 km before returning to charge, which makes them less efficient to schedule. Hybrids cut emissions by roughly 20% compared with diesel, and the current vendor is moving to electric-only. Councillors asked whether other suppliers could provide hybrids, and staff said they believed so.",
+  "Councillors asked when other garages could charge electric buses. Staff said there is no timeline: the Cambridge garage is full and would need replacing, and the Strasburg Road garage would need upgrades. Staff also said retrofitting older diesel buses is possible but costly, and that hydrogen is not yet practical.",
+  "On water, councillors asked about growth. Staff said the Region has about 38,000 unbuilt greenfield units in existing or pending subdivisions, none on groundwater recharge areas, and that wastewater plants have capacity but need upgrading and a master plan.",
+  "On Franklin Boulevard, councillors raised concerns from school board trustees and parents about tunnel lighting, crosswalk placement near the roundabout, and a design that does not show nearby city street exits. Others called for more consultation. Staff offered another public information centre and said updates will come as design progresses.",
+  "A councillor asked about alternatives to road salt. Staff said a salt management strategy is expected in 2026."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T17:46:34"
+}

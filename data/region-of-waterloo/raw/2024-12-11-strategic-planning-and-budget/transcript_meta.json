@@ -1,0 +1,70 @@
+{
+ "recording_seconds": 50223,
+ "caption_words": 88348,
+ "caption_wpm": 105.5,
+ "gaps": [
+  {
+   "start": 505,
+   "end": 2510,
+   "whisper_words": 12,
+   "filled": false
+  },
+  {
+   "start": 8955,
+   "end": 9546,
+   "whisper_words": 6,
+   "filled": false
+  },
+  {
+   "start": 12030,
+   "end": 13970,
+   "whisper_words": 9,
+   "filled": false
+  },
+  {
+   "start": 16381,
+   "end": 16824,
+   "whisper_words": 6,
+   "filled": false
+  },
+  {
+   "start": 22227,
+   "end": 22536,
+   "whisper_words": 8,
+   "filled": false
+  },
+  {
+   "start": 25107,
+   "end": 26318,
+   "whisper_words": 16,
+   "filled": false
+  },
+  {
+   "start": 32147,
+   "end": 32621,
+   "whisper_words": 7,
+   "filled": false
+  },
+  {
+   "start": 47563,
+   "end": 48000,
+   "whisper_words": 12,
+   "filled": false
+  },
+  {
+   "start": 49761,
+   "end": 50071,
+   "whisper_words": 20,
+   "filled": false
+  },
+  {
+   "start": 50209,
+   "end": 51016,
+   "whisper_words": 37,
+   "filled": false
+  }
+ ],
+ "method": "captions",
+ "source": "isilive-captions",
+ "words": 88348
+}

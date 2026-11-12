@@ -1,0 +1,50 @@
+{
+ "title": "2025 budget recommended with 5% cap on costs",
+ "subtitle": "Capital cuts deferred to 2026, user fees and municipal budget regulation report also considered",
+ "overview": [
+  "The Strategic Planning and Budget Committee recommended the 2025 Plan and Budget to Council {{vote:m8}}. The operating budget has net expenditure of $1,684,964,914 and a property tax levy of $831,778,942. After the day's changes, staff reported the Region's share of the tax impact at 9.89% and the combined Region and police impact at 9.48%, about $241 a year for an average household.",
+  "The main change was a motion capping increases in seven expense areas, including supplies, facilities maintenance, communications and travel, at 5% {{vote:m1}}. Staff said only about 38% of those savings reach the tax levy, giving a net levy reduction of $2.64 million. The committee also asked staff to report back on where the reductions are made {{vote:m11}}. A proposed capital budget reduction was deferred to the 2026 budget {{vote:m4}}.",
+  "The committee recommended the 2025 user fees and charges by-law {{vote:m5}} and adopted the municipal budget regulation report {{vote:m6}}. An attempt to send the whole budget back to staff failed {{vote:m14}}. Council will make the final decisions."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Cap on operating expense increases",
+   "detail": "The committee recommended capping 2025 increases in supplies, equipment, facilities maintenance, professional fees, communications, travel and facility occupancy at 5%, for a net operating reduction of $6,938,000 {{vote:m1}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Capital budget reduction deferred",
+   "detail": "The committee recommended deferring a proposal to cut the ten-year capital budget by the equivalent of 1% of the 2025 levy to the 2026 budget {{vote:m4}}."
+  },
+  {
+   "motion": "m5",
+   "item": "2025 user fees and charges",
+   "detail": "The committee recommended repealing By-Law 24-028 and passing a new Fees and Charges By-law with the new and adjusted 2025 fees, as amended {{vote:m5}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Municipal budget regulation report",
+   "detail": "The committee adopted report COR-CFN-24-027, required under Ontario Regulation 284/09, which covers expenses excluded from the budget {{vote:m6}}."
+  },
+  {
+   "motion": "m11",
+   "item": "Staff report back on reductions",
+   "detail": "The committee directed staff to report back on each reduction to be carried out under the 5% cap, for Council approval {{vote:m11}}."
+  },
+  {
+   "motion": "m8",
+   "item": "2025 Plan and Budget",
+   "detail": "The committee recommended the 2025 Plan, the operating budget with a $831,778,942 levy, and the 2025 capital budget and 2026-2034 forecast, as amended {{vote:m8}}."
+  }
+ ],
+ "debate": [
+  "Supporters of the 5% cap said cost increases in these areas were well above inflation, and that staff should find savings across departments. They pointed to lower increases at other regional governments and the burden on homeowners.",
+  "Opponents said staff already review costs each year and that municipal costs rise faster than general inflation. Staff warned that cutting facilities maintenance would delay repairs to regional housing and leave only emergency work. They also said cutting communications spending would weaken cybersecurity. Some councillors said a cut of about $20 a household would cost services that vulnerable residents rely on.",
+  "Several councillors criticised the timing of the cap, saying it came late in the process and left staff to make the cuts. Others said it was only a cap on increases and asked for a report back so Council could see where the cuts landed.",
+  "On the capital reduction, staff said it would add to the deferred maintenance backlog and could raise debt reliance. They also said delaying approval could hurt tender prices. Supporters of deferral wanted an asset management review and a study of longer debenture terms first.",
+  "On the whole budget, a proposal to send it back to staff for a lower increase failed. Opponents said staff could not redo the work in six weeks and that services starting January 1 depended on approval. Councillors also said senior governments should fund programs the Region currently pays for."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T17:21:14"
+}

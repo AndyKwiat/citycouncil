@@ -15875,7 +15875,7 @@
    "HasVideo": false,
    "HasVideoLivePassed": false,
    "LiveVideoStandAloneLink": "<a class='link' aria-label='View Live Stream For Planning, Environment and Water Advisory Committee 11 August 2026' href='/VideoStream.aspx?MeetingId=db2d0a7e-d827-4678-8c12-2b9d2d16000c' target='_blank'>",
-   "MeetingPassed": false,
+   "MeetingPassed": true,
    "AllowPublicComments": false,
    "TimeOverride": "",
    "TimeOverrideFR": "",
@@ -87664,7 +87664,35 @@
    "TimeOverride": "",
    "TimeOverrideFR": "",
    "IsMP3": false
+  },
+  {
+   "ID": "248d48f0-ef79-4596-81d9-8c909ed48d6c",
+   "MeetingName": "Information Items",
+   "StartDate": "2027/01/08 16:00:00",
+   "FormattedStart": "Friday, January 08, 2027 @ 4:00 PM",
+   "EndDate": "2027/01/08 17:00:00",
+   "Description": "The Information Items are distributed<br/>electronically Friday afternoons.",
+   "Url": "",
+   "Location": "The Information Items are distributed",
+   "ShareUrl": "/Sharing.aspx?u=https%3A%2F%2Fpub-guelph.escribemeetings.com%2FMeetingsCalendarView.aspx%2FMeeting%3FId%3D248d48f0-ef79-4596-81d9-8c909ed48d6c",
+   "MeetingType": "Information Items",
+   "ClassName": "mt-10-40",
+   "LanguageName": "English",
+   "HasAgenda": false,
+   "Sharing": true,
+   "MeetingDocumentLink": [],
+   "PortalId": "4cbd6e6b-041b-489f-a658-eb7e01d6b20f",
+   "DelegationRequestLink": "",
+   "HasLiveVideo": false,
+   "HasVideo": false,
+   "HasVideoLivePassed": false,
+   "LiveVideoStandAloneLink": "<a class='link' aria-label='View Live Stream For Information Items 19 August 2026' href='/VideoStream.aspx?MeetingId=248d48f0-ef79-4596-81d9-8c909ed48d6c' target='_blank'>",
+   "MeetingPassed": false,
+   "AllowPublicComments": false,
+   "TimeOverride": "",
+   "TimeOverrideFR": "",
+   "IsMP3": false
   }
  ],
- "checked_at": "2026-11-09T19:01:07"
+ "checked_at": "2026-11-10T17:50:05"
 }

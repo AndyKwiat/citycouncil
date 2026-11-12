@@ -1,0 +1,40 @@
+{
+ "title": "Paramedic Services Master Plan 2026-2035 recommended",
+ "subtitle": "Also: 2026 ambulance response time targets, housing funding plans, and a childcare funding report requested",
+ "overview": [
+  "The Community and Health Services Committee recommended that Council approve the Paramedic Services Master Plan for 2026 to 2035, subject to the annual budget process {{vote:m4}}. The plan responds to projected demand growth, which consultants said could push the region-wide 80th percentile response time from about nine minutes to about fifteen by 2035 if nothing changed. It proposes facility changes, a third hub and more frontline staff, each of which still needs yearly budget approval.",
+  "The committee also recommended 2026 ambulance response time targets (m3) and the Year 7 housing investment plan under the COCHI and OPHI programs, with delegated authority for later years (m2). Consent items were approved {{vote:m1}}, including two paramedic and child-voice reports received for information.",
+  "After hearing a childcare operator excluded from the Canada-Wide Early Learning and Child Care program, the committee directed staff to report on how that funding is allocated and used. Two delegates also urged Council to consider a public camping by-law and to favour investment over enforcement; no motion followed."
+ ],
+ "decisions": [
+  {
+   "motion": "m4",
+   "item": "Paramedic Services Master Plan 2026-2035",
+   "detail": "The committee recommended that Council approve the ten-year master plan, subject to the annual budget approvals process {{vote:m4}}."
+  },
+  {
+   "motion": "m3",
+   "item": "2026 Response Time Performance Plan",
+   "detail": "The committee recommended 2026 response targets, including sudden cardiac arrest in 6 minutes or less 70% of the time, above the Ministry of Health target of 50%."
+  },
+  {
+   "motion": "m2",
+   "item": "COCHI-OPHI housing investment plan",
+   "detail": "The committee recommended approving the Year 7 investment plan and expansion target forecast for submission to the province, and delegating approval of the Year 8 and 9 plans to the Commissioner of Community Services as funding is confirmed."
+  },
+  {
+   "motion": "m1",
+   "item": "Consent agenda",
+   "detail": "The committee received the consent items for information and approved them {{vote:m1}}, including the Child Voice Project report and paramedic semi-annual performance indicators."
+  }
+ ],
+ "debate": [
+  "A childcare delegate argued that an open, licensed centre in Breslau was excluded from $10-a-day childcare funding while future spaces not yet open counted toward targets, and asked for immediate inclusion.",
+  "Staff said funding is allocated to grow spaces in the most underserved areas first and that the Region must keep a 90% non-profit to 10% for-profit split. Staff preferred to bring delegate statistics back in a report rather than verify them on the spot.",
+  "Councillors asked whether operating dollars go unused while approved spaces wait to open, and asked about long-term effects of changing the process. Some said provincial funding is the limiting factor.",
+  "On paramedics, staff said offload delays fell because hospital leadership prioritized them. They said higher offload times at Cambridge Memorial contribute to slower Cambridge response times.",
+  "Councillors raised rural and Cambridge service equity. Staff and the Medical Officer of Health said ambulances are dispatched where needed across boundaries, so equal times by municipality are not possible, and more resources reduce pulling from rural areas. One councillor asked for a look at how other rural areas perform."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T19:44:23"
+}

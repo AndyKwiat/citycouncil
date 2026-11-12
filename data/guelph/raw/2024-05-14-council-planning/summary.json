@@ -1,0 +1,28 @@
+{
+ "title": "Heritage demolition decisions at short planning meeting",
+ "subtitle": "Two heritage property items passed on consent, four by-laws approved, and the meeting ended within minutes.",
+ "overview": [
+  "Council's May planning meeting was brief, chaired by a councillor because the mayor was absent. Two heritage items were handled together on the consent agenda, with no one asking to pull either for separate discussion {{vote:m1}}.",
+  "At 2187 Gordon Street, Council refused an application to demolish cultural heritage resources because the property is already protected by a heritage designation by-law under the Ontario Heritage Act {{vote:m2}}. This means the protected buildings cannot be demolished under that application.",
+  "At 9 Omar Street, Council removed the property from the Municipal Register of Cultural Heritage Properties and approved demolition of the dwelling {{vote:m3}}. The register lists properties of potential heritage value, so removal lets the demolition go ahead.",
+  "Council also approved four by-laws as amended {{vote:m4}}. There were no disclosures of pecuniary interest, and the meeting adjourned at 6:05 p.m."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "2187 Gordon Street demolition",
+   "detail": "Council refused the application to demolish the cultural heritage resources because the property is protected by heritage designation By-law (2024)-20901 under Part IV of the Ontario Heritage Act."
+  },
+  {
+   "motion": "m3",
+   "item": "9 Omar Street heritage register removal",
+   "detail": "Council removed 9 Omar Street from the Municipal Register of Cultural Heritage Properties and approved demolition of the dwelling."
+  }
+ ],
+ "debate": [
+  "No debate took place on the consent items: the chair asked whether anyone wanted either heritage item pulled for discussion, and no one did.",
+  "The by-laws were moved, seconded and passed with no questions or opposition recorded in the transcript."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T19:05:15"
+}

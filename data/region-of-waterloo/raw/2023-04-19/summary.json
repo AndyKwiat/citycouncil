@@ -1,0 +1,60 @@
+{
+ "title": "Cultural grants expanded; Lancaster ramp closure defeated",
+ "subtitle": "Also: child care spaces, property tax ratios, election privacy, accessible transit review, speed cameras deferred",
+ "overview": [
+  "Regional Council defeated a proposal to permanently close both ramps at the Highway 85 and Lancaster Street interchange in Kitchener {{vote:m11}}. Delegates opposed the closure, citing traffic, access to groceries and limited consultation, while a supporter spoke up for cyclist safety. Council also widened eligibility for the Key Cultural Institutions grant program and added $340,000 for newly eligible organizations {{vote:m15}}, after approving funding for the Kitchener Waterloo Symphony and THEMUSEUM {{vote:m14}}.",
+  "Council approved new child care spaces under the Canada-wide early learning program and asked the Regional Chair to advocate for better wages and capital funding {{vote:m10}}. It also set 2023 property tax ratios, reappointed the Integrity Commissioner, approved roundabout speed changes, and authorized property expropriation for the Sawmill and Ebycrest intersection, among other items {{vote:m8}} {{vote:m12}}.",
+  "Councillors asked the province to hide donors' and candidates' street addresses on public election forms {{vote:m18}}, deferred a speed camera motion to June {{vote:m20}}, and directed staff to review specialized transit service {{vote:m22}}. Delegates also raised concerns about the police budget review. The Regional Chair said a communication plan will go to the police board next month."
+ ],
+ "decisions": [
+  {
+   "motion": "m11",
+   "item": "Lancaster Street ramps closure",
+   "detail": "Council defeated a recommendation to permanently close both ramps at the Highway 85 and Lancaster Street interchange {{vote:m11}}."
+  },
+  {
+   "motion": "m15",
+   "item": "Key Cultural Institutions eligibility",
+   "detail": "Council lowered the operating expenditure threshold to $250,000, added $340,000 from the tax stabilization reserve, set a May 5 application deadline, and approved $32,130 for the Grand Philharmonic Choir {{vote:m15}}."
+  },
+  {
+   "motion": "m14",
+   "item": "Symphony and THEMUSEUM funding",
+   "detail": "Council approved 2023 Key Cultural Institutions allocations of $385,725 each to the Kitchener Waterloo Symphony and THEMUSEUM."
+  },
+  {
+   "motion": "m10",
+   "item": "Child care spaces",
+   "detail": "Council approved the allocation of new licensed child care spaces and a request for 997 more from the province, and asked the Chair to advocate on wages and capital funding."
+  },
+  {
+   "motion": "m8",
+   "item": "Tax ratios and committee items",
+   "detail": "Council set 2023 property tax ratios, reappointed Aird & Berlis LLP as Integrity Commissioner, updated airport fees, and approved the Municipal Accommodation Tax investment policy."
+  },
+  {
+   "motion": "m12",
+   "item": "Planning and Works items",
+   "detail": "Council approved roundabout speed limit changes, expropriation at Sawmill and Ebycrest, the Baden–New Hamburg servicing review, Myers Road crossings, a 130 Water Street North brownfield grant, and the water supply principles."
+  },
+  {
+   "motion": "m18",
+   "item": "Election privacy resolution",
+   "detail": "Council asked the province to remove street names and numbers of candidates and donors from public election forms."
+  },
+  {
+   "motion": "m22",
+   "item": "Accessible transit review",
+   "detail": "Council directed staff to review specialized transit service levels, the taxi by-law and vehicle specifications."
+  }
+ ],
+ "debate": [
+  "Opponents of closing the Lancaster ramps argued it would push traffic onto Bridgeport Road and the Wellington Street area, lengthen trips to grocery stores, and add congestion as new housing is built. Some suggested closing only one ramp.",
+  "Delegates and some councillors said public notice was poor. Others said consultation had run for years, and a dispute arose over when consultation began. Supporters pointed to safety for cyclists and pedestrians and to collision rates on the short ramps.",
+  "On cultural grants, some councillors said funding the Grand Philharmonic Choir separately skipped the vetting other groups face. Others objected to using reserves so soon after the budget. Supporters said the change opened funding to smaller groups, and some called for a clearer policy.",
+  "Delegates criticized how the staffing review for the police budget was released after budget approval. They said it noted surpluses that could fund staffing. Councillors later asked for more transparency and an update from police.",
+  "On election privacy, councillors debated whether the municipality and postal code should stay public. The final wording removed only street names and numbers."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T23:18:50"
+}

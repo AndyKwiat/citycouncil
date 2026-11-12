@@ -1,0 +1,23 @@
+{
+ "title": "Emergency meeting on a labour relations issue",
+ "subtitle": "Council met on short notice and moved to closed session on union-related negotiations.",
+ "overview": [
+  "Regional Council held an emergency special meeting on March 6, 2025, with less than the usual 48 hours notice, so it could discuss a labour relations issue in closed session. Councillors approved holding the meeting {{vote:m1}} under the emergency provision of the procedural by-law.",
+  "Council then agreed to move into closed session to consider labour relations or employee negotiations related to a union {{vote:m2}}. The minutes report no decisions from the closed session and no announcement afterward. Council adjourned at 3:50 p.m. {{vote:m3}}, so it did not need to return to open session.",
+  "For residents, the open portion of the meeting was brief and gave no detail about the subject beyond its general nature. The outcome of the closed discussion is not publicly reported in the minutes."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Emergency special meeting",
+   "detail": "Council agreed to hold an emergency special meeting without 48 hours notice, under section 8.7 of the procedural by-law, to hold a closed session on a labour relations issue {{vote:m1}}."
+  }
+ ],
+ "debate": [
+  "The chair described the purpose of the meeting as a closed session on ongoing labour relations; nothing about the substance was discussed in open session.",
+  "Several councillors had trouble with the electronic voting system on the first motion and stated their support aloud instead. No one spoke against it.",
+  "The chair proposed adjourning straight after the closed session so council would not have to come back into open session."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T16:54:10"
+}

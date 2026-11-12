@@ -1,0 +1,60 @@
+{
+ "title": "Regional Council approves 2026 budget",
+ "subtitle": "Police budgets, transit changes, women's warming centre, library reimbursement, and a contested vote correction dominated the special meeting.",
+ "overview": [
+  "Regional Council met in a special session to consider the Strategic Planning and Budget Committee's final 2026 budget recommendations. The main package, which includes the 2026 operating and capital budgets, passed {{vote:m1}}. It removes the planned expansion of fare inspectors onto GRT buses, adds a pilot of discounted EasyGO 2-Fare cards for community agencies, and funds a free-transit-day pilot for seniors. It also funds a new Kiwanis Transit bus, a 20-bed women's overnight warming centre in Cambridge, and $100,000 in annual funding for the Waterloo Regional Heritage Foundation.",
+  "Council voted separately on the Waterloo Regional Police Service budgets. The operating budget passed {{vote:m2}}. The capital budget was first defeated, then recorded as approved {{vote:m3}} after a councillor said the earlier vote had been made in error and it was corrected.",
+  "Several councillors objected to how the change was handled and raised concerns about the process. The confirming by-law passed {{vote:m4}}. For residents, the meeting finalizes 2026 service levels, fees and the property tax levy."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "2026 budget package",
+   "detail": "Council approved the 2026 operating budget with a property tax levy of $887,328,641, the 2026 capital budget and 2027-2035 forecast, and the accompanying fees and charges by-law."
+  },
+  {
+   "motion": "m1",
+   "item": "GRT fare inspectors",
+   "detail": "The proposed expansion of fare inspectors onto GRT buses was removed from the 2026 budget, with staffing, revenue and expenses adjusted."
+  },
+  {
+   "motion": "m1",
+   "item": "Women's warming centre",
+   "detail": "Staff were directed to include $176,000 in the 2026 budget for a 20-bed women's overnight warming centre in Cambridge, rising to $440,000 in the 2027 base budget."
+  },
+  {
+   "motion": "m1",
+   "item": "Taxi coupons and rideshare fee",
+   "detail": "Taxi coupon prices stay at $30 per $60 value with free delivery, funded from the accessibility reserve, and the rideshare accessibility fee rises to $0.15 per trip."
+  },
+  {
+   "motion": "m1",
+   "item": "Seniors and agency transit pilots",
+   "detail": "Council approved a pilot of free GRT travel one day a week for residents 65 and older and a pilot of discounted EasyGO 2-Fare cards for non-profit agencies."
+  },
+  {
+   "motion": "m1",
+   "item": "Planning fees and Elmira bypass",
+   "detail": "Planning and development fees are frozen at 2025 levels pending a new fee framework, and an unfunded Elmira bypass placeholder was added to the capital forecast for 2030."
+  },
+  {
+   "motion": "m2",
+   "item": "Police operating budget",
+   "detail": "Council approved the Waterloo Regional Police Service 2026 operating budget with a net expenditure of $298,951,621 and a levy of $272,610,413."
+  },
+  {
+   "motion": "m3",
+   "item": "Police capital budget",
+   "detail": "Council approved the police 2026 capital budget and 2027-2035 forecast after an earlier vote was corrected."
+  }
+ ],
+ "debate": [
+  "Several councillors said allowing a colleague to change a vote after the police capital budget was defeated undermined the democratic process. One called it a mockery of democracy and another said it looked like vote maneuvering.",
+  "Staff explained that Council has allowed votes to be corrected when made in error, citing an earlier correction that day. The procedure by-law has no provision for changing votes. It does allow a motion to reconsider, which needs notice unless two-thirds of Council waive it.",
+  "One councillor questioned whether the wording used was a correction of an error or a change of intent. The councillor in question said the original intent was to vote in favour, as at committee.",
+  "Some councillors also noted that another police board member joined online after the capital vote failed, and said the timing concerned them.",
+  "A councillor asked whether voting against the confirming by-law would register disagreement with the vote change. The clerk said it would be recorded only as opposition to the by-law."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T19:03:05"
+}

@@ -1,0 +1,39 @@
+{
+ "title": "Water allocation policy for Mannheim service area",
+ "subtitle": "Zoning by-law changes, reporting on water allocations, communications, and a closed session on six matters.",
+ "overview": [
+  "Council approved a Water Allocation Policy and by-law for Kitchener, along with zoning by-law amendments, to manage development while water capacity in the Mannheim service area is constrained {{vote:m2}}. The policy sets priorities for how the city assigns water it receives from the Region of Waterloo, including affordable housing, economic development and job growth.",
+  "Developers will fill out a no-cost application form, reviewed alongside their development application. The city will confirm water either through an allocation letter or a forward-looking servicing agreement that reserves future capacity. Council also authorized staff to sign related agreements with the Region. Staff said the zoning changes mean holding provisions will no longer be needed.",
+  "For residents, the decision is meant to let new projects resume as the Region releases water, including a one-time increase expected in the coming weeks. Staff said development will still need to be controlled in the short to medium term. Council also met in closed session after a brief recess; the minutes report no decisions from it."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "Water Allocation Policy",
+   "detail": "Council approved Kitchener's Water Allocation Policy, which prioritizes use of water capacity the Region assigns to the city during the constraint period."
+  },
+  {
+   "motion": "m2",
+   "item": "Zoning by-law amendments",
+   "detail": "Council approved amendments to Zoning By-laws 85-1 and 2019-051 so the policy can apply as law to all properties, including a general provision in place of holding provisions."
+  },
+  {
+   "motion": "m2",
+   "item": "Region administrative agreement",
+   "detail": "Council authorized the General Manager of Development Services to sign an Allocation Policy Administrative Agreement with the Region of Waterloo, to the City Solicitor's satisfaction."
+  },
+  {
+   "motion": "m2",
+   "item": "Forward-looking servicing agreements",
+   "detail": "Council authorized the General Manager to sign three-party agreements with the Region and developers reserving future water capacity in the Mannheim Service Area."
+  }
+ ],
+ "debate": [
+  "A delegate supported the policy but asked for an amendment requiring regular public reports to Council on water allocations, covering project details and the prioritization criteria, without giving Council power to override staff decisions.",
+  "Staff said reporting is already planned: the city must report monthly to the Region under the administrative agreement, the Region may publish allocations, and updates can go into the quarterly development approvals report and onto the city website. One councillor asked whether a motion was needed; staff indicated it was not.",
+  "Councillors asked about holding provisions, and staff said the prioritization criteria will apply to all applications whether or not a holding provision was used. Staff also said they expect to meet much of the near-term demand with upcoming Region allocations, using forward-looking agreements if demand exceeds supply.",
+  "Several councillors praised staff for their work over six months and said the situation was not of the city's making. One urged pursuing a long-term water source such as a pipeline to a lake, and the Mayor said regional staff are preparing a long-term water strategy."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T18:31:15"
+}

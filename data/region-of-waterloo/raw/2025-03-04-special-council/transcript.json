@@ -1,0 +1,2362 @@
+[
+ {
+  "start": 0.0,
+  "end": 28.3,
+  "text": "Councillor Sorme, Good morning and welcome to our special council meeting on March 4th,",
+  "no_speech": 0.0,
+  "logprob": -0.946,
+  "source": "whisper"
+ },
+ {
+  "start": 28.3,
+  "end": 29.3,
+  "text": "2025.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 29.3,
+  "end": 35.3,
+  "text": "The purpose of this meeting is to consider the options to fill vacant council position.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 35.3,
+  "end": 40.9,
+  "text": "I now call on Will Short, Regional Clerk, to conduct the roll call.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 40.9,
+  "end": 41.9,
+  "text": "Thank you Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 41.9,
+  "end": 42.9,
+  "text": "Chair Redman?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 42.9,
+  "end": 43.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 43.9,
+  "end": 44.9,
+  "text": "Councillor Craig?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 44.9,
+  "end": 45.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 45.9,
+  "end": 46.9,
+  "text": "Councillor Erb?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 46.9,
+  "end": 47.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 47.9,
+  "end": 48.9,
+  "text": "Councillor Foxton?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 48.9,
+  "end": 49.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 49.9,
+  "end": 50.9,
+  "text": "Councillor Huinink?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 50.9,
+  "end": 51.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 51.9,
+  "end": 52.9,
+  "text": "Councillor James?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 52.9,
+  "end": 53.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 53.9,
+  "end": 55.9,
+  "text": "Councillor Liggett?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 55.9,
+  "end": 56.9,
+  "text": "Councillor McCabe?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 56.9,
+  "end": 57.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 57.9,
+  "end": 58.9,
+  "text": "Councillor Salonen.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 58.9,
+  "end": 59.9,
+  "text": "Councillor Salonen.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 59.9,
+  "end": 60.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 60.9,
+  "end": 61.9,
+  "text": "Councillor Shantz.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 61.9,
+  "end": 62.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 62.9,
+  "end": 63.9,
+  "text": "Councillor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 63.9,
+  "end": 64.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 64.9,
+  "end": 65.9,
+  "text": "Councillor Williams.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 65.9,
+  "end": 66.9,
+  "text": "Councillor Wolf.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 66.9,
+  "end": 67.9,
+  "text": "Present.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 67.9,
+  "end": 68.9,
+  "text": "Thank you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 68.9,
+  "end": 73.7,
+  "text": "I'd like to acknowledge that the land on which we gather today is the traditional territory",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 73.7,
+  "end": 77.6,
+  "text": "of the Haudenosaunee, the Anishinaabeg and the Chinatown peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 77.6,
+  "end": 81.1,
+  "text": "In doing so, I want to reflect on what it means to be doing important community work",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 81.1,
+  "end": 87.0,
+  "text": "like we're engaging in collectively today and also in my own relationship to the land.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 87.0,
+  "end": 90.9,
+  "text": "As a settler, one of the most important aspects of my individual journey towards truth and",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 90.9,
+  "end": 93.0,
+  "text": "reconciliation has been to listen.",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 93.0,
+  "end": 97.7,
+  "text": "I am constantly grateful to a community that shares their stories and their concerns with",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 97.7,
+  "end": 98.9,
+  "text": "me.",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 98.9,
+  "end": 102.9,
+  "text": "As well as the Chair of the Region, I know I carry a large responsibility to ensure that",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 102.9,
+  "end": 108.0,
+  "text": "there's not just myself on an individual level listening and acting, but that as a government",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 108.0,
+  "end": 111.3,
+  "text": "we are listening and creating action in the community.",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 111.3,
+  "end": 115.3,
+  "text": "I offer this acknowledgement as one of the many actions I am personally in the Region",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 115.3,
+  "end": 120.8,
+  "text": "largely is taking on our journey towards reconciliation. We recognize the enduring",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 120.8,
+  "end": 124.9,
+  "text": "presence of the Indigenous peoples with whom we share this land today, their",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 124.9,
+  "end": 129.5,
+  "text": "achievements and their contributions to our community. Are there any declarations",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 129.5,
+  "end": 137.0,
+  "text": "of pecuniary interest under the Municipal Conflict of Interest Act? Seeing none, are",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 137.0,
+  "end": 140.3,
+  "text": "Are there any delegations?",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 140.3,
+  "end": 147.8,
+  "text": "Seeing none, I would now call on Will Short to introduce a report.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 147.8,
+  "end": 149.6,
+  "text": "Thank you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 149.6,
+  "end": 151.2,
+  "text": "To Council, good morning.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 151.2,
+  "end": 158.4,
+  "text": "You will remember on our last committee day in February, we briefly discussed the vacancy",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 158.4,
+  "end": 163.3,
+  "text": "report when we actually let everybody know about Councillor Deutschman's resignation.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 163.3,
+  "end": 169.2,
+  "text": "At the time, Council requested to defer the report until following the provincial election,",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 169.2,
+  "end": 171.9,
+  "text": "which happened on February 27th.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 171.9,
+  "end": 176.2,
+  "text": "So it's the same report that we were working on at the time.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 176.2,
+  "end": 183.1,
+  "text": "It outlines the options for either filling the vacancy through an appointment by Council",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 183.1,
+  "end": 185.8,
+  "text": "or through a by-election.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 185.8,
+  "end": 189.6,
+  "text": "Both options are highlighted in the report itself.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 189.6,
+  "end": 193.8,
+  "text": "If you have any questions for us specifically about the application process, Tim Brubaker",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 193.8,
+  "end": 198.4,
+  "text": "our deputy clerk has been working on all of the research and information for that so he'll",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 198.4,
+  "end": 200.5,
+  "text": "be happy to answer those questions.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 200.5,
+  "end": 203.5,
+  "text": "And at this point we'll just open up the floor for debate or questions.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 203.5,
+  "end": 204.5,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 204.5,
+  "end": 205.5,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 205.5,
+  "end": 206.5,
+  "text": "Councillor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 206.5,
+  "end": 216.3,
+  "text": "Thank you very much and thank you to staff for bringing this comprehensive report forward.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 216.3,
+  "end": 222.0,
+  "text": "I guess just a couple questions because I think it's worthwhile reiterating them here",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 222.0,
+  "end": 227.7,
+  "text": "even though I recognize they're in the report.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 227.7,
+  "end": 235.2,
+  "text": "But the last time we were faced with this, I recall, was with Councillor Clarke when",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 235.2,
+  "end": 239.1,
+  "text": "the late Wayne Weckloffer passed away.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 239.1,
+  "end": 242.2,
+  "text": "Can you remind us what we did at that time?",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 242.2,
+  "end": 245.7,
+  "text": "Did we go to the next person in the list or how did we do that?",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 245.7,
+  "end": 253.2,
+  "text": "Through the chair, in I believe it was 2015 when Councillor Wettlaufer passed away, Elizabeth",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 253.2,
+  "end": 258.4,
+  "text": "Clark was selected at the time and she was the fifth place candidate in the previous",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 258.4,
+  "end": 259.4,
+  "text": "election.",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 259.4,
+  "end": 260.4,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 260.4,
+  "end": 261.9,
+  "text": "Thank you for that.",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 261.9,
+  "end": 270.0,
+  "text": "And in terms of in the report, you reference Mr. Rodriguez, who I'll note is in the audience",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 270.0,
+  "end": 273.0,
+  "text": "today.",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 273.0,
+  "end": 278.3,
+  "text": "I'm just wondering, have you had an opportunity to confer with him and confirm whether or",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 278.3,
+  "end": 280.6,
+  "text": "not he would be available?",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 280.6,
+  "end": 283.4,
+  "text": "Through the Chair, yes.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 283.4,
+  "end": 288.4,
+  "text": "We have spoken with Mr. Rodriguez on a couple of occasions and he has indicated that he",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 288.4,
+  "end": 294.4,
+  "text": "is still eligible and would be willing to serve should Council appoint him.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 294.4,
+  "end": 301.9,
+  "text": "If that's the will of Council, we would confirm with Mr. Rodriguez that he still has a qualifying",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 301.9,
+  "end": 305.2,
+  "text": "address but that would be what we would need to do on our end.",
+  "no_speech": 0.0,
+  "logprob": -0.276,
+  "source": "whisper"
+ },
+ {
+  "start": 305.2,
+  "end": 306.2,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.276,
+  "source": "whisper"
+ },
+ {
+  "start": 306.2,
+  "end": 307.7,
+  "text": "Thank you for that.",
+  "no_speech": 0.0,
+  "logprob": -0.276,
+  "source": "whisper"
+ },
+ {
+  "start": 307.7,
+  "end": 314.8,
+  "text": "So Madam Chair, at the appropriate time I would like to move a motion and speak to it",
+  "no_speech": 0.0,
+  "logprob": -0.276,
+  "source": "whisper"
+ },
+ {
+  "start": 314.8,
+  "end": 318.0,
+  "text": "at that time please.",
+  "no_speech": 0.0,
+  "logprob": -0.276,
+  "source": "whisper"
+ },
+ {
+  "start": 318.0,
+  "end": 321.3,
+  "text": "Councillor Foxton.",
+  "no_speech": 0.0,
+  "logprob": -0.276,
+  "source": "whisper"
+ },
+ {
+  "start": 321.3,
+  "end": 324.3,
+  "text": "Thank you Madam Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.276,
+  "source": "whisper"
+ },
+ {
+  "start": 324.3,
+  "end": 329.3,
+  "text": "I feel that it's too close to the next election to go into an election.",
+  "no_speech": 0.0,
+  "logprob": -0.276,
+  "source": "whisper"
+ },
+ {
+  "start": 329.3,
+  "end": 332.7,
+  "text": "I don't want to spend the money.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 332.7,
+  "end": 334.0,
+  "text": "I don't think it's a wise thing.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 334.0,
+  "end": 340.0,
+  "text": "And I think the next in line was very close to the previous person that won it.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 340.0,
+  "end": 345.5,
+  "text": "And so I'm leaning towards going that route, especially since the individual was already",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 345.5,
+  "end": 349.5,
+  "text": "involved in the community extensively before the election.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 349.5,
+  "end": 352.4,
+  "text": "And that was one of the reasons I believe he wanted to run.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 352.4,
+  "end": 357.8,
+  "text": "Again, I know that it's in the report, but Tim, do you want to tell us what the differential",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 357.8,
+  "end": 364.7,
+  "text": "was between Mr. Deutschman's results and the next on the line.",
+  "no_speech": 0.0,
+  "logprob": -0.286,
+  "source": "whisper"
+ },
+ {
+  "start": 364.7,
+  "end": 366.0,
+  "text": "Thank you Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.286,
+  "source": "whisper"
+ },
+ {
+  "start": 366.0,
+  "end": 375.7,
+  "text": "So Councillor Deutschman received 10,102 votes and Mr. Rodriguez received 9,714 votes and",
+  "no_speech": 0.0,
+  "logprob": -0.286,
+  "source": "whisper"
+ },
+ {
+  "start": 375.7,
+  "end": 380.1,
+  "text": "that's fewer than 400.",
+  "no_speech": 0.0,
+  "logprob": -0.286,
+  "source": "whisper"
+ },
+ {
+  "start": 380.1,
+  "end": 381.7,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.286,
+  "source": "whisper"
+ },
+ {
+  "start": 381.7,
+  "end": 382.7,
+  "text": "Councillor Huinink.",
+  "no_speech": 0.0,
+  "logprob": -0.286,
+  "source": "whisper"
+ },
+ {
+  "start": 382.7,
+  "end": 383.7,
+  "text": "Thank you Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.286,
+  "source": "whisper"
+ },
+ {
+  "start": 383.7,
+  "end": 390.6,
+  "text": "chair i would agree very strongly that the voice of the people spoke when they um chose mr roderick",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 390.6,
+  "end": 396.2,
+  "text": "is his fifth and it would be in council's best interest to bring him on as quickly as possible",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 396.2,
+  "end": 402.5,
+  "text": "also to proceed with the necessary engagements of council as soon as we can",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 406.1,
+  "end": 412.2,
+  "text": "thank you uh cancer councillor salanin thank you through you chair um i think i share a lot of the",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 412.2,
+  "end": 416.1,
+  "text": "similar sentiment that's been discussed.",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 416.1,
+  "end": 421.4,
+  "text": "Looking at Mr. Rodriguez and the position, I think certainly from a democratic process,",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 421.4,
+  "end": 426.3,
+  "text": "he's someone who's already gone out to the public, shown his interest in this role, and",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 426.3,
+  "end": 428.3,
+  "text": "again it was actually quite close.",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 428.3,
+  "end": 434.2,
+  "text": "So I think from a cost savings perspective, from getting the right people in the position,",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 434.2,
+  "end": 438.2,
+  "text": "I think that's the route I would like to see go and I'd be happy to second.",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 438.2,
+  "end": 444.2,
+  "text": "I'm assuming that's what Councillor Vrbanovic was going to bring forward.",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 444.2,
+  "end": 449.1,
+  "text": "Councillor Vrbanovic Okay, I probably should have asked Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 449.1,
+  "end": 450.9,
+  "text": "Verbanovic to put his motion forward.",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 450.9,
+  "end": 455.2,
+  "text": "There is no motion on the floor at this point, so I am going to go to the speakers list and",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 455.2,
+  "end": 457.4,
+  "text": "we are not considering any motion.",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 457.4,
+  "end": 461.3,
+  "text": "I think it's pretty clear what the sentiment is around the horseshoe, but there's no motion",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 461.3,
+  "end": 462.3,
+  "text": "on the floor.",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 462.3,
+  "end": 463.3,
+  "text": "Councillor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 463.3,
+  "end": 464.3,
+  "text": "Councillor Vrbanovic Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 464.3,
+  "end": 465.3,
+  "text": "Councillor Vrbanovic Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 467.3,
+  "end": 473.9,
+  "text": "I indicated that at the appropriate time I'd like to move a motion so is this the appropriate",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 473.9,
+  "end": 480.6,
+  "text": "time or I have a speaker's list so I will go back I'll come back to you Councillor Erb",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 480.6,
+  "end": 489.3,
+  "text": "Thank you Madam Chair I too support making an appointment I think Councillor Deutschmann",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 489.3,
+  "end": 495.4,
+  "text": "had the 10,000 and the 9,000 for Mr. Rodriguez but Councillor Deutschmann had 10% of the",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 495.4,
+  "end": 501.9,
+  "text": "vote and Mr. Rodriguez had 9% of the vote so it was obvious that the citizens of Kitchener",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 501.9,
+  "end": 509.5,
+  "text": "put their faith almost equally into Mr. Rodriguez as they did to other council members and we're",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 509.5,
+  "end": 516.3,
+  "text": "more than halfway through the term. I don't see the necessity of a costly by-election",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 516.3,
+  "end": 523.3,
+  "text": "when we know that the candidate that we're considering appointing had that kind of support",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 523.3,
+  "end": 524.6,
+  "text": "from the citizens of Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 524.6,
+  "end": 533.1,
+  "text": "So I would, assuming that Councillor Vrbanovic is going to make a motion to appoint Mr. Rodriguez,",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 533.1,
+  "end": 536.3,
+  "text": "I would support that as well.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 536.3,
+  "end": 537.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 537.3,
+  "end": 538.3,
+  "text": "Councillor James.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 538.3,
+  "end": 540.0,
+  "text": "Thank you, through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 540.0,
+  "end": 548.2,
+  "text": "I strongly support moving to the fifth individual, Mr. Rodriguez.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 548.2,
+  "end": 553.7,
+  "text": "I will speak to something that Councillor Huinink said as well.",
+  "no_speech": 0.0,
+  "logprob": -0.227,
+  "source": "whisper"
+ },
+ {
+  "start": 553.7,
+  "end": 560.0,
+  "text": "The community did put their votes in Mr. Rodriguez and he came in fifth and based on precedent",
+  "no_speech": 0.0,
+  "logprob": -0.227,
+  "source": "whisper"
+ },
+ {
+  "start": 560.0,
+  "end": 565.4,
+  "text": "from before I think there's ample reason to appoint the next person.",
+  "no_speech": 0.0,
+  "logprob": -0.227,
+  "source": "whisper"
+ },
+ {
+  "start": 565.4,
+  "end": 568.1,
+  "text": "We'll also just ask for clarification.",
+  "no_speech": 0.0,
+  "logprob": -0.227,
+  "source": "whisper"
+ },
+ {
+  "start": 568.1,
+  "end": 574.2,
+  "text": "What would be the cost of a by-election or going through the other process just so that's",
+  "no_speech": 0.0,
+  "logprob": -0.227,
+  "source": "whisper"
+ },
+ {
+  "start": 574.2,
+  "end": 575.2,
+  "text": "clear?",
+  "no_speech": 0.0,
+  "logprob": -0.227,
+  "source": "whisper"
+ },
+ {
+  "start": 575.2,
+  "end": 576.2,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.227,
+  "source": "whisper"
+ },
+ {
+  "start": 576.2,
+  "end": 578.4,
+  "text": "Thank you Councillor James.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 578.4,
+  "end": 582.5,
+  "text": "It would be approximately $800,000 to run a by-election in Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 582.5,
+  "end": 583.5,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 583.5,
+  "end": 588.7,
+  "text": "And from a cost savings perspective I think it wouldn't make sense.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 588.7,
+  "end": 594.5,
+  "text": "So happy to support if there is a pending motion that will come forward on appointing",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 594.5,
+  "end": 597.3,
+  "text": "the next person in line.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 597.3,
+  "end": 598.3,
+  "text": "Councillor Wolf.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 598.3,
+  "end": 601.1,
+  "text": "Through you Madam Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 601.1,
+  "end": 603.1,
+  "text": "So far I agree with all my colleagues.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 603.1,
+  "end": 610.1,
+  "text": "I think to spend $800,000 on an election at this point would not be appropriate.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 610.1,
+  "end": 614.8,
+  "text": "And also that would leave us with an empty seat until June.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 615.3,
+  "end": 618.7,
+  "text": "So I've only heard good things about the delegate.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 619.2,
+  "end": 628.8,
+  "text": "And I think as other colleagues have said, he did receive many votes from his constituents in Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 629.2,
+  "end": 632.1,
+  "text": "And we do have to trust the electorate.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 632.1,
+  "end": 641.1,
+  "text": "And again, I think the appointing of the next in line from the ballot would be our best choice.",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 641.1,
+  "end": 643.1,
+  "text": "Councillor McCabe.",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 643.1,
+  "end": 644.1,
+  "text": "Councillor McCabe.",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 645.1,
+  "end": 646.1,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 646.1,
+  "end": 650.1,
+  "text": "I'll play a little bit of devil's advocate because I'm curious about, I was actually,",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 650.1,
+  "end": 655.1,
+  "text": "I'm actually more interested in doing some interviews, quite frankly, because I think",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 655.1,
+  "end": 658.1,
+  "text": "that would, I think, you know, two and a half years have passed and, you know, there's a",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 658.1,
+  "end": 660.1,
+  "text": "you know, there's a lot of issues that we've discussed",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 660.1,
+  "end": 662.7,
+  "text": "and a lot of things that have changed in our community",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 662.7,
+  "end": 663.5,
+  "text": "in two and a half years",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 663.5,
+  "end": 665.1,
+  "text": "and that are going to continue to change.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 665.2,
+  "end": 668.2,
+  "text": "And I personally would prefer to just open it up",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 668.2,
+  "end": 670.2,
+  "text": "and look for, not to run a by-election,",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 670.4,
+  "end": 676.1,
+  "text": "but my interest was really in soliciting interested applicants",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 676.1,
+  "end": 679.9,
+  "text": "from across the community to, you know,",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 679.9,
+  "end": 681.5,
+  "text": "and then actually go through the time",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 681.5,
+  "end": 683.7,
+  "text": "and see who would actually, you know,",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 684.0,
+  "end": 685.5,
+  "text": "who actually rises to the top",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 685.5,
+  "end": 687.9,
+  "text": "because two and a half years, nearly three years have passed.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 688.1,
+  "end": 691.4,
+  "text": "That actually would be my preference.",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 691.4,
+  "end": 696.7,
+  "text": "And I know some other, like the Catholic School Board has done a process like that and it",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 696.7,
+  "end": 700.1,
+  "text": "brought in some more racialized candidates as well through that process.",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 700.1,
+  "end": 707.4,
+  "text": "So that was one of my interests in opening it up to an interview process.",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 707.4,
+  "end": 710.1,
+  "text": "So yeah, that's how I feel about it.",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 710.1,
+  "end": 719.5,
+  "text": "But I also just, and I'm not sure who could answer this, but I am concerned that he's",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 719.5,
+  "end": 722.8,
+  "text": "currently employed by a municipality.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 722.8,
+  "end": 727.9,
+  "text": "So I think that's something that we need to consider as well in this process.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 727.9,
+  "end": 732.5,
+  "text": "Ms. Okay, Tim's going to respond to that question.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 732.5,
+  "end": 734.0,
+  "text": "Mr. Thank you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 734.0,
+  "end": 742.2,
+  "text": "So the Municipal Act does not allow an employee of the municipality to serve on the council.",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 742.2,
+  "end": 746.8,
+  "text": "So Mr. Rodriguez would not be allowed to be an employee of the, or sorry, a councillor",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 746.8,
+  "end": 752.6,
+  "text": "at the City of Kitchener, but we're a different municipality so that's not covered.",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 752.6,
+  "end": 758.0,
+  "text": "However in our conversations with Mr. Rodriguez, he didn't indicate that he would be intending",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 758.0,
+  "end": 762.6,
+  "text": "to take a leave of absence from his position at the city.",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 762.6,
+  "end": 767.9,
+  "text": "And we also informed him that should this be the option that Council chooses, that we",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 767.9,
+  "end": 774.1,
+  "text": "would put him in touch with the integrity commissioner to make sure that he was fully",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 774.1,
+  "end": 780.6,
+  "text": "briefed on the implications as far as the Municipal Conflict of Interest Act goes to avoid any",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 780.6,
+  "end": 781.6,
+  "text": "issues there.",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 781.6,
+  "end": 782.6,
+  "text": "Councillor McCabe?",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 782.6,
+  "end": 783.6,
+  "text": "No, that's fine.",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 783.6,
+  "end": 788.6,
+  "text": "I just think it's something that we should keep in our minds as we go through this process.",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 788.6,
+  "end": 792.2,
+  "text": "I want to thank you for asking that question though, because I think it's really",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 792.2,
+  "end": 798.4,
+  "text": "important information for anybody who's watching this to know the commitment of the person",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 798.4,
+  "end": 802.7,
+  "text": "we're talking about and also clarity on the path forward.",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 802.7,
+  "end": 806.3,
+  "text": "I don't see any other speakers so I will go back to Councillor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 806.3,
+  "end": 809.4,
+  "text": "Is there anyone who hasn't spoken that would like to?",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 809.4,
+  "end": 812.4,
+  "text": "Okay, Councillor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 812.4,
+  "end": 813.4,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 813.4,
+  "end": 815.0,
+  "text": "Thank you very much, Chair Redman.",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 815.0,
+  "end": 826.4,
+  "text": "And I will be moving Matt Rodriguez to fill the vacancy in the as a result of the vacancy",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 826.4,
+  "end": 830.9,
+  "text": "created by former Councillor Deutschman.",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 830.9,
+  "end": 836.8,
+  "text": "And as I guess already been offered Councillor Salonen will second it and if I can just speak",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 836.8,
+  "end": 841.4,
+  "text": "to it briefly.",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 841.4,
+  "end": 848.5,
+  "text": "As has been pointed out, we are a little more than two years past the last election.",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 848.5,
+  "end": 853.9,
+  "text": "But when we're faced with these openings, obviously there are a number of options that",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 853.9,
+  "end": 858.8,
+  "text": "are available to councils, but I think there are a couple of principles that always need",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 858.8,
+  "end": 862.1,
+  "text": "to be considered as we look at that.",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 862.1,
+  "end": 867.2,
+  "text": "One is what were the results in the last election, and as has been pointed out in this particular",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 867.2,
+  "end": 874.5,
+  "text": "instance, there was really only a gap of 388 votes between the fourth and the fifth place",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 874.5,
+  "end": 880.0,
+  "text": "person, which was very different than, for example, the sixth place where there was actually",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 880.0,
+  "end": 887.4,
+  "text": "a gap of almost 3,000 votes, which in that case, quite frankly, I think the circumstances",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 887.4,
+  "end": 894.6,
+  "text": "in the discussion might be different because it's not clear that there was a very obvious",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 894.6,
+  "end": 898.6,
+  "text": "next person in the list.",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 898.6,
+  "end": 904.0,
+  "text": "So that's one reason why I think it makes sense to go this route.",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 904.0,
+  "end": 910.5,
+  "text": "Secondly, obviously going the second or probably the most democratic route which would have",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 910.5,
+  "end": 919.4,
+  "text": "been going to a by-election at a cost of $800,000 at this point in time when there's an obvious",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 919.4,
+  "end": 925.7,
+  "text": "that was fifth in the list, in my view, you know, would not be a prudent use of taxpayers'",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 925.7,
+  "end": 930.6,
+  "text": "dollars, particularly at this time when we know, you know, that we're facing fiscal challenges",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 930.6,
+  "end": 939.1,
+  "text": "as a region. Thirdly, I will say that, you know, going the route of appointment is an option",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 939.1,
+  "end": 946.0,
+  "text": "available to us, appointment by virtue of application, but it is one that, you know,",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 946.0,
+  "end": 956.1,
+  "text": "I think brings me some concern, quite frankly, because it doesn't necessarily allow for the voice of the people of Kitchener to be heard.",
+  "no_speech": 0.0,
+  "logprob": -0.084,
+  "source": "whisper"
+ },
+ {
+  "start": 956.2,
+  "end": 963.8,
+  "text": "Number one, we could see, you know, anybody applying from within the region, which people are allowed to do that.",
+  "no_speech": 0.0,
+  "logprob": -0.084,
+  "source": "whisper"
+ },
+ {
+  "start": 963.8,
+  "end": 976.0,
+  "text": "But secondly, it doesn't allow for Kitchener voters to have their say, except for the four of us around the horseshoe that are actually Kitchener voters.",
+  "no_speech": 0.0,
+  "logprob": -0.084,
+  "source": "whisper"
+ },
+ {
+  "start": 976.0,
+  "end": 983.6,
+  "text": "Actually, there's five, I guess, because Councillor Huinink is a Kitchener resident representing Waterloo.",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 984.8,
+  "end": 999.2,
+  "text": "And so I think, you know, in the principles of democracy, in the principle of acknowledging the votes that took place recently,",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 999.2,
+  "end": 1017.9,
+  "text": "And I will argue that, as is pointed out, Mr. Rodriguez has indicated, in my view, his commitment to serving on council with his willingness to take the leave, as Mr. Brubaker indicated, despite the Municipal Act not requiring that.",
+  "no_speech": 0.0,
+  "logprob": -0.063,
+  "source": "whisper"
+ },
+ {
+  "start": 1017.9,
+  "end": 1025.3,
+  "text": "But he does have extensive municipal experience, which I think will help him as he comes around",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 1025.3,
+  "end": 1029.2,
+  "text": "the horseshoe to work with us for the balance of this term.",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 1030.9,
+  "end": 1035.0,
+  "text": "Councillor Salonen, did you want to make any comments as the seconder of this motion?",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 1035.4,
+  "end": 1035.8,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 1035.9,
+  "end": 1037.5,
+  "text": "I think I already made my comments.",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 1039.7,
+  "end": 1043.5,
+  "text": "So, Matt, this is how smooth it runs every time we have a council meeting.",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 1043.5,
+  "end": 1052.2,
+  "text": "so it's been moved and seconded to the regional municipality of Waterloo selects a1 option 1a",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1052.2,
+  "end": 1058.8,
+  "text": "and the associated process is outlined in the report dated March 4th 2025 as a method for",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1058.8,
+  "end": 1065.6,
+  "text": "filling the vacant regional councillor the kitchener seat so I would ask everybody to",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1065.6,
+  "end": 1067.5,
+  "text": "please use your e-scribe to vote",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1067.5,
+  "end": 1090.7,
+  "text": "That is carried, colleagues.",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1091.1,
+  "end": 1095.2,
+  "text": "I would then turn to Tim Brubaker to talk about the way forward.",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1095.2,
+  "end": 1097.2,
+  "text": "Thank you, Chair Redman.",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1097.5,
+  "end": 1114.1,
+  "text": "So when the report was written, the timeline that we have included in Appendix A notes that a bylaw will come to confirm Mr. Rodriguez's appointment at the 19th Council meeting.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 1114.5,
+  "end": 1126.3,
+  "text": "Given that there is a special council meeting called for the 13th, we would suggest that this just be added to the purpose for that meeting and the bylaw can be passed at that point.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 1127.5,
+  "end": 1132.2,
+  "text": "Sounds like a great solution and a little bit of clarity on the way forward.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1133.0,
+  "end": 1138.1,
+  "text": "And Matt, I guess my reflection would be that none of these seats have seat belts in them,",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1138.2,
+  "end": 1143.5,
+  "text": "but you're joining regional council at a very crucial, interesting time in the history of the region.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1143.7,
+  "end": 1146.4,
+  "text": "So we look forward to having you around the horseshoe with all of us.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1148.2,
+  "end": 1152.2,
+  "text": "Colleagues, I will now entertain a motion to go into closed.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1152.3,
+  "end": 1155.8,
+  "text": "If I could have a move, moved by a Councillor Wolf, seconded by Councillor Foxton.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1155.8,
+  "end": 1166.4,
+  "text": "It's to consider issues in a court.",
+  "no_speech": 0.0,
+  "logprob": -0.211,
+  "source": "whisper"
+ },
+ {
+  "start": 1166.4,
+  "end": 1172.3,
+  "text": "So it's receiving advice that is subject to solicitor client privilege, receiving advice",
+  "no_speech": 0.0,
+  "logprob": -0.211,
+  "source": "whisper"
+ },
+ {
+  "start": 1172.3,
+  "end": 1180.6,
+  "text": "subject to solicitor client privilege, receiving advice related to proposed disposition of",
+  "no_speech": 0.0,
+  "logprob": -0.211,
+  "source": "whisper"
+ },
+ {
+  "start": 1180.6,
+  "end": 1186.6,
+  "text": "land, the impact of terrorists, identifiable individuals, and a proposed",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 1186.6,
+  "end": 1191.8,
+  "text": "acquisition of land in the City of Cambridge.",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 1210.6,
+  "end": 1221.0,
+  "text": "Harris, McCabe, and Salonen, if you could vote.",
+  "no_speech": 0.0,
+  "logprob": -0.38,
+  "source": "whisper"
+ },
+ {
+  "start": 1221.0,
+  "end": 1222.3,
+  "text": "Colleagues that is carried.",
+  "no_speech": 0.0,
+  "logprob": -0.38,
+  "source": "whisper"
+ },
+ {
+  "start": 1222.3,
+  "end": 1224.8,
+  "text": "We will now adjourn to the Waterloo Room.",
+  "no_speech": 0.0,
+  "logprob": -0.38,
+  "source": "whisper"
+ },
+ {
+  "start": 1240.6,
+  "end": 1250.2,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1270.6,
+  "end": 1300.6,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 6100.6,
+  "end": 6124.6,
+  "text": "Colleagues, this is your two-minute warning.",
+  "no_speech": 0.0,
+  "logprob": -0.296,
+  "source": "whisper"
+ },
+ {
+  "start": 6124.6,
+  "end": 6128.4,
+  "text": "Colleagues I would entertain a motion to reconvene in open session.",
+  "no_speech": 0.0,
+  "logprob": -0.296,
+  "source": "whisper"
+ },
+ {
+  "start": 6128.4,
+  "end": 6131.1,
+  "text": "by Councillor Salonen and seconded by Councillor Foxton.",
+  "no_speech": 0.0,
+  "logprob": -0.483,
+  "source": "whisper"
+ },
+ {
+  "start": 6131.1,
+  "end": 6133.1,
+  "text": "Please use your E scribe to vote.",
+  "no_speech": 0.0,
+  "logprob": -0.483,
+  "source": "whisper"
+ },
+ {
+  "start": 6158.4,
+  "end": 6164.8,
+  "text": "It's not coming up for me, but I'm in favor.",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 6164.8,
+  "end": 6166.6,
+  "text": "Thank you, Councillor Hewnick.",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 6166.6,
+  "end": 6172.8,
+  "text": "Which meeting is this in regards to, am I in the wrong one for East Drive?",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 6172.8,
+  "end": 6174.0,
+  "text": "We're in special counsel.",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 6174.0,
+  "end": 6179.8,
+  "text": "We're resuming an open session and then we'll do the bylaws and then we will adjourn.",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 6179.8,
+  "end": 6195.6,
+  "text": "Councillor Nowak, are you in favour of reconvening?",
+  "no_speech": 0.0,
+  "logprob": -0.277,
+  "source": "whisper"
+ },
+ {
+  "start": 6195.6,
+  "end": 6199.0,
+  "text": "Colleagues that is carried.",
+  "no_speech": 0.0,
+  "logprob": -0.277,
+  "source": "whisper"
+ },
+ {
+  "start": 6199.0,
+  "end": 6205.2,
+  "text": "I will now ask for a motion to enact bylaws for second and third readings moved by Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.277,
+  "source": "whisper"
+ },
+ {
+  "start": 6205.2,
+  "end": 6207.3,
+  "text": "McCabe and seconded by Councillor Shantz.",
+  "no_speech": 0.0,
+  "logprob": -0.277,
+  "source": "whisper"
+ },
+ {
+  "start": 6207.3,
+  "end": 6209.3,
+  "text": "Please use your e-scribe to vote.",
+  "no_speech": 0.0,
+  "logprob": -0.412,
+  "source": "whisper"
+ },
+ {
+  "start": 6237.3,
+  "end": 6242.4,
+  "text": "Colleagues, that is carried.",
+  "no_speech": 0.0,
+  "logprob": -0.28,
+  "source": "whisper"
+ },
+ {
+  "start": 6242.4,
+  "end": 6246.2,
+  "text": "I'll now entertain a motion to adjourn this special council meeting.",
+  "no_speech": 0.0,
+  "logprob": -0.28,
+  "source": "whisper"
+ },
+ {
+  "start": 6246.2,
+  "end": 6250.3,
+  "text": "If I have a move or moved by Councillor Wolf, seconded by Councillor Nowak, please use your",
+  "no_speech": 0.0,
+  "logprob": -0.28,
+  "source": "whisper"
+ },
+ {
+  "start": 6250.3,
+  "end": 6253.9,
+  "text": "e-scribe to vote.",
+  "no_speech": 0.0,
+  "logprob": -0.28,
+  "source": "whisper"
+ },
+ {
+  "start": 6253.9,
+  "end": 6276.6,
+  "text": "this special council meeting of March 4th be adjourned.",
+  "no_speech": 0.0,
+  "logprob": -0.327,
+  "source": "whisper"
+ },
+ {
+  "start": 6276.6,
+  "end": 6282.4,
+  "text": "Councillor HUNICH, are you in favour of adjourning?",
+  "no_speech": 0.0,
+  "logprob": -0.311,
+  "source": "whisper"
+ },
+ {
+  "start": 6282.4,
+  "end": 6283.6,
+  "text": "We got it.",
+  "no_speech": 0.0,
+  "logprob": -0.311,
+  "source": "whisper"
+ },
+ {
+  "start": 6283.6,
+  "end": 6284.6,
+  "text": "Thank you, colleagues.",
+  "no_speech": 0.0,
+  "logprob": -0.311,
+  "source": "whisper"
+ },
+ {
+  "start": 6284.6,
+  "end": 6285.6,
+  "text": "That is carried.",
+  "no_speech": 0.0,
+  "logprob": -0.311,
+  "source": "whisper"
+ },
+ {
+  "start": 6285.6,
+  "end": 6290.9,
+  "text": "We will now suspend just for five minutes so I can vacate the chair for Councillor Erb.",
+  "no_speech": 0.0,
+  "logprob": -0.311,
+  "source": "whisper"
+ }
+]

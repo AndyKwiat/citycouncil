@@ -1,0 +1,40 @@
+{
+ "title": "Council appoints new Kitchener regional councillor",
+ "subtitle": "Applicants addressed housing, transit and budgets; voting went three rounds, with a drawn lot resolving a tie.",
+ "overview": [
+  "Regional Council met in special session to fill the vacant Kitchener seat through an application process. The seat was left vacant by the death of Councillor Carrie Williams. Dozens of applicants each spoke for five minutes. Council asked no questions, and one applicant did not appear when called.",
+  "Council voted by secret-ballot rounds in eScribe, and a candidate needed a majority of council to win. The first two rounds produced no majority. After the second round, a three-way tie for the lowest position was settled by a drawn lot that removed one applicant. In the third round Joseph Gowing won a majority and was appointed, effective August 15, 2025. Council then passed the by-law confirming the appointment {{vote:m4}}.",
+  "For residents, Kitchener will again have a full voice at the regional table ahead of the next budget. The appointee will serve until the October 2026 municipal election."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "First round of voting",
+   "detail": "The first round of ballots produced no majority, so the candidates with no votes or the fewest votes were removed and voting continued."
+  },
+  {
+   "motion": "m2",
+   "item": "Second round of voting",
+   "detail": "The second round also produced no majority, and a three-way tie for the lowest position was resolved by a drawn lot that removed one applicant."
+  },
+  {
+   "motion": "m3",
+   "item": "Appointment to Kitchener seat",
+   "detail": "Council appointed Joseph Gowing to fill the vacant Kitchener position on Regional Council effective August 15, 2025."
+  },
+  {
+   "motion": "m4",
+   "item": "By-law 25-035",
+   "detail": "Council gave the by-law filling the Kitchener vacancy three readings and passed it as by-law 25-035 {{vote:m4}}."
+  }
+ ],
+ "debate": [
+  "Housing affordability and homelessness were the most common priorities among applicants, along with extending light rail to Cambridge and improving transit.",
+  "Several applicants stressed fiscal restraint. They pointed to tax increases outpacing inflation, pressure on major local employers and the coming budget. One suggested an external review of regional spending.",
+  "Some applicants raised the process itself. One argued that appointment and public meetings limit input from ordinary residents, while another said an election for roughly a year of service may not be justified and pointed to low municipal turnout.",
+  "Applicants differed on how they saw the role. One said they would treat it as an interim position and not run in 2026, while another said they intend to run in the next election.",
+  "An applicant who lives outside Kitchener explained their ties to the city. Others stressed balancing urban and rural needs and protecting regional planning authority, farmland and water."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T20:18:17"
+}

@@ -1,0 +1,55 @@
+{
+ "title": "Police camera and licence plate reader pilot approved",
+ "subtitle": "Sale of 5 Charles Street East, public art near Cowan centre, Official Plan, Vision Zero and noise exemptions.",
+ "overview": [
+  "Council approved a one-year pilot allowing Waterloo Regional Police to use city infrastructure for closed-circuit cameras and automatic licence plate readers in Kitchener {{vote:m7}}. Staff must report back after a year so Council can decide whether to extend it. The item drew the most debate of the night, with privacy and public safety both argued at length.",
+  "Council also approved the sale of part of 5 Charles Street East to Benton Communities LP for $2,032,746, along with related options and a temporary construction lease. It commissioned the \"Let's Play!\" outdoor sculptures for the Cowan Recreation Centre {{vote:m1}}, approved new data, body-worn camera and CCTV policies, adopted a new Emergency Management Program By-law, and approved the 2026 Vision Zero safety improvements.",
+  "Other decisions included a noise exemption for downtown special events and one for the Greek Food Festival in June. Council also approved a one-year lease extension for Extend-a-Family Waterloo Region after a closed session. The Mayor updated Council on regional water capacity constraints and a local water allocation program for development applications. Staff will consider submissions on the draft Official Plan before preparing the final version."
+ ],
+ "decisions": [
+  {
+   "motion": "m7",
+   "item": "Police CCTV and licence plate reader pilot",
+   "detail": "Council supported a one-year Waterloo Regional Police camera and licence plate reader pilot using city infrastructure, authorized an agreement, and directed staff to report back after a year {{vote:m7}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Sale of 5 Charles Street East",
+   "detail": "Council declared the site surplus and approved selling a severed 0.194-acre parcel to Benton Communities LP for $2,032,746, with a 10-year option on 14 Church Street, a 3-year option on the remnant parking lot, and a temporary construction staging lease."
+  },
+  {
+   "motion": "m1",
+   "item": "Cowan Recreation Centre public art",
+   "detail": "Council approved commissioning and installing the \"Let's Play!\" series of outdoor bronze sculptures by Pierre Poussin near the Cowan Recreation Centre."
+  },
+  {
+   "motion": "m4",
+   "item": "Corporate policy review",
+   "detail": "Council amended or repealed listed corporate policies and approved new Data, Body Worn Camera and CCTV policies."
+  },
+  {
+   "motion": "m13",
+   "item": "Vision Zero update",
+   "detail": "Council received the 2025 Vision Zero progress update and directed staff to implement the proposed 2026 safety improvements."
+  },
+  {
+   "motion": "m11",
+   "item": "Downtown special events noise exemption",
+   "detail": "Council granted an exemption from the Chapter 450 noise rules for all downtown special events."
+  },
+  {
+   "motion": "m8",
+   "item": "Emergency Management Program By-law",
+   "detail": "Council approved the updated Emergency Management Program By-law."
+  }
+ ],
+ "debate": [
+  "Councillors opposed to the camera pilot raised privacy concerns and a fear of gradual expansion of surveillance, including the possible use of artificial intelligence. One said the city does not need to be on the leading edge.",
+  "Some opponents also said there should have been more public input first, citing lessons from the rollout of speed cameras. One asked why large private properties such as shopping centres could not install their own cameras.",
+  "Supporters described the pilot as a targeted, limited tool, with strict rules on access and a review after one year. They cited residents' concerns about vehicle thefts and break-ins and said it would help police use their resources better.",
+  "In answering questions, a police deputy chief explained that CamSafe is a voluntary, independent registry of private cameras and does not give police access to the cameras. Police said registration is still low and encouraged councillors to promote it.",
+  "On the water constraint, one councillor asked whether it could be on the June 12 all-council meeting agenda. The Mayor said the Regional Chair sets that agenda, and the CAO will raise the request with the Regional CAO."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-10T19:38:54"
+}

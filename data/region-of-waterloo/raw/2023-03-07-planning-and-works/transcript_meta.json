@@ -1,0 +1,40 @@
+{
+ "recording_seconds": 9478,
+ "caption_words": 9190,
+ "caption_wpm": 58.2,
+ "gaps": [
+  {
+   "start": 4279,
+   "end": 4653,
+   "whisper_words": 875,
+   "filled": true
+  },
+  {
+   "start": 5025,
+   "end": 5438,
+   "whisper_words": 1073,
+   "filled": true
+  },
+  {
+   "start": 5500,
+   "end": 5850,
+   "whisper_words": 853,
+   "filled": true
+  },
+  {
+   "start": 6537,
+   "end": 7058,
+   "whisper_words": 1220,
+   "filled": true
+  },
+  {
+   "start": 8122,
+   "end": 9477,
+   "whisper_words": 3252,
+   "filled": true
+  }
+ ],
+ "method": "captions+whisper",
+ "source": "mixed",
+ "words": 16463
+}
