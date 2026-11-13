@@ -22,7 +22,7 @@ from sources.escribe import audit_votes, parse_result, split_names, surname, vot
 
 APP = "citycouncil"
 RADIFY = pathlib.Path.home() / "radify/bin/radify"
-OWNER = "you@example.com"
+OWNER = os.environ.get("CITYCOUNCIL_OWNER", "")
 STEPS = ["docs", "parse", "transcribe", "summarize"]
 ADAPTERS = {"civicweb": civicweb, "escribe": escribe, "govstack": govstack}
 
