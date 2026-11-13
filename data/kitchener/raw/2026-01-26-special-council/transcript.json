@@ -1,0 +1,650 @@
+[
+ {
+  "start": 0.0,
+  "end": 30.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 60.0,
+  "end": 84.2,
+  "text": "Good evening, everyone, and welcome to the special council meeting on January 26, 2026.",
+  "no_speech": 0.0,
+  "logprob": -0.282,
+  "source": "whisper"
+ },
+ {
+  "start": 85.4,
+  "end": 89.2,
+  "text": "Individuals interested in participating in this evening's meeting were eligible to register",
+  "no_speech": 0.0,
+  "logprob": -0.282,
+  "source": "whisper"
+ },
+ {
+  "start": 89.2,
+  "end": 96.6,
+  "text": "online using the delegation registration form at www.kitchener.ca slash delegation or via email",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 96.6,
+  "end": 101.5,
+  "text": "at delegation at kitchener.ca. Any written comments received prior to the commencement of",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 101.5,
+  "end": 106.5,
+  "text": "today's meeting have been shared with members of Council and will form part of the public record.",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 107.0,
+  "end": 113.4,
+  "text": "The meeting live stream and archive videos are available at www.kitchener.ca slash watch now.",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 114.1,
+  "end": 118.2,
+  "text": "Before we begin this evening's meeting, I'd like to acknowledge that today we're gathering",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 118.2,
+  "end": 123.0,
+  "text": "on the traditional territory of the neutral Anishinaabe and Odena Shoni peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 123.4,
+  "end": 127.5,
+  "text": "We recognize our responsibility to serve as stewards for the land and honor their original",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 127.5,
+  "end": 129.1,
+  "text": "caretakers who came before us.",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 129.8,
+  "end": 133.2,
+  "text": "Our community is enriched by the enduring knowledge and deep rooted traditions of the",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 133.2,
+  "end": 136.7,
+  "text": "diverse First Nations, Métis, and Inuit in Kitchener today.",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 138.1,
+  "end": 143.9,
+  "text": "Before we begin today's special council meeting, I'd like to take a few moments to acknowledge",
+  "no_speech": 0.0,
+  "logprob": -0.213,
+  "source": "whisper"
+ },
+ {
+  "start": 143.9,
+  "end": 150.0,
+  "text": "and paused to recognize the National Day of Remembrance of the Quebec City Mosque attack",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 150.0,
+  "end": 158.9,
+  "text": "and action against Islamophobia. On January 29, 2017, six lives were taken away in an act of terror.",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 159.7,
+  "end": 167.4,
+  "text": "We remember Ibrahima Berry, Mamadou Tanu Berry, Khaled Belkachemi, Abdelkarim Hassani,",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 167.4,
+  "end": 174.5,
+  "text": "Azadine Sufiani and Abu Bakr Tabti, men who were murdered while worshipping at the Centre",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 174.5,
+  "end": 180.5,
+  "text": "Culturel Islamique de Québec. This was an attack on the fundamental values of safety,",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 180.5,
+  "end": 186.2,
+  "text": "dignity, and freedom of worship. It was a painful reminder that Islamophobia is real,",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 186.7,
+  "end": 193.6,
+  "text": "it causes deep harm, has devastating consequences, and that we all share a responsibility to confront",
+  "no_speech": 0.0,
+  "logprob": -0.174,
+  "source": "whisper"
+ },
+ {
+  "start": 193.6,
+  "end": 201.1,
+  "text": "it wherever it appears. I also want to acknowledge that January 27th marks the International",
+  "no_speech": 0.0,
+  "logprob": -0.091,
+  "source": "whisper"
+ },
+ {
+  "start": 201.1,
+  "end": 207.3,
+  "text": "Holocaust Remembrance Day. On this day, we honour the 6 million Jews who were murdered during the",
+  "no_speech": 0.0,
+  "logprob": -0.091,
+  "source": "whisper"
+ },
+ {
+  "start": 207.3,
+  "end": 213.3,
+  "text": "Holocaust, along with the countless others who were persecuted. As we reflect in one of the",
+  "no_speech": 0.0,
+  "logprob": -0.091,
+  "source": "whisper"
+ },
+ {
+  "start": 213.3,
+  "end": 219.1,
+  "text": "darkest chapters in human history, we support survivors and their families and reaffirm our",
+  "no_speech": 0.0,
+  "logprob": -0.091,
+  "source": "whisper"
+ },
+ {
+  "start": 219.1,
+  "end": 223.1,
+  "text": "shared responsibility to reflect on the dangers of anti-Semitism.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 224.1,
+  "end": 229.9,
+  "text": "Education, remembrance, and unity remain our strongest tools as we continue building a",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 229.9,
+  "end": 234.6,
+  "text": "community rooted in dignity, kindness, compassion, and humanity.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 235.7,
+  "end": 242.0,
+  "text": "Together, these commemorations remind us that hatred in any form threatens the safety and",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 242.0,
+  "end": 243.2,
+  "text": "well-being of our communities.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 243.8,
+  "end": 247.1,
+  "text": "We stand firmly against hatred in all acts of terror.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 247.8,
+  "end": 251.5,
+  "text": "No one should ever fear for their safety because of their faith or identity.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 252.4,
+  "end": 256.8,
+  "text": "Every community deserves to live in peace, dignity, and security.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 258.0,
+  "end": 263.9,
+  "text": "Today and every day, we must identify and address discrimination, support those affected by it,",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 264.1,
+  "end": 268.5,
+  "text": "and work together to build a Kitchener and a world where everyone belongs.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 268.7,
+  "end": 273.6,
+  "text": "It takes each of us to choose to act with both intention and courage.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 273.6,
+  "end": 282.1,
+  "text": "We must continue to foster a city, a country and a world that is inclusive, respectful and grounded in kindness and compassion.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 282.9,
+  "end": 290.9,
+  "text": "As we reflect on these solid days of remembrance, it's equally important that we take meaningful actions in support of the affected communities.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 292.1,
+  "end": 301.0,
+  "text": "One of those ways is by doing what we're all doing this evening, and that's participating in the National Council of Canadian Muslims Green Square campaign.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 301.8,
+  "end": 306.3,
+  "text": "The green square represents the green carpets of the Centre Coulteral Islamique de Québec,",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 306.8,
+  "end": 309.3,
+  "text": "on which the victims last knelt in prayer.",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 310.0,
+  "end": 313.9,
+  "text": "It symbolizes the hope that the deceased are now at peace in a green garden.",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 314.9,
+  "end": 317.2,
+  "text": "In the days leading up to January 29,",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 317.7,
+  "end": 320.6,
+  "text": "please continue wearing the green square in memory of the victims",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 320.6,
+  "end": 324.1,
+  "text": "and in solidarity with the survivors, their families and friends,",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 324.1,
+  "end": 326.4,
+  "text": "and Muslim communities across Canada.",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 327.4,
+  "end": 330.6,
+  "text": "This campaign is a call to action for all Canadians",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 330.6,
+  "end": 335.0,
+  "text": "to stand together for a society free of hatred of all kinds,",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 335.8,
+  "end": 338.3,
+  "text": "and particularly in relation to Islamophobia,",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 338.5,
+  "end": 340.2,
+  "text": "not just today, but every day.",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 341.9,
+  "end": 344.3,
+  "text": "Are there any disclosures of pecuniary interest?",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 345.6,
+  "end": 348.5,
+  "text": "There being none and there being no delegations,",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 349.1,
+  "end": 353.0,
+  "text": "can I have a motion to refer the council appointments",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 353.0,
+  "end": 355.6,
+  "text": "to our council meeting next week?",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 356.1,
+  "end": 358.5,
+  "text": "Councillor Ioannidis, seconded by Councillor Schnider,",
+  "no_speech": 0.0,
+  "logprob": -0.243,
+  "source": "whisper"
+ },
+ {
+  "start": 358.5,
+  "end": 360.8,
+  "text": "all those in favor",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 360.8,
+  "end": 362.6,
+  "text": "any opposed",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 362.6,
+  "end": 364.5,
+  "text": "that's carried",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 364.5,
+  "end": 367.4,
+  "text": "motion to go in camera",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 367.4,
+  "end": 370.2,
+  "text": "Councillor Owodunni",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 370.2,
+  "end": 371.4,
+  "text": "seconded by",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 371.4,
+  "end": 372.6,
+  "text": "Councillor Deneault",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 372.6,
+  "end": 374.9,
+  "text": "all those in favor",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 374.9,
+  "end": 376.6,
+  "text": "opposed",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 376.6,
+  "end": 377.7,
+  "text": "that's carried",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 377.7,
+  "end": 379.7,
+  "text": "and we will",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 379.7,
+  "end": 381.6,
+  "text": "need to",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 381.6,
+  "end": 384.3,
+  "text": "we'll need to come back",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 384.3,
+  "end": 385.1,
+  "text": "after caucus",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 385.1,
+  "end": 387.5,
+  "text": "okay motion to recess",
+  "no_speech": 0.0,
+  "logprob": -0.285,
+  "source": "whisper"
+ },
+ {
+  "start": 387.5,
+  "end": 388.2,
+  "text": "Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.305,
+  "source": "whisper"
+ },
+ {
+  "start": 388.2,
+  "end": 393.1,
+  "text": "Stretch there",
+  "no_speech": 0.0,
+  "logprob": -0.305,
+  "source": "whisper"
+ },
+ {
+  "start": 393.1,
+  "end": 395.6,
+  "text": "I was going to say",
+  "no_speech": 0.0,
+  "logprob": -0.305,
+  "source": "whisper"
+ },
+ {
+  "start": 395.6,
+  "end": 397.4,
+  "text": "Councillor Stephanie but it was the stretch",
+  "no_speech": 0.0,
+  "logprob": -0.305,
+  "source": "whisper"
+ },
+ {
+  "start": 397.4,
+  "end": 398.3,
+  "text": "I wasn't coming out",
+  "no_speech": 0.0,
+  "logprob": -0.305,
+  "source": "whisper"
+ },
+ {
+  "start": 398.3,
+  "end": 401.7,
+  "text": "and Councillor Ioannidis all those in favour",
+  "no_speech": 0.0,
+  "logprob": -0.305,
+  "source": "whisper"
+ },
+ {
+  "start": 401.7,
+  "end": 403.7,
+  "text": "opposed that's carried",
+  "no_speech": 0.0,
+  "logprob": -0.305,
+  "source": "whisper"
+ },
+ {
+  "start": 403.7,
+  "end": 405.6,
+  "text": "sorry about that Councillor Stretch",
+  "no_speech": 0.0,
+  "logprob": -0.305,
+  "source": "whisper"
+ },
+ {
+  "start": 417.5,
+  "end": 447.5,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.222,
+  "source": "whisper"
+ },
+ {
+  "start": 447.5,
+  "end": 477.5,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.222,
+  "source": "whisper"
+ }
+]

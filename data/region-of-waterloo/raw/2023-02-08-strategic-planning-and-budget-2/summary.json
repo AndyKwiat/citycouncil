@@ -1,0 +1,35 @@
+{
+ "title": "Police budget sent-back motion fails on tie",
+ "subtitle": "Committee debated police hiring start dates, upstream social services funding, rural policing concerns, and a late-night meeting extension.",
+ "overview": [
+  "The Strategic Planning and Budget Committee considered a notice of motion to reject the Waterloo Region Police Services Board's 2023 budget request and send it back for review. The request was for a 7.2% increase, including 19 additional full-time positions. The motion was defeated on a tie {{vote:m1}}, so the committee made no recommendation to send the budget back.",
+  "The committee first voted to continue past 11:00 p.m. {{vote:m2}}, and then voted to end debate and call the question {{vote:m3}}. The motion was meant to be dealt with in three parts. Because the first part failed, the later parts, on a target percentage increase and on directing savings to upstream services, were not considered.",
+  "For residents, the police budget remains before the committee in its original form. Before adjourning, the chair announced that the next budget meeting moves to 11 a.m. on February 22, 2023. The Board of Health meeting that day is cancelled, and closed and open Council sessions will follow at 6 p.m. and 7 p.m."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Reject police budget and send back",
+   "detail": "The committee defeated a motion to reject the Police Services Board's 2023 budget request and return it for review {{vote:m1}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Extend meeting past 11 p.m.",
+   "detail": "The committee agreed to continue the meeting beyond 11:00 p.m. to finish the debate {{vote:m2}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Call the question",
+   "detail": "The committee voted to end debate and proceed directly to the vote on the main motion {{vote:m3}}."
+  }
+ ],
+ "debate": [
+  "Supporters of the motion argued the budget would pay for 19 new officers from January 1 although hires would not start until later. They said this would build in a surplus of over a million dollars. They pointed to the board's own April 1 alternative and said the 19 positions could still go ahead.",
+  "Opponents said phasing in hires is not realistic given strong competition for recruits. They noted last year's delayed phasing of 35 officers added pressure to this year's budget. They also said the board confirmed there was no carried-over surplus.",
+  "Several councillors raised policing gaps in rural areas, including slow response times and property crime. Others said the committee should not treat police and upstream social services as an either/or choice.",
+  "Some supporters wanted to pause the budget until the chief returned with answers to questions left open at the earlier presentation. Opponents said that information was promised before the final vote and that sending the budget back would question confidence in Council's appointees to the board.",
+  "Some councillors said the earlier proposal to cap new positions and redirect funds to upstream services made the motion feel like a cut. Others said the motion only concerned timing of costs."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T23:27:57"
+}

@@ -1,0 +1,41 @@
+{
+ "title": "Regional budget review and proposed levy reduction",
+ "subtitle": "Roads, waste, airport, grants and technology reviewed; police budget motion tied; resident survey presented.",
+ "overview": [
+  "The committee spent the day reviewing the 2023 capital budget and 10-year forecast, then roads, waste management, the airport, cultural services, technology and discretionary grants. It also heard results of the resident engagement survey and received the reserves and reserve funds report for information, with no separate motion.",
+  "The committee recommended that Council adopt the municipal budget regulation report {{vote:m1}}. It did not support asking staff to report back on options for lowering the proposed overall budget by 1 to 1.5 per cent {{vote:m2}}, so the budget goes to the February 22 final budget day without that report.",
+  "A motion to reject the Police Services Board budget and send it back for review was defeated on a tied vote {{vote:m5}}. The police budget therefore remains as presented for now.",
+  "For residents, the main open questions heading into final budget day include proposed cuts to some road maintenance, grants to community organizations, and the size of the overall tax increase. All committee decisions are recommendations that Council must still adopt."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Municipal budget regulation report",
+   "detail": "The committee recommended that Council adopt report COR-CFN-23-010 on the Municipal Budget Regulation, as required by Ontario Regulation 284/09 {{vote:m1}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Options for 1 to 1.5% lower budget",
+   "detail": "A motion asking staff to report to the February 22 meeting on options, with service impacts, to lower the overall budget by 1 to 1.5 per cent was defeated {{vote:m2}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Amendment letting staff decline the request",
+   "detail": "An amendment to let staff report that the reduction was not possible was defeated {{vote:m3}}."
+  },
+  {
+   "motion": "m5",
+   "item": "Police services budget motion",
+   "detail": "A motion to reject the Police Services Board budget and send it back with a cap of 8 additional officers and staff was defeated on a tied vote {{vote:m5}}."
+  }
+ ],
+ "debate": [
+  "On the capital budget, staff said deferring or cutting a debt-financed or development-charge-funded project does not lower the 2023 tax levy. They said using reserves to cut this year's levy would create a gap in 2024, and that changing service levels is the more direct way to reduce costs. Councillors noted that one-time costs are a more appropriate use of reserves.",
+  "Some councillors wanted a firm commitment to the Cambridge truck bypass. Staff said the proper route is the new integrated mobility and transportation master plan, so all road projects are treated consistently. They noted that part of the project is already funded and that studies are in the 2023 and 2024 budgets.",
+  "Supporters of the request for a 1 to 1.5 per cent reduction said council and the public should see the service impacts, citing resident concerns about affordability. Opponents called it unfair to staff who had already trimmed the budget, said the cuts are council's decision to make, and warned that council keeps adding items. Some councillors also noted that staff had said there was little they would recommend cutting.",
+  "On discretionary grants, some councillors worried that long-funded cultural organizations could be left uncertain by a new application process. Others said the new process is more transparent and opens funding to new applicants. Staff said existing grant programs continue and that previous recipients can still apply.",
+  "Several councillors raised concern about reduced urban grass cutting and storm drain cleaning, and about downloading costs to local municipalities. Staff said the changes were proposed as outside provincial safety rules and that the plan would be monitored."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-11T23:29:56"
+}
