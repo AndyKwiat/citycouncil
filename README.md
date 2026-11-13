@@ -1,6 +1,12 @@
-# Guelph City Council
+# City Hall Votes
 
-Static site of council meeting summaries, driven from a local admin panel.
+Plain-language summaries of Ontario council and committee meetings (Guelph, Kitchener, Waterloo, Region of Waterloo and Centre Wellington), with how each member voted, who votes with whom, and searchable transcripts. Live at https://cityhallvotes.ca/.
+
+![screenshot](docs/screenshot.png)
+
+A Python pipeline pulls each council's calendar, agendas, minutes and video captions, summarizes meetings, and builds a static site, all driven from a local admin panel.
+
+To preview a built site locally: `.venv/bin/python build.py` (or *Update website* in the panel), then `python3 -m http.server -d site 8000`.
 
     ./admin
 
