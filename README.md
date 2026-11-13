@@ -15,6 +15,8 @@ updating the website, and publishing it to https://cityhallvotes.ca/ (public, ho
 
 Working on the code, or an agent picking this up? Start with `AGENTS.md`: layout, setup, both deploys and gotchas.
 To set up Python: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
+To deploy, copy `.env.example` to `.env` (untracked) and fill in your hosts and secrets file. For nightly updates on a
+Mac, `tools/launchd/install.sh` writes a launchd agent for this checkout (it doesn't load it).
 
 - `pipeline.py` does the work: calendar, documents, minutes parsing, transcripts, summaries, deploy.
 - `build.py` renders `data/<slug>/raw/<key>/` into `site/<slug>/`; `build_root.py` writes the landing page at `/`.
@@ -63,14 +65,16 @@ The site is public at https://cityhallvotes.ca/; each council is at `/<slug>/` a
   Redirects (for example `/fergus` to `/centre-wellington/`) are a static `_redirects` file built from `redirect_from` in `city.json`.
 - **Worker** (`cf/src/worker.js`): runs only for `www.` and `/api/search`. It caches identical searches for an hour,
   limits each visitor to about 15 new searches a minute, and forwards the rest to the search API with a secret key.
-- **Token:** deploys use `CLOUDFLARE_WORKERS_TOKEN` in `~/.config/akwiat/secrets.env`, made from Cloudflare's
+- **Token:** deploys use `CLOUDFLARE_WORKERS_TOKEN` in the secrets file named by `CITYCOUNCIL_SECRETS` in `.env`
+  (copy `.env.example` to `.env` and fill it in), made from Cloudflare's
   *Edit Cloudflare Workers* template for the account, plus Zone DNS Edit on cityhallvotes.ca. Radify's own
   `CLOUDFLARE_API_TOKEN` only manages DNS.
 
 ## Search
 
 `search.html` (and the box on the home page) searches summaries, votes, minutes and transcripts by meaning. The page
-calls `/api/search` on its own domain; the Worker passes that to https://api-citycouncil.akwiat.com.
+calls `/api/search` on its own domain; the Worker passes that to the search API at `CITYCOUNCIL_SEARCH_HOST` (set in `.env`;
+`pipeline.py deploy` hands it to the Worker as `API_ORIGIN`).
 
 - **Model:** Snowflake's `snowflake-arctic-embed-m-v1.5` (Apache-2.0), one of the strongest free retrieval models
   of its size. The `search/` Rust crate runs it with candle, so the laptop (documents) and server (queries) use
@@ -91,7 +95,7 @@ calls `/api/search` on its own domain; the Worker passes that to https://api-cit
   `radify logs api-citycouncil --since -1d --grep "search q="`. Searches answered from Cloudflare's cache never
   reach the server; those appear in the Cloudflare dashboard under Workers & Pages, cityhallvotes, Logs (kept 3 days).
 - **Memory:** the model needs about 450 MB, so the app has a systemd override raising its limit to 900 MB
-  (`/etc/systemd/system/app@api-citycouncil.service.d/override.conf` on step1, kept by radify's backups).
+  (`/etc/systemd/system/app@api-citycouncil.service.d/override.conf` on the server, kept by radify's backups).
 - **Running it:** in the panel, *Update search index*, then *Deploy search API*. Or `pipeline.py search-index` and
   `pipeline.py search-deploy`. The server downloads the model into its data directory on first start.
 - **Tests:** `cargo test --release` in `search/`, plus the Python tests.

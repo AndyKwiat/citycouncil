@@ -72,7 +72,7 @@ council per term, so we know before building it.
 | D3 | Source of truth | **JSON files stay canonical** (diffable, committed, easy to re-run). SQLite holds only derived data: the search index, extended with `city`. No new server database is needed. |
 | D4 | Votes nobody recorded | Record what is true: `recording: "unrecorded"`, outcome only, mover and seconder. **Never infer individual votes**, with one exception: Waterloo's explicit "Carried Unanimously" becomes `recording: "unanimous"`, with "for" set to the members present. This is flagged as inferred and excluded from agreement statistics, which ignore unanimous votes anyway. |
 | D5 | Councillors and terms | Make the council term a first-class concept. Councillors and portraits are stored per term, and agreement statistics are computed per term. Every council changed membership on 2026-11-15, so this is required now, not later. |
-| D6 | Where processing runs | **On the Mac**, unchanged. Whisper and the `claude` CLI login live there, and step1 has 2 GB of RAM. Automation is a `launchd` job on the Mac; step1 only serves search. |
+| D6 | Where processing runs | **On the Mac**, unchanged. Whisper and the `claude` CLI login live there, and the server has 2 GB of RAM. Automation is a `launchd` job on the Mac; the server only serves search. |
 | D7 | Images | One photo per council, made into a soft duotone in that council's accent colour. Sourced from Wikimedia Commons and credited in the footer. **Chosen 2026-11-09; see 4.8.** |
 | D8 | Repo | Keep `citycouncil` as the one repo and refactor it in place. Guelph moves first and must come out unchanged (golden test). |
 

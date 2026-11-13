@@ -130,7 +130,7 @@ run (the launchd file in `tools/launchd/` would run that nightly; it is not load
 | Lock shared with the admin job queue | partial: the update has its own lock; the panel's queue doesn't take it yet |
 | `update_report.json` and notification | done (macOS notification) |
 | Admin panel: council switcher and coverage table | done |
-| `launchd` agent plus `caffeinate`; one week of manual runs first | waiting: `tools/launchd/ca.cityhallvotes.update.plist` written, not loaded (turning on a schedule is the user's call) |
+| `launchd` agent plus `caffeinate`; one week of manual runs first | waiting: `tools/launchd/ca.cityhallvotes.update.plist.template` plus `install.sh` written, not loaded (turning on a schedule is the user's call) |
 
 ## Log
 

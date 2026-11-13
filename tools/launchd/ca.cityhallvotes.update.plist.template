@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Nightly update at 05:30 (PLAN 4.10). Template: tools/launchd/install.sh fills in {{REPO}} and {{PATH}}
+     and writes ~/Library/LaunchAgents/ca.cityhallvotes.update.plist. It is not loaded automatically; to turn it on:
+       launchctl load ~/Library/LaunchAgents/ca.cityhallvotes.update.plist
+     The report is state/update_report.json; output goes to state/logs/update.log. -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>ca.cityhallvotes.update</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/caffeinate</string><string>-i</string>
+    <string>{{REPO}}/.venv/bin/python</string>
+    <string>{{REPO}}/pipeline.py</string><string>update</string><string>--publish</string>
+  </array>
+  <key>WorkingDirectory</key><string>{{REPO}}</string>
+  <key>EnvironmentVariables</key><dict><key>PATH</key><string>{{PATH}}</string></dict>
+  <key>StartCalendarInterval</key><dict><key>Hour</key><integer>5</integer><key>Minute</key><integer>30</integer></dict>
+  <key>StandardOutPath</key><string>{{REPO}}/state/logs/update.log</string>
+  <key>StandardErrorPath</key><string>{{REPO}}/state/logs/update.log</string>
+</dict>
+</plist>

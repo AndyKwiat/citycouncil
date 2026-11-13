@@ -21,7 +21,18 @@ from sources import civicweb, escribe, govstack
 from sources.escribe import audit_votes, parse_result, split_names, surname, vote_side  # noqa: F401
 
 APP = "citycouncil"
-RADIFY = pathlib.Path.home() / "radify/bin/radify"
+def _load_dotenv(path):
+    """Machine-specific settings (deploy hosts, secrets file) live in an untracked .env; see .env.example."""
+    if path.exists():
+        for line in path.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip().strip('"'))
+
+
+_load_dotenv(pathlib.Path(__file__).resolve().parent / ".env")
+RADIFY = pathlib.Path(os.environ.get("RADIFY", "~/radify/bin/radify")).expanduser()
 OWNER = os.environ.get("CITYCOUNCIL_OWNER", "")
 STEPS = ["docs", "parse", "transcribe", "summarize"]
 ADAPTERS = {"civicweb": civicweb, "escribe": escribe, "govstack": govstack}
@@ -184,7 +195,7 @@ SITE_DOMAIN = "cityhallvotes.ca"
 SITE_PATH = ""   # every council lives under cityhallvotes.ca/<slug>/; the root is the landing page
 CF = ROOT / "cf"
 CF_DIST = STATE / "cf" / "dist"
-SECRETS = pathlib.Path.home() / ".config/akwiat/secrets.env"
+SECRETS = pathlib.Path(os.environ.get("CITYCOUNCIL_SECRETS", "~/.config/citycouncil/secrets.env")).expanduser()
 
 
 def cloudflare_env():
@@ -219,17 +230,26 @@ def deploy():
     shutil.copytree(SITE, CF_DIST)  # site/ already holds /index.html, /search.html, /_redirects and /<slug>/
     (CF_DIST / "robots.txt").write_text("User-agent: *\nAllow: /\n")
     log(f"Deploying {SITE} to https://{SITE_DOMAIN}/")
-    wrangler(["deploy"], cloudflare_env(), check=True)
+    # The Worker forwards searches to the search API; its origin is configured per machine, not committed.
+    wrangler(["deploy", "--var", f"API_ORIGIN:https://{search_host()}"], cloudflare_env(), check=True)
     write_json(STATE / "deploy.json", {"deployed_at": dt.datetime.now().isoformat(timespec="seconds"), "fingerprint": site_fingerprint()})
     log(f"Deployed: https://{SITE_DOMAIN}/ (public)")
 
 
-SEARCH_APP = "api-citycouncil"
+SEARCH_APP = os.environ.get("CITYCOUNCIL_SEARCH_APP", "api-citycouncil")
+SEARCH_HOST = os.environ.get("CITYCOUNCIL_SEARCH_HOST", "")  # public hostname of the search API, e.g. api.example.com
+DEPLOY_SSH = os.environ.get("CITYCOUNCIL_SSH", "")  # optional SSH alias for the server, used only for a memory check
+
+
+def search_host():
+    if not SEARCH_HOST:
+        raise SystemExit("Set CITYCOUNCIL_SEARCH_HOST in .env (see .env.example)")
+    return SEARCH_HOST
 SEARCH_MEMORY = "900M"  # the embedding model alone needs about 450 MB, over radify's 512 MB default
 
 
 def deploy_search():
-    """Build the Linux search server and ship it, with the current index, to api-citycouncil.akwiat.com."""
+    """Build the Linux search server and ship it, with the current index, to the search API host."""
     import search_index
     if not search_index.DB.exists():
         raise SystemExit("No search index yet: update the search index first.")
@@ -245,13 +265,13 @@ def deploy_search():
     if not re.search(rf"^{SEARCH_APP}\s", apps, re.M):
         log(f"Creating app {SEARCH_APP}; it answers only requests carrying the site's key")
         subprocess.run([str(RADIFY), "create", SEARCH_APP, "--policy", "public"], check=True)
-    limit = subprocess.run(["ssh", "step1-deploy", f"systemctl show app@{SEARCH_APP} -p MemoryMax --value"], capture_output=True, text=True).stdout.strip()
+    limit = subprocess.run(["ssh", DEPLOY_SSH, f"systemctl show app@{SEARCH_APP} -p MemoryMax --value"], capture_output=True, text=True).stdout.strip() if DEPLOY_SSH else ""
     if limit.isdigit() and int(limit) < 800 * 2 ** 20:
         log(f"WARNING: app@{SEARCH_APP} may run out of memory (limit {int(limit) // 2 ** 20} MB). See README: Search.")
-    log(f"Deploying to {SEARCH_APP}.akwiat.com")
+    log(f"Deploying to {search_host()}")
     subprocess.run([str(RADIFY), "deploy", SEARCH_APP, str(dist)], check=True)
     write_json(STATE / "search_deploy.json", {"deployed_at": dt.datetime.now().isoformat(timespec="seconds"), "db": file_hash(search_index.DB)})
-    log(f"Search API live at https://{SEARCH_APP}.akwiat.com (answers only the site's Worker)")
+    log(f"Search API live at https://{search_host()} (answers only the site's Worker)")
 
 
 def search_status():

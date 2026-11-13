@@ -13,3 +13,8 @@ data/*/raw/*/source/*.json3
 data/*/raw/*/source/captions/
 # Whisper works in a temporary folder inside the meeting folder
 data/*/raw/*/tmp*/
+
+# Machine-specific toolchain paths; see search/.cargo/config.toml.example
+search/.cargo/config.toml
+# Machine-specific deploy settings; see .env.example
+.env

@@ -58,7 +58,7 @@ def describe_one(body):
     if action == "search_index":
         return "Update search index", ["search-index"], []
     if action == "search_deploy":
-        return f"Deploy search to {p.SEARCH_APP}.akwiat.com", ["search-deploy"], []
+        return f"Deploy search to {p.SEARCH_HOST or p.SEARCH_APP}", ["search-deploy"], []
     if action == "meeting":
         key, mode = body.get("key", ""), body.get("mode")
         if not KEY.fullmatch(key):

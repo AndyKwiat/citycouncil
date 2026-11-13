@@ -34,7 +34,7 @@ https://cityhallvotes.ca/ (Guelph at /guelph/; more councils planned in docs/mul
 | | Front end | Search server |
 |---|---|---|
 | What | All static pages plus the Worker | Rust API plus the search index |
-| Where | Cloudflare Worker `cityhallvotes`, at cityhallvotes.ca | radify app `api-citycouncil` on step1, at api-citycouncil.akwiat.com |
+| Where | Cloudflare Worker `cityhallvotes`, at cityhallvotes.ca | radify app `api-citycouncil`, at `$CITYCOUNCIL_SEARCH_HOST` (from `.env`) |
 | Commands | `pipeline.py build`, then `pipeline.py deploy` | `pipeline.py search-index`, then `pipeline.py search-deploy` |
 | Panel | Website card | Search card |
 
@@ -46,12 +46,12 @@ After processing new meetings, do both. A page or Worker change needs only the f
 - Python 3.12 venv: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`. Whisper's model
   (about 3 GB) downloads to `~/.cache/huggingface` the first time it runs.
 - Summaries use the `claude` CLI with the owner's login (`claude -p`), so no API key.
-- Rust with targets `aarch64-apple-darwin` and `x86_64-unknown-linux-musl`. There is no Xcode: `search/.cargo/config.toml`
-  links with zig through `~/.local/bin/zcc-*` wrappers, copied from `~/radify/.cargo/config.toml`.
+- Rust with targets `aarch64-apple-darwin` and `x86_64-unknown-linux-musl`. To build without Xcode, copy
+  `search/.cargo/config.toml.example` to `search/.cargo/config.toml` (untracked); it links with zig through `zcc-*` wrappers on PATH.
 - Node, for `npx wrangler@4`.
-- radify CLI at `~/radify/bin/radify` with `~/.config/akwiat/radify.env`, and SSH aliases `step1` (root) and
-  `step1-deploy`. See the radify skill or `~/radify/README.md`.
-- `~/.config/akwiat/secrets.env` must contain `CLOUDFLARE_WORKERS_TOKEN` (Workers edit plus DNS edit on
+- Deploy settings live in an untracked `.env` (copy `.env.example`): the radify CLI path (`RADIFY`), the search API host
+  (`CITYCOUNCIL_SEARCH_HOST`), an optional SSH alias (`CITYCOUNCIL_SSH`) and the secrets file (`CITYCOUNCIL_SECRETS`).
+- The secrets file must contain `CLOUDFLARE_WORKERS_TOKEN` (Workers edit plus DNS edit on
   cityhallvotes.ca). Never print it or commit it.
 
 ## Secrets and access
@@ -74,7 +74,7 @@ After processing new meetings, do both. A page or Worker change needs only the f
 - The panel imports `pipeline.py` once. After changing `admin.py`, `admin.html` or the panel's actions, restart it.
   Jobs run `pipeline.py` as a fresh process, so pipeline changes apply to the next job without a restart.
 - The search server needs about 450 MB, so `app@api-citycouncil` has a systemd override raising `MemoryMax` to 900 MB
-  (`/etc/systemd/system/app@api-citycouncil.service.d/override.conf` on step1). radify's default is 512 MB.
+  (`/etc/systemd/system/app@api-citycouncil.service.d/override.conf` on the server). radify's default is 512 MB.
 - Cloudflare redirects `page.html` to `page`, and the Worker runs only for `www.` and `/api/search`. Pages must keep
   using relative links, because each council lives under `/<slug>/`.
 - Only the meeting types listed in each `city.json` are processed (council plus standing committees). A new term
