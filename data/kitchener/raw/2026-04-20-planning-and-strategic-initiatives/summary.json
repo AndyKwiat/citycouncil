@@ -1,0 +1,35 @@
+{
+ "title": "Second draft of Kitchener 2051 Official Plan",
+ "subtitle": "Also: Vision Zero 2026 safety improvements, downtown special event noise exemption, Westmount heritage concerns and employment lands.",
+ "overview": [
+  "The committee spent most of the evening hearing from about 20 delegates on the second draft of the new Official Plan. The committee recommended that staff consider all spoken and written submissions when preparing the final plan {{vote:m3}}. No final decisions on the plan were made. Staff said the plan is expected to return to the committee on or about May 25 or June 1, 2026, which will be the formal public meeting.",
+  "One councillor gave staff direction on Westmount: a single land use designation for the neighbourhood, one cultural heritage landscape designation, comprehensive heritage recognition and a three-storey height cap. Other concerns came from delegates on employment area land uses, commercial policies and requests to expand strategic growth areas.",
+  "The committee also recommended a noise exemption for downtown special events {{vote:m1}}. It recommended receiving the 2026 Vision Zero update and directing staff to carry out the proposed 2026 safety improvements {{vote:m2}}. A report on the Pivot Net Zero 2025 progress update was received for information after a delegation spoke against the program."
+ ],
+ "decisions": [
+  {
+   "motion": "m3",
+   "item": "Kitchener 2051 Official Plan second draft",
+   "detail": "The committee recommended that staff consider all submissions, including those made at this meeting, when preparing the final new Official Plan."
+  },
+  {
+   "motion": "m2",
+   "item": "Vision Zero 2026 safety improvements",
+   "detail": "The committee recommended receiving the 2026 Vision Zero annual update and directing staff to implement the proposed 2026 safety improvements listed in Attachment A."
+  },
+  {
+   "motion": "m1",
+   "item": "Downtown special events noise exemption",
+   "detail": "The committee recommended granting an exemption to Chapter 450 (Noise) of the Municipal Code for all downtown special events."
+  }
+ ],
+ "debate": [
+  "Westmount residents argued the neighbourhood should be treated as one area, with a single land use designation and one cultural heritage landscape. They also asked for an explicit three-storey height limit written into the plan rather than left to zoning by-laws. A delegate also raised the neighbourhood's role in the water supply.",
+  "Delegates for several landowners objected to proposed down-designations in employment areas, citing a weak industrial leasing market. They also objected to reduced heights on sites where higher heights were already approved. They asked for more flexibility in commercial policies and for some sites to be added to strategic growth areas. Staff said they would follow up on site-specific matters.",
+  "Housing advocates, a community working group member and a youth co-chair supported the draft's wider range of housing across neighbourhoods. They argued that more supply lowers costs and that growth cannot rely only on transit corridors.",
+  "A former municipal planner questioned the six-storey limit in low-rise neighbourhoods, citing privacy, light and noise. A delegate also asked that thermal energy storage, not only batteries, be recognized in the plan's energy policies.",
+  "On Vision Zero, staff said speed-control measures lowered vehicle speeds at earlier hotspots. They said the seasonal traffic calming program is near capacity because installing and removing the signs is labour-intensive. One councillor asked that single-delineator sites be upgraded to three where possible."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T12:31:21"
+}

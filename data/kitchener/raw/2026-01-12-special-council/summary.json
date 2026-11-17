@@ -1,0 +1,28 @@
+{
+ "title": "Council appointments deferred after short special meeting",
+ "subtitle": "Closed session on negotiations and potential litigation; board and committee appointments pushed to January 26, 2026.",
+ "overview": [
+  "Kitchener City Council held a short special meeting on January 12, 2026. Council first agreed to meet in closed session afterward to consider two matters about positions or procedures for negotiations and one potential litigation matter {{vote:m1}}. The minutes report no decisions from that closed session.",
+  "Council then recessed and reconvened that evening to deal with appointments of council members to boards and committees. Because some members were absent, the Mayor noted the appointments could not be considered. Council deferred them to the special Council meeting on January 26, 2026 {{vote:m2}}.",
+  "For residents, this means council representation on boards and committees is not yet settled. Those groups may have to wait until the later meeting for their council members to be confirmed. The Mayor had no mayoral business or updates, and the meeting adjourned shortly after reconvening."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "Board and committee appointments",
+   "detail": "Council deferred its appointments of members to boards and committees to the January 26, 2026 Special Council meeting."
+  },
+  {
+   "motion": "m1",
+   "item": "Closed session authorization",
+   "detail": "Council authorized a closed meeting after the special meeting to discuss two negotiation-related matters and one potential litigation matter."
+  }
+ ],
+ "debate": [
+  "The transcript shows no substantive debate; items were moved and voted on with little discussion.",
+  "The Mayor explained that appointments to boards and committees were being left until the January 26 special Council meeting, and the minutes link this to absences.",
+  "No delegates are recorded as speaking, and the closed-session discussion is not part of the public record."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T12:40:44"
+}

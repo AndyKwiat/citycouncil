@@ -1,0 +1,40 @@
+{
+ "title": "Artificial intelligence education session for councillors",
+ "subtitle": "Also: Cowan Recreation Centre reserve fund and a brownfield tax grant for 161 Ottawa Street South.",
+ "overview": [
+  "The Finance and Corporate Services Committee spent most of its meeting on an education session about artificial intelligence (AI), presented by Communitech with City staff. The committee received the report for information {{vote:m3}}. No policy change was made, but the session shaped how councillors expect staff to approach AI.",
+  "On the consent agenda, the committee recommended that Council approve the Cowan Recreation Centre Reserve Fund {{vote:m1}}. It also recommended a Brownfield Remediation Program grant for 161 Ottawa Street South {{vote:m2}}. The owners would get a rebate of City property tax increases after redevelopment, for up to 10 years and capped at $62,960. In return, they must file a Record of Site Condition for the cleaned-up site.",
+  "These are recommendations, so Council must still adopt them. For residents, the AI discussion points to future changes in City services, such as AI-assisted website search, and to coming reports on governance, pilots and support for local businesses. Staff said a Make It Kitchener 2.0 update and a Pitch Kitchener update will come back to Council."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Cowan Recreation Centre Reserve Fund",
+   "detail": "The committee recommended that Council approve the Cowan Recreation Centre Reserve Fund as set out in the reserve information sheet attached to report FIN-2026-032."
+  },
+  {
+   "motion": "m2",
+   "item": "Brownfield grant, 161 Ottawa Street South",
+   "detail": "The committee recommended a tax increment grant of 100% of the City tax increment for up to 10 years, capped at $62,960 and payable in 2026, in exchange for a filed Record of Site Condition."
+  },
+  {
+   "motion": "m2",
+   "item": "Brownfield agreement authority",
+   "detail": "The committee recommended that the Mayor and Clerk be authorized to sign the grant agreement with the owners, subject to the City Solicitor's satisfaction, and that the Region's Brownfield Coordinator be sent Council's decision."
+  },
+  {
+   "motion": "m3",
+   "item": "AI education session report",
+   "detail": "The committee received report COR-2026-007 on the AI education session with Communitech as information only."
+  }
+ ],
+ "debate": [
+  "Accuracy of AI answers: a councillor asked how the City could be sure residents get correct information, for example about backyard renovations. Staff said the City's AI-powered website search warns that results may contain errors. They also said keeping web content current is the best protection, because the City cannot control outside tools such as ChatGPT.",
+  "Several councillors asked about general versus custom models and about errors. The presenter said the City would do better to standardize on one secure, enterprise-grade generative AI tool than to build its own model. The presenter said output quality depends mainly on data quality, and that human review is always needed. Staff said Copilot and GovAI are the approved tools and that risky tools are blocked.",
+  "Governance and direction: one councillor wanted concrete goals, productivity measures and a possible advisory committee. Another suggested asking every department for pilot proposals within a year. Staff pointed to the coming Digital Kitchener strategy with performance measures, an existing staff AI policy and training courses, and ongoing work on technology governance. Staff said an advisory committee needed more discussion.",
+  "Wider concerns: councillors raised the electricity and water demands of data centres, effects on jobs, and AI's influence on language. The presenter said hardware is becoming more efficient, that AI would mostly shift staff to higher-value work, and that they had no firm answer on language.",
+  "Local business: a councillor suggested linking the Love My Business initiative to the Waterloo Region AI Coalition, which plans to place co-op students with small and mid-sized businesses. Staff said the theme will return to Council with the Make It Kitchener 2.0 refresh."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T12:36:17"
+}
