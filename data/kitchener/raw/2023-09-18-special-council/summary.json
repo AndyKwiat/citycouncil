@@ -1,0 +1,34 @@
+{
+ "title": "Brief special meeting adds urgent closed-session item",
+ "subtitle": "Earlier start time, City Arts Program matter, closed session on property and negotiations, and by-law confirmation.",
+ "overview": [
+  "Council held a short special meeting on September 18, 2023, chaired by the Acting Mayor. It opened at 5:02 p.m. and adjourned at 5:05 p.m. No one declared a pecuniary interest, there were no delegations and the Mayor had no updates.",
+  "Council first waived notice so the start time could move from 5:30 p.m. to 5:00 p.m., to make room for an urgent matter {{vote:m1}}. It then waived notice to add a City Arts Program item to the closed session, which the minutes describe as relating to land disposition and solicitor-client privilege {{vote:m2}}.",
+  "Council also authorized a closed meeting right after the public session to consider a commercial information, contractual or other negotiation and security of property matter, along with the land disposition and solicitor-client privilege matter {{vote:m3}}. The minutes publicly report nothing further about the closed session, so no outcome from it is known here.",
+  "Council also gave third reading to the confirming by-law for the day's proceedings (By-law 2023-120). For residents, the meeting was mostly procedural, with the substantive discussions held in private."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Earlier start time",
+   "detail": "Council waived notice so the special meeting could start at 5:00 p.m. instead of 5:30 p.m., to accommodate an urgent agenda matter."
+  },
+  {
+   "motion": "m2",
+   "item": "Add City Arts Program to closed session",
+   "detail": "Council waived the notice-of-motion requirement to add an urgent City Arts Program item, about land disposition and solicitor-client privilege, to the closed meeting."
+  },
+  {
+   "motion": "m3",
+   "item": "Closed meeting authorized",
+   "detail": "Council authorized a closed meeting after the public session on a commercial or contractual negotiation and security of property matter, and a land disposition and solicitor-client privilege matter."
+  }
+ ],
+ "debate": [
+  "The transcript records no debate on any motion; each was moved, put to a voice vote and declared carried.",
+  "No delegations appeared and no members of the public spoke.",
+  "The City Arts Program item was described only as an urgent matter involving land disposition and solicitor-client privilege, with no public discussion of its substance."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T18:38:28"
+}

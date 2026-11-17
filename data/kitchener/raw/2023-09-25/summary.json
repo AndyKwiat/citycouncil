@@ -1,0 +1,55 @@
+{
+ "title": "High-rise approvals and social assistance advocacy",
+ "subtitle": "Basic income deferral, boulevard sign rules, heritage permits, lived expertise pilot, Blue Community request, budget process direction.",
+ "overview": [
+  "Council approved two downtown-area high-rise projects. A 25-storey mixed-use building at 130-142 Victoria Street South passed {{vote:m1}}. At 332 Charles Street East, council raised the approved height from 17 to 27 storeys, increasing the building to 279 units. The developer's commitments included 32 affordable units for 20 years, heat pumps and extra accessible units. These commitments are recorded in the minutes but are not enforceable in the resolution itself.",
+  "Council also asked the province to raise Ontario Works and Ontario Disability Support Program rates above the poverty line, tie them to inflation and end clawbacks on earnings. A Guaranteed Basic Income motion was deferred until after the provincial by-election {{vote:m3}}. Staff were directed to pursue boulevard sign changes, including a reporting tool and set fines. Council also approved a second year of the Lived Expertise Working Group pilot and a heritage permit for townhomes on Margaret Avenue.",
+  "The mayor announced the Kitchener-Waterloo Symphony's bankruptcy filing and board resignation. The mayor also issued a Strong Mayor direction on the 2024 budget process, with a staff report on timelines due at the next special meeting. Staff will report back by the end of 2023 on a delegate's request that Kitchener become a Blue Community."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "130-142 Victoria Street South",
+   "detail": "Council adopted an Official Plan amendment and approved zoning to allow a 25-storey mixed-use development, forwarding the plan amendment to the Region of Waterloo for approval {{vote:m1}}."
+  },
+  {
+   "motion": "m4",
+   "item": "332 Charles Street East",
+   "detail": "Council approved plan and zoning changes, as amended, allowing a 27-storey building with a higher floor space ratio and reduced parking, without further public notice."
+  },
+  {
+   "motion": "m2",
+   "item": "Social assistance rate advocacy",
+   "detail": "Council asked the province to raise Ontario Works and ODSP rates above the poverty line, index them to inflation and stop clawbacks of earnings and benefits, passing the amended motion unanimously."
+  },
+  {
+   "motion": "m3",
+   "item": "Guaranteed basic income motion",
+   "detail": "Council deferred the guaranteed livable basic income motion until a meeting after the provincial by-election {{vote:m3}}."
+  },
+  {
+   "motion": "m23",
+   "item": "Boulevard signage",
+   "detail": "Council directed staff to study a reporting app, require open house dates on signs, remove the 30-day sign hold and set fines for sign bylaw infractions."
+  },
+  {
+   "motion": "m21",
+   "item": "Lived Expertise Working Group",
+   "detail": "Council allocated the committed $30,000, approved a $23,600 transfer for year two and extended the services agreement to June 30, 2024, with a report back after the pilot."
+  },
+  {
+   "motion": "m7",
+   "item": "30-40 Margaret Avenue heritage permit",
+   "detail": "Council approved a heritage permit for eight blocks of townhomes with conditions on heritage review of final materials and drawings."
+  }
+ ],
+ "debate": [
+  "On Victoria Street South, councillors asked the applicant's representative about displacement of month-to-month tenants and construction timing, and the timelines given ranged from about a year to several years. One councillor worried approved housing is not being built. Another said council cannot require build dates and that projects must be financially viable.",
+  "On Charles Street East, supporters pointed to more housing near transit, affordable units, heat pumps and accessible units. One councillor opposed the amendment, citing a process that did not return to the public and rents still out of reach for people on social assistance. Staff said no second neighbourhood meeting is required and that community benefits cannot be written into the resolution.",
+  "On social assistance rates, delegates described relying on food banks, sharing housing to afford rent, and losing benefits when earning income. Councillors said council is the government closest to residents. Others said the issue is provincial jurisdiction and that more subsidized housing supply is needed.",
+  "On the basic income motion, the mover of the deferral said it was needed for the integrity of council because the sponsor is running provincially. Others said councillors have brought motions during campaigns before and that this work is consistent with the sponsor's earlier motions.",
+  "On boulevard signs, one councillor worried about the cost of an app. Staff said similar tools are built regularly at relatively low cost. Another councillor suggested fines reflect enforcement costs, and the mayor noted signs sit on both city and regional roads."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T18:26:18"
+}

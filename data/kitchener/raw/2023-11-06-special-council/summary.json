@@ -1,0 +1,22 @@
+{
+ "title": "Brief special meeting to authorize closed session",
+ "subtitle": "No delegations or mayoral updates; closed session to cover legal advice, a land disposition and confidential negotiations.",
+ "overview": [
+  "Council held a short special meeting on November 6, 2023. It opened with a land acknowledgement from the Mayor. No one declared a pecuniary interest, there were no delegations, and the Mayor gave no business updates.",
+  "The only decision was to hold a closed (in-camera) meeting right after the public session. Council approved it {{vote:m1}}. The minutes say the closed session would cover three things: a matter of solicitor-client privilege, a land disposition, and confidential information about competitive positions, contracts or negotiations. These are the categories the Municipal Act allows to be discussed privately.",
+  "No decisions on those subjects were made in public at this meeting, and the minutes report no announcement afterward. Residents should watch future public agendas for any related items that come forward. The meeting adjourned at 5:01 p.m., about two minutes after it began."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Closed-session authorization",
+   "detail": "Council agreed to meet in closed session right after the special meeting to consider a solicitor-client privilege matter, a land disposition, and confidential information about competitive positions, contracts or negotiations {{vote:m1}}."
+  }
+ ],
+ "debate": [
+  "The transcript records no debate. The Mayor noted that there were no delegations and no mayoral business update.",
+  "The motion to go into closed session was moved and seconded, then put to a vote, with no discussion recorded on the reasons for it or its subjects."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T17:38:34"
+}

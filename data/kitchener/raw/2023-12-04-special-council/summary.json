@@ -1,0 +1,30 @@
+{
+ "title": "Mayor's proposed 2024 budget introduced",
+ "subtitle": "Committee appointments deferred, council vacancy process explained, and closed session authorized on rental regulations and legal matters.",
+ "overview": [
+  "Council held a special meeting to receive the Mayor's proposed 2024 budget. Under the Mayor's new strong-mayor responsibilities, the Mayor proposed the budget. It was presented as an information report, so council did not debate it. Any formal amendments must reach the Clerk by December 11, and they will be dealt with at a special council meeting on December 14.",
+  "The Mayor highlighted a proposed property tax increase of 3.9 per cent, described as below the two-year Ontario inflation average. The Mayor also proposed extra funding for six priorities: traffic calming and trail connections ($400,000), an arena energy strategy ($200,000), playground replacements ($300,000), a municipal newcomers strategy ($200,000), Cameron Heights Pool ($300,000) and a data strategy ($200,000).",
+  "Council deferred this week's appointments of committee chairs and vice chairs {{vote:m1}} because a councillor is leaving to become an MPP. Existing appointments continue until new ones are made. The Mayor said council will discuss how to fill the vacant seat in January 2024. Council also authorized a closed session {{vote:m2}}."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Committee appointments deferred",
+   "detail": "Council deferred appointments to boards and committees to a December or January meeting and extended all existing appointments until the month after that meeting is scheduled {{vote:m1}}."
+  },
+  {
+   "motion": "m2",
+   "item": "Closed session authorized",
+   "detail": "Council authorized a closed session after the meeting on a personal matter about an identifiable individual, potential litigation and solicitor-client privilege, and a separate solicitor-client privilege matter {{vote:m2}}."
+  }
+ ],
+ "debate": [
+  "There was no debate on the budget. The chair said the meeting was not for discussing, debating or questioning the proposal, and that councillors had already given feedback at the November 20 and 27 budget committee meetings.",
+  "The Mayor said the budget keeps current service levels while limiting the increase during high inflation and interest rates, which have created affordability challenges for many residents.",
+  "The Mayor said the traffic calming money came from councillors' direct input and would fund one added radar sign per ward and up to eight seasonal roadway narrowings per ward where feasible.",
+  "The Mayor explained the appointments deferral by saying a councillor's pending resignation means the vacancy should be considered in the appointments process.",
+  "A councillor declared a conflict on a closed-session item about potential rental regulations, citing rental property ownership, and said they would seek the integrity commissioner's advice."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T17:11:05"
+}

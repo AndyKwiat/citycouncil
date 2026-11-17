@@ -1,0 +1,28 @@
+{
+ "title": "Brief special meeting to authorize closed session",
+ "subtitle": "Start time moved earlier; labour relations matter referred to in-camera discussion; no delegations or mayoral updates.",
+ "overview": [
+  "Council held a short special meeting on September 25, 2023, that began at 4:59 p.m. rather than the scheduled 5:30 p.m. Council first agreed to waive notice so the meeting could start immediately {{vote:m1}}. Changing the start time required two-thirds of the whole of Council.",
+  "The only other business was authorizing a closed session. Council voted to hold an in-camera meeting right after the special meeting to consider a labour relations matter, as permitted by the Municipal Act, 2001 {{vote:m2}}.",
+  "No pecuniary interests were declared, no delegations appeared and the Mayor had no updates. The meeting adjourned at 5:03 p.m. For residents, the meeting made no policy or spending decisions. It only set up a private discussion, and the minutes report no outcome from that closed session."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "In-camera meeting authorization",
+   "detail": "Council authorized a closed meeting immediately after the special meeting to consider a labour relations matter under Section 239 (d) of the Municipal Act, 2001 {{vote:m2}}."
+  },
+  {
+   "motion": "m1",
+   "item": "Waive notice to change start time",
+   "detail": "Council waived notice so the special meeting could begin immediately instead of at 5:30 p.m. {{vote:m1}}."
+  }
+ ],
+ "debate": [
+  "There was no substantive debate; each motion was moved, seconded and put to a vote.",
+  "The chair explained the meeting was starting early only so the closed session could be authorized.",
+  "No delegations were registered, and no written comments were noted in the minutes."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T18:26:30"
+}
