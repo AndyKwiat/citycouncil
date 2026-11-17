@@ -1,0 +1,778 @@
+[
+ {
+  "start": 0.0,
+  "end": 30.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.338,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 330.0,
+  "end": 348.6,
+  "text": "Good afternoon everyone and welcome to the special council meeting on January 29th, 2024.",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 348.6,
+  "end": 351.9,
+  "text": "Individuals interested in participating in today's meeting were eligible to register",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 351.9,
+  "end": 360.5,
+  "text": "online using the delegation registration form at www.kitchener.ca slash delegation or via email at",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 360.5,
+  "end": 365.7,
+  "text": "delegation at kitchener.ca any written comments received prior to the commencement of the meeting",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 365.7,
+  "end": 370.6,
+  "text": "have been circulated to members of council and will form part of the public record the meeting",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 370.6,
+  "end": 378.7,
+  "text": "live stream and archive videos are available at www.kitchener.ca slash watch now as we're gathering",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 378.7,
+  "end": 383.6,
+  "text": "this afternoon for today's meeting we do so acknowledging that we gather on the traditional",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 383.6,
+  "end": 389.4,
+  "text": "territory of the neutral anishinabe and hodinoshoni peoples we recognize our responsibility to serve as",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 389.4,
+  "end": 394.7,
+  "text": "stewards for the land and honor the original caretakers who came before us our community",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 394.7,
+  "end": 399.7,
+  "text": "is enriched by the enduring knowledge and deep-rooted traditions of the diverse first nations",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 399.7,
+  "end": 406.0,
+  "text": "metis and inuit in kitchener today as we gather this afternoon we're doing so on the national day",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 406.0,
+  "end": 410.9,
+  "text": "Day of Remembrance of the Quebec City Mosque attack. The City of Kitchener joins Canadians",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 410.9,
+  "end": 416.0,
+  "text": "across Canada in reflecting on this National Day of Remembrance of the Quebec City Mosque",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 416.0,
+  "end": 421.7,
+  "text": "attack in action against Islamophobia. We condemn the senseless attack at the Centre",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 421.7,
+  "end": 428.1,
+  "text": "Cultural Islamique de Québec and commit to the collective fight to end Islamophobia.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 428.1,
+  "end": 432.6,
+  "text": "Seven years ago today, Muslim worshippers at the Islamic Cultural Centre of Quebec City",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 432.6,
+  "end": 438.5,
+  "text": "were subjected to a tragic and hateful gunman attack that left six men dead,",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 438.5,
+  "end": 444.5,
+  "text": "19 people injured, some permanently disabled, and many more severely traumatized.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 444.5,
+  "end": 450.6,
+  "text": "Today, Kitchener joins cities and communities across Canada to take a moment of silence",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 450.6,
+  "end": 461.1,
+  "text": "to remember Ibrahemi Berry, Mamadou Tanu Berry, Khaled Belkachemi, Abdulkrem Hassane,",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 462.3,
+  "end": 470.6,
+  "text": "Azdin Sufiona, and Abu Bakr Thabti. Unfortunately, this Islamophobic act is one of many examples we",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 470.6,
+  "end": 476.1,
+  "text": "have witnessed across our nation and here in Waterloo Region. Closer to home, we remember",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 476.1,
+  "end": 482.2,
+  "text": "the disturbing vehicle attack in London, Ontario in 2021 that killed Madea Salman,",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 482.2,
+  "end": 488.7,
+  "text": "Yumna Avsal, Salman Avsal and Talat Avsal and left their son, Fayez Avsal, injured and orphaned.",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 489.5,
+  "end": 495.2,
+  "text": "In the Coalition of Muslim Women KW's second annual snapshot of hate in Waterloo Region report,",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 495.2,
+  "end": 499.9,
+  "text": "97 unique incidents of hate or racial discrimination were recorded and of that,",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 499.9,
+  "end": 505.5,
+  "text": "53 percent were identified as being against Muslims. These incidents took place in",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 505.5,
+  "end": 510.1,
+  "text": "in institutions, retail stores, neighbourhoods and online.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 510.1,
+  "end": 514.8,
+  "text": "Canada has the highest number of deaths related to Islamophobia in all G7 countries.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 514.8,
+  "end": 519.5,
+  "text": "We are seeing a significant spike in Islamophobia across Canada, especially in the last few",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 519.5,
+  "end": 520.5,
+  "text": "months.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 520.5,
+  "end": 525.2,
+  "text": "And it's imperative that we address this hate proactively and mitigate the harm before",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 525.2,
+  "end": 527.5,
+  "text": "it spreads even further.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 527.5,
+  "end": 531.3,
+  "text": "This week, across Canada, communities are standing together in unity with our Muslim",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 531.3,
+  "end": 536.3,
+  "text": "neighbours by lighting buildings and infrastructure in green lights, as we are last night and",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 536.3,
+  "end": 542.1,
+  "text": "this evening here at City Hall, lowering flags to half-mast, providing supportive messages",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 542.1,
+  "end": 547.4,
+  "text": "on signage boards and joining in the National Green Square Campaign, which is organised",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 547.4,
+  "end": 551.3,
+  "text": "by the National Council of Canadian Muslims and others.",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 551.3,
+  "end": 556.3,
+  "text": "In Kitchener, Carls-Hair Square at City Hall has been lit green and our flags are at half-mast.",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 556.3,
+  "end": 560.2,
+  "text": "All City of Kitchener community centres with digital signs are also displaying messages",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 560.2,
+  "end": 563.6,
+  "text": "of support for the Green Square campaign.",
+  "no_speech": 0.0,
+  "logprob": -0.137,
+  "source": "whisper"
+ },
+ {
+  "start": 563.6,
+  "end": 568.4,
+  "text": "This campaign represents the green carpets of Centre Cultural Islamique du Québec, the",
+  "no_speech": 0.0,
+  "logprob": -0.137,
+  "source": "whisper"
+ },
+ {
+  "start": 568.4,
+  "end": 571.5,
+  "text": "last place where the victim stood to pray.",
+  "no_speech": 0.0,
+  "logprob": -0.137,
+  "source": "whisper"
+ },
+ {
+  "start": 571.5,
+  "end": 576.6,
+  "text": "It also symbolizes the Islamic belief that the lost lives are in a green garden, a better",
+  "no_speech": 0.0,
+  "logprob": -0.137,
+  "source": "whisper"
+ },
+ {
+  "start": 576.6,
+  "end": 577.6,
+  "text": "place.",
+  "no_speech": 0.0,
+  "logprob": -0.137,
+  "source": "whisper"
+ },
+ {
+  "start": 577.6,
+  "end": 583.0,
+  "text": "I call on Kitchener residents to join us to stand with those working to eliminate Islamophobia,",
+  "no_speech": 0.0,
+  "logprob": -0.137,
+  "source": "whisper"
+ },
+ {
+  "start": 583.0,
+  "end": 588.1,
+  "text": "hate and racism in Canada by participating in the Green Square campaign.",
+  "no_speech": 0.0,
+  "logprob": -0.137,
+  "source": "whisper"
+ },
+ {
+  "start": 588.1,
+  "end": 594.1,
+  "text": "Islamophobia and religious hate have no place in Kitchener, in Canada or anywhere.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 594.1,
+  "end": 597.7,
+  "text": "No one should be discriminated against based on their religion.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 597.7,
+  "end": 602.3,
+  "text": "Today we stand in solidarity with our local Muslim community as we remember victims of",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 602.3,
+  "end": 607.1,
+  "text": "the Islamophobic attack in Quebec City and across Ontario and Canada.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 607.1,
+  "end": 611.5,
+  "text": "We also thank local leaders such as those with the Coalition of Muslim Women KW, Muslim",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 611.5,
+  "end": 616.7,
+  "text": "Social Services of Kitchener-Waterloo, the Muslim Association of Canada, the Maple Grove",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 616.7,
+  "end": 622.8,
+  "text": "School and others who work tirelessly every day to educate our community and combat Islamophobia",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 622.8,
+  "end": 624.8,
+  "text": "throughout Kitchener and Waterloo Region.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 624.8,
+  "end": 629.2,
+  "text": "I'd now like us to stand as we're able to reflect through a moment of silence.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 646.7,
+  "end": 653.7,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 655.7,
+  "end": 659.3,
+  "text": "Are there any disclosures of pecuniary interest?",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 659.3,
+  "end": 660.3,
+  "text": "Councillor SINGH.",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 660.3,
+  "end": 666.3,
+  "text": "Yes, there is a part of the discussion in caucus that I may have a conflict so I will",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 666.3,
+  "end": 670.9,
+  "text": "recuse myself as part of that discussion.",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 670.9,
+  "end": 671.9,
+  "text": "Because of?",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 671.9,
+  "end": 675.3,
+  "text": "Family property that's owned close proximity of the subject matter.",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 675.3,
+  "end": 682.5,
+  "text": "Thank you Councillor Ioannidis. Yeah, I will declare conflict for partial of the",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 682.5,
+  "end": 689.3,
+  "text": "item in caucus just for employment. Because it could impact one of your",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 689.3,
+  "end": 694.4,
+  "text": "employers? Yes. Okay, thank you. Those two conflicts have been noted and we'll",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 694.4,
+  "end": 701.1,
+  "text": "adjust the caucus agenda accordingly. There being no delegations, we'll move",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 701.1,
+  "end": 710.6,
+  "text": "into staff reports and we have the online older adult programming report CSD 2024-017",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 710.6,
+  "end": 716.7,
+  "text": "that's on the agenda. It would normally come through community services. So, Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 716.7,
+  "end": 725.6,
+  "text": "Johnson, do you want to move that? Thank you. And seconder is Councillor Schnider for that.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 725.6,
+  "end": 733.4,
+  "text": "CSD report that's on the agenda on older adult programming. You're good with that? Okay, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.26,
+  "source": "whisper"
+ },
+ {
+  "start": 734.8,
+  "end": 740.7,
+  "text": "All any discussion? All those in favour? Opposed? That's carried. Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.26,
+  "source": "whisper"
+ },
+ {
+  "start": 741.9,
+  "end": 747.5,
+  "text": "Council will recall that there were three committee appointments that were left. Two are by",
+  "no_speech": 0.0,
+  "logprob": -0.26,
+  "source": "whisper"
+ },
+ {
+  "start": 747.5,
+  "end": 754.9,
+  "text": "virtue of the office that newly appointed Councillor Stretch holds, Downtown Action",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 754.9,
+  "end": 759.6,
+  "text": "Advisory Committee and the Downtown Kitchener Business Improvement Area. She's also indicated",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 759.6,
+  "end": 763.9,
+  "text": "that she is interested in filling the spot at the Climate Change and Environmental Committee",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 763.9,
+  "end": 767.7,
+  "text": "that we left open. Does someone care to move Councillor Stretch?",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 767.7,
+  "end": 772.9,
+  "text": "For those three, moved by Councillor Owodunni, seconded by Councillor Johnston. All those in",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 772.9,
+  "end": 780.9,
+  "text": "favour opposed that's carried we'll move on to number six which is P sick item",
+  "no_speech": 0.0,
+  "logprob": -0.325,
+  "source": "whisper"
+ },
+ {
+  "start": 780.9,
+  "end": 788.5,
+  "text": "pertaining to 485 here on road councillor Singh yes brought to from the",
+  "no_speech": 0.0,
+  "logprob": -0.325,
+  "source": "whisper"
+ },
+ {
+  "start": 788.5,
+  "end": 792.8,
+  "text": "planning is church siege and conditions committee moved by myself and seconded",
+  "no_speech": 0.0,
+  "logprob": -0.325,
+  "source": "whisper"
+ },
+ {
+  "start": 792.8,
+  "end": 801.3,
+  "text": "by councillor Schneider thank you any discussion all those in favour opposed",
+  "no_speech": 0.0,
+  "logprob": -0.325,
+  "source": "whisper"
+ },
+ {
+  "start": 801.3,
+  "end": 805.3,
+  "text": "That too is carried no mayoral business",
+  "no_speech": 0.0,
+  "logprob": -0.283,
+  "source": "whisper"
+ },
+ {
+  "start": 806.8,
+  "end": 808.8,
+  "text": "motion to go in camera for the",
+  "no_speech": 0.0,
+  "logprob": -0.283,
+  "source": "whisper"
+ },
+ {
+  "start": 810.2,
+  "end": 816.2,
+  "text": "Listed item with the noted conflicts councillor Schneider seconded by councillor Michaud all those in favor",
+  "no_speech": 0.0,
+  "logprob": -0.283,
+  "source": "whisper"
+ },
+ {
+  "start": 817.0,
+  "end": 823.1,
+  "text": "Opposed that's carried motion. There are some late starter bylaws. I believe madam clerk",
+  "no_speech": 0.0,
+  "logprob": -0.283,
+  "source": "whisper"
+ },
+ {
+  "start": 823.7,
+  "end": 828.7,
+  "text": "Through you, Mr. Chair the bylaws related to the the planning application for 45 here on road",
+  "no_speech": 0.0,
+  "logprob": -0.283,
+  "source": "whisper"
+ },
+ {
+  "start": 828.7,
+  "end": 834.2,
+  "text": "It will need to be formally added to the agenda due to its approval today. Okay. Thank you. Do I have a mover for that?",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 835.2,
+  "end": 837.2,
+  "text": "Councillor Deneault second by",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 837.6,
+  "end": 839.9,
+  "text": "Councillor Davey all those in favor",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 841.0,
+  "end": 844.7,
+  "text": "opposed that's carried and that's the",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 845.9,
+  "end": 847.9,
+  "text": "the three readings of",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 848.1,
+  "end": 855.9,
+  "text": "Yeah, that's the three readings of the bylaws. Okay, so with that motion to adjourn councillor Ioannidis councillor Chapman all those in favor opposed",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 855.9,
+  "end": 857.9,
+  "text": "That's carried",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 858.7,
+  "end": 888.6,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.51,
+  "source": "whisper"
+ }
+]

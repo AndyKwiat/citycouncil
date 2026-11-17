@@ -1,0 +1,35 @@
+{
+ "title": "Biehn Drive extension and sanitary sewer study",
+ "subtitle": "Also: modernized HR policies and city participation in a New Dundee Road local improvement petition.",
+ "overview": [
+  "The Community and Infrastructure Services Committee spent most of its meeting on the Biehn Drive and Trunk Sanitary Sewer Extension environmental assessment. The committee recommended that the study report be received and filed with the province for a 30-day review {{vote:m3}}. The plan extends Biehn Drive about 700 metres to the future Robert Ferry Drive, including a road section of roughly 180 metres over a provincially significant wetland.",
+  "Many residents opposed the road, citing doubts about traffic benefits, flooding, and the loss of wetland. A planner for two landowners and staff supported it, saying it improves traffic distribution and emergency access and enables sewer service for future housing. Two councillors said they would not support the recommendation.",
+  "The committee also recommended approving modernized Human Resources policies and repealing a redundant one {{vote:m1}}. It also recommended allowing the General Manager of Infrastructure Services to sign a local improvement petition for a city-owned stormwater property, so staff can keep studying a New Dundee Road request {{vote:m2}}. These are recommendations that Council will consider later."
+ ],
+ "decisions": [
+  {
+   "motion": "m3",
+   "item": "Biehn Drive and sanitary sewer environmental study",
+   "detail": "The committee recommended that the environmental study report be received and filed with the Ministry of the Environment, Conservation and Parks for its mandatory 30-day review {{vote:m3}}."
+  },
+  {
+   "motion": "m1",
+   "item": "Modernized Human Resources policies",
+   "detail": "The committee recommended approving the modernized policies, repealing one redundant policy, and delegating staff authority to update policies containing dates superseded by negotiated or legislated changes {{vote:m1}}."
+  },
+  {
+   "motion": "m2",
+   "item": "New Dundee Road local improvement petition",
+   "detail": "The committee recommended authorizing the General Manager, Infrastructure Services, to sign a petition for the city-owned stormwater facility at 32 Ridgemount Street so staff can continue reviewing feasibility {{vote:m2}}."
+  }
+ ],
+ "debate": [
+  "Delegates opposed to the road argued it would not redistribute traffic. They said extending Robert Ferry Drive to Strasburg Road would remove much of the through traffic. One delegate's own distance analysis found the extension was not the shortest route for the sample homes. They also questioned the study's trip estimates.",
+  "Delegates raised flooding and environmental concerns: basement flooding and a high water table in the area, the loss of carbon storage in the wetland, doubts that replacement wetland and geotextiles can match natural function, and long-term monitoring and maintenance costs. They said the study left these questions unanswered.",
+  "Staff said the road section over the wetland would be elevated, most runoff would go to the existing stormwater pond, and pipes would be installed without open trenching. Staff expected no effect on groundwater and said wetland would be restored at a two-to-one ratio.",
+  "Staff said the extension spreads traffic from four northern neighbourhoods across more routes, provides emergency access, and supports growth to the south. Rejecting it would stop the sewer, delay housing, and need a new assessment taking months to a year. A planner for two landowners said the developments could proceed without the road but supported the connection.",
+  "Two councillors said they would not support the recommendation because the road would disrupt the wetland and alternatives exist. One councillor asked what the additional studies cost, and staff said they would report back."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T12:19:07"
+}

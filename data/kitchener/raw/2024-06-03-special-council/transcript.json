@@ -1,0 +1,658 @@
+[
+ {
+  "start": 0.0,
+  "end": 30.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.382,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 240.0,
+  "end": 257.8,
+  "text": "Good afternoon everyone and welcome to the special council meeting on June 3, 2024.",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 257.8,
+  "end": 261.0,
+  "text": "Individuals interested in participating in this meeting can register online using the",
+  "no_speech": 0.0,
+  "logprob": -0.271,
+  "source": "whisper"
+ },
+ {
+  "start": 261.0,
+  "end": 268.3,
+  "text": "delegation registration form at www.kitchener.ca slash delegation or via email at delegation",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 268.3,
+  "end": 270.2,
+  "text": "at kitchener.ca.",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 271.0,
+  "end": 276.1,
+  "text": "Any written comments received prior to the commencement of this meeting have been circulated to member",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 276.1,
+  "end": 278.8,
+  "text": "council and will form part of the public record.",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 279.5,
+  "end": 285.5,
+  "text": "The meeting live stream and archive videos are available at www.kitchener.ca slash watch",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 285.5,
+  "end": 285.9,
+  "text": "now.",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 285.9,
+  "end": 295.5,
+  "text": "Before we begin the meeting I'd like to acknowledge that today we're gathering on the traditional territory of the neutral Anishinaabe and Haudenosaunee peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 295.5,
+  "end": 303.2,
+  "text": "We recognize our responsibility to serve as stewards for the land and honor the original caretakers who came before us.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 303.9,
+  "end": 312.1,
+  "text": "Our community is enriched by the enduring knowledge and deep-rooted traditions of the diverse First Nations, Métis, and Inuit in Kitchener today.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 312.1,
+  "end": 316.5,
+  "text": "Are there any disclosures of pecuniary interest?",
+  "no_speech": 0.0,
+  "logprob": -0.294,
+  "source": "whisper"
+ },
+ {
+  "start": 318.8,
+  "end": 320.3,
+  "text": "Is that for here or for later?",
+  "no_speech": 0.0,
+  "logprob": -0.294,
+  "source": "whisper"
+ },
+ {
+  "start": 322.0,
+  "end": 322.4,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.294,
+  "source": "whisper"
+ },
+ {
+  "start": 324.3,
+  "end": 325.3,
+  "text": "Councillor Singh.",
+  "no_speech": 0.0,
+  "logprob": -0.294,
+  "source": "whisper"
+ },
+ {
+  "start": 328.0,
+  "end": 330.2,
+  "text": "Sorry, wrong one. Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.294,
+  "source": "whisper"
+ },
+ {
+  "start": 330.3,
+  "end": 337.3,
+  "text": "Thank you, Mr. Mayor. 6.2 potential land acquisition as I have property in close proximity of the",
+  "no_speech": 0.0,
+  "logprob": -0.294,
+  "source": "whisper"
+ },
+ {
+  "start": 337.3,
+  "end": 338.8,
+  "text": "discussed item.",
+  "no_speech": 0.0,
+  "logprob": -0.294,
+  "source": "whisper"
+ },
+ {
+  "start": 339.2,
+  "end": 341.2,
+  "text": "Okay, thank you. That has been noted.",
+  "no_speech": 0.0,
+  "logprob": -0.294,
+  "source": "whisper"
+ },
+ {
+  "start": 342.1,
+  "end": 352.1,
+  "text": "There being no delegations, there is one matter arising from in camera on April the 29th,",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 352.1,
+  "end": 353.1,
+  "text": "2024.",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 353.1,
+  "end": 354.1,
+  "text": "Does somebody care to move that?",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 354.1,
+  "end": 358.2,
+  "text": "Moved by Councillor Chapman, seconded by Councillor Ioannidis.",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 358.2,
+  "end": 359.2,
+  "text": "All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 359.2,
+  "end": 361.8,
+  "text": "Oh, you want to comment on it?",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 361.8,
+  "end": 362.8,
+  "text": "Question?",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 362.8,
+  "end": 363.8,
+  "text": "Okay, Councillor Chapman, go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 363.8,
+  "end": 369.1,
+  "text": "Yeah, I just wondered if staff could give an overview of the timing of this whole process.",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 369.1,
+  "end": 372.1,
+  "text": "Mr. Readman?",
+  "no_speech": 0.0,
+  "logprob": -0.267,
+  "source": "whisper"
+ },
+ {
+  "start": 372.1,
+  "end": 381.2,
+  "text": "Through the mayor and so right now we're issuing a notice to the public of our intent.",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 381.2,
+  "end": 385.5,
+  "text": "So expropriated property addresses will be publicly posted for three weeks in the local",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 385.5,
+  "end": 390.5,
+  "text": "paper and they've already been notified and directly contacted on this.",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 390.5,
+  "end": 396.4,
+  "text": "And then there's an ability to negotiate with landowners to obtain approval to start expropriation,",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 396.4,
+  "end": 400.6,
+  "text": "register the plan with the Land Registry Office, provide notice of intent to possess the land,",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 400.6,
+  "end": 406.1,
+  "text": "offer final compensation and this process takes 18 to 24 months typically.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 406.1,
+  "end": 410.7,
+  "text": "And is there any information you can share from the engagement that you've had with the",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 410.7,
+  "end": 413.7,
+  "text": "property owners as far?",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 414.1,
+  "end": 418.3,
+  "text": "And so through the mayor, you know, a lot of this is confidential",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 418.3,
+  "end": 422.7,
+  "text": "discussion that's happening on potential acquisition and so",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 422.7,
+  "end": 426.1,
+  "text": "I don't think there's anything specific for properties that I can share but",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 426.1,
+  "end": 428.3,
+  "text": "property owners have been notified of the process and are",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 428.3,
+  "end": 430.7,
+  "text": "anticipating this step in the process.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 430.7,
+  "end": 432.3,
+  "text": "Okay, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 432.3,
+  "end": 434.8,
+  "text": "Okay, any other questions?",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 434.8,
+  "end": 437.2,
+  "text": "There being none, all those in favor?",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 437.2,
+  "end": 440.5,
+  "text": "Opposed, that is carried unanimously.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 441.9,
+  "end": 443.7,
+  "text": "Motion to go for the listed items,",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 443.7,
+  "end": 445.0,
+  "text": "moved by Councillor Michaud,",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 445.0,
+  "end": 446.5,
+  "text": "seconded by Councillor Schnider.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 446.5,
+  "end": 447.8,
+  "text": "All those in favor?",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 447.8,
+  "end": 450.8,
+  "text": "Opposed, that is carried.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 452.7,
+  "end": 455.6,
+  "text": "Madame Clerk, do we need to come back",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 455.6,
+  "end": 456.9,
+  "text": "into special counsel after?",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 456.9,
+  "end": 463.0,
+  "text": "Motion to recess councillor a notice second by count Chapman all those in favor opposed that's carried",
+  "no_speech": 0.0,
+  "logprob": -0.495,
+  "source": "whisper"
+ },
+ {
+  "start": 486.9,
+  "end": 513.5,
+  "text": "Okay, good evening everyone and welcome back to the tail end of our special council meeting",
+  "no_speech": 0.0,
+  "logprob": -0.364,
+  "source": "whisper"
+ },
+ {
+  "start": 513.5,
+  "end": 515.6,
+  "text": "of June the 3rd, 2024.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 516.4,
+  "end": 519.4,
+  "text": "Councilor Singh, I believe you need to make a correction.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 519.8,
+  "end": 521.1,
+  "text": "I do, Mr. Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 521.2,
+  "end": 521.8,
+  "text": "My apologies.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 522.5,
+  "end": 527.0,
+  "text": "I inadvertently said 6.3.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 527.5,
+  "end": 529.1,
+  "text": "But there is no 6.3.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 529.4,
+  "end": 530.0,
+  "text": "Yeah, so.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 530.4,
+  "end": 531.7,
+  "text": "Okay, 6.3.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 531.9,
+  "end": 534.6,
+  "text": "I had said 6.2, but instead it said 6.3.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 534.6,
+  "end": 535.8,
+  "text": "Your confidence on 6.3.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 535.8,
+  "end": 536.3,
+  "text": "That's right, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 536.4,
+  "end": 538.4,
+  "text": "Okay, duly noted that change will be made.",
+  "no_speech": 0.0,
+  "logprob": -0.331,
+  "source": "whisper"
+ },
+ {
+  "start": 538.4,
+  "end": 543.4,
+  "text": "and if you can just fill out the paperwork afterwards.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 544.7,
+  "end": 549.4,
+  "text": "Madame Clerk, items coming out of office, please.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 554.9,
+  "end": 559.9,
+  "text": "Okay, so there is a memo with respect to land acquisition.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 560.0,
+  "end": 561.5,
+  "text": "Do I have a mover?",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 562.6,
+  "end": 567.4,
+  "text": "Councillor Deneault, seconded by Councillor Stretch.",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 567.4,
+  "end": 568.4,
+  "text": "Any discussion?",
+  "no_speech": 0.0,
+  "logprob": -0.32,
+  "source": "whisper"
+ },
+ {
+  "start": 568.4,
+  "end": 575.1,
+  "text": "All those in favor opposed that's carried are there any item other items but I'm Kirk there being none",
+  "no_speech": 0.0,
+  "logprob": -0.474,
+  "source": "whisper"
+ },
+ {
+  "start": 575.6,
+  "end": 579.6,
+  "text": "Motion for three readings of the bylaws council or do any second by councillor",
+  "no_speech": 0.0,
+  "logprob": -0.474,
+  "source": "whisper"
+ },
+ {
+  "start": 580.2,
+  "end": 585.2,
+  "text": "Chapman any discussion all those in favor opposed that's carried",
+  "no_speech": 0.0,
+  "logprob": -0.474,
+  "source": "whisper"
+ },
+ {
+  "start": 586.1,
+  "end": 589.1,
+  "text": "Motion to confirm all action. I see that son",
+  "no_speech": 0.0,
+  "logprob": -0.474,
+  "source": "whisper"
+ },
+ {
+  "start": 591.9,
+  "end": 595.8,
+  "text": "Sorry, yeah motion to adjourn councillor Ionidas seconded by",
+  "no_speech": 0.0,
+  "logprob": -0.474,
+  "source": "whisper"
+ },
+ {
+  "start": 595.8,
+  "end": 602.1,
+  "text": "Councillor Davey all those opposed that's carried and if folks can just bear with us for a couple",
+  "no_speech": 0.0,
+  "logprob": -0.464,
+  "source": "whisper"
+ },
+ {
+  "start": 602.1,
+  "end": 604.2,
+  "text": "minutes which cheers",
+  "no_speech": 0.0,
+  "logprob": -0.464,
+  "source": "whisper"
+ }
+]

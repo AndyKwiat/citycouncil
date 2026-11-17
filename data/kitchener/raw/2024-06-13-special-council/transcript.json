@@ -1,0 +1,706 @@
+[
+ {
+  "start": 0.0,
+  "end": 30.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.369,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.266,
+  "source": "whisper"
+ },
+ {
+  "start": 660.0,
+  "end": 680.9,
+  "text": "Good afternoon, everyone, and welcome to the special council meeting on June 13th, 2024.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 681.4,
+  "end": 685.7,
+  "text": "Individuals interested in participating in this meeting were eligible to register online",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 685.7,
+  "end": 696.0,
+  "text": "using the delegation registration form at www.kitchener.ca slash delegation or via email at delegation at kitchener dot ca.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 696.9,
+  "end": 703.6,
+  "text": "Any written comments received prior to the start of this meeting have been circulated to members of council and will form part of the public record.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 704.1,
+  "end": 711.2,
+  "text": "The meeting live stream and archive videos are available at www.kitchener.ca slash watch now.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 711.2,
+  "end": 719.7,
+  "text": "Before we begin this meeting, I'd like to acknowledge that today we're gathering on the traditional territory of the neutral Anishinaabe and Haudenosaunee peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 720.3,
+  "end": 726.4,
+  "text": "We recognize our responsibility to serve as stewards for the land and honor the original caretakers who came before us.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 727.0,
+  "end": 734.5,
+  "text": "Our community is enriched by the enduring knowledge and deep-duty traditions of the diverse First Nations, Métis and Inuit in Kitchener today.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 735.2,
+  "end": 739.6,
+  "text": "I'd also like to acknowledge that June is National Indigenous History Month.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 739.6,
+  "end": 745.6,
+  "text": "An important moment to recognize the incredible contributions, varied cultures, and distinct",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 745.6,
+  "end": 752.1,
+  "text": "heritage of the First Nations, Inuit, and Métis people in Kitchener and across our country.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 752.1,
+  "end": 756.0,
+  "text": "Kitchener rests on the traditional territories of the Anishinaabe, Haudenosaunee, and neutral",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 756.0,
+  "end": 757.3,
+  "text": "peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 757.3,
+  "end": 762.0,
+  "text": "Each group has a distinct culture, language, and traditions, which have been an essential",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 762.0,
+  "end": 765.5,
+  "text": "part of this land for countless generations.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 765.5,
+  "end": 770.3,
+  "text": "At the City of Kitchener, Council members and staff are committed to furthering our understanding",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 770.3,
+  "end": 775.9,
+  "text": "of the history and current reality of Indigenous peoples and addressing the deep-rooted, systemic",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 775.9,
+  "end": 779.1,
+  "text": "anti-Indigenous racism that exists today.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 779.1,
+  "end": 783.9,
+  "text": "The work of reconciliation is complicated, challenging and requires a critical eye on",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 783.9,
+  "end": 788.9,
+  "text": "how power is distributed in organizations and embedded within structures.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 788.9,
+  "end": 792.6,
+  "text": "The City of Kitchener's vision is one of building a city for everyone, where together",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 792.6,
+  "end": 796.1,
+  "text": "we take care of the world around us and each other.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 796.1,
+  "end": 799.1,
+  "text": "In 2019, we committed ourselves to responding",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 799.1,
+  "end": 801.4,
+  "text": "to Call to Action No. 57",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 801.4,
+  "end": 804.0,
+  "text": "from the Truth and Reconciliation Commission,",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 804.0,
+  "end": 805.3,
+  "text": "which began with the launch",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 805.3,
+  "end": 807.6,
+  "text": "of intercultural competency training",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 807.6,
+  "end": 810.4,
+  "text": "focusing on history, treaties, legislation,",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 810.4,
+  "end": 813.4,
+  "text": "and impact on First Nations, Métis, and Inuit.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 814.5,
+  "end": 815.9,
+  "text": "In addition to staff training,",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 815.9,
+  "end": 818.8,
+  "text": "we have launched programming around days of significance,",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 818.8,
+  "end": 820.6,
+  "text": "such as the development of learning toolkits",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 820.6,
+  "end": 826.2,
+  "text": "resources for the National Day for Truth and Reconciliation. We recognize that",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 826.2,
+  "end": 830.2,
+  "text": "reconciliation entails adopting various approaches such as the way we plan our",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 830.2,
+  "end": 837.2,
+  "text": "parks and open spaces whom we support with grant funding, how we",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 837.2,
+  "end": 840.7,
+  "text": "design our training, and how we make decisions regarding our street and place",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 840.7,
+  "end": 845.3,
+  "text": "names. Through engagement and discussions with Indigenous communities, we learned",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 845.3,
+  "end": 848.9,
+  "text": "that outdoor gathering space for Indigenous communities is needed in",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 848.9,
+  "end": 854.1,
+  "text": "parks. This space should be a safe and welcoming space where community, especially Indigenous",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 854.1,
+  "end": 859.3,
+  "text": "communities, can gather for ceremonies and to celebrate cultural traditions. Building",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 859.3,
+  "end": 864.2,
+  "text": "dedicated gathering space is a high priority for us and that's why we're working to transform",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 864.2,
+  "end": 870.1,
+  "text": "Huron Natural Area into a space that represents Indigenous communities, arts and culture.",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 870.1,
+  "end": 874.2,
+  "text": "We have also grown the size of the RISE Fund that is supporting Indigenous communities,",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 874.2,
+  "end": 878.9,
+  "text": "amongst others. The fund is a community grant that provides support for Black, Indigenous",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 878.9,
+  "end": 884.5,
+  "text": "and racialized community-led organizations, programs, initiatives or events meant to decrease",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 884.5,
+  "end": 890.8,
+  "text": "inequities and increase opportunities and well-being for those same communities in Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 890.8,
+  "end": 894.6,
+  "text": "We acknowledge that we still have a long way to go toward reconciliation and eliminating",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 894.6,
+  "end": 899.9,
+  "text": "discrimination against Indigenous people. We urge all Kitchener residents to recognize",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 899.9,
+  "end": 905.1,
+  "text": "National Indigenous History Month by learning about the history of Indigenous peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.103,
+  "source": "whisper"
+ },
+ {
+  "start": 905.1,
+  "end": 909.3,
+  "text": "We need to reflect on the tragic facts of the residential school system and acknowledge",
+  "no_speech": 0.0,
+  "logprob": -0.103,
+  "source": "whisper"
+ },
+ {
+  "start": 909.3,
+  "end": 912.4,
+  "text": "their presence in contemporary history.",
+  "no_speech": 0.0,
+  "logprob": -0.103,
+  "source": "whisper"
+ },
+ {
+  "start": 912.4,
+  "end": 917.3,
+  "text": "Each of us can do our part by committing to learning more, attending a local event, supporting",
+  "no_speech": 0.0,
+  "logprob": -0.103,
+  "source": "whisper"
+ },
+ {
+  "start": 917.3,
+  "end": 924.9,
+  "text": "an Indigenous business or artist, or making a donation to a local Indigenous organization.",
+  "no_speech": 0.0,
+  "logprob": -0.103,
+  "source": "whisper"
+ },
+ {
+  "start": 924.9,
+  "end": 931.1,
+  "text": "June is also Pride Month across Canada, and it's a celebration of the history, contributions,",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 931.1,
+  "end": 937.2,
+  "text": "and diversity of the two-spirit, lesbian, gay, bisexual, trans, intersex, queer, and questioning",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 937.2,
+  "end": 941.1,
+  "text": "communities 2SLGBTQIA+.",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 941.1,
+  "end": 945.1,
+  "text": "The City of Kitchener's vision is one of building a city for everyone where together we take",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 945.1,
+  "end": 947.8,
+  "text": "care of the world around us and each other.",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 947.8,
+  "end": 952.3,
+  "text": "And as we celebrate Pride Month, we reaffirm our commitment to build a more inclusive and",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 952.3,
+  "end": 957.8,
+  "text": "equitable city where all members of the 2SLGBTQIA plus community feel valued,",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 957.8,
+  "end": 964.4,
+  "text": "respected and welcome. Earlier this month the Progress Pride flag was proudly",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 964.4,
+  "end": 968.8,
+  "text": "raised at City Hall and remains there all month. It is a representation of our",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 968.8,
+  "end": 972.9,
+  "text": "commitment to supporting members of all identities. The Progress Pride flag",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 972.9,
+  "end": 977.4,
+  "text": "combines the original multicolored rainbow flag and the transgender",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 977.4,
+  "end": 982.3,
+  "text": "pride flag to reimagine a flag that recognizes and values all parts of",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 982.3,
+  "end": 988.3,
+  "text": "the modern 2SLGBTQIA plus community. Artist Daniel Quasar's Progress Pride",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 988.3,
+  "end": 994.0,
+  "text": "flag includes black and brown stripes to represent marginalized 2SLGBTQIA plus",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 994.0,
+  "end": 998.6,
+  "text": "communities of color, community members lost to HIV AIDS and those currently",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 998.6,
+  "end": 1004.1,
+  "text": "living with AIDS. The Chevron represents a need for forward movement. Pride Month",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 1004.1,
+  "end": 1008.0,
+  "text": "is a reminder that we all have a role to play in creating a world where everyone",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 1008.0,
+  "end": 1013.2,
+  "text": "can live authentically and freely. We invite you to reflect on what equitable actions you",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1013.2,
+  "end": 1018.5,
+  "text": "can take in both your personal and professional lives to create a more inclusive and caring",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1018.5,
+  "end": 1024.6,
+  "text": "community. As we reflect, let us also take in the opportunities across our city and region",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1024.6,
+  "end": 1029.5,
+  "text": "to learn and celebrate Pride throughout the month of June. Please visit our spectrum.com",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1029.5,
+  "end": 1034.7,
+  "text": "and community calendars for details. Happy Pride Month.",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1034.7,
+  "end": 1039.6,
+  "text": "I'll now ask if there are any disclosures of pecuniary interest.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1039.6,
+  "end": 1045.7,
+  "text": "There being none, there are no delegations, there's no mayoral's business.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1045.7,
+  "end": 1051.0,
+  "text": "Motion to go in camera for the two items listed, Councillor Ioannidis and Councillor O'Dooney.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1051.0,
+  "end": 1052.4,
+  "text": "All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1052.4,
+  "end": 1053.4,
+  "text": "Opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1053.4,
+  "end": 1054.9,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1054.9,
+  "end": 1060.2,
+  "text": "Motion for three readings of the bylaws, Councillor Michaud and Councillor Chapman.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1060.2,
+  "end": 1061.6,
+  "text": "All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1061.6,
+  "end": 1062.6,
+  "text": "Opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1062.6,
+  "end": 1063.6,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 1063.6,
+  "end": 1070.6,
+  "text": "Councillor Deneault and Councillor Stretch. All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.422,
+  "source": "whisper"
+ }
+]

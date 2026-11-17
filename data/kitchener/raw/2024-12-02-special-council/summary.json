@@ -1,0 +1,30 @@
+{
+ "title": "Mayor's proposed 2025 budget tabled",
+ "subtitle": "Regional budget cuts concern, community courts funding, Region all-councils meeting, and a housing land donation correction.",
+ "overview": [
+  "Council held a special meeting at which the Mayor's proposed 2025 budget was tabled, with the Finance and Corporate Services chair presenting it because the Mayor was absent following a family bereavement. It proposes a 3.9% tax increase to maintain about 50 core services and respond to growth. A $1 million community court program would install or rehabilitate 10 basketball, tennis or pickleball courts across the city.",
+  "No budget vote was held. Any councillor amendments must reach the Clerk by December 9, with amendments dealt with at a Final Budget Day meeting on December 12. Staff explained that council amends the budget and the Mayor may veto amendments, which council can then overturn.",
+  "Council also authorized members to attend an All Councils meeting with the Region on December 6 {{vote:m1}}. After a closed session, it corrected the name of the recipient in an earlier affordable housing land donation resolution {{vote:m3}}. Councillors also raised concern about proposed Regional budget changes, including ending downtown garbage collection, and encouraged residents to give input to Regional Council."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Region of Waterloo All Councils meeting",
+   "detail": "Council authorized the Mayor and members to take part in an All Councils meeting on December 6, 2024 at 2:00 p.m. at Centre in the Square {{vote:m1}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Affordable housing land donation correction",
+   "detail": "Council amended its April 29, 2024 resolution to replace the named recipient with \"BUILD NOW: Holborn Court\" so the land is donated to the correct legal entity {{vote:m3}}."
+  }
+ ],
+ "debate": [
+  "Councillors said the 3.9% increase keeps services steady while Kitchener's 10-year average increase stays below Ontario inflation, and noted the City's share is only part of the total tax bill, with the Region and education taking the rest.",
+  "The presenter said planned infrastructure spending is significant but still insufficient for asset replacement needs, and called for a new long-term fiscal arrangement with the provincial and federal governments.",
+  "Councillors raised concern about proposed Regional budget changes: charging rent for the emergency services training facility, removing garbage cans at transit stops, and ending downtown garbage collection, which they described as possible downloading onto the City.",
+  "Councillors asked how strong-mayor budget rules work. Staff said council cannot veto but can amend, the Mayor may veto amendments, and council can overturn a veto. Conflicts of interest would need to be declared when an amendment is considered.",
+  "One councillor asked about issue papers before amendments. Staff said there is no mechanism for them now, though councillors may ask staff for information, which would be shared with all members if relevant."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T12:20:38"
+}

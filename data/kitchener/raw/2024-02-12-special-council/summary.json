@@ -1,0 +1,19 @@
+{
+ "title": "Council explores artificial intelligence at special meeting",
+ "subtitle": "Digital Kitchener Innovation Lab experiments, student development proposal for Harvest Park, and an in-camera session authorization.",
+ "overview": [
+  "Council held a three-part special meeting. Part One was a strategic session at Communitech on artificial intelligence (AI). Staff said no decisions would be made. A University of Waterloo professor explained how generative AI and large language models work, along with their risks and opportunities. Risks included bias, disinformation and job disruption. Opportunities included education and health-care records.",
+  "Staff from the Digital Kitchener Innovation Lab described 2023 experiments. These included a conversational tool that draws on the Municipal Code and Zoning By-law, a Local Guide app using Open Data, and multilingual signage translation. Staff stressed the need for responsible AI. Council asked about staffing, partnerships with nearby municipalities, training time and working in a unionized environment.",
+  "In Part Two, council authorized an in-camera meeting after the special meeting to consider a personal matter about an identifiable individual and education and training for municipal employees {{vote:m1}}. In the evening, Grade 7 students from a local public school presented a development proposal for the Harvest Park lands in south Kitchener, prepared with a developer and industry professionals. The meeting adjourned at 6:49 p.m."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "In-camera meeting authorization",
+   "detail": "Council agreed to hold a closed meeting after the special meeting to consider a personal matter about an identifiable individual and education and training for municipal employees."
+  }
+ ],
+ "debate": [],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T15:59:50"
+}

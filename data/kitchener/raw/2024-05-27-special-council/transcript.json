@@ -1,0 +1,3346 @@
+[
+ {
+  "start": 0.0,
+  "end": 10.8,
+  "text": "Good afternoon, everyone, and welcome to the special council meeting on May 27, 2024.",
+  "no_speech": 0.0,
+  "logprob": -0.245,
+  "source": "whisper"
+ },
+ {
+  "start": 11.4,
+  "end": 25.7,
+  "text": "Individuals interested in participating in today's meeting were eligible to register online using the delegation registration form at www.kitchener.ca slash delegation or via email at delegation at kitchener.ca.",
+  "no_speech": 0.0,
+  "logprob": -0.245,
+  "source": "whisper"
+ },
+ {
+  "start": 25.7,
+  "end": 34.7,
+  "text": "Any written comments received prior to the commencement of today's meeting have been circulated to members of Council prior to the meeting and will form part of the public record.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 35.7,
+  "end": 42.2,
+  "text": "The meeting live stream and archived videos are available at www.kitchen.ca slash watch now.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 42.9,
+  "end": 51.0,
+  "text": "Before we begin this afternoon's meeting, I'd like to acknowledge that today we're gathering on the traditional territory of the neutral Anishinaabe and Haudenosaunee peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 51.0,
+  "end": 58.8,
+  "text": "We recognize our responsibility to serve as stewards of the land and honor the original caretakers who came before us.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 59.2,
+  "end": 65.7,
+  "text": "Our community is enriched by the enduring knowledge and deep-rooted traditions of the diverse First Nations, Métis and Inuit in Kitchener today.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 66.7,
+  "end": 77.3,
+  "text": "Are there any disclosures of pecuniary interest?",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 77.3,
+  "end": 86.7,
+  "text": "There aren't any hands up, so there being none, and I don't see any delegations, so",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 86.7,
+  "end": 94.2,
+  "text": "we'll move right into our strategic session report on the Kitchener Utilities transition.",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 94.2,
+  "end": 97.3,
+  "text": "This item is really for discussion today.",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 97.3,
+  "end": 98.8,
+  "text": "No motion is required.",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 98.8,
+  "end": 104.8,
+  "text": "I'll turn it over to Kate Daly, our Senior Strategist, Carbon Energy Planning, to make",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 104.8,
+  "end": 108.3,
+  "text": "a presentation and lead us through the strategic session. Welcome, Kate.",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 108.9,
+  "end": 114.6,
+  "text": "Thank you so much. I'm joined today by a number of members of our project team, which I'm",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 114.6,
+  "end": 119.6,
+  "text": "really pleased with. We, of course, have Greg St. Louis, our director, but we also have",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 119.6,
+  "end": 125.1,
+  "text": "Adam Hustwood, our manager of business development and customer experience. Next to him, we have",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 125.1,
+  "end": 134.7,
+  "text": "Khaled Abu-Essifan, who is our manager of engineering. And, of course, someone you see",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 134.7,
+  "end": 138.5,
+  "text": "a bit more often, Anna-Marie Cipriani, our Corporate Sustainability Officer.",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 139.9,
+  "end": 143.4,
+  "text": "In terms of what we have planned for Council today,",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 150.8,
+  "end": 152.6,
+  "text": "it is on my next slide.",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 155.9,
+  "end": 157.9,
+  "text": "But I will get started. There we go. Perfect.",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 159.7,
+  "end": 164.7,
+  "text": "So I'll do a little bit of a presentation to talk about what we've done in Phase 2 so far,",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 164.7,
+  "end": 169.8,
+  "text": "some of our next steps as well as considerations for investigation of",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 169.8,
+  "end": 173.4,
+  "text": "business activities during this phase of the project and we also have our",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 173.4,
+  "end": 179.5,
+  "text": "discussion questions that of course are in your report as well and those are",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 179.5,
+  "end": 183.4,
+  "text": "sort of what are your reflections on the business activity themes and what theme",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 183.4,
+  "end": 187.8,
+  "text": "are you most curious about and then referring to Appendix A in the report",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 187.8,
+  "end": 190.6,
+  "text": "are there any considerations for investigation you feel should be",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 190.6,
+  "end": 193.3,
+  "text": "prioritized or deprioritized or should be added.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 198.2,
+  "end": 199.0,
+  "text": "Slide, please.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 200.4,
+  "end": 205.6,
+  "text": "So we've already completed phase one of the project, which focused on relational engagement.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 206.1,
+  "end": 209.1,
+  "text": "And that was really to get us ready for phase two, where we are now.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 209.3,
+  "end": 214.0,
+  "text": "And phase two is about assessing our options and recommending an integrated approach moving forward.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 214.8,
+  "end": 218.6,
+  "text": "Once we know where we're headed, phase three will really focus in on implementation.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 218.6,
+  "end": 223.0,
+  "text": "and of course, Council is our key decision maker at each phase,",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 223.1,
+  "end": 225.9,
+  "text": "so we're really working to give you the best info we can",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 225.9,
+  "end": 228.0,
+  "text": "to make informed decisions.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 233.2,
+  "end": 233.9,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 235.4,
+  "end": 239.7,
+  "text": "And I do want to highlight that throughout Phase 2 and 3,",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 239.8,
+  "end": 242.4,
+  "text": "we're going to be guided by the guiding principles for the project,",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 242.6,
+  "end": 244.5,
+  "text": "which were based on our Phase 1 engagement",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 244.5,
+  "end": 247.3,
+  "text": "and, of course, endorsed by Council in December.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 247.3,
+  "end": 249.2,
+  "text": "I won't read all of this text at you.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 249.3,
+  "end": 252.4,
+  "text": "It is there in your report in the interest of time.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 253.1,
+  "end": 257.5,
+  "text": "But I will note that, you know, as we evolve our energy business to continue to be financially",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 257.5,
+  "end": 263.5,
+  "text": "successful and provide valued services throughout the energy transition, we will make responsible,",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 263.8,
+  "end": 267.8,
+  "text": "accountable, and financially rewarding business decisions, serve customers as an affordable",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 267.8,
+  "end": 272.6,
+  "text": "and reliable partner in the energy transition, contribute to a thriving community, and plan",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 272.6,
+  "end": 275.3,
+  "text": "for multiple energy futures with flexibility and focus.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 275.5,
+  "end": 277.1,
+  "text": "So that brings us to phase two.",
+  "no_speech": 0.0,
+  "logprob": -0.094,
+  "source": "whisper"
+ },
+ {
+  "start": 277.3,
+  "end": 282.3,
+  "text": "and what we've done so far. We started off by holding some workshops with staff and with",
+  "no_speech": 0.0,
+  "logprob": -0.06,
+  "source": "whisper"
+ },
+ {
+  "start": 282.3,
+  "end": 286.5,
+  "text": "stakeholders to generate a broad range of ideas of things we could do as an energy company as",
+  "no_speech": 0.0,
+  "logprob": -0.06,
+  "source": "whisper"
+ },
+ {
+  "start": 286.5,
+  "end": 292.8,
+  "text": "things are changing around us. And in terms of the process of kind of collecting and grouping ideas,",
+  "no_speech": 0.0,
+  "logprob": -0.06,
+  "source": "whisper"
+ },
+ {
+  "start": 293.0,
+  "end": 299.6,
+  "text": "those workshops gave us 237 submissions of things we could be doing. We went back and we added all",
+  "no_speech": 0.0,
+  "logprob": -0.06,
+  "source": "whisper"
+ },
+ {
+  "start": 299.6,
+  "end": 305.5,
+  "text": "the business suggestions that came through in our engagement in phase one, and that got us 371",
+  "no_speech": 0.0,
+  "logprob": -0.06,
+  "source": "whisper"
+ },
+ {
+  "start": 305.5,
+  "end": 310.9,
+  "text": "ideas. That seemed like a lot. We tried to remove some of the duplicates to take a look at, and I",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 310.9,
+  "end": 316.6,
+  "text": "gave us 135 ideas to work with, and the project team reviewed those, did some ratings, some workshop",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 316.6,
+  "end": 321.3,
+  "text": "discussion, and what we really found, unsurprisingly, is that we needed to consolidate those",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 321.3,
+  "end": 327.1,
+  "text": "further, and particularly into types of business activities that could be undertaken. We found",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 327.1,
+  "end": 333.9,
+  "text": "that those fit under four main themes. So as an energy company, we could provide energy products",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 333.9,
+  "end": 339.7,
+  "text": "and services. We could plan for and report on our gas distribution system. We could provide",
+  "no_speech": 0.0,
+  "logprob": -0.055,
+  "source": "whisper"
+ },
+ {
+  "start": 339.7,
+  "end": 344.5,
+  "text": "the gaseous fuels of tomorrow, or we could provide system-scale energy services, and",
+  "no_speech": 0.0,
+  "logprob": -0.055,
+  "source": "whisper"
+ },
+ {
+  "start": 344.5,
+  "end": 350.2,
+  "text": "rather, and we could provide system-scale energy services. There are 11 types of business",
+  "no_speech": 0.0,
+  "logprob": -0.055,
+  "source": "whisper"
+ },
+ {
+  "start": 350.2,
+  "end": 356.2,
+  "text": "activities that we identified that fit under those four themes. So when we look at providing",
+  "no_speech": 0.0,
+  "logprob": -0.055,
+  "source": "whisper"
+ },
+ {
+  "start": 356.2,
+  "end": 360.7,
+  "text": "energy products and services, that might look like providing energy equipment services.",
+  "no_speech": 0.0,
+  "logprob": -0.055,
+  "source": "whisper"
+ },
+ {
+  "start": 360.7,
+  "end": 365.3,
+  "text": "It might look like providing energy transition support services.",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 365.8,
+  "end": 368.1,
+  "text": "It might look like running a district or neighborhood utility.",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 368.8,
+  "end": 372.9,
+  "text": "Or it might look like helping commercial and industrial customers meet their energy needs.",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 373.9,
+  "end": 386.3,
+  "text": "In terms of planning for and reporting on our gas distribution system, that might look like developing policies and programs for our assets, evaluating and future-proofing our gas rates, and developing forecast scenarios and models to help us plan.",
+  "no_speech": 0.0,
+  "logprob": -0.141,
+  "source": "whisper"
+ },
+ {
+  "start": 386.3,
+  "end": 392.8,
+  "text": "When we look at providing the gaseous fuels of tomorrow, that might look like making, buying,",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 392.9,
+  "end": 398.5,
+  "text": "or delivering biofuels, like renewable natural gas. It might look like making, buying, or delivering",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 398.5,
+  "end": 403.7,
+  "text": "hydrogen. Or it might look like advancing our work to track and contain gas in our system.",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 404.6,
+  "end": 410.8,
+  "text": "And then scaling out a little bit, when we look at providing system-scale energy services,",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 410.8,
+  "end": 415.4,
+  "text": "that might look like generating and selling renewable energy at a large scale, like a regional",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 415.4,
+  "end": 423.6,
+  "text": "scale or a provincial scale. So our next steps are geared toward getting us ready for the end",
+  "no_speech": 0.0,
+  "logprob": -0.046,
+  "source": "whisper"
+ },
+ {
+  "start": 423.6,
+  "end": 427.8,
+  "text": "of phase two, where we need to recommend an integrated business approach as part of the",
+  "no_speech": 0.0,
+  "logprob": -0.046,
+  "source": "whisper"
+ },
+ {
+  "start": 427.8,
+  "end": 432.5,
+  "text": "strategy. And right now we're putting together sub-teams to investigate the different business",
+  "no_speech": 0.0,
+  "logprob": -0.046,
+  "source": "whisper"
+ },
+ {
+  "start": 432.5,
+  "end": 437.7,
+  "text": "activities that I've just described to figure out if they could be part of that integrated business",
+  "no_speech": 0.0,
+  "logprob": -0.046,
+  "source": "whisper"
+ },
+ {
+  "start": 437.7,
+  "end": 442.1,
+  "text": "approach. And as we do those investigations, we really want to make sure we're guided by those",
+  "no_speech": 0.0,
+  "logprob": -0.046,
+  "source": "whisper"
+ },
+ {
+  "start": 442.1,
+  "end": 444.5,
+  "text": "core guiding principles and objectives.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 445.1,
+  "end": 450.3,
+  "text": "So as we evolve our energy business to continue to be financially successful and provide valued",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 450.3,
+  "end": 452.6,
+  "text": "services throughout the energy transition, we will.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 454.3,
+  "end": 456.2,
+  "text": "And I'll say this is just a visual summary.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 456.4,
+  "end": 458.0,
+  "text": "There's a table in your report.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 458.0,
+  "end": 459.6,
+  "text": "I've tried to make this a little peppier.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 461.8,
+  "end": 465.2,
+  "text": "Make responsible, accountable, financially rewarding business decisions.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 465.4,
+  "end": 470.5,
+  "text": "On the business side, we need to consider practicality, business viability, fit alignment",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 470.5,
+  "end": 477.5,
+  "text": "and competition, time, change, as well as safety, regulatory, legal, and risk considerations.",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 479.2,
+  "end": 483.8,
+  "text": "On the customer side, we need to serve customers as an affordable and reliable partner in the",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 483.8,
+  "end": 488.8,
+  "text": "energy transition, and that means we need to consider things like buy-in, staff training,",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 489.1,
+  "end": 494.9,
+  "text": "affordability, reliability and predictability, customization and support, as well as customer",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 494.9,
+  "end": 495.8,
+  "text": "cost and value.",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 495.8,
+  "end": 504.1,
+  "text": "On the community side, we need to contribute to a thriving community, and that means we need to consider things like carbon lock-in.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 505.0,
+  "end": 508.8,
+  "text": "More broadly, affordability, equity, prosperity, resilience, the environment.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 509.3,
+  "end": 518.4,
+  "text": "We need to consider the contribution to the transition of fossil fuels, as well as financial energy and GHG performance, and of course partnerships.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 520.5,
+  "end": 525.2,
+  "text": "On the energy side, we need to plan for multiple energy futures with flexibility and focus.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 525.2,
+  "end": 528.8,
+  "text": "and that means we need to look at intergenerational fairness.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 529.7,
+  "end": 532.6,
+  "text": "We need to look at iteration and experimentation,",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 533.5,
+  "end": 536.3,
+  "text": "compatibility with a range of net zero futures,",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 537.0,
+  "end": 539.1,
+  "text": "flexibility and alignment with our goals,",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 539.4,
+  "end": 543.4,
+  "text": "as well as reliance on safe bet versus long shot technologies.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 544.7,
+  "end": 547.5,
+  "text": "And so that broadly brings us to our questions and discussion",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 547.5,
+  "end": 549.5,
+  "text": "and of course we have our discussion questions",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 549.5,
+  "end": 552.2,
+  "text": "that appear in the report to guide us as well.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 553.1,
+  "end": 553.8,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 555.2,
+  "end": 558.8,
+  "text": "Thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.306,
+  "source": "whisper"
+ },
+ {
+  "start": 560.3,
+  "end": 567.7,
+  "text": "So, first of all, any questions on the presentation before we go into these questions?",
+  "no_speech": 0.0,
+  "logprob": -0.306,
+  "source": "whisper"
+ },
+ {
+  "start": 572.0,
+  "end": 573.9,
+  "text": "Okay, no questions on that.",
+  "no_speech": 0.0,
+  "logprob": -0.306,
+  "source": "whisper"
+ },
+ {
+  "start": 573.9,
+  "end": 579.6,
+  "text": "So, I'll open the floor to the questions that are here.",
+  "no_speech": 0.0,
+  "logprob": -0.306,
+  "source": "whisper"
+ },
+ {
+  "start": 579.6,
+  "end": 587.0,
+  "text": "and members of council to provide any thoughts and input for staff.",
+  "no_speech": 0.0,
+  "logprob": -0.302,
+  "source": "whisper"
+ },
+ {
+  "start": 607.0,
+  "end": 608.5,
+  "text": "Well, anybody?",
+  "no_speech": 0.0,
+  "logprob": -0.302,
+  "source": "whisper"
+ },
+ {
+  "start": 609.6,
+  "end": 612.0,
+  "text": "Go ahead, Councillor Chapman.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 612.1,
+  "end": 612.8,
+  "text": "She lit up.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 612.9,
+  "end": 613.1,
+  "text": "Sorry.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 613.2,
+  "end": 613.5,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 614.3,
+  "end": 615.3,
+  "text": "Yeah, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 616.3,
+  "end": 622.1,
+  "text": "So I have a question that's not, it's related to the report, but it's not from the report.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 622.4,
+  "end": 629.1,
+  "text": "And it has to do with the Ontario Energy Board statement that came out in December of 2023,",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 630.0,
+  "end": 635.7,
+  "text": "which called for the elimination of fossil fuel subsidies for fossil fuel infrastructure and new developments.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 635.7,
+  "end": 651.5,
+  "text": "And I was just wondering, so this statement I would say based on the report ties in nicely to 3.2, where it talks about do our part to address climate change.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 651.7,
+  "end": 659.9,
+  "text": "And it also fits in nicely with 4.2, which refers to preparing for a broad range of net zero carbon futures.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 659.9,
+  "end": 667.2,
+  "text": "and I'm sure as you know, you know, the Ontario Clean Air Alliance, the Environmental Defense,",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 668.1,
+  "end": 673.9,
+  "text": "I don't know if it's a board or body, and Climate Caucus have all done extensive",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 673.9,
+  "end": 682.7,
+  "text": "sort of follow-up and research on this statement from the OEB and calling on municipalities",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 682.7,
+  "end": 690.4,
+  "text": "to stop with these subsidies in the new developments",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 690.4,
+  "end": 695.0,
+  "text": "in order to help municipalities meet their net zero goals",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 695.0,
+  "end": 698.9,
+  "text": "and to try to sort of push the development industry",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 698.9,
+  "end": 704.7,
+  "text": "to install heat pumps in new houses in these new developments",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 704.7,
+  "end": 708.8,
+  "text": "and using other renewable energy sources.",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 708.8,
+  "end": 717.0,
+  "text": "The OEB report also highlights the sustainable savings for the end consumer.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 717.8,
+  "end": 723.9,
+  "text": "So cities like Toronto, Hamilton, Guelph, Kingston, Whitby and others have all passed resolutions",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 723.9,
+  "end": 727.9,
+  "text": "to support the OEB decision to end this subsidy.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 728.7,
+  "end": 735.5,
+  "text": "And I was just wondering, you know, if you could speak a bit to that and maybe help me",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 735.5,
+  "end": 742.3,
+  "text": "understand and possibly others understand, you know, why we aren't making, you know, sort of",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 742.3,
+  "end": 746.5,
+  "text": "more aggressive decisions along these lines.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 752.9,
+  "end": 753.6,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 755.8,
+  "end": 762.3,
+  "text": "Through you, Chair. Yeah, it's, I think, a really good illustration of something that strikes me a",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 762.3,
+  "end": 768.2,
+  "text": "lot in this work, which is around the extent to which how we currently do things is necessarily",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 768.2,
+  "end": 773.6,
+  "text": "structured around the way we've done them. And that obviously sounds like a bit of a truism,",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 774.2,
+  "end": 781.5,
+  "text": "but I think we see that coming through in some of the questions that the OAB was looking at around",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 781.5,
+  "end": 788.2,
+  "text": "how our infrastructure has historically been kind of paid for and leveraged. And of course,",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 788.2,
+  "end": 795.5,
+  "text": "Enbridge's situation is a bit different than ours in terms of their context of operations.",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 796.5,
+  "end": 802.1,
+  "text": "But one thing that is, I think, really important to note in the context of this report especially",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 802.1,
+  "end": 805.8,
+  "text": "is that the kinds of considerations that Enbridge has been looking at",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 805.8,
+  "end": 808.7,
+  "text": "and that many others in the community have been starting to consider",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 808.7,
+  "end": 814.3,
+  "text": "are considerations that are reflected in our kind of business activities list.",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 814.3,
+  "end": 820.0,
+  "text": "So there are considerations around the kind of neighborhood utilities that are provided.",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 820.2,
+  "end": 829.7,
+  "text": "There's considerations around particularly developing policies and programs for assets, how that fits in with considerations around future gas rates.",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 829.7,
+  "end": 847.3,
+  "text": "And so I think all of the companies that are providing energy services on the natural gas side and other companies are looking at how the kinds of changes we've been looking at and preparing for and discussing are likely to influence how traditional business models around those have worked.",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 847.3,
+  "end": 850.0,
+  "text": "And so we're doing that work on our end as well.",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 850.5,
+  "end": 857.6,
+  "text": "And I think you can see coming through in the guiding principles, as you've highlighted through your chair,",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 857.9,
+  "end": 865.9,
+  "text": "that there are a range of considerations we need to have as an energy company and as a municipality",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 865.9,
+  "end": 873.3,
+  "text": "that has a different kind of relationship and accountability with, of course, constituents and customers in the community.",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 873.3,
+  "end": 880.7,
+  "text": "So there's a lot to kind of explore and unpack there in terms of how we set things up in",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 880.7,
+  "end": 890.4,
+  "text": "a way that is prepared for a net zero future, recognizing that there's all these interconnected",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 890.4,
+  "end": 895.0,
+  "text": "pieces that come out in these kinds of board decisions or other conversations, and we really",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 895.0,
+  "end": 899.3,
+  "text": "want to get a good holistic picture of that through the components of work that we're",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 899.3,
+  "end": 900.8,
+  "text": "outlining in phase two.",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 900.8,
+  "end": 903.2,
+  "text": "I'm not sure if I've missed anything else.",
+  "no_speech": 0.0,
+  "logprob": -0.297,
+  "source": "whisper"
+ },
+ {
+  "start": 906.0,
+  "end": 907.2,
+  "text": "Okay, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.297,
+  "source": "whisper"
+ },
+ {
+  "start": 909.4,
+  "end": 911.3,
+  "text": "Next up is Councillor Stretch.",
+  "no_speech": 0.0,
+  "logprob": -0.297,
+  "source": "whisper"
+ },
+ {
+  "start": 913.4,
+  "end": 914.7,
+  "text": "Yes, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.297,
+  "source": "whisper"
+ },
+ {
+  "start": 914.7,
+  "end": 920.6,
+  "text": "So in meeting with you and learning more about this,",
+  "no_speech": 0.0,
+  "logprob": -0.297,
+  "source": "whisper"
+ },
+ {
+  "start": 921.2,
+  "end": 925.8,
+  "text": "what are some of the, you had 135 different ideas from constituents,",
+  "no_speech": 0.0,
+  "logprob": -0.297,
+  "source": "whisper"
+ },
+ {
+  "start": 926.1,
+  "end": 927.3,
+  "text": "and I know we talked about a few,",
+  "no_speech": 0.0,
+  "logprob": -0.297,
+  "source": "whisper"
+ },
+ {
+  "start": 927.3,
+  "end": 930.7,
+  "text": "but can you talk about a few that really resonated?",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 933.5,
+  "end": 940.1,
+  "text": "Well, my hesitation around being too specific is one of the things that I thought was really neat about the list",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 940.1,
+  "end": 944.1,
+  "text": "is that we saw different takes on the same sorts of questions.",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 944.3,
+  "end": 954.4,
+  "text": "So there might be a question about what we should do from an energy transition support services example.",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 954.4,
+  "end": 963.0,
+  "text": "And of course, we already have some of those that we offer through our team at Kitchen Utilities around conservation demand management.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 963.2,
+  "end": 968.3,
+  "text": "For example, a thermostat rebate, if you get a smart thermostat, would be an example of that.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 969.1,
+  "end": 977.9,
+  "text": "And it was really interesting to see examples coming through around, you know, everything from modifications to existing programs like that.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 977.9,
+  "end": 985.1,
+  "text": "or all the way over to very different ways of thinking about something like conservation demand management.",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 985.1,
+  "end": 994.4,
+  "text": "Is it something we do for customers? Is it something we do kind of as a system to try to make the best use of our infrastructure, for example?",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 995.1,
+  "end": 1000.2,
+  "text": "And then also, you know, what kinds of equity considerations, for example, come into play?",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1000.3,
+  "end": 1004.8,
+  "text": "Should these things be targeted towards people in particular need in the community?",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1005.0,
+  "end": 1006.9,
+  "text": "What's the rule for things that are more general?",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1006.9,
+  "end": 1014.7,
+  "text": "And so I think that those are an example of the kind of breadth of contributions that we received.",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1015.7,
+  "end": 1021.6,
+  "text": "There are certainly folks out there who have some very specific ideas of, you know, if they were in charge, what would they do differently today?",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1021.7,
+  "end": 1024.2,
+  "text": "And we're so keen to have those perspectives.",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1024.4,
+  "end": 1027.2,
+  "text": "We were really grateful for them through all our engagements so far.",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1027.2,
+  "end": 1033.6,
+  "text": "and what we're really looking to do is kind of sitting down with kind of the lens of looking at",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1033.6,
+  "end": 1039.6,
+  "text": "how these things fit together so that we can get the information we need to create a sensible and",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1039.6,
+  "end": 1044.8,
+  "text": "integrated package of what we'd like to do moving forward because not only do these things have to",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1044.8,
+  "end": 1050.4,
+  "text": "make sense individually but they also have to make sense when they're put together in terms of a",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1050.4,
+  "end": 1055.2,
+  "text": "business approach. I'm not sure if that covers kind of the the range of what you're looking for",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1055.2,
+  "end": 1064.6,
+  "text": "But I think there certainly are examples like that all across the different kind of business activities that are reflected here.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1065.5,
+  "end": 1067.3,
+  "text": "Okay, that's a little bit helpful.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1068.1,
+  "end": 1076.8,
+  "text": "I am still curious about some of those many ideas that came across.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 1076.8,
+  "end": 1083.3,
+  "text": "And so, you know, when reflecting on the discussion questions, you know, it would be interesting",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1083.3,
+  "end": 1087.0,
+  "text": "to know how many times something was suggested and you collated.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1087.0,
+  "end": 1089.9,
+  "text": "You said, you know, some of them were repeating ones over and over again.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1089.9,
+  "end": 1099.2,
+  "text": "And so, I'm curious, so what were some of those that, you know, got a lot of attention?",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1099.2,
+  "end": 1108.3,
+  "text": "And then, you know, have, I know it's a really large discussion, but as a source or as a",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1108.3,
+  "end": 1112.3,
+  "text": "changing, like as we're changing towards, you know, possibly something new with new",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1112.3,
+  "end": 1114.2,
+  "text": "technologies possibly becoming available.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1115.8,
+  "end": 1123.3,
+  "text": "And, you know, maybe using our current infrastructure won't be needed with a new technology.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1123.3,
+  "end": 1126.4,
+  "text": "Do we have any anticipation of what's coming?",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1127.4,
+  "end": 1127.9,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1127.9,
+  "end": 1148.7,
+  "text": "I think in terms of the first question, I think one thing that came through, I think, very clearly in thinking back over that 371 to 135 list is that we certainly saw lots of clusters around where there has been interest or work or partnerships happening locally.",
+  "no_speech": 0.0,
+  "logprob": -0.091,
+  "source": "whisper"
+ },
+ {
+  "start": 1148.7,
+  "end": 1158.2,
+  "text": "So, for example, given the city's leadership on a downtown district energy system, lots of interest in district energy and different approaches and ways to do that.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1158.7,
+  "end": 1169.3,
+  "text": "Similarly, through WR Community Energy, which is a collaboration between the municipalities and local electric utilities and kitchen utilities as well.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1170.5,
+  "end": 1176.7,
+  "text": "There's been projects on looking at kind of thermal energy in the community.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1176.7,
+  "end": 1183.2,
+  "text": "those kinds of considerations, things that have had, I think especially collaborative work were",
+  "no_speech": 0.0,
+  "logprob": -0.078,
+  "source": "whisper"
+ },
+ {
+  "start": 1183.2,
+  "end": 1188.2,
+  "text": "things that came through very often in the engagement, as well as, you know, a number of",
+  "no_speech": 0.0,
+  "logprob": -0.078,
+  "source": "whisper"
+ },
+ {
+  "start": 1188.2,
+  "end": 1194.9,
+  "text": "the kinds of, you might say, sort of standard things that you would expect to hear, especially",
+  "no_speech": 0.0,
+  "logprob": -0.078,
+  "source": "whisper"
+ },
+ {
+  "start": 1194.9,
+  "end": 1201.5,
+  "text": "when we were looking at, you know, responses from community members who have really critical",
+  "no_speech": 0.0,
+  "logprob": -0.078,
+  "source": "whisper"
+ },
+ {
+  "start": 1201.5,
+  "end": 1207.8,
+  "text": "perspectives that are coming from their location in the community. So things like, I'd like",
+  "no_speech": 0.0,
+  "logprob": -0.08,
+  "source": "whisper"
+ },
+ {
+  "start": 1207.8,
+  "end": 1215.4,
+  "text": "to do this, but this is the barrier for me, so someone should do that. And kind of filtering",
+  "no_speech": 0.0,
+  "logprob": -0.08,
+  "source": "whisper"
+ },
+ {
+  "start": 1215.4,
+  "end": 1221.0,
+  "text": "through those is partly about figuring out some of those questions we were touching on",
+  "no_speech": 0.0,
+  "logprob": -0.08,
+  "source": "whisper"
+ },
+ {
+  "start": 1221.0,
+  "end": 1228.4,
+  "text": "around best fit, what is it that we're in a position to do as a city and as a utility",
+  "no_speech": 0.0,
+  "logprob": -0.08,
+  "source": "whisper"
+ },
+ {
+  "start": 1228.4,
+  "end": 1232.6,
+  "text": "in support and what are other ones that are best.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 1233.7,
+  "end": 1237.0,
+  "text": "So I think that would be the most consistent thing",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 1237.0,
+  "end": 1238.2,
+  "text": "that I would have seen jumping out",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 1238.2,
+  "end": 1239.0,
+  "text": "were some of those issues",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 1239.0,
+  "end": 1241.8,
+  "text": "that we've been doing work on already.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 1242.6,
+  "end": 1247.1,
+  "text": "In terms of kind of those changing technologies,",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 1248.0,
+  "end": 1251.4,
+  "text": "we really want to make sure that we're prepared",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 1251.4,
+  "end": 1254.5,
+  "text": "in terms of not only our infrastructure,",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 1254.5,
+  "end": 1260.1,
+  "text": "but also the rest of our energy business profile.",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 1261.3,
+  "end": 1265.2,
+  "text": "And also in any energy business opportunities that we might be pursuing,",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 1265.7,
+  "end": 1269.0,
+  "text": "we really want to have a good sense of what are the range of things that could happen.",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 1269.0,
+  "end": 1276.6,
+  "text": "And we talked a bit last year about there's a number of things we don't know about how the energy transition will play out.",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 1276.7,
+  "end": 1281.4,
+  "text": "We don't know what specific technologies are going to scale by how much on what timeline.",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 1281.4,
+  "end": 1286.4,
+  "text": "but we do know some things about the future.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1286.9,
+  "end": 1288.2,
+  "text": "We know we're going to use,",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1288.2,
+  "end": 1290.1,
+  "text": "you can quibble about the numbers,",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1290.1,
+  "end": 1292.5,
+  "text": "but sort of two to three times as much electricity",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1292.5,
+  "end": 1295.7,
+  "text": "in a net zero future as we do now, for example.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1295.7,
+  "end": 1299.7,
+  "text": "And so that item there around developing forecast scenarios",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1299.7,
+  "end": 1301.0,
+  "text": "and models to help us plan,",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1301.0,
+  "end": 1304.0,
+  "text": "we've got it under kind of our gas distribution system",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1304.0,
+  "end": 1308.0,
+  "text": "because we have some existing assets and processes",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1308.0,
+  "end": 1310.8,
+  "text": "that it needs to be closely aligned to.",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1310.8,
+  "end": 1313.0,
+  "text": "But I think we really see that as informing",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1313.0,
+  "end": 1314.6,
+  "text": "the breadth of the project as well,",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1314.6,
+  "end": 1318.1,
+  "text": "because we wanna think about that full range",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1318.1,
+  "end": 1323.1,
+  "text": "that we might see, which goes from kind of modest change",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1323.4,
+  "end": 1325.3,
+  "text": "in some areas to a lot more change.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1325.3,
+  "end": 1327.6,
+  "text": "And again, the speed of that, we're not sure about either.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1327.6,
+  "end": 1330.2,
+  "text": "And so, yeah, having a sense of the breadth",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1330.2,
+  "end": 1331.7,
+  "text": "of what we might be addressing is, I think,",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1331.7,
+  "end": 1333.3,
+  "text": "gonna be a really key underpinning",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1333.3,
+  "end": 1337.1,
+  "text": "of all of these investigations in this phase.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1337.1,
+  "end": 1344.1,
+  "text": "Okay, Councillor Davey, you're next up.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1344.1,
+  "end": 1345.1,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1345.1,
+  "end": 1347.9,
+  "text": "There we go.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1347.9,
+  "end": 1355.1,
+  "text": "So we're not regulated by the OEB, but I'm wondering if it's possible or if it would,",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1355.1,
+  "end": 1358.1,
+  "text": "there's a mechanism, and I'm not saying I want to do this, but just so our options are",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1358.1,
+  "end": 1359.1,
+  "text": "open.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1359.1,
+  "end": 1364.6,
+  "text": "Is it possible to add, to be able to add a surcharge on the gas bill for a transition",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1364.6,
+  "end": 1366.6,
+  "text": "away from natural gas?",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1366.6,
+  "end": 1367.4,
+  "text": "Do we know?",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1369.2,
+  "end": 1371.3,
+  "text": "Or is that something worth exploring, I suppose?",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1374.1,
+  "end": 1375.2,
+  "text": "Who wants to take that?",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1379.6,
+  "end": 1380.5,
+  "text": "Through the chair?",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1380.5,
+  "end": 1381.3,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1381.3,
+  "end": 1382.4,
+  "text": "Yep, through the chair.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1382.4,
+  "end": 1384.2,
+  "text": "At this point, we're not exploring that",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1384.2,
+  "end": 1387.7,
+  "text": "and I'd have to look into it to find out the legitimacy",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1387.7,
+  "end": 1389.1,
+  "text": "or if we're able to actually do that,",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1389.1,
+  "end": 1392.8,
+  "text": "but I don't see why not just able to do that",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1392.8,
+  "end": 1399.2,
+  "text": "an additional cost maybe to our demand side management. Kate was saying there",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 1399.2,
+  "end": 1404.7,
+  "text": "that's our energy efficiency program so we could to boost that to offer more",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 1404.7,
+  "end": 1410.4,
+  "text": "incentives to customers we could add that as a way to raise additional funds",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 1410.4,
+  "end": 1415.5,
+  "text": "to provide those incentives to customers to make the transition easier on that",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 1415.5,
+  "end": 1420.0,
+  "text": "because that's what we're saying when the federal government had the heat pump",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 1420.0,
+  "end": 1425.1,
+  "text": "grant. There's a lot of people converting heat pump. Now that grant has been changed a little",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1425.1,
+  "end": 1430.7,
+  "text": "bit there, we're not seeing the uptake as we did before, but that is one thing. But we could look",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1430.7,
+  "end": 1434.6,
+  "text": "into the possibility of adding that additional charge.",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1435.7,
+  "end": 1437.9,
+  "text": "Ms. McGoldrick, you wanted to add something?",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1439.8,
+  "end": 1446.0,
+  "text": "Yes. And as part of the business activities themes, we do have a theme related to evaluating",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1446.0,
+  "end": 1453.6,
+  "text": "and future-proofing our gas rates. And so as part of that, it is looking at one, how would we fund any",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1453.6,
+  "end": 1459.9,
+  "text": "transitionary activities and what could that look like? We've also looked at, or we will be looking at",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1459.9,
+  "end": 1468.0,
+  "text": "fixed versus variable elements of the gas charges. And so I think that fits into what you're",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1468.0,
+  "end": 1475.1,
+  "text": "suggesting. I think we do need to look at our funding mechanisms and how we're, and what that",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1475.1,
+  "end": 1479.4,
+  "text": "looks like and so we'll take your specific suggestion away Councillor Davey",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1479.4,
+  "end": 1484.9,
+  "text": "but we do see that as part of that that team and body of work well and I think",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1484.9,
+  "end": 1488.9,
+  "text": "the other the other piece on that is that I know at least historically and",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1488.9,
+  "end": 1493.7,
+  "text": "that's partly probably part of what staff need to look at is we've tried to",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1493.7,
+  "end": 1499.0,
+  "text": "mirror the private sector companies and the approach that exists there so that",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1499.0,
+  "end": 1504.4,
+  "text": "it potentially doesn't change the preferred relationship that we currently",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1504.4,
+  "end": 1509.7,
+  "text": "have yeah exactly something worth exploring but again I don't want no one",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1509.7,
+  "end": 1515.5,
+  "text": "none of us want to be regulated by the OAB for a host of mostly cost reasons",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1515.5,
+  "end": 1523.3,
+  "text": "in terms of the prioritized or de-prioritized part of it I've been",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1523.3,
+  "end": 1529.6,
+  "text": "referencing the presentation and coming from environmental committee as well as",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1529.6,
+  "end": 1535.3,
+  "text": "referencing hydrogen, looking at hydrogen and to some extent renewable natural gas.",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 1535.5,
+  "end": 1541.0,
+  "text": "And I guess one of the things that I would suggest, I don't know if staff wants to comment on that now,",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 1541.1,
+  "end": 1547.7,
+  "text": "one of the things I would suggest we do early on is really look at the viability and the projections of both of these.",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 1548.7,
+  "end": 1556.5,
+  "text": "Like for my own interest, renewable natural gas is really, I don't think that's a great future path either,",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 1556.5,
+  "end": 1558.8,
+  "text": "only because it doesn't reduce carbon,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1558.9,
+  "end": 1560.0,
+  "text": "it sort of minimizes it,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1560.0,
+  "end": 1561.8,
+  "text": "and I don't want to be caught in the same situation",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1561.8,
+  "end": 1564.0,
+  "text": "where we were 20 years ago",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1564.0,
+  "end": 1564.8,
+  "text": "where everyone said,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1565.3,
+  "end": 1567.7,
+  "text": "stop coal, natural gas is clean,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1567.8,
+  "end": 1568.9,
+  "text": "and now we're at the same spot.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1569.5,
+  "end": 1571.1,
+  "text": "Groundhog Day, natural gas is bad.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1571.5,
+  "end": 1573.2,
+  "text": "Let's move to renewable natural gas.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1573.3,
+  "end": 1575.3,
+  "text": "So anyway, that's first a comment.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1575.6,
+  "end": 1576.5,
+  "text": "And then hydrogen,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1577.3,
+  "end": 1578.4,
+  "text": "I love the idea of hydrogen.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1578.4,
+  "end": 1580.9,
+  "text": "It's the most elegant chemical solution,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1581.0,
+  "end": 1583.0,
+  "text": "but I also think it's a pipe dream",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1583.0,
+  "end": 1584.3,
+  "text": "in terms of practicality.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1584.4,
+  "end": 1585.6,
+  "text": "I think the future is going to be electric",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1585.6,
+  "end": 1586.3,
+  "text": "one way or another,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1586.5,
+  "end": 1599.3,
+  "text": "So I would strongly suggest that we look into those alternatives early on and decide early on whether they're even like if they're like a long, long shot, let's not waste our time on it, frankly.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 1599.4,
+  "end": 1602.7,
+  "text": "Right. Let's look at how we transition to electric.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 1602.7,
+  "end": 1603.9,
+  "text": "And I'm just going to leave that as a comment.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 1604.0,
+  "end": 1606.3,
+  "text": "Staff doesn't have to comment back.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 1608.2,
+  "end": 1615.7,
+  "text": "The next actually that mentioned this in committee as well, but I do hope that we reach out to the municipality of Kingston.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 1615.7,
+  "end": 1621.5,
+  "text": "the only other municipality that has a gas utility, because hopefully they're looking at transitioning as well,",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 1621.6,
+  "end": 1625.1,
+  "text": "and hopefully we can share some costs and consultants and direction and that sort of thing,",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 1625.8,
+  "end": 1628.7,
+  "text": "so that we're not shouldering this all on our own.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 1629.6,
+  "end": 1637.1,
+  "text": "And the last bit of input I would provide is realizing that we own a majority of Innova and believing the future is electric.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 1637.3,
+  "end": 1644.0,
+  "text": "I think we really need to start having a discussion with Innova, looking at how we can best work with them,",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 1644.0,
+  "end": 1649.0,
+  "text": "how we fit into a future model because if we're going to be transitioning to a business they know",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1649.0,
+  "end": 1654.5,
+  "text": "well then i think there's some synergies there as well so those are my thoughts in random order thank",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1654.5,
+  "end": 1663.7,
+  "text": "you thanks councillor david councillor michaud thank you and thank you for your presentation i",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1663.7,
+  "end": 1666.9,
+  "text": "just have uh there's been a lot of questions that are already asked and comments made",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1666.9,
+  "end": 1672.1,
+  "text": "under the business activities could you elaborate on running a district or neighborhood utility",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1672.1,
+  "end": 1674.4,
+  "text": "and what would that look like?",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 1674.4,
+  "end": 1675.6,
+  "text": "Certainly.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 1675.6,
+  "end": 1677.2,
+  "text": "Thank you, through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 1678.6,
+  "end": 1681.0,
+  "text": "One of the, a good example is one",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 1681.0,
+  "end": 1685.5,
+  "text": "that I had already mentioned around the district energy system",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 1685.5,
+  "end": 1690.5,
+  "text": "that planning is leading the work on a feasibility study for.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 1694.4,
+  "end": 1697.8,
+  "text": "And that's probably the best known example.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 1697.8,
+  "end": 1705.8,
+  "text": "There are a number of other potential types of systems in different locations.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1706.8,
+  "end": 1708.3,
+  "text": "Some of them are in Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1708.4,
+  "end": 1713.1,
+  "text": "Others, I think, are being identified in other parts of the region as well.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1713.8,
+  "end": 1718.7,
+  "text": "And there's a lot of work happening through project through WR Community Energy.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1718.7,
+  "end": 1727.1,
+  "text": "And Mr. St. Louis is on the committee for that on behalf of KU.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1727.8,
+  "end": 1734.4,
+  "text": "looking at what are those other sort of nodes or areas that have a lot of potential.",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 1735.2,
+  "end": 1740.2,
+  "text": "And partly that's getting into examples around how we think about energy and heat.",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 1740.8,
+  "end": 1751.8,
+  "text": "And I often sort of highlight that we've had this very kind of top-down model of providing energy to folks for a very, not a very long time,",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 1752.3,
+  "end": 1757.4,
+  "text": "in kind of the near past, for sure, where, you know, we generate electricity or we buy natural gas",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 1757.4,
+  "end": 1760.5,
+  "text": "and we distribute it and it's used and that's kind of the end of it.",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1762.0,
+  "end": 1766.2,
+  "text": "Whereas what we're seeing in terms of new opportunities and trends",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1766.2,
+  "end": 1769.1,
+  "text": "is really thinking about how does energy move through our community?",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1769.4,
+  "end": 1774.6,
+  "text": "And so do we have areas that require both heating and cooling, for example?",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1774.7,
+  "end": 1778.1,
+  "text": "Can you pair a hospital that has a lot of high temperature heating needs",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1778.1,
+  "end": 1782.7,
+  "text": "around sterilization with a data center that needs a whole lot of cooling",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1782.7,
+  "end": 1784.4,
+  "text": "for its computer equipment, for example?",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1784.4,
+  "end": 1789.6,
+  "text": "and how do we move heat energy around, often using electricity,",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1790.3,
+  "end": 1793.3,
+  "text": "so that we can get much higher levels of efficiency",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1793.3,
+  "end": 1795.6,
+  "text": "with technologies like heat pumps, for example.",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1796.3,
+  "end": 1799.0,
+  "text": "And so there are some areas that are being explored",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1799.0,
+  "end": 1801.7,
+  "text": "in the broader community around that.",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1801.7,
+  "end": 1806.0,
+  "text": "And then we also have questions around the utility services",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1806.0,
+  "end": 1810.1,
+  "text": "we provide in existing or new neighbourhoods, for example,",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1810.3,
+  "end": 1812.0,
+  "text": "and I think we want to take a look at",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1812.0,
+  "end": 1815.7,
+  "text": "what is really the range of types of utility services",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1815.7,
+  "end": 1816.8,
+  "text": "we could be providing,",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1817.0,
+  "end": 1819.6,
+  "text": "particularly from kind of a heating and cooling perspective?",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1820.7,
+  "end": 1824.4,
+  "text": "And, you know, is there a role that those could play",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1824.4,
+  "end": 1827.2,
+  "text": "in kind of our strategy direction?",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1827.5,
+  "end": 1828.4,
+  "text": "So there's some different pieces.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1828.6,
+  "end": 1830.9,
+  "text": "Some of that is work that's underway in existing projects,",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1830.9,
+  "end": 1833.0,
+  "text": "and some of it hasn't been explored much yet.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1834.4,
+  "end": 1834.7,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1834.9,
+  "end": 1835.2,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1836.4,
+  "end": 1837.2,
+  "text": "Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1840.8,
+  "end": 1841.6,
+  "text": "You were on.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1842.0,
+  "end": 1844.3,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1845.5,
+  "end": 1846.4,
+  "text": "Thank you, Mr. Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1847.0,
+  "end": 1849.2,
+  "text": "And thank you so much for the presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1849.7,
+  "end": 1852.0,
+  "text": "So I wanted to touch on a couple of things.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1852.0,
+  "end": 1855.1,
+  "text": "So under number three, contribute to a thriving community.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1856.4,
+  "end": 1859.8,
+  "text": "And one way of doing that is to collaborate with partners.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1860.6,
+  "end": 1865.8,
+  "text": "And under four, plan for multiple energy futures with flexibility and focus.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1866.3,
+  "end": 1870.0,
+  "text": "I'm hoping that we're utilizing our post-secondary institutions here.",
+  "no_speech": 0.0,
+  "logprob": -0.236,
+  "source": "whisper"
+ },
+ {
+  "start": 1870.0,
+  "end": 1883.5,
+  "text": "And we have all three schools I know have faculty members and students on a regular basis that are looking at these complex issues and looking towards ways of solving those.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1883.6,
+  "end": 1886.4,
+  "text": "How are we utilizing those partnerships or are we?",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1887.5,
+  "end": 1887.8,
+  "text": "Thanks.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1889.5,
+  "end": 1890.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1890.4,
+  "end": 1891.0,
+  "text": "Through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1891.0,
+  "end": 1904.4,
+  "text": "Certainly utilizing those partnerships, and I think especially in cases where there's kind of established or emerging research groups around different areas of focus.",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 1904.4,
+  "end": 1912.3,
+  "text": "I know a recent example of that would be kind of a hydrogen group that's been forming, I believe, out of the University of Waterloo.",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 1912.6,
+  "end": 1922.3,
+  "text": "And we've had reps from KU, from the Sustainability Office, participating in a conference that they had recently as well",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 1922.3,
+  "end": 1931.0,
+  "text": "and having some opportunities for kind of that cross-collaboration with researchers and others who, you know,",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 1931.0,
+  "end": 1933.9,
+  "text": "we need to make opportunities to get in the same room.",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 1934.4,
+  "end": 1942.3,
+  "text": "And I think we're seeing, you know, stepping a bit sideways from the post-secondary institutions",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1942.3,
+  "end": 1942.7,
+  "text": "for a moment.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1942.9,
+  "end": 1947.4,
+  "text": "I think my sense is that I'm seeing more and more of that across different types of",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1947.4,
+  "end": 1951.9,
+  "text": "groups related to energy transition work, many of them research institutions, but also",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1951.9,
+  "end": 1952.5,
+  "text": "others.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1953.9,
+  "end": 1959.0,
+  "text": "I am seeing that we have more and more opportunities to connect on specific items.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1959.0,
+  "end": 1964.3,
+  "text": "And as we start to scope out the particular business activities and what we need to know",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1964.3,
+  "end": 1968.3,
+  "text": "about them to be able to answer the question of whether they might play a role.",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1968.9,
+  "end": 1972.1,
+  "text": "We really do want to see, you know, what are the resources out there?",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1972.1,
+  "end": 1976.2,
+  "text": "We know we're likely to need some consulting support in a number of areas, whether that's",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1976.2,
+  "end": 1978.2,
+  "text": "sort of technical or business consulting support.",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1979.0,
+  "end": 1984.3,
+  "text": "But there often are these partnership opportunities that can get us, you know, connected with",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1984.3,
+  "end": 1989.1,
+  "text": "the best information and also helping researchers to really focus their work on areas that are",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1989.1,
+  "end": 1995.2,
+  "text": "going to make a big difference in the way municipalities or other utilities are working.",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 1995.5,
+  "end": 1999.9,
+  "text": "So we're definitely pursuing those, and I'm excited about the ones that are underway as well.",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 2001.1,
+  "end": 2007.5,
+  "text": "Okay, so if I heard correctly then, I think you said that in some ways we are working with them.",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 2008.6,
+  "end": 2015.6,
+  "text": "I'll just put it out there that these are things that these profs are working on. They need to do",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 2015.6,
+  "end": 2019.9,
+  "text": "research, if they can do research in the community, that's amazing for them.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2019.9,
+  "end": 2026.5,
+  "text": "And they're looking for opportunities, all three post-secondary institutions.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2026.7,
+  "end": 2031.4,
+  "text": "So I would strongly recommend having some of those bright, fresh young minds help us",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2031.4,
+  "end": 2035.4,
+  "text": "because truly these are the things they are going to be living with as well.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2035.7,
+  "end": 2036.0,
+  "text": "Thanks.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2037.1,
+  "end": 2038.4,
+  "text": "Thanks, Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2038.4,
+  "end": 2045.9,
+  "text": "and that appears to be all of the questions or feedback that we have.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2046.5,
+  "end": 2049.6,
+  "text": "So thank you very much for today's presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2050.5,
+  "end": 2055.6,
+  "text": "I'll now take a motion to go in camera for the two listed items.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2056.1,
+  "end": 2058.5,
+  "text": "Moved by Councillor Inieta, seconded by Councillor Chapman.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2058.6,
+  "end": 2061.5,
+  "text": "All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2061.6,
+  "end": 2062.6,
+  "text": "Motion to adjourn.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2062.9,
+  "end": 2066.3,
+  "text": "Moved by Councillor Michaud, seconded by Councillor Schnider.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2066.3,
+  "end": 2068.3,
+  "text": "All those in favor, opposed.",
+  "no_speech": 0.0,
+  "logprob": -0.317,
+  "source": "whisper"
+ },
+ {
+  "start": 2068.4,
+  "end": 2069.0,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.317,
+  "source": "whisper"
+ },
+ {
+  "start": 2069.2,
+  "end": 2069.6,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.317,
+  "source": "whisper"
+ },
+ {
+  "start": 2070.5,
+  "end": 2071.9,
+  "text": "And we'll go right into caucus.",
+  "no_speech": 0.0,
+  "logprob": -0.317,
+  "source": "whisper"
+ }
+]

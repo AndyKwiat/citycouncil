@@ -1,0 +1,3586 @@
+[
+ {
+  "start": 0.0,
+  "end": 30.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.38,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.258,
+  "source": "whisper"
+ },
+ {
+  "start": 90.0,
+  "end": 96.2,
+  "text": "Good evening everyone and welcome to the special council meeting on September 16, 2024.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 96.2,
+  "end": 100.0,
+  "text": "Individuals interested in participating in this evening's meeting were eligible to register",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 100.0,
+  "end": 108.0,
+  "text": "online using the delegation registration form at www.kitchener.ca slash delegation or via",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 108.0,
+  "end": 113.4,
+  "text": "email at delegation at kitchener.ca. Any written comments received prior to the commencement",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 113.4,
+  "end": 118.4,
+  "text": "of this evening's meeting have been circulated to members of council and will form part of",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 118.4,
+  "end": 125.7,
+  "text": "the public record. The meeting live stream and archived videos are available at www.kitchener.ca",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 125.7,
+  "end": 131.7,
+  "text": "slash watch now. Before we begin this evening's meeting, I'd like to acknowledge that",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 131.7,
+  "end": 137.0,
+  "text": "this evening we're gathering on the traditional territory of the neutral Anishinaabe and Haudenosaunee",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 137.0,
+  "end": 142.2,
+  "text": "peoples. We recognize our responsibility to serve as stewards for the land and honor the original",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 142.2,
+  "end": 147.3,
+  "text": "caretakers who came before us. Our community is enriched by the enduring knowledge and deep-rooted",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 147.3,
+  "end": 153.7,
+  "text": "traditions of the diverse First Nations, Métis and Inuit in Kitchener today.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 153.7,
+  "end": 157.3,
+  "text": "Before I begin the meeting, I'd just like to share with our viewing audience that this",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 157.3,
+  "end": 164.7,
+  "text": "evening we're starting with a new audiovisual system in the Council Chamber.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 164.7,
+  "end": 171.2,
+  "text": "So we are working through some details with it on the first time, so please bear with",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 171.2,
+  "end": 174.5,
+  "text": "us if we have any glitches along the way.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 174.5,
+  "end": 183.0,
+  "text": "I will also note for any speakers that we do now have a five-minute timer that is present.",
+  "no_speech": 0.0,
+  "logprob": -0.116,
+  "source": "whisper"
+ },
+ {
+  "start": 183.0,
+  "end": 189.1,
+  "text": "You'll see that timer on your screen in front of you and the timer will allow you or will",
+  "no_speech": 0.0,
+  "logprob": -0.116,
+  "source": "whisper"
+ },
+ {
+  "start": 189.1,
+  "end": 197.8,
+  "text": "give you a 30-second warning with a little sort of tinking bell that will let you know",
+  "no_speech": 0.0,
+  "logprob": -0.116,
+  "source": "whisper"
+ },
+ {
+  "start": 197.8,
+  "end": 202.9,
+  "text": "that you have 30 seconds left to finish your comments.",
+  "no_speech": 0.0,
+  "logprob": -0.116,
+  "source": "whisper"
+ },
+ {
+  "start": 202.9,
+  "end": 207.9,
+  "text": "With that, are there any disclosures of pecuniary interest?",
+  "no_speech": 0.0,
+  "logprob": -0.401,
+  "source": "whisper"
+ },
+ {
+  "start": 207.9,
+  "end": 211.9,
+  "text": "Councillor Davey.",
+  "no_speech": 0.0,
+  "logprob": -0.401,
+  "source": "whisper"
+ },
+ {
+  "start": 232.9,
+  "end": 247.9,
+  "text": "There we go. Okay. Great. Are there any disclosures of pecuniary interest? No, not in this committee.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 247.9,
+  "end": 254.9,
+  "text": "So with that, and there aren't any delegations, so I'll go into financing corporate services",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 254.9,
+  "end": 258.5,
+  "text": "and call on Councillor Davey at this point.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 258.5,
+  "end": 266.9,
+  "text": "Go ahead Councillor Davey. Thank you. I move myself and seconded by Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 266.9,
+  "end": 271.3,
+  "text": "Ioannidis that the two items from Finance and Corporate Services Committee be adopted.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 271.3,
+  "end": 287.0,
+  "text": "Okay. Thank you. Any discussion? If there isn't, all those in favour? All those opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 287.0,
+  "end": 292.2,
+  "text": "And that is carried. We'll now move on to staff reports and we have",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 292.2,
+  "end": 296.8,
+  "text": "an item pertaining to the community sport and recreation infrastructure fund and the",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 296.8,
+  "end": 303.9,
+  "text": "Kitchener Indoor Recreation Complex gymnasium and I'd invite Mr. Siddiqui, our manager of",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 303.9,
+  "end": 311.3,
+  "text": "project manager of customer experience who will provide a presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 311.3,
+  "end": 314.2,
+  "text": "Mr. Siddiqui.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 314.2,
+  "end": 316.6,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 316.6,
+  "end": 321.0,
+  "text": "Good afternoon members of council.",
+  "no_speech": 0.0,
+  "logprob": -0.381,
+  "source": "whisper"
+ },
+ {
+  "start": 321.0,
+  "end": 327.9,
+  "text": "We're here today to present an exciting proposal to build a quad gym at the existing RBJ",
+  "no_speech": 0.0,
+  "logprob": -0.381,
+  "source": "whisper"
+ },
+ {
+  "start": 327.9,
+  "end": 329.8,
+  "text": "Schlegel Park.",
+  "no_speech": 0.0,
+  "logprob": -0.381,
+  "source": "whisper"
+ },
+ {
+  "start": 329.8,
+  "end": 343.3,
+  "text": "And I'd like to start with some key details of the proposal.",
+  "no_speech": 0.0,
+  "logprob": -0.381,
+  "source": "whisper"
+ },
+ {
+  "start": 343.3,
+  "end": 344.8,
+  "text": "The remote is, yeah.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 348.2,
+  "end": 349.3,
+  "text": "Yeah, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 350.2,
+  "end": 354.0,
+  "text": "So what we're proposing is a 33,800 square foot gym",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 354.0,
+  "end": 357.2,
+  "text": "that would include four multipurpose courts",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 357.2,
+  "end": 359.8,
+  "text": "to support fast-growing sports,",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 359.9,
+  "end": 362.9,
+  "text": "such as pickleball, basketball, volleyball, and badminton.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 363.7,
+  "end": 367.0,
+  "text": "The quad gym would have 40-foot clear ceilings",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 367.0,
+  "end": 369.1,
+  "text": "and competition-level flooring",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 369.1,
+  "end": 372.2,
+  "text": "to support provincial and national tournaments.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 372.2,
+  "end": 377.8,
+  "text": "It would also incorporate an elevated mezzanine gallery for optimal viewing experience.",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 378.8,
+  "end": 384.3,
+  "text": "This gym would be physically connected to the current Kitchener Indoor Recreational Complex build,",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 385.0,
+  "end": 392.0,
+  "text": "so it would be able to take advantage of shared spaces, such as change rooms, concessions, reception,",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 392.7,
+  "end": 395.1,
+  "text": "and even shared infrastructure, such as parking.",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 396.1,
+  "end": 400.3,
+  "text": "The quad gym is also planned to be a future tournament destination,",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 400.3,
+  "end": 406.9,
+  "text": "which will lead to direct impacts and revenue to the city as well as other economic impacts.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 408.5,
+  "end": 413.6,
+  "text": "The reason we're bringing this to you today is we believe that there is a current opportunity",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 413.6,
+  "end": 421.1,
+  "text": "to build this gymnasium along with the Kirk build. Building the gym now means it will cost less",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 421.1,
+  "end": 429.4,
+  "text": "and open sooner. So the cost of building the gym now is $29.9 million and we believe the timeline",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 429.4,
+  "end": 435.3,
+  "text": "is that we could open this gym in the summer of 2026 along with the current current build.",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 436.4,
+  "end": 442.1,
+  "text": "Just waiting until after the current current build is complete, so that's less than two years,",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 442.1,
+  "end": 451.1,
+  "text": "would up the price, the cost of this project to $38 million, a 30% increase. It will also mean that",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 451.1,
+  "end": 457.7,
+  "text": "given how projects start and getting a new team on board, that we're likely looking at five plus",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 457.7,
+  "end": 465.0,
+  "text": "years after 2026 when this is built. Costs would also then continue to escalate 3 to 5 percent",
+  "no_speech": 0.0,
+  "logprob": -0.096,
+  "source": "whisper"
+ },
+ {
+  "start": 465.0,
+  "end": 473.3,
+  "text": "year on year after 2026. I just want to show you some key visuals from our design concept",
+  "no_speech": 0.0,
+  "logprob": -0.096,
+  "source": "whisper"
+ },
+ {
+  "start": 473.3,
+  "end": 479.3,
+  "text": "to give you a better understanding of what we're proposing. Here on your screen you'll see the",
+  "no_speech": 0.0,
+  "logprob": -0.096,
+  "source": "whisper"
+ },
+ {
+  "start": 479.3,
+  "end": 486.5,
+  "text": "main entrance with the gym attached so that's in the red square. Here is from further south in the",
+  "no_speech": 0.0,
+  "logprob": -0.096,
+  "source": "whisper"
+ },
+ {
+  "start": 486.5,
+  "end": 493.7,
+  "text": "parking so you can see the entirety of the gym proposal. Here's what it would look like from the",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 493.7,
+  "end": 501.1,
+  "text": "interior main lobbies. As you walk in, you'd have the Aquatic Center to the left, the future proposed",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 501.1,
+  "end": 507.9,
+  "text": "gym to the right, and as you can see, the field house straight down the hall. So you'd see all",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 507.9,
+  "end": 514.5,
+  "text": "those spaces as you walk in, so it would work really well as an addition to the current Kirk",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 514.5,
+  "end": 521.4,
+  "text": "build. This is the layout. So as you see, the gray spot in here is the only thing that we're",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 521.4,
+  "end": 528.3,
+  "text": "talking about as a future build for this project. The other spots are all part of the current build.",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 528.3,
+  "end": 534.2,
+  "text": "So the blue aquatic center to the top of your screen, the purple multipurpose areas to the right,",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 534.6,
+  "end": 539.8,
+  "text": "and the green field houses to the bottom right of your screen. Those are all part of the current",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 539.8,
+  "end": 548.1,
+  "text": "build. The gray quad gymnasium with the four full courts is what we're proposing as the future build.",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 548.2,
+  "end": 555.3,
+  "text": "So those are four full courts stacked side to side, which can also be used as two show courts",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 555.3,
+  "end": 564.3,
+  "text": "end to end for larger events. We also want to talk about the proposed budget and funding plan",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 564.3,
+  "end": 571.0,
+  "text": "that staff have prepared. The cost is, again, $29.9 million if we're building it with the current",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 571.0,
+  "end": 578.5,
+  "text": "Couric build, and we're proposing three potential funding sources. So $10 million for the Community,",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 578.7,
+  "end": 584.3,
+  "text": "Sport, and Recreation Infrastructure Fund, which is a provincial fund, $10 million from a federal",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 584.3,
+  "end": 589.3,
+  "text": "fund application, the Green and Inclusive Community Buildings Grant, and $10 million",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 589.3,
+  "end": 597.8,
+  "text": "city contribution financed through future finance through debt. The proposal from staff is that if",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 597.8,
+  "end": 605.2,
+  "text": "we receive either the provincial or the federal funding, the project proceeds and the city fund",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 605.2,
+  "end": 612.4,
+  "text": "the remaining cost from debt up to a total of $20 million in debt. And if we do not receive the",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 612.4,
+  "end": 619.3,
+  "text": "provincial and the federal funding, the GIM project do not proceed. And so just to summarize,",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 619.3,
+  "end": 625.3,
+  "text": "those key next steps and the timeline, we believe meeting these following milestones would allow for",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 625.3,
+  "end": 631.5,
+  "text": "the gym to be built at the same time as the current ongoing Kirk build. Versus today, we ask City",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 631.5,
+  "end": 636.5,
+  "text": "Council to direct staff to submit funding applications for both the provincial and federal",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 636.5,
+  "end": 645.3,
+  "text": "applications. Once those are applied, we are targeting a decision on those grants by the end",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 645.3,
+  "end": 652.2,
+  "text": "of 2024. Having that decision by the end of this year would allow us to begin construction on this",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 652.2,
+  "end": 659.7,
+  "text": "gym by April of 2025 and that would then mean that this would be complete and ready for public",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 659.7,
+  "end": 666.2,
+  "text": "in the summer of 2026. We're now open to questions from members of council.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 667.9,
+  "end": 672.0,
+  "text": "Okay thank you very much. We have several questions. Councillor Schnider.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 672.0,
+  "end": 674.9,
+  "text": "Thank you, Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 674.9,
+  "end": 675.9,
+  "text": "Thanks for this.",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 675.9,
+  "end": 678.4,
+  "text": "It's just a question.",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 678.4,
+  "end": 681.0,
+  "text": "This is included in what we're building now.",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 681.0,
+  "end": 684.4,
+  "text": "Is this also part of the integrated project delivery?",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 684.4,
+  "end": 690.4,
+  "text": "So as a project, it would be a separate project, but we would run it by the same principles",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 690.4,
+  "end": 692.3,
+  "text": "and we run it with the same team.",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 692.3,
+  "end": 697.8,
+  "text": "So having an integrated project delivery allows us to be flexible and add this on without",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 697.8,
+  "end": 700.5,
+  "text": "having to go through a new tender process.",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 700.5,
+  "end": 706.1,
+  "text": "So that's one of the elements which we feel would make this project really attractive",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 706.1,
+  "end": 712.1,
+  "text": "for funding opportunities, is that this could open in summer 2026 really faster than most",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 712.1,
+  "end": 714.7,
+  "text": "other projects that would be applying for this fund.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 714.7,
+  "end": 718.9,
+  "text": "So then everything could open at the exact same time.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 718.9,
+  "end": 724.0,
+  "text": "There's no, you know, we get part one built, but then we'd have to go back and have a construction",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 724.0,
+  "end": 727.9,
+  "text": "mess and extra cost and safety, maybe some safety concerns.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 727.9,
+  "end": 728.9,
+  "text": "Correct.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 728.9,
+  "end": 733.0,
+  "text": "follow those key timelines, we do believe that this can all be built and delivered at",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 733.0,
+  "end": 736.8,
+  "text": "the same time. Okay. Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 736.8,
+  "end": 743.4,
+  "text": "Councillor Ioannidis. Thank you, Mayor Vrbanovic and thanks, Osama,",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 743.4,
+  "end": 749.4,
+  "text": "for your report. My question is with regards to the provincial and federal funding. How",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 749.4,
+  "end": 757.1,
+  "text": "much is that a factor in presenting this option today?",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 757.1,
+  "end": 763.2,
+  "text": "So the availability of that funding is why we bought this today. This gym was",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 763.2,
+  "end": 767.4,
+  "text": "not proposed as part of the current build because we couldn't afford it but",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 767.4,
+  "end": 771.3,
+  "text": "having these funds available these grants recently announced a provincial",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 771.3,
+  "end": 776.8,
+  "text": "funding was recently announced and if we get that that's the proposal that we",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 776.8,
+  "end": 783.7,
+  "text": "would then be able to afford the gym. Okay. With the recent political culture",
+  "no_speech": 0.0,
+  "logprob": -0.198,
+  "source": "whisper"
+ },
+ {
+  "start": 783.7,
+  "end": 790.8,
+  "text": "that's been going on in the province and in the federal level, how confident are we that",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 790.8,
+  "end": 795.4,
+  "text": "if we do get these that they will be given to us?",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 795.4,
+  "end": 802.0,
+  "text": "I think that's a question probably for Mr. May.",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 802.0,
+  "end": 804.0,
+  "text": "Mr. May.",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 804.0,
+  "end": 808.9,
+  "text": "Through you, Mr. Chair, I've learned in my time never to guess on which federal or provincial",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 808.9,
+  "end": 810.5,
+  "text": "grants we're going to get.",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 810.5,
+  "end": 815.2,
+  "text": "What I can tell you is we looked very closely at the criteria for both of these grants and",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 815.2,
+  "end": 817.9,
+  "text": "we feel that this proposal is a very good fit.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 817.9,
+  "end": 818.9,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 818.9,
+  "end": 822.2,
+  "text": "I guess that raises a question for me too.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 822.2,
+  "end": 826.7,
+  "text": "How secure is the current funding that we've got for this facility?",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 826.7,
+  "end": 834.6,
+  "text": "So through you, Mr. Chair, the funding that Council previously approved was a combination",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 834.6,
+  "end": 838.5,
+  "text": "of federal, provincial and municipal funding and that has all been fully secured.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 838.5,
+  "end": 839.5,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 839.5,
+  "end": 840.5,
+  "text": "Excellent.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 840.5,
+  "end": 850.6,
+  "text": "Councillor Singh. Thank you, Mr. Mayor. I was going to ask on",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 850.6,
+  "end": 855.0,
+  "text": "the same line of question as Councillor Ioannidis, so I'll go back to Mr. May. You did answer",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 855.0,
+  "end": 858.6,
+  "text": "and I agree with you. It's absolutely unfair for staff to be able to answer if you're going",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 858.6,
+  "end": 863.4,
+  "text": "to get this funding or not. I have complete confidence in our staff to put forward a very",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 863.4,
+  "end": 869.1,
+  "text": "appropriate application that will showcase, I guess, the environmental benefits of this",
+  "no_speech": 0.0,
+  "logprob": -0.207,
+  "source": "whisper"
+ },
+ {
+  "start": 869.1,
+  "end": 871.0,
+  "text": "site and why we should be eligible.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 871.0,
+  "end": 875.8,
+  "text": "That be said, I think Councillor Ioannidis was trying to touch on the uncertainty of",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 875.8,
+  "end": 881.3,
+  "text": "a government change and provided that we get the funding and there's a change of government,",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 881.3,
+  "end": 886.6,
+  "text": "could there be a scenario where that funding approved could be taken away from us?",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 886.6,
+  "end": 893.3,
+  "text": "And then in qualifying the fact that we are proceeding in a very expeditious timelines",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 893.3,
+  "end": 898.6,
+  "text": "of construction, the fact that we're constructing immediately right now, does that give us greater",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 898.6,
+  "end": 904.0,
+  "text": "security on this funding? Through you, Mr. Chair, certainly moving",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 904.0,
+  "end": 908.1,
+  "text": "as quickly as we are, I mean, we'll be one of the first municipalities, I believe, to",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 908.1,
+  "end": 915.0,
+  "text": "apply is helpful. I think it's fair to say that any future government can make any decision",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 915.0,
+  "end": 920.2,
+  "text": "they want. The faster that we could get an announcement and make a public announcement",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 920.2,
+  "end": 924.1,
+  "text": "and then look at the terms of the agreement, I think the better it will be to avoid the",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 924.1,
+  "end": 926.0,
+  "text": "risk of any funding being pulled.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 926.0,
+  "end": 927.0,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 927.0,
+  "end": 931.7,
+  "text": "I definitely see the added benefits of this application of us looking at this approach",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 931.7,
+  "end": 938.5,
+  "text": "because it was you who wasn't initially ready to propose the gymnasium part of the build",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 938.5,
+  "end": 942.1,
+  "text": "because we didn't have the funding outlined.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 942.1,
+  "end": 946.5,
+  "text": "So addressing the application, how much of a better position are we because we've gone",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 946.5,
+  "end": 953.6,
+  "text": "through the, I'm trying to remember the acronym IPD or the integrated development process",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 953.6,
+  "end": 958.3,
+  "text": "And the fact that we have the timeline that we can be able to build and get this site",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 958.3,
+  "end": 963.4,
+  "text": "up and running, how much does it get us through the goal gate faster?",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 963.4,
+  "end": 964.4,
+  "text": "Yes.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 964.4,
+  "end": 968.8,
+  "text": "So through you, Mr. Chair, we've looked at the grant criteria and we believe that by",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 968.8,
+  "end": 973.4,
+  "text": "using the IPD model, that sets us up very well for potential success.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 973.4,
+  "end": 975.7,
+  "text": "And then as you've alluded, you're bang on.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 975.7,
+  "end": 981.1,
+  "text": "The fact that we could potentially open a facility in 2026, I think will be a very rare",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 981.1,
+  "end": 982.4,
+  "text": "thing across the country.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 982.4,
+  "end": 983.4,
+  "text": "Excellent.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 983.4,
+  "end": 988.6,
+  "text": "Thank you. One last question. Maybe too early, but again, I like the numbers. I like whenever",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 988.6,
+  "end": 993.5,
+  "text": "there's efficiencies or generation of money. The fact that we did look at being able to",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 993.5,
+  "end": 999.1,
+  "text": "bring, you know, tournaments or there is a revenue generation capacity of a larger site",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 999.1,
+  "end": 1005.5,
+  "text": "like this. What would be the loss of revenue if we were to delay and build down the road",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1005.5,
+  "end": 1009.3,
+  "text": "one side from the fact that it will cost us more, but what kind of opportunities would",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1009.3,
+  "end": 1013.5,
+  "text": "would be we be missing out on if you don't build it now all together as an",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1013.5,
+  "end": 1019.2,
+  "text": "integrated site through you mr. chair we haven't looked at like the overall like",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1019.2,
+  "end": 1024.4,
+  "text": "a revenue impact we haven't mapped out the revenues for this for the gymnasium",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1024.4,
+  "end": 1029.3,
+  "text": "but we do know that having this gymnasium along with you know our",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1029.3,
+  "end": 1035.1,
+  "text": "existing park facilities the existing Kirk build all that space together like",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1035.1,
+  "end": 1044.2,
+  "text": "if we had that, that would really set this site apart, you know, in Ontario as a premier destination,",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1044.4,
+  "end": 1050.2,
+  "text": "both for our community, fulfilling our community need, and a premier destination for sports, events, and tournaments.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1050.7,
+  "end": 1056.0,
+  "text": "So not having that gym means, as we've currently proposed, we're building a great facility,",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1056.6,
+  "end": 1061.0,
+  "text": "but we just will miss that one piece that would really set us apart in the province.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1061.0,
+  "end": 1070.0,
+  "text": "Okay. Go ahead, Councillor Singh.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 1070.0,
+  "end": 1074.9,
+  "text": "What you said, that really sells it, but you already had me at government funding,",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 1074.9,
+  "end": 1079.1,
+  "text": "so. Thank you, Councillor Singh.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 1079.1,
+  "end": 1083.1,
+  "text": "Councillor Chapman. Thank you and thank you for the presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 1083.1,
+  "end": 1088.3,
+  "text": "So we're talking at minimum $9 or $10 million versus $20 million.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 1088.3,
+  "end": 1090.3,
+  "text": "What would this do to the property taxes?",
+  "no_speech": 0.0,
+  "logprob": -0.25,
+  "source": "whisper"
+ },
+ {
+  "start": 1090.3,
+  "end": 1094.3,
+  "text": "I mean, we're about to enter the budget period.",
+  "no_speech": 0.0,
+  "logprob": -0.25,
+  "source": "whisper"
+ },
+ {
+  "start": 1094.3,
+  "end": 1101.3,
+  "text": "Do you have any idea of what that would mean or what would be coming forward in that regard?",
+  "no_speech": 0.0,
+  "logprob": -0.25,
+  "source": "whisper"
+ },
+ {
+  "start": 1101.3,
+  "end": 1106.3,
+  "text": "Mr. Lachenbach.",
+  "no_speech": 0.0,
+  "logprob": -0.25,
+  "source": "whisper"
+ },
+ {
+  "start": 1106.3,
+  "end": 1110.2,
+  "text": "So through the chair, this project would be fully funded from development charges and",
+  "no_speech": 0.0,
+  "logprob": -0.25,
+  "source": "whisper"
+ },
+ {
+  "start": 1110.2,
+  "end": 1111.2,
+  "text": "that's still the plan.",
+  "no_speech": 0.0,
+  "logprob": -0.25,
+  "source": "whisper"
+ },
+ {
+  "start": 1111.2,
+  "end": 1116.7,
+  "text": "So it's development charge revenue that will repay the debt costs if there are costs associated",
+  "no_speech": 0.0,
+  "logprob": -0.25,
+  "source": "whisper"
+ },
+ {
+  "start": 1116.7,
+  "end": 1118.3,
+  "text": "with that for this gymnasium.",
+  "no_speech": 0.0,
+  "logprob": -0.25,
+  "source": "whisper"
+ },
+ {
+  "start": 1118.3,
+  "end": 1124.0,
+  "text": "So there's no impact on property taxes as a result of a decision to proceed with this project.",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1124.0,
+  "end": 1128.9,
+  "text": "What the grant funding does do, it does help with cash flow for building this facility,",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1129.1,
+  "end": 1135.6,
+  "text": "and so that's why these two grant opportunities coming at this time is a great opportunity for us to move forward with something",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1135.6,
+  "end": 1141.4,
+  "text": "that before we were a little bit more concerned in terms of a large cost.",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1142.0,
+  "end": 1144.3,
+  "text": "This would certainly help with mitigating that.",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1144.8,
+  "end": 1146.0,
+  "text": "Right. Okay, that's great.",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1146.0,
+  "end": 1150.0,
+  "text": "I also, just a question about the five-year period.",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1151.0,
+  "end": 1155.5,
+  "text": "Why would it take five years if we hold off until the other facility is done?",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1155.8,
+  "end": 1157.5,
+  "text": "Like an additional five years versus...",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1157.5,
+  "end": 1161.5,
+  "text": "So that's not, through the chair, so that's not a set in stone,",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1161.6,
+  "end": 1164.3,
+  "text": "but just how we know that projects proceed in the city.",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1164.7,
+  "end": 1168.3,
+  "text": "That if we have an existing building, then to consider adding on,",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1168.4,
+  "end": 1171.9,
+  "text": "where you'd have to put up a hoarding, you'd have to shut down parts of the parking,",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1172.4,
+  "end": 1174.8,
+  "text": "you'd have to hire a new design team,",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1174.8,
+  "end": 1176.5,
+  "text": "we'd have to go through permitting process.",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 1177.0,
+  "end": 1181.0,
+  "text": "So all that, just to consider that, bring it to council, go through it.",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 1181.3,
+  "end": 1183.8,
+  "text": "Just given what we know with how other projects have gone,",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 1184.0,
+  "end": 1188.2,
+  "text": "we think that it would be at least five years before we would be able to open this",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 1188.2,
+  "end": 1191.6,
+  "text": "if we waited to complete the existing build first.",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 1191.8,
+  "end": 1192.4,
+  "text": "Right, okay.",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 1193.1,
+  "end": 1194.6,
+  "text": "And one last question.",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 1196.7,
+  "end": 1201.9,
+  "text": "Just regarding the grants, can you get more than $10 million or is that the max?",
+  "no_speech": 0.0,
+  "logprob": -0.218,
+  "source": "whisper"
+ },
+ {
+  "start": 1204.8,
+  "end": 1211.4,
+  "text": "Mr. May. Through you, Mr. Chair, for the provincial",
+  "no_speech": 0.0,
+  "logprob": -0.292,
+  "source": "whisper"
+ },
+ {
+  "start": 1211.4,
+  "end": 1215.3,
+  "text": "grant that is the max that you can apply for. For the federal, I believe you can go a bit",
+  "no_speech": 0.0,
+  "logprob": -0.292,
+  "source": "whisper"
+ },
+ {
+  "start": 1215.3,
+  "end": 1218.3,
+  "text": "higher than that. But we've done some analysis and believe",
+  "no_speech": 0.0,
+  "logprob": -0.292,
+  "source": "whisper"
+ },
+ {
+  "start": 1218.3,
+  "end": 1222.4,
+  "text": "that the more you ask, the less likely you are to get it. So we think that's the right",
+  "no_speech": 0.0,
+  "logprob": -0.292,
+  "source": "whisper"
+ },
+ {
+  "start": 1222.4,
+  "end": 1224.8,
+  "text": "number. Okay. Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.292,
+  "source": "whisper"
+ },
+ {
+  "start": 1224.8,
+  "end": 1230.4,
+  "text": "Councillor Stretch. Thank you, Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.292,
+  "source": "whisper"
+ },
+ {
+  "start": 1230.4,
+  "end": 1232.5,
+  "text": "Mr. Siddiqui or Siddiqui?",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1232.9,
+  "end": 1233.3,
+  "text": "Siddiqui.",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1233.6,
+  "end": 1234.0,
+  "text": "Siddiqui.",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1235.4,
+  "end": 1236.9,
+  "text": "Yeah, thank you for the presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1237.1,
+  "end": 1241.0,
+  "text": "I was trying to figure out, it looks like four full-size basketball courts,",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1242.1,
+  "end": 1245.0,
+  "text": "then eight if you use cross courts, volleyball courts,",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1245.3,
+  "end": 1248.2,
+  "text": "and then how many pickleball courts and badminton courts is that?",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1249.1,
+  "end": 1252.9,
+  "text": "So through you, Mr. Chair, so four full basketball courts,",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1253.0,
+  "end": 1256.2,
+  "text": "so it's one volleyball court per court there as well.",
+  "no_speech": 0.0,
+  "logprob": -0.335,
+  "source": "whisper"
+ },
+ {
+  "start": 1256.2,
+  "end": 1266.1,
+  "text": "But each basketball court, you could fit four or five, depending on our layout, a minimum four or up to five pickleball or badminton courts on each court.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 1266.4,
+  "end": 1277.0,
+  "text": "So we're looking at if you use, for example, as an event space and you just had a pickleball tournament going on, 16 to 20 pickleball courts at one time in this facility.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 1278.4,
+  "end": 1279.0,
+  "text": "Right.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 1281.6,
+  "end": 1284.4,
+  "text": "Sorry, I got stuck on volleyball.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 1284.4,
+  "end": 1289.9,
+  "text": "But can't you run two extra another court on each basketball court?",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1290.7,
+  "end": 1295.5,
+  "text": "The ideal space, if you want to have runoff and all, you still want to keep it to one.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1295.6,
+  "end": 1299.1,
+  "text": "Like you can maybe run two junior volleyball courts on one basketball court.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1299.5,
+  "end": 1302.9,
+  "text": "But if you're doing competition level because of runoff and because of the height space,",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1303.2,
+  "end": 1306.1,
+  "text": "you still keep it to just one volleyball court per full court.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1306.3,
+  "end": 1308.5,
+  "text": "Right, but for league play or something that could work.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1308.6,
+  "end": 1308.7,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1309.0,
+  "end": 1311.7,
+  "text": "And it will be equipped to do that.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1312.0,
+  "end": 1312.2,
+  "text": "Yeah.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1312.4,
+  "end": 1312.5,
+  "text": "Yeah.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 1312.5,
+  "end": 1314.5,
+  "text": "So we'd have the lines to support that.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1314.5,
+  "end": 1316.3,
+  "text": "We'd have the equipment to support that.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1316.7,
+  "end": 1318.7,
+  "text": "The court is divisible into four.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1318.7,
+  "end": 1325.9,
+  "text": "But yes, it's designed to be multi-purpose space, be as flexible as possible.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1326.7,
+  "end": 1327.0,
+  "text": "Great.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1327.9,
+  "end": 1332.3,
+  "text": "Okay, and then my next question is around office and admin space.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1333.4,
+  "end": 1338.0,
+  "text": "When we were at AMO and we met with the Minister of Sport, Mr. Lundson,",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1338.0,
+  "end": 1345.6,
+  "text": "he talked about you know the importance of integrating physiotherapy or or",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1345.6,
+  "end": 1349.2,
+  "text": "something into a space to be successful in our funding ask and so I'm just",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1349.2,
+  "end": 1354.5,
+  "text": "wondering it has been integrated or thought of in in this next phase so we",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1354.5,
+  "end": 1359.2,
+  "text": "haven't thought of more you know new support space in this bill but we do",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1359.2,
+  "end": 1363.8,
+  "text": "we're confident that if we added this to the current bill there is enough space",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1363.8,
+  "end": 1368.7,
+  "text": "you know support spaces multi-purpose rooms or staff space in the current",
+  "no_speech": 0.0,
+  "logprob": -0.168,
+  "source": "whisper"
+ },
+ {
+  "start": 1368.7,
+  "end": 1373.7,
+  "text": "build that adding this any events would use that support space so we wouldn't",
+  "no_speech": 0.0,
+  "logprob": -0.168,
+  "source": "whisper"
+ },
+ {
+  "start": 1373.7,
+  "end": 1378.6,
+  "text": "need really more than you know maybe some storage rooms in this build and the",
+  "no_speech": 0.0,
+  "logprob": -0.168,
+  "source": "whisper"
+ },
+ {
+  "start": 1378.6,
+  "end": 1383.0,
+  "text": "mezzanine viewing area as I said great and that it's using the other build",
+  "no_speech": 0.0,
+  "logprob": -0.168,
+  "source": "whisper"
+ },
+ {
+  "start": 1383.0,
+  "end": 1386.0,
+  "text": "allows us to be a lot more flexible integrate same with change rooms you",
+  "no_speech": 0.0,
+  "logprob": -0.168,
+  "source": "whisper"
+ },
+ {
+  "start": 1386.0,
+  "end": 1389.6,
+  "text": "were saying okay and then the other question was around audio visual",
+  "no_speech": 0.0,
+  "logprob": -0.168,
+  "source": "whisper"
+ },
+ {
+  "start": 1389.6,
+  "end": 1394.9,
+  "text": "equipment and you know scorekeeping and how that would that be something that's",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1394.9,
+  "end": 1400.2,
+  "text": "also included yeah so through you mr. chair like even for the current build",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1400.2,
+  "end": 1403.2,
+  "text": "we're currently in that process we're doing the detailed design of audio",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1403.2,
+  "end": 1407.4,
+  "text": "visual so any technology that we're putting in there would be supported here",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1407.4,
+  "end": 1411.6,
+  "text": "and that would be part of the budget you know scoreboards potentially having",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1411.6,
+  "end": 1416.1,
+  "text": "streaming ability where parents could view even from from the comfort of their",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1416.1,
+  "end": 1421.5,
+  "text": "home so all that would be part of the budget for this for the project bill.",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1421.5,
+  "end": 1427.4,
+  "text": "Okay okay that's great thank you. Thank you Councillor Stretch, Councillor O'Dooney.",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1427.4,
+  "end": 1434.9,
+  "text": "Thank you Chair. Hello can you hear me? I do not have a question I just when the appropriate",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1434.9,
+  "end": 1438.6,
+  "text": "time would like to move this and I had a few comments as well so I can come back for that",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1438.6,
+  "end": 1445.6,
+  "text": "if you want. Yeah I'll come back to you thank you. Second time around Councillor Ioannidis.",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1445.6,
+  "end": 1448.2,
+  "text": "Thank you, Mayor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1448.2,
+  "end": 1454.0,
+  "text": "Just a little bit more of a clarification question with regards to the upper-level government",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1454.0,
+  "end": 1455.0,
+  "text": "funding.",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1455.0,
+  "end": 1459.4,
+  "text": "When is that application process set to begin?",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1459.4,
+  "end": 1464.3,
+  "text": "Mr. Lockenbach?",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1464.3,
+  "end": 1470.6,
+  "text": "So through the Chair, the provincial grant application process is open right now and",
+  "no_speech": 0.0,
+  "logprob": -0.309,
+  "source": "whisper"
+ },
+ {
+  "start": 1470.6,
+  "end": 1475.2,
+  "text": "And the funding for Stream 2, which is what we're recommending to apply for this facility,",
+  "no_speech": 0.0,
+  "logprob": -0.194,
+  "source": "whisper"
+ },
+ {
+  "start": 1475.2,
+  "end": 1477.2,
+  "text": "closes when all the funding is allocated.",
+  "no_speech": 0.0,
+  "logprob": -0.194,
+  "source": "whisper"
+ },
+ {
+  "start": 1477.2,
+  "end": 1483.1,
+  "text": "So there's no deadline, but applying as quickly as you can with a project that meets the eligibility",
+  "no_speech": 0.0,
+  "logprob": -0.194,
+  "source": "whisper"
+ },
+ {
+  "start": 1483.1,
+  "end": 1488.4,
+  "text": "criteria and what they're looking for is beneficial in terms of this process.",
+  "no_speech": 0.0,
+  "logprob": -0.194,
+  "source": "whisper"
+ },
+ {
+  "start": 1488.4,
+  "end": 1493.6,
+  "text": "The federal grant has a deadline of October 16th and it's also open to apply at this point.",
+  "no_speech": 0.0,
+  "logprob": -0.194,
+  "source": "whisper"
+ },
+ {
+  "start": 1493.6,
+  "end": 1494.6,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.194,
+  "source": "whisper"
+ },
+ {
+  "start": 1494.6,
+  "end": 1498.1,
+  "text": "I mean, if you can just indulge me, Mayor Brannock.",
+  "no_speech": 0.0,
+  "logprob": -0.194,
+  "source": "whisper"
+ },
+ {
+  "start": 1498.1,
+  "end": 1502.0,
+  "text": "I'm just going to give a bit of comments if no one else is.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1502.0,
+  "end": 1504.7,
+  "text": "There is still someone in the queue.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1504.7,
+  "end": 1505.7,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1505.7,
+  "end": 1508.7,
+  "text": "Go.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1508.7,
+  "end": 1511.3,
+  "text": "Councillor Davey.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1511.3,
+  "end": 1512.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1512.3,
+  "end": 1516.0,
+  "text": "Just on that, so we're applying for two separate grants for $10 million each.",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1516.0,
+  "end": 1521.6,
+  "text": "Historically, has there ever been situations where we would get, they would award a grant",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1521.6,
+  "end": 1525.0,
+  "text": "amount less than what we applied for?",
+  "no_speech": 0.0,
+  "logprob": -0.281,
+  "source": "whisper"
+ },
+ {
+  "start": 1525.0,
+  "end": 1530.4,
+  "text": "just follow-up question into that if they do I'm assuming basically what staff",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1530.4,
+  "end": 1533.1,
+  "text": "recommendation is going to be is that at least is at least if we get ten million",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1533.1,
+  "end": 1536.3,
+  "text": "dollars total between the two grants where the recommendation would be to",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1536.3,
+  "end": 1544.8,
+  "text": "proceed. Mr. Lockenbach. So through the chair in our experience typically they",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1544.8,
+  "end": 1549.2,
+  "text": "would fund what the ask is in terms of applications you know there's obviously",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1549.2,
+  "end": 1553.6,
+  "text": "the potential that it could be revised but you know based on the program",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 1553.6,
+  "end": 1558.7,
+  "text": "parameters is typically what you put forward in terms of your ask. In terms of,",
+  "no_speech": 0.0,
+  "logprob": -0.417,
+  "source": "whisper"
+ },
+ {
+  "start": 1558.7,
+  "end": 1561.8,
+  "text": "sorry I missed your second part of the question.",
+  "no_speech": 0.0,
+  "logprob": -0.417,
+  "source": "whisper"
+ },
+ {
+  "start": 1561.8,
+  "end": 1576.0,
+  "text": "No, I think you...",
+  "no_speech": 0.0,
+  "logprob": -0.417,
+  "source": "whisper"
+ },
+ {
+  "start": 1583.6,
+  "end": 1613.6,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.301,
+  "source": "whisper"
+ },
+ {
+  "start": 1613.6,
+  "end": 1643.6,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.625,
+  "source": "whisper"
+ },
+ {
+  "start": 1643.6,
+  "end": 1649.2,
+  "text": "So I think it would make, I mean personally I'll just say I think it would make sense",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 1649.2,
+  "end": 1653.0,
+  "text": "that it comes back so that council ultimately is the one making the final decision.",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 1653.0,
+  "end": 1656.6,
+  "text": "So Councillor O'Dooney if you're the one making the motion you may want to consider",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 1656.6,
+  "end": 1662.6,
+  "text": "putting that in the motion because I'm in the chair and I can't do it.",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 1662.6,
+  "end": 1667.8,
+  "text": "So Councillor O'Dooney the floor is yours.",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 1667.8,
+  "end": 1670.0,
+  "text": "Well first I want to say thank you to Osama.",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 1670.0,
+  "end": 1671.9,
+  "text": "It's really good to see him back.",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 1671.9,
+  "end": 1673.5,
+  "text": "I was very excited to see him.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1673.5,
+  "end": 1676.1,
+  "text": "I almost jumped for joy, but I had to stay demure.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1676.2,
+  "end": 1677.5,
+  "text": "I guess that's the new word now.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1678.5,
+  "end": 1681.0,
+  "text": "So it was really good to see him.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1681.4,
+  "end": 1684.4,
+  "text": "I had a chance to go through the VR experience.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1685.4,
+  "end": 1689.0,
+  "text": "So I see some counselors looking.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1689.3,
+  "end": 1692.2,
+  "text": "I had a chance to go through the VR experience today, and that was great.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1692.2,
+  "end": 1697.6,
+  "text": "It was great just to walk through the entire building and see all the different amenities.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1698.1,
+  "end": 1700.2,
+  "text": "And this is going to be the talk of the town.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1700.3,
+  "end": 1701.5,
+  "text": "This is going to be amazing.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1701.5,
+  "end": 1705.9,
+  "text": "And I think if we can push for this, it would absolutely be phenomenal.",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1705.9,
+  "end": 1708.4,
+  "text": "So I'm looking forward to this.",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1708.4,
+  "end": 1712.8,
+  "text": "Do we need to put up anything on the screen or I just.",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1712.8,
+  "end": 1721.2,
+  "text": "No, you just move it with that addition that Mr. May indicated based on my question.",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1721.2,
+  "end": 1722.2,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1722.2,
+  "end": 1726.4,
+  "text": "Yeah, so we'd like to move it in addition to if at any point we don't get any of the",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1726.4,
+  "end": 1729.8,
+  "text": "funding or all the funding, it would be great to come back to Council so we can get a report",
+  "no_speech": 0.0,
+  "logprob": -0.23,
+  "source": "whisper"
+ },
+ {
+  "start": 1729.8,
+  "end": 1731.7,
+  "text": "and figure out what the next direction would be.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1731.7,
+  "end": 1732.7,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1732.7,
+  "end": 1733.7,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1733.7,
+  "end": 1734.7,
+  "text": "Councillor Ioannidis.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1734.7,
+  "end": 1738.8,
+  "text": "Yeah, thank you, Mayor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1738.8,
+  "end": 1742.5,
+  "text": "I too want to thank staff and Osama.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1742.5,
+  "end": 1746.0,
+  "text": "It is great to have you back.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1746.0,
+  "end": 1751.6,
+  "text": "I really appreciate the approach that staff has gone with this.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1751.6,
+  "end": 1756.9,
+  "text": "The reality is if you would come with us to begin with to have this in the first place,",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1756.9,
+  "end": 1759.0,
+  "text": "I would have agreed to it anyways.",
+  "no_speech": 0.0,
+  "logprob": -0.303,
+  "source": "whisper"
+ },
+ {
+  "start": 1759.0,
+  "end": 1765.8,
+  "text": "for the need that we have in this community and the growth that's happening in our community.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1765.8,
+  "end": 1772.2,
+  "text": "The demand is way behind. Well, our supply for the demand is way behind. So I'm more",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1772.2,
+  "end": 1779.4,
+  "text": "than happy to support this. And I just want the other upper levels of government to not",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1779.4,
+  "end": 1784.6,
+  "text": "take away the funding, but I see with the timelines, it seems like we're going to be",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1784.6,
+  "end": 1789.0,
+  "text": "well ahead of the process before they can even make any kind of decision. So that gives",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1789.0,
+  "end": 1796.7,
+  "text": "me some extra confidence and good feelings that we're going to succeed. This will be",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1796.7,
+  "end": 1802.8,
+  "text": "just again as other members of council have said in the past that this will be quite the",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1802.8,
+  "end": 1808.0,
+  "text": "jewel in our community and look forward to when this facility does open.",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1808.0,
+  "end": 1810.9,
+  "text": "Thank you Councillor Aronatis. Councillor Singh.",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1810.9,
+  "end": 1814.9,
+  "text": "Thank you Mr. Mayor and to Councillor Owodunni, regardless if you jumped up or not, you're",
+  "no_speech": 0.0,
+  "logprob": -0.291,
+  "source": "whisper"
+ },
+ {
+  "start": 1814.9,
+  "end": 1820.7,
+  "text": "always very demure, mindful, and cutesy. So I just thought I would go on the record and",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 1820.7,
+  "end": 1825.6,
+  "text": "outline that. I just do want to say when you added the amendment, I was saying it come",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 1825.6,
+  "end": 1828.9,
+  "text": "back regardless if you get all the funding, I would say we shouldn't necessarily want",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 1828.9,
+  "end": 1834.4,
+  "text": "to re-debate. If we get the funding as outlined in the report, it's for information obviously,",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 1834.4,
+  "end": 1838.5,
+  "text": "but not for a decision. But if we don't get any of the funding, then of course that we",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 1838.5,
+  "end": 1842.9,
+  "text": "have another kick at the cannon and debate amongst this horseshoe and seeing if it's",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 1842.9,
+  "end": 1849.2,
+  "text": "right choice to proceed or not. So just wanted to correct on that one. Just a comment. I think",
+  "no_speech": 0.0,
+  "logprob": -0.134,
+  "source": "whisper"
+ },
+ {
+  "start": 1850.9,
+  "end": 1857.3,
+  "text": "obviously the business case makes sense. The need in the community is phenomenal for basketball,",
+  "no_speech": 0.0,
+  "logprob": -0.134,
+  "source": "whisper"
+ },
+ {
+  "start": 1857.3,
+  "end": 1863.0,
+  "text": "for volleyball, especially for pickleball. I saw all the faces light up when we said we could have",
+  "no_speech": 0.0,
+  "logprob": -0.134,
+  "source": "whisper"
+ },
+ {
+  "start": 1863.0,
+  "end": 1867.8,
+  "text": "upwards to 20 courts. That is the fastest growing sport in our community with the aging population.",
+  "no_speech": 0.0,
+  "logprob": -0.134,
+  "source": "whisper"
+ },
+ {
+  "start": 1867.8,
+  "end": 1874.7,
+  "text": "That's what we want to make more room for, as well as badminton and a lot of more diverse ethnic backgrounds cater to that type of sport.",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 1874.7,
+  "end": 1884.9,
+  "text": "And I've heard complaints that we don't have enough space where looking at Rim Park and what Waterloo has, that they can really leverage on that additional space available.",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 1885.4,
+  "end": 1888.3,
+  "text": "But our city is growing at a very fast pace.",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 1888.9,
+  "end": 1893.9,
+  "text": "And additional delay, we can't afford to now build these facilities.",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 1893.9,
+  "end": 1923.2,
+  "text": "And that's actually an important aspect of growth and development, and we have to be considerate when we are apprehensive about development because we don't feel like we're ready yet, and we slow the process, we delay that development, we're giving away opportunities to better our community because it's the development that's going to be able to build this, and that's what we should be able to champion and also go back to the community and highlight the successes of growth.",
+  "no_speech": 0.0,
+  "logprob": -0.102,
+  "source": "whisper"
+ },
+ {
+  "start": 1923.2,
+  "end": 1926.6,
+  "text": "So glad to see this and very happy to support it.",
+  "no_speech": 0.0,
+  "logprob": -0.348,
+  "source": "whisper"
+ },
+ {
+  "start": 1926.6,
+  "end": 1929.6,
+  "text": "Thank you Councillor Singh.",
+  "no_speech": 0.0,
+  "logprob": -0.348,
+  "source": "whisper"
+ },
+ {
+  "start": 1929.6,
+  "end": 1930.6,
+  "text": "Councillor Davey.",
+  "no_speech": 0.0,
+  "logprob": -0.348,
+  "source": "whisper"
+ },
+ {
+  "start": 1930.6,
+  "end": 1933.2,
+  "text": "Yes, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.348,
+  "source": "whisper"
+ },
+ {
+  "start": 1933.2,
+  "end": 1940.4,
+  "text": "I'm very happy to support the staff recommendation that came forward.",
+  "no_speech": 0.0,
+  "logprob": -0.348,
+  "source": "whisper"
+ },
+ {
+  "start": 1940.4,
+  "end": 1945.7,
+  "text": "I'm going to be honest in that, and again, I think it was fantastic that staff prepared,",
+  "no_speech": 0.0,
+  "logprob": -0.348,
+  "source": "whisper"
+ },
+ {
+  "start": 1945.7,
+  "end": 1949.7,
+  "text": "had something ready ahead of time to be able to leverage the grants that are before us.",
+  "no_speech": 0.0,
+  "logprob": -0.348,
+  "source": "whisper"
+ },
+ {
+  "start": 1949.7,
+  "end": 1955.7,
+  "text": "At the same time, I have to say that my threshold is getting some value from these grants in",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1955.7,
+  "end": 1958.3,
+  "text": "proceeding and advancing this project.",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1958.3,
+  "end": 1962.9,
+  "text": "So I do not particularly like the idea of it coming back to us if we do not get any",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1962.9,
+  "end": 1963.9,
+  "text": "of this money.",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1963.9,
+  "end": 1967.6,
+  "text": "In my mind, it's ripping the band-aid off slowly.",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1967.6,
+  "end": 1970.8,
+  "text": "So I'm actually, if you don't mind, Mr. Bear, I'm going to ask that we have, and I'm prepared",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1970.8,
+  "end": 1974.8,
+  "text": "to lose this one, you know, 10 to 1, that's fine, but I'm going to ask that we vote on",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1974.8,
+  "end": 1976.9,
+  "text": "that specific part of it separately.",
+  "no_speech": 0.0,
+  "logprob": -0.142,
+  "source": "whisper"
+ },
+ {
+  "start": 1976.9,
+  "end": 1981.5,
+  "text": "And I just, again, just my rationale is that, you know, infrastructure is the biggest challenge",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 1981.5,
+  "end": 1984.7,
+  "text": "that municipalities have right now going forward funding them.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 1984.8,
+  "end": 1988.2,
+  "text": "And one of the solutions is to not build as much infrastructure until you can afford it.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 1988.3,
+  "end": 1992.7,
+  "text": "And I am not convinced that we can afford going full tilt on our own at this time.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 1995.2,
+  "end": 1995.9,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 1996.1,
+  "end": 1996.8,
+  "text": "Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 1999.2,
+  "end": 2000.1,
+  "text": "Thank you, Mr. Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 2000.5,
+  "end": 2003.0,
+  "text": "That's a hard act to follow, Councillor Davey.",
+  "no_speech": 0.0,
+  "logprob": -0.199,
+  "source": "whisper"
+ },
+ {
+  "start": 2003.0,
+  "end": 2007.1,
+  "text": "but I'm going to do it in a very positive way.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 2007.3,
+  "end": 2010.3,
+  "text": "You know, we have just come off watching the Olympics,",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 2010.8,
+  "end": 2015.1,
+  "text": "and every time I watch the Olympics, I hear from people,",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 2015.5,
+  "end": 2016.1,
+  "text": "where's Canada?",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 2016.4,
+  "end": 2017.7,
+  "text": "Why didn't we get as many medals?",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 2018.1,
+  "end": 2021.5,
+  "text": "Why aren't, you know, where are we on the world stage?",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 2022.3,
+  "end": 2026.1,
+  "text": "You can't win if you can't play, and we need more places to play.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 2026.3,
+  "end": 2030.7,
+  "text": "I'm really excited about us going for this in our community.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 2030.7,
+  "end": 2035.0,
+  "text": "as Councillor Singh had asked earlier,",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2035.3,
+  "end": 2038.0,
+  "text": "what is the revenue piece that we won't get",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2038.0,
+  "end": 2039.6,
+  "text": "if we don't have this in place?",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2039.6,
+  "end": 2042.6,
+  "text": "I think that the opportunity for us",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2042.6,
+  "end": 2049.0,
+  "text": "to really make a mark in southwestern Ontario",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2049.0,
+  "end": 2051.3,
+  "text": "as a place where you can go and play sports",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2051.3,
+  "end": 2055.3,
+  "text": "and have tournaments and things will be lost.",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2056.1,
+  "end": 2056.8,
+  "text": "And we're going to...",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2056.8,
+  "end": 2058.4,
+  "text": "I don't know.",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 2058.4,
+  "end": 2062.6,
+  "text": "I don't know if the feds and province are listening but we're going to get that money",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 2062.6,
+  "end": 2066.7,
+  "text": "because I feel very confident that we've got a really good business case here.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 2066.7,
+  "end": 2074.0,
+  "text": "So I'm enthused and excited about this and go Canada go.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 2074.0,
+  "end": 2075.6,
+  "text": "Thank you Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 2075.6,
+  "end": 2079.3,
+  "text": "Before I make my comments I was remiss in not asking for a seconder.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 2079.3,
+  "end": 2081.0,
+  "text": "Do I have a seconder?",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 2081.0,
+  "end": 2085.0,
+  "text": "Councillor Johnston as chair of community services.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 2085.0,
+  "end": 2091.8,
+  "text": "I will be supporting the recommendation that's in front of us and I want to thank Mr. Siddiqui",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2091.8,
+  "end": 2099.9,
+  "text": "and Mr. May and everyone else who has been part of putting this together.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2099.9,
+  "end": 2105.4,
+  "text": "I think we are in a unique situation right now in terms of availing ourselves of the",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2105.4,
+  "end": 2111.0,
+  "text": "opportunities that are available from both the provincial and federal governments.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2111.0,
+  "end": 2118.1,
+  "text": "But I also think that the business case speaks about the merits of this approach in and of",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2118.1,
+  "end": 2119.1,
+  "text": "itself.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2119.1,
+  "end": 2126.0,
+  "text": "Obviously, getting funding support from our other orders of government is a big part of",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2126.0,
+  "end": 2127.0,
+  "text": "it.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2127.0,
+  "end": 2135.4,
+  "text": "I too share Councillor Johnston enthusiasm and confidence that we will put forward a",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2135.4,
+  "end": 2140.9,
+  "text": "very strong and compelling case that people will want to invest in this.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2140.9,
+  "end": 2145.7,
+  "text": "And I do think it does have, you know, significant positive benefits, not just for our community",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 2145.7,
+  "end": 2150.3,
+  "text": "and the residents who are living here, but also in terms of tourism potential and so",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 2150.3,
+  "end": 2151.3,
+  "text": "on.",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 2151.3,
+  "end": 2156.2,
+  "text": "And if you think about actually this facility combined with some of the other facilities",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 2156.2,
+  "end": 2162.5,
+  "text": "in our neighbouring municipalities, you want to talk about a province-wide or Canada-wide,",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 2162.5,
+  "end": 2170.6,
+  "text": "you know, tournament or sporting event all in one community based on having all the facilities",
+  "no_speech": 0.0,
+  "logprob": -0.113,
+  "source": "whisper"
+ },
+ {
+  "start": 2170.6,
+  "end": 2177.5,
+  "text": "that come together when we partner on these kinds of national events sometimes, it could",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 2177.5,
+  "end": 2181.0,
+  "text": "be very, very successful and have significant impact.",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 2181.0,
+  "end": 2189.0,
+  "text": "So I'm very excited about it and I look forward to advocating with our provincial and federal",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 2189.0,
+  "end": 2195.7,
+  "text": "colleagues in the weeks and months ahead to hopefully get this approved and over the finish",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 2195.7,
+  "end": 2198.7,
+  "text": "line before the end of the year.",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 2198.7,
+  "end": 2206.1,
+  "text": "So with that, Councillor Davey has asked that we deal with that one segment separately and",
+  "no_speech": 0.0,
+  "logprob": -0.24,
+  "source": "whisper"
+ },
+ {
+  "start": 2206.1,
+  "end": 2215.7,
+  "text": "that's the segment that it comes back if we don't have the funding as it's outlined.",
+  "no_speech": 0.0,
+  "logprob": -0.24,
+  "source": "whisper"
+ },
+ {
+  "start": 2215.7,
+  "end": 2217.9,
+  "text": "So I'll take that vote first.",
+  "no_speech": 0.0,
+  "logprob": -0.24,
+  "source": "whisper"
+ },
+ {
+  "start": 2217.9,
+  "end": 2219.1,
+  "text": "Those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.24,
+  "source": "whisper"
+ },
+ {
+  "start": 2219.1,
+  "end": 2223.3,
+  "text": "Sorry.",
+  "no_speech": 0.0,
+  "logprob": -0.24,
+  "source": "whisper"
+ },
+ {
+  "start": 2223.3,
+  "end": 2230.1,
+  "text": "is the the the no so the question is that it come back to that it come back to",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2230.1,
+  "end": 2235.5,
+  "text": "council so that council is the one making the final decision okay so if you",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2235.5,
+  "end": 2240.0,
+  "text": "don't want it to come back oh sorry if you do want it to come back then then",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2240.0,
+  "end": 2246.5,
+  "text": "vote in the affirmative now if you don't want it to come back then vote against",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2246.5,
+  "end": 2265.5,
+  "text": "it. Okay? Right. So if you wanted to come back, vote yes now. Okay. So those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 2265.5,
+  "end": 2275.6,
+  "text": "I'm sorry, I'm not turning on and off. That is carried. And now we'll deal with",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 2275.6,
+  "end": 2290.3,
+  "text": "the original or the rest of the motion. All those in favour? Those opposed? And that's",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 2290.3,
+  "end": 2298.9,
+  "text": "carried unanimously. Okay. So thank you. Oh, no, not yet. There is no mayoral business.",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 2298.9,
+  "end": 2304.5,
+  "text": "Someone to move three readings of the bylaws. Moved by Councillor Michaud, seconded by Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.195,
+  "source": "whisper"
+ },
+ {
+  "start": 2304.5,
+  "end": 2318.7,
+  "text": "Chapman. All those in favour? Those opposed? That is carried and we will adjourn. Thank",
+  "no_speech": 0.0,
+  "logprob": -0.292,
+  "source": "whisper"
+ },
+ {
+  "start": 2318.7,
+  "end": 2319.2,
+  "text": "you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.292,
+  "source": "whisper"
+ }
+]

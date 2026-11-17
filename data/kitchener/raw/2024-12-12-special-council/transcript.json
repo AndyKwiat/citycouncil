@@ -1,0 +1,2882 @@
+[
+ {
+  "start": 0.0,
+  "end": 30.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.282,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.216,
+  "source": "whisper"
+ },
+ {
+  "start": 780.0,
+  "end": 792.9,
+  "text": "Good afternoon everyone and welcome to the special council meeting on December 12, 2024.",
+  "no_speech": 0.0,
+  "logprob": -0.252,
+  "source": "whisper"
+ },
+ {
+  "start": 792.9,
+  "end": 798.5,
+  "text": "Individuals interested in participating today's meeting were eligible to register online using",
+  "no_speech": 0.0,
+  "logprob": -0.252,
+  "source": "whisper"
+ },
+ {
+  "start": 798.5,
+  "end": 807.6,
+  "text": "the delegation registration form at www.kitchener.ca or via email at delegation at kitchener.ca.",
+  "no_speech": 0.0,
+  "logprob": -0.252,
+  "source": "whisper"
+ },
+ {
+  "start": 808.3,
+  "end": 811.4,
+  "text": "Any written comments received prior to the commencement of today's meeting",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 812.2,
+  "end": 816.7,
+  "text": "have been circulated to members of Council prior to the meeting and will form part of the public",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 816.7,
+  "end": 824.2,
+  "text": "record. The meeting live stream and archived videos of the meeting are available at www.kitchener.ca",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 825.1,
+  "end": 829.9,
+  "text": "watch now. Before we begin this afternoon's meeting, I'd like to acknowledge that this",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 829.9,
+  "end": 834.9,
+  "text": "afternoon we're gathering on the traditional territory of the neutral Anishinaabe and Haudenosaunee",
+  "no_speech": 0.0,
+  "logprob": -0.098,
+  "source": "whisper"
+ },
+ {
+  "start": 834.9,
+  "end": 840.5,
+  "text": "peoples. We recognize our responsibility to serve as stewards for the land and honor the original",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 840.5,
+  "end": 845.7,
+  "text": "caretakers who came before us. Our community is enriched by the enduring knowledge and deep-rooted",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 845.7,
+  "end": 851.6,
+  "text": "traditions of the diverse First Nations, Métis and Inuit in Kitchener today. Are there any",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 851.6,
+  "end": 855.1,
+  "text": "disclosures of pecuniary interest? Councillor SINGH.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 855.1,
+  "end": 861.4,
+  "text": "Thank you, Mr. Mayor. On this budget, procedurally, it is a little different than in previous years",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 861.4,
+  "end": 867.6,
+  "text": "because this is the mayor's budget, so essentially it's not council that's directing or setting the",
+  "no_speech": 0.0,
+  "logprob": -0.08,
+  "source": "whisper"
+ },
+ {
+  "start": 867.6,
+  "end": 875.0,
+  "text": "budget formally, but because we do have a practice of finally, once the budget is tabled, directing",
+  "no_speech": 0.0,
+  "logprob": -0.08,
+  "source": "whisper"
+ },
+ {
+  "start": 875.0,
+  "end": 881.2,
+  "text": "staff to proceed with the budget as outlined. In that case, I'm just going to outline some",
+  "no_speech": 0.0,
+  "logprob": -0.08,
+  "source": "whisper"
+ },
+ {
+  "start": 881.2,
+  "end": 886.7,
+  "text": "of the conflicts that may arise due to capital projects where some of the work is happening",
+  "no_speech": 0.0,
+  "logprob": -0.08,
+  "source": "whisper"
+ },
+ {
+  "start": 886.7,
+  "end": 891.4,
+  "text": "close proximity to some properties owned by myself and my family.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 891.4,
+  "end": 899.1,
+  "text": "And that's on page C11, Mill and Cortland Community Centre, C32, Connaught Street, and",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 899.1,
+  "end": 906.4,
+  "text": "E15, that was for 350, sorry, the parking rate for Brom Street.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 906.4,
+  "end": 910.5,
+  "text": "I think that's just for the, I may have declared that previously, but because it's in the budget,",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 910.5,
+  "end": 912.0,
+  "text": "I'm just specifying it again.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 912.0,
+  "end": 913.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 913.0,
+  "end": 914.0,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 914.0,
+  "end": 915.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 915.0,
+  "end": 916.0,
+  "text": "Councillor Stretch.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 916.0,
+  "end": 927.1,
+  "text": "Thank you. So just declaring a conflict with the KPL. I think it's item 3.1 BA. I declared",
+  "no_speech": 0.0,
+  "logprob": -0.282,
+  "source": "whisper"
+ },
+ {
+  "start": 927.1,
+  "end": 930.6,
+  "text": "it earlier but my partner is employed by the KPL.",
+  "no_speech": 0.0,
+  "logprob": -0.282,
+  "source": "whisper"
+ },
+ {
+  "start": 930.6,
+  "end": 939.9,
+  "text": "Okay. Thank you. So we will deal with those four items separately at the end. There being",
+  "no_speech": 0.0,
+  "logprob": -0.282,
+  "source": "whisper"
+ },
+ {
+  "start": 939.9,
+  "end": 945.4,
+  "text": "No delegations and no other mayoral business today.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 945.6,
+  "end": 950.6,
+  "text": "We'll move right into some comments with respect to final budget day.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 951.2,
+  "end": 961.0,
+  "text": "Thank you to Council, staff, those in the audience and members of the viewing public for joining us today for our 2025 final budget day.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 961.4,
+  "end": 968.1,
+  "text": "For the second year in a row, this budget process has continued to take a collaborative approach between Council and staff,",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 968.1,
+  "end": 977.6,
+  "text": "informed by community priorities and recognizing changes made two years ago in provincial legislation requiring that it be presented as a mayor's budget.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 978.5,
+  "end": 988.8,
+  "text": "As Council knows, the draft 2025 budget was presented during two financing corporate services committee meetings on November 18th and November 25th,",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 988.8,
+  "end": 995.2,
+  "text": "developed by our city staff team and led by our finance budget team.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 995.2,
+  "end": 1002.4,
+  "text": "I want to again thank Ward Councillor Scott Davey, Chair of our Finance and Corporate Services Committee,",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1002.4,
+  "end": 1007.2,
+  "text": "for officially proposing the 2025 budget on my behalf at a special council meeting",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1008.2,
+  "end": 1013.8,
+  "text": "on December 2, 2024, when I couldn't be here for family reasons and for his leadership throughout",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1013.8,
+  "end": 1022.4,
+  "text": "the process. In fact, this is, I think now, 13 budgets that Chair Davey has chaired on behalf of",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1022.4,
+  "end": 1027.4,
+  "text": "of the City. Thank you to my colleagues, Council and staff for your support and understanding",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1027.4,
+  "end": 1032.2,
+  "text": "during this busy but personally difficult time. I truly appreciate it.",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1032.2,
+  "end": 1035.8,
+  "text": "The purpose of today's special Council meeting was to consider any amendments that members",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1035.8,
+  "end": 1041.0,
+  "text": "of Council may have related to the Mayor's budget. Members of Council were requested",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1041.0,
+  "end": 1046.0,
+  "text": "to provide any proposed 2024 budget amendments to the City Clerk by Monday, December 9th",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1046.0,
+  "end": 1052.2,
+  "text": "to be included on the agenda. No proposed budget amendments were received by the City Clerk.",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1052.2,
+  "end": 1058.0,
+  "text": "Therefore, Budget 2025 is, as per provincial legislation, considered adopted as of this date.",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 1058.0,
+  "end": 1066.0,
+  "text": "However, as we did last year, we will formally receive it a little later this afternoon and direct staff to implement it.",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 1066.0,
+  "end": 1071.7,
+  "text": "Colleagues, while this seems like a brief exercise in following legislative requirements,",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 1071.7,
+  "end": 1078.5,
+  "text": "I must take a moment to recognize that we arrived at this place because of the thorough, professional and responsive work of staff",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 1078.5,
+  "end": 1083.4,
+  "text": "to balance providing services that Kitchener residents and businesses rely on with prudent",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1083.4,
+  "end": 1087.3,
+  "text": "fiscal management. Having had the benefit of experiencing budget",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1087.3,
+  "end": 1092.1,
+  "text": "processes in more than one municipality during my time in an elected office, I have come",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1092.1,
+  "end": 1098.9,
+  "text": "to appreciate, especially this year, the professionalism, dedication, collaboration and thorough approach",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1098.9,
+  "end": 1106.0,
+  "text": "led by Dan Chapner, our C.A.O., Jonathan Lautenbach, our C.F.O., our corporate leadership team,",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 1106.0,
+  "end": 1111.1,
+  "text": "finance budget team and the many staff who are part of Team Kitchener and each year help build",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1111.1,
+  "end": 1116.7,
+  "text": "a budget for the residents and businesses in our community. I want to again acknowledge and thank",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1116.7,
+  "end": 1121.5,
+  "text": "both Councillor Scott Davey and Bill Dionitis, Chair and Vice Chair respectively, for their",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1121.5,
+  "end": 1126.2,
+  "text": "leadership and support in this work and all of Council for the engagement throughout the process.",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1127.1,
+  "end": 1133.2,
+  "text": "I'd now like to share again some of the comments that Chair Davey made on my behalf when tabling",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1133.2,
+  "end": 1140.8,
+  "text": "the budget. The 2025 draft budget was prepared by staff and presented for Council's consideration",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1140.8,
+  "end": 1144.8,
+  "text": "built on the success of previous budget by continuing to address priorities that are",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1144.8,
+  "end": 1149.8,
+  "text": "important for Kitchener and its residents. From delivering the programs and services that residents",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1149.8,
+  "end": 1154.5,
+  "text": "and businesses rely on every day, to investments in infrastructure that help to address the city's",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1154.5,
+  "end": 1160.0,
+  "text": "asset replacement and growth related needs, to providing funding to implement the city's 20 to",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1160.0,
+  "end": 1170.0,
+  "text": "2023 to 2026 strategic plan that will help shape Kitchener's future. The 2025 final budget balances",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1170.0,
+  "end": 1174.7,
+  "text": "several priorities and continues the trend of delivering good value for Kitchener residents.",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1177.3,
+  "end": 1182.8,
+  "text": "With a proposed tax increase of 3.9% as outlined in the budget, we continue to maintain existing",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1182.8,
+  "end": 1186.7,
+  "text": "service levels for the approximately 50 core services that the City provides,",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 1186.7,
+  "end": 1190.5,
+  "text": "and while still responding to growth related pressures that come with",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1190.5,
+  "end": 1195.1,
+  "text": "welcoming new residents to Kitchener each year. The budget also ensures that",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1195.1,
+  "end": 1199.3,
+  "text": "Kitchener's average property tax increase over 10 years remains below",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1199.3,
+  "end": 1204.9,
+  "text": "Ontario's inflation rate increases during the same time period. Our city has",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1204.9,
+  "end": 1208.9,
+  "text": "continued to grow over the past many years and is now home to over 300,000",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1208.9,
+  "end": 1213.3,
+  "text": "residents. Even with the increased pressures of serving a larger population",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1213.3,
+  "end": 1218.4,
+  "text": "base, the City has been able to keep pace, carefully balancing increasing service needs",
+  "no_speech": 0.0,
+  "logprob": -0.077,
+  "source": "whisper"
+ },
+ {
+  "start": 1218.4,
+  "end": 1225.2,
+  "text": "while still proposing budget increases that we believe are reasonable. Kitchener's tax levy",
+  "no_speech": 0.0,
+  "logprob": -0.077,
+  "source": "whisper"
+ },
+ {
+  "start": 1225.2,
+  "end": 1229.3,
+  "text": "per capita is one of the lowest in the province when compared to other large municipalities in",
+  "no_speech": 0.0,
+  "logprob": -0.077,
+  "source": "whisper"
+ },
+ {
+  "start": 1229.3,
+  "end": 1235.2,
+  "text": "Ontario, and it also has what's considered a low municipal burden when combining both taxes and",
+  "no_speech": 0.0,
+  "logprob": -0.077,
+  "source": "whisper"
+ },
+ {
+  "start": 1235.2,
+  "end": 1241.7,
+  "text": "utility rates and comparing Kitchener to other municipalities. Kitchener's track record speaks",
+  "no_speech": 0.0,
+  "logprob": -0.077,
+  "source": "whisper"
+ },
+ {
+  "start": 1241.7,
+  "end": 1246.8,
+  "text": "for itself when it comes to balancing affordability, service demands, and responding to growth-related",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1246.8,
+  "end": 1252.4,
+  "text": "pressures. I'm proud of this Council and staff's approach to rate setting and believe Kitchener",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1252.4,
+  "end": 1258.5,
+  "text": "is a model of efficient, effective, and sustainable local government. As was stated, during the past",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1258.5,
+  "end": 1264.9,
+  "text": "10 years, Kitchener's tax rate increases have averaged 2.47%, below the Ontario inflation,",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 1264.9,
+  "end": 1272.0,
+  "text": "which has averaged 2.64% during that same time frame. This should give residents confidence",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 1272.0,
+  "end": 1277.8,
+  "text": "that they're getting good value for the programs and services that the City provides. Kitchener is",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 1277.8,
+  "end": 1282.8,
+  "text": "also making important investments in infrastructure, recognizing the need to take care of the $10",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 1282.8,
+  "end": 1287.8,
+  "text": "billion worth of assets that the City is responsible for, while also moving forward with new",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 1287.8,
+  "end": 1294.2,
+  "text": "infrastructure that's needed to support housing and a growing community. Besides the City's own",
+  "no_speech": 0.0,
+  "logprob": -0.07,
+  "source": "whisper"
+ },
+ {
+  "start": 1294.2,
+  "end": 1299.3,
+  "text": "efforts and strategies to try and address capital funding needs, staff have also pursued federal",
+  "no_speech": 0.0,
+  "logprob": -0.089,
+  "source": "whisper"
+ },
+ {
+  "start": 1299.3,
+  "end": 1304.7,
+  "text": "and provincial grant opportunities, successfully securing over $200 million in federal and provincial",
+  "no_speech": 0.0,
+  "logprob": -0.089,
+  "source": "whisper"
+ },
+ {
+  "start": 1304.7,
+  "end": 1310.6,
+  "text": "funding over the past five years. I want to thank and acknowledge both our federal and our provincial",
+  "no_speech": 0.0,
+  "logprob": -0.089,
+  "source": "whisper"
+ },
+ {
+  "start": 1310.6,
+  "end": 1317.9,
+  "text": "partners for their support of these initiatives over time. As the City continues to expand,",
+  "no_speech": 0.0,
+  "logprob": -0.089,
+  "source": "whisper"
+ },
+ {
+  "start": 1317.9,
+  "end": 1322.9,
+  "text": "particularly in the southwest area, new amenities are needed to support recreational needs,",
+  "no_speech": 0.0,
+  "logprob": -0.089,
+  "source": "whisper"
+ },
+ {
+  "start": 1322.9,
+  "end": 1326.0,
+  "text": "and this budget reflects those investments.",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1326.0,
+  "end": 1330.9,
+  "text": "This includes $16 million for the construction of a new library branch in Southwest Kitchener",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1330.9,
+  "end": 1333.0,
+  "text": "that will be fully operational in 2025,",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1333.7,
+  "end": 1339.1,
+  "text": "$6 million for the Rosenberg Community Centre that will provide programming space for the surrounding neighbourhood,",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1339.9,
+  "end": 1345.9,
+  "text": "and $144 million for the Kitchener Indoor Recreation Facility that will be located at Schlegel Park",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1345.9,
+  "end": 1350.9,
+  "text": "and is currently under construction with an indoor pool, FIFA-sized soccer facility",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1350.9,
+  "end": 1355.2,
+  "text": "and will provide other important gathering spaces for residents and the community.",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 1356.1,
+  "end": 1362.9,
+  "text": "Finally, our community is in the second year of implementation of its 2023-2026 strategic plan.",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 1363.6,
+  "end": 1368.4,
+  "text": "The 2025 budget continues to build on investments made through last year's budget process",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 1369.3,
+  "end": 1374.9,
+  "text": "while funding with funding allocated within the budget to support actions identified under the",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 1374.9,
+  "end": 1381.4,
+  "text": "five goal areas within the plan including building a connected city together, cultivating a green city",
+  "no_speech": 0.0,
+  "logprob": -0.071,
+  "source": "whisper"
+ },
+ {
+  "start": 1381.4,
+  "end": 1387.3,
+  "text": "together, creating an economically thriving city together, fostering a caring city together,",
+  "no_speech": 0.0,
+  "logprob": -0.071,
+  "source": "whisper"
+ },
+ {
+  "start": 1387.3,
+  "end": 1393.8,
+  "text": "and stewarding a better city together. The 2025 budget highlights approximately $75 million in",
+  "no_speech": 0.0,
+  "logprob": -0.071,
+  "source": "whisper"
+ },
+ {
+  "start": 1393.8,
+  "end": 1399.6,
+  "text": "funding that will help to advance strategic priorities and this includes $56 million in",
+  "no_speech": 0.0,
+  "logprob": -0.071,
+  "source": "whisper"
+ },
+ {
+  "start": 1399.6,
+  "end": 1405.4,
+  "text": "federal and provincial funding that the City has received to help advance affordable housing",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1405.4,
+  "end": 1411.6,
+  "text": "initiatives. Some of these investments in other important areas include $8.6 million towards",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1411.6,
+  "end": 1417.3,
+  "text": "advancing actions in the City's parks master plan including improvements being made at Upper Canada",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1417.3,
+  "end": 1422.7,
+  "text": "and McLennan Park, $1.3 million towards implementation of the City Tree Canopy Plan,",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1422.7,
+  "end": 1430.2,
+  "text": "$800,000 in green fleet improvements including the replacement of three ice resurfacers to electric,",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1430.9,
+  "end": 1436.3,
+  "text": "$780,000 in operating and capital funding to support the activation of the Conrad Centre,",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1436.3,
+  "end": 1442.5,
+  "text": "and $100,000 to increase spots in summer camps for youth. These examples and more build on",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1442.5,
+  "end": 1447.5,
+  "text": "progress made in the previous year helping Kitchener deliver on key priorities and commitments",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1447.5,
+  "end": 1456.1,
+  "text": "including our strategic plan. I'm pleased with where we've landed with the 2025 budget for the",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 1456.1,
+  "end": 1460.2,
+  "text": "progressive actions that we continue to take to the City to move us closer to achieving our vision",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 1460.2,
+  "end": 1466.5,
+  "text": "while still balancing affordability and operational service delivery needs. Once again I want to thank",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 1466.5,
+  "end": 1472.9,
+  "text": "this Council for your ongoing leadership of this community, our corporate leadership team for the",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 1472.9,
+  "end": 1479.1,
+  "text": "fantastic leadership that they provide throughout the organization and and very",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1479.1,
+  "end": 1483.6,
+  "text": "importantly in this process our finance budget team without whose leadership and",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1483.6,
+  "end": 1489.4,
+  "text": "support budgets like this would not be possible thank you to everyone and with",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1489.4,
+  "end": 1497.4,
+  "text": "that I would turn to I guess Madame Clerk can you put the motion on the",
+  "no_speech": 0.0,
+  "logprob": -0.128,
+  "source": "whisper"
+ },
+ {
+  "start": 1497.4,
+  "end": 1506.7,
+  "text": "screen or no okay then I'll just read it out and the motion just give me one second",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1509.2,
+  "end": 1515.4,
+  "text": "the motion reflecting this year that we passed last year and that would be moved",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1515.4,
+  "end": 1518.8,
+  "text": "by Councillor Davey as chair and Councillor Ioannidis as vice-chair is",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1518.8,
+  "end": 1522.6,
+  "text": "that the mayor's budget be received and further that staff be directed to",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1522.6,
+  "end": 1531.6,
+  "text": "implement the proposed 2025 budget. And I will deal with that. Perhaps I'll deal with",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 1531.6,
+  "end": 1538.5,
+  "text": "it in three parts. The part specifically relating to that Councillor Stretch has a conflict,",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 1538.5,
+  "end": 1546.6,
+  "text": "the part that Councillor Singh has conflicts with, and then the remainder of the motion.",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 1546.6,
+  "end": 1553.8,
+  "text": "And with that, I will open the floor if there are any comments from Chair Davey as the mover",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 1553.8,
+  "end": 1557.4,
+  "text": "and then any other members of Council.",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 1557.4,
+  "end": 1559.9,
+  "text": "Councillor Davey.",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 1559.9,
+  "end": 1562.6,
+  "text": "Yeah, thank you, Mr. Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 1562.6,
+  "end": 1566.7,
+  "text": "You covered a lot of it in your opening comments.",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 1566.7,
+  "end": 1575.6,
+  "text": "This is really the continuation of the long trend of very responsible budgets and I would",
+  "no_speech": 0.0,
+  "logprob": -0.248,
+  "source": "whisper"
+ },
+ {
+  "start": 1575.6,
+  "end": 1581.8,
+  "text": "be remiss again not to really highlight the fact that a lot of the heavy lifting and most",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1581.8,
+  "end": 1585.7,
+  "text": "of the heavy lifting frankly happens at the staff level before it gets to us.",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1585.7,
+  "end": 1589.8,
+  "text": "And we need to be really careful to acknowledge that always.",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1589.8,
+  "end": 1593.5,
+  "text": "13 years actually, you mentioned that.",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1593.5,
+  "end": 1595.0,
+  "text": "It's lucky number 13.",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1595.0,
+  "end": 1598.9,
+  "text": "I guess I was expecting maybe a bit worse luck this time around.",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1598.9,
+  "end": 1604.5,
+  "text": "But when I look back at our budgets, I guess what I've always envisioned ever since I",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 1604.5,
+  "end": 1610.7,
+  "text": "before I was ever elected is I always thought it was possible to be progressive in addressing",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1610.7,
+  "end": 1619.2,
+  "text": "the city's needs but also do that in a way that is within our means, that we can afford.",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1619.2,
+  "end": 1623.8,
+  "text": "Put another way, I think it's, you know, it's simple to do great and amazing things when",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1623.8,
+  "end": 1627.4,
+  "text": "you're spending beyond your means at any level of government and we see that.",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1627.4,
+  "end": 1633.7,
+  "text": "At the same time, it's also simple to keep your taxes low under inflation by cutting",
+  "no_speech": 0.0,
+  "logprob": -0.145,
+  "source": "whisper"
+ },
+ {
+  "start": 1633.7,
+  "end": 1635.2,
+  "text": "and harming your city, which we haven't done.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1635.9,
+  "end": 1637.7,
+  "text": "And we've done it for a number of years in a row.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1637.8,
+  "end": 1640.8,
+  "text": "And I think that's a testament, again, not only to our staff,",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1641.0,
+  "end": 1642.4,
+  "text": "but our council as well.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1642.4,
+  "end": 1649.1,
+  "text": "I'm amazed at how reasonable and ethical members of council are.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1650.0,
+  "end": 1654.3,
+  "text": "Just look around at other councils, and you can see the turmoil",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1654.3,
+  "end": 1657.4,
+  "text": "and the lack of clear direction and commitment.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1657.9,
+  "end": 1659.1,
+  "text": "And it's because we are disciplined.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1659.3,
+  "end": 1662.8,
+  "text": "It's because we look at the long game and make the right decisions.",
+  "no_speech": 0.0,
+  "logprob": -0.177,
+  "source": "whisper"
+ },
+ {
+  "start": 1662.8,
+  "end": 1667.9,
+  "text": "So again, I just want to be thankful to you, Mr. Mayor, for your leadership and thankful",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1667.9,
+  "end": 1674.6,
+  "text": "to this Council for their discipline and as always to staff for making this a much more",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1674.6,
+  "end": 1678.7,
+  "text": "enjoyable process than I think you'll see across the province and country.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1678.7,
+  "end": 1679.7,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1679.7,
+  "end": 1681.7,
+  "text": "Thank you, Councillor Davey.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1681.7,
+  "end": 1682.7,
+  "text": "Councillor Schnider.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1682.7,
+  "end": 1684.7,
+  "text": "Thank you, Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1684.7,
+  "end": 1686.9,
+  "text": "I echo those comments.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1686.9,
+  "end": 1692.6,
+  "text": "I also want to thank our residents who took part in the strategic plan and gave their",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1692.6,
+  "end": 1699.6,
+  "text": "input and to our staff who led that input.",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1699.6,
+  "end": 1703.6,
+  "text": "Because of that, we know the type of city our residents want.",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1703.6,
+  "end": 1710.9,
+  "text": "We took all that information and it was filtered down into pillars of the strategic plan and",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1710.9,
+  "end": 1716.8,
+  "text": "staff have done a great job in putting things forward underneath those pillars of our staff",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 1716.8,
+  "end": 1723.4,
+  "text": "strategic plan so we move forward and we can show our residents progress in that.",
+  "no_speech": 0.0,
+  "logprob": -0.106,
+  "source": "whisper"
+ },
+ {
+  "start": 1723.4,
+  "end": 1729.5,
+  "text": "Great work by staff and as I look around the horseshoe, I'm just so happy and blessed",
+  "no_speech": 0.0,
+  "logprob": -0.106,
+  "source": "whisper"
+ },
+ {
+  "start": 1729.5,
+  "end": 1735.5,
+  "text": "and proud to work with each and every one of you because it's a real team effort here",
+  "no_speech": 0.0,
+  "logprob": -0.106,
+  "source": "whisper"
+ },
+ {
+  "start": 1735.5,
+  "end": 1740.9,
+  "text": "and we don't always agree on everything but we sure have a lot of respect and camaraderie",
+  "no_speech": 0.0,
+  "logprob": -0.106,
+  "source": "whisper"
+ },
+ {
+  "start": 1740.9,
+  "end": 1745.7,
+  "text": "within each other and we all want great things for the city and together with our staff I",
+  "no_speech": 0.0,
+  "logprob": -0.106,
+  "source": "whisper"
+ },
+ {
+  "start": 1745.7,
+  "end": 1747.5,
+  "text": "I think this budget delivers that.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 1752.3,
+  "end": 1753.3,
+  "text": "Thank you, Councillor Schnider.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 1753.3,
+  "end": 1754.2,
+  "text": "Councillor Singh.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 1754.2,
+  "end": 1755.8,
+  "text": "Thank you, Mr. Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 1755.8,
+  "end": 1760.0,
+  "text": "Happy to proceed with the continued theme",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 1760.0,
+  "end": 1765.0,
+  "text": "about a sense of pride and a fortune of this council,",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 1766.6,
+  "end": 1769.2,
+  "text": "this community, our leadership team,",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 1769.2,
+  "end": 1771.8,
+  "text": "and our staff throughout the corporation,",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 1771.8,
+  "end": 1778.8,
+  "text": "fact that there is a very innate cohesion of viewpoints.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1778.8,
+  "end": 1784.5,
+  "text": "I think it's quite evident in most councils and government bodies where people come forward",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1784.5,
+  "end": 1791.8,
+  "text": "with very hard set ideas and sometimes those ideas can butt heads and there's conflict.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1791.8,
+  "end": 1796.7,
+  "text": "I'm not saying that's not the case here where people have strong ideas, but there is a strong",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1796.7,
+  "end": 1803.0,
+  "text": "sense of respect amongst each other as Council colleagues in our viewpoints about what's good",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1803.0,
+  "end": 1807.8,
+  "text": "for this community. And even more so importantly, and that's where it constantly needs to be",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1807.8,
+  "end": 1813.9,
+  "text": "nurtured, there is a respect from this leadership as a Council towards our staff, acknowledging",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1813.9,
+  "end": 1819.9,
+  "text": "that the heavy lifting, it's very easy for us to come up with ideas or direct, but the heavy lifting",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1819.9,
+  "end": 1825.0,
+  "text": "is done always by our staff and there is that mutual respect back and forth. And then one more",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1825.0,
+  "end": 1829.9,
+  "text": "thing, Mr. May, I really do want to acknowledge, you know, as Mayor Davey has said, um, sorry,",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1831.0,
+  "end": 1838.7,
+  "text": "Chair Davey. I haven't decided on that yet. I'm going to take that endorsement back and hold it",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1838.7,
+  "end": 1848.4,
+  "text": "for later some other day. We'll talk later behind the doors. What Chair, I'm sorry, Councillor Davey",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1848.4,
+  "end": 1858.5,
+  "text": "has said that this budget, which is aligned to our past history of coming with a rate",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 1858.5,
+  "end": 1864.9,
+  "text": "increase that's close to sustainability, affordability by residents, that it's in line with our policy",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 1864.9,
+  "end": 1870.6,
+  "text": "for inflation or the average of two years of inflation in close proximity.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 1870.6,
+  "end": 1873.9,
+  "text": "It's a lot of work done by previous years.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 1873.9,
+  "end": 1880.3,
+  "text": "at other councils or even just past few days of the region's budget where they had 12-plus",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1880.3,
+  "end": 1885.5,
+  "text": "hours of very different dialogue. Well, guess what? We had that time, too. I remember in",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1885.5,
+  "end": 1891.5,
+  "text": "2010, 2011, 2013, in those years where we had challenging budgets, where we had very",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1891.5,
+  "end": 1898.5,
+  "text": "long protractive debates about which way to proceed forward. And as time has gone by,",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1898.5,
+  "end": 1903.4,
+  "text": "our budget has gotten easier and easier because there is a collective vision as to what's",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 1903.4,
+  "end": 1907.4,
+  "text": "sustainable, what's wanted by the community, where we need to invest, where we need to",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1907.4,
+  "end": 1908.4,
+  "text": "save.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1908.4,
+  "end": 1911.9,
+  "text": "And we're very fortunate that we are in that place.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1911.9,
+  "end": 1916.9,
+  "text": "And the last thing I really want to say is, now that the procedure has changed, where",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1916.9,
+  "end": 1922.7,
+  "text": "it's not necessarily staff, sorry, council's budget, it's the mayor's budget that's put",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1922.7,
+  "end": 1925.4,
+  "text": "forward, I think the process is still very much the same.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1925.4,
+  "end": 1932.2,
+  "text": "We still collectively come together and point out what's still needed to invest in our community.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1932.2,
+  "end": 1937.1,
+  "text": "Barry, you have approached this in a very collaborative way where you're not single-handedly",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 1937.1,
+  "end": 1943.5,
+  "text": "setting the direction, but taking the cohesive opinions of your colleagues as council members",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 1943.5,
+  "end": 1948.5,
+  "text": "and hearing from the community. And I thank you for that. And I think it's indicative",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 1948.5,
+  "end": 1952.7,
+  "text": "of our motion that will get passed forward to direct staff to proceed with the budget",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 1952.7,
+  "end": 1957.7,
+  "text": "that at the end of the day, it is a collective choice that we are all behind the budget that's",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 1957.7,
+  "end": 1961.7,
+  "text": "set forward. And it's a budget, I want to say one more time, it's sustainable. It's",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 1961.7,
+  "end": 1969.2,
+  "text": "within affordability and more importantly, it continues building on past successes of",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1969.2,
+  "end": 1971.8,
+  "text": "service improvements and really building upon our community.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1971.8,
+  "end": 1976.1,
+  "text": "So thank you, Mr. Mayor and thank you to Chair Davey and Vice Chair Ioannidis as well and",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1976.1,
+  "end": 1977.1,
+  "text": "staff.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1977.1,
+  "end": 1979.0,
+  "text": "Thank you, Councillor Singh.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1979.0,
+  "end": 1981.5,
+  "text": "For your comments, Councillor Deneault.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1981.5,
+  "end": 1982.5,
+  "text": "Thank you, Mr. Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1982.5,
+  "end": 1989.4,
+  "text": "And I'm going to obviously echo what my three fellow councillors have said already.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 1989.4,
+  "end": 1993.6,
+  "text": "I want to thank staff and I want to thank my fellow councillors.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 1993.6,
+  "end": 2000.6,
+  "text": "This is my third budget and in these three years everybody has been nothing but accommodating",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 2000.6,
+  "end": 2001.6,
+  "text": "with questions.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 2001.6,
+  "end": 2004.1,
+  "text": "It's still a learning process.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 2004.1,
+  "end": 2005.4,
+  "text": "Every day there's something new.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 2005.4,
+  "end": 2013.1,
+  "text": "Again, I want to thank staff and council for being always welcome to have questions answered",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 2013.1,
+  "end": 2015.4,
+  "text": "and asked.",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 2015.4,
+  "end": 2020.8,
+  "text": "We often hear that people want to have their taxes reduced.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 2020.8,
+  "end": 2025.4,
+  "text": "We get emails, I get emails or phone calls saying we're paying too much and we can't",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 2025.4,
+  "end": 2026.9,
+  "text": "afford it.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 2026.9,
+  "end": 2033.7,
+  "text": "Often the reality is we as council or the mayor has to make a decision.",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 2033.7,
+  "end": 2039.5,
+  "text": "Do we cut services or do we maintain services while increasing the tax levy at a responsible",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 2039.5,
+  "end": 2040.6,
+  "text": "rate?",
+  "no_speech": 0.0,
+  "logprob": -0.2,
+  "source": "whisper"
+ },
+ {
+  "start": 2040.6,
+  "end": 2046.6,
+  "text": "I believe this is a responsible rate where we're maintaining our services, plus each",
+  "no_speech": 0.0,
+  "logprob": -0.221,
+  "source": "whisper"
+ },
+ {
+  "start": 2046.6,
+  "end": 2053.2,
+  "text": "ward is going to have some new recreation infrastructure, whether it's refurbishing",
+  "no_speech": 0.0,
+  "logprob": -0.221,
+  "source": "whisper"
+ },
+ {
+  "start": 2053.2,
+  "end": 2058.9,
+  "text": "of basketball courts or installation of pickleball courts.",
+  "no_speech": 0.0,
+  "logprob": -0.221,
+  "source": "whisper"
+ },
+ {
+  "start": 2058.9,
+  "end": 2063.4,
+  "text": "So I've often said to people who say, well, we need to cut our taxes.",
+  "no_speech": 0.0,
+  "logprob": -0.221,
+  "source": "whisper"
+ },
+ {
+  "start": 2063.4,
+  "end": 2065.9,
+  "text": "Well, where would you like the taxes cut from?",
+  "no_speech": 0.0,
+  "logprob": -0.221,
+  "source": "whisper"
+ },
+ {
+  "start": 2065.9,
+  "end": 2071.4,
+  "text": "Do we want to have less snow clearing on our roads in the winter?",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2071.4,
+  "end": 2077.1,
+  "text": "Do we want to cut some of our recreation programs that are so important for our young people?",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2077.1,
+  "end": 2083.1,
+  "text": "And so if we do that, you know, we'll be the first one to have to answer the call when,",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2083.1,
+  "end": 2085.2,
+  "text": "well, how come you didn't plow my street quick enough?",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2085.2,
+  "end": 2089.5,
+  "text": "Or how come my son can't partake in this because the gym has closed early?",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2089.5,
+  "end": 2093.5,
+  "text": "And so, you know, we have to have a delicate balancing act.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2093.5,
+  "end": 2099.7,
+  "text": "And I think this is what I've learned from the three years, that we do balance our needs",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 2099.7,
+  "end": 2107.6,
+  "text": "and our wants in great, I don't know what I'm looking for, but we do a good job.",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 2109.2,
+  "end": 2109.9,
+  "text": "That works.",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 2110.2,
+  "end": 2111.1,
+  "text": "We do a good job.",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 2111.1,
+  "end": 2118.8,
+  "text": "You know, when I'm driving in my other job down a bumpy road with my residents and they're",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 2118.8,
+  "end": 2122.0,
+  "text": "complaining about the bumps, and I'll say, and I'll often joke with them, you didn't",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 2122.0,
+  "end": 2123.2,
+  "text": "pay enough taxes back then.",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 2123.2,
+  "end": 2124.3,
+  "text": "That's why our roads are bumpy.",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2125.2,
+  "end": 2134.9,
+  "text": "And, you know, we're paying, you know, we have to take care of the priorities now and not push what we need down further down the road because it's going to cost us more money.",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2135.3,
+  "end": 2142.6,
+  "text": "And so I don't want to have to answer when I'm being driven around in 30 years why the roads are so bumpy that because I didn't pay enough taxes.",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2143.1,
+  "end": 2144.0,
+  "text": "And no, I'm serious, though.",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2144.1,
+  "end": 2145.9,
+  "text": "You know, like nobody wants to pay more.",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2146.0,
+  "end": 2150.7,
+  "text": "But at the end of the day, we have to pay more for a little bit to maintain or improve our services.",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2150.7,
+  "end": 2154.8,
+  "text": "And so, again, I just, you know, we're not overspending.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2154.9,
+  "end": 2156.0,
+  "text": "We're staying within our limits.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2156.3,
+  "end": 2162.6,
+  "text": "And as Councillor Davey and Schneider and Singh had mentioned, you know, look around the province.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2162.8,
+  "end": 2163.7,
+  "text": "Look around our region.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2164.4,
+  "end": 2173.1,
+  "text": "And, you know, we're lucky that we have this cohesiveness around this horseshoe that we get stuff done.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2173.6,
+  "end": 2174.8,
+  "text": "And we do good work.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2174.9,
+  "end": 2178.1,
+  "text": "And that's a result of staff working with council and council working with staff.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2178.2,
+  "end": 2179.6,
+  "text": "So, again, thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2179.6,
+  "end": 2183.5,
+  "text": "my third budget in the books.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2183.9,
+  "end": 2186.3,
+  "text": "Again, it's great to be around this horseshoe.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2186.5,
+  "end": 2186.8,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2188.2,
+  "end": 2189.3,
+  "text": "Thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2189.4,
+  "end": 2190.1,
+  "text": "Councillor Deneault.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2190.2,
+  "end": 2191.3,
+  "text": "Councillor Ioannidis.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2193.2,
+  "end": 2196.2,
+  "text": "Yeah, thank you, Mayor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2196.5,
+  "end": 2198.6,
+  "text": "I don't think there's much more I can add",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2198.6,
+  "end": 2200.3,
+  "text": "to what's been said already.",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2202.1,
+  "end": 2206.7,
+  "text": "I think, you know, reminiscing from the early days,",
+  "no_speech": 0.0,
+  "logprob": -0.284,
+  "source": "whisper"
+ },
+ {
+  "start": 2206.7,
+  "end": 2216.0,
+  "text": "as Councillor Singh had mentioned, many, many hours that we spent going line by line and",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2216.0,
+  "end": 2218.4,
+  "text": "you know, even cutting fountains.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2218.4,
+  "end": 2221.3,
+  "text": "We've come a long way.",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2221.3,
+  "end": 2228.8,
+  "text": "But what I think what makes me the most proud about the budgets that we've passed over the",
+  "no_speech": 0.0,
+  "logprob": -0.208,
+  "source": "whisper"
+ },
+ {
+  "start": 2228.8,
+  "end": 2238.2,
+  "text": "last 13, 14 years, 15 years, is we never lost sight on producing the core services that",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2238.2,
+  "end": 2242.5,
+  "text": "our residents need and deserve.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2242.5,
+  "end": 2248.3,
+  "text": "And we've always managed to enhance those services even when others can't do it.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2248.3,
+  "end": 2254.7,
+  "text": "And those are the things that make me the most proud about our budgets.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2254.7,
+  "end": 2258.3,
+  "text": "And again, I'll just echo the same thing.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2258.3,
+  "end": 2262.9,
+  "text": "What we've accomplished is by no means not an accident.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2262.9,
+  "end": 2268.9,
+  "text": "It's been very purposeful and it's been a steady ship and that's been that case because",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2268.9,
+  "end": 2274.5,
+  "text": "of the great relationship that previous councils have had but also the leadership team that",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2274.5,
+  "end": 2278.4,
+  "text": "we've experienced over the years as well.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2278.4,
+  "end": 2289.4,
+  "text": "I truly believe that consistency of having folks around this horseshoe and around the",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 2289.4,
+  "end": 2298.0,
+  "text": "on the outer horseshoe is why we're here today and continue to be pushing budgets that are",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 2298.0,
+  "end": 2300.7,
+  "text": "well within sustainable limits within the region.",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 2300.7,
+  "end": 2304.0,
+  "text": "Thank you, Councillor Aronides.",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 2304.0,
+  "end": 2306.0,
+  "text": "Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.344,
+  "source": "whisper"
+ },
+ {
+  "start": 2306.0,
+  "end": 2309.6,
+  "text": "Yes, thank you, Mr. Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2309.9,
+  "end": 2313.9,
+  "text": "And I too want to echo the comments that have been made around the horseshoe.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2314.0,
+  "end": 2317.3,
+  "text": "I want to say a big thank you to our staff.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2318.0,
+  "end": 2325.6,
+  "text": "You always do your best to do your best for the city.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2325.6,
+  "end": 2331.8,
+  "text": "And it really is an honor to have the opportunity to work with both you and our council.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2331.8,
+  "end": 2344.7,
+  "text": "And I think that my council colleagues have expressed very well around the table how much we respect you and how much we respect each other and our residents.",
+  "no_speech": 0.0,
+  "logprob": -0.085,
+  "source": "whisper"
+ },
+ {
+  "start": 2344.9,
+  "end": 2349.8,
+  "text": "The most important thing is to respect our residents and that is to be fiscally responsible.",
+  "no_speech": 0.0,
+  "logprob": -0.085,
+  "source": "whisper"
+ },
+ {
+  "start": 2350.1,
+  "end": 2355.3,
+  "text": "So thank you so much to everyone that's been involved in producing the budget.",
+  "no_speech": 0.0,
+  "logprob": -0.085,
+  "source": "whisper"
+ },
+ {
+  "start": 2355.3,
+  "end": 2363.2,
+  "text": "I just wanted to say as well that I'm sorry we had an audio problem earlier and I wasn't able to",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2363.2,
+  "end": 2370.0,
+  "text": "to join the meeting at the beginning and I did miss the part where we were to mention our conflicts",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2370.0,
+  "end": 2380.8,
+  "text": "and I have a conflict on page 32 of the capital budget my street is mentioned on that page",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2380.8,
+  "end": 2386.7,
+  "text": "I just wanted to declare a conflict on that.",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2386.7,
+  "end": 2388.7,
+  "text": "And thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2388.7,
+  "end": 2390.2,
+  "text": "And that street was?",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2390.2,
+  "end": 2391.2,
+  "text": "Councillor Johnston?",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2391.2,
+  "end": 2392.2,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2392.2,
+  "end": 2395.5,
+  "text": "I have to mention the street?",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2395.5,
+  "end": 2397.4,
+  "text": "No, no, no, no.",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2397.4,
+  "end": 2398.4,
+  "text": "What's the street?",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2398.4,
+  "end": 2402.5,
+  "text": "Okay, what's the item number?",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2402.5,
+  "end": 2405.5,
+  "text": "It's page 32.",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2405.5,
+  "end": 2409.7,
+  "text": "I'm sorry, I don't have my budget in front of me.",
+  "no_speech": 0.0,
+  "logprob": -0.465,
+  "source": "whisper"
+ },
+ {
+  "start": 2409.7,
+  "end": 2415.5,
+  "text": "That's fine. We'll fill it out on your form. Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 2415.5,
+  "end": 2417.5,
+  "text": "Thank you so much.",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 2417.5,
+  "end": 2422.5,
+  "text": "Okay. Those appear to be all the comments. Thank you everyone for your comments. We'll",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 2422.5,
+  "end": 2431.6,
+  "text": "now deal with it in three or four components, I guess. The first thing I'll deal with in",
+  "no_speech": 0.0,
+  "logprob": -0.278,
+  "source": "whisper"
+ },
+ {
+  "start": 2431.6,
+  "end": 2440.1,
+  "text": "order to accommodate for the conflict with KPL. So I will deal with receiving and directing",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 2440.1,
+  "end": 2450.0,
+  "text": "staff to implement for Kitchener Public Library. All those in favour? Opposed? And that is",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 2450.0,
+  "end": 2461.3,
+  "text": "carried unanimously with the one noted conflict. I'll next deal with the three items that Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.132,
+  "source": "whisper"
+ },
+ {
+  "start": 2461.3,
+  "end": 2468.4,
+  "text": "Singh has a conflict with. So the Mill, Cortland and Connaught capital projects and the parking",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 2468.4,
+  "end": 2480.5,
+  "text": "rate on Brougham Street. Those in favour? Those opposed? And that too is carried unanimously.",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 2480.5,
+  "end": 2490.9,
+  "text": "Next I will deal with the conflict that Councillor Johnston has on page 32 due to her residence.",
+  "no_speech": 0.0,
+  "logprob": -0.238,
+  "source": "whisper"
+ },
+ {
+  "start": 2490.9,
+  "end": 2494.9,
+  "text": "Those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.316,
+  "source": "whisper"
+ },
+ {
+  "start": 2494.9,
+  "end": 2495.9,
+  "text": "Those opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.316,
+  "source": "whisper"
+ },
+ {
+  "start": 2495.9,
+  "end": 2498.8,
+  "text": "And that too is carried unanimously.",
+  "no_speech": 0.0,
+  "logprob": -0.316,
+  "source": "whisper"
+ },
+ {
+  "start": 2498.8,
+  "end": 2505.8,
+  "text": "And then lastly, I will deal with the balance of the budget in terms of receiving it and",
+  "no_speech": 0.0,
+  "logprob": -0.316,
+  "source": "whisper"
+ },
+ {
+  "start": 2505.8,
+  "end": 2512.8,
+  "text": "referring it to staff and a recorded vote has been requested.",
+  "no_speech": 0.0,
+  "logprob": -0.316,
+  "source": "whisper"
+ },
+ {
+  "start": 2512.8,
+  "end": 2519.5,
+  "text": "Okay, please proceed.",
+  "no_speech": 0.0,
+  "logprob": -0.316,
+  "source": "whisper"
+ },
+ {
+  "start": 2519.5,
+  "end": 2535.1,
+  "text": "Sorry, there's a conflict.",
+  "no_speech": 0.0,
+  "logprob": -0.36,
+  "source": "whisper"
+ },
+ {
+  "start": 2535.1,
+  "end": 2536.1,
+  "text": "I press conflict?",
+  "no_speech": 0.0,
+  "logprob": -0.36,
+  "source": "whisper"
+ },
+ {
+  "start": 2536.1,
+  "end": 2537.1,
+  "text": "Oh, sorry.",
+  "no_speech": 0.0,
+  "logprob": -0.36,
+  "source": "whisper"
+ },
+ {
+  "start": 2537.1,
+  "end": 2540.1,
+  "text": "Do we need to do this again?",
+  "no_speech": 0.0,
+  "logprob": -0.36,
+  "source": "whisper"
+ },
+ {
+  "start": 2540.1,
+  "end": 2542.1,
+  "text": "Okay, we need to do this again.",
+  "no_speech": 0.0,
+  "logprob": -0.36,
+  "source": "whisper"
+ },
+ {
+  "start": 2542.1,
+  "end": 2543.1,
+  "text": "Sorry.",
+  "no_speech": 0.0,
+  "logprob": -0.36,
+  "source": "whisper"
+ },
+ {
+  "start": 2543.1,
+  "end": 2547.1,
+  "text": "Sorry, I did have a long day yesterday, 15 hours to be exact.",
+  "no_speech": 0.0,
+  "logprob": -0.36,
+  "source": "whisper"
+ },
+ {
+  "start": 2547.1,
+  "end": 2565.0,
+  "text": "Sorry. There we go. And that is carried unanimously. Thank you very much, everyone. We will now",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 2565.0,
+  "end": 2572.4,
+  "text": "deal with the bylaws. And the bylaws actually today have nothing to do with the budget,",
+  "no_speech": 0.0,
+  "logprob": -0.253,
+  "source": "whisper"
+ },
+ {
+  "start": 2572.4,
+  "end": 2578.0,
+  "text": "rather with parking on various streets. So do I have a mover for the bylaws? Moved by",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 2578.0,
+  "end": 2584.5,
+  "text": "Councillor O'Dooney, seconded by Councillor Ioannidis. All those in favour? Opposed? That's",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 2584.5,
+  "end": 2589.3,
+  "text": "carried. And also the confirmatory bylaw was actually we'll do that one separately. Moved",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 2589.3,
+  "end": 2596.5,
+  "text": "by Councillor Chapman, seconded by Councillor Michaud. All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 2596.5,
+  "end": 2603.9,
+  "text": "and I won't say anything about the upcoming holiday season because we have regular council on Monday",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2603.9,
+  "end": 2612.0,
+  "text": "for one final one of 2024. But thank you again to all of our staff for your great work. It truly",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2612.0,
+  "end": 2620.0,
+  "text": "is appreciated and while we focused on CLT and the finance budget team today, obviously couldn't do",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2620.0,
+  "end": 2626.2,
+  "text": "without clerks, communications. I see Ms. Rowland is here and I see Ms. Weaver is here",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2626.2,
+  "end": 2631.1,
+  "text": "from our office and the support from our office of Mayor and Council want to thank and acknowledge",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2631.1,
+  "end": 2634.5,
+  "text": "them as well. Thank you everyone. Motion to adjourn.",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2634.5,
+  "end": 2640.7,
+  "text": "Moved by Councillor Deneault and seconded by Councillor Stretch. All those in favour? Opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2640.7,
+  "end": 2642.0,
+  "text": "That's carried. Thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ }
+]
