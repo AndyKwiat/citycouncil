@@ -1,0 +1,24 @@
+{
+ "title": "KPMG presents 2023 external audit plan",
+ "subtitle": "Audit risks, materiality, new asset retirement obligation standard, lean audit option and a finance staff introduction.",
+ "overview": [
+  "The Committee of the Whole met briefly to review the 2023 External Audit Plan for the City's financial statements, presented by KPMG LLP. The committee received the plan for information {{vote:m1}}. Because the committee only received a report, no further Council action was needed on it.",
+  "The auditors described how they will approach the year-end audit. They highlighted management override of controls as a standard fraud risk required in every Canadian audit, and said they found no further areas needing a special response. Other focus areas were post-employment benefits, tangible capital assets, development charge reserve funds and deferred revenue, and a new accounting standard requiring the City to record asset retirement obligations, such as landfill closure and asbestos removal.",
+  "Audit work will continue in March, with a report to committee in June. Staff also introduced a senior corporate analyst who leads the City's internal work on the external audit. The meeting adjourned {{vote:m2}}, ahead of a special Council meeting."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "2023 External Audit Plan",
+   "detail": "The committee received KPMG LLP's 2023 External Audit Plan for information {{vote:m1}}."
+  }
+ ],
+ "debate": [
+  "The auditor explained that materiality was set using total revenue as the benchmark and is comparable to the prior year. The auditor acknowledged the amount may seem high, but said it reflects what would change a reader's view of the financial statements. Any difference above a much lower threshold will be reported to the committee.",
+  "The auditor said management override of controls is rated significant in every audit as a presumed fraud risk, not because of any concern specific to Guelph. One councillor repeated this point to clarify that nothing in the plan signals a problem.",
+  "The auditor noted that development charge revenue is recognized when money is spent rather than when collected, which creates a timing mismatch and an elevated risk needing extra processes.",
+  "A councillor asked about the 'lean audit' option in the appendix. The auditor said it is an optional add-on to examine processes for redundancy, has not been adopted for the City, and could be considered."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T11:11:10"
+}

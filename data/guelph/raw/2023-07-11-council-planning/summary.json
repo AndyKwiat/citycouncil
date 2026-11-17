@@ -1,0 +1,40 @@
+{
+ "title": "Student residence proposal at 716 Gordon Street",
+ "subtitle": "Also: a Alice Street semi-detached rezoning, a garage demolition, and staff authority over minor zoning amendments.",
+ "overview": [
+  "Council's main item was the statutory public meeting on a proposed 11-storey private student residence at 716 Gordon Street, at Stone Road East. The application would change the site-specific density rules to count bedrooms and reduce parking and setback requirements. Council received the report {{vote:m3}}. No decision on the application was made, and staff will report back at a future meeting. One councillor declared a conflict of interest and did not take part.",
+  "Council also received a report on a rezoning to allow a semi-detached dwelling at 25 Alice Street {{vote:m2}}. It approved demolition of a detached garage at 12 Forbes Avenue {{vote:m1}}.",
+  "The most lasting decision was Official Plan Amendment No. 91 {{vote:m4}}. It lets the general manager of planning and building services approve minor zoning by-law amendments, such as lifting holding provisions, temporary uses and correcting errors. Council approval will no longer be needed for these. Public notice will still be given, and a public meeting will still be held if written concerns are received. Changes of land use and minor variances are not covered."
+ ],
+ "decisions": [
+  {
+   "motion": "m4",
+   "item": "Delegation of authority for minor zoning amendments",
+   "detail": "Council approved Official Plan Amendment No. 91 and a related by-law, allowing staff to approve holding-provision removals, temporary uses and other minor zoning corrections."
+  },
+  {
+   "motion": "m3",
+   "item": "716 Gordon Street student residence",
+   "detail": "Council received the statutory public meeting report on proposed Official Plan and zoning amendments for an 11-storey private student residence, with no decision on the application."
+  },
+  {
+   "motion": "m2",
+   "item": "25 Alice Street rezoning",
+   "detail": "Council received the public meeting report on a zoning amendment to permit a semi-detached dwelling, with staff review to continue."
+  },
+  {
+   "motion": "m1",
+   "item": "12 Forbes Avenue demolition",
+   "detail": "Council approved demolition of the detached accessory garage at 12 Forbes Avenue."
+  }
+ ],
+ "debate": [
+  "Delegates from the neighbourhood and a legal representative raised concerns about noise from three large outdoor terraces on the fourth floor, which they said were not part of the 2013 Ontario Municipal Board approval. They also worried about precedent for other student projects.",
+  "Residents and a community association objected to the removal of mature trees along the property line, which they see as a buffer for neighbouring homes. They also raised reduced setbacks, parking overflow, and delivery and garbage truck traffic along the rear driveway.",
+  "The applicant's team said the building mass matches the 2013 decision, bedrooms drop by almost 200, and minimum parking rises. They said the units are not affordable, that ownership and rental plans are not settled, and that the word \"private\" would be added to the definition after the university raised concerns.",
+  "Councillors asked about the definition of post-secondary school residence, including whether it could affect property tax treatment, and about unit versus bedroom counts. Staff said the proposal is a new application and ownership does not matter under the Planning Act, except for later condominium conversion.",
+  "Councillors raised traffic safety at the Gordon and Stone intersection, including the driveway on Gordon Street and students crossing mid-block. On the delegation of authority, a councillor asked about public notice; staff said notices would still be published and circulated, and it would not help new uses."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T11:43:07"
+}

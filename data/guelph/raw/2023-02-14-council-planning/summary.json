@@ -1,0 +1,40 @@
+{
+ "title": "Public meeting on 23-storey tower at 58 Wellington",
+ "subtitle": "Also: approved gas bar car wash and Speedvale apartments, withdrawn sign variance, 70 Fountain Street by-laws.",
+ "overview": [
+  "Council held the statutory public meeting on a proposed 23-storey mixed-use building at 58 Wellington Street East. It would have 250 homes and about 714 square metres of retail space. The Official Plan allows up to 18 storeys on the site. Council only received the report {{vote:m5}}, so no decision on the proposal was made. Staff will review it and bring a recommendation to a later meeting.",
+  "Residents and delegates raised concerns about height, reduced parking, a smaller setback, flooding and the lack of affordable housing. Councillors asked the developer to return with more detail on underground parking, how the tower fits with nearby buildings, and sustainability. Staff said the city currently has no tool to require affordable units.",
+  "On the consent agenda, council approved a zoning change at 145 Speedvale Avenue West to allow an automatic car wash with a redevelopment of the gas bar {{vote:m2}}. It also approved changes allowing a 21-unit apartment building at 205-213 Speedvale Avenue East {{vote:m3}}. A sign by-law variance request for 43 Woodlawn Road West was withdrawn. Two by-laws implementing a tribunal decision on 70 Fountain Street East passed on a separate vote {{vote:m7}}."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "58 Wellington Street East public meeting",
+   "detail": "Council received the staff report on the proposed Official Plan and zoning amendments for a 23-storey, 250-unit mixed-use building, with no decision on the application."
+  },
+  {
+   "motion": "m2",
+   "item": "145 Speedvale Avenue West rezoning",
+   "detail": "Council approved rezoning to allow redevelopment of the gas bar and convenience store and to add an automatic car wash as a permitted use."
+  },
+  {
+   "motion": "m3",
+   "item": "205-213 Speedvale Avenue East",
+   "detail": "Council approved an Official Plan amendment and rezoning to permit a three-and-a-half-storey, 21-unit apartment building and conversion of the existing house into a three-unit building."
+  },
+  {
+   "motion": "m7",
+   "item": "70 Fountain Street East by-laws",
+   "detail": "Council passed the two by-laws implementing the Ontario Land Tribunal decision on 70 Fountain Street East, after they were pulled for a separate vote {{vote:m7}}."
+  }
+ ],
+ "debate": [
+  "Several delegates and councillors said 23 storeys is too much when the plan allows 18. A delegate from a neighbouring condo called the building's bulk overwhelming, and one councillor raised concern about its massing and length. The developer said an 18-storey version had been studied repeatedly and was hard to make viable.",
+  "Affordable housing was a main objection. The developer said the units would be sold at market prices and was open to exploring options. Staff said the city currently has no way to require affordable units. One councillor argued that adding any housing supply eases pressure further down the market.",
+  "Parking and access drew questions. Residents worried that deliveries, ambulances and visitors would stop on Wellington Street because of the 2.4-metre setback, where 10 metres is currently required. A councillor asked about a secondary service entrance and a transit lay-by. The developer said underground parking is difficult because of groundwater, and councillors asked for more explanation, noting other downtown buildings have it.",
+  "Delegates and councillors raised flood risk, since the site is in a special policy area next to a floodway. One delegate asked for a separate report on floodplain requirements and on the city's infrastructure costs. Councillors also asked for renderings showing the tower beside neighbouring buildings and about space for trees.",
+  "Debate on the 70 Fountain Street East by-laws was about principle. One councillor asked to vote separately because they did not want to support the outcome of the tribunal decision. The mayor said the by-laws were an administrative formality following the tribunal's ruling, and another councillor asked what would happen if council declined to ratify them."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T12:17:21"
+}

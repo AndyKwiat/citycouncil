@@ -1,0 +1,45 @@
+{
+ "title": "Audit plan received and council appointments reshuffled",
+ "subtitle": "Staff awards, a new governance vice-chair role, and chair appointments for the Elliott committee of management.",
+ "overview": [
+  "The committee opened by recognizing city staff for professional certifications and awards, including a national parking award, an environmental soil guidance award, a tourism marketing award, a culture days award and a national public works week award.",
+  "On audit, the committee received KPMG LLP's 2022 external audit plan for information {{vote:m1}}. The auditor described its approach, areas of focus such as post-employment benefits, contaminated sites, tangible capital assets and development charge reserve funds, and said it expects to report back in the spring.",
+  "On governance, the committee recommended several appointments through to November 15, 2024. Councillor Richardson would replace Councillor Busuttil as Vice-Chair of Audit {{vote:m2}}. The terms of reference would be updated to add a Governance vice-chair, with Councillor Busuttil appointed {{vote:m3}}. Councillor Downer would chair {{vote:m4}} and Councillor Klassen would be vice-chair {{vote:m5}} of the Committee of Management for the Elliott. These are recommendations that Council must still adopt."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "2022 external audit plan",
+   "detail": "The committee received KPMG LLP's 2022 External Audit Plan for information."
+  },
+  {
+   "motion": "m2",
+   "item": "Vice-Chair of Audit",
+   "detail": "The committee recommended that Councillor Richardson replace Councillor Busuttil as Vice-Chair of Audit for a term ending November 15, 2024."
+  },
+  {
+   "motion": "m3",
+   "item": "Governance vice-chair",
+   "detail": "The committee recommended updating its terms of reference to add a Governance vice-chair and appointing Councillor Busuttil to the role until November 15, 2024."
+  },
+  {
+   "motion": "m4",
+   "item": "Elliott committee chair",
+   "detail": "The committee recommended appointing Councillor Downer as chair of the Committee of Management for the Elliott for a term ending November 15, 2024."
+  },
+  {
+   "motion": "m5",
+   "item": "Elliott committee vice-chair",
+   "detail": "The committee recommended appointing Councillor Klassen as vice-chair of the Committee of Management for the Elliott for a term ending November 15, 2024."
+  }
+ ],
+ "debate": [
+  "The auditor explained that materiality was set at a level about midway in the allowed range of total revenues, and said a higher level would mean fewer transactions tested and less confidence in the conclusions. Setting it is the auditor's decision based on risk.",
+  "A councillor asked whether technology in audits reduces time and cost. The auditor said it has cut repetitive work and effort over time, but that higher quality requirements partly offset this.",
+  "A councillor asked about the effect of new auditing standards. The auditor estimated a modest increase in audit time and said staff may notice some extra work.",
+  "The auditor said development charges are an area of focus because revenue is recorded on a different timeline than cash is received. Spending from the reserve funds must also match the development charge study.",
+  "On governance, the Mayor said a Governance vice-chair would strengthen governance and provide backup for chairing. Moving the vice-chair of Audit to another councillor avoided one person holding two vice-chair roles, which would complicate the Elliott committee."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T12:19:43"
+}

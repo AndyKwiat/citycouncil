@@ -1,0 +1,40 @@
+{
+ "title": "Public meetings on two infill housing proposals",
+ "subtitle": "Heritage designation notices for two properties, a closed session on the Clair-Maltby appeal, and budget town hall reminder.",
+ "overview": [
+  "Council held statutory public meetings on two infill housing applications: a zoning change at 151 Bristol Street for two semi-detached buildings with additional units, and Official Plan and zoning changes at 14 Stevenson Street North for a 10-unit multi-residential building. Council received both staff reports {{vote:m5}} {{vote:m6}}. No decision on either application was made; the meetings gather public input before staff return with recommendations.",
+  "Residents raised concerns about density, parking, tree removal, grading and neighbouring properties. Councillors asked staff to take away questions on parking, drainage and floodplain issues, and stormwater at Bristol Street.",
+  "Council also adopted the consent report, which authorizes notices of intention to designate 331 Clair Road East and 49 Metcalfe Street under the Ontario Heritage Act {{vote:m2}}. After a closed session on the Clair-Maltby Secondary Plan Ontario Land Tribunal matter, the Mayor reported that Council received information and gave direction to staff. The Mayor also reminded residents of the last budget town hall on Thursday, November 23 at 7:00 p.m. at the West End Rec Centre."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "151 Bristol Street zoning amendment",
+   "detail": "Council received the public meeting report on a proposed zoning change to allow two semi-detached buildings with accessory units, with no decision made yet {{vote:m5}}."
+  },
+  {
+   "motion": "m6",
+   "item": "14 Stevenson Street North amendments",
+   "detail": "Council received the public meeting report on Official Plan and zoning changes for a 10-unit multi-residential building, with a decision to come later {{vote:m6}}."
+  },
+  {
+   "motion": "m3",
+   "item": "331 Clair Road East heritage designation",
+   "detail": "The Clerk was authorized to publish and serve notice of intention to designate the property under the Ontario Heritage Act {{vote:m3}}."
+  },
+  {
+   "motion": "m4",
+   "item": "49 Metcalfe Street heritage designation",
+   "detail": "The Clerk was authorized to publish and serve notice of intention to designate the property, with a designation by-law to return if no objections come in within 30 days {{vote:m4}}."
+  }
+ ],
+ "debate": [
+  "At Bristol Street, a neighbouring resident said concerns from an earlier proposal had not changed, citing parking, entry from Emsley Street, and the removal of mature trees from the lot.",
+  "Councillors questioned flooding and grading at Bristol Street, noting the site is in a floodplain with shallow bedrock and an old quarry face. The applicant's agent said the buildings would be raised and a geotechnical study was done.",
+  "On Bristol Street parking, the agent said the plan provides one space per unit. Two councillors said twelve units on the site could strain parking, waste storage, tree space and stormwater, and staff took these away.",
+  "At Stevenson Street North, a nearby resident raised concerns about digging near an older property, shadowing, driveway access, height, density and limited street parking. Another resident asked how rail proximity affects building near the tracks.",
+  "Councillors supported the Stevenson Street North design as missing-middle housing with a three-bedroom unit. They asked about the railway crash wall's appearance, noise clauses, parking overflow and energy goals. The applicant said it would look at greening options, and that the owner is aiming for a 25–30% energy reduction."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T11:16:46"
+}

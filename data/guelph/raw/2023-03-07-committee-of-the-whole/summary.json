@@ -1,0 +1,55 @@
+{
+ "title": "South End Community Centre budget increase",
+ "subtitle": "Also covered: tax policy, tree planting strategy, short-term rental licensing, revenue budgeting, transit advisory terms and internal audit plan.",
+ "overview": [
+  "The Committee of the Whole recommended that Council approve construction of the South End Community Centre at a project cost of $115.5 million, with an added $35.5 million drawn mostly from the parks and recreation development charge reserve {{vote:m9}}. Staff said the centre would open in 2026 and that the 2023 tax levy is not directly affected.",
+  "The committee also recommended approving the 2023 property tax ratios and rates {{vote:m3}} and a new revenue budgeting policy {{vote:m4}}. It backed the One Canopy Tree Planting Strategy, with funding to be considered in future budgets {{vote:m6}}. It recommended that staff draft a short-term rental licence schedule {{vote:m7}}. Staff are expected to return with changes to that schedule, including the insurance requirement, at the end of March.",
+  "The committee approved terms of reference for the Transit Advisory Committee {{vote:m5}} and the 2023 to 2025 internal audit work plan {{vote:m8}}, and received the 2022 election report {{vote:m2}}. After a closed session on corporate cyber security, the committee reported that Council received information and gave staff direction. Council still has to adopt the recommendations."
+ ],
+ "decisions": [
+  {
+   "motion": "m9",
+   "item": "South End Community Centre",
+   "detail": "The committee recommended approving construction at $115.5 million and an extra $35.5 million, funded $33,725,000 from development charges and $1,775,000 from tax-supported debt."
+  },
+  {
+   "motion": "m3",
+   "item": "2023 property tax policy",
+   "detail": "The committee recommended approving the 2023 tax ratios and corresponding tax rates set out in the staff report."
+  },
+  {
+   "motion": "m4",
+   "item": "Revenue Budgeting Policy",
+   "detail": "The committee recommended approving the policy, with staff to return with changes such as references to investment income and softer grant language."
+  },
+  {
+   "motion": "m6",
+   "item": "One Canopy Tree Planting Strategy",
+   "detail": "The committee recommended approving the strategy and its actions, with funding to be considered in future operating and capital budgets."
+  },
+  {
+   "motion": "m7",
+   "item": "Short-term rental licensing",
+   "detail": "The committee recommended directing staff to create a new licensing schedule for short-term rentals under the Business Licensing By-law."
+  },
+  {
+   "motion": "m5",
+   "item": "Transit Advisory Committee",
+   "detail": "The committee recommended approving the committee's terms of reference dated January 19, 2023."
+  },
+  {
+   "motion": "m8",
+   "item": "Internal Audit Work Plan",
+   "detail": "The committee approved the 2023 to 2025 internal audit work plan."
+  }
+ ],
+ "debate": [
+  "On tree planting, a delegate supported the strategy but said the 2070 target date lacks urgency and asked for intermediate targets. The delegate also stressed keeping new trees alive. Staff said they would set benchmarks to report to Council.",
+  "Councillors questioned whether the tree plan is affordable and realistic. They cited the annual cost, the roughly 80,000 small trees a year needed and limited planting space, and asked how Bill 23 and future development affect it. Staff said planting space is the main constraint and funding would be phased in through multi-year budgets.",
+  "On short-term rentals, one councillor questioned limiting an owner to a principal residence plus one more property, noting hotel owners face no such cap. Others said the limit protects long-term housing in residential zones and the rules can be reviewed after a year.",
+  "A delegate from the tourism sector supported including short-term rentals in the municipal accommodation tax for fairness. Staff said legal advice found the city need not be named on host insurance, so that requirement will be updated.",
+  "On the community centre, councillors asked about development charge uncertainty from provincial changes. Staff said charges have been collected for over 20 years, early debt was issued at a low rate, and the city is seeking grants. Councillors also asked about parking, transit access and keeping Centennial arena open."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T12:17:04"
+}
