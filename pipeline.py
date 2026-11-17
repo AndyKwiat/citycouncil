@@ -13,7 +13,7 @@ import argparse, datetime as dt, hashlib, json, os, pathlib, re, shutil, signal,
 
 from core.common import ROOT, STATE, SITE, UA, file_hash, get, log, read_json, write_json  # noqa: F401 (re-exported)
 from core import city as cities
-from core.summarize import SUMMARY_MODEL, check_summary, closed_only, formatted_start, transcript_text  # noqa: F401
+from core.summarize import SUMMARY_MODEL, check_summary, closed_only, formatted_start, nothing_to_summarize, transcript_text  # noqa: F401
 from core.transcribe import GAP_SECONDS, clean_segments, find_gaps, parse_vtt  # noqa: F401
 from core.votes import export_votes, meeting_dirs  # noqa: F401
 from core import summarize as summarize_step, transcribe as transcribe_step
@@ -176,7 +176,7 @@ def select(args, city=None):
     if args.latest:
         def closed(m):
             minutes = read_json(raw / m["key"] / "minutes.json")
-            return bool(minutes and closed_only(minutes))
+            return bool(minutes and nothing_to_summarize(minutes))
         missing = [m for m in past if not (raw / m["key"] / "summary.json").exists() and m["minutes_posted"] and not closed(m)]
         return missing[:args.latest]
     if args.new:

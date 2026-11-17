@@ -8,7 +8,7 @@ import build
 import pipeline as p
 from bs4 import BeautifulSoup
 from core import city as cities
-from core.summarize import check_summary, closed_only
+from core.summarize import cancelled, check_summary, closed_only, nothing_to_summarize, procedural_ids
 from sources import escribe
 
 GUELPH = cities.load("guelph")
@@ -321,3 +321,37 @@ class Cycles(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class NothingToDecide(unittest.TestCase):
+    """Kitchener committee meetings that kept failing with "no decisions" (Nov 2026)."""
+
+    def motion(self, mid, title, text="That ..."):
+        return {"id": mid, "item_title": title, "text": text}
+
+    def test_cancelled_meeting_is_skipped_for_good(self):
+        notice = {"roster": [], "motions": [], "items": [{"title": "Disclosure of Pecuniary Interest and the General Nature Thereof"},
+                                                         {"title": "MEETING CANCELLATION"}]}
+        self.assertTrue(cancelled(notice))
+        self.assertEqual(nothing_to_summarize(notice), "the meeting was cancelled")
+        held = dict(notice, roster=["Singh"], items=[{"title": "2026 Operating Budget"}])
+        self.assertFalse(cancelled(held))
+        self.assertIsNone(nothing_to_summarize(held))
+
+    def test_workshop_with_no_motions_needs_no_decisions(self):
+        summary = {"decisions": [], "overview": ["Staff presented the 2026 operating budget."], "debate": []}
+        self.assertEqual(check_summary(summary, []), [])
+
+    def test_routine_motions_only_need_no_decisions(self):
+        motions = [self.motion("m1", "In-camera Meeting Authorization"), self.motion("m2", "Adjournment")]
+        self.assertEqual(procedural_ids(motions), {"m1", "m2"})
+        self.assertEqual(check_summary({"decisions": [], "overview": ["x"], "debate": []}, motions), [])
+
+    def test_substantive_motion_still_needs_a_decision(self):
+        motions = [self.motion("m1", "Adjournment of Development Charge Complaints - 15 Dellroy Avenue")]
+        self.assertEqual(procedural_ids(motions), set())
+        self.assertIn("no decisions", check_summary({"decisions": [], "overview": ["x"], "debate": []}, motions))
+
+    def test_adjournment_titles(self):
+        for t in ["Adjourn", "Adjournment", "ADJOURNMENT – 8:52pm", "ADJOURNMENT 7:30PM"]:
+            self.assertEqual(procedural_ids([self.motion("m1", t)]), {"m1"}, t)

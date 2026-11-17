@@ -42,7 +42,7 @@ COMMITTEE_RULE = """
 
 # Routine motions a summary's decisions must not point at. "Closed Meeting Investigator" is not one of them.
 PROCEDURAL = (r"(authority|motion|resolution) to (move|go|hold|meet|proceed)[^.]{0,30}closed|^closed (meeting|session)( summary)?$"
-              r"|return to open|confirmation of|adjourn|by-?laws?$")
+              r"|^in-camera meeting authori[sz]ation|return to open|confirmation of|^adjourn(ment)?\b(?! of)|by-?laws?$")
 
 
 def transcript_text(segs):
@@ -79,6 +79,21 @@ def closed_only(minutes):
     return bool(motions) and procedural_ids(motions) == {x["id"] for x in motions}
 
 
+def cancelled(minutes):
+    """Minutes that are only a cancellation notice: no attendance, no motions, an item saying the meeting was cancelled."""
+    return (not minutes.get("roster") and not minutes.get("motions")
+            and any(re.search(r"\bcancel", i.get("title") or "", re.I) for i in minutes.get("items", [])))
+
+
+def nothing_to_summarize(minutes):
+    """Why a meeting gets no summary at all, or None: it was cancelled, or it only moved into closed session."""
+    if cancelled(minutes):
+        return "the meeting was cancelled"
+    if closed_only(minutes):
+        return "the meeting only went into closed session"
+    return None
+
+
 def check_summary(s, motions, council_size=13):
     ids = {x["id"] for x in motions}
     errors = [f"unknown motion {x['motion']}" for x in s["decisions"] if x["motion"] not in ids]
@@ -89,7 +104,9 @@ def check_summary(s, motions, council_size=13):
     errors += [f"unknown vote token {t}" for t in re.findall(r"\{\{vote:(m\d+)\}\}", text) if t not in ids]
     errors += [f"vote count written as digits: {a}-{b}" for a, b in re.findall(r"\b(\d{1,2})[-–](\d{1,2})\b", text)
                if int(a) + int(b) <= council_size and int(a) >= int(b)]
-    if not s["decisions"]:
+    # A workshop, budget presentation or public consultation can end with no motion at all; then an honest summary has
+    # no decisions. Only a meeting with a substantive motion must report at least one.
+    if not s["decisions"] and ids - procedural:
         errors.append("no decisions")
     return errors
 
@@ -110,8 +127,9 @@ def summarize(city, m, force=False):
     if not minutes:
         log("  skipped summary: no parsed minutes yet")
         return False
-    if closed_only(minutes):
-        log("  skipped summary: the meeting only went into closed session")
+    reason = nothing_to_summarize(minutes)
+    if reason:
+        log(f"  skipped summary: {reason}")
         return False
     if not shutil.which("claude"):
         raise RuntimeError("the claude CLI isn't on PATH, so summaries can't run")

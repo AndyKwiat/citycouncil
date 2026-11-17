@@ -1,4 +1,5 @@
 """Transcripts: closed captions first, Whisper on gaps of 5+ minutes or on the whole recording if captions are thin."""
+import urllib.error
 import pathlib, re, subprocess, tempfile, time, wave
 from core.common import log, read_json, write_json
 from video import isilive, youtube
@@ -110,7 +111,14 @@ def transcribe(city, m, force=False, whisper=False):
     hls = parts[0]["hls"]
     minutes = read_json(d / "minutes.json") or {}
     roster = minutes.get("roster", [])
-    duration = isilive.recording_seconds(hls)
+    try:
+        duration = isilive.recording_seconds(hls)
+    except urllib.error.HTTPError as e:
+        if e.code != 404:
+            raise
+        # The city took the recording down; the minutes still stand on their own.
+        log("  skipped transcript: the recording is no longer online (HTTP 404)")
+        return False
     captions = parse_vtt((d / "captions.vtt").read_text()) if (d / "captions.vtt").exists() else []
     words = sum(len(s["text"].split()) for s in captions)
     wpm = words / max(duration / 60, 1)
