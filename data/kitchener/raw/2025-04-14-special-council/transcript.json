@@ -1,0 +1,5122 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.4,
+  "text": "Mayor and Councillors Vrbanovic, Davey, Schultz, and",
+  "no_speech": 0.0,
+  "logprob": -0.54,
+  "source": "whisper"
+ },
+ {
+  "start": 1.4,
+  "end": 14.4,
+  "text": "Councillor C. Okay. Good afternoon, everyone, and welcome to the special Council meeting on",
+  "no_speech": 0.0,
+  "logprob": -0.54,
+  "source": "whisper"
+ },
+ {
+  "start": 14.4,
+  "end": 20.6,
+  "text": "Monday, April 14, 2025. Individuals interested in participating in this meeting were eligible",
+  "no_speech": 0.0,
+  "logprob": -0.54,
+  "source": "whisper"
+ },
+ {
+  "start": 20.6,
+  "end": 29.0,
+  "text": "to register online using the delegation registration form at www.kitchener.ca slash delegation or",
+  "no_speech": 0.0,
+  "logprob": -0.54,
+  "source": "whisper"
+ },
+ {
+  "start": 29.0,
+  "end": 34.8,
+  "text": "via email at delegation at kitchener.ca. Any written comments received prior to the commencement",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 34.8,
+  "end": 40.2,
+  "text": "of this evening's meeting have been circulated to members of Council and will form part of the",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 40.2,
+  "end": 46.5,
+  "text": "public record. The meeting live stream and archived videos are available at www.kitchener.ca",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 47.4,
+  "end": 52.8,
+  "text": "watch now. Before we begin this evening's meeting, I'd like to acknowledge that we're gathering on",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 52.8,
+  "end": 57.6,
+  "text": "the traditional territory of the neutral Anishinaabeg and Haudenosaunee peoples. We recognize",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 57.6,
+  "end": 62.4,
+  "text": "our responsibility to serve as stewards for the land and honour the original caretakers who came",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 62.4,
+  "end": 67.1,
+  "text": "before us. Our community is enriched by the enduring knowledge and deep-rooted traditions",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 67.1,
+  "end": 72.7,
+  "text": "of the diverse First Nations, Métis and Inuit in Kitchener today. Are there any disclosures",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 72.7,
+  "end": 79.6,
+  "text": "of pecuniary interest? There being none and there being no delegations, we'll go right into",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 79.6,
+  "end": 86.6,
+  "text": "presentations and we do have a presentation this afternoon from Grand",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 86.6,
+  "end": 93.6,
+  "text": "River Transit of its 10-year business plan. Council, we invited members of",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 93.6,
+  "end": 102.3,
+  "text": "regional GRT to come and present the 10-year business plan. It's, I will say,",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 102.3,
+  "end": 113.0,
+  "text": "We recently just saw it at regional committee and staff did a great job of creating a 10-year vision in terms of transit growth.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 113.6,
+  "end": 127.7,
+  "text": "And there's been an opportunity provided to share that information with area councils prior to it, prior to, I guess, another public meeting this Wednesday evening for the public for any final input.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 127.7,
+  "end": 142.6,
+  "text": "and then it'll be coming back likely in May, in June now, to Regional Council for final approval once any councils who have wanted to have the presentation have that opportunity.",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 143.4,
+  "end": 151.3,
+  "text": "And so with that, I will turn it over to Kevin Marshall, the Manager of Transit Development from the Region of Waterloo, to kick things off.",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 151.3,
+  "end": 156.9,
+  "text": "and he's joined today by Doug Spooner, the Commissioner of Transportation Services,",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 156.9,
+  "end": 161.4,
+  "text": "and Neil Malcolm, the Director of Transit Services, as well as their own Director of Transportation",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 161.4,
+  "end": 166.1,
+  "text": "Services, Barry Cronkite, who's in attendance. So with that, over to you, Kevin.",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 167.1,
+  "end": 172.1,
+  "text": "Thank you very much. So on behalf of GRT, I thank you for the opportunity to present today",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 172.1,
+  "end": 176.7,
+  "text": "and for working together to help make sustainable transportation the easy choice across Waterloo",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 176.7,
+  "end": 181.1,
+  "text": "region. Over the next 10 minutes I will walk you through the different sections of GRT's",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 181.1,
+  "end": 185.7,
+  "text": "business plan and the proposed transit investment priorities that will help increase speed and",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 185.7,
+  "end": 191.4,
+  "text": "reliability, serve new areas, and make transit easier to use for communities across Waterloo",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 191.4,
+  "end": 198.5,
+  "text": "region. But before we begin, let's quickly reflect on GRT's past 25 years and the transformative",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 198.5,
+  "end": 204.7,
+  "text": "impact sustained investment in transit has had in our community. So for example, in 1999 you",
+  "no_speech": 0.0,
+  "logprob": -0.115,
+  "source": "whisper"
+ },
+ {
+  "start": 204.7,
+  "end": 210.1,
+  "text": "couldn't get a city bus between cambridge and kitchener waterloo 25 years later i'm here to",
+  "no_speech": 0.0,
+  "logprob": -0.051,
+  "source": "whisper"
+ },
+ {
+  "start": 210.1,
+  "end": 216.1,
+  "text": "share grt's first business plan since the successful launch of ion bus and light rail transit record",
+  "no_speech": 0.0,
+  "logprob": -0.051,
+  "source": "whisper"
+ },
+ {
+  "start": 216.1,
+  "end": 221.6,
+  "text": "setting ridership and strong public support for grt to connect people jobs and homes across the",
+  "no_speech": 0.0,
+  "logprob": -0.051,
+  "source": "whisper"
+ },
+ {
+  "start": 221.6,
+  "end": 228.1,
+  "text": "region the grt business plan response to the region's projected population growth and transit",
+  "no_speech": 0.0,
+  "logprob": -0.051,
+  "source": "whisper"
+ },
+ {
+  "start": 228.1,
+  "end": 232.7,
+  "text": "priorities identified through the region's strategic plan recent budget consultations",
+  "no_speech": 0.0,
+  "logprob": -0.051,
+  "source": "whisper"
+ },
+ {
+  "start": 232.7,
+  "end": 238.9,
+  "text": "and projects and plans identified by the area municipalities ultimately the grt business plan",
+  "no_speech": 0.0,
+  "logprob": -0.026,
+  "source": "whisper"
+ },
+ {
+  "start": 238.9,
+  "end": 243.8,
+  "text": "will provide a road map for staff as we prepare transit investment proposals over the next 10",
+  "no_speech": 0.0,
+  "logprob": -0.026,
+  "source": "whisper"
+ },
+ {
+  "start": 243.8,
+  "end": 249.9,
+  "text": "years and beyond when building the plan our guiding principles shaped our planning and",
+  "no_speech": 0.0,
+  "logprob": -0.026,
+  "source": "whisper"
+ },
+ {
+  "start": 249.9,
+  "end": 255.3,
+  "text": "public engagement efforts and focused on asking how can we make transit the easy first choice",
+  "no_speech": 0.0,
+  "logprob": -0.026,
+  "source": "whisper"
+ },
+ {
+  "start": 255.3,
+  "end": 260.7,
+  "text": "for more people across waterloo region we did this to better understand how we can improve",
+  "no_speech": 0.0,
+  "logprob": -0.026,
+  "source": "whisper"
+ },
+ {
+  "start": 260.7,
+  "end": 266.0,
+  "text": "the idea of transit freedom which is the concept that useful transit improves where you can go and",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 266.0,
+  "end": 270.5,
+  "text": "what you can do in a one-hour transit trip so you have more time back in your day to do the things",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 270.5,
+  "end": 276.0,
+  "text": "you want to do instead of trying to get to where you need to go so the planned strategic focus areas",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 276.0,
+  "end": 282.2,
+  "text": "listed on the bottom here are frequency speed customer focus new coverage simple and intuitive",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 282.2,
+  "end": 287.1,
+  "text": "network were shaped by these discussions and inform each transit investment priority that i'll",
+  "no_speech": 0.0,
+  "logprob": -0.057,
+  "source": "whisper"
+ },
+ {
+  "start": 287.1,
+  "end": 293.0,
+  "text": "share shortly there are three main parts of the grt business plan which are supported by new",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 293.0,
+  "end": 298.2,
+  "text": "technology and affairs strategy we have the bus and train business plan the mobility plus and",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 298.2,
+  "end": 303.3,
+  "text": "kiwanis transit plan and the township transit strategy each part of the plan has been tailored",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 303.3,
+  "end": 308.3,
+  "text": "based on thoughtful region-wide engagement that i'll walk you through now so throughout the summer",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 308.3,
+  "end": 313.5,
+  "text": "fall grt reached out to riders residents partners and staff to hear from everyone on their transit",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 313.5,
+  "end": 318.7,
+  "text": "investment priorities and ideas our focus was on connecting with riders and residents across every",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 318.7,
+  "end": 323.2,
+  "text": "community so we heard from more than 2 000 people that we connected with through station outreach",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 323.2,
+  "end": 328.3,
+  "text": "bus ride-alongs neighborhood events and online virtual sessions we built a robust contributor",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 328.3,
+  "end": 333.1,
+  "text": "network which we've shown in this diagram who we consulted with on multiple occasions and who",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 333.1,
+  "end": 338.7,
+  "text": "helped us amplify public engagement opportunities with their own networks our consultation for the",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 338.7,
+  "end": 343.3,
+  "text": "township transit strategy focused on virtual and in-person open houses in key community",
+  "no_speech": 0.0,
+  "logprob": -0.072,
+  "source": "whisper"
+ },
+ {
+  "start": 343.3,
+  "end": 349.7,
+  "text": "destinations in each township and finally we used our partnerships across each of the municipalities",
+  "no_speech": 0.0,
+  "logprob": -0.072,
+  "source": "whisper"
+ },
+ {
+  "start": 349.7,
+  "end": 353.6,
+  "text": "for example we worked with waterloo region economic development strategy to hear their",
+  "no_speech": 0.0,
+  "logprob": -0.072,
+  "source": "whisper"
+ },
+ {
+  "start": 353.6,
+  "end": 358.8,
+  "text": "local needs for economic resiliency across every community we also partnered with our public health",
+  "no_speech": 0.0,
+  "logprob": -0.072,
+  "source": "whisper"
+ },
+ {
+  "start": 358.8,
+  "end": 363.9,
+  "text": "team which provides information and health resources to underserved neighborhoods using a grt bus",
+  "no_speech": 0.0,
+  "logprob": -0.072,
+  "source": "whisper"
+ },
+ {
+  "start": 363.9,
+  "end": 369.9,
+  "text": "and we enjoyed we joined their outreach in every municipality to hear from new voices and ideas for",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 369.9,
+  "end": 377.1,
+  "text": "grt so what we heard several common themes emerged from our engagement which supported comments heard",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 377.1,
+  "end": 381.9,
+  "text": "throughout the development of the strap plan public engagement and recent budget consultations",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 382.4,
+  "end": 386.6,
+  "text": "so this included better frequency and all-day schedules across our network reflecting our",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 386.6,
+  "end": 390.9,
+  "text": "shift away from a traditional nine to five community opportunities to speed up transit",
+  "no_speech": 0.0,
+  "logprob": -0.064,
+  "source": "whisper"
+ },
+ {
+  "start": 390.9,
+  "end": 395.9,
+  "text": "trips between the cities expansion to new and growing areas of the region and a need to make",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 395.9,
+  "end": 400.5,
+  "text": "transit more affordable for those who need it most some important themes to highlight are improved",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 400.5,
+  "end": 404.4,
+  "text": "stop accessibility which we're happy to share has been accelerated through the region's recent",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 404.4,
+  "end": 409.9,
+  "text": "budget approval processes and enthusiasm for improved and new township transit service",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 409.9,
+  "end": 414.3,
+  "text": "options not just for township residents but also for city residents that want to access rural",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 414.3,
+  "end": 418.2,
+  "text": "destinations which demonstrates the value of a region-wide transit network",
+  "no_speech": 0.0,
+  "logprob": -0.043,
+  "source": "whisper"
+ },
+ {
+  "start": 418.2,
+  "end": 423.6,
+  "text": "work. So from transit investment priorities, I'll walk you through each part of the GRT",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 423.6,
+  "end": 428.6,
+  "text": "business plan and combine these transit investment priorities help make transit easier to use",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 428.6,
+  "end": 433.0,
+  "text": "by significantly expanding the service area of GRT, improving travel times, and better",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 433.0,
+  "end": 437.7,
+  "text": "connecting communities across Waterloo Region. So first, the bus and train transit priorities",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 437.7,
+  "end": 442.3,
+  "text": "help achieve the Region's strategic focus areas identified by riders, key contributors,",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 442.3,
+  "end": 446.8,
+  "text": "area municipalities, GRT, and the Region, and include increasing frequency to 10 minutes",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 446.8,
+  "end": 452.3,
+  "text": "on weekdays on 16 key routes in Cambridge, Kitchener, and Waterloo, adding trips to make",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 452.3,
+  "end": 457.2,
+  "text": "schedules more intuitive and reflect our shift away from a 9-5 community, introducing rapid",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 457.2,
+  "end": 462.1,
+  "text": "highway services to give riders up to 20 minutes back in their day, expanding the service by",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 462.1,
+  "end": 466.6,
+  "text": "bringing new routes to growing industrial areas and residential communities in Cambridge,",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 466.6,
+  "end": 472.0,
+  "text": "Southwest Kitchener, and North Waterloo, launching more late-night service and introducing 24-7",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 472.0,
+  "end": 478.4,
+  "text": "services on key routes to support our shift to support shift workers students and our core areas",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 479.9,
+  "end": 483.6,
+  "text": "moving ahead to our mobility plus and kiwanis transit specialized transit plan",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 484.5,
+  "end": 488.7,
+  "text": "so we're looking to meet demand for mobility plus services and targeting no one met trips with new",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 488.7,
+  "end": 493.2,
+  "text": "staff modern technologies in a bigger fleet extending mobility plus service hours in",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 493.2,
+  "end": 498.2,
+  "text": "coordination with grt's overnight service expansion and enhancing the mobility plus customer experience",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 498.2,
+  "end": 504.1,
+  "text": "GRT also developed a Township Transit Strategy that responds to requests for better access",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 504.1,
+  "end": 508.8,
+  "text": "to and from rural destinations among Township and City residents, while recognizing each",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 508.8,
+  "end": 513.2,
+  "text": "Township's unique community character. So the goal here is to provide residents with better",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 513.2,
+  "end": 517.9,
+  "text": "access to essential services and employment opportunities. The Future Transit Network",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 517.9,
+  "end": 523.2,
+  "text": "includes enhancements to existing fixed routes in Wilmot and Woolwich, future fixed routes for North",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 523.2,
+  "end": 527.3,
+  "text": "of Thumfries and Wellesley that connect to the GRT core network.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 527.3,
+  "end": 531.3,
+  "text": "And I'm particularly excited about the introduction of a new fixed route service to Breslau and",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 531.3,
+  "end": 535.9,
+  "text": "the region of Waterloo International Airport that connects to go at Sports World Station",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 535.9,
+  "end": 540.1,
+  "text": "as well as at Kitchener Central Station, and the introduction of on-demand transit zones",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 540.1,
+  "end": 545.6,
+  "text": "and exploration of commingling of our services in each township to expand GRT's rural service",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 545.6,
+  "end": 546.9,
+  "text": "area.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 546.9,
+  "end": 551.2,
+  "text": "So combined, the township transit priorities dramatically expand the service area of GRT",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 551.2,
+  "end": 553.7,
+  "text": "nearly all of Waterloo Region.",
+  "no_speech": 0.0,
+  "logprob": -0.111,
+  "source": "whisper"
+ },
+ {
+  "start": 553.7,
+  "end": 559.4,
+  "text": "GRT's fair strategy focuses on diversifying revenues, supporting service improvements,",
+  "no_speech": 0.0,
+  "logprob": -0.111,
+  "source": "whisper"
+ },
+ {
+  "start": 559.4,
+  "end": 562.3,
+  "text": "and promoting affordable access for those who need it most.",
+  "no_speech": 0.0,
+  "logprob": -0.111,
+  "source": "whisper"
+ },
+ {
+  "start": 562.3,
+  "end": 566.6,
+  "text": "We do this by providing support to families and caregivers by introducing free transit",
+  "no_speech": 0.0,
+  "logprob": -0.111,
+  "source": "whisper"
+ },
+ {
+  "start": 566.6,
+  "end": 571.0,
+  "text": "for children 12 years and under, enhancing GRT's affordable transit program to provide",
+  "no_speech": 0.0,
+  "logprob": -0.111,
+  "source": "whisper"
+ },
+ {
+  "start": 571.0,
+  "end": 575.7,
+  "text": "bigger discounts to those with the greatest financial need, matching future fair increases",
+  "no_speech": 0.0,
+  "logprob": -0.111,
+  "source": "whisper"
+ },
+ {
+  "start": 575.7,
+  "end": 580.5,
+  "text": "to our annual service expansion, inflation, and comparable transit systems, and supporting",
+  "no_speech": 0.0,
+  "logprob": -0.111,
+  "source": "whisper"
+ },
+ {
+  "start": 580.5,
+  "end": 585.0,
+  "text": "our local workforce by expanding business account programs with GRT's new mobile app,",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 585.0,
+  "end": 588.1,
+  "text": "GRT Pay.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 588.1,
+  "end": 591.7,
+  "text": "The transit priorities of the GRT business plan serve as an important upstream strategy",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 591.7,
+  "end": 595.8,
+  "text": "as we grow with care and unlock tremendous potential benefits for communities across",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 595.8,
+  "end": 597.2,
+  "text": "Waterloo Region.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 597.2,
+  "end": 603.3,
+  "text": "So for example, approximately 400,000 people and 200,000 jobs today are within 800 meters",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 603.3,
+  "end": 605.7,
+  "text": "of the proposed frequent transit network.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 605.7,
+  "end": 609.2,
+  "text": "We have new coverage proposed for southeast Cambridge residential communities, Cambridge",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 609.2,
+  "end": 615.0,
+  "text": "industrial areas, Southwest Kitchener, North Waterloo. Transit options are proposed for every",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 615.0,
+  "end": 620.6,
+  "text": "township. Compared to today, we improve transit freedom across the region. So the average rider",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 620.6,
+  "end": 626.7,
+  "text": "can reach approximately 38,000 more people and 15,000 more jobs within a one-hour transit trip.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 626.7,
+  "end": 630.8,
+  "text": "And commuters save over 20 minutes for Cambridge to Waterloo transit trips.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 631.6,
+  "end": 636.1,
+  "text": "Overall, transit trips become more competitive and more affordable compared to cars and rideshare.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 636.1,
+  "end": 639.9,
+  "text": "So this is so important during an affordability crisis.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 640.8,
+  "end": 644.3,
+  "text": "Our future transit network can save people from needing to buy and maintain a second car.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 644.8,
+  "end": 651.4,
+  "text": "This plan can help unlock over $1,000 in monthly income that would otherwise be trapped in car ownership and maintenance costs.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 651.8,
+  "end": 655.9,
+  "text": "So good transit means more people have more money left in their pocket to live their life.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 657.5,
+  "end": 662.5,
+  "text": "The GRT business plan will also be our playbook to work better with each municipality",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 662.5,
+  "end": 666.5,
+  "text": "to achieve our shared priorities for sustainable transportation and livable communities.",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 667.3,
+  "end": 671.7,
+  "text": "So transit supportive policies and programs in regional and area municipal land use and",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 671.7,
+  "end": 676.5,
+  "text": "transportation plans are critical to helping maximize the ridership potential of GRT's business",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 676.5,
+  "end": 680.5,
+  "text": "plan and the transit investment priorities I've described today, as well as our shared",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 680.5,
+  "end": 687.1,
+  "text": "goals for a livable community. So next stops, and the pun is intended here, staff have provided",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 687.1,
+  "end": 691.7,
+  "text": "information to regional council and are sharing tonight's presentation at every interested municipal",
+  "no_speech": 0.0,
+  "logprob": -0.088,
+  "source": "whisper"
+ },
+ {
+  "start": 691.7,
+  "end": 696.3,
+  "text": "Council and GRT will be seeking Regional Council's endorsement of the plan later this spring.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 697.5,
+  "end": 700.7,
+  "text": "So thanks again for the opportunity to present tonight. I'm happy to take any questions.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 704.1,
+  "end": 711.3,
+  "text": "Great thanks. Thanks a lot for the presentation. And so far I see one member of Council with some",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 711.3,
+  "end": 717.0,
+  "text": "several members of Council with some questions. I'll leave it so if I can ask",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 717.0,
+  "end": 725.9,
+  "text": "ask, you know what, well, whoever's the best person to answer, just key in at the time",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 725.9,
+  "end": 729.5,
+  "text": "and I'll let you in. So Councillor Deneault, we'll start off with you.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 729.5,
+  "end": 734.2,
+  "text": "Thank you, Mr. Mayor. Thank you, gentlemen, for coming in. It's always nice to have transportation",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 734.2,
+  "end": 739.3,
+  "text": "from the region come in because, you know, it affects everybody across the city. So my",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 739.3,
+  "end": 746.1,
+  "text": "questions are related to Mobility Plus. And I'm not sure, but does Mobility Plus go into",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 746.1,
+  "end": 753.5,
+  "text": "the townships at this point in time. Hang on, hang on, hang on, Doug. Hang on,",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 753.5,
+  "end": 758.9,
+  "text": "Doug. Okay, there you go. You're good. Go ahead now. I just needed to click you.",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 758.9,
+  "end": 763.8,
+  "text": "My apologies. Through you, Chair. Neil Malcolm, the Acting Director of Transit Services. Thank",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 763.8,
+  "end": 767.1,
+  "text": "you for the question. So currently, Mobility Plus serves the tri-city",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 767.1,
+  "end": 771.7,
+  "text": "area, the urban area, Kitchener, Waterloo, and Cambridge. In the three townships, Woolwich,",
+  "no_speech": 0.0,
+  "logprob": -0.232,
+  "source": "whisper"
+ },
+ {
+  "start": 771.7,
+  "end": 777.1,
+  "text": "Wilmot and Wellesley, we use Kiwanis Transit. They provide the service to the township residents",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 777.1,
+  "end": 781.6,
+  "text": "in the three townships. And in North Dumfries, we use cab services through Mobility Plus",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 781.6,
+  "end": 786.3,
+  "text": "to provide specialized door-to-door service for people living in North Dumfries.",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 786.3,
+  "end": 791.3,
+  "text": "Okay. So if I live in Kitchener and I want to go out to one of the townships, am I able",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 791.3,
+  "end": 795.6,
+  "text": "to access the Kiwanis? They come and pick me up in Kitchener to take me out there?",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 795.6,
+  "end": 800.0,
+  "text": "Neil, can you use the other one? Because otherwise the right name doesn't pop up underneath",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 800.0,
+  "end": 804.2,
+  "text": "Yeah. There we go. There we go.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 804.6,
+  "end": 805.6,
+  "text": "My apologies. Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 805.6,
+  "end": 805.9,
+  "text": "No, it's okay.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 806.4,
+  "end": 806.9,
+  "text": "Through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 807.3,
+  "end": 813.4,
+  "text": "Today, if you live in one of the three cities, you can access the door-to-door service inside the Tri-City boundary.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 813.7,
+  "end": 819.1,
+  "text": "So we do not send Mobility Plus vehicles out to the townships today, except for very limited exceptions.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 820.0,
+  "end": 826.3,
+  "text": "That is one of the gaps we're trying to overcome in terms of the township strategy and adding more service and commingling with Kiwanis Transit.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 826.3,
+  "end": 833.4,
+  "text": "So we are trying to unlock those doors and create more opportunities for urban residents that require a door-to-door service to get to the townships and vice versa.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 833.9,
+  "end": 838.4,
+  "text": "So really we're trying to expand services, you know, the opportunities to travel region-wide.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 838.8,
+  "end": 839.8,
+  "text": "Today it is a limiting factor.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 840.6,
+  "end": 841.8,
+  "text": "So the answer is no then.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 841.9,
+  "end": 844.5,
+  "text": "So I can't order Kiwanis to come and pick me up then.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 844.8,
+  "end": 845.3,
+  "text": "That's correct.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 845.4,
+  "end": 849.1,
+  "text": "We do not take Mobility Plus vehicles to the township today, except for rare exceptions.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 850.1,
+  "end": 850.2,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 851.7,
+  "end": 854.6,
+  "text": "And when booking Mobility Plus, how many days, what's the turnaround?",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 854.6,
+  "end": 858.7,
+  "text": "If I need it, if I call today, when's the earliest I can book it?",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 859.3,
+  "end": 860.0,
+  "text": "Yeah, through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 860.4,
+  "end": 863.2,
+  "text": "So under today's policies, there's a seven-day booking window.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 863.5,
+  "end": 869.6,
+  "text": "So if I'm a registered Mobility Plus client and I require service in the next seven days, I can book seven days out or day of.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 869.8,
+  "end": 872.7,
+  "text": "So depending on what your travel needs are, we do offer day of travel as well.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 873.1,
+  "end": 876.8,
+  "text": "But it's best to book as far out as possible as you know your appointments wherever you're trying to travel",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 876.8,
+  "end": 879.6,
+  "text": "so you get access to the services on the day you want to travel.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 879.7,
+  "end": 880.2,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.18,
+  "source": "whisper"
+ },
+ {
+  "start": 880.2,
+  "end": 885.4,
+  "text": "And my last question, what is the rejection for growth for Mobility Plus in the next 10 to 15 years?",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 887.2,
+  "end": 891.8,
+  "text": "Yeah, through you, Chair, I don't have the exact number, but we know the Specialized and Muquanis",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 891.8,
+  "end": 896.3,
+  "text": "business plan really focused on the fact that we have an aging community. You know, we try and",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 896.3,
+  "end": 902.5,
+  "text": "maintain an undelivered rate less than 2% today. So 2% of anyone asking for a trip is going to get",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 902.5,
+  "end": 906.8,
+  "text": "the trip when they ask for it, or less than 2% get a denial. So we're trying to bring that target",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 906.8,
+  "end": 912.0,
+  "text": "towards zero. So the business plan speaks of adding new service, optimizing the use of our",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 912.0,
+  "end": 916.3,
+  "text": "existing vehicles and our contractor providers to make sure our undelivered trips are as low as",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 916.3,
+  "end": 921.2,
+  "text": "possible, approaching zero as close as we can get. But really reflecting on this is a growing demand",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 921.2,
+  "end": 925.8,
+  "text": "for the door-to-door service. The community is aging. We do anticipate more travel over the next",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 925.8,
+  "end": 930.3,
+  "text": "five to 10 years. Right now we deliver about 700 trips per day in our door-to-door service",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 930.3,
+  "end": 933.7,
+  "text": "and we do expect that to grow. Okay, if I may, Mr. Mayor,",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 933.7,
+  "end": 944.5,
+  "text": "I really think the region needs to speed up the process of having Mobility Plus hit our townships as opposed to a taxi.",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 945.1,
+  "end": 949.3,
+  "text": "There are many seniors who now move out of the townships into long-term care facilities,",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 949.4,
+  "end": 954.9,
+  "text": "and their family is still in the townships, and their partner and or family members aren't able to drive.",
+  "no_speech": 0.0,
+  "logprob": -0.093,
+  "source": "whisper"
+ },
+ {
+  "start": 954.9,
+  "end": 962.3,
+  "text": "And so by not having that service being able to go out there is inhibiting, you know, family",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 962.3,
+  "end": 963.3,
+  "text": "time.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 963.3,
+  "end": 969.1,
+  "text": "And so, you know, if there's one priority, I think it's really to emphasize that from",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 969.1,
+  "end": 970.8,
+  "text": "a senior's perspective.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 970.8,
+  "end": 971.8,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 971.8,
+  "end": 973.9,
+  "text": "Thanks, Councillor Junot.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 973.9,
+  "end": 977.5,
+  "text": "Councillor Michaud, you're up next.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 977.5,
+  "end": 979.5,
+  "text": "Thank you, Mr. Mayor, and thank you for your presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 979.5,
+  "end": 984.6,
+  "text": "I'm really pleased to see Southwest Kitchener on this presentation and I would like you",
+  "no_speech": 0.0,
+  "logprob": -0.224,
+  "source": "whisper"
+ },
+ {
+  "start": 984.6,
+  "end": 990.3,
+  "text": "to if you can to elaborate a bit of where it's going to go, how far out is it going",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 990.3,
+  "end": 997.4,
+  "text": "to go and maybe an update on the college, I guess, bus station that was planned to go",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 997.4,
+  "end": 998.4,
+  "text": "there.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 998.4,
+  "end": 999.9,
+  "text": "Mr. Marshall.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 999.9,
+  "end": 1004.7,
+  "text": "Well, thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1004.7,
+  "end": 1006.6,
+  "text": "Through the chair.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1006.6,
+  "end": 1011.2,
+  "text": "So the broad vision of this plan is a bit of our North Star.",
+  "no_speech": 0.0,
+  "logprob": -0.27,
+  "source": "whisper"
+ },
+ {
+  "start": 1011.2,
+  "end": 1016.9,
+  "text": "So we've developed some network concepts for most of Southwest Kitchener, I'll say all",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1016.9,
+  "end": 1021.6,
+  "text": "of Southwest Kitchener, working really closely with City of Kitchener's planning team on",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1021.6,
+  "end": 1025.5,
+  "text": "some of their transportation and land use planning for current and future projected",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1025.5,
+  "end": 1028.7,
+  "text": "growth throughout Southwest Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1028.7,
+  "end": 1034.0,
+  "text": "One thing I'll flag is that when we build out our five to 10-year plan like this, we",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1034.0,
+  "end": 1039.5,
+  "text": "look at the broader network and how that connects for station needs as well as vehicle needs",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1039.5,
+  "end": 1046.3,
+  "text": "across the network and the service profiles. Pending Regional Council budget approval on",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1046.3,
+  "end": 1050.7,
+  "text": "an annual basis, we then proceed to bring a number of options based off of those initial",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1050.7,
+  "end": 1057.7,
+  "text": "concepts forward for public review and feedback that'll help shape the final. So I think I",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1057.7,
+  "end": 1064.5,
+  "text": "can confidently say that we have identified some key corridors and that would serve most",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1064.5,
+  "end": 1068.6,
+  "text": "if not all of Southwest Kitchener. And then pending future budget, we would be able to",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1068.6,
+  "end": 1071.1,
+  "text": "present those options for further refinement.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1071.8,
+  "end": 1075.2,
+  "text": "So are we talking, like how many years out, and if that was in the presentation, I'm sorry,",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1075.4,
+  "end": 1076.2,
+  "text": "I missed it.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1076.3,
+  "end": 1077.6,
+  "text": "How many years out are we looking at?",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1077.7,
+  "end": 1078.3,
+  "text": "Just a guess.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1078.6,
+  "end": 1079.7,
+  "text": "Just a...",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1079.7,
+  "end": 1084.7,
+  "text": "Well, this is, we've built out a few different sort of packets in our plan here.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1084.8,
+  "end": 1091.2,
+  "text": "We have broken up into early years, mid years, and longer term parts of the plan.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1091.2,
+  "end": 1096.2,
+  "text": "But ultimately, a lot of this comes down to future budget discussions on where we can",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1096.2,
+  "end": 1102.1,
+  "text": "accelerate, when there's opportunities to accelerate the funding. But generally speaking,",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1102.1,
+  "end": 1107.4,
+  "text": "when it comes to new coverage, we have identified a number of key areas, including what we walked",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1107.4,
+  "end": 1111.8,
+  "text": "through in this presentation for earlier years of the plan, so including Southwest Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1111.8,
+  "end": 1116.3,
+  "text": "Okay. Thanks. That's good. Because I mean, right today in real time, there are places",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1116.3,
+  "end": 1121.9,
+  "text": "out in like residents out there that cannot even walk to a bus stop in Kitchener. So it",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 1121.9,
+  "end": 1128.6,
+  "text": "be really great to have that sooner than later. Thank you. No problem. Thanks, Councillor Michaud.",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 1128.6,
+  "end": 1145.8,
+  "text": "Councillor O'Dooney. Councillor O'Dooney. Okay, we'll come back. Oh, there you are.",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 1145.8,
+  "end": 1153.9,
+  "text": "I forgot to hit the unmute button. There we go. Thank you very much once again, and thank you for your presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1154.8,
+  "end": 1164.1,
+  "text": "Just had a quick question. I tend to get emails from students that live in my ward who tend to have the same set of concerns,",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1164.4,
+  "end": 1169.3,
+  "text": "and Mr. Doug Spooner tends to get a lot of those emails because I forward them to him,",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1169.3,
+  "end": 1175.6,
+  "text": "But it seems to be long walks to the bus stations waiting for quite a while.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1176.2,
+  "end": 1178.9,
+  "text": "I know those are some things that you're hoping to address.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1179.1,
+  "end": 1189.2,
+  "text": "But my question is, whenever there is a new area where there is more demand for perhaps more frequency of bus service,",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1189.3,
+  "end": 1192.5,
+  "text": "or can you extend it a mile further down the street?",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1193.0,
+  "end": 1197.0,
+  "text": "It'll be great to understand, is there going to be a potential procedural change?",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 1197.0,
+  "end": 1199.6,
+  "text": "Is this something that could be looked at quicker?",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 1200.3,
+  "end": 1208.4,
+  "text": "Is there a page where you can explain to people what the process is to look into that so they're fully aware of how that works?",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 1209.0,
+  "end": 1216.2,
+  "text": "Or is this more, you know what, we don't look at this at the frequencies every two, three years before we review some of the routes that we take?",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 1220.1,
+  "end": 1221.0,
+  "text": "Mr. Spooner.",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 1221.8,
+  "end": 1224.3,
+  "text": "Through you, Chair, and thank you, Councillor, for the question.",
+  "no_speech": 0.0,
+  "logprob": -0.15,
+  "source": "whisper"
+ },
+ {
+  "start": 1224.3,
+  "end": 1227.6,
+  "text": "I know we've chatted about this a fair bit, so an opportunity to talk more.",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1228.9,
+  "end": 1232.1,
+  "text": "Council, I think this is where the challenge lies for our team.",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1232.2,
+  "end": 1239.0,
+  "text": "We've just laid out a plan where our customers of today and in future have identified the frequent transit network,",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1239.4,
+  "end": 1243.5,
+  "text": "consistent schedules, meaning I can ride the same vehicle to work as I take home,",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1243.9,
+  "end": 1245.8,
+  "text": "and Highway Express is the top three.",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1246.3,
+  "end": 1250.0,
+  "text": "And we consistently, through feedback of our work together, identify the fourth,",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1250.0,
+  "end": 1254.0,
+  "text": "which is new coverage areas as the most important, and we call that geographic expansion.",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 1254.3,
+  "end": 1259.7,
+  "text": "I think if we thought about this, we could run a bus on every road in the entire region today.",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 1260.5,
+  "end": 1263.6,
+  "text": "That bus would come every three hours and it would connect to nothing else.",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 1264.0,
+  "end": 1269.0,
+  "text": "And so this is the challenge that we have is we've got to run service that reaches everybody",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 1269.0,
+  "end": 1271.9,
+  "text": "but does so at a frequency that actually connects it into the network.",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 1272.5,
+  "end": 1276.6,
+  "text": "So I was asked this question in regional council last week.",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 1276.9,
+  "end": 1281.5,
+  "text": "It is a challenging implementation question for us because if you think about the behaviour of somebody moving,",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 1281.5,
+  "end": 1283.7,
+  "text": "that is a moment in time for behaviour change.",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 1283.7,
+  "end": 1289.5,
+  "text": "The moment they get there, as folks are in the new Activa neighbourhood in Southwest Kitchener, as we've rightly pointed out,",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1289.8,
+  "end": 1291.8,
+  "text": "if I don't have a bus there, I'm not a choice.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1292.7,
+  "end": 1296.5,
+  "text": "And so this is the balance that we have to now seek is we have to get into new areas.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1296.7,
+  "end": 1300.1,
+  "text": "We have to build transit culture in areas of our region that don't have transit today.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1300.4,
+  "end": 1305.6,
+  "text": "At the same time, we have to address the frequency and the consistency that our current customers are begging for.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1306.0,
+  "end": 1308.8,
+  "text": "So, Councillor, I realize I'm indirectly answering.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1309.8,
+  "end": 1312.9,
+  "text": "Look, there are many ways for folks to engage with us.",
+  "no_speech": 0.0,
+  "logprob": -0.1,
+  "source": "whisper"
+ },
+ {
+  "start": 1312.9,
+  "end": 1318.0,
+  "text": "the service-first call centre that the Region offers through e-mails, through GRT.ca and",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1318.0,
+  "end": 1322.6,
+  "text": "our feedback form. Obviously, through advocacy, we continue to see that. These are in consideration",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1322.6,
+  "end": 1327.7,
+  "text": "for us every year. We implement new services on September for second or third of each year.",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1327.7,
+  "end": 1331.8,
+  "text": "We approve those services in the plan and budget cycle the December of the year prior.",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1331.8,
+  "end": 1338.0,
+  "text": "So if folks are seeking transit right now, we'll look to capture that through the year.",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1338.0,
+  "end": 1341.6,
+  "text": "Obviously in this plan, we'll present it in November and December to Regional Council",
+  "no_speech": 0.0,
+  "logprob": -0.171,
+  "source": "whisper"
+ },
+ {
+  "start": 1341.6,
+  "end": 1345.9,
+  "text": "and then we will implement those services. So it is not rapid. It's a good question about",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1345.9,
+  "end": 1351.8,
+  "text": "is there a process we could develop. It is a budgetary challenge for us in that there's",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1351.8,
+  "end": 1356.3,
+  "text": "considerable amount of infrastructure on new routes, stop, stop infrastructure, buses and",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1356.3,
+  "end": 1360.3,
+  "text": "then operators. So there is a bit of a lag. We appreciate that. It's a challenge for us in",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1360.3,
+  "end": 1363.1,
+  "text": "planning and obviously a challenge for us in communicating with the public.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1363.1,
+  "end": 1365.8,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1365.8,
+  "end": 1366.6,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1366.6,
+  "end": 1370.4,
+  "text": "Thanks, Councillor O'Dooney. Councillor Chapman, you're up next.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 1370.4,
+  "end": 1377.2,
+  "text": "Thank you, and thank you for this report. Have you considered using mini-buses during",
+  "no_speech": 0.0,
+  "logprob": -0.222,
+  "source": "whisper"
+ },
+ {
+  "start": 1377.2,
+  "end": 1386.1,
+  "text": "off-peak times that would run sort of from the LRT line out into the more distant areas?",
+  "no_speech": 0.0,
+  "logprob": -0.222,
+  "source": "whisper"
+ },
+ {
+  "start": 1386.1,
+  "end": 1390.0,
+  "text": "It would cut back financially on the cost of big, huge buses, and you could run them",
+  "no_speech": 0.0,
+  "logprob": -0.222,
+  "source": "whisper"
+ },
+ {
+  "start": 1390.0,
+  "end": 1395.9,
+  "text": "every 10 minutes, so the frequency could be there. Is this something you've ever considered?",
+  "no_speech": 0.0,
+  "logprob": -0.222,
+  "source": "whisper"
+ },
+ {
+  "start": 1395.9,
+  "end": 1398.4,
+  "text": "Mr. Spooner.",
+  "no_speech": 0.0,
+  "logprob": -0.222,
+  "source": "whisper"
+ },
+ {
+  "start": 1398.4,
+  "end": 1400.0,
+  "text": "Through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1400.0,
+  "end": 1402.6,
+  "text": "So, Councillor, great question.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1402.6,
+  "end": 1407.1,
+  "text": "And the reason that I asked for the opportunity back from my colleagues is that the most expensive",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1407.1,
+  "end": 1410.2,
+  "text": "part of a transit operation is the person driving the vehicle.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1410.2,
+  "end": 1412.8,
+  "text": "The second most is the person that maintains it.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1412.8,
+  "end": 1418.9,
+  "text": "So we actually see we can run an hour of GRT big bus service for about $110 an hour.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1418.9,
+  "end": 1424.1,
+  "text": "We can contract a minibus for about $100 an hour so that the savings at scale are not",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1424.1,
+  "end": 1425.1,
+  "text": "that significant.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1425.1,
+  "end": 1427.9,
+  "text": "We'll anticipate those getting closer.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1427.9,
+  "end": 1431.3,
+  "text": "in the plan. We're looking at different vehicle types for a Mobility Plus service right out",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1431.3,
+  "end": 1436.6,
+  "text": "of the gate. That was actually a staff recommendation to us. Also, when Kevin spoke to you about",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1436.6,
+  "end": 1442.0,
+  "text": "the 24-7, the overnight network, what that would likely look like at implementation is",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1442.0,
+  "end": 1447.4,
+  "text": "the iExpress network with frequency, but then also identifying major employers and major",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1447.4,
+  "end": 1451.6,
+  "text": "points that people need to get to and serving those with smaller vehicles. So we've piloted",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1451.6,
+  "end": 1456.4,
+  "text": "on-demand services. We've run the Route 79 out to the airport, so we're becoming more",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1456.4,
+  "end": 1460.8,
+  "text": "and more aware of how they work and better at planning them, but absolutely in the plan.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1460.8,
+  "end": 1464.1,
+  "text": "We'll look at different vehicle types and those that fit the demand of riders.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1464.1,
+  "end": 1466.1,
+  "text": "That's great.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1466.1,
+  "end": 1470.3,
+  "text": "And my next question may have nothing to do with you guys, but maybe you can pass on the",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1470.3,
+  "end": 1471.3,
+  "text": "message.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1471.3,
+  "end": 1476.4,
+  "text": "One of the biggest complaints I get in the winter is the clearing away of the snow from",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1476.4,
+  "end": 1478.3,
+  "text": "bus stops.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1478.3,
+  "end": 1480.6,
+  "text": "This is a real big issue for many people, right?",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1480.6,
+  "end": 1484.6,
+  "text": "Like snow banks, people in a wheelchair simply cannot get over.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 1484.6,
+  "end": 1488.8,
+  "text": "So I hope this is something you communicate regularly with the rest of your staff.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1488.8,
+  "end": 1491.1,
+  "text": "Mr. Through you, Chair, if I may.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1491.1,
+  "end": 1495.6,
+  "text": "Yes, Councillor, this is a big one and it is GRT under contract right now that does",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1495.6,
+  "end": 1500.2,
+  "text": "clear the individual, the 2,500 bus stops across the region.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1500.2,
+  "end": 1502.6,
+  "text": "We moved our standard last year.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1502.6,
+  "end": 1505.5,
+  "text": "We had a 72-hour period in which those could be cleared.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1505.5,
+  "end": 1510.1,
+  "text": "We've taken it to 48 hours, obviously, with the challenging winter we had.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1510.1,
+  "end": 1512.6,
+  "text": "We didn't get there in 48 hours all the time.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1512.6,
+  "end": 1517.0,
+  "text": "There is a discussion to be had around how those are cleared.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1517.0,
+  "end": 1520.4,
+  "text": "Should they be on a standalone contract in which somebody comes out and clears only a",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1520.4,
+  "end": 1521.4,
+  "text": "bus stop?",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1521.4,
+  "end": 1525.5,
+  "text": "Or is there an opportunity to talk about the various other sidewalk cleaning and road cleaning",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1525.5,
+  "end": 1527.7,
+  "text": "in those places that that's happening and group them in?",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1527.7,
+  "end": 1529.3,
+  "text": "We haven't got there yet, but we'll.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1529.3,
+  "end": 1530.3,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1530.3,
+  "end": 1536.4,
+  "text": "My last question, and I don't know how frequent this is a problem, but in Toronto, if there's",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1536.4,
+  "end": 1542.0,
+  "text": "a breakdown on the LRT or a trolley, they immediately bring in buses and move people",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1542.0,
+  "end": 1551.2,
+  "text": "along. Does the region have a similar, you know, quick response plan when a bus breaks",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1551.2,
+  "end": 1556.6,
+  "text": "down or there's a protest that prohibits the passage of that bus or whatever the case may",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1556.6,
+  "end": 1557.6,
+  "text": "be?",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1557.6,
+  "end": 1563.0,
+  "text": "Mr. Through you, Chair, yeah. So we have standard LRT delay scenarios in which it triggers",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1563.0,
+  "end": 1567.7,
+  "text": "what we call a bus bridge. So if we lose a section of the LRT, our transit operations",
+  "no_speech": 0.0,
+  "logprob": -0.17,
+  "source": "whisper"
+ },
+ {
+  "start": 1567.7,
+  "end": 1571.8,
+  "text": "centre immediately triggers a bus bridge. That would come from any operators that are",
+  "no_speech": 0.0,
+  "logprob": -0.275,
+  "source": "whisper"
+ },
+ {
+  "start": 1571.8,
+  "end": 1575.8,
+  "text": "sitting spare. We also have the ability, depending on the size of that interruption, to redeploy",
+  "no_speech": 0.0,
+  "logprob": -0.275,
+  "source": "whisper"
+ },
+ {
+  "start": 1575.8,
+  "end": 1579.5,
+  "text": "buses that are in service on other routes. Again, we ask people for patience when that",
+  "no_speech": 0.0,
+  "logprob": -0.275,
+  "source": "whisper"
+ },
+ {
+  "start": 1579.5,
+  "end": 1584.3,
+  "text": "happens. It happens very infrequently. The ION's working, I think it's about 98% on",
+  "no_speech": 0.0,
+  "logprob": -0.275,
+  "source": "whisper"
+ },
+ {
+  "start": 1584.3,
+  "end": 1589.7,
+  "text": "time for trips delivered today. But obviously, we do face some challenges in inclement weather",
+  "no_speech": 0.0,
+  "logprob": -0.275,
+  "source": "whisper"
+ },
+ {
+  "start": 1589.7,
+  "end": 1592.6,
+  "text": "and with others, as you pointed out.",
+  "no_speech": 0.0,
+  "logprob": -0.275,
+  "source": "whisper"
+ },
+ {
+  "start": 1592.6,
+  "end": 1593.6,
+  "text": "Councillor Schnider Right. Okay. Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.275,
+  "source": "whisper"
+ },
+ {
+  "start": 1593.6,
+  "end": 1596.5,
+  "text": "Thanks, Councillor Chapman. Councillor Schnider, you're up next.",
+  "no_speech": 0.0,
+  "logprob": -0.275,
+  "source": "whisper"
+ },
+ {
+  "start": 1596.5,
+  "end": 1616.5,
+  "text": "Thank you, Mayor. Thanks so much for coming in and showing this presentation. I don't see it in here. It's maybe part of the business plan. But I'm wondering if there's been any discussions with the municipalities about transportation to our key cultural institutions.",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 1616.5,
+  "end": 1622.8,
+  "text": "Like, for example, the center in the square or the auditorium where there's a concert or sporting an event,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1622.9,
+  "end": 1628.9,
+  "text": "that transit somehow, some way, could be included in the price of a ticket,",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1629.3,
+  "end": 1634.7,
+  "text": "encourage more transit use to some of the events that happen at our institutions.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1640.1,
+  "end": 1641.0,
+  "text": "Mr. Marshall?",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1641.6,
+  "end": 1642.5,
+  "text": "Thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 1642.5,
+  "end": 1645.8,
+  "text": "in one of my previous roles at GRT,",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1645.9,
+  "end": 1647.6,
+  "text": "one of the pieces we did a lot around",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1647.6,
+  "end": 1650.3,
+  "text": "was the idea of transportation demand management planning,",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1650.4,
+  "end": 1652.9,
+  "text": "the idea of how we can use some of our existing services too.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1653.1,
+  "end": 1655.8,
+  "text": "So I think one of the things we're excited about",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1655.8,
+  "end": 1659.4,
+  "text": "with GRT's new app, GRT Pay,",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1659.9,
+  "end": 1661.4,
+  "text": "is the potential future opportunities",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1661.4,
+  "end": 1663.2,
+  "text": "for how we can collaborate with different partners",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1663.2,
+  "end": 1664.9,
+  "text": "and organizations to use our network",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1664.9,
+  "end": 1667.5,
+  "text": "as kind of that co-promotion piece.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1667.8,
+  "end": 1670.2,
+  "text": "So I'd say it's part of our,",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1670.3,
+  "end": 1672.0,
+  "text": "you know, when we look at our business account programming,",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 1672.0,
+  "end": 1675.1,
+  "text": "something that we would see as a natural extension of that too,",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1675.2,
+  "end": 1679.2,
+  "text": "to push people to use, whether it's ION or IExpress Network",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1679.2,
+  "end": 1681.3,
+  "text": "or the rest of our proposed frequent transit network",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1681.3,
+  "end": 1682.5,
+  "text": "to get to and from events.",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1683.0,
+  "end": 1683.5,
+  "text": "Great.",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1683.5,
+  "end": 1685.3,
+  "text": "Yeah, I've heard in some municipalities,",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1685.7,
+  "end": 1687.4,
+  "text": "you just show your ticket to the event",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1687.4,
+  "end": 1690.0,
+  "text": "and the transit is provided for you.",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1690.4,
+  "end": 1693.7,
+  "text": "The other thing that I wanted to bring up is Cambridge.",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1694.8,
+  "end": 1699.0,
+  "text": "The LRT has been just a great benefit to Kitchener and Waterloo",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1699.0,
+  "end": 1699.9,
+  "text": "in so many ways.",
+  "no_speech": 0.0,
+  "logprob": -0.148,
+  "source": "whisper"
+ },
+ {
+  "start": 1699.9,
+  "end": 1711.4,
+  "text": "And I'm wondering what the plans are for Cambridge, if there's provincial federal funding being looked after for providing LRT to Cambridge as well.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 1713.4,
+  "end": 1714.5,
+  "text": "Yeah, through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 1714.8,
+  "end": 1715.6,
+  "text": "Great question.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 1715.7,
+  "end": 1720.7,
+  "text": "And I think, you know, one of the things we're most excited about in this plan is it is a plan for the entire region, right?",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 1720.7,
+  "end": 1721.9,
+  "text": "We're talking about the townships.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 1721.9,
+  "end": 1722.9,
+  "text": "We're talking about Cambridge.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 1723.4,
+  "end": 1725.1,
+  "text": "I think there's a lot in this plan for Cambridge.",
+  "no_speech": 0.0,
+  "logprob": -0.112,
+  "source": "whisper"
+ },
+ {
+  "start": 1725.1,
+  "end": 1730.0,
+  "text": "So we've identified one new major capital expenditure, and that is a new bus garage in Cambridge.",
+  "no_speech": 0.0,
+  "logprob": -0.121,
+  "source": "whisper"
+ },
+ {
+  "start": 1730.1,
+  "end": 1731.4,
+  "text": "We're at capacity in our existing.",
+  "no_speech": 0.0,
+  "logprob": -0.121,
+  "source": "whisper"
+ },
+ {
+  "start": 1731.9,
+  "end": 1735.0,
+  "text": "We'll seek federal and provincial support on that, as we always do.",
+  "no_speech": 0.0,
+  "logprob": -0.121,
+  "source": "whisper"
+ },
+ {
+  "start": 1735.5,
+  "end": 1739.8,
+  "text": "The next is LRT Stage 2, which is currently in business case.",
+  "no_speech": 0.0,
+  "logprob": -0.121,
+  "source": "whisper"
+ },
+ {
+  "start": 1739.9,
+  "end": 1746.6,
+  "text": "So looking at a do-nothing scenario in which we maintain the 302 bus, various configurations of a BRT and various configurations of an LRT.",
+  "no_speech": 0.0,
+  "logprob": -0.121,
+  "source": "whisper"
+ },
+ {
+  "start": 1746.9,
+  "end": 1752.9,
+  "text": "That will come back to Regional Council to select an option in November of this year, and then we'll drill into that option.",
+  "no_speech": 0.0,
+  "logprob": -0.121,
+  "source": "whisper"
+ },
+ {
+  "start": 1752.9,
+  "end": 1758.9,
+  "text": "We've also done some additional work looking at an initial business case for Go Rail service",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1758.9,
+  "end": 1764.1,
+  "text": "from Cambridge to Guelph, which remains the largest unserved transit corridor outside",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1764.1,
+  "end": 1769.0,
+  "text": "of the GTHA, and have asked Metrolink's Go Transit to pick that up as a bus connection",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1769.0,
+  "end": 1773.2,
+  "text": "to start and then as a future rail connection.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1773.2,
+  "end": 1774.6,
+  "text": "You know, there's some other pieces in there.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1774.6,
+  "end": 1778.4,
+  "text": "When Kevin spoke about the savings of up to 20 minutes with that Highway Express, that",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 1778.4,
+  "end": 1783.9,
+  "text": "is for somebody travelling from obviously Cambridge into Waterloo, but significant savings",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1783.9,
+  "end": 1788.3,
+  "text": "also for folks from Cambridge coming into Kitchener. So we see it as the opportunity,",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1788.3,
+  "end": 1792.9,
+  "text": "as you're likely pointing out, for folks to travel for work, for play, and as rightly",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1792.9,
+  "end": 1796.6,
+  "text": "pointed out, into the townships for those activities that we enjoy as well.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1796.6,
+  "end": 1800.5,
+  "text": "Great. I appreciate the update on that. I appreciate hearing about the plans for the",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1800.5,
+  "end": 1804.7,
+  "text": "airport. That's really exciting. Thanks, Councillor Schnider.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1804.7,
+  "end": 1807.2,
+  "text": "Councillor Johnston. Thank you, Mr. Mayor.",
+  "no_speech": 0.0,
+  "logprob": -0.206,
+  "source": "whisper"
+ },
+ {
+  "start": 1807.2,
+  "end": 1809.1,
+  "text": "And thank you for your presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 1809.1,
+  "end": 1815.2,
+  "text": "I think one of the things that I noticed overall and that you're trying to address is how do",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 1815.2,
+  "end": 1817.4,
+  "text": "you be more nimble, right?",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 1817.4,
+  "end": 1819.6,
+  "text": "How do you respond to things quicker?",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 1819.6,
+  "end": 1824.3,
+  "text": "How do you look at an odd bus, something out to the townships and that?",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 1824.3,
+  "end": 1828.0,
+  "text": "And I don't think I...I don't know as much about your funding formula.",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 1828.0,
+  "end": 1835.6,
+  "text": "So I know that, for instance, the post-secondary institutions offer free tuition to their students",
+  "no_speech": 0.0,
+  "logprob": -0.185,
+  "source": "whisper"
+ },
+ {
+  "start": 1835.6,
+  "end": 1842.2,
+  "text": "through, you know, their tuition, sorry, not free tuition. Wouldn't that be nice? Breaking news.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1843.6,
+  "end": 1849.8,
+  "text": "But free transit through, as part of their tuition that they pay.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1852.5,
+  "end": 1860.2,
+  "text": "And when you're talking about, you know, bus route extensions to the Southwest and things,",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1860.2,
+  "end": 1867.9,
+  "text": "Like, that piece isn't as equal, maybe, for different communities, right?",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1868.0,
+  "end": 1870.0,
+  "text": "Different post-secondary communities, et cetera.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1870.7,
+  "end": 1878.1,
+  "text": "Is there a way to get funding whenever these developments are going in to have that piece funded?",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1878.2,
+  "end": 1879.5,
+  "text": "Is that something that you do?",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1879.7,
+  "end": 1885.3,
+  "text": "Is that part of anything that you can be a part of to get some money from that?",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1886.1,
+  "end": 1886.9,
+  "text": "Mr. Spooner?",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1887.4,
+  "end": 1888.2,
+  "text": "Through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1888.3,
+  "end": 1890.1,
+  "text": "Yeah, I think it's a great question.",
+  "no_speech": 0.0,
+  "logprob": -0.176,
+  "source": "whisper"
+ },
+ {
+  "start": 1890.2,
+  "end": 1897.5,
+  "text": "So through development charges, we are able to fund some bus stops, bus pads, those types",
+  "no_speech": 0.0,
+  "logprob": -0.162,
+  "source": "whisper"
+ },
+ {
+  "start": 1897.5,
+  "end": 1898.5,
+  "text": "of things.",
+  "no_speech": 0.0,
+  "logprob": -0.162,
+  "source": "whisper"
+ },
+ {
+  "start": 1898.5,
+  "end": 1901.9,
+  "text": "We are unable to use that for operational funding.",
+  "no_speech": 0.0,
+  "logprob": -0.162,
+  "source": "whisper"
+ },
+ {
+  "start": 1901.9,
+  "end": 1908.9,
+  "text": "The way, you know, if I just, how this business works that the three of us run, it's a $230",
+  "no_speech": 0.0,
+  "logprob": -0.162,
+  "source": "whisper"
+ },
+ {
+  "start": 1908.9,
+  "end": 1911.4,
+  "text": "million expenditure that the region makes.",
+  "no_speech": 0.0,
+  "logprob": -0.162,
+  "source": "whisper"
+ },
+ {
+  "start": 1911.4,
+  "end": 1917.1,
+  "text": "We then recover $80 million in revenue through the fare box and provincial gas tax subsidy",
+  "no_speech": 0.0,
+  "logprob": -0.162,
+  "source": "whisper"
+ },
+ {
+  "start": 1917.1,
+  "end": 1923.6,
+  "text": "for a net levy impact of about $150 million. Amongst our peers, this is a really high cost",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 1923.6,
+  "end": 1929.0,
+  "text": "recovery rate. When we do the cost recovery, we hover between 35 and 40%, which would put",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 1929.0,
+  "end": 1934.4,
+  "text": "us basically at the top of like-sized organizations. You'd get some like Go Transit and TTC with",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 1934.4,
+  "end": 1939.5,
+  "text": "the volume of customers that would recover more. You spoke of U-Pass. That's obviously",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 1939.5,
+  "end": 1943.8,
+  "text": "a big program for us. That is a guaranteed revenue that we know about on day one, and",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 1943.8,
+  "end": 1947.3,
+  "text": "and so we're able to work with our contractual partners to provide service.",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1947.7,
+  "end": 1950.5,
+  "text": "We are looking at that, an expanded employer program,",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1950.6,
+  "end": 1952.1,
+  "text": "so we could do that exact same thing",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1952.1,
+  "end": 1955.0,
+  "text": "and get ahead of some of the opportunities for triple shift or others.",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1956.0,
+  "end": 1958.4,
+  "text": "But yeah, you know, the question of funding,",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1958.5,
+  "end": 1960.7,
+  "text": "we are well supported on the capital side.",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1960.8,
+  "end": 1964.1,
+  "text": "You know, we've got opportunities such as with ION or the Northfield Garage",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1964.1,
+  "end": 1966.8,
+  "text": "where we do third, third, third funding with the province and the federal government.",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1967.6,
+  "end": 1969.7,
+  "text": "On the operating side, it's a bit more challenging.",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1969.8,
+  "end": 1971.7,
+  "text": "We do receive gas tax funding from the province,",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 1971.7,
+  "end": 1974.6,
+  "text": "but we haven't found another source for the operating site.",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1975.5,
+  "end": 1979.9,
+  "text": "Yeah, I'm just wondering if there's a way of actually, you know,",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1980.0,
+  "end": 1985.7,
+  "text": "having those conversations with either post-secondary or industry, you know,",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1986.1,
+  "end": 1988.5,
+  "text": "because I know that that is a selling piece.",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1989.4,
+  "end": 1992.1,
+  "text": "Students don't get driver's licenses anymore.",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1992.5,
+  "end": 1997.4,
+  "text": "You know, it's enough to afford your tuition and your rent, let alone get a car.",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 1997.5,
+  "end": 2001.6,
+  "text": "So even getting to some of those jobs in those industrial parks is very challenging,",
+  "no_speech": 0.0,
+  "logprob": -0.155,
+  "source": "whisper"
+ },
+ {
+  "start": 2001.7,
+  "end": 2009.5,
+  "text": "for them. The industries really need those buses out there as well and on a more regular",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2009.5,
+  "end": 2017.1,
+  "text": "thing. Sounds like you're on it, but I think if I look at it overall, nimbleness is probably",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2017.1,
+  "end": 2020.9,
+  "text": "one of your biggest things that you're dealing with. So thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2020.9,
+  "end": 2026.3,
+  "text": "Thanks, Councillor Johnston. Councillor Stretch.",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2026.3,
+  "end": 2032.8,
+  "text": "Thank you. Thank you so much for coming out and sharing this information. As a downtown",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2032.8,
+  "end": 2040.0,
+  "text": "ward councillor, I get lots of questions about GRT and so thanks for all the collaboration",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2040.0,
+  "end": 2046.1,
+  "text": "that you do and I try my best to stay up to date with everything that's going on. So I",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2046.1,
+  "end": 2050.8,
+  "text": "have a couple questions, I guess, to dovetail a little bit on Councillor Johnston questions",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2050.8,
+  "end": 2057.5,
+  "text": "about students, but I'm more curious about high school students. We had a presentation",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2057.5,
+  "end": 2062.7,
+  "text": "today about the IB, and I am assuming you have worked...actually, I know you've worked",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2062.7,
+  "end": 2069.0,
+  "text": "in the past with the school board, because in another career, I spent a lot of time connecting",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2069.0,
+  "end": 2075.7,
+  "text": "students with bus tickets. And so I know the barrier that that can be for families. And",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2075.7,
+  "end": 2080.7,
+  "text": "And so I'm interested in what does that look like?",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2080.7,
+  "end": 2088.0,
+  "text": "Has there been any thought about incentivizing grade 10 students to have FAIR or to encourage",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2088.0,
+  "end": 2092.7,
+  "text": "more use and more families to be open to trying it?",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2092.7,
+  "end": 2098.4,
+  "text": "And then you talked about more discounts for those in need in your presentations.",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2098.4,
+  "end": 2102.4,
+  "text": "I would love a little bit more detail on that.",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2102.4,
+  "end": 2104.3,
+  "text": "And fabulous job.",
+  "no_speech": 0.0,
+  "logprob": -0.166,
+  "source": "whisper"
+ },
+ {
+  "start": 2104.3,
+  "end": 2108.1,
+  "text": "I love hearing about the connection with the airport.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2108.1,
+  "end": 2109.1,
+  "text": "Yeah.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2109.1,
+  "end": 2110.1,
+  "text": "Thank you so much.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2110.1,
+  "end": 2112.1,
+  "text": "Thanks, Councillor Stretch.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2112.1,
+  "end": 2113.1,
+  "text": "Mr. Marshall.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2113.1,
+  "end": 2115.2,
+  "text": "Well, thank you very much, through the Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2115.2,
+  "end": 2116.2,
+  "text": "Appreciate the comments.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2116.2,
+  "end": 2121.6,
+  "text": "My previous role, I worked very closely and actually continue to with our Universal Transit",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2121.6,
+  "end": 2126.8,
+  "text": "Pass Program, our U-Pass Program with the post-secondaries, introducing it to Conestoga",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2126.8,
+  "end": 2130.7,
+  "text": "College and working with our university partners, especially post-pandemic.",
+  "no_speech": 0.0,
+  "logprob": -0.264,
+  "source": "whisper"
+ },
+ {
+  "start": 2130.7,
+  "end": 2136.3,
+  "text": "So the transformative impact it can have on our community and the collaboration is really important.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 2137.6,
+  "end": 2145.0,
+  "text": "The high school programming has a few opportunities that we're working on with our board partners",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 2145.0,
+  "end": 2148.2,
+  "text": "and the Student Transportation Services of Waterloo Region.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 2148.8,
+  "end": 2153.6,
+  "text": "I'll call it the Yellow School Bus group, but our SCSWR team.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 2154.2,
+  "end": 2156.4,
+  "text": "So the four of us have connected.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 2157.1,
+  "end": 2159.6,
+  "text": "We've actually done some modeling on what it can look like.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 2159.6,
+  "end": 2166.6,
+  "text": "We ultimately have recognized the shared priorities and goals and outcomes.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2167.6,
+  "end": 2170.6,
+  "text": "We can see better mobility for after-school activities,",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2171.5,
+  "end": 2175.5,
+  "text": "economic development potential for after-school jobs,",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2175.9,
+  "end": 2181.0,
+  "text": "healthier communities for access to co-curricular or extracurricular activities,",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2181.7,
+  "end": 2185.4,
+  "text": "and just from a social resiliency, better connectivity to the communities",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2185.4,
+  "end": 2186.9,
+  "text": "that they live, work, and play in.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2186.9,
+  "end": 2189.5,
+  "text": "So there's a lot of shared mutual benefits here.",
+  "no_speech": 0.0,
+  "logprob": -0.165,
+  "source": "whisper"
+ },
+ {
+  "start": 2189.6,
+  "end": 2194.4,
+  "text": "Commissioner Spuder spoke briefly about the challenges with the, you know, when it comes",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2194.4,
+  "end": 2198.4,
+  "text": "to operating funding in particular and I know this sometimes sounds, we're a little bit",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2198.4,
+  "end": 2201.6,
+  "text": "like a broken record but transit isn't ever free.",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2201.6,
+  "end": 2210.5,
+  "text": "There's always ultimately somebody funding our operations and when it comes to the high",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2210.5,
+  "end": 2215.6,
+  "text": "school programming or student school board programming that we're exploring, that's been",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2215.6,
+  "end": 2219.6,
+  "text": "one of our pieces that we're looking together on how we can advance those discussions.",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2219.6,
+  "end": 2225.7,
+  "text": "So the boards receive money for student transportation services through the Ministry of Education.",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 2225.7,
+  "end": 2229.0,
+  "text": "We receive some funding from the Ministry of Transportation.",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 2229.0,
+  "end": 2233.9,
+  "text": "The ministries have previously worked together, done some relatively recent updates to how",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 2233.9,
+  "end": 2238.4,
+  "text": "they work with one another that made it a little bit more flexible for us to consider",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 2238.4,
+  "end": 2243.2,
+  "text": "prioritizing public transit in some of the school allocated funding.",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 2243.2,
+  "end": 2246.8,
+  "text": "So how they receive their student transportation fees.",
+  "no_speech": 0.0,
+  "logprob": -0.12,
+  "source": "whisper"
+ },
+ {
+  "start": 2246.8,
+  "end": 2251.5,
+  "text": "We are hopeful that we'll have some updates this fall on progress on expanding some of",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2251.5,
+  "end": 2256.4,
+  "text": "our existing special circumstances programming with Student Transportation Services a little",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2256.4,
+  "end": 2257.4,
+  "text": "bit broader.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2257.4,
+  "end": 2263.0,
+  "text": "It's not quite a universal program yet, but it does open the window that this idea of",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2263.0,
+  "end": 2271.7,
+  "text": "a funding and administrative collaboration by advocating to the province for how they",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2271.7,
+  "end": 2275.0,
+  "text": "distribute those funds is something that we can continue to work together to advocate",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2275.0,
+  "end": 2280.6,
+  "text": "for and actually see some real progress on. So I won't say it's transformative yet, but",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2280.6,
+  "end": 2284.6,
+  "text": "the idea is that we will see some progress, I think, in the right direction that shows",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2284.6,
+  "end": 2289.4,
+  "text": "that will help demonstrate the value of programs like this in a way that's fiscally resilient",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2289.4,
+  "end": 2293.0,
+  "text": "for all the local municipalities and the boards as well, too.",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2293.0,
+  "end": 2296.4,
+  "text": "Mr. Spooner, you wanted to add something?",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2296.4,
+  "end": 2301.8,
+  "text": "Mr. Through you, Chair, just to add to the last part about distributing fair discounts",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2301.8,
+  "end": 2306.8,
+  "text": "to those most in need. So we're quite unique in the region in that we offer the affordable",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 2306.8,
+  "end": 2313.1,
+  "text": "transit program. A lot of our peers offer group-based discounts. We offer affordable",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 2313.1,
+  "end": 2319.0,
+  "text": "transit. So that is using the federal government's market basket goods. So I think today that",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 2319.0,
+  "end": 2325.6,
+  "text": "puts a single income household at around $33,000. Anybody income-tested who comes in under that",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 2325.6,
+  "end": 2331.0,
+  "text": "level is eligible for a 50% discount from GRT on all products we sell. July 1st that",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 2331.0,
+  "end": 2339.2,
+  "text": "become 55%. We are also in this plan putting forward the kids 12 and under will not pay",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2339.2,
+  "end": 2343.1,
+  "text": "a fair and I won't say free, Kevin, as you rightly pointed out. We are fair box paid",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2343.1,
+  "end": 2346.5,
+  "text": "or we are community paid. So either. Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2346.5,
+  "end": 2350.0,
+  "text": "Go ahead, Councillor Stretch.",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2350.0,
+  "end": 2356.9,
+  "text": "Yes, sorry. I know that it's not free. I meant free to the student or the student using",
+  "no_speech": 0.0,
+  "logprob": -0.259,
+  "source": "whisper"
+ },
+ {
+  "start": 2356.9,
+  "end": 2359.9,
+  "text": "for that day or for that term.",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2359.9,
+  "end": 2360.7,
+  "text": "Yeah, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2360.7,
+  "end": 2365.7,
+  "text": "And has there been any talk about incentivizing",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2365.8,
+  "end": 2367.9,
+  "text": "high school students or more high school students",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2367.9,
+  "end": 2368.8,
+  "text": "to use it?",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2368.8,
+  "end": 2371.2,
+  "text": "I love what you're saying about working",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2371.2,
+  "end": 2373.9,
+  "text": "with the school board, but has there been,",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2373.9,
+  "end": 2375.5,
+  "text": "have you heard anything like that?",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2377.6,
+  "end": 2379.1,
+  "text": "Mr. Marshall?",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2379.1,
+  "end": 2381.8,
+  "text": "Yeah, I think through the chair,",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2381.8,
+  "end": 2383.9,
+  "text": "through existing programming, what we offer today",
+  "no_speech": 0.0,
+  "logprob": -0.203,
+  "source": "whisper"
+ },
+ {
+  "start": 2383.9,
+  "end": 2387.4,
+  "text": "or how we work with our partners at the school boards.",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2387.4,
+  "end": 2392.3,
+  "text": "There's a, we're more engaged in some travel training.",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2392.3,
+  "end": 2393.9,
+  "text": "We have a hop on GRT program.",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2393.9,
+  "end": 2397.2,
+  "text": "It's a little bit more focused on earlier years,",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2397.2,
+  "end": 2401.0,
+  "text": "but the idea is that by showing how to,",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2401.0,
+  "end": 2404.2,
+  "text": "kind of overcoming some of those barriers to transit,",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2404.2,
+  "end": 2406.3,
+  "text": "just being more familiar with what transit means,",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2406.3,
+  "end": 2407.9,
+  "text": "how it goes in the community,",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2407.9,
+  "end": 2411.6,
+  "text": "building off of that program to work better with,",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2411.6,
+  "end": 2413.6,
+  "text": "to show that it can work at the younger ages",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 2413.6,
+  "end": 2417.8,
+  "text": "And then hopefully we can continue to use that momentum as we see this like a program",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2417.8,
+  "end": 2420.1,
+  "text": "like what we're talking about expand over time too.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2421.3,
+  "end": 2422.5,
+  "text": "Thanks, Councillor Stretch.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2422.7,
+  "end": 2424.3,
+  "text": "Those are all the people we have in the queue.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2424.4,
+  "end": 2428.3,
+  "text": "So I'll just ask a couple questions, which are things that I know have come up periodically",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2428.3,
+  "end": 2429.2,
+  "text": "from my colleagues.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2430.1,
+  "end": 2434.9,
+  "text": "The first one is I know from time to time, and Mr. Spooner, you've spoken to this, the",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2434.9,
+  "end": 2439.6,
+  "text": "whole issue of cutting roots in established neighborhoods, if ridership goes down for",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2439.6,
+  "end": 2440.4,
+  "text": "a period of time.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2440.7,
+  "end": 2442.9,
+  "text": "I think we've had some lessons learned around that.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 2443.6,
+  "end": 2447.6,
+  "text": "I'm wondering if you or Mr. Malcolm can touch on that.",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2447.6,
+  "end": 2449.6,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2449.6,
+  "end": 2452.6,
+  "text": "Mr. Through you, Chair, and thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2452.6,
+  "end": 2457.6,
+  "text": "When Councillor Johnston was speaking earlier, I was having my, you know, we met in a meeting",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2457.6,
+  "end": 2462.6,
+  "text": "talking about the cancellation of Route 2 that was eventually brought back and Route",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2462.6,
+  "end": 2465.6,
+  "text": "35, and I think that was a fantastic lesson for all of us.",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2465.6,
+  "end": 2470.6,
+  "text": "Look, the thing that the plan does not do is propose a reduction of service.",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 2470.6,
+  "end": 2474.2,
+  "text": "There may be places where we have to reallocate services.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2474.4,
+  "end": 2478.6,
+  "text": "You know, we're monitoring now a change in international student population that will likely result.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2479.5,
+  "end": 2481.1,
+  "text": "Our goal is not to cut routes.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2481.3,
+  "end": 2482.2,
+  "text": "We may have to reallocate.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2482.4,
+  "end": 2483.4,
+  "text": "We may have to adjust frequency.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2483.8,
+  "end": 2491.6,
+  "text": "But as we spoke earlier, once we've got a route established and we've put in the capital investment to get stops and pads there, we want to maintain that.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2491.7,
+  "end": 2494.1,
+  "text": "So absolutely lessons learned.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2494.5,
+  "end": 2500.5,
+  "text": "You know, we've got to do a really good job if we've got the idea of consulting early and figuring out who would be impacted.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 2500.6,
+  "end": 2505.1,
+  "text": "But I think Councillor Johnston would concur. We don't want to do that ever again.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2505.8,
+  "end": 2518.9,
+  "text": "For sure. Great. Thank you. Second question. I know there's been interest that several of us have been have heard from both access to the Sikh temple on Highland and the Hindu temple in Bridgeport.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2519.0,
+  "end": 2523.5,
+  "text": "And I know you've done some work on that. So here's a little opportunity to just plug that.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2526.2,
+  "end": 2528.2,
+  "text": "Yeah, through you, Chair. Great question. Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2528.2,
+  "end": 2530.9,
+  "text": "So two very unique challenges.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2531.4,
+  "end": 2538.1,
+  "text": "So this past weekend, we actually ran a pilot service to the Ram Dam Temple at 525 Bridge.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2538.4,
+  "end": 2544.7,
+  "text": "So we run a slightly modified route four times a day to connect to an industrial area just adjacent.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2545.3,
+  "end": 2548.1,
+  "text": "And so what we did this Saturday was extend that route.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2548.4,
+  "end": 2554.8,
+  "text": "It reduces the distance that somebody has to walk from the bus stop to the temple from about 800 meters to about 200.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2555.3,
+  "end": 2557.2,
+  "text": "So we'll get the ridership results in from that.",
+  "no_speech": 0.0,
+  "logprob": -0.126,
+  "source": "whisper"
+ },
+ {
+  "start": 2557.2,
+  "end": 2559.6,
+  "text": "That is a change that is reflected in the plan.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2559.7,
+  "end": 2562.2,
+  "text": "We could make that change through plan and budget.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2562.9,
+  "end": 2567.0,
+  "text": "The challenge at the Grudwara on the way to Wilmot is slightly different.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2567.5,
+  "end": 2570.9,
+  "text": "We have a stop in front on one side of the road.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2571.0,
+  "end": 2573.6,
+  "text": "On the south side of the road, we're turning into Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2574.0,
+  "end": 2575.0,
+  "text": "We don't have a stop.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2575.1,
+  "end": 2579.6,
+  "text": "And the reason for that is the condition of the road, it's an 80-kilometer road.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2579.7,
+  "end": 2583.5,
+  "text": "It travels very fast, and you actually crest a hill as you come down towards the stop.",
+  "no_speech": 0.0,
+  "logprob": -0.147,
+  "source": "whisper"
+ },
+ {
+  "start": 2583.5,
+  "end": 2588.4,
+  "text": "And so in order to get a stop there, we would have to pull the bus off of the road.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 2588.5,
+  "end": 2589.6,
+  "text": "Obviously, we don't want to mix traffic.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 2590.0,
+  "end": 2592.5,
+  "text": "And we need a way to enable safe crossing.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 2593.0,
+  "end": 2596.8,
+  "text": "So we're still looking at that as part of that road and what we can do with that road condition.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 2597.1,
+  "end": 2600.4,
+  "text": "But I think you can sense two slightly different, one being an operating challenge,",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 2600.5,
+  "end": 2602.7,
+  "text": "the other being a capital infrastructure challenge.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 2603.1,
+  "end": 2608.7,
+  "text": "But, you know, working with both organizations to make sure, you know, we want to serve everybody.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 2608.9,
+  "end": 2610.9,
+  "text": "And transit agencies respond to demand.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 2610.9,
+  "end": 2615.9,
+  "text": "So cultural centres, community centres that drive a lot of demand, we're very interested",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2615.9,
+  "end": 2618.1,
+  "text": "in making sure we've got the service to deliver.",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2618.1,
+  "end": 2624.6,
+  "text": "Great. Thank you. And then the last question. Really sort of, you know, as you do this tenure",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2624.6,
+  "end": 2628.8,
+  "text": "plan, you can obviously plan for the things that you know about or the things that are",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2628.8,
+  "end": 2634.6,
+  "text": "sort of in the works, but not always the ones that we don't. Let's say a new company that",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2634.6,
+  "end": 2640.0,
+  "text": "locates and, you know, it's going to have 500 employees somewhere and need to respond",
+  "no_speech": 0.0,
+  "logprob": -0.159,
+  "source": "whisper"
+ },
+ {
+  "start": 2640.0,
+  "end": 2646.2,
+  "text": "to that. But I also think about our new Kitchener indoor rec complex as an example. It's going",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2646.2,
+  "end": 2653.7,
+  "text": "to open in mid-2026, slated to have 500,000 visitors a year in a part of the city that",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2653.7,
+  "end": 2659.5,
+  "text": "right now, because it's developing, probably has the least frequency of overall transit.",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2659.5,
+  "end": 2666.0,
+  "text": "I'm just wondering how you are planning for that and will be able to respond because I",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 2666.0,
+  "end": 2670.2,
+  "text": "I imagine there'll be lots of demand really quick once it finally opens up.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2670.2,
+  "end": 2671.2,
+  "text": "Mr. Spooner.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2671.2,
+  "end": 2672.2,
+  "text": "Mr. Through you, Chair.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2672.2,
+  "end": 2673.2,
+  "text": "Yeah, thank you for the question.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2673.2,
+  "end": 2679.4,
+  "text": "I think in the spirit of being nimble, it's the reason that we put forward this 10-year",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2679.4,
+  "end": 2683.5,
+  "text": "business plan without an implementation plan tied to it.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2683.5,
+  "end": 2687.2,
+  "text": "And I'll jokingly say that, you know, we've got a good crystal ball, but it's not perfect",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2687.2,
+  "end": 2688.6,
+  "text": "and we don't guess.",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2688.6,
+  "end": 2694.8,
+  "text": "So what we do do is work with staff from the City of Kitchener to identify new neighbourhoods",
+  "no_speech": 0.0,
+  "logprob": -0.13,
+  "source": "whisper"
+ },
+ {
+  "start": 2694.8,
+  "end": 2698.5,
+  "text": "coming online, new facilities such as the rec centre coming online, and try to get ahead",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2698.5,
+  "end": 2701.4,
+  "text": "of them in terms of having transit service.",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2701.4,
+  "end": 2704.2,
+  "text": "But our ability to expand relies on two things.",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2704.2,
+  "end": 2706.7,
+  "text": "The first is that customers get on our services.",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2706.7,
+  "end": 2708.2,
+  "text": "We need to see increasing ridership.",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2708.2,
+  "end": 2712.2,
+  "text": "So if anybody's watching tonight wanting to see this plan implemented, the answer is get",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2712.2,
+  "end": 2713.7,
+  "text": "on the bus or train.",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2713.7,
+  "end": 2718.6,
+  "text": "And then it also relies on the difficult decisions that the Regional Council has to make.",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2718.6,
+  "end": 2722.9,
+  "text": "And so we couldn't put forward a plan that committed monies in outer years because we",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2722.9,
+  "end": 2723.9,
+  "text": "don't guess.",
+  "no_speech": 0.0,
+  "logprob": -0.099,
+  "source": "whisper"
+ },
+ {
+  "start": 2723.9,
+  "end": 2727.8,
+  "text": "sure that we get it right. And again, it's balancing the new services that need to come",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2727.8,
+  "end": 2732.4,
+  "text": "along with those that are serving high volumes of people and experiencing crowding and frequency",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2732.4,
+  "end": 2733.4,
+  "text": "challenges today.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2733.4,
+  "end": 2739.4,
+  "text": "Okay. Great. Thank you. Thank you very much. So those appear to be all the questions. And",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2739.4,
+  "end": 2744.3,
+  "text": "I just really wanted to, on behalf of our Council, say thank you for taking the time",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2744.3,
+  "end": 2751.5,
+  "text": "to come and share this with us. I know this is a topic that comes up frequently as I,",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2751.5,
+  "end": 2757.8,
+  "text": "converse with my council colleagues and having the opportunity to hear directly from you",
+  "no_speech": 0.0,
+  "logprob": -0.258,
+  "source": "whisper"
+ },
+ {
+  "start": 2757.8,
+  "end": 2763.0,
+  "text": "and provide, you know, ask some questions and or provide some input is something that",
+  "no_speech": 0.0,
+  "logprob": -0.258,
+  "source": "whisper"
+ },
+ {
+  "start": 2763.0,
+  "end": 2766.7,
+  "text": "I know council really appreciates. So thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.258,
+  "source": "whisper"
+ },
+ {
+  "start": 2766.7,
+  "end": 2775.1,
+  "text": "Okay. We can, we have two items in camera to move. Moved by Councillor Johnston, seconded",
+  "no_speech": 0.0,
+  "logprob": -0.258,
+  "source": "whisper"
+ },
+ {
+  "start": 2775.1,
+  "end": 2783.2,
+  "text": "by Councillor Davey. All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.211,
+  "source": "whisper"
+ },
+ {
+  "start": 2783.2,
+  "end": 2787.4,
+  "text": "Move three readings of the by-laws. Moved by Councillor Michaud, seconded by Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.211,
+  "source": "whisper"
+ },
+ {
+  "start": 2787.4,
+  "end": 2792.4,
+  "text": "Deneau. All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.211,
+  "source": "whisper"
+ },
+ {
+  "start": 2792.4,
+  "end": 2799.0,
+  "text": "Move to adjourn Councillor Schnider and Councillor Stretch. All those in favour? Opposed? That's",
+  "no_speech": 0.0,
+  "logprob": -0.211,
+  "source": "whisper"
+ },
+ {
+  "start": 2799.0,
+  "end": 2801.6,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2801.6,
+  "end": 2804.6,
+  "text": "So folks, we are running behind.",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2804.6,
+  "end": 2807.5,
+  "text": "Our apologies for that.",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2807.5,
+  "end": 2812.0,
+  "text": "We need to deal with one in-camera item before we start planning, so we're probably not going",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2812.0,
+  "end": 2813.6,
+  "text": "to get to planning until 6.30.",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2813.6,
+  "end": 2817.1,
+  "text": "So just wanted to let you know if you wanted to sneak away to Starbucks or something for",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2817.1,
+  "end": 2819.2,
+  "text": "our coffee in the meantime.",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2819.2,
+  "end": 2821.2,
+  "text": "You're already supplied.",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2821.2,
+  "end": 2822.2,
+  "text": "Good stuff.",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2822.2,
+  "end": 2823.2,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.215,
+  "source": "whisper"
+ },
+ {
+  "start": 2829.0,
+  "end": 2859.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ }
+]

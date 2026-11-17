@@ -1,0 +1,55 @@
+{
+ "title": "Brownfield tax grants, asset plans and paper billing",
+ "subtitle": "Customer service software vendor, pumping station cost increase, corporate policy updates and e-billing promotion instead of a paper bill fee.",
+ "overview": [
+  "The Finance and Corporate Services Committee recommended two brownfield remediation tax grants, covering 120 Victoria Street South and 108 Garment Street. The City would fund only its own share of the tax increment, because the Region of Waterloo says it cannot take part under the current program. The committee also recommended approving the City's Asset Management Plans {{vote:m6}}. Staff said the plans keep Kitchener eligible for senior-government funding and that most assets are in fair or better condition.",
+  "On paper billing, the committee did not recommend a fee. Staff said a fee on standard bills is not consistent with provincial legislation or Ontario Energy Board rulings. Instead, the committee recommended a targeted campaign to promote e-billing, with staff to report back before the end of 2027 {{vote:m7}}.",
+  "The committee also recommended a sole-source contract for customer service software, a purchase order increase for the Carson Drive Sanitary Pumping Station, and updates to corporate policies and the demolition control by-law. All of these go to Council for final decisions."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Brownfield grant, 120 Victoria Street South",
+   "detail": "The committee recommended a City tax increment grant of up to $346,552 over three years in exchange for a filed Record of Site Condition, with the Region's share left to the Region."
+  },
+  {
+   "motion": "m2",
+   "item": "Brownfield grant, 108 Garment Street",
+   "detail": "The committee recommended a City tax increment grant of up to $404,778 over two years for remediation of the property."
+  },
+  {
+   "motion": "m6",
+   "item": "Asset Management Plans",
+   "detail": "The committee recommended approving the Asset Management Plans for all City assets."
+  },
+  {
+   "motion": "m7",
+   "item": "Paper billing fee",
+   "detail": "The committee recommended enhanced e-billing promotion through targeted marketing, rather than a paper bill fee, with a report back before the end of 2027."
+  },
+  {
+   "motion": "m4",
+   "item": "Customer service software vendor",
+   "detail": "The committee recommended MuniPaaS Corporation as sole-source provider for Salesforce Case Management at a total of $369,510 including H.S.T., for three years plus two optional one-year terms."
+  },
+  {
+   "motion": "m5",
+   "item": "Carson Drive pumping station",
+   "detail": "The committee recommended increasing the Sona Constructor purchase order by $75,000 for added rehabilitation costs."
+  },
+  {
+   "motion": "m3",
+   "item": "Corporate policy updates",
+   "detail": "The committee recommended amending and repealing listed corporate policies and enacting a by-law amending the Demolition Control chapter of the Municipal Code."
+  }
+ ],
+ "debate": [
+  "On the brownfield grants, one councillor asked what 'no financial implications' means when tax revenue is forgone. Staff explained the grant is only the increase in taxes after remediation, so the existing tax base is unchanged.",
+  "Staff said the Region has said it can no longer take part in the program. The City is advancing its own share so developers are not left waiting, and the Region could still join later. Members hoped the Region would use an available legal path rather than wait for the province.",
+  "On asset management, members noted the infrastructure renewal gap of just over $300 million is concentrated in facilities and gas. Several called for stable funding from the federal and provincial governments. Staff said gas costs fall on gas rates, not taxes.",
+  "On paper billing, some members raised concerns for seniors without computers and opposed grandfathering that would leave new customers with only e-billing. One member argued that postage costs and environmental impact justified pushing more people online and wanted to advocate for the ability to charge a fee.",
+  "Members suggested promotion at city events, a ward-versus-ward sign-up contest and a bill credit. Staff said they could offer credits without further direction, but that a default e-billing sign-up was ruled out in the earlier Ontario Energy Board decision."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T15:36:17"
+}

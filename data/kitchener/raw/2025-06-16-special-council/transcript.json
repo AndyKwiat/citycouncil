@@ -1,0 +1,706 @@
+[
+ {
+  "start": 0.0,
+  "end": 11.1,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.381,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 210.0,
+  "end": 224.2,
+  "text": "Good afternoon everyone and welcome to the special Council meeting on Monday, June 16,",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 224.2,
+  "end": 230.0,
+  "text": "2025. Individuals interested in participating in today's meeting were eligible to register",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 230.0,
+  "end": 237.3,
+  "text": "online using the delegation registration form at www.kitchener.ca slash delegation or via email",
+  "no_speech": 0.0,
+  "logprob": -0.228,
+  "source": "whisper"
+ },
+ {
+  "start": 237.3,
+  "end": 243.2,
+  "text": "at delegation at kitchener.ca. Any written comments received prior to the commencement",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 243.2,
+  "end": 248.0,
+  "text": "of today's meeting have been circulated to members of Council and will form part of the",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 248.0,
+  "end": 254.8,
+  "text": "public record. The meeting live stream and archived videos are available at www.kitchener.ca",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 254.8,
+  "end": 259.1,
+  "text": "slash watch now. Before we begin today's meeting, I'd like",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 259.1,
+  "end": 263.3,
+  "text": "to acknowledge that we're gathering on the traditional territory of the neutral Anishinaabeg",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 263.3,
+  "end": 268.2,
+  "text": "and Haudenosaunee peoples. We recognize our responsibility to serve as stewards for the",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 268.2,
+  "end": 273.7,
+  "text": "land and honor the original caretakers who came before us. Our community is enriched by the",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 273.7,
+  "end": 279.1,
+  "text": "enduring knowledge and deep rooted traditions of the diverse First Nations, Métis and Inuit in",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 279.1,
+  "end": 287.6,
+  "text": "Kitchener today. And as we give this land acknowledgement today, as we do before all of our",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 287.6,
+  "end": 293.4,
+  "text": "Council meetings, we also acknowledge that June is National Indigenous History Month.",
+  "no_speech": 0.0,
+  "logprob": -0.063,
+  "source": "whisper"
+ },
+ {
+  "start": 294.6,
+  "end": 300.2,
+  "text": "It is time to recognize the rich history, invaluable contributions, varied cultures,",
+  "no_speech": 0.0,
+  "logprob": -0.063,
+  "source": "whisper"
+ },
+ {
+  "start": 300.2,
+  "end": 306.3,
+  "text": "distinct heritage, resilience, and diversity of Indigenous peoples in Kitchener and across our",
+  "no_speech": 0.0,
+  "logprob": -0.063,
+  "source": "whisper"
+ },
+ {
+  "start": 306.3,
+  "end": 313.3,
+  "text": "country. It is also a time to acknowledge the ongoing legacy of colonialism and the injustices",
+  "no_speech": 0.0,
+  "logprob": -0.063,
+  "source": "whisper"
+ },
+ {
+  "start": 313.3,
+  "end": 318.5,
+  "text": "including displacement, forced assimilation and systemic discrimination that continue",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 318.5,
+  "end": 324.4,
+  "text": "to impact Indigenous communities today. Kitchener rests on the traditional territories of the",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 324.4,
+  "end": 330.1,
+  "text": "Anishinaabeg, Haudenosaunee and neutral peoples. Each group has a distinct culture, language",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 330.1,
+  "end": 336.4,
+  "text": "and traditions which have been an essential part of this land for generations. Recognizing",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 336.4,
+  "end": 342.1,
+  "text": "and respecting this heritage is an essential step in understanding Canada's past and present",
+  "no_speech": 0.0,
+  "logprob": -0.108,
+  "source": "whisper"
+ },
+ {
+  "start": 342.1,
+  "end": 348.8,
+  "text": "in our ongoing journey towards reconciliation. The City of Kitchener's vision is one of building",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 348.8,
+  "end": 354.6,
+  "text": "a city for everyone, where together we take care of the world around us and each other.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 354.6,
+  "end": 359.7,
+  "text": "The work of reconciliation is complicated, challenging and requires a critical eye on",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 359.7,
+  "end": 366.4,
+  "text": "how power is distributed in organizations and embedded within structures. At the City,",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 366.4,
+  "end": 370.6,
+  "text": "Council members and staff are committed to furthering our understanding of the history",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 370.6,
+  "end": 375.7,
+  "text": "and current reality of Indigenous peoples and addressing the deep-rooted, systemic,",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 375.7,
+  "end": 379.7,
+  "text": "anti-Indigenous racism that continues to exist today.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 379.7,
+  "end": 385.6,
+  "text": "To learn more about the work underway at the City of Kitchener related to truth and reconciliation,",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 385.6,
+  "end": 392.1,
+  "text": "visit www.kitchener.ca.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 392.1,
+  "end": 397.0,
+  "text": "This coming, June 21, is also National Indigenous Peoples' Day.",
+  "no_speech": 0.0,
+  "logprob": -0.196,
+  "source": "whisper"
+ },
+ {
+  "start": 397.0,
+  "end": 403.0,
+  "text": "on the summer solstice, it is a time of spiritual significance for many Indigenous peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 403.0,
+  "end": 407.9,
+  "text": "I encourage you to join others in our community and come together to attend events organized",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 407.9,
+  "end": 413.3,
+  "text": "by one of our many local Indigenous organizations throughout the community and throughout the",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 413.3,
+  "end": 416.5,
+  "text": "region. As a community, we acknowledge that we still",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 416.5,
+  "end": 422.1,
+  "text": "have a long way to go towards reconciliation and eliminating discrimination against Indigenous",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 422.1,
+  "end": 425.9,
+  "text": "peoples. I urge all Kitchener residents to recognize",
+  "no_speech": 0.0,
+  "logprob": -0.124,
+  "source": "whisper"
+ },
+ {
+  "start": 425.9,
+  "end": 431.6,
+  "text": "National Indigenous History Month by taking time to learn about the history of Indigenous peoples",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 431.6,
+  "end": 437.0,
+  "text": "and or by supporting one of the many local Indigenous-led organizations in our region.",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 437.0,
+  "end": 444.4,
+  "text": "And you can find again a list of these organizations on our website at www.kitchener.ca",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 445.0,
+  "end": 451.1,
+  "text": "slash reconciliation. Let's work together to build a future rooted in respect, understanding,",
+  "no_speech": 0.0,
+  "logprob": -0.175,
+  "source": "whisper"
+ },
+ {
+  "start": 451.1,
+  "end": 459.2,
+  "text": "and shared progress for everyone. June is also Pride Month, a month where we celebrate the history,",
+  "no_speech": 0.0,
+  "logprob": -0.066,
+  "source": "whisper"
+ },
+ {
+  "start": 459.2,
+  "end": 466.0,
+  "text": "contributions and diversity of the two-spirit, lesbian, gay, bisexual, trans, intersexual,",
+  "no_speech": 0.0,
+  "logprob": -0.066,
+  "source": "whisper"
+ },
+ {
+  "start": 466.0,
+  "end": 471.2,
+  "text": "queer and questioning communities. The City of Kitchener is committed to building a city for",
+  "no_speech": 0.0,
+  "logprob": -0.066,
+  "source": "whisper"
+ },
+ {
+  "start": 471.2,
+  "end": 477.2,
+  "text": "everyone, a city where together we support and uplift one another. As we celebrate Pride Month,",
+  "no_speech": 0.0,
+  "logprob": -0.066,
+  "source": "whisper"
+ },
+ {
+  "start": 477.2,
+  "end": 484.3,
+  "text": "we reaffirm our dedication to fostering a more inclusive, equitable and welcoming community",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 484.3,
+  "end": 494.0,
+  "text": "where 2S LGBTQIA plus individuals feel valued and respected. On June 1, 2025, the City proudly raised",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 494.0,
+  "end": 501.2,
+  "text": "the Progress Pride flag at City Hall to mark the beginning of Pride Month. It's a powerful symbol",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 501.2,
+  "end": 506.0,
+  "text": "of our ongoing commitment to inclusion and supporting members of all identities.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 506.0,
+  "end": 511.6,
+  "text": "Designed by artist Daniel Quasar, the flag integrates the original multicoloured rainbow",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 511.6,
+  "end": 518.5,
+  "text": "flag rainbow design with colours representing trans and non-binary individuals, black and",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 518.5,
+  "end": 523.2,
+  "text": "brown community members, and those impacted by HIV-AIDS.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 523.2,
+  "end": 529.4,
+  "text": "The chevron symbolises forward movement, reminding us of the progress we continue to strive toward.",
+  "no_speech": 0.0,
+  "logprob": -0.192,
+  "source": "whisper"
+ },
+ {
+  "start": 529.4,
+  "end": 534.6,
+  "text": "Each of us plays a strong role in shaping and creating a world that everyone can live in,",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 534.6,
+  "end": 537.5,
+  "text": "both authentically and without fear.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 537.5,
+  "end": 543.5,
+  "text": "I encourage all of us to reflect on what equitable and inclusive actions we can each take, both",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 543.5,
+  "end": 549.2,
+  "text": "personally and professionally, to help build a community where everyone belongs.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 549.2,
+  "end": 553.1,
+  "text": "There are so many great events and activities happening across Kitchener and Waterloo Region",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 553.1,
+  "end": 558.7,
+  "text": "throughout this month, including the Pride Festival which occurred in Victoria Park last",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 558.7,
+  "end": 565.7,
+  "text": "weekend. For other events, please visit ourspectrum.com and community calendars for additional details.",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 565.7,
+  "end": 570.7,
+  "text": "On behalf of all of us in Kitchener City Council, Happy Pride Month.",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 570.7,
+  "end": 578.7,
+  "text": "We'll now move to disclosures of pecuniary interest and the general nature thereof. Are there any disclosures of pecuniary interest?",
+  "no_speech": 0.0,
+  "logprob": -0.19,
+  "source": "whisper"
+ },
+ {
+  "start": 578.7,
+  "end": 584.9,
+  "text": "There being none and there being no delegations, no mayoral business, we'll move right to the in-camera",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 584.9,
+  "end": 592.8,
+  "text": "delegations, in-camera authorizations rather. There's two items on the agenda for in-camera,",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 593.4,
+  "end": 598.8,
+  "text": "one being a potential lease of city-owned land and one being an affordable housing opportunity.",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 599.4,
+  "end": 604.4,
+  "text": "Do I have a mover? Moved by Councillor O'Dooney, seconded by Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.272,
+  "source": "whisper"
+ },
+ {
+  "start": 604.4,
+  "end": 610.0,
+  "text": "Motion. All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 610.0,
+  "end": 613.7,
+  "text": "Motion to recess because we'll have to come back for one of the items. Moved by Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 613.7,
+  "end": 619.0,
+  "text": "Schneider, seconded by Councillor Michaud. All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 619.0,
+  "end": 625.8,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 634.4,
+  "end": 664.4,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.214,
+  "source": "whisper"
+ },
+ {
+  "start": 2644.4,
+  "end": 2667.6,
+  "text": "Good evening, everyone, and welcome back to the special council meeting on June 16,",
+  "no_speech": 0.0,
+  "logprob": -0.364,
+  "source": "whisper"
+ },
+ {
+  "start": 2667.6,
+  "end": 2669.6,
+  "text": "2025.",
+  "no_speech": 0.0,
+  "logprob": -0.364,
+  "source": "whisper"
+ },
+ {
+  "start": 2669.6,
+  "end": 2676.7,
+  "text": "We did adjourn after going, after making the decision to go into camera for two items.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 2676.7,
+  "end": 2683.8,
+  "text": "Madam Clerk, I believe there's one item coming out of the caucus session.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 2683.8,
+  "end": 2688.4,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 2688.4,
+  "end": 2694.4,
+  "text": "And there is a potential lease agreement in regards to 57 Jubilee Drive.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 2694.4,
+  "end": 2696.4,
+  "text": "Somebody care to move that?",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 2696.4,
+  "end": 2697.4,
+  "text": "Moved by Councillor Owodunni.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 2697.4,
+  "end": 2699.0,
+  "text": "Do I have a seconder?",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 2699.0,
+  "end": 2707.7,
+  "text": "Thank you. Any discussion? All those in favour? Opposed? That is carried.",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 2707.7,
+  "end": 2713.0,
+  "text": "Motion for three readings of the bylaws. Councillor Schnider and Councillor Chapman,",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 2713.0,
+  "end": 2718.1,
+  "text": "thank you. All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 2718.1,
+  "end": 2723.1,
+  "text": "Motion to adjourn. Councillor Johnston and Councillor Michaud, thank you. All those in",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 2723.1,
+  "end": 2725.4,
+  "text": "favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.182,
+  "source": "whisper"
+ },
+ {
+  "start": 2729.0,
+  "end": 2759.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ }
+]

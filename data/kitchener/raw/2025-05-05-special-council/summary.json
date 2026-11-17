@@ -1,0 +1,19 @@
+{
+ "title": "Brief special meeting authorizes closed session",
+ "subtitle": "Closed session to cover land disposition, land acquisition, and legal matters; no delegations or mayoral business",
+ "overview": [
+  "Kitchener City Council held a short special meeting on May 5, 2025. The Mayor opened with a land acknowledgement. No councillors declared a pecuniary interest, no delegations were registered, and the Mayor had no business or updates to report.",
+  "The only substantive action was a vote to hold a closed (in-camera) session immediately afterward {{vote:m1}}. The minutes list three matters: a potential land disposition and a solicitor-client privilege matter, a potential land acquisition, and a solicitor-client privilege and litigation or potential litigation matter along with a potential land disposition. The session was authorized under sections of the Municipal Act, 2001 that allow councils to meet privately on property and legal issues.",
+  "For residents, no public decisions were made at this meeting. Any resulting decisions would need to come back to a public meeting. The meeting adjourned at 4:31 p.m., about a minute after it began."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Closed session authorization",
+   "detail": "Council agreed to meet in camera right after the special meeting to consider land disposition, land acquisition, and solicitor-client privilege and litigation or potential litigation matters under the Municipal Act, 2001 {{vote:m1}}."
+  }
+ ],
+ "debate": [],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-13T16:30:58"
+}

@@ -1,0 +1,30 @@
+{
+ "title": "Hidden Valley land use plan and King Street tower deferred",
+ "subtitle": "Committee deferred a 726-unit, two-tower King Street East proposal amid traffic, parking, affordability and private well concerns.",
+ "overview": [
+  "The Planning and Strategic Initiatives Committee held two public hearings and did not settle either application. In both cases it recommended deferral, so Council will make the final decisions later.",
+  "The first item was the city-initiated land use plan for Hidden Valley, which would update the Official Plan and zoning and repeal two older community plans. A landowner group disputed natural-area mapping on several parcels. The committee recommended that the matter go to the May 26, 2025 Council meeting, or sooner, so staff can visit the sites and meet the applicant and ward councillor {{vote:m1}}.",
+  "The second item was a proposal for 4611 King Street East with 22- and 33-storey towers and 726 homes. Residents raised concerns about traffic, U-turns, parking, walkability, nearby private wells and the height next to low-rise homes. The committee recommended referring it to the February 10 Council meeting so staff can talk with the applicant, regional staff and the ward councillor {{vote:m2}}. During the meeting the applicant's side offered 10 affordable units. That offer was not part of a motion."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Hidden Valley land use plan",
+   "detail": "The committee recommended deferring the city-initiated Official Plan and zoning changes, and the repeal of the two older Hidden Valley plans, to the May 26, 2025 Council meeting or sooner, to allow a site visit and further talks."
+  },
+  {
+   "motion": "m2",
+   "item": "4611 King Street East towers",
+   "detail": "The committee recommended referring the Official Plan and zoning applications for the 726-unit, two-tower development to the February 10 Council meeting for more talks on height, traffic, site access, amenities and parking."
+  }
+ ],
+ "debate": [
+  "On Hidden Valley, a landowner's representatives said the proposed mapping did not match what was agreed on a site walk. They said their studies, done with full site access, showed some areas should not be treated as woodland or habitat, and they asked for hotel, retirement home and underground parking permissions.",
+  "Staff said the disputed areas fall within regionally significant woodland and regulated salamander habitat. They said the city's consultants had only limited access and received no supporting data, and that the wildlife layers are preliminary overlays open to further study. Staff also said the plan does not prohibit underground parking.",
+  "Councillors weighed a short deferral against a spring one. Staff said bare trees in winter make it hard to judge woodland extent, so the committee chose the later date. It asked staff to come back sooner if agreement is reached.",
+  "On King Street East, residents said the site is car-dependent, with few crossings, no bike lanes and no nearby parks. They called 0.57 parking spaces per unit too low, and said the plan relies on U-turns that will close once the LRT is built. They also asked for protection for private wells and said the height does not fit the low-rise neighbourhood.",
+  "The applicant's planner said the rear tower was lowered and the building pulled back from the homes to the south. Staff said regional and city transportation staff accepted the traffic study, while the Ministry of Transportation's comments on an update were still pending. Councillors asked for regional staff to attend, more affordable units, a lower rear tower and better parking."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-14T11:26:19"
+}
