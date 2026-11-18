@@ -130,7 +130,7 @@ run (the launchd file in `tools/launchd/` would run that nightly; it is not load
 | Lock shared with the admin job queue | partial: the update has its own lock; the panel's queue doesn't take it yet |
 | `update_report.json` and notification | done (macOS notification) |
 | Admin panel: council switcher and coverage table | done |
-| `launchd` agent plus `caffeinate`; one week of manual runs first | waiting: `tools/launchd/ca.cityhallvotes.update.plist.template` plus `install.sh` written, not loaded (turning on a schedule is the user's call) |
+| `launchd` agent plus `caffeinate` | ready, not installed: user approved turning it on (2026-11-18), but installing a LaunchAgent needs the user to run it themselves (`tools/launchd/install.sh`, then `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/ca.cityhallvotes.update.plist`). Daily at 19:00; a run missed while asleep happens at next wake. Failed runs: `UPDATE FAILED` in `state/logs/update.log`, `"ok": false` in `state/update_report.json`, a notification, exit 1 |
 
 ## Log
 
@@ -160,3 +160,4 @@ Newest first. One line per notable event: what changed, what broke, what was dec
 - 2026-11-09: D2 decided: council plus standing committees, for every council including Guelph.
 - 2026-11-09: D1 decided: one Centre Wellington site, with Fergus and Elora redirects.
 - 2026-11-09: Plan drafted. Captions checked: Kitchener has no ISI captions; the Region's are at ISI client `waterloo`.
+- 2026-11-18: Daily update hardened (failures are loud) and moved to 19:00; installing the agent is left to the user (a LaunchAgent is a standing change the session may not make).
