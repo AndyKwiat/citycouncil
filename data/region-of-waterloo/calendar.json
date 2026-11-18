@@ -50098,7 +50098,7 @@
    "HasVideo": false,
    "HasVideoLivePassed": false,
    "LiveVideoStandAloneLink": "<a class='link' aria-label='View Live Stream For Public Art Advisory Committee 28 October 2026' href='/VideoStream.aspx?MeetingId=6f5073df-d4df-46a2-9ba5-28e95a5a0349' target='_blank'>",
-   "MeetingPassed": false,
+   "MeetingPassed": true,
    "AllowPublicComments": false,
    "TimeOverride": "",
    "TimeOverrideFR": "",
@@ -50578,12 +50578,12 @@
   {
    "ID": "9ecd1b10-5ab0-4a04-9a8c-d84f5af82db7",
    "MeetingName": "Strategic Planning and Budget Committee",
-   "StartDate": "2026/12/16 09:00:00",
-   "FormattedStart": "Wednesday, December 16, 2026 @ 9:00 AM",
-   "EndDate": "2026/12/16 10:00:00",
-   "Description": "Council Chambers/Electronic<br/>",
+   "StartDate": "2026/12/16 13:00:00",
+   "FormattedStart": "Wednesday, December 16, 2026 @ 1:00 PM",
+   "EndDate": "2026/12/16 16:00:00",
+   "Description": "Council Chambers<br/>",
    "Url": "",
-   "Location": "Council Chambers/Electronic",
+   "Location": "Council Chambers",
    "ShareUrl": "/Sharing.aspx?u=https%3A%2F%2Fpub-regionofwaterloo.escribemeetings.com%2FMeetingsCalendarView.aspx%2FMeeting%3FId%3D9ecd1b10-5ab0-4a04-9a8c-d84f5af82db7",
    "MeetingType": "Strategic Planning and Budget Committee",
    "ClassName": "mt-18-48",
@@ -50596,7 +50596,7 @@
    "HasLiveVideo": false,
    "HasVideo": false,
    "HasVideoLivePassed": false,
-   "LiveVideoStandAloneLink": "<a class='link' aria-label='View Live Stream For Strategic Planning and Budget Committee 29 August 2025' href='/VideoStream.aspx?MeetingId=9ecd1b10-5ab0-4a04-9a8c-d84f5af82db7' target='_blank'>",
+   "LiveVideoStandAloneLink": "<a class='link' aria-label='View Live Stream For Strategic Planning and Budget Committee 17 November 2026' href='/VideoStream.aspx?MeetingId=9ecd1b10-5ab0-4a04-9a8c-d84f5af82db7' target='_blank'>",
    "MeetingPassed": false,
    "AllowPublicComments": false,
    "TimeOverride": "",
@@ -50604,5 +50604,5 @@
    "IsMP3": false
   }
  ],
- "checked_at": "2026-11-11T23:21:05"
+ "checked_at": "2026-11-17T20:00:10"
 }

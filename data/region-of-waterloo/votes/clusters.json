@@ -1,21 +1,21 @@
 {
  "method": "Classical MDS on pairwise disagreement rates; average-linkage hierarchical clustering; k chosen by mean silhouette",
- "votes": 464,
+ "votes": 465,
  "groups_chosen": 3,
  "silhouette_by_k": {
-  "2": 0.114,
-  "3": 0.146,
+  "2": 0.113,
+  "3": 0.147,
   "4": 0.112,
   "5": 0.08
  },
- "variance_in_2d": 0.472,
+ "variance_in_2d": 0.473,
  "unclear_below": 0.1,
  "resamples": 1000,
  "resamples_choosing": {
-  "2": 610,
-  "3": 189,
-  "4": 85,
-  "5": 116
+  "2": 618,
+  "3": 179,
+  "4": 89,
+  "5": 114
  },
  "groups": {
   "A": {
@@ -28,7 +28,7 @@
     "Vrbanovic"
    ],
    "agreement_within": 0.717,
-   "stays_together": 0.686
+   "stays_together": 0.69
   },
   "B": {
    "members": [
@@ -40,8 +40,8 @@
     "Huinink",
     "Wolf"
    ],
-   "agreement_within": 0.694,
-   "stays_together": 0.845
+   "agreement_within": 0.695,
+   "stays_together": 0.851
   },
   "C": {
    "members": [],
@@ -61,201 +61,201 @@
  },
  "members": {
   "Craig": {
-   "x": -0.0987,
-   "y": -0.0391,
+   "x": -0.102,
+   "y": -0.0402,
    "nearest_group": "A",
-   "silhouette": 0.137,
+   "silhouette": 0.14,
    "group": "A",
    "with_group": {
-    "A": 0.708,
-    "B": 0.309
+    "A": 0.713,
+    "B": 0.314
    }
   },
   "Deutschmann": {
-   "x": 0.1074,
-   "y": 0.041,
+   "x": 0.1102,
+   "y": 0.0393,
    "nearest_group": "B",
-   "silhouette": 0.19,
+   "silhouette": 0.194,
    "group": "B",
    "with_group": {
-    "A": 0.407,
-    "B": 0.862
+    "A": 0.392,
+    "B": 0.857
    }
   },
   "Erb": {
-   "x": 0.1274,
-   "y": -0.0565,
+   "x": 0.1272,
+   "y": -0.0569,
    "nearest_group": "B",
-   "silhouette": 0.13,
+   "silhouette": 0.132,
    "group": "B",
    "with_group": {
-    "A": 0.438,
-    "B": 0.849
+    "A": 0.423,
+    "B": 0.85
    }
   },
   "Foxton": {
-   "x": -0.0558,
-   "y": -0.0132,
+   "x": -0.0542,
+   "y": -0.011,
    "nearest_group": "A",
-   "silhouette": 0.112,
+   "silhouette": 0.108,
    "group": "A",
    "with_group": {
-    "A": 0.688,
-    "B": 0.595
+    "A": 0.706,
+    "B": 0.575
    }
   },
   "Gowing": {
-   "x": -0.1801,
-   "y": 0.0906,
+   "x": -0.1785,
+   "y": 0.0929,
    "nearest_group": "A",
    "silhouette": 0.38,
    "group": "A",
    "with_group": {
-    "A": 0.711,
-    "B": 0.413
+    "A": 0.704,
+    "B": 0.404
    }
   },
   "Harris": {
-   "x": -0.0564,
-   "y": -0.0545,
+   "x": -0.0577,
+   "y": -0.0529,
    "nearest_group": "C",
    "silhouette": 0.0,
    "group": null,
    "with_group": {
-    "A": 0.194,
-    "B": 0.148
+    "A": 0.175,
+    "B": 0.126
    }
   },
   "Huinink": {
-   "x": 0.1929,
-   "y": -0.0381,
+   "x": 0.1933,
+   "y": -0.0395,
    "nearest_group": "B",
-   "silhouette": 0.272,
+   "silhouette": 0.275,
    "group": "B",
    "with_group": {
-    "A": 0.377,
-    "B": 0.894
+    "A": 0.362,
+    "B": 0.899
    }
   },
   "James": {
-   "x": 0.1002,
-   "y": 0.0032,
+   "x": 0.1014,
+   "y": 0.0028,
    "nearest_group": "B",
-   "silhouette": 0.18,
+   "silhouette": 0.184,
    "group": "B",
    "with_group": {
-    "A": 0.396,
-    "B": 0.893
+    "A": 0.38,
+    "B": 0.892
    }
   },
   "Liggett": {
-   "x": -0.1233,
-   "y": -0.036,
+   "x": -0.1207,
+   "y": -0.0314,
    "nearest_group": "A",
-   "silhouette": 0.135,
+   "silhouette": 0.133,
    "group": "A",
    "with_group": {
-    "A": 0.7,
-    "B": 0.256
+    "A": 0.699,
+    "B": 0.252
    }
   },
   "McCabe": {
-   "x": 0.2461,
-   "y": 0.0225,
+   "x": 0.246,
+   "y": 0.0195,
    "nearest_group": "B",
-   "silhouette": 0.283,
+   "silhouette": 0.286,
    "group": "B",
    "with_group": {
-    "A": 0.378,
-    "B": 0.891
+    "A": 0.36,
+    "B": 0.896
    }
   },
   "Nowak": {
-   "x": 0.0084,
-   "y": -0.0568,
+   "x": 0.0046,
+   "y": -0.059,
    "nearest_group": "A",
-   "silhouette": -0.025,
+   "silhouette": -0.022,
    "group": null,
    "with_group": {
-    "A": 0.566,
-    "B": 0.757
+    "A": 0.563,
+    "B": 0.749
    }
   },
   "Redman": {
-   "x": 0.1143,
-   "y": -0.0702,
+   "x": 0.1141,
+   "y": -0.0703,
    "nearest_group": "B",
-   "silhouette": 0.009,
+   "silhouette": 0.012,
    "group": null,
    "with_group": {
-    "A": 0.438,
-    "B": 0.871
+    "A": 0.423,
+    "B": 0.872
    }
   },
   "Rodrigues": {
-   "x": 0.0101,
-   "y": -0.2888,
+   "x": 0.007,
+   "y": -0.2893,
    "nearest_group": "B",
    "silhouette": 0.219,
    "group": "B",
    "with_group": {
-    "A": 0.409,
-    "B": 0.874
+    "A": 0.402,
+    "B": 0.873
    }
   },
   "Salonen": {
-   "x": -0.2496,
-   "y": 0.0275,
+   "x": -0.2511,
+   "y": 0.0298,
    "nearest_group": "A",
-   "silhouette": 0.086,
+   "silhouette": 0.085,
    "group": null,
    "with_group": {
-    "A": 0.677,
-    "B": 0.1
+    "A": 0.66,
+    "B": 0.074
    }
   },
   "Shantz": {
-   "x": -0.0593,
-   "y": -0.024,
+   "x": -0.062,
+   "y": -0.0247,
    "nearest_group": "A",
-   "silhouette": 0.171,
+   "silhouette": 0.174,
    "group": "A",
    "with_group": {
-    "A": 0.697,
-    "B": 0.595
+    "A": 0.708,
+    "B": 0.578
    }
   },
   "Vrbanovic": {
-   "x": -0.2842,
-   "y": 0.0344,
+   "x": -0.2855,
+   "y": 0.0358,
    "nearest_group": "A",
-   "silhouette": 0.244,
+   "silhouette": 0.243,
    "group": "A",
    "with_group": {
-    "A": 0.613,
-    "B": 0.092
+    "A": 0.608,
+    "B": 0.076
    }
   },
   "Williams": {
-   "x": 0.0545,
-   "y": 0.3467,
+   "x": 0.0605,
+   "y": 0.3463,
    "nearest_group": "A",
-   "silhouette": -0.007,
+   "silhouette": -0.015,
    "group": null,
    "with_group": {
-    "A": 0.484,
-    "B": 0.513
+    "A": 0.446,
+    "B": 0.56
    }
   },
   "Wolf": {
-   "x": 0.1462,
-   "y": 0.1112,
+   "x": 0.1475,
+   "y": 0.1087,
    "nearest_group": "B",
-   "silhouette": 0.115,
+   "silhouette": 0.118,
    "group": "B",
    "with_group": {
-    "A": 0.231,
-    "B": 0.65
+    "A": 0.245,
+    "B": 0.691
    }
   }
  }

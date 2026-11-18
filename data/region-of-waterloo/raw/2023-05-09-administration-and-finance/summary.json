@@ -1,0 +1,34 @@
+{
+ "title": "Accessibility plan and recorded votes recommended",
+ "subtitle": "Support for Bill 5 on councillor conduct, reserve fund policy review, quarterly financial update and sustainability report",
+ "overview": [
+  "The Administration and Finance Committee recommended that Council approve the Region's Multi-Year Accessibility Plan 2023-2027 {{vote:m2}}. The plan guides how the Region works to improve accessibility for residents and staff over the next several years.",
+  "The committee also recommended two motions on how councillors are held to account. One would have Council endorse Bill 5, the Stopping Harassment and Abuse by Local Leaders Act, 2022, which would let municipalities direct their Integrity Commissioner to apply to a court to vacate a member's seat in some cases {{vote:m3}}. The other would direct the Regional Clerk to prepare a procedure by-law amendment so every vote at Council and standing committees is recorded in the minutes {{vote:m4}}. Residents would then be able to see how each councillor voted.",
+  "The committee received several finance reports for information, including the Q1 2023 plan and financial update and the 2023 annual debt repayment limit. Following committee direction, a full review of the reserve and reserve fund policy will come to Council. The committee also heard an update from Sustainable Waterloo Region and then met in closed session with two other committees."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "Multi-Year Accessibility Plan 2023-2027",
+   "detail": "The committee recommended that Council approve the Multi-Year Accessibility Plan 2023-2027 as outlined in report HRC-TCE-23-003 {{vote:m2}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Support for Bill 5 on harassment by local leaders",
+   "detail": "The committee recommended that Council endorse Bill 5, ask that municipalities and Integrity Commissioners be consulted on any related regulations, and circulate the resolution to local councils, MPPs, the Premier, the Minister of Municipal Affairs and Housing and AMO {{vote:m3}}."
+  },
+  {
+   "motion": "m4",
+   "item": "Recorded votes in minutes",
+   "detail": "The committee recommended directing the Regional Clerk to prepare a procedure by-law amendment requiring all votes at Regional Council and standing committees to be recorded in the minutes {{vote:m4}}."
+  },
+  {
+   "motion": "m1",
+   "item": "Consent agenda",
+   "detail": "The committee received for information the consent agenda items, including the Q1 2023 financial update, the 2023 annual debt repayment limit and the corporate strategic plan progress update {{vote:m1}}."
+  }
+ ],
+ "debate": [],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-17T20:02:17"
+}
