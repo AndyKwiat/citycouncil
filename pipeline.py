@@ -332,38 +332,57 @@ def notify(title, text):
 
 
 def update(slugs, publish=False):
-    """Every council, then tests, build and (with publish) both deploys. Writes state/update_report.json."""
-    import fcntl
+    """Every council, then tests, build and (with publish) both deploys. Writes state/update_report.json.
+
+    A run that fails is never silent: the report gets "ok": false and the error, the log gets an UPDATE FAILED line, a
+    notification goes up, and the exit status is 1 (so `launchctl print` shows it too)."""
+    import fcntl, traceback
     STATE.mkdir(exist_ok=True)
     lock = open(LOCK, "w")
     try:
         fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
     except BlockingIOError:
-        raise SystemExit("Another update is running.")
-    report = {"started": dt.datetime.now().isoformat(timespec="seconds"), "cities": {}}
-    for slug in slugs:
-        update_city(load(slug), report["cities"])
-    tests = subprocess.run([sys.executable, "-m", "unittest", "discover", "tests"], cwd=ROOT, capture_output=True, text=True)
-    report["tests_passed"] = tests.returncode == 0
-    import build, search_index
-    build.main()
-    report["built"] = True
-    if publish and report["tests_passed"]:
-        before = file_hash(search_index.DB) if search_index.DB.exists() else None
-        search_index.index()
-        if file_hash(search_index.DB) != before:
-            deploy_search()
-            report["search_deployed"] = True
-        deploy()
-        report["deployed"] = True
+        log("UPDATE SKIPPED: another update is running")
+        raise SystemExit(0)
+    report = {"started": dt.datetime.now().isoformat(timespec="seconds"), "ok": False, "cities": {}}
+    log(f"UPDATE STARTED {report['started']} (publish={publish})")
+    try:
+        for slug in slugs:
+            update_city(load(slug), report["cities"])
+        tests = subprocess.run([sys.executable, "-m", "unittest", "discover", "tests"], cwd=ROOT, capture_output=True, text=True)
+        report["tests_passed"] = tests.returncode == 0
+        if not report["tests_passed"]:
+            report["tests_output"] = tests.stderr[-2000:]
+        import build, search_index
+        build.main()
+        report["built"] = True
+        if publish and report["tests_passed"]:
+            before = file_hash(search_index.DB) if search_index.DB.exists() else None
+            search_index.index()
+            if file_hash(search_index.DB) != before:
+                deploy_search()
+                report["search_deployed"] = True
+            deploy()
+            report["deployed"] = True
+        report["ok"] = report["tests_passed"]
+        if not report["tests_passed"]:
+            report["error"] = "tests failed; nothing deployed"
+    except BaseException as e:   # SystemExit from a deploy check counts as a failure too
+        report["error"] = f"{type(e).__name__}: {e}"[:500]
+        report["traceback"] = traceback.format_exc()[-3000:]
     report["finished"] = dt.datetime.now().isoformat(timespec="seconds")
     write_json(STATE / "update_report.json", report)
+    log(json.dumps(report, indent=1))
     new = sum(len(c["new"]) for c in report["cities"].values())
     held = sum(len(c["held"]) for c in report["cities"].values())
     failed = sum(len(c["failed"]) for c in report["cities"].values())
-    notify("cityhallvotes update", f"{new} new meetings, {held} held back, {failed} failures"
-           + ("" if report["tests_passed"] else "; TESTS FAILED, nothing deployed"))
-    log(json.dumps(report, indent=1))
+    if report["ok"]:
+        log(f"UPDATE OK {report['finished']}: {new} new, {held} held back, {failed} meeting failures")
+        notify("cityhallvotes update", f"{new} new meetings, {held} held back, {failed} failures")
+    else:
+        log(f"UPDATE FAILED {report['finished']}: {report['error']}")
+        notify("cityhallvotes update FAILED", report["error"][:200])
+        raise SystemExit(1)
 
 
 def chosen(slug):
