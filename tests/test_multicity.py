@@ -355,3 +355,20 @@ class NothingToDecide(unittest.TestCase):
     def test_adjournment_titles(self):
         for t in ["Adjourn", "Adjournment", "ADJOURNMENT – 8:52pm", "ADJOURNMENT 7:30PM"]:
             self.assertEqual(procedural_ids([self.motion("m1", t)]), {"m1"}, t)
+
+    def test_reconvene_confirm_and_waive_notice_are_routine(self):
+        for t in ["Reconvene in Open Session", "Motion to Reconvene into Open Session", "A By-law to confirm the actions of Council",
+                  "Waive Notice"]:
+            self.assertEqual(procedural_ids([self.motion("m1", t)]), {"m1"}, t)
+
+    def test_three_readings_routine_only_when_every_bylaw_confirms(self):
+        motion = dict(self.motion("m2", "Three Readings", '"That the by-laws be given third reading, namely:'), item_number="5.1")
+        confirming = [{"number": "5.1", "title": "Three Readings"},
+                      {"number": "5.1.a", "title": "To confirm all actions and proceedings of the Council for June 19, 2023"}]
+        self.assertEqual(procedural_ids([motion], confirming), {"m2"})
+        with_real = confirming + [{"number": "5.1.b", "title": "To designate 30 Weber Street as a heritage property"}]
+        self.assertEqual(procedural_ids([motion], with_real), set())
+        self.assertEqual(procedural_ids([motion]), set())   # without the agenda we can't tell, so it isn't assumed routine
+        closed = {"motions": [self.motion("m1", "In-camera Meeting Authorization"), motion, self.motion("m3", "Adjournment")],
+                  "items": confirming, "roster": ["Singh"]}
+        self.assertEqual(nothing_to_summarize(closed), "the meeting only went into closed session")

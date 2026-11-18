@@ -42,7 +42,9 @@ COMMITTEE_RULE = """
 
 # Routine motions a summary's decisions must not point at. "Closed Meeting Investigator" is not one of them.
 PROCEDURAL = (r"(authority|motion|resolution) to (move|go|hold|meet|proceed)[^.]{0,30}closed|^closed (meeting|session)( summary)?$"
-              r"|^in-camera meeting authori[sz]ation|return to open|confirmation of|^adjourn(ment)?\b(?! of)|by-?laws?$")
+              r"|^in-camera meeting authori[sz]ation|return to open|reconvene (in|into) open|^waive notice$|confirmation of"
+              r"|by-?law to confirm|^adjourn(ment)?\b(?! of)|by-?laws?$")
+CONFIRMING = r"confirm (all )?(the )?(actions|proceedings)"
 
 
 def transcript_text(segs):
@@ -58,12 +60,19 @@ def transcript_text(segs):
     return "\n".join(lines)
 
 
-def procedural_ids(motions):
+def procedural_ids(motions, items=()):
     """Routine motions. A "By-laws" item counts only when its motion confirms the proceedings: several councils pass
-    substantive by-laws (development charges, heritage designations) under that heading."""
+    substantive by-laws (development charges, heritage designations) under that heading. Kitchener's "Three Readings"
+    motion names no by-law itself; they are the sub-items under it (5.1 -> 5.1.a), so it is routine only when every one
+    of them is the confirming by-law."""
     out = set()
     for x in motions:
         title = x["item_title"]
+        if re.fullmatch(r"three readings", title.strip(), re.I) and items:
+            subs = [i.get("title") or "" for i in items if str(i.get("number", "")).startswith(str(x.get("item_number")) + ".")]
+            if subs and all(re.search(CONFIRMING, t, re.I) for t in subs):
+                out.add(x["id"])
+            continue
         if not re.search(PROCEDURAL, title, re.I) or re.search(r"summary", title, re.I):
             continue
         if re.search(r"by-?laws?$", title, re.I) and not re.search(PROCEDURAL.replace("|by-?laws?$", ""), title, re.I) \
@@ -76,7 +85,7 @@ def procedural_ids(motions):
 def closed_only(minutes):
     """A special meeting that only moved into closed session has nothing to summarize (PLAN 4.12)."""
     motions = minutes.get("motions", [])
-    return bool(motions) and procedural_ids(motions) == {x["id"] for x in motions}
+    return bool(motions) and procedural_ids(motions, minutes.get("items", ())) == {x["id"] for x in motions}
 
 
 def cancelled(minutes):
@@ -94,10 +103,10 @@ def nothing_to_summarize(minutes):
     return None
 
 
-def check_summary(s, motions, council_size=13):
+def check_summary(s, motions, council_size=13, items=()):
     ids = {x["id"] for x in motions}
     errors = [f"unknown motion {x['motion']}" for x in s["decisions"] if x["motion"] not in ids]
-    procedural = procedural_ids(motions)
+    procedural = procedural_ids(motions, items)
     errors += [f"decision '{x['item']}' is attached to a procedural motion {x['motion']}; use the motion that decided it or move it to overview"
                for x in s["decisions"] if x["motion"] in procedural]
     text = " ".join(s["overview"] + s["debate"] + [x["detail"] for x in s["decisions"]])
@@ -166,7 +175,7 @@ def summarize(city, m, force=False):
         summary = result.get("structured_output") or json.loads(result["result"])
         u = result.get("usage", {})
         log(f"  got a reply in {time.time() - t0:.0f}s ({u.get('input_tokens', 0) + u.get('cache_read_input_tokens', 0) + u.get('cache_creation_input_tokens', 0):,} input tokens, {u.get('output_tokens', 0):,} output)")
-        errors = check_summary(summary, minutes["motions"], size)
+        errors = check_summary(summary, minutes["motions"], size, minutes.get("items", ()))
         if not errors:
             break
         log("  problems with the reply:", "; ".join(errors))

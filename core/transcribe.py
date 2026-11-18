@@ -139,7 +139,13 @@ def transcribe(city, m, force=False, whisper=False):
         filled = 0
         for a, b in find_gaps(captions, lo, hi):
             log(f"  gap in captions {a / 60:.0f}-{b / 60:.0f} min: checking the audio with Whisper")
-            found = whisper_range(city, d, hls, roster, a, b - a)
+            try:
+                found = whisper_range(city, d, hls, roster, a, b - a)
+            except subprocess.CalledProcessError:
+                # Filling a gap is a bonus; a stretch of the recording with no audio track must not sink the meeting.
+                log("    no audio could be read for this stretch; keeping the captions as they are")
+                meta["gaps"].append({"start": round(a), "end": round(b), "whisper_words": 0, "filled": False, "error": "no audio"})
+                continue
             n = sum(len(s["text"].split()) for s in found)
             real = n / max((b - a) / 60, 1) >= GAP_SPEECH_WPM
             meta["gaps"].append({"start": round(a), "end": round(b), "whisper_words": n, "filled": real})
