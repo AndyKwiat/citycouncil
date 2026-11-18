@@ -1,39 +1,39 @@
 {
  "method": "Classical MDS on pairwise disagreement rates; average-linkage hierarchical clustering; k chosen by mean silhouette",
- "votes": 71,
+ "votes": 81,
  "groups_chosen": 2,
  "silhouette_by_k": {
-  "2": 0.452,
-  "3": 0.293,
-  "4": 0.382,
-  "5": 0.366
+  "2": 0.455,
+  "3": 0.369,
+  "4": 0.282,
+  "5": 0.337
  },
- "variance_in_2d": 0.759,
+ "variance_in_2d": 0.753,
  "unclear_below": 0.1,
  "resamples": 1000,
  "resamples_choosing": {
-  "2": 822,
-  "3": 23,
-  "4": 95,
-  "5": 60
+  "2": 904,
+  "3": 45,
+  "4": 22,
+  "5": 29
  },
  "groups": {
   "A": {
    "members": [
     "Clancy",
     "Stretch",
-    "Mayor Vrbanovic",
     "Davey",
     "Ioannidis",
     "Schnider",
     "Singh",
     "Owodunni",
-    "Deneault",
     "Johnston",
-    "Michaud"
+    "Michaud",
+    "Mayor Vrbanovic",
+    "Deneault"
    ],
-   "agreement_within": 0.676,
-   "stays_together": 0.955
+   "agreement_within": 0.672,
+   "stays_together": 0.966
   },
   "B": {
    "members": [],
@@ -47,123 +47,123 @@
  "agreement_between": {},
  "members": {
   "Chapman": {
-   "x": 0.5935,
-   "y": -0.0278,
+   "x": 0.5928,
+   "y": -0.0886,
    "nearest_group": "B",
    "silhouette": 0.0,
    "group": null,
    "with_group": {
-    "A": 0.026
+    "A": 0.019
    }
   },
   "Clancy": {
-   "x": 0.0802,
-   "y": 0.1887,
+   "x": 0.1611,
+   "y": 0.236,
    "nearest_group": "A",
-   "silhouette": 0.376,
+   "silhouette": 0.228,
    "group": "A",
    "with_group": {
-    "A": 0.866
+    "A": 0.888
    }
   },
   "Davey": {
-   "x": -0.2435,
-   "y": -0.0002,
+   "x": -0.2287,
+   "y": -0.0241,
    "nearest_group": "A",
-   "silhouette": 0.631,
+   "silhouette": 0.613,
    "group": "A",
    "with_group": {
-    "A": 0.971
+    "A": 0.979
    }
   },
   "Deneault": {
-   "x": 0.0657,
-   "y": -0.1319,
+   "x": 0.0696,
+   "y": -0.0114,
    "nearest_group": "A",
-   "silhouette": 0.321,
-   "group": "A",
-   "with_group": {
-    "A": 0.959
-   }
-  },
-  "Ioannidis": {
-   "x": -0.2523,
-   "y": 0.0256,
-   "nearest_group": "A",
-   "silhouette": 0.639,
-   "group": "A",
-   "with_group": {
-    "A": 0.971
-   }
-  },
-  "Johnston": {
-   "x": 0.0689,
-   "y": -0.1491,
-   "nearest_group": "A",
-   "silhouette": 0.4,
+   "silhouette": 0.386,
    "group": "A",
    "with_group": {
     "A": 0.968
    }
   },
-  "Mayor Vrbanovic": {
-   "x": 0.0373,
-   "y": 0.1137,
+  "Ioannidis": {
+   "x": -0.239,
+   "y": 0.0317,
    "nearest_group": "A",
-   "silhouette": 0.485,
+   "silhouette": 0.642,
    "group": "A",
    "with_group": {
-    "A": 0.955
+    "A": 0.979
+   }
+  },
+  "Johnston": {
+   "x": 0.0221,
+   "y": -0.1956,
+   "nearest_group": "A",
+   "silhouette": 0.413,
+   "group": "A",
+   "with_group": {
+    "A": 0.979
+   }
+  },
+  "Mayor Vrbanovic": {
+   "x": -0.0056,
+   "y": 0.0155,
+   "nearest_group": "A",
+   "silhouette": 0.5,
+   "group": "A",
+   "with_group": {
+    "A": 0.979
    }
   },
   "Michaud": {
-   "x": 0.0925,
-   "y": -0.1473,
+   "x": 0.032,
+   "y": -0.198,
    "nearest_group": "A",
-   "silhouette": 0.31,
+   "silhouette": 0.378,
    "group": "A",
    "with_group": {
-    "A": 0.965
+    "A": 0.979
    }
   },
   "Owodunni": {
-   "x": -0.063,
-   "y": -0.104,
+   "x": -0.0822,
+   "y": -0.0617,
    "nearest_group": "A",
-   "silhouette": 0.546,
+   "silhouette": 0.566,
    "group": "A",
    "with_group": {
-    "A": 0.971
+    "A": 0.979
    }
   },
   "Schnider": {
-   "x": -0.2105,
-   "y": -0.0163,
+   "x": -0.21,
+   "y": 0.0242,
    "nearest_group": "A",
-   "silhouette": 0.64,
+   "silhouette": 0.651,
    "group": "A",
    "with_group": {
-    "A": 0.971
+    "A": 0.979
    }
   },
   "Singh": {
-   "x": -0.2189,
-   "y": -0.0506,
+   "x": -0.1938,
+   "y": -0.0214,
    "nearest_group": "A",
-   "silhouette": 0.694,
+   "silhouette": 0.686,
    "group": "A",
    "with_group": {
-    "A": 0.971
+    "A": 0.979
    }
   },
   "Stretch": {
-   "x": 0.0503,
-   "y": 0.2991,
+   "x": 0.0817,
+   "y": 0.2934,
    "nearest_group": "A",
-   "silhouette": 0.388,
+   "silhouette": 0.394,
    "group": "A",
    "with_group": {
-    "A": 0.929
+    "A": 0.935
    }
   }
  }

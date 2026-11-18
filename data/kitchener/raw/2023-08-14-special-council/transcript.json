@@ -1,0 +1,986 @@
+[
+ {
+  "start": 0.0,
+  "end": 3.4,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.486,
+  "source": "whisper"
+ },
+ {
+  "start": 30.0,
+  "end": 60.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.133,
+  "source": "whisper"
+ },
+ {
+  "start": 60.0,
+  "end": 83.2,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.877,
+  "source": "whisper"
+ },
+ {
+  "start": 83.2,
+  "end": 86.0,
+  "text": "Good afternoon.",
+  "no_speech": 0.0,
+  "logprob": -0.877,
+  "source": "whisper"
+ },
+ {
+  "start": 90.0,
+  "end": 120.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.823,
+  "source": "whisper"
+ },
+ {
+  "start": 120.0,
+  "end": 125.0,
+  "text": "With that, good afternoon everyone.",
+  "no_speech": 0.0,
+  "logprob": -0.426,
+  "source": "whisper"
+ },
+ {
+  "start": 125.0,
+  "end": 127.4,
+  "text": "Welcome to today's special council meeting",
+  "no_speech": 0.0,
+  "logprob": -0.426,
+  "source": "whisper"
+ },
+ {
+  "start": 127.4,
+  "end": 129.6,
+  "text": "on August the 14th of three.",
+  "no_speech": 0.0,
+  "logprob": -0.426,
+  "source": "whisper"
+ },
+ {
+  "start": 133.0,
+  "end": 136.5,
+  "text": "Individuals register online",
+  "no_speech": 0.0,
+  "logprob": -0.426,
+  "source": "whisper"
+ },
+ {
+  "start": 136.5,
+  "end": 139.0,
+  "text": "using the delegation registration form",
+  "no_speech": 0.0,
+  "logprob": -0.426,
+  "source": "whisper"
+ },
+ {
+  "start": 139.0,
+  "end": 144.0,
+  "text": "at W-Delegation or via email at delegation at Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.426,
+  "source": "whisper"
+ },
+ {
+  "start": 145.5,
+  "end": 149.9,
+  "text": "Any written comments received prior to this meeting",
+  "no_speech": 0.0,
+  "logprob": -0.426,
+  "source": "whisper"
+ },
+ {
+  "start": 149.9,
+  "end": 154.2,
+  "text": "with members of Council and will form part of the public rec.",
+  "no_speech": 0.0,
+  "logprob": -0.441,
+  "source": "whisper"
+ },
+ {
+  "start": 154.2,
+  "end": 160.7,
+  "text": "Live stream and archive videos are available at www.a.watchnow.",
+  "no_speech": 0.0,
+  "logprob": -0.441,
+  "source": "whisper"
+ },
+ {
+  "start": 162.7,
+  "end": 170.4,
+  "text": "Before we would like to acknowledge that today we're gathering on the traditional territory of the Breen and Haudenosaunee peoples.",
+  "no_speech": 0.0,
+  "logprob": -0.441,
+  "source": "whisper"
+ },
+ {
+  "start": 171.2,
+  "end": 177.2,
+  "text": "We recognize our responsibility to stand in honour of the original caretakers who came before us.",
+  "no_speech": 0.0,
+  "logprob": -0.441,
+  "source": "whisper"
+ },
+ {
+  "start": 177.2,
+  "end": 186.2,
+  "text": "are the enduring knowledge and deep-rooted traditions of the diverse First Newsweek Convention today.",
+  "no_speech": 0.0,
+  "logprob": -0.403,
+  "source": "whisper"
+ },
+ {
+  "start": 186.2,
+  "end": 194.2,
+  "text": "Colleagues, at the Special Council meeting, I would just like to take a moment to acknowledge",
+  "no_speech": 0.0,
+  "logprob": -0.403,
+  "source": "whisper"
+ },
+ {
+  "start": 194.2,
+  "end": 201.2,
+  "text": "and recognize one of our colleagues in our neighboring municipality yesterday.",
+  "no_speech": 0.0,
+  "logprob": -0.403,
+  "source": "whisper"
+ },
+ {
+  "start": 201.2,
+  "end": 216.2,
+  "text": "And I will read a statement issued by the City of Cambridge to Donna Reid, who served the residence of Ward 1 since 2010, just before 6 a.m. at Grand River Hospital.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 216.2,
+  "end": 225.2,
+  "text": "It's with that I extend her deepest condolences on behalf of the City of Cambridge and Cambridge to Donna's family and close friends.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 225.2,
+  "end": 231.2,
+  "text": "Donna was known for more inclusive policies and practices within the municipal government,",
+  "no_speech": 0.0,
+  "logprob": -0.321,
+  "source": "whisper"
+ },
+ {
+  "start": 231.2,
+  "end": 237.2,
+  "text": "the rights of women and champion the causes of her constituents.",
+  "no_speech": 0.0,
+  "logprob": -0.321,
+  "source": "whisper"
+ },
+ {
+  "start": 237.2,
+  "end": 246.2,
+  "text": "Councillor Reid is remembered for her work in making Cambridge and supporting initiatives like free mensual supplies in city facilities,",
+  "no_speech": 0.0,
+  "logprob": -0.321,
+  "source": "whisper"
+ },
+ {
+  "start": 246.2,
+  "end": 253.2,
+  "text": "Federation of University Women in Cambridge and advocating for exclusion for all.",
+  "no_speech": 0.0,
+  "logprob": -0.321,
+  "source": "whisper"
+ },
+ {
+  "start": 253.2,
+  "end": 259.9,
+  "text": "But in Woodstock, Donna's family moved to 10 years old and she has lived in Cambridge",
+  "no_speech": 0.0,
+  "logprob": -0.409,
+  "source": "whisper"
+ },
+ {
+  "start": 259.9,
+  "end": 260.9,
+  "text": "since then.",
+  "no_speech": 0.0,
+  "logprob": -0.409,
+  "source": "whisper"
+ },
+ {
+  "start": 260.9,
+  "end": 266.5,
+  "text": "Donna was a regional district school board and served as executive director of the Rockman",
+  "no_speech": 0.0,
+  "logprob": -0.409,
+  "source": "whisper"
+ },
+ {
+  "start": 266.5,
+  "end": 273.1,
+  "text": "Teachers Association as well as countless other organizations, Women's Crisis Shelter,",
+  "no_speech": 0.0,
+  "logprob": -0.409,
+  "source": "whisper"
+ },
+ {
+  "start": 273.1,
+  "end": 277.1,
+  "text": "Planned Parenthood, the Care of Community, and the Community Community, and Women Teachers",
+  "no_speech": 0.0,
+  "logprob": -0.409,
+  "source": "whisper"
+ },
+ {
+  "start": 277.1,
+  "end": 278.1,
+  "text": "Associations.",
+  "no_speech": 0.0,
+  "logprob": -0.409,
+  "source": "whisper"
+ },
+ {
+  "start": 278.1,
+  "end": 289.1,
+  "text": "She joined City Catan as Ward 1 Council and consistently applied her personal values and experience in her ward and across the city.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 289.1,
+  "end": 294.1,
+  "text": "She was re-elected to the Office of 2022 Municipal Selection.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 294.1,
+  "end": 303.1,
+  "text": "Frags at Cambridge served to half-mast and Councillor Reid's honour and her book of condolences has been available in City Hall.",
+  "no_speech": 0.0,
+  "logprob": -0.312,
+  "source": "whisper"
+ },
+ {
+  "start": 303.1,
+  "end": 312.1,
+  "text": "It's my understanding that the memorial service for Council placed on Friday afternoon in",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 312.1,
+  "end": 314.1,
+  "text": "Cambridge City Hall.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 314.1,
+  "end": 319.1,
+  "text": "I always stand up for a moment of silence.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 319.1,
+  "end": 327.1,
+  "text": "I know it would be over the past number of years to whether it was at the all-council",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 327.1,
+  "end": 334.1,
+  "text": "meetings, whether it was on an initiative that crossed boundaries between our two communities.",
+  "no_speech": 0.0,
+  "logprob": -0.456,
+  "source": "whisper"
+ },
+ {
+  "start": 334.1,
+  "end": 344.3,
+  "text": "For example, when we went on council and things like she was a strong advocate of a number",
+  "no_speech": 0.0,
+  "logprob": -0.456,
+  "source": "whisper"
+ },
+ {
+  "start": 344.3,
+  "end": 355.3,
+  "text": "of issues, and she certainly worked through her work, nobody was left behind in her community.",
+  "no_speech": 0.0,
+  "logprob": -0.456,
+  "source": "whisper"
+ },
+ {
+  "start": 355.3,
+  "end": 359.6,
+  "text": "I now ask everyone to stand for a moment of silence to recognize.",
+  "no_speech": 0.0,
+  "logprob": -0.3,
+  "source": "whisper"
+ },
+ {
+  "start": 385.3,
+  "end": 386.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 386.3,
+  "end": 398.3,
+  "text": "Okay, are there any disclosures of pecuniary interest?",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 398.3,
+  "end": 401.3,
+  "text": "There being none.",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 401.3,
+  "end": 402.3,
+  "text": "Oh, sorry.",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 402.3,
+  "end": 403.3,
+  "text": "Councillor Stank.",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 403.3,
+  "end": 404.3,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 404.3,
+  "end": 405.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 405.3,
+  "end": 406.3,
+  "text": "I may have one.",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 406.3,
+  "end": 414.3,
+  "text": "I haven't seen the full aspect of the report, but the fire hall is not.",
+  "no_speech": 0.0,
+  "logprob": -0.537,
+  "source": "whisper"
+ },
+ {
+  "start": 414.3,
+  "end": 415.4,
+  "text": "The fire hall.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 418.4,
+  "end": 419.1,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 419.4,
+  "end": 422.4,
+  "text": "So for the fire station development.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 424.8,
+  "end": 425.4,
+  "text": "Yeah.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 426.1,
+  "end": 427.8,
+  "text": "I mean, that's written in the public.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 427.9,
+  "end": 428.2,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 428.4,
+  "end": 428.8,
+  "text": "Sorry.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 428.9,
+  "end": 429.2,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 429.7,
+  "end": 430.4,
+  "text": "I don't have fun of me.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 433.5,
+  "end": 434.3,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 434.3,
+  "end": 436.9,
+  "text": "Make sure you fill up the appropriate paperwork.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 436.9,
+  "end": 437.9,
+  "text": "Thanks.",
+  "no_speech": 0.0,
+  "logprob": -0.502,
+  "source": "whisper"
+ },
+ {
+  "start": 437.9,
+  "end": 438.9,
+  "text": "Okie dokie.",
+  "no_speech": 0.0,
+  "logprob": -0.502,
+  "source": "whisper"
+ },
+ {
+  "start": 438.9,
+  "end": 443.9,
+  "text": "On to item number four.",
+  "no_speech": 0.0,
+  "logprob": -0.502,
+  "source": "whisper"
+ },
+ {
+  "start": 443.9,
+  "end": 458.9,
+  "text": "I did want to take this to address the issue result of the change in legislation with respect",
+  "no_speech": 0.0,
+  "logprob": -0.502,
+  "source": "whisper"
+ },
+ {
+  "start": 458.9,
+  "end": 469.9,
+  "text": "to your regulation 530-22, all these that are subject to the special powers under the",
+  "no_speech": 0.0,
+  "logprob": -0.496,
+  "source": "whisper"
+ },
+ {
+  "start": 469.9,
+  "end": 479.9,
+  "text": "Council under the Municipal Act. And as of July 1st, this was in fact adding 26 addition",
+  "no_speech": 0.0,
+  "logprob": -0.496,
+  "source": "whisper"
+ },
+ {
+  "start": 479.9,
+  "end": 484.9,
+  "text": "in addition to Toronto and Ottawa.",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 485.5,
+  "end": 487.9,
+  "text": "I think as Council is aware,",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 487.9,
+  "end": 491.6,
+  "text": "the reasons are provisional,",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 491.6,
+  "end": 495.5,
+  "text": "or provincial problem where those duties",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 495.5,
+  "end": 499.1,
+  "text": "are expected to be exercised,",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 499.1,
+  "end": 503.4,
+  "text": "5 million new residential units by December 31st,",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 503.4,
+  "end": 507.8,
+  "text": "23rd, and maintaining infrastructure to support housing,",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 507.8,
+  "end": 510.4,
+  "text": "including transit needs and servicing.",
+  "no_speech": 0.0,
+  "logprob": -0.433,
+  "source": "whisper"
+ },
+ {
+  "start": 514.1,
+  "end": 518.5,
+  "text": "We are working with staff and the clerk",
+  "no_speech": 0.0,
+  "logprob": -0.433,
+  "source": "whisper"
+ },
+ {
+  "start": 518.5,
+  "end": 520.8,
+  "text": "and Mr. Fusco fully understand these.",
+  "no_speech": 0.0,
+  "logprob": -0.433,
+  "source": "whisper"
+ },
+ {
+  "start": 520.8,
+  "end": 524.2,
+  "text": "And I know Ms. Fusco has also been working",
+  "no_speech": 0.0,
+  "logprob": -0.433,
+  "source": "whisper"
+ },
+ {
+  "start": 524.2,
+  "end": 528.7,
+  "text": "for other clerk counterparts across the province",
+  "no_speech": 0.0,
+  "logprob": -0.433,
+  "source": "whisper"
+ },
+ {
+  "start": 528.7,
+  "end": 532.6,
+  "text": "to learn from each of these issues.",
+  "no_speech": 0.0,
+  "logprob": -0.433,
+  "source": "whisper"
+ },
+ {
+  "start": 532.6,
+  "end": 537.6,
+  "text": "And we know that can be delegated",
+  "no_speech": 0.0,
+  "logprob": -0.433,
+  "source": "whisper"
+ },
+ {
+  "start": 537.8,
+  "end": 541.1,
+  "text": "and as part of this.",
+  "no_speech": 0.0,
+  "logprob": -0.462,
+  "source": "whisper"
+ },
+ {
+  "start": 541.1,
+  "end": 549.4,
+  "text": "From my perspective, I believe that we've had a collaborative arrangement with this Council",
+  "no_speech": 0.0,
+  "logprob": -0.462,
+  "source": "whisper"
+ },
+ {
+  "start": 549.4,
+  "end": 555.5,
+  "text": "and as I've said publicly many times before, we've had a collaborative arrangement in the",
+  "no_speech": 0.0,
+  "logprob": -0.462,
+  "source": "whisper"
+ },
+ {
+  "start": 555.5,
+  "end": 564.7,
+  "text": "17 years that Mayor Zaire was the Council prior to that and so I don't have a reason",
+  "no_speech": 0.0,
+  "logprob": -0.462,
+  "source": "whisper"
+ },
+ {
+  "start": 564.7,
+  "end": 579.1,
+  "text": "to uh change that uh at the uh and so um i have uh just advising everyone that i am signing to",
+  "no_speech": 0.0,
+  "logprob": -0.225,
+  "source": "whisper"
+ },
+ {
+  "start": 580.8,
+  "end": 588.5,
+  "text": "delegate the appointment of the council so in other words it will continue in the manner it",
+  "no_speech": 0.0,
+  "logprob": -0.225,
+  "source": "whisper"
+ },
+ {
+  "start": 588.5,
+  "end": 607.6,
+  "text": "will select review and never have to deal with any other pertaining to the CAO to be a council priority.",
+  "no_speech": 0.0,
+  "logprob": -0.665,
+  "source": "whisper"
+ },
+ {
+  "start": 607.6,
+  "end": 620.6,
+  "text": "The decisions to reorganize the city will continue to be delegated to the CAO in a manner",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 620.6,
+  "end": 623.6,
+  "text": "such as we've operated thus far.",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 623.6,
+  "end": 633.6,
+  "text": "Quite frankly, the CAO consultor issues and it's my assumption that that will continue",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 633.6,
+  "end": 643.4,
+  "text": "to play a role if we're ever looking for any of the department heads. But as in the past",
+  "no_speech": 0.0,
+  "logprob": -0.351,
+  "source": "whisper"
+ },
+ {
+  "start": 643.4,
+  "end": 648.3,
+  "text": "had a role in the selection of those department heads and Enview will continue to play a role",
+  "no_speech": 0.0,
+  "logprob": -0.351,
+  "source": "whisper"
+ },
+ {
+  "start": 648.3,
+  "end": 660.3,
+  "text": "in the selection of those department heads. Also in terms of establishing any committee",
+  "no_speech": 0.0,
+  "logprob": -0.351,
+  "source": "whisper"
+ },
+ {
+  "start": 660.3,
+  "end": 667.8,
+  "text": "and appointing chairs and vice-chairs. I also believe that this should continue with the",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 667.8,
+  "end": 675.6,
+  "text": "folks that we have in place and that the process should continue as in the past in that regard.",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 675.6,
+  "end": 683.7,
+  "text": "So I just wanted to share if there is transparency to it. There will be a section added to the",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 683.7,
+  "end": 690.3,
+  "text": "website where these decisions and any other decisions will be formalized. There's a process",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 690.3,
+  "end": 697.4,
+  "text": "where after all bylaws are approved, I have to waive my any veto rights that come with that.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 699.2,
+  "end": 709.2,
+  "text": "And once that occurs, then the bylaws are finalized and they will also be on the webpage going forward.",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 709.2,
+  "end": 715.1,
+  "text": "So I just wanted to share that again. I believe we've had a collaborative working relationship",
+  "no_speech": 0.0,
+  "logprob": -0.223,
+  "source": "whisper"
+ },
+ {
+  "start": 715.1,
+  "end": 720.3,
+  "text": "during my time on Council and I look forward to continuing to work with this Council in that",
+  "no_speech": 0.0,
+  "logprob": -0.383,
+  "source": "whisper"
+ },
+ {
+  "start": 720.3,
+  "end": 730.0,
+  "text": "manner going forward. So with that, we will now move to the meeting. Does somebody care to move the items listed?",
+  "no_speech": 0.0,
+  "logprob": -0.383,
+  "source": "whisper"
+ },
+ {
+  "start": 730.0,
+  "end": 735.0,
+  "text": "Councilor Michaud, any discussion?",
+  "no_speech": 0.0,
+  "logprob": -0.501,
+  "source": "whisper"
+ },
+ {
+  "start": 735.0,
+  "end": 738.0,
+  "text": "All those in favor, oppose that.",
+  "no_speech": 0.0,
+  "logprob": -0.501,
+  "source": "whisper"
+ },
+ {
+  "start": 741.0,
+  "end": 745.0,
+  "text": "We'll need to rise and record a motion to recess.",
+  "no_speech": 0.0,
+  "logprob": -0.501,
+  "source": "whisper"
+ },
+ {
+  "start": 747.0,
+  "end": 751.0,
+  "text": "Councilor Johnston, all those in favor, oppose that.",
+  "no_speech": 0.0,
+  "logprob": -0.501,
+  "source": "whisper"
+ },
+ {
+  "start": 751.0,
+  "end": 752.0,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.501,
+  "source": "whisper"
+ },
+ {
+  "start": 752.0,
+  "end": 757.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.501,
+  "source": "whisper"
+ },
+ {
+  "start": 760.0,
+  "end": 790.0,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.636,
+  "source": "whisper"
+ },
+ {
+  "start": 790.0,
+  "end": 795.7,
+  "text": "Good evening everyone and welcome back to the special council meeting from earlier today.",
+  "no_speech": 0.0,
+  "logprob": -0.289,
+  "source": "whisper"
+ },
+ {
+  "start": 796.4,
+  "end": 802.0,
+  "text": "There are two items coming out of caucus and if I can ask the clerk to...",
+  "no_speech": 0.0,
+  "logprob": -0.289,
+  "source": "whisper"
+ },
+ {
+  "start": 802.6,
+  "end": 805.3,
+  "text": "No, only one. Sorry, only one item coming out of caucus.",
+  "no_speech": 0.0,
+  "logprob": -0.289,
+  "source": "whisper"
+ },
+ {
+  "start": 805.9,
+  "end": 809.3,
+  "text": "If I can ask the clerk to put it on the screen please.",
+  "no_speech": 0.0,
+  "logprob": -0.289,
+  "source": "whisper"
+ },
+ {
+  "start": 811.6,
+  "end": 816.4,
+  "text": "And it's with respect to the land acquisition in relation to the DMAF fund.",
+  "no_speech": 0.0,
+  "logprob": -0.289,
+  "source": "whisper"
+ },
+ {
+  "start": 816.4,
+  "end": 820.0,
+  "text": "and do I have a mover?",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 820.5,
+  "end": 824.7,
+  "text": "Moved by Councillor Davey, seconded by Councillor Chapman.",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 824.9,
+  "end": 828.7,
+  "text": "Any discussion? All those in favour? Opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 828.7,
+  "end": 832.0,
+  "text": "That's carried. Motion to do three readings.",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 832.8,
+  "end": 837.0,
+  "text": "Moved by Councillor Schnider, seconded by Councillor Johnston. All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 837.7,
+  "end": 842.9,
+  "text": "Opposed? That's carried. Motion to adjourn. Moved by Councillor Clancy, seconded by Councillor Deneault.",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 842.9,
+  "end": 848.4,
+  "text": "All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.397,
+  "source": "whisper"
+ }
+]

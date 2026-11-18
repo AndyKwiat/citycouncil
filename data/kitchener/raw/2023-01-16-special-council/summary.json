@@ -1,0 +1,44 @@
+{
+ "title": "2023 operating budget follow-up requests",
+ "subtitle": "Staff asked for more information on trails, fleet charging, swimming fees, traffic calming, events, staffing and water heaters.",
+ "overview": [
+  "A short special meeting of Council was held on January 16, 2023, chaired by the Acting Mayor, to act on the 2023 operating budget discussion from the Special Finance and Corporate Services Committee earlier that day.",
+  "Council directed staff to report back or take action on a list of questions about the budget {{vote:m1}}. They cover the city's population forecast, electric vehicle charging in the fleet, paving of trails, the cost of lowering recreational swimming fees to $2, and the cost of a neighbourhood basketball court. They also cover traffic calming options, the combined cost of all requested new staff positions, and the rental water heater program.",
+  "Staff were also asked to prepare an issue paper on more special events, including more youth events. It will compare increasing grants to grassroots groups with City-run events. No final budget decisions were made at this meeting. The extra information is meant to help Council weigh these options before the budget is finalized. Council then confirmed its proceedings and adjourned."
+ ],
+ "decisions": [
+  {
+   "motion": "m1",
+   "item": "Budget information requests",
+   "detail": "Council directed staff to report back or act on a list of matters raised at the committee meeting about the 2023 operating budget {{vote:m1}}."
+  },
+  {
+   "motion": "m1",
+   "item": "Trail paving",
+   "detail": "Staff are to recirculate an earlier trail paving report and say whether the work could be done by City staff instead of an outside contractor."
+  },
+  {
+   "motion": "m1",
+   "item": "Recreational swimming fees",
+   "detail": "Staff are to provide the split between youth and adult attendance and information on non-resident participants for the proposed $2 recreational swimming fee."
+  },
+  {
+   "motion": "m1",
+   "item": "Special events issue paper",
+   "detail": "Staff are to prepare an issue paper on more events, more sponsorship and more youth events, delivered through grassroots grants or City-run events."
+  },
+  {
+   "motion": "m1",
+   "item": "Traffic calming",
+   "detail": "Staff are to provide costs of hotspot traffic calming measures, how many could be installed each year, and what could be done before more staff are needed."
+  },
+  {
+   "motion": "m1",
+   "item": "Fleet charging, staffing and water heaters",
+   "detail": "Staff are to give more detail on electric vehicle charging, the combined cost of all requested new positions, and rental water heater costs and rates."
+  }
+ ],
+ "debate": [],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-17T23:06:07"
+}

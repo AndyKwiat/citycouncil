@@ -1,0 +1,50 @@
+{
+ "title": "Bingemans Centre Drive speed limit and school zones",
+ "subtitle": "Also: infill housing on Queen's Boulevard, holding provisions lifted, and feedback on the downtown Kitchener vision.",
+ "overview": [
+  "The committee recommended that staff report back at the next Council meeting on raising the speed limit on Bingemans Centre Drive from 50 to 60 km/h, together with signage or other measures for problem areas {{vote:m5}}. Staff had recommended keeping the limit at 50. The same motion deferred any change to school zone hours until the Region of Waterloo finishes its pilot study, expected near the end of 2023. Kitchener's school zones stay at 30 km/h for now.",
+  "The committee also recommended rezoning 1154 Queen's Boulevard to allow a three-storey, 10-unit building with 17 parking spaces {{vote:m4}}. It recommended lifting holding provisions on three sites: Duke Street East and Madison Avenue North, Huron Road, and Cedar Street North {{vote:m1}}.",
+  "Committee members also gave feedback on the draft vision and principles for downtown Kitchener. Staff will use that feedback, along with community engagement results and the Downtown Community Working Group, to finalize them {{vote:m6}}. Council will see the final version later in 2023. All of these items are recommendations that Council must still adopt."
+ ],
+ "decisions": [
+  {
+   "motion": "m5",
+   "item": "Bingemans Centre Drive speed limit",
+   "detail": "The committee recommended that staff report back at the next Council meeting on raising the limit to 60 km/h with signage or other measures for hotspot areas, and deferred school zone hour changes until the Region of Waterloo completes its pilot review {{vote:m5}}."
+  },
+  {
+   "motion": "m4",
+   "item": "1154 Queen's Boulevard rezoning",
+   "detail": "The committee recommended approving the zoning change for the Queen's Boulevard site, and permitting minor variance applications on the lands {{vote:m4}}."
+  },
+  {
+   "motion": "m6",
+   "item": "Downtown Kitchener vision and principles",
+   "detail": "The committee recommended using engagement results, Council feedback and the Downtown Community Working Group to finalize a vision and principles, with a report back for Council approval later in 2023 {{vote:m6}}."
+  },
+  {
+   "motion": "m1",
+   "item": "Duke Street East and Madison Avenue North holding provision",
+   "detail": "The committee recommended removing Holding Provision 95H from 206 and 210 Duke Street East and 46 and 50 Madison Avenue North {{vote:m1}}."
+  },
+  {
+   "motion": "m2",
+   "item": "495 Huron Road holding provision",
+   "detail": "The committee recommended removing Holding Provision 15H from 495 Huron Road {{vote:m2}}."
+  },
+  {
+   "motion": "m3",
+   "item": "15 Cedar Street North holding provision",
+   "detail": "The committee recommended removing Holding Provision 15H from 15 Cedar Street North {{vote:m3}}."
+  }
+ ],
+ "debate": [
+  "School zones: staff argued a static 30 km/h limit suits Kitchener's neighbourhood streets, since schools host community programs outside school hours and children are present throughout the year. Staff added that this matches neighbouring cities and that stopping distance and survival rates worsen sharply at higher speeds.",
+  "Several councillors and the mayor said drivers ticketed at 40 km/h late at night may lose trust in the rules, and that Kitchener should match the Region's time-of-day approach. Others said safety around schools should come first, and that staff estimated about a six-second difference through one school zone. The mayor argued for waiting on the Region's results to avoid another inconsistency.",
+  "Bingemans Centre Drive: one councillor pointed to the 60 km/h limits on nearby Victoria Street and Lackner Boulevard and to resident feedback at the door. Staff replied that the road has five lanes, about 15,000 vehicle trips a day, a history of pedestrian collisions, and typical speeds around 75 km/h, so a higher limit could make speeding worse. Staff said enforcement, pedestrian refuge islands and driver education fit the road better than traditional traffic calming.",
+  "Queen's Boulevard: questions covered parking, which was cut from 20 spaces to 17 to add green space, and a front setback shorter than others on the block. Staff said the block has no consistent building line and that the setback leaves more room for rear amenity space and trees. Staff also said the rezoning gives no permission to remove trees on neighbouring properties.",
+  "Downtown vision: members asked for bolder, more aspirational wording and said it should speak to the whole city and to innovation. They also raised affordability, displacement, inclusion, green space and tree canopy. Some cautioned that words like \"belonging\" and \"inclusive\" could draw criticism, and suggested combining connection and belonging."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-17T20:19:19"
+}

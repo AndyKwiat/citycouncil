@@ -1,0 +1,5282 @@
+[
+ {
+  "start": 0.0,
+  "end": 2.0,
+  "text": "Mayor and Councillor.",
+  "no_speech": 0.0,
+  "logprob": -0.467,
+  "source": "whisper"
+ },
+ {
+  "start": 12.0,
+  "end": 19.0,
+  "text": "Good evening, everyone, and welcome to the City Council meeting on April the 17th, 2023.",
+  "no_speech": 0.0,
+  "logprob": -0.467,
+  "source": "whisper"
+ },
+ {
+  "start": 19.0,
+  "end": 25.0,
+  "text": "Any individuals interested in participating in this meeting virtually",
+  "no_speech": 0.0,
+  "logprob": -0.467,
+  "source": "whisper"
+ },
+ {
+  "start": 25.0,
+  "end": 32.4,
+  "text": "have the opportunity to register online using the delegation registration form at www.kitchener.ca",
+  "no_speech": 0.0,
+  "logprob": -0.169,
+  "source": "whisper"
+ },
+ {
+  "start": 32.4,
+  "end": 39.3,
+  "text": "slash delegation or via email at delegation at kitchener dot ca.",
+  "no_speech": 0.0,
+  "logprob": -0.169,
+  "source": "whisper"
+ },
+ {
+  "start": 39.3,
+  "end": 43.2,
+  "text": "Any written comments received prior to this meeting have been circulated to members of",
+  "no_speech": 0.0,
+  "logprob": -0.169,
+  "source": "whisper"
+ },
+ {
+  "start": 43.2,
+  "end": 48.5,
+  "text": "Council and will form part of the public record of this evening's meeting.",
+  "no_speech": 0.0,
+  "logprob": -0.169,
+  "source": "whisper"
+ },
+ {
+  "start": 48.5,
+  "end": 54.3,
+  "text": "As we begin today's meeting, we begin at this evening as we normally do by acknowledging",
+  "no_speech": 0.0,
+  "logprob": -0.169,
+  "source": "whisper"
+ },
+ {
+  "start": 54.3,
+  "end": 59.6,
+  "text": "that this evening we're gathering on the traditional territory of the neutral, Anishinaabe and",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 59.6,
+  "end": 65.8,
+  "text": "Haudenosaunee peoples. We recognize our responsibility to serve as stewards for the land and honor",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 65.8,
+  "end": 71.0,
+  "text": "the original caretakers who came before us. Our community is enriched by the enduring knowledge",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 71.0,
+  "end": 76.9,
+  "text": "and deep rooted traditions of the diverse First Nations, Métis and Inuit in Kitchener today.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 78.2,
+  "end": 84.1,
+  "text": "And now I'd like to invite everyone to stand as they're able for the singing of our national anthem.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 84.3,
+  "end": 114.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.534,
+  "source": "whisper"
+ },
+ {
+  "start": 114.3,
+  "end": 120.1,
+  "text": "We rely in all of us coming.",
+  "no_speech": 0.0,
+  "logprob": -0.629,
+  "source": "whisper"
+ },
+ {
+  "start": 121.8,
+  "end": 131.0,
+  "text": "In glory, we see the truth, the truth, the strong and free.",
+  "no_speech": 0.0,
+  "logprob": -0.629,
+  "source": "whisper"
+ },
+ {
+  "start": 131.0,
+  "end": 143.1,
+  "text": "From far and wide, O Canada, we stand on God for Thee.",
+  "no_speech": 0.0,
+  "logprob": -0.629,
+  "source": "whisper"
+ },
+ {
+  "start": 143.1,
+  "end": 152.8,
+  "text": "God, keep our land glorious and free.",
+  "no_speech": 0.0,
+  "logprob": -0.62,
+  "source": "whisper"
+ },
+ {
+  "start": 152.8,
+  "end": 162.5,
+  "text": "Oh, Canada, we stand on earth for thee.",
+  "no_speech": 0.0,
+  "logprob": -0.62,
+  "source": "whisper"
+ },
+ {
+  "start": 162.5,
+  "end": 173.5,
+  "text": "O can I be sinned, O God, for me?",
+  "no_speech": 0.0,
+  "logprob": -0.534,
+  "source": "whisper"
+ },
+ {
+  "start": 182.7,
+  "end": 183.9,
+  "text": "Thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.534,
+  "source": "whisper"
+ },
+ {
+  "start": 184.4,
+  "end": 190.5,
+  "text": "A motion by Councillor Scott Davey, the minutes of the regular meeting held March 20, 2023,",
+  "no_speech": 0.0,
+  "logprob": -0.534,
+  "source": "whisper"
+ },
+ {
+  "start": 190.5,
+  "end": 195.9,
+  "text": "and special meetings held February 2nd, March 20th and April 3rd as mailed to the",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 195.9,
+  "end": 201.4,
+  "text": "Mayor and Councillors have been accepted. Are there any disclosures of pecuniary",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 201.4,
+  "end": 208.7,
+  "text": "interest? There being none, we'll move on to communications referred to file and",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 208.7,
+  "end": 214.4,
+  "text": "Council will note a flag request pertaining to the Ontario Medical",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 214.4,
+  "end": 222.8,
+  "text": "Association for May 1st and 2nd. And for those who happen to be driving by City",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 222.8,
+  "end": 229.5,
+  "text": "Hall at the moment as well, you'll notice that the Carl Zehr Square has been lit",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 229.5,
+  "end": 234.6,
+  "text": "nightly in red and blue as we support our Kitchener Rangers in the current",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 234.6,
+  "end": 241.0,
+  "text": "playoff run. We'll now move on to presentations and we have two special",
+  "no_speech": 0.0,
+  "logprob": -0.197,
+  "source": "whisper"
+ },
+ {
+  "start": 241.0,
+  "end": 247.5,
+  "text": "presentations this evening recognizing some of our staff. The first one is",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 247.5,
+  "end": 252.0,
+  "text": "recognizing our Chief Financial Officer and General Manager of Financial",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 252.0,
+  "end": 258.2,
+  "text": "Services, Jonathan Lautenbach, who is this evening celebrating his fifth",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 258.2,
+  "end": 262.3,
+  "text": "anniversary with the City of Kitchener. I'd now like to turn it over to our",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 262.3,
+  "end": 267.6,
+  "text": "CAO, Dan Chapman, to share a few comments.",
+  "no_speech": 0.0,
+  "logprob": -0.235,
+  "source": "whisper"
+ },
+ {
+  "start": 267.6,
+  "end": 273.1,
+  "text": "Thank you Mayor Vrbanovic. We have known Jonathan for many years but on April 3rd",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 273.1,
+  "end": 277.2,
+  "text": "2018 we were fortunate to welcome to the City of Kitchener but prior to that we",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 277.2,
+  "end": 280.0,
+  "text": "knew him as a finance leader within this community in his time with the City of",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 280.0,
+  "end": 283.7,
+  "text": "Cambridge. Since joining us five years ago a couple of things stand out to me",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 283.7,
+  "end": 287.5,
+  "text": "about Jonathan's leadership in our financial services portfolio. One that",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 287.5,
+  "end": 290.8,
+  "text": "Council will be well aware of is his leadership on budget communications. We've",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 290.8,
+  "end": 294.0,
+  "text": "seen consistently year after year how the quality of our public communications",
+  "no_speech": 0.0,
+  "logprob": -0.167,
+  "source": "whisper"
+ },
+ {
+  "start": 294.0,
+  "end": 298.4,
+  "text": "has been improved, its readability, its accessibility to citizens, and that's a direct function",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 298.4,
+  "end": 300.2,
+  "text": "of Jonathan's leadership in his time with us.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 301.0,
+  "end": 303.8,
+  "text": "The other thing is Jonathan's passion for technological improvements.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 304.4,
+  "end": 308.3,
+  "text": "He's automated many processes that used to be paper-based, like our expense report processes,",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 308.8,
+  "end": 312.4,
+  "text": "and has a real vision for technology and its use for efficiency and financial services.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 313.2,
+  "end": 317.9,
+  "text": "But even more than that, I've come to know Jonathan as you have as a stable, calm, cool,",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 318.0,
+  "end": 318.6,
+  "text": "and collected leader.",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 319.0,
+  "end": 322.3,
+  "text": "I'll often ask our leadership team on a scale of 1 to 10 where they are, and some members",
+  "no_speech": 0.0,
+  "logprob": -0.152,
+  "source": "whisper"
+ },
+ {
+  "start": 322.3,
+  "end": 326.1,
+  "text": "of our team can one day be a two, the next day be a ten. Jonathan is always a solid eight.",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 326.2,
+  "end": 331.1,
+  "text": "I can count on that. And we've been well served through the pandemic for a steady hand at the",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 331.1,
+  "end": 334.9,
+  "text": "wheel on our finances, and I believe our financial results are a reflection of that stable leadership.",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 335.6,
+  "end": 339.0,
+  "text": "So, Mayor Vrbanovic, you would join me here, and Jonathan as well. I'd love to present you",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 339.0,
+  "end": 341.2,
+  "text": "with a certificate in honour of your five-year service with the City.",
+  "no_speech": 0.0,
+  "logprob": -0.178,
+  "source": "whisper"
+ },
+ {
+  "start": 352.3,
+  "end": 356.5,
+  "text": "You should have gotten a nice leather one.",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 356.6,
+  "end": 357.6,
+  "text": "I'll get you one after.",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 361.8,
+  "end": 362.3,
+  "text": "Great.",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 362.4,
+  "end": 362.8,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 364.2,
+  "end": 364.8,
+  "text": "Congratulations.",
+  "no_speech": 0.0,
+  "logprob": -0.562,
+  "source": "whisper"
+ },
+ {
+  "start": 364.8,
+  "end": 386.9,
+  "text": "Jonathan, on behalf of Council, I want to add our own thanks and congratulations for your time in this role.",
+  "no_speech": 0.0,
+  "logprob": -0.384,
+  "source": "whisper"
+ },
+ {
+  "start": 386.9,
+  "end": 395.4,
+  "text": "We had big shoes to fill when our CAO moved into the finance role and you certainly stepped",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 395.4,
+  "end": 398.5,
+  "text": "into those shoes and have done a stellar job in the role.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 398.5,
+  "end": 401.5,
+  "text": "So on behalf of Council, thank you very much.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 401.5,
+  "end": 403.6,
+  "text": "Is there anything you want to say?",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 406.1,
+  "end": 407.2,
+  "text": "No pressure.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 410.9,
+  "end": 414.8,
+  "text": "I'd just like to say thank you for this milestone.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 415.0,
+  "end": 416.6,
+  "text": "I appreciate being recognized.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 416.9,
+  "end": 421.4,
+  "text": "It's hard to believe it's been five years and probably because a pandemic happened in the middle of that and either",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 421.4,
+  "end": 425.1,
+  "text": "I've you know put that out of my mind or that flew by I don't know which of those two it'd be",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 425.4,
+  "end": 431.0,
+  "text": "But I've really enjoyed my time here and I look forward to the next five years working with this council and also with my CLT",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 431.1,
+  "end": 432.3,
+  "text": "colleagues, which",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 432.3,
+  "end": 436.8,
+  "text": "Make it a great place to come to work every day to serve this community. So thank you very much",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 437.5,
+  "end": 439.3,
+  "text": "Wonderful. Thank you, Jonathan",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 439.3,
+  "end": 444.9,
+  "text": "The other person you want to to recognize this evening is our city clerk",
+  "no_speech": 0.0,
+  "logprob": -0.191,
+  "source": "whisper"
+ },
+ {
+  "start": 444.9,
+  "end": 452.1,
+  "text": "Amanda Fusco, Director of Corporate Services.",
+  "no_speech": 0.0,
+  "logprob": -0.341,
+  "source": "whisper"
+ },
+ {
+  "start": 452.1,
+  "end": 460.7,
+  "text": "Amanda has just recently completed her AMCTO Certified Municipal Officer designation.",
+  "no_speech": 0.0,
+  "logprob": -0.341,
+  "source": "whisper"
+ },
+ {
+  "start": 460.7,
+  "end": 465.3,
+  "text": "This is Ontario's premium designation for municipal managers and leaders.",
+  "no_speech": 0.0,
+  "logprob": -0.341,
+  "source": "whisper"
+ },
+ {
+  "start": 465.3,
+  "end": 470.4,
+  "text": "It's one that recognizes those who possess diverse skills and knowledge,",
+  "no_speech": 0.0,
+  "logprob": -0.341,
+  "source": "whisper"
+ },
+ {
+  "start": 470.4,
+  "end": 474.2,
+  "text": "including visionary leadership and keen problem solving.",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 475.0,
+  "end": 482.2,
+  "text": "The CMO accredits these core skills along with the knowledge and expertise required to be a successful local government leader.",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 483.2,
+  "end": 491.9,
+  "text": "And Amanda joined us, as Council recall, in the lead up to the municipal election in 2022.",
+  "no_speech": 0.0,
+  "logprob": -0.212,
+  "source": "whisper"
+ },
+ {
+  "start": 491.9,
+  "end": 516.2,
+  "text": "Not an easy time to step into the role, but one that she stepped into very quickly and professionally and led the team through the transition from her predecessor and into running together with the rest of the team a flawless election in 2022.",
+  "no_speech": 0.0,
+  "logprob": -0.107,
+  "source": "whisper"
+ },
+ {
+  "start": 516.2,
+  "end": 521.7,
+  "text": "and so it's indeed our pleasure to recognize your achievement,",
+  "no_speech": 0.0,
+  "logprob": -0.187,
+  "source": "whisper"
+ },
+ {
+  "start": 522.2,
+  "end": 526.8,
+  "text": "something that you completed in the midst of doing everything else that was going on,",
+  "no_speech": 0.0,
+  "logprob": -0.187,
+  "source": "whisper"
+ },
+ {
+  "start": 526.8,
+  "end": 530.8,
+  "text": "and I think that in itself is a feat.",
+  "no_speech": 0.0,
+  "logprob": -0.187,
+  "source": "whisper"
+ },
+ {
+  "start": 531.1,
+  "end": 534.7,
+  "text": "And so on behalf of Council and our staff team,",
+  "no_speech": 0.0,
+  "logprob": -0.187,
+  "source": "whisper"
+ },
+ {
+  "start": 534.9,
+  "end": 538.1,
+  "text": "we wanted to congratulate you and acknowledge that.",
+  "no_speech": 0.0,
+  "logprob": -0.187,
+  "source": "whisper"
+ },
+ {
+  "start": 546.2,
+  "end": 564.3,
+  "text": "Madam Clerk, is there anything you'd like to say?",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 567.8,
+  "end": 568.5,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 568.5,
+  "end": 570.4,
+  "text": "Through the Chair, just thank you very much for the recognition.",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 570.6,
+  "end": 575.7,
+  "text": "It was very much a labor of love, and I credit much of the completion to my short time here",
+  "no_speech": 0.0,
+  "logprob": -0.244,
+  "source": "whisper"
+ },
+ {
+  "start": 575.7,
+  "end": 578.3,
+  "text": "at the city. So thank you very much for the recognition.",
+  "no_speech": 0.0,
+  "logprob": -0.287,
+  "source": "whisper"
+ },
+ {
+  "start": 578.3,
+  "end": 583.1,
+  "text": "Wonderful. Thank you and congratulations again to both of you.",
+  "no_speech": 0.0,
+  "logprob": -0.287,
+  "source": "whisper"
+ },
+ {
+  "start": 583.1,
+  "end": 591.2,
+  "text": "We'll now move on to another presentation and that's pertaining to the 2019-2020",
+  "no_speech": 0.0,
+  "logprob": -0.287,
+  "source": "whisper"
+ },
+ {
+  "start": 591.2,
+  "end": 597.0,
+  "text": "Greenhouse Gas Reinventory Report. I want to welcome Tova Davidson from",
+  "no_speech": 0.0,
+  "logprob": -0.287,
+  "source": "whisper"
+ },
+ {
+  "start": 597.0,
+  "end": 602.7,
+  "text": "Sustainable Waterloo Region, Keira Chisholm from Climate Action Waterloo Region and",
+  "no_speech": 0.0,
+  "logprob": -0.287,
+  "source": "whisper"
+ },
+ {
+  "start": 602.7,
+  "end": 606.1,
+  "text": "and Mary Jane Patterson from Reef Green Solutions.",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 606.6,
+  "end": 608.3,
+  "text": "Welcome, ladies. It's great to have you here.",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 608.6,
+  "end": 609.8,
+  "text": "Thank you. Nice to be here.",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 609.9,
+  "end": 611.1,
+  "text": "Our sustainability triumvirate.",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 612.8,
+  "end": 617.7,
+  "text": "I just want to start by prefacing that I'm going to do the update from Sustainable Waterloo Region first,",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 617.8,
+  "end": 620.3,
+  "text": "so I'm going to try to be as fast as I possibly can,",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 620.4,
+  "end": 623.7,
+  "text": "and then we're going to have Kira and Mary Jane join me here",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 623.7,
+  "end": 626.5,
+  "text": "because we've put two presentations into one,",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 626.5,
+  "end": 628.6,
+  "text": "so we'll be as efficient as we possibly can.",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 629.0,
+  "end": 632.2,
+  "text": "So thank you very much for having us and for having me here today.",
+  "no_speech": 0.0,
+  "logprob": -0.157,
+  "source": "whisper"
+ },
+ {
+  "start": 632.2,
+  "end": 638.5,
+  "text": "we really love these opportunities to present to council. This year, when we look back at 2022,",
+  "no_speech": 0.0,
+  "logprob": -0.104,
+  "source": "whisper"
+ },
+ {
+  "start": 639.1,
+  "end": 644.4,
+  "text": "we actually started to think about all the ways that we are all in a new normal, and we're trying",
+  "no_speech": 0.0,
+  "logprob": -0.104,
+  "source": "whisper"
+ },
+ {
+  "start": 644.4,
+  "end": 649.1,
+  "text": "to think about the R's of sustainability that everyone thinks about, reduce, reuse, recycle.",
+  "no_speech": 0.0,
+  "logprob": -0.104,
+  "source": "whisper"
+ },
+ {
+  "start": 649.4,
+  "end": 652.9,
+  "text": "But if you actually google the R's of sustainability right now, there's seven, eight,",
+  "no_speech": 0.0,
+  "logprob": -0.104,
+  "source": "whisper"
+ },
+ {
+  "start": 653.3,
+  "end": 658.5,
+  "text": "nine R's, lots and lots of different ones. And our team actually thought about all the ways that we",
+  "no_speech": 0.0,
+  "logprob": -0.104,
+  "source": "whisper"
+ },
+ {
+  "start": 658.5,
+  "end": 665.7,
+  "text": "are re-engaging and reimagining and reaching further. And so this was a year in 2022. It's",
+  "no_speech": 0.0,
+  "logprob": -0.054,
+  "source": "whisper"
+ },
+ {
+  "start": 665.7,
+  "end": 670.9,
+  "text": "the year of re as we think about it. Here's a few statistics for you to take a look at for the",
+  "no_speech": 0.0,
+  "logprob": -0.054,
+  "source": "whisper"
+ },
+ {
+  "start": 670.9,
+  "end": 677.3,
+  "text": "impacts of the organization over the past year. We had the equivalent of almost 20,000 cars off",
+  "no_speech": 0.0,
+  "logprob": -0.054,
+  "source": "whisper"
+ },
+ {
+  "start": 677.3,
+  "end": 685.4,
+  "text": "the road and greenhouse gases reduced. 86,000 tons of greenhouse gases reduced from the corporate",
+  "no_speech": 0.0,
+  "logprob": -0.054,
+  "source": "whisper"
+ },
+ {
+  "start": 685.4,
+  "end": 690.0,
+  "text": "sector and a number of other really important things and I'm going to walk through programs",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 690.0,
+  "end": 694.5,
+  "text": "with you today. I am going to just skip this one because Kira's going to take that piece",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 694.5,
+  "end": 699.9,
+  "text": "much better than I am. In the Travel Wise program, which we do in partnership with the region of",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 699.9,
+  "end": 705.0,
+  "text": "Waterloo, we actually had an incredible amount of engagement and a lot of interest in this as we",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 705.0,
+  "end": 710.8,
+  "text": "think about how we get to active transportation, public transportation, etc. and helping employers",
+  "no_speech": 0.0,
+  "logprob": -0.09,
+  "source": "whisper"
+ },
+ {
+  "start": 710.8,
+  "end": 712.4,
+  "text": "and employees make that transition.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 712.9,
+  "end": 715.6,
+  "text": "Of course, the new launch of the Neuron scooters",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 715.6,
+  "end": 717.0,
+  "text": "have been very visible",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 717.0,
+  "end": 719.2,
+  "text": "and a really important piece of that transition.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 719.3,
+  "end": 721.2,
+  "text": "You can see some of the statistics here",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 721.2,
+  "end": 723.7,
+  "text": "of the ways that organizations are engaging.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 724.4,
+  "end": 726.0,
+  "text": "We also, in our Impact Network program,",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 726.1,
+  "end": 728.1,
+  "text": "which is the one that most people know us for,",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 728.5,
+  "end": 730.9,
+  "text": "actually had incredible growth last year.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 731.0,
+  "end": 733.0,
+  "text": "We had 12 new and returning members,",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 733.2,
+  "end": 734.8,
+  "text": "and we didn't do any outreach.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 734.8,
+  "end": 737.9,
+  "text": "So the corporate community is really starting to understand",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 737.9,
+  "end": 742.8,
+  "text": "that sustainability is an important part of their strategy and their vision for how they operate",
+  "no_speech": 0.0,
+  "logprob": -0.068,
+  "source": "whisper"
+ },
+ {
+  "start": 742.8,
+  "end": 747.7,
+  "text": "their business. It's how they can be more profitable, less risk exposed, attract great",
+  "no_speech": 0.0,
+  "logprob": -0.068,
+  "source": "whisper"
+ },
+ {
+  "start": 747.7,
+  "end": 752.6,
+  "text": "employees, etc. And I know that the City of Kitchener is in great hands, both with Anna-Marie",
+  "no_speech": 0.0,
+  "logprob": -0.068,
+  "source": "whisper"
+ },
+ {
+  "start": 752.6,
+  "end": 757.5,
+  "text": "and with Justin's leadership, and that there's some great stuff coming to you early May to look",
+  "no_speech": 0.0,
+  "logprob": -0.068,
+  "source": "whisper"
+ },
+ {
+  "start": 757.5,
+  "end": 763.2,
+  "text": "at your own corporate emissions and your strategy to move that down as well. The Evolve One building",
+  "no_speech": 0.0,
+  "logprob": -0.068,
+  "source": "whisper"
+ },
+ {
+  "start": 763.2,
+  "end": 766.9,
+  "text": "is one that lots of people want to learn about. If you haven't heard of it, it is Canada's first",
+  "no_speech": 0.0,
+  "logprob": -0.068,
+  "source": "whisper"
+ },
+ {
+  "start": 766.9,
+  "end": 771.4,
+  "text": "net positive multi-tenant office building was built by the Cora Group in partnership with",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 771.4,
+  "end": 776.6,
+  "text": "Sustainable Waterloo Region. I'm really happy to be sharing this graph because it's almost never",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 776.6,
+  "end": 781.0,
+  "text": "that you see a building make claims of sustainability and then publish how they're",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 781.0,
+  "end": 787.7,
+  "text": "doing. This graph shows you that the average annual electricity use is 800,000 kilowatt hours,",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 787.7,
+  "end": 794.1,
+  "text": "but that the building actually generates between 108 and 120 percent of the energy that it needs.",
+  "no_speech": 0.0,
+  "logprob": -0.101,
+  "source": "whisper"
+ },
+ {
+  "start": 794.1,
+  "end": 796.9,
+  "text": "So it actually is net positive, meaning carbon zero.",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 797.3,
+  "end": 800.3,
+  "text": "And the business benefit is there's no utility costs.",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 800.6,
+  "end": 804.8,
+  "text": "So 110,000 square foot building, and it costs nothing to operate.",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 805.0,
+  "end": 806.5,
+  "text": "So there's a great business case for this.",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 806.5,
+  "end": 811.0,
+  "text": "And we're really excited to be bringing that story to more and more organizations all the time.",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 811.7,
+  "end": 817.2,
+  "text": "We also are working in the reforestation work to play on the rewords.",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 817.7,
+  "end": 818.5,
+  "text": "Reforestation work.",
+  "no_speech": 0.0,
+  "logprob": -0.183,
+  "source": "whisper"
+ },
+ {
+  "start": 818.5,
+  "end": 825.2,
+  "text": "And we had an idea for 2021 to do some micro forests, which is creating very small native species forests.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 825.4,
+  "end": 828.3,
+  "text": "Had a great partner in the Ages Foundation and did two.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 828.4,
+  "end": 831.3,
+  "text": "And we thought, I wonder if people are going to be interested and told people about it.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 831.7,
+  "end": 833.0,
+  "text": "Well, the program grew.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 833.1,
+  "end": 835.7,
+  "text": "Last year, we planted six, which is great.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 835.8,
+  "end": 839.8,
+  "text": "So there are eight, which is about 800 trees went in the ground in just over 12 months.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 840.3,
+  "end": 842.5,
+  "text": "This year, we have two planned for this weekend.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 842.6,
+  "end": 843.3,
+  "text": "It's Earth Day.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 843.8,
+  "end": 846.7,
+  "text": "And then nine more for 11 this year.",
+  "no_speech": 0.0,
+  "logprob": -0.136,
+  "source": "whisper"
+ },
+ {
+  "start": 846.7,
+  "end": 853.0,
+  "text": "So we're going to be up to a whole lot, getting close to 20 micro forests, and they're all across the region.",
+  "no_speech": 0.0,
+  "logprob": -0.105,
+  "source": "whisper"
+ },
+ {
+  "start": 854.0,
+  "end": 858.1,
+  "text": "And we work with the City of Kitchener as well for things like getting mulch in, that kind of thing.",
+  "no_speech": 0.0,
+  "logprob": -0.105,
+  "source": "whisper"
+ },
+ {
+  "start": 858.3,
+  "end": 865.5,
+  "text": "A lot of them are planted in schoolyards where they wouldn't have the socioeconomic resources to plant those forests and do those greening programs.",
+  "no_speech": 0.0,
+  "logprob": -0.105,
+  "source": "whisper"
+ },
+ {
+  "start": 865.5,
+  "end": 867.6,
+  "text": "But they're also in corporate spaces, parks, etc.",
+  "no_speech": 0.0,
+  "logprob": -0.105,
+  "source": "whisper"
+ },
+ {
+  "start": 868.4,
+  "end": 870.5,
+  "text": "That's it. I saved an extra minute for Kira.",
+  "no_speech": 0.0,
+  "logprob": -0.105,
+  "source": "whisper"
+ },
+ {
+  "start": 870.9,
+  "end": 875.0,
+  "text": "So thank you so much for all the support, for the work that Kitchener's done over the years.",
+  "no_speech": 0.0,
+  "logprob": -0.105,
+  "source": "whisper"
+ },
+ {
+  "start": 875.0,
+  "end": 876.4,
+  "text": "It's always been a great partner.",
+  "no_speech": 0.0,
+  "logprob": -0.105,
+  "source": "whisper"
+ },
+ {
+  "start": 876.7,
+  "end": 880.7,
+  "text": "and really excited to hear your questions and talk more about the community inventory as well.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 882.1,
+  "end": 884.2,
+  "text": "Did you want us to hold the questions until you're all done?",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 884.6,
+  "end": 885.2,
+  "text": "Whatever you want.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 885.2,
+  "end": 885.9,
+  "text": "Yeah, we'll do that.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 886.0,
+  "end": 887.2,
+  "text": "We'll hold the questions until then.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 888.1,
+  "end": 888.9,
+  "text": "Okay, great.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 889.2,
+  "end": 892.1,
+  "text": "Thank you so much for having us both today.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 892.8,
+  "end": 896.9,
+  "text": "So I'm here to speak to our community's greenhouse gas reinventory report,",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 897.0,
+  "end": 899.6,
+  "text": "Our Progress, Our Path, for 2020.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 900.4,
+  "end": 902.2,
+  "text": "As Tova mentioned, my name is Kira,",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 902.2,
+  "end": 906.4,
+  "text": "and I'm here also with Mary Jane Patterson, the executive director of Reap Green Solutions.",
+  "no_speech": 0.0,
+  "logprob": -0.16,
+  "source": "whisper"
+ },
+ {
+  "start": 906.7,
+  "end": 914.1,
+  "text": "So Climate Action is a collaborative between local organizations, municipalities, and community members focused on climate change mitigation.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 914.9,
+  "end": 925.3,
+  "text": "We are co-led by both Reap Green Solutions and Sustainable Waterloo Region as a collaborative partnership that is funded by the region, the three cities, and working collaboratively with all eight municipalities.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 925.3,
+  "end": 931.7,
+  "text": "At a high level, we coordinate the activities of our climate action plans and strategies,",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 931.7,
+  "end": 936.8,
+  "text": "measure and monitor progress towards our climate emissions reductions targets, and engage the",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 936.8,
+  "end": 941.0,
+  "text": "community broadly in climate action initiatives.",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 941.0,
+  "end": 943.1,
+  "text": "So what brings me here today?",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 943.1,
+  "end": 947.9,
+  "text": "Back in 2013, we did our first community greenhouse gas inventory, and emissions came from five",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 947.9,
+  "end": 953.6,
+  "text": "sectors – transportation, workplaces, homes, agriculture, and waste.",
+  "no_speech": 0.0,
+  "logprob": -0.186,
+  "source": "whisper"
+ },
+ {
+  "start": 953.6,
+  "end": 957.8,
+  "text": "led to Waterloo Region's first Climate Action Plan to achieve a 6% emissions",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 957.8,
+  "end": 964.3,
+  "text": "reduction from by the year 2020 based on 2010 baseline emissions. So that's",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 964.3,
+  "end": 971.2,
+  "text": "approximately an 842,000 ton reduction over seven years. So we are here today to",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 971.2,
+  "end": 974.4,
+  "text": "close the chapter on our first Community Climate Action Plan and report the",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 974.4,
+  "end": 981.1,
+  "text": "progress since we last came in 2017. In 2017 we released the first iteration of",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 981.1,
+  "end": 988.3,
+  "text": "our progress our path with the re-inventory using 2015 data and reported a 5.2 percent reduction",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 988.3,
+  "end": 994.2,
+  "text": "compared to the 2010 baseline year. We saw an increase in transportation emissions and decreases",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 994.2,
+  "end": 999.8,
+  "text": "in both homes and workplaces. The changes we saw were attributed largely to the closure of",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 999.8,
+  "end": 1006.2,
+  "text": "provincial coal power plants as well as reduced consumption and increased efficiency in the areas",
+  "no_speech": 0.0,
+  "logprob": -0.135,
+  "source": "whisper"
+ },
+ {
+  "start": 1006.2,
+  "end": 1011.8,
+  "text": "of homes and workplaces. Due to the abnormal circumstances in 2020 and the drastic effects",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 1011.8,
+  "end": 1018.0,
+  "text": "of the COVID-19 pandemic, we conducted a reinventory for two years, 2020 to account for the end",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 1018.0,
+  "end": 1025.0,
+  "text": "of the 6% target, and 2019 to look at a year that is more close to business as usual.",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 1026.9,
+  "end": 1031.5,
+  "text": "In 2019, we see that we maintain some of the emissions reduction from the 2010 baseline",
+  "no_speech": 0.0,
+  "logprob": -0.079,
+  "source": "whisper"
+ },
+ {
+  "start": 1031.5,
+  "end": 1039.8,
+  "text": "year at 3.7%, and in 2020 a decrease of 14.4%, more than doubling the emissions reduction target",
+  "no_speech": 0.0,
+  "logprob": -0.069,
+  "source": "whisper"
+ },
+ {
+  "start": 1039.8,
+  "end": 1045.7,
+  "text": "of 6%. Though 2019 does show us that without the drastic impacts of the pandemic, we would have",
+  "no_speech": 0.0,
+  "logprob": -0.069,
+  "source": "whisper"
+ },
+ {
+  "start": 1045.7,
+  "end": 1053.4,
+  "text": "been unlikely to reach our 6% target in 2020. So looking a little closer, we continue to see that",
+  "no_speech": 0.0,
+  "logprob": -0.069,
+  "source": "whisper"
+ },
+ {
+  "start": 1053.4,
+  "end": 1058.2,
+  "text": "the transportation of goods and people is the highest emitting sector, followed by the ICI",
+  "no_speech": 0.0,
+  "logprob": -0.069,
+  "source": "whisper"
+ },
+ {
+  "start": 1058.2,
+  "end": 1063.7,
+  "text": "workplaces sector, and then homes in third. And while we did experience an upward trajectory of",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 1063.7,
+  "end": 1071.7,
+  "text": "our emissions since 2015, we are encouraged to see that the per capita emissions growth rate is not",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 1071.7,
+  "end": 1078.2,
+  "text": "the same as our population rate. So starting at 8.4 tons averaged per person in 2010,",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 1078.9,
+  "end": 1085.7,
+  "text": "down to 7.1, still lower than 2015, despite more absolute emissions.",
+  "no_speech": 0.0,
+  "logprob": -0.118,
+  "source": "whisper"
+ },
+ {
+  "start": 1088.2,
+  "end": 1092.9,
+  "text": "So still a long way to go, but a few key takeaways from the report today.",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1093.7,
+  "end": 1099.3,
+  "text": "It is since 2010 emissions, transportation emissions do remain the largest contributor",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1099.3,
+  "end": 1104.1,
+  "text": "and continue to increase despite gains in fuel efficiency.",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1104.9,
+  "end": 1108.2,
+  "text": "So it is essential that we change the ways we move both goods and people.",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1109.2,
+  "end": 1114.6,
+  "text": "Energy efficiency, fuel switching, and local energy generation provide a significant opportunity",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1114.6,
+  "end": 1117.2,
+  "text": "for transformational change across all sectors.",
+  "no_speech": 0.0,
+  "logprob": -0.125,
+  "source": "whisper"
+ },
+ {
+  "start": 1118.2,
+  "end": 1124.2,
+  "text": "And there have been many promising initiatives that we're only beginning to see the greenhouse gas reduction benefits of.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 1124.6,
+  "end": 1131.6,
+  "text": "We're encouraged by all of the stories that are throughout our full report and the many more that we weren't able to fit in the report.",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 1134.0,
+  "end": 1136.0,
+  "text": "So where are we going from here?",
+  "no_speech": 0.0,
+  "logprob": -0.156,
+  "source": "whisper"
+ },
+ {
+  "start": 1136.0,
+  "end": 1148.8,
+  "text": "We came to you in June 2021 with Transform WR, and all eight municipalities unanimously endorsed our transition strategy for a transition to an equitable, prosperous, resilient, and low-carbon community.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1149.6,
+  "end": 1159.9,
+  "text": "This is our community's long-term strategy to reduce our emissions 80% by the year 2050, with an interim target adopted by all municipalities of 50% by the year 2030.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1159.9,
+  "end": 1164.3,
+  "text": "The results of our 2019 and 2020 re-inventory",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 1164.3,
+  "end": 1167.9,
+  "text": "underscore the importance of transformative climate action",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 1167.9,
+  "end": 1173.4,
+  "text": "and a strong collaboration to significantly reduce our emissions as a community.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 1174.2,
+  "end": 1177.4,
+  "text": "Each municipality has an important role to play",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 1177.4,
+  "end": 1179.3,
+  "text": "and leads many of the actions in this strategy.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 1180.4,
+  "end": 1183.5,
+  "text": "In addition, our work at Climate Action continues to be raising awareness",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 1183.5,
+  "end": 1186.2,
+  "text": "that this is everyone's strategy and that everyone in our community",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 1186.2,
+  "end": 1188.6,
+  "text": "has a role to play in taking climate action.",
+  "no_speech": 0.0,
+  "logprob": -0.14,
+  "source": "whisper"
+ },
+ {
+  "start": 1188.6,
+  "end": 1195.4,
+  "text": "Thank you so much for your time today, and Tova and I will take questions together along",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 1195.4,
+  "end": 1196.4,
+  "text": "with Mary Jane.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 1196.4,
+  "end": 1198.2,
+  "text": "Wonderful.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 1198.2,
+  "end": 1205.3,
+  "text": "Thank you to all three of you for being here and for the ongoing passion and leadership.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 1205.3,
+  "end": 1210.1,
+  "text": "Some of you for longer periods of time and some of you for medium periods of time and",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 1210.1,
+  "end": 1212.3,
+  "text": "some more recently.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 1212.3,
+  "end": 1218.6,
+  "text": "But all of the work that you've collectively been doing on behalf of our community and",
+  "no_speech": 0.0,
+  "logprob": -0.255,
+  "source": "whisper"
+ },
+ {
+  "start": 1218.6,
+  "end": 1225.9,
+  "text": "on this important work around sustainability and around climate action is so important.",
+  "no_speech": 0.0,
+  "logprob": -0.255,
+  "source": "whisper"
+ },
+ {
+  "start": 1225.9,
+  "end": 1229.6,
+  "text": "So we've got four people in the queue at this point.",
+  "no_speech": 0.0,
+  "logprob": -0.255,
+  "source": "whisper"
+ },
+ {
+  "start": 1229.6,
+  "end": 1232.7,
+  "text": "Councilors Johnston, Chapman, Deneau and Clancy.",
+  "no_speech": 0.0,
+  "logprob": -0.255,
+  "source": "whisper"
+ },
+ {
+  "start": 1232.7,
+  "end": 1235.7,
+  "text": "So I'll start with you, Councilor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.255,
+  "source": "whisper"
+ },
+ {
+  "start": 1235.7,
+  "end": 1237.2,
+  "text": "Thank you, Mayor Vrbanovic.",
+  "no_speech": 0.0,
+  "logprob": -0.255,
+  "source": "whisper"
+ },
+ {
+  "start": 1237.2,
+  "end": 1239.4,
+  "text": "And thank you so much for coming in.",
+  "no_speech": 0.0,
+  "logprob": -0.255,
+  "source": "whisper"
+ },
+ {
+  "start": 1239.4,
+  "end": 1241.6,
+  "text": "And it's wonderful to see all three of you together.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1242.2,
+  "end": 1244.2,
+  "text": "And Tova, I know you're on a tour today.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1244.3,
+  "end": 1248.3,
+  "text": "I heard you on the Farwell show earlier today as well.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1248.4,
+  "end": 1249.8,
+  "text": "So you've been quite busy.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1250.0,
+  "end": 1251.3,
+  "text": "It's been a great day, actually.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1251.4,
+  "end": 1255.2,
+  "text": "Mike Farwell always helps us to elevate the profile of our award winners.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1255.3,
+  "end": 1257.3,
+  "text": "So I had a first with him today.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1257.3,
+  "end": 1259.5,
+  "text": "And if you listen tomorrow, Thursday, and Friday,",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1259.5,
+  "end": 1263.1,
+  "text": "he will actually bring in the businesses and we'll hear all the things that they did,",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1263.6,
+  "end": 1264.6,
+  "text": "which is going to be amazing.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1265.1,
+  "end": 1265.8,
+  "text": "Well, that's wonderful.",
+  "no_speech": 0.0,
+  "logprob": -0.146,
+  "source": "whisper"
+ },
+ {
+  "start": 1265.8,
+  "end": 1274.4,
+  "text": "And that actually was going to be my first question to you, was how do the businesses and organizations get involved?",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 1274.5,
+  "end": 1275.6,
+  "text": "Did they reach out to you?",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 1276.2,
+  "end": 1279.4,
+  "text": "I think you said that you hadn't done a lot of reach out this year.",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 1279.8,
+  "end": 1281.8,
+  "text": "We didn't do a lot of proactive reach out.",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 1281.9,
+  "end": 1287.1,
+  "text": "It was lovely because they were coming to us, which is a real shift in what we've seen in the corporate community.",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 1287.4,
+  "end": 1291.6,
+  "text": "For a long time, it was a lot of going out and trying to speak to organizations about why it's important.",
+  "no_speech": 0.0,
+  "logprob": -0.11,
+  "source": "whisper"
+ },
+ {
+  "start": 1291.6,
+  "end": 1297.0,
+  "text": "but I think there has been a cultural shift for it now is more widely understood that sustainability",
+  "no_speech": 0.0,
+  "logprob": -0.074,
+  "source": "whisper"
+ },
+ {
+  "start": 1297.0,
+  "end": 1301.5,
+  "text": "is not only a sort of moral imperative, but it's also a piece that's really important",
+  "no_speech": 0.0,
+  "logprob": -0.074,
+  "source": "whisper"
+ },
+ {
+  "start": 1301.5,
+  "end": 1308.3,
+  "text": "for businesses to take on. So for their own business health and well-being. So if organizations",
+  "no_speech": 0.0,
+  "logprob": -0.074,
+  "source": "whisper"
+ },
+ {
+  "start": 1308.3,
+  "end": 1313.5,
+  "text": "want to get involved, they can look for Tova at SustainableWR, email me, I would love to chat with",
+  "no_speech": 0.0,
+  "logprob": -0.074,
+  "source": "whisper"
+ },
+ {
+  "start": 1313.5,
+  "end": 1319.1,
+  "text": "them. And there's a lot we can do to help all kinds of businesses. We work with everything from",
+  "no_speech": 0.0,
+  "logprob": -0.074,
+  "source": "whisper"
+ },
+ {
+  "start": 1319.1,
+  "end": 1322.2,
+  "text": "two or three people consulting companies to massive manufacturers.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1323.2,
+  "end": 1327.0,
+  "text": "Yeah, well, it's pretty amazing to read the report and to see the different names in there.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1327.0,
+  "end": 1331.2,
+  "text": "And I'll just point out one that's in here is our Kitchener Public Library.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1331.6,
+  "end": 1331.8,
+  "text": "Yes.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1331.8,
+  "end": 1334.6,
+  "text": "And Councillor Michele and I are both on the board there.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1334.7,
+  "end": 1346.5,
+  "text": "And I know that we'll be giving them kudos for their work on having the most diverse mode of commuting to work among all TravelWise members.",
+  "no_speech": 0.0,
+  "logprob": -0.193,
+  "source": "whisper"
+ },
+ {
+  "start": 1346.5,
+  "end": 1350.9,
+  "text": "Yeah, Kitchener Public Library was one of our award winners, so they're going to be on the Mike Farwell show.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1351.6,
+  "end": 1357.2,
+  "text": "And as Kira talked about, transportation is about half of our locally produced carbon footprint.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1357.8,
+  "end": 1366.3,
+  "text": "So at Kitchener Public Library, it's 51% of their employees do not drive alone to work, which is a massive number.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1366.4,
+  "end": 1370.7,
+  "text": "So they are walking, biking, rolling, carpooling, using transit.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1371.8,
+  "end": 1375.5,
+  "text": "They have made an incredible shift, and we actually collect that data.",
+  "no_speech": 0.0,
+  "logprob": -0.117,
+  "source": "whisper"
+ },
+ {
+  "start": 1375.5,
+  "end": 1377.9,
+  "text": "So we know it's actually 51%, and that's really impressive.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1378.1,
+  "end": 1379.6,
+  "text": "So kudos to Senator Public Library.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1379.7,
+  "end": 1380.5,
+  "text": "Thank you so much.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1381.3,
+  "end": 1382.6,
+  "text": "Thank you, Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1383.4,
+  "end": 1385.5,
+  "text": "Councillor Chapman.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1387.4,
+  "end": 1389.7,
+  "text": "Yeah, thank you, and thank you for coming in.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1390.5,
+  "end": 1391.7,
+  "text": "So I had a couple questions.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1393.0,
+  "end": 1397.0,
+  "text": "You mentioned the net zero building in Waterloo.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1397.4,
+  "end": 1398.7,
+  "text": "There are two of them now, are there not?",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1398.9,
+  "end": 1399.5,
+  "text": "There's only one.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1399.5,
+  "end": 1399.9,
+  "text": "Oh, there's only one.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1400.2,
+  "end": 1400.6,
+  "text": "One, okay.",
+  "no_speech": 0.0,
+  "logprob": -0.353,
+  "source": "whisper"
+ },
+ {
+  "start": 1400.6,
+  "end": 1407.4,
+  "text": "So what can we do to help encourage more development of net zero buildings?",
+  "no_speech": 0.0,
+  "logprob": -0.22,
+  "source": "whisper"
+ },
+ {
+  "start": 1407.4,
+  "end": 1411.6,
+  "text": "Well, I know that Matthew Day has been coming",
+  "no_speech": 0.0,
+  "logprob": -0.22,
+  "source": "whisper"
+ },
+ {
+  "start": 1411.6,
+  "end": 1415.6,
+  "text": "around talking about green building standards. Has he been to Kitchener yet?",
+  "no_speech": 0.0,
+  "logprob": -0.22,
+  "source": "whisper"
+ },
+ {
+  "start": 1415.6,
+  "end": 1422.3,
+  "text": "Yes. Great. So a lot of that work is happening. I think that the city actually",
+  "no_speech": 0.0,
+  "logprob": -0.22,
+  "source": "whisper"
+ },
+ {
+  "start": 1422.3,
+  "end": 1426.0,
+  "text": "has an opportunity to take the model of the Evolve One building and use it in",
+  "no_speech": 0.0,
+  "logprob": -0.22,
+  "source": "whisper"
+ },
+ {
+  "start": 1426.0,
+  "end": 1429.4,
+  "text": "your own buildings and new developments that are coming up. If you ask the",
+  "no_speech": 0.0,
+  "logprob": -0.22,
+  "source": "whisper"
+ },
+ {
+  "start": 1429.4,
+  "end": 1433.5,
+  "text": "developer, the CORA group, that net positive energy building was only between",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 1433.5,
+  "end": 1437.2,
+  "text": "five and eight percent more expensive than a LEED Silver building. So people",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 1437.2,
+  "end": 1441.6,
+  "text": "think it's gonna be 30, 40 percent more expensive. Five and eight percent, not a",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 1441.6,
+  "end": 1446.2,
+  "text": "lot. The feasibility study for how do you technically build a building like that",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 1446.2,
+  "end": 1449.4,
+  "text": "is available on our website, so anyone can download it and use it whenever they",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 1449.4,
+  "end": 1456.0,
+  "text": "want. Very good, thank you. I've also wondered if you are aware of an appetite",
+  "no_speech": 0.0,
+  "logprob": -0.172,
+  "source": "whisper"
+ },
+ {
+  "start": 1456.0,
+  "end": 1459.7,
+  "text": "out in the community for district energy sites or plants?",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1459.7,
+  "end": 1466.1,
+  "text": "I know we're in the process of working on one, but is this becoming more widespread?",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1466.1,
+  "end": 1471.7,
+  "text": "I think there's a lot of education to happen, and I'm going to pass this back to my partners",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1471.7,
+  "end": 1475.7,
+  "text": "in crime here in a second, but I think there's a lot of work to be done for people to understand",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1475.7,
+  "end": 1480.4,
+  "text": "what is district energy, how does it work, how does it benefit everybody, how it has",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1480.4,
+  "end": 1484.9,
+  "text": "an environmental impact, what fuel works, how do we do that now, what's the long-term",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 1484.9,
+  "end": 1491.3,
+  "text": "strategy for it. Kira, Mary Jane, anything you want to add or anything?",
+  "no_speech": 0.0,
+  "logprob": -0.31,
+  "source": "whisper"
+ },
+ {
+  "start": 1491.3,
+  "end": 1498.4,
+  "text": "Can I keep going? Yeah, so my other question had to do with, you know, we often",
+  "no_speech": 0.0,
+  "logprob": -0.31,
+  "source": "whisper"
+ },
+ {
+  "start": 1498.4,
+  "end": 1502.7,
+  "text": "talk about how we can decrease emissions and, you know, we have these wonderful",
+  "no_speech": 0.0,
+  "logprob": -0.31,
+  "source": "whisper"
+ },
+ {
+  "start": 1502.7,
+  "end": 1510.0,
+  "text": "numbers. What about the production of the emissions caused through the",
+  "no_speech": 0.0,
+  "logprob": -0.31,
+  "source": "whisper"
+ },
+ {
+  "start": 1510.0,
+  "end": 1515.9,
+  "text": "manufacturing of the materials that we use to build new towers and roads and",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1515.9,
+  "end": 1521.2,
+  "text": "things. How does that, how is that factored into your study? Yeah, thank you",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1521.2,
+  "end": 1527.4,
+  "text": "for your question. So our re-inventory would not capture what I think you're",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1527.4,
+  "end": 1533.0,
+  "text": "getting at which is the embodied carbon of our building materials. So in our",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 1533.0,
+  "end": 1540.7,
+  "text": "re-inventory we account for scope one and scope two emissions depending on the",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 1540.7,
+  "end": 1549.0,
+  "text": "area the sector and so those are very important to to be reducing and those do",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 1549.0,
+  "end": 1553.9,
+  "text": "not factor into our specific inventory but do get factored in at other levels",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 1553.9,
+  "end": 1559.9,
+  "text": "of government in the provincial and federal accounting. Okay and I guess",
+  "no_speech": 0.0,
+  "logprob": -0.158,
+  "source": "whisper"
+ },
+ {
+  "start": 1559.9,
+  "end": 1566.5,
+  "text": "along the same lines when we talk about food sovereignty and the amount of gases",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 1566.5,
+  "end": 1570.6,
+  "text": "are emitted through the transportation of food. I mean, how does that factor in?",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 1570.6,
+  "end": 1574.7,
+  "text": "What can you tell us about that? How can you encourage us to do better in that",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 1574.7,
+  "end": 1579.4,
+  "text": "in that realm as well? Yes, great question. Thank you. So under in",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 1579.4,
+  "end": 1586.0,
+  "text": "Transform WR there are a number of actions that are under the transformative",
+  "no_speech": 0.0,
+  "logprob": -0.251,
+  "source": "whisper"
+ },
+ {
+  "start": 1586.0,
+  "end": 1592.6,
+  "text": "change number five, changing the ways we produce, consume and waste. Many of them related to",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1592.6,
+  "end": 1599.5,
+  "text": "the local food production and encouraging our wonderful local food production sector to",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1599.5,
+  "end": 1606.3,
+  "text": "thrive in our region and feed people here. As well as there are a number of actions",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1606.3,
+  "end": 1614.4,
+  "text": "to increase the circular economy of our food systems as well. So again, that is under all",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1614.4,
+  "end": 1618.3,
+  "text": "of the actions under transformative change number five would speak to those in transform",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1618.3,
+  "end": 1624.4,
+  "text": "WR. Okay. Thank you. And thank you for all you do. Thank you. All of you. Thanks. Thank",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1624.4,
+  "end": 1631.4,
+  "text": "you very much. Councillor Deneault. Thank you, Mr. Mayor. Thank you for your presentation.",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1631.4,
+  "end": 1636.5,
+  "text": "I just had a question about a micro forest. Can you explain what a micro forest is to",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1636.5,
+  "end": 1641.7,
+  "text": "me? Sure. Go to us, please. Yeah. So a micro forest is taking a space, usually a fairly",
+  "no_speech": 0.0,
+  "logprob": -0.139,
+  "source": "whisper"
+ },
+ {
+  "start": 1641.7,
+  "end": 1648.4,
+  "text": "small space. For us we look about a size of a typical building lot, 50 by 100, 500 square feet,",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1648.4,
+  "end": 1652.2,
+  "text": "and what we do is we plant a hundred trees in that space but they're not the",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1652.2,
+  "end": 1656.6,
+  "text": "little babies. They're you know anywhere from here to like from the ground this",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1656.6,
+  "end": 1660.6,
+  "text": "tall and they're all native species trees. We re-naturalize it, plant it at",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1660.6,
+  "end": 1664.9,
+  "text": "random because that's how forests grow and then we encourage the host, whoever",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1664.9,
+  "end": 1670.4,
+  "text": "is the landowner, to stop mowing and maybe block it off for a little bit of",
+  "no_speech": 0.0,
+  "logprob": -0.149,
+  "source": "whisper"
+ },
+ {
+  "start": 1670.4,
+  "end": 1673.6,
+  "text": "time if it's at a school so the kids don't play with the trees and break them.",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1673.6,
+  "end": 1677.9,
+  "text": "And the idea is that you allow it to re-naturalize. The grasses come back up,",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1677.9,
+  "end": 1681.6,
+  "text": "the trees come back, and it does all kinds of great things for the",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1681.6,
+  "end": 1686.0,
+  "text": "environment. It sequesters carbon, of course, as the trees grow up. It can help",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1686.0,
+  "end": 1689.8,
+  "text": "with things like reducing heat island effect, which is if you have hard",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1689.8,
+  "end": 1693.1,
+  "text": "surfaces and the sun beats down all day, that's why cities are hotter than the",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1693.1,
+  "end": 1698.0,
+  "text": "country, so it reduces heat island effect. It can slow down water if you have big",
+  "no_speech": 0.0,
+  "logprob": -0.086,
+  "source": "whisper"
+ },
+ {
+  "start": 1698.0,
+  "end": 1703.1,
+  "text": "rains so that it can permeate back into the natural water table. It can actually",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1703.1,
+  "end": 1707.5,
+  "text": "help with people's well-being and mental health. We know that there are places",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1707.5,
+  "end": 1711.5,
+  "text": "where they actually prescribe forest bathing in schools, especially if kids",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1711.5,
+  "end": 1714.8,
+  "text": "are having a rough time being able to go sit by some trees can be really",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1714.8,
+  "end": 1719.6,
+  "text": "therapeutic. And so it also allows for habitat but that's kind of what a",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1719.6,
+  "end": 1724.7,
+  "text": "microforest is. That's cool. Actually that sounds great. What are some",
+  "no_speech": 0.0,
+  "logprob": -0.138,
+  "source": "whisper"
+ },
+ {
+  "start": 1724.7,
+  "end": 1730.2,
+  "text": "locations in Kitchener that have the micro floors? I don't have them off the top of my head, but I",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1730.2,
+  "end": 1735.8,
+  "text": "will email them to you. But I do know that the two that are being planted on Saturday for Earth Day",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1735.8,
+  "end": 1741.5,
+  "text": "are also both in Kitchener at schools, in Kitchener, at public schools. Can you tell me what schools",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1741.5,
+  "end": 1747.1,
+  "text": "they have? No, but I will tell you. I will send you email. Okay, no, that's, yeah, that sounds fantastic.",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1747.3,
+  "end": 1752.3,
+  "text": "Thank you for the information, and I look forward to the school information too. I will send those.",
+  "no_speech": 0.0,
+  "logprob": -0.143,
+  "source": "whisper"
+ },
+ {
+  "start": 1752.3,
+  "end": 1754.2,
+  "text": "That was a level of detail above Tova's paper.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1754.4,
+  "end": 1754.6,
+  "text": "Yes.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1755.6,
+  "end": 1758.5,
+  "text": "There are more informed people than me that know those things.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1758.7,
+  "end": 1759.2,
+  "text": "Thanks very much.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1760.0,
+  "end": 1760.8,
+  "text": "Councillor Clancy.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1763.8,
+  "end": 1765.8,
+  "text": "Yeah, thank you all for coming.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1766.6,
+  "end": 1771.7,
+  "text": "I got to see the award recipients and people were standing up.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1771.8,
+  "end": 1774.1,
+  "text": "You were talking about different people and how they were connected",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1774.1,
+  "end": 1777.5,
+  "text": "and it was amazing to see the choir so big.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1778.3,
+  "end": 1780.2,
+  "text": "That makes me hopeful.",
+  "no_speech": 0.0,
+  "logprob": -0.254,
+  "source": "whisper"
+ },
+ {
+  "start": 1780.2,
+  "end": 1787.2,
+  "text": "So one question, in the transportation data, are you including flying?",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 1787.2,
+  "end": 1792.2,
+  "text": "I know we are expanding our airport and air travel is the most harmful.",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 1792.2,
+  "end": 1795.2,
+  "text": "Does your data include flying?",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 1795.2,
+  "end": 1803.2,
+  "text": "Alright, thank you for your question, Councillor.",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 1803.2,
+  "end": 1808.2,
+  "text": "So our inventory does not account for flight data.",
+  "no_speech": 0.0,
+  "logprob": -0.229,
+  "source": "whisper"
+ },
+ {
+  "start": 1808.2,
+  "end": 1816.0,
+  "text": "The TENS are carbon equivalency of fuel sales for trucks, buses, personal vehicles,",
+  "no_speech": 0.0,
+  "logprob": -0.245,
+  "source": "whisper"
+ },
+ {
+  "start": 1817.4,
+  "end": 1823.1,
+  "text": "and so not accounting for the emissions from flying.",
+  "no_speech": 0.0,
+  "logprob": -0.245,
+  "source": "whisper"
+ },
+ {
+  "start": 1824.6,
+  "end": 1825.3,
+  "text": "Yes.",
+  "no_speech": 0.0,
+  "logprob": -0.245,
+  "source": "whisper"
+ },
+ {
+  "start": 1825.8,
+  "end": 1826.0,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.245,
+  "source": "whisper"
+ },
+ {
+  "start": 1826.3,
+  "end": 1828.3,
+  "text": "Just can I add a clarifying point?",
+  "no_speech": 0.0,
+  "logprob": -0.245,
+  "source": "whisper"
+ },
+ {
+  "start": 1828.3,
+  "end": 1834.1,
+  "text": "Part of the reason for that is that in carbon accounting, as you think about who owns what,",
+  "no_speech": 0.0,
+  "logprob": -0.245,
+  "source": "whisper"
+ },
+ {
+  "start": 1834.1,
+  "end": 1840.0,
+  "text": "it's the organizations that are the head office of the airlines.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1840.3,
+  "end": 1844.0,
+  "text": "And because those head offices of the airlines are not located in Waterloo Region,",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1844.1,
+  "end": 1846.6,
+  "text": "they're in Toronto or New York or wherever they are,",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1847.1,
+  "end": 1848.7,
+  "text": "even if they're flying in through this airport,",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1848.8,
+  "end": 1850.8,
+  "text": "they're accounted for in that community.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1851.0,
+  "end": 1854.5,
+  "text": "So we would be double counting the flights in and out.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1854.8,
+  "end": 1857.9,
+  "text": "So if they were located in Waterloo Region and that was their business,",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1858.1,
+  "end": 1859.7,
+  "text": "then 100% it would need to be included.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1859.9,
+  "end": 1862.6,
+  "text": "But because it's not, we can't double count that,",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1862.7,
+  "end": 1863.9,
+  "text": "and it's not within our control.",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 1864.1,
+  "end": 1869.4,
+  "text": "either the airport is, but there's a gray area in carbon scoping based on that.",
+  "no_speech": 0.0,
+  "logprob": -0.216,
+  "source": "whisper"
+ },
+ {
+  "start": 1871.8,
+  "end": 1875.6,
+  "text": "Thank you. I don't mean to be, yeah.",
+  "no_speech": 0.0,
+  "logprob": -0.216,
+  "source": "whisper"
+ },
+ {
+  "start": 1876.0,
+  "end": 1882.5,
+  "text": "No, that's, the other question I had was, I guess one of the benefits you said was that",
+  "no_speech": 0.0,
+  "logprob": -0.216,
+  "source": "whisper"
+ },
+ {
+  "start": 1882.5,
+  "end": 1887.5,
+  "text": "our emissions went down because Ontario's grade got cleaner.",
+  "no_speech": 0.0,
+  "logprob": -0.216,
+  "source": "whisper"
+ },
+ {
+  "start": 1887.5,
+  "end": 1898.4,
+  "text": "As the province moved away from coal, that meant that just as a byproduct, Kitchener had a reduced carbon emission.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1898.6,
+  "end": 1905.9,
+  "text": "I guess I'm concerned because the province is investing in natural gas power plants and our grid is getting dirtier.",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1907.0,
+  "end": 1913.0,
+  "text": "What do you suggest that we could do as a councilor or what are your concerns related to the provincial grid",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1913.0,
+  "end": 1916.4,
+  "text": "and the impact that has on our ability to meet our targets?",
+  "no_speech": 0.0,
+  "logprob": -0.127,
+  "source": "whisper"
+ },
+ {
+  "start": 1917.5,
+  "end": 1922.6,
+  "text": "I'll try this one with my backup.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1924.7,
+  "end": 1931.7,
+  "text": "I think it's a big concern, and it makes such an impact on our greenhouse gas inventory every time we do it.",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1932.4,
+  "end": 1940.4,
+  "text": "So I think advocating for a cleaner grid is really important, and for renewables as much as possible,",
+  "no_speech": 0.0,
+  "logprob": -0.189,
+  "source": "whisper"
+ },
+ {
+  "start": 1940.4,
+  "end": 1946.3,
+  "text": "and looking for ways other than fossil fuel generation",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1946.3,
+  "end": 1948.2,
+  "text": "to meet the needs of the province.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1949.5,
+  "end": 1953.1,
+  "text": "So I know this council passed a resolution already urging,",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1953.3,
+  "end": 1954.3,
+  "text": "that's correct, isn't it?",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1954.3,
+  "end": 1958.6,
+  "text": "Urging the province not to build more fossil fuel generation.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1958.6,
+  "end": 1962.0,
+  "text": "So I think raising our voices makes a difference.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1962.5,
+  "end": 1964.6,
+  "text": "I appreciate the council doing that.",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1967.8,
+  "end": 1969.7,
+  "text": "Can I, can I, sorry, one other thought?",
+  "no_speech": 0.0,
+  "logprob": -0.262,
+  "source": "whisper"
+ },
+ {
+  "start": 1969.7,
+  "end": 1976.4,
+  "text": "It's just an important, you know, a lot of people think that, you know, we have to go to fossil fuel generation because it's cheaper.",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 1976.7,
+  "end": 1986.5,
+  "text": "But we've actually hit that apex now where generation of energy from renewables is less expensive than generation of the same energy from fossil fuels.",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 1987.2,
+  "end": 1989.2,
+  "text": "So it has to be advocacy.",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 1989.2,
+  "end": 1998.0,
+  "text": "And in the Transform WR strategy, I mean, we have a short-term target that was adopted by Council of 50% reduced by 2030.",
+  "no_speech": 0.0,
+  "logprob": -0.122,
+  "source": "whisper"
+ },
+ {
+  "start": 1998.0,
+  "end": 2001.2,
+  "text": "but we can only reach 30% from local action.",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 2001.2,
+  "end": 2005.3,
+  "text": "So that advocacy to other levels of government is baked in and part of what",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 2005.8,
+  "end": 2009.4,
+  "text": "councils across the region committed to through this strategy.",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 2009.4,
+  "end": 2013.3,
+  "text": "So to Mary Jane's point about speaking up, it's really important because you're right,",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 2013.7,
+  "end": 2017.5,
+  "text": "it would raise everybody's carbon footprint without any change happening.",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 2019.4,
+  "end": 2021.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 2021.3,
+  "end": 2027.0,
+  "text": "You mentioned heat pumps and I just wonder how we can, I know it's huge in",
+  "no_speech": 0.0,
+  "logprob": -0.268,
+  "source": "whisper"
+ },
+ {
+  "start": 2027.0,
+  "end": 2035.0,
+  "text": "Quebec and in the eastern part of the US and in Asia and Europe, how could we in",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2035.0,
+  "end": 2045.5,
+  "text": "Kitchener create this adaptation or adopt the heat pump? Like what could we do as a",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2045.5,
+  "end": 2052.6,
+  "text": "city to encourage this transition to different technology? Education is a",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2052.6,
+  "end": 2056.3,
+  "text": "really big part of it. Energy literacy, we're sure hearing a lot about it at",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2056.3,
+  "end": 2063.5,
+  "text": "at REAP. There is for the first time incentives for homes to put in a heat pump, but there's",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2063.5,
+  "end": 2067.3,
+  "text": "a lot of questions. A lot of people don't know how to choose between wildly different",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2067.3,
+  "end": 2072.0,
+  "text": "quotes. And we have heard stories of people who did not understand that their electricity",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2072.0,
+  "end": 2077.5,
+  "text": "bill would be going up as a result and weren't encouraged to insulate because they just spoke",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2077.5,
+  "end": 2083.1,
+  "text": "to the heat pump salesperson who doesn't do insulation. So there's a lot of education",
+  "no_speech": 0.0,
+  "logprob": -0.123,
+  "source": "whisper"
+ },
+ {
+  "start": 2083.1,
+  "end": 2088.3,
+  "text": "that we can do, and I can share some of the ways that we're doing it already. The Residential",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 2088.3,
+  "end": 2092.6,
+  "text": "Sector Committee of Climate Action WR has been really strong on this in the last year",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 2092.6,
+  "end": 2099.4,
+  "text": "or two. And on their website, I'm pretty sure, I know on REAP's website, we've got a couple",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 2099.4,
+  "end": 2106.6,
+  "text": "of webinars on heat pumps that were very good, and also a manual written by citizens who",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 2106.6,
+  "end": 2112.1,
+  "text": "wanted to help others know what to do in buying a heat pump, and some other resources that",
+  "no_speech": 0.0,
+  "logprob": -0.114,
+  "source": "whisper"
+ },
+ {
+  "start": 2112.1,
+  "end": 2117.5,
+  "text": "should be helpful. We've also got a list of recommended, not recommended, local",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2117.5,
+  "end": 2123.9,
+  "text": "contractors as a starting point who do have heat pumps. So I can see room for",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2123.9,
+  "end": 2129.4,
+  "text": "much more, but we're getting a start on it, I think. Thank you for your hard work.",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2129.4,
+  "end": 2135.5,
+  "text": "Please continue to send us any... Keep in touch with us so we can keep supporting",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2135.5,
+  "end": 2141.0,
+  "text": "the awesome work you're doing. I'm glad you could come today. Thank you, Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.204,
+  "source": "whisper"
+ },
+ {
+  "start": 2141.0,
+  "end": 2143.7,
+  "text": "Nancy, Councillor Deneault, I see you have a follow-up.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2143.7,
+  "end": 2146.1,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2147.2,
+  "end": 2147.7,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2148.0,
+  "end": 2152.1,
+  "text": "So I found one of the schools that actually happens to be in my ward right down the street from where I live.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2152.7,
+  "end": 2156.7,
+  "text": "And my apologies because I was campaigning last October when this was announced.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2156.9,
+  "end": 2161.4,
+  "text": "But yeah, I'm going to have to definitely take a look out and see what it looks like.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2161.5,
+  "end": 2162.3,
+  "text": "But I found one.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2162.4,
+  "end": 2164.4,
+  "text": "So you can leave Wilson School out of the list that you sent me, okay?",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2164.7,
+  "end": 2166.2,
+  "text": "All right, sounds good. Thanks.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2166.8,
+  "end": 2167.2,
+  "text": "Wonderful.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2167.2,
+  "end": 2173.8,
+  "text": "Well, thank you again to all three of you for coming in this evening, sharing the news",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2173.8,
+  "end": 2178.8,
+  "text": "and the updates with us, and for all the great work that you, your staff and volunteers continue",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2178.8,
+  "end": 2181.0,
+  "text": "to do in our community.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2181.0,
+  "end": 2184.0,
+  "text": "Have a wonderful evening.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2184.0,
+  "end": 2188.6,
+  "text": "Okay, moving on in our agenda.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2188.6,
+  "end": 2192.8,
+  "text": "We'll now move on to delegations, and there are none.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2192.8,
+  "end": 2196.1,
+  "text": "So we'll move on to the reports of the committees, and I'll turn it over to Councillor Mischel",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2196.1,
+  "end": 2198.7,
+  "text": "for the report of Heritage Kitchener.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2202.9,
+  "end": 2204.6,
+  "text": "This is to move the recommendations",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2204.6,
+  "end": 2206.0,
+  "text": "from the Heritage Kitchener meeting.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2207.7,
+  "end": 2209.3,
+  "text": "This here? Sorry.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2210.3,
+  "end": 2213.3,
+  "text": "Notice of intention to designate 369 Frederick Street",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2213.3,
+  "end": 2218.1,
+  "text": "under Part 4 of the Ontario Heritage Act, DSD 2023-116.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2218.6,
+  "end": 2221.1,
+  "text": "Thank you, and I'll take it seconded by Councillor Chapman,",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2221.1,
+  "end": 2223.2,
+  "text": "who's also on Heritage Kitchener with you.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2223.3,
+  "end": 2224.0,
+  "text": "Any discussion?",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2224.0,
+  "end": 2233.8,
+  "text": "All those in favour? Opposed? That's carried. Moving on to Community and Infrastructure Services Committee, Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 2236.1,
+  "end": 2237.0,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 2238.4,
+  "end": 2239.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.368,
+  "source": "whisper"
+ },
+ {
+  "start": 2239.3,
+  "end": 2257.0,
+  "text": "It is being moved by myself and seconded by Councillor Schnider that the report of the Community and Infrastructure Services Committee dated April 3, 2023, listed as item 7.2.A to 7.2.E on the agenda this date be adopted.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 2257.5,
+  "end": 2258.2,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 2258.3,
+  "end": 2261.3,
+  "text": "Moved by yourself and seconded by Councillor Schnider as noted.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 2261.9,
+  "end": 2262.7,
+  "text": "Any discussion?",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 2264.0,
+  "end": 2265.1,
+  "text": "There being none.",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 2265.1,
+  "end": 2265.9,
+  "text": "All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 2267.8,
+  "end": 2268.4,
+  "text": "Opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.181,
+  "source": "whisper"
+ },
+ {
+  "start": 2268.4,
+  "end": 2270.6,
+  "text": "That is carried.",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2270.6,
+  "end": 2274.1,
+  "text": "Moving on to Planning and Strategic Initiatives Committee.",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2274.1,
+  "end": 2276.2,
+  "text": "And I believe Councillor Chapman,",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2276.2,
+  "end": 2278.1,
+  "text": "you're bringing that forward this evening.",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2281.4,
+  "end": 2282.2,
+  "text": "Go ahead.",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2282.2,
+  "end": 2283.7,
+  "text": "Yes, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2283.7,
+  "end": 2286.4,
+  "text": "It's being moved by myself and I'll need a seconder",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2286.4,
+  "end": 2291.4,
+  "text": "that items 7.3a and 7.3b be approved.",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2292.5,
+  "end": 2293.4,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2293.4,
+  "end": 2296.4,
+  "text": "And Councillor Davey indicated he's prepared to second it.",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2296.4,
+  "end": 2297.7,
+  "text": "Any discussion?",
+  "no_speech": 0.0,
+  "logprob": -0.256,
+  "source": "whisper"
+ },
+ {
+  "start": 2298.4,
+  "end": 2304.9,
+  "text": "There being none, all those in favour? Opposed? That too is carried.",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 2304.9,
+  "end": 2313.1,
+  "text": "Any unfinished business? Any new business?",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 2313.1,
+  "end": 2321.0,
+  "text": "In terms of the Regional Council update, I think the only thing I would, and I think",
+  "no_speech": 0.0,
+  "logprob": -0.234,
+  "source": "whisper"
+ },
+ {
+  "start": 2321.0,
+  "end": 2327.3,
+  "text": "Council is aware we dealt with the issue of the Lancaster Street ramp at committee",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2328.5,
+  "end": 2334.1,
+  "text": "and that issue will be coming before Regional Council again on Wednesday evening.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2335.9,
+  "end": 2344.2,
+  "text": "Unfortunately, the views of our Council were not taken by Regional Council on that issue",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2345.0,
+  "end": 2349.6,
+  "text": "and we'll see what happens on Monday night. Councillor Davey, you have a question on that?",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2349.6,
+  "end": 2353.3,
+  "text": "No, just a comment stemming from that item.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2354.1,
+  "end": 2356.4,
+  "text": "Just perhaps something you can raise.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2356.4,
+  "end": 2360.5,
+  "text": "I sent an email to regional staff after the decision last week.",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2360.6,
+  "end": 2371.6,
+  "text": "I haven't heard back yet, but the question that concerns me is whether the impacts on the Bridgeport and Lancaster Road traffic volumes have been made clear to residents,",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2371.6,
+  "end": 2379.2,
+  "text": "because I'm still unclear specifically on that aspect, because I've heard through my 12 years on council about how challenging that intersection is,",
+  "no_speech": 0.0,
+  "logprob": -0.184,
+  "source": "whisper"
+ },
+ {
+  "start": 2379.2,
+  "end": 2384.6,
+  "text": "and I do understand that the current Lancaster ramps service about 5,000 vehicles per day,",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2384.7,
+  "end": 2390.6,
+  "text": "and I'm still in the dark as to how many more vehicles they expect to go through that intersection as a result of these closures.",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2391.1,
+  "end": 2391.3,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2391.6,
+  "end": 2392.3,
+  "text": "Okay, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2392.7,
+  "end": 2393.3,
+  "text": "Councillor Johnston?",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2394.1,
+  "end": 2395.3,
+  "text": "Yes, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2395.3,
+  "end": 2423.1,
+  "text": "And I'm wondering through you, Mr. Mayor, if you could also take a message to Regional Council with regards to the recent cancellation of the route to transit bus that runs through Councillor Chapman ward, my ward, and Councillor Ioannidis ward, and just encourage them to have community engagement with residents on that issue.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 2423.4,
+  "end": 2423.8,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 2423.8,
+  "end": 2424.9,
+  "text": "Okay, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.119,
+  "source": "whisper"
+ },
+ {
+  "start": 2424.9,
+  "end": 2430.3,
+  "text": "I know you've been doing a significant amount of work on that.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 2430.3,
+  "end": 2434.7,
+  "text": "I want to express my appreciation to you for that.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 2434.7,
+  "end": 2440.7,
+  "text": "I do believe that there's something being coordinated with regional staff in that regard.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 2440.7,
+  "end": 2442.7,
+  "text": "Councillor Ioannidis.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 2442.7,
+  "end": 2445.5,
+  "text": "My question is basically a follow-up with that.",
+  "no_speech": 0.0,
+  "logprob": -0.34,
+  "source": "whisper"
+ },
+ {
+  "start": 2445.5,
+  "end": 2453.9,
+  "text": "because in the past I remember when the region wanted to make changes towards any bus routes",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2453.9,
+  "end": 2459.9,
+  "text": "or anything, you know, we would be invited to a committee to have our input and it feels",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2459.9,
+  "end": 2466.5,
+  "text": "like I didn't hear anything about this at all until, in fact through media as well,",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2466.5,
+  "end": 2467.9,
+  "text": "how I heard about this.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2467.9,
+  "end": 2475.9,
+  "text": "So just wondering if that practice is no longer being practiced within the region.",
+  "no_speech": 0.0,
+  "logprob": -0.319,
+  "source": "whisper"
+ },
+ {
+  "start": 2475.9,
+  "end": 2485.2,
+  "text": "Mr. So I don't know if our staff want to add anything, but my understanding is that",
+  "no_speech": 0.0,
+  "logprob": -0.319,
+  "source": "whisper"
+ },
+ {
+  "start": 2485.2,
+  "end": 2492.8,
+  "text": "regional staff have indicated that that isn't the norm, that these issues are typically dealt",
+  "no_speech": 0.0,
+  "logprob": -0.319,
+  "source": "whisper"
+ },
+ {
+  "start": 2492.8,
+  "end": 2503.3,
+  "text": "with through a review they do prior to budgets on an annual basis where they look at both",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 2503.3,
+  "end": 2512.0,
+  "text": "routes that are underperforming and routes where there's requests for additional service.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 2512.0,
+  "end": 2520.1,
+  "text": "Balancing those requests out with budget pressures results in a set of recommendations.",
+  "no_speech": 0.0,
+  "logprob": -0.154,
+  "source": "whisper"
+ },
+ {
+  "start": 2520.1,
+  "end": 2526.3,
+  "text": "This is something that has been raised as a concern at Regional Council as well, because",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 2526.3,
+  "end": 2533.2,
+  "text": "taking it through the budget process, making a decision and then having it, you know, basically",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 2533.2,
+  "end": 2538.0,
+  "text": "sharing it after the fact really does not provide a meaningful opportunity for the community",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 2538.0,
+  "end": 2539.0,
+  "text": "to be engaged.",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 2539.0,
+  "end": 2540.8,
+  "text": "That is a source of concern.",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 2540.8,
+  "end": 2544.5,
+  "text": "I know in speaking with Councillor Johnston about it, and I think we're all familiar with",
+  "no_speech": 0.0,
+  "logprob": -0.201,
+  "source": "whisper"
+ },
+ {
+  "start": 2544.5,
+  "end": 2551.5,
+  "text": "that people make decisions on where they purchase homes and all those kinds of things based",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2551.5,
+  "end": 2554.5,
+  "text": "on where transit routes exist.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2554.5,
+  "end": 2563.5,
+  "text": "While bus routes may not have the same permanent consistency as LRT routes, as an example,",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2563.5,
+  "end": 2566.5,
+  "text": "it is still something that factors a lot into people's decisions.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2566.5,
+  "end": 2571.5,
+  "text": "When those bus routes no longer are there, that becomes problematic for people.",
+  "no_speech": 0.0,
+  "logprob": -0.179,
+  "source": "whisper"
+ },
+ {
+  "start": 2571.5,
+  "end": 2576.6,
+  "text": "Okay, well thank you for that because I know in the past I",
+  "no_speech": 0.0,
+  "logprob": -0.225,
+  "source": "whisper"
+ },
+ {
+  "start": 2576.6,
+  "end": 2583.2,
+  "text": "participated in a few of these and so I'm not sure why it's not continued on.",
+  "no_speech": 0.0,
+  "logprob": -0.225,
+  "source": "whisper"
+ },
+ {
+  "start": 2583.2,
+  "end": 2591.4,
+  "text": "I get it maybe not be a traditional practice but my time on council",
+  "no_speech": 0.0,
+  "logprob": -0.225,
+  "source": "whisper"
+ },
+ {
+  "start": 2591.4,
+  "end": 2596.4,
+  "text": "here I've always been approached whenever there was some kind of issue",
+  "no_speech": 0.0,
+  "logprob": -0.225,
+  "source": "whisper"
+ },
+ {
+  "start": 2596.4,
+  "end": 2602.5,
+  "text": "with with with transit and so I'm just a little little concern that we're left in",
+  "no_speech": 0.0,
+  "logprob": -0.273,
+  "source": "whisper"
+ },
+ {
+  "start": 2602.5,
+  "end": 2608.1,
+  "text": "the dark okay thank you no certainly I take that back to to regional council",
+  "no_speech": 0.0,
+  "logprob": -0.273,
+  "source": "whisper"
+ },
+ {
+  "start": 2608.1,
+  "end": 2618.4,
+  "text": "questions and answers bylaws damn clerk I understand there's some additional",
+  "no_speech": 0.0,
+  "logprob": -0.273,
+  "source": "whisper"
+ },
+ {
+  "start": 2618.4,
+  "end": 2623.5,
+  "text": "bylaws thank you thank you through the chair there are a number of additional",
+  "no_speech": 0.0,
+  "logprob": -0.273,
+  "source": "whisper"
+ },
+ {
+  "start": 2623.5,
+  "end": 2630.3,
+  "text": "bylaws related to five bylaws related to CISC item 7.2 point B 30 Francis Street",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2630.3,
+  "end": 2636.8,
+  "text": "as well as PSEC report 7.3 a 4265 Cotton Grass Street and two bylaws related",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2636.8,
+  "end": 2647.0,
+  "text": "to PSEC item 7.3 B 7 Morrison Road okay thank you so do I have a mover and",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2647.0,
+  "end": 2649.7,
+  "text": "seconder for the bylaws moved by Councillor Chapman seconded by Councillor",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2649.7,
+  "end": 2653.0,
+  "text": "Johnson with those additional bylaws all those in favor",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2654.0,
+  "end": 2658.6,
+  "text": "Opposed that's carried move that we go into committee of the whole moved by",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2659.1,
+  "end": 2663.4,
+  "text": "Councillor Schnider seconded by councillor Ioannidis all those in favor",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2664.4,
+  "end": 2668.0,
+  "text": "Opposed that's carried and I'll turn it over to councillor Davey",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2671.1,
+  "end": 2677.6,
+  "text": "Thank you, can I get a mover for item 12.1 a the committee of adjustment appointment moved by councillor Deneau any",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2678.4,
+  "end": 2679.4,
+  "text": "questions",
+  "no_speech": 0.0,
+  "logprob": -0.298,
+  "source": "whisper"
+ },
+ {
+  "start": 2679.7,
+  "end": 2683.4,
+  "text": "Councillor Chapman has a question.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 2683.4,
+  "end": 2684.4,
+  "text": "Councillor Chapman.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 2684.4,
+  "end": 2686.4,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 2686.4,
+  "end": 2694.1,
+  "text": "I noticed there's a proposal to bring a member back onto the Committee of Adjustment.",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 2694.1,
+  "end": 2700.2,
+  "text": "Are there term limits for the people on this board?",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 2700.2,
+  "end": 2706.9,
+  "text": "Through the chair, I can confirm that the board's appointments policy provides that",
+  "no_speech": 0.0,
+  "logprob": -0.336,
+  "source": "whisper"
+ },
+ {
+  "start": 2706.9,
+  "end": 2710.7,
+  "text": "members can act on the committee for a maximum of eight years. They're",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2710.7,
+  "end": 2715.2,
+  "text": "supposed to have a one-year lapse in their appointment period. So currently",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2715.2,
+  "end": 2721.6,
+  "text": "Mr. McCall would be outside of that policy exemption requiring an exemption",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2721.6,
+  "end": 2724.9,
+  "text": "to 3.2, allowing him to start on the committee earlier than the one-year",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2724.9,
+  "end": 2731.3,
+  "text": "lapse. So I understand there were quite a few people who had applied for this",
+  "no_speech": 0.0,
+  "logprob": -0.153,
+  "source": "whisper"
+ },
+ {
+  "start": 2731.3,
+  "end": 2738.7,
+  "text": "position initially. Is there no appetite to go back to look at the other",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2738.7,
+  "end": 2745.2,
+  "text": "applications so as to keep within the general policies of the committee?",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2745.2,
+  "end": 2749.5,
+  "text": "Through you, the chair, I can confirm we reconvened the nominating committee with",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2749.5,
+  "end": 2754.0,
+  "text": "the members that expressed previous appointment in the committee. The",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2754.0,
+  "end": 2757.6,
+  "text": "nominating committee thought that it would be prudent at this time to bring",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2757.6,
+  "end": 2760.8,
+  "text": "back a member of the committee with some experience and made the recommendation",
+  "no_speech": 0.0,
+  "logprob": -0.209,
+  "source": "whisper"
+ },
+ {
+  "start": 2760.8,
+  "end": 2761.8,
+  "text": "to bring forward Mr. McCall.",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2763.2,
+  "end": 2766.6,
+  "text": "So the policy's not that important",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2766.6,
+  "end": 2768.6,
+  "text": "according to the nominating committee.",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2768.7,
+  "end": 2769.8,
+  "text": "Okay, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2771.4,
+  "end": 2772.3,
+  "text": "Okay, any other questions?",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2774.9,
+  "end": 2775.6,
+  "text": "No, sorry.",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2776.1,
+  "end": 2776.7,
+  "text": "Are those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2778.4,
+  "end": 2779.2,
+  "text": "And opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2780.2,
+  "end": 2780.7,
+  "text": "One opposed.",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2781.3,
+  "end": 2782.7,
+  "text": "And there's an information item",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2782.7,
+  "end": 2784.8,
+  "text": "that does not require movement,",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2785.0,
+  "end": 2785.9,
+  "text": "but just pointing it out.",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2787.4,
+  "end": 2788.8,
+  "text": "Looks like you have Councillor Chapman.",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2789.3,
+  "end": 2790.4,
+  "text": "Okay, so a question for the clerk.",
+  "no_speech": 0.0,
+  "logprob": -0.407,
+  "source": "whisper"
+ },
+ {
+  "start": 2790.4,
+  "end": 2792.4,
+  "text": "If it's in Committee of the Whole, do we have to have a motion?",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2792.4,
+  "end": 2794.4,
+  "text": "No, she's not in the queue.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2794.4,
+  "end": 2799.4,
+  "text": "I would just note then, if there is no questions on this, that I'm not sure how close anyone looked at it,",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2799.4,
+  "end": 2806.4,
+  "text": "but of these several items, every single one of them was under budget, saving except for one, which was insignificant.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2806.4,
+  "end": 2810.4,
+  "text": "So just credit the staff in terms of their budgeting process and going through this process.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2810.4,
+  "end": 2815.4,
+  "text": "We're very happy to see you. We all hear quite often about when we go over budget, so it should be acknowledged when we are under.",
+  "no_speech": 0.0,
+  "logprob": -0.237,
+  "source": "whisper"
+ },
+ {
+  "start": 2815.4,
+  "end": 2820.0,
+  "text": "Sorry, there is a question now from Councillor Chapman, so it will require a motion to",
+  "no_speech": 0.0,
+  "logprob": -0.359,
+  "source": "whisper"
+ },
+ {
+  "start": 2820.5,
+  "end": 2826.8,
+  "text": "Off that. Yeah. Yeah. Just so yeah motion taken out of information. I kind of broke that rule already those in favor and",
+  "no_speech": 0.0,
+  "logprob": -0.359,
+  "source": "whisper"
+ },
+ {
+  "start": 2827.6,
+  "end": 2829.6,
+  "text": "Thank you. Go ahead. Councillor Chapman",
+  "no_speech": 0.0,
+  "logprob": -0.359,
+  "source": "whisper"
+ },
+ {
+  "start": 2831.9,
+  "end": 2836.6,
+  "text": "Yeah, thank you. So I had a question about probably the one item you're talking about that was",
+  "no_speech": 0.0,
+  "logprob": -0.359,
+  "source": "whisper"
+ },
+ {
+  "start": 2839.7,
+  "end": 2841.7,
+  "text": "What was it oh no",
+  "no_speech": 0.0,
+  "logprob": -0.359,
+  "source": "whisper"
+ },
+ {
+  "start": 2841.7,
+  "end": 2844.7,
+  "text": "Oh, I'll keep the wrong column.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2844.7,
+  "end": 2847.4,
+  "text": "Okay, actually, I have three items.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2847.4,
+  "end": 2850.5,
+  "text": "It says funded from operating.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2851.6,
+  "end": 2855.3,
+  "text": "Was there a dollar amount that was connected to these",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2855.3,
+  "end": 2858.5,
+  "text": "as a budget amount?",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2858.5,
+  "end": 2861.2,
+  "text": "I mean, we have no idea how it compares",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2861.2,
+  "end": 2862.7,
+  "text": "to what was originally budgeted",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2862.7,
+  "end": 2865.0,
+  "text": "to what it's actually gonna cost us.",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2865.0,
+  "end": 2866.9,
+  "text": "Mr. Lautenbach?",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2866.9,
+  "end": 2869.7,
+  "text": "So through the chair, for anything that is operating related,",
+  "no_speech": 0.0,
+  "logprob": -0.231,
+  "source": "whisper"
+ },
+ {
+  "start": 2869.7,
+  "end": 2874.8,
+  "text": "Typically, we only indicate whether it's within budget because there's multiple counts that we look at.",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 2874.8,
+  "end": 2877.9,
+  "text": "Often it's unit prices or other things that are driving that,",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 2878.0,
+  "end": 2882.1,
+  "text": "and so this is consistent with how we report it normally for operating related items.",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 2883.8,
+  "end": 2888.4,
+  "text": "But I can confirm that as we do that review that anything that is on this list is either within budget,",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 2889.1,
+  "end": 2891.0,
+  "text": "not requiring a separate report to come to Council,",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 2891.5,
+  "end": 2897.8,
+  "text": "or is within the Budget Control Bylaw, which is the one item that Councillor Davey mentioned as being on the list,",
+  "no_speech": 0.0,
+  "logprob": -0.163,
+  "source": "whisper"
+ },
+ {
+  "start": 2897.8,
+  "end": 2903.4,
+  "text": "and does reflect that all of these were favorable pricing to allow us to go through this process",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2903.4,
+  "end": 2906.7,
+  "text": "versus taking the standalone report that we would if it was significantly over budget.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2908.1,
+  "end": 2910.5,
+  "text": "Okay, so we won't get those numbers.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2916.1,
+  "end": 2916.9,
+  "text": "Mr. Lombard.",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2917.5,
+  "end": 2921.4,
+  "text": "So through the Chair, no, typically we don't provide those for the operating accounts",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2921.4,
+  "end": 2925.5,
+  "text": "because it is multiple accounts that often those contracts are related to,",
+  "no_speech": 0.0,
+  "logprob": -0.21,
+  "source": "whisper"
+ },
+ {
+  "start": 2925.5,
+  "end": 2931.7,
+  "text": "and so it's unit prices or other things that wouldn't present on this type of format in terms of what those items are.",
+  "no_speech": 0.0,
+  "logprob": -0.263,
+  "source": "whisper"
+ },
+ {
+  "start": 2932.7,
+  "end": 2937.3,
+  "text": "Okay, I also had a question about Q23-003.",
+  "no_speech": 0.0,
+  "logprob": -0.263,
+  "source": "whisper"
+ },
+ {
+  "start": 2938.2,
+  "end": 2945.9,
+  "text": "I just wondered why the budgeted amount and the award amount was, you know, there's quite a large gap between the two.",
+  "no_speech": 0.0,
+  "logprob": -0.263,
+  "source": "whisper"
+ },
+ {
+  "start": 2948.1,
+  "end": 2950.6,
+  "text": "That's the Asset Management Plan, Professional Services.",
+  "no_speech": 0.0,
+  "logprob": -0.263,
+  "source": "whisper"
+ },
+ {
+  "start": 2950.6,
+  "end": 2950.8,
+  "text": "Yes.",
+  "no_speech": 0.0,
+  "logprob": -0.263,
+  "source": "whisper"
+ },
+ {
+  "start": 2951.0,
+  "end": 2951.7,
+  "text": "Mr. Lappenbach.",
+  "no_speech": 0.0,
+  "logprob": -0.263,
+  "source": "whisper"
+ },
+ {
+  "start": 2951.7,
+  "end": 2957.6,
+  "text": "Mr. Luttenbach. So through the chair, this is for a consultant to help us with compliance with OREG 58817.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 2957.8,
+  "end": 2963.0,
+  "text": "And so we're working through a number of asset management plans for assets that we don't have full compliance on.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 2963.2,
+  "end": 2965.5,
+  "text": "We have asset plans for all of our core assets.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 2966.1,
+  "end": 2970.1,
+  "text": "And we are required within two years to have plans in place for all of our city assets.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 2970.8,
+  "end": 2975.5,
+  "text": "It is under budget, although some of that budget is also related to other elements of the project.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 2975.5,
+  "end": 2981.1,
+  "text": "And so it's not that it's all related to this particular award.",
+  "no_speech": 0.0,
+  "logprob": -0.161,
+  "source": "whisper"
+ },
+ {
+  "start": 2981.7,
+  "end": 2983.7,
+  "text": "but some of that budget will be used for other purposes",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 2983.7,
+  "end": 2986.2,
+  "text": "as we look to comply with those regulations.",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 2987.2,
+  "end": 2987.9,
+  "text": "Okay, thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 2988.1,
+  "end": 2988.4,
+  "text": "That's it.",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 2990.1,
+  "end": 2991.3,
+  "text": "Any other questions?",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 2991.5,
+  "end": 2993.9,
+  "text": "Okay, this is not a movable item.",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 2994.4,
+  "end": 2996.5,
+  "text": "And any additional items, Madam Clerk?",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 2998.3,
+  "end": 2999.2,
+  "text": "No additional items?",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 3003.5,
+  "end": 3005.4,
+  "text": "Through the Chair, there is one item arising",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 3005.4,
+  "end": 3007.1,
+  "text": "from a caucus discussion earlier today.",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 3007.1,
+  "end": 3008.4,
+  "text": "It should be on the screen.",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 3009.1,
+  "end": 3009.7,
+  "text": "Oh, there we go.",
+  "no_speech": 0.0,
+  "logprob": -0.326,
+  "source": "whisper"
+ },
+ {
+  "start": 3011.7,
+  "end": 3014.5,
+  "text": "Can people a second take a look at that?",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3014.5,
+  "end": 3015.5,
+  "text": "Can I get a mover?",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3015.5,
+  "end": 3018.7,
+  "text": "Moved by Councillor Ioannidis.",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3018.7,
+  "end": 3022.1,
+  "text": "Any questions on this?",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3022.1,
+  "end": 3024.5,
+  "text": "Not seeing any of those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3024.5,
+  "end": 3025.5,
+  "text": "That carries.",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3025.5,
+  "end": 3027.6,
+  "text": "And now I read my spiel.",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3027.6,
+  "end": 3028.6,
+  "text": "Okay.",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3028.6,
+  "end": 3032.0,
+  "text": "It's been moved by myself and seconded by Councillor Michaud that the proceedings and",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3032.0,
+  "end": 3035.5,
+  "text": "the recorded pecuniary interests and conflicts taken in the meeting of the Committee of the",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3035.5,
+  "end": 3040.1,
+  "text": "Whole held this date as attached hereto and forming part of these minutes be the same",
+  "no_speech": 0.0,
+  "logprob": -0.314,
+  "source": "whisper"
+ },
+ {
+  "start": 3040.1,
+  "end": 3047.4,
+  "text": "hereby adopted and confirmed. Those in favour? All those in favour? Opposed? That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 3049.0,
+  "end": 3055.0,
+  "text": "Motion for third reading with the additional bylaws. Moved by Councillor Schnider, seconded",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 3055.0,
+  "end": 3062.2,
+  "text": "by Councillor Deneault. Thank you. All those in favour? Opposed? That's carried. Just before we",
+  "no_speech": 0.0,
+  "logprob": -0.151,
+  "source": "whisper"
+ },
+ {
+  "start": 3062.2,
+  "end": 3070.9,
+  "text": "We adjourn a reminder to the community that this Saturday is Earth Day and a great opportunity",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 3070.9,
+  "end": 3077.6,
+  "text": "to participate in community cleanups and a variety of activities around the city.",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 3077.6,
+  "end": 3086.5,
+  "text": "For those interested, please visit our City of Kitchener website www.kitchener.ca and type",
+  "no_speech": 0.0,
+  "logprob": -0.129,
+  "source": "whisper"
+ },
+ {
+  "start": 3086.5,
+  "end": 3092.2,
+  "text": "Earth Day into the search and you can get all the information that you want about those",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3092.2,
+  "end": 3093.2,
+  "text": "programs.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3093.2,
+  "end": 3099.3,
+  "text": "Certainly, I think it's an opportunity for all of us to do our part, not just on that",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3099.3,
+  "end": 3104.2,
+  "text": "day, but every day in terms of helping look after our planet.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3104.2,
+  "end": 3105.8,
+  "text": "And so with that, a motion to adjourn.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3105.8,
+  "end": 3109.5,
+  "text": "Moved by Councillor Chapman, seconded by Councillor Johnston.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3109.5,
+  "end": 3110.9,
+  "text": "All those in favour?",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3110.9,
+  "end": 3111.9,
+  "text": "Opposed?",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3111.9,
+  "end": 3112.9,
+  "text": "That's carried.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3112.9,
+  "end": 3113.4,
+  "text": "Have a great evening, everyone.",
+  "no_speech": 0.0,
+  "logprob": -0.226,
+  "source": "whisper"
+ },
+ {
+  "start": 3116.5,
+  "end": 3117.5,
+  "text": "Thank you.",
+  "no_speech": 0.0,
+  "logprob": -0.844,
+  "source": "whisper"
+ }
+]

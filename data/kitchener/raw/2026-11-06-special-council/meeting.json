@@ -11,8 +11,8 @@
  "end": "2026-11-06T14:00:00",
  "location": "Council Chambers - Hybrid",
  "links": {
-  "official_minutes": null,
-  "minutes_pdf": null,
+  "official_minutes": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=71a9a160-65e5-4c8c-b99c-5d26da87e1c5&Agenda=PostMinutes&lang=English",
+  "minutes_pdf": "https://pub-kitchener.escribemeetings.com/FileStream.ashx?DocumentId=39166",
   "agenda": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=71a9a160-65e5-4c8c-b99c-5d26da87e1c5&Agenda=Agenda&lang=English",
   "meeting_page": "https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=71a9a160-65e5-4c8c-b99c-5d26da87e1c5&Agenda=PostMinutes&lang=English",
   "video": "https://pub-kitchener.escribemeetings.com/Players/ISIStandAlonePlayer.aspx?Id=71a9a160-65e5-4c8c-b99c-5d26da87e1c5"
@@ -29,6 +29,8 @@
   ]
  },
  "term": "2022-2026",
- "minutes_posted": false,
- "source_hashes": {}
+ "minutes_posted": true,
+ "source_hashes": {
+  "minutes.html": "df374d4359472afc3e1b9f087b4aed0c107e0e056b5c67eb13c0324d42a6b646"
+ }
 }

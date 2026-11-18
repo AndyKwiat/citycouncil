@@ -1,0 +1,198 @@
+{
+ "title": "Special Council Meeting - November 06, 2026",
+ "source_format": "escribe-html",
+ "roster": [
+  "Mayor Vrbanovic",
+  "Davey",
+  "Schnider",
+  "Deneault",
+  "Michaud",
+  "Owodunni",
+  "Singh",
+  "Ioannidis",
+  "Johnston",
+  "Stretch",
+  "Chapman"
+ ],
+ "absent": [
+  "Chapman"
+ ],
+ "items": [
+  {
+   "id": "1",
+   "number": "1",
+   "title": "Commencement",
+   "closed": false,
+   "video_start": 99.223,
+   "video_end": 166.145,
+   "notes": [
+    "<p>A meeting of City Council was held at 1:21 p.m. this date, chaired by Mayor B. Vrbanovic. Notice of this meeting had been previously given to all members of Council by the City Clerk pursuant to Chapter 25 (Council Procedure) of the Municipal Code.</p>\n<p>The meeting began with a Land Acknowledgement given by the Mayor. </p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "2",
+   "number": "2",
+   "title": "Disclosure of Pecuniary Interest and the General Nature Thereof",
+   "closed": false,
+   "video_start": 166.145,
+   "video_end": 171.051,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "6",
+   "number": "3",
+   "title": "Mayoral Business and Updates - Mayor B. Vrbanovic",
+   "closed": false,
+   "video_start": 171.051,
+   "video_end": 174.801,
+   "notes": [
+    "<p>None.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "11",
+   "number": "4",
+   "title": "Notice of Motion - A. Owodunni",
+   "closed": false,
+   "video_start": 174.801,
+   "video_end": 258.691,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m1"
+   ]
+  },
+  {
+   "id": "5",
+   "number": "5",
+   "title": "Certificates of Service",
+   "closed": false,
+   "video_start": 258.691,
+   "video_end": 874.471,
+   "notes": [
+    "<p>Mayor B. Vrbanovic recognized Councillor A. Owodunni  (Member of Council from 2022 to 2026) for his contributions to Council and the Kitchener community. Councillor A. Owodunni was presented a token of appreciation on behalf of Council.</p>\n<p>Mayor B. Vrbanovic recognized Councillor S. Stretch (Member of Council from 2024-2026), acknowledging her service to Council and to the Kitchener community. Councillor S. Stretch was presented a token of appreciation on behalf of Council.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "8",
+   "number": "6",
+   "title": "By-laws",
+   "closed": false,
+   "video_start": 2122.577,
+   "video_end": 2124.608,
+   "notes": [],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "9",
+   "number": "6.1",
+   "title": "Three Readings",
+   "closed": false,
+   "video_start": 2124.608,
+   "video_end": 2156.093,
+   "notes": [],
+   "attachments": [],
+   "motions": [
+    "m2"
+   ]
+  },
+  {
+   "id": "12",
+   "number": "6.1.a",
+   "title": "To confirm all actions and proceedings of the Council for November 6, 2026.",
+   "closed": false,
+   "video_start": 2114.592,
+   "video_end": 2122.577,
+   "notes": [
+    "<p>(2026-119)</p>\n<p><strong>Carried</strong></p>"
+   ],
+   "attachments": [],
+   "motions": []
+  },
+  {
+   "id": "10",
+   "number": "7",
+   "title": "Adjournment",
+   "closed": false,
+   "video_start": 2156.093,
+   "video_end": 2170.436,
+   "notes": [
+    "<p>On motion the meeting adjourned at 1:55 p.m.</p>"
+   ],
+   "attachments": [],
+   "motions": []
+  }
+ ],
+ "motions": [
+  {
+   "id": "m1",
+   "item": "11",
+   "item_number": "4",
+   "item_title": "Notice of Motion - A. Owodunni",
+   "name": "",
+   "moved_by": "Owodunni",
+   "seconded_by": "Stretch",
+   "text": "\"That the 2026 Council and Committee Schedule be amended to reschedule the Inaugural Council Meeting for the 2026-2030 Term of Council from November 16, 2026, to November 23, 2026.\"",
+   "text_html": "<p>\"That the 2026 Council and Committee Schedule be amended to reschedule the Inaugural Council Meeting for the 2026-2030 Term of Council from November 16, 2026, to November 23, 2026.\"</p>",
+   "post_html": "",
+   "result": {
+    "text": "Carried",
+    "label": "Carried",
+    "for": null,
+    "against": null,
+    "outcome": "Carried",
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  },
+  {
+   "id": "m2",
+   "item": "9",
+   "item_number": "6.1",
+   "item_title": "Three Readings",
+   "name": "",
+   "moved_by": "Stretch",
+   "seconded_by": "Owodunni",
+   "text": "\"That the by-laws be given third reading, namely:",
+   "text_html": "<p>\"That the by-laws be given third reading, namely:</p>",
+   "post_html": "",
+   "result": {
+    "text": "",
+    "label": "",
+    "for": null,
+    "against": null,
+    "outcome": null,
+    "inferred": false
+   },
+   "votes": {
+    "for": [],
+    "against": [],
+    "other": []
+   },
+   "inherited": false,
+   "recording": "unrecorded"
+  }
+ ],
+ "conflicts": [],
+ "attendance_events": [],
+ "other_vote_labels": {},
+ "vote_problems": [],
+ "vote_notes": []
+}

@@ -1,0 +1,28 @@
+{
+ "title": "Special meeting to authorize closed sessions",
+ "subtitle": "Land acquisition and disposition matters and urgent legal advice on a procurement process were sent to closed session.",
+ "overview": [
+  "Council held a short special meeting on December 19, 2022. It lasted about two minutes and had no public reports or delegations. Its purpose was to authorize closed sessions to follow the meeting.",
+  "Council agreed to meet in closed session to consider two matters about land acquisition and disposition, as the Municipal Act allows {{vote:m1}}. To add an urgent item to the agenda, council waived the notice of motion requirement {{vote:m2}}. It then agreed to meet in closed session to receive legal advice on a procurement process, which falls under solicitor-client privilege {{vote:m3}}.",
+  "No decisions on these matters were made in public. Residents should watch for any later public report or announcement from the closed sessions. The minutes record no pecuniary interest disclosures, and the meeting adjourned at 5:20 p.m."
+ ],
+ "decisions": [
+  {
+   "motion": "m2",
+   "item": "Waive notice for urgent item",
+   "detail": "Council waived the notice of motion requirement so an urgent matter about legal advice on a procurement process could be added to the special meeting agenda {{vote:m2}}."
+  },
+  {
+   "motion": "m3",
+   "item": "Closed session on procurement legal advice",
+   "detail": "Council agreed to meet in closed session after the special meeting to receive legal advice on a procurement process, which is covered by solicitor-client privilege {{vote:m3}}."
+  }
+ ],
+ "debate": [
+  "The transcript shows no debate. Each motion was moved, seconded and put to a vote without discussion.",
+  "The mayor explained that the extra closed-session item needed notice to be waived first, which is why that motion was taken before the motion to go into closed session.",
+  "No delegates or members of the public spoke at the meeting."
+ ],
+ "model": "claude-sonnet-5-5",
+ "generated_at": "2026-11-17T23:36:24"
+}
