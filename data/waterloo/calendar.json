@@ -1693,7 +1693,9 @@
    "when": "November 16, 2026 6:30 pm",
    "name": "INAUGURAL MEETING",
    "href": "/meetings/Detail/2026-11-16-1830-INAUGURAL-MEETING",
-   "docs": {},
+   "docs": {
+    "Agenda": "/meetings/Detail/2026-11-16-1830-INAUGURAL-MEETING/07f357fc-aaa6-4c9e-bece-b50001513fd1"
+   },
    "calendar": "Council Calendar"
   },
   {
@@ -4779,7 +4781,28 @@
     "Agenda": "/meetings/Detail/2026-12-17-0830-Sustainability-Advisory-Committee-Meeting/e3747291-8328-47eb-8e75-b3d000ea7d1e"
    },
    "calendar": "Committee Calendar"
+  },
+  {
+   "when": "November 23, 2026 2:00 pm",
+   "name": "Special Council Meeting",
+   "href": "/meetings/Detail/2026-11-23-1400-Special-Council-Meeting",
+   "docs": {},
+   "calendar": "Council Calendar"
+  },
+  {
+   "when": "November 30, 2026 9:00 am",
+   "name": "Special Council Meeting",
+   "href": "/meetings/Detail/2026-11-30-0900-Special-Council-Meeting",
+   "docs": {},
+   "calendar": "Council Calendar"
+  },
+  {
+   "when": "January 11, 2027 2:00 pm",
+   "name": "Council Meeting",
+   "href": "/meetings/Detail/2027-01-11-1400-Council-Meeting",
+   "docs": {},
+   "calendar": "Council Calendar"
   }
  ],
- "checked_at": "2026-11-10T18:00:27"
+ "checked_at": "2026-11-17T19:56:57"
 }
